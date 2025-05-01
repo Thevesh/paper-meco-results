@@ -1,0 +1,72 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Negeri Sembilan,N.01 Kuala Klawang,Kuala Klawang,1,Lim Kim Kee,5575,PERIKATAN,3010
+Negeri Sembilan,N.01 Kuala Klawang,Kuala Klawang,2,Omar Bin Ahmad,5288,PAS,1191
+Negeri Sembilan,N.02 Pertang,Pertang,1,Aminuddin Bin Abdul Manaf,5577,BEBAS,1305
+Negeri Sembilan,N.02 Pertang,Pertang,2,Ibrahim Bin Haji Mansor,5578,PERIKATAN,1060
+Negeri Sembilan,N.02 Pertang,Pertang,2,Ahmad Bin Haji Yaacob,5579,PAS,288
+Negeri Sembilan,N.03 Bahau,Bahau,1,Thong Hiang Kim,5580,PERIKATAN,1529
+Negeri Sembilan,N.03 Bahau,Bahau,2,Chai Yau Foh,5581,SF,1282
+Negeri Sembilan,N.03 Bahau,Bahau,3,Harun Bin Yusof,416,PAS,247
+Negeri Sembilan,N.04 Rompin,Rompin,1,Lim Kee Sai,521,SF,1687
+Negeri Sembilan,N.04 Rompin,Rompin,2,Ho Hong Yeow,5584,PERIKATAN,1556
+Negeri Sembilan,N.04 Rompin,Rompin,3,Lee Khan Heng,5585,BEBAS,60
+Negeri Sembilan,N.05 Jempol,Jempol,1,Haji Mohamad Khatib Bin Mohamad Nor,5586,PERIKATAN,2578
+Negeri Sembilan,N.05 Jempol,Jempol,2,Mustapha Bin Mohamad,2333,PAS,633
+Negeri Sembilan,N.06 Sri Menanti,Sri Menanti,1,Abdul Samad Bin Idris,5588,PERIKATAN,2965
+Negeri Sembilan,N.06 Sri Menanti,Sri Menanti,2,Jallam Bin Othman,519,PAS,1228
+Negeri Sembilan,N.06 Sri Menanti,Sri Menanti,3,Raja Harun Bin Raja Tachik,5590,BEBAS,673
+Negeri Sembilan,N.07 Johol,Johol,1,Abu Kasim Bin Saad,5591,PERIKATAN,2392
+Negeri Sembilan,N.07 Johol,Johol,2,Gan Eng Kwee,5592,BEBAS,1227
+Negeri Sembilan,N.07 Johol,Johol,3,A. Ghani Bin A. Samad,5593,PAS,437
+Negeri Sembilan,N.08 Ulu Muar,Ulu Muar,1,Ariffin Bin Ali,5594,PERIKATAN,3518
+Negeri Sembilan,N.08 Ulu Muar,Ulu Muar,2,Abdul Aziz Bin Haji Mohd. Yunus,5595,PAS,1122
+Negeri Sembilan,N.09 Pilah,Pilah,1,Mohamed Idis Bin Matsil,5596,PERIKATAN,2328
+Negeri Sembilan,N.09 Pilah,Pilah,2,Kok Leong Yin,5597,BEBAS,1260
+Negeri Sembilan,N.09 Pilah,Pilah,3,Abd. Majid Bin Abd. Wahab,5314,PAS,699
+Negeri Sembilan,N.10 Jimah,Jimah,1,V. Letchumanan,5599,PERIKATAN,2171
+Negeri Sembilan,N.10 Jimah,Jimah,2,Bahari Bin Awal,5600,BEBAS,518
+Negeri Sembilan,N.11 Lukut,Lukut,1,Chin See Yin,228,PERIKATAN,760
+Negeri Sembilan,N.11 Lukut,Lukut,2,G. K. Kathiravalu,5602,SF,574
+Negeri Sembilan,N.12 Si Rusa,Si Rusa,1,Awaludin Bin Haji Ahmad,5603,PERIKATAN,2359
+Negeri Sembilan,N.12 Si Rusa,Si Rusa,2,Chew Toh Seng,5604,BEBAS,493
+Negeri Sembilan,N.12 Si Rusa,Si Rusa,3,Mohd. Salleh Bin Haji Ahmad,1391,PAS,467
+Negeri Sembilan,N.12 Si Rusa,Si Rusa,4,Haji Mohd. Tahir Bin Dato' Bandar Abd. Rahman,5606,NEG,128
+Negeri Sembilan,N.13 Pasir Panjang,Pasir Panjang,1,M. Muthucumaru,5607,PERIKATAN,1581
+Negeri Sembilan,N.13 Pasir Panjang,Pasir Panjang,2,Md. Nor Bin Abd. Hamid,229,BEBAS,785
+Negeri Sembilan,N.13 Pasir Panjang,Pasir Panjang,3,Cheah Yen Kwee,5609,BEBAS,511
+Negeri Sembilan,N.13 Pasir Panjang,Pasir Panjang,4,Mohd. Marzuki Bin Haji Din,5610,PAS,263
+Negeri Sembilan,N.14 Linggi,Linggi,1,Dr. Mohamed Said,5611,PERIKATAN,1193
+Negeri Sembilan,N.14 Linggi,Linggi,2,Teh Seng Sum,5612,BEBAS,638
+Negeri Sembilan,N.14 Linggi,Linggi,3,Tengku Syed Harun Bin Tungku,5613,NEG,300
+Negeri Sembilan,N.15 Terentang,Terentang,1,Siti Rahmah Binti Hj. Kassim,5614,PERIKATAN,1617
+Negeri Sembilan,N.15 Terentang,Terentang,2,Alias Bin Abd. Rahman,2347,NEG,1095
+Negeri Sembilan,N.15 Terentang,Terentang,3,Mohd. Noor Bin Haji Ahmad,5616,BEBAS,668
+Negeri Sembilan,N.15 Terentang,Terentang,4,Fatimah Binti Hj. Bahari,5617,PAS,205
+Negeri Sembilan,N.16 Kota,Kota,1,Mohd. Yusof Bin Abdullah,13930,PERIKATAN,2320
+Negeri Sembilan,N.16 Kota,Kota,2,Baba Bin Ludek,68,NEG,1915
+Negeri Sembilan,N.16 Kota,Kota,3,Noordin Bin Abdul Samad,66,PAS,140
+Negeri Sembilan,N.17 Tampin,Tampin,1,Md. Taha Bin Abd. Talib,5621,PERIKATAN,2830
+Negeri Sembilan,N.17 Tampin,Tampin,2,Chong Se Hock,5622,SF,873
+Negeri Sembilan,N.17 Tampin,Tampin,3,Abdul Manap Bin Hussin,5623,PAS,173
+Negeri Sembilan,N.18 Gemas,Gemas,1,Fong Yew Wong,5624,PERIKATAN,1742
+Negeri Sembilan,N.18 Gemas,Gemas,2,Tan Kim Geok,5625,SF,1202
+Negeri Sembilan,N.18 Gemas,Gemas,3,Deraji Bin Yassin,5626,PAS,284
+Negeri Sembilan,N.19 Lenggeng,Lenggeng,1,Abdul Jalil Bin Haji Aminudin,67,PERIKATAN,2494
+Negeri Sembilan,N.19 Lenggeng,Lenggeng,2,Mohd. Amin Bin Rashid,5628,SF,1112
+Negeri Sembilan,N.19 Lenggeng,Lenggeng,3,Ismail Bin Tamin,2597,PAS,842
+Negeri Sembilan,N.19 Lenggeng,Lenggeng,4,Joseph Siow Loong Hin,5630,BEBAS,34
+Negeri Sembilan,N.20 Labu,Labu,1,S. Sathappan,5631,SF,1888
+Negeri Sembilan,N.20 Labu,Labu,2,Mohd. Yusof Bin Lateh,5632,PERIKATAN,1014
+Negeri Sembilan,N.20 Labu,Labu,3,Othman Bin Md. Atas,5633,PAS,413
+Negeri Sembilan,N.20 Labu,Labu,4,Dato' Abdul Jalil Bin Haji Osman,5634,BEBAS,57
+Negeri Sembilan,N.21 Bukit Nanas,Bukit Nanas,1,Lee Tee Siong,5635,PERIKATAN,1902
+Negeri Sembilan,N.21 Bukit Nanas,Bukit Nanas,2,Kat Fye Hin,5636,SF,1796
+Negeri Sembilan,N.22 Rantau,Rantau,1,Gurnam Singh Gill,5637,SF,1682
+Negeri Sembilan,N.22 Rantau,Rantau,2,Shaikh Mohd. Hamid Bin H. M. Said,5638,PERIKATAN,1158
+Negeri Sembilan,N.22 Rantau,Rantau,3,Dato' Mohamed Hanifah Bin Haji Abdul Ghani,5639,PAS,1026
+Negeri Sembilan,N.23 Sungei Ujong,Sungei Ujong,1,Lim Kee Siong,69,PERIKATAN,1972
+Negeri Sembilan,N.23 Sungei Ujong,Sungei Ujong,2,Raja Abdul Razak Bin Raja Hamzah,5641,SF,1280
+Negeri Sembilan,N.23 Sungei Ujong,Sungei Ujong,3,Ong Ah Sai,5642,BEBAS,1270
+Negeri Sembilan,N.23 Sungei Ujong,Sungei Ujong,4,Razali Bin Abd. Khalid,5643,PAS,283
+Negeri Sembilan,N.24 Rahang,Rahang,1,Han Hiu Fong,5644,PERIKATAN,2263
+Negeri Sembilan,N.24 Rahang,Rahang,2,Robert Singam,227,SF,2137

@@ -1,0 +1,75 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Kedah,N.01 Ayer Hangat,Ayer Hangat,1,Ustaz Yusof Bin Ismail,16275,PAS,4794
+Kedah,N.01 Ayer Hangat,Ayer Hangat,2,Dato' Md Hasan Bin Bulat,16276,BN,7597
+Kedah,N.02 Kuah,Kuah,1,Hj Nawawi Bin Hj Ahmad,16277,BN,8065
+Kedah,N.02 Kuah,Kuah,2,Mazlan Bin Ahmad,16278,PAS,1890
+Kedah,N.03 Kota Siputeh,Kota Siputeh,1,Abu Hasan Bin Sarif,13826,BN,8614
+Kedah,N.03 Kota Siputeh,Kota Siputeh,2,Cikgu Abd Wahab,16280,PAS,7041
+Kedah,N.04 Ayer Hitam,Ayer Hitam,1,Othman Bin Aziz,3638,BN,10759
+Kedah,N.04 Ayer Hitam,Ayer Hitam,2,Ust Abd. Ghani Ahmad,15032,PAS,9899
+Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,1,Haji Mat Nanyan Bin Haji Saad,16283,PAS,5973
+Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,2,Adibah Ayob,16284,BN,12945
+Kedah,N.06 Jitra,Jitra,1,Dr. Rohani Binti Abd Muttalib,16285,PAS,7541
+Kedah,N.06 Jitra,Jitra,2,Prof. Emeritus Dato' Dr Hj Othman Bin Ishak,16286,BN,13297
+Kedah,N.07 Kuala Nerang,Kuala Nerang,1,Hj. Munir Bin Hj. Zakaria,16287,PAS,6436
+Kedah,N.07 Kuala Nerang,Kuala Nerang,2,Dato Dr Affifudin Bin Haji Omar,1977,BN,7746
+Kedah,N.08 Pedu,Pedu,1,Wan Jaafar Bin Wan Ahmad,15041,PAS,5785
+Kedah,N.08 Pedu,Pedu,2,Dato' Mahdzir Bin Khalid,16290,BN,7684
+Kedah,N.09 Bukit Lada,Bukit Lada,1,Ariffin Bin Man,16291,BN,10656
+Kedah,N.09 Bukit Lada,Bukit Lada,2,Sheikh Ismail Kamis,15043,PAS,7887
+Kedah,N.10 Bukit Pinang,Bukit Pinang,1,Hj Rashidi Haji Osman,16293,PAS,9636
+Kedah,N.10 Bukit Pinang,Bukit Pinang,2,Dato Hj Ahmad Lebai Sudin,16294,BN,8699
+Kedah,N.11 Derga,Derga,1,Rohani Binti Bakar,16295,PKR,4665
+Kedah,N.11 Derga,Derga,2,Cheung Khai Yan,13842,BN,10827
+Kedah,N.12 Bakar Bata,Bakar Bata,1,Ahmad Bashah Bin Md Hanipah,13848,BN,11091
+Kedah,N.12 Bakar Bata,Bakar Bata,2,Dr. Ismail Salleh,16298,PAS,5054
+Kedah,N.13 Kota Darul Aman,Kota Darul Aman,1,Chong Kau Chai @ Chong Itt Chew,15051,BN,9094
+Kedah,N.13 Kota Darul Aman,Kota Darul Aman,2,Yap Shui Fah,16300,PKR,1876
+Kedah,N.14 Alor Mengkudu,Alor Mengkudu,1,Ustaz Hj Fadzil Bin Hanafi,16301,BN,9095
+Kedah,N.14 Alor Mengkudu,Alor Mengkudu,2,Hj. Mohamad Sabu,2602,PAS,6268
+Kedah,N.15 Anak Bukit,Anak Bukit,1,Hj Abdul Muthalib Bin Harun,16303,BN,10144
+Kedah,N.15 Anak Bukit,Anak Bukit,2,Ir Hj Amiruddin Hj Hamzah,16304,PAS,10240
+Kedah,N.16 Kubang Rotan,Kubang Rotan,1,Hj Syed Razak Bin Hj Syed Zain,16305,BN,14468
+Kedah,N.16 Kubang Rotan,Kubang Rotan,2,Saifuddin Nasution,16306,PKR,6527
+Kedah,N.17 Pengkalan Kundor,Pengkalan Kundor,1,Mohd Jamil Bin Hj Md Idross,13853,BN,12584
+Kedah,N.17 Pengkalan Kundor,Pengkalan Kundor,2,Hj Phahrolrazi Zawawi,12756,PAS,9155
+Kedah,N.18 Tokai,Tokai,1,Shamsuddin Bin Tahir,16309,BN,10611
+Kedah,N.18 Tokai,Tokai,2,Haji Mohamed Taulan Rasul,15062,PAS,14790
+Kedah,N.19 Sungai Tiang,Sungai Tiang,1,Sobri Haji Awang,16311,PAS,9698
+Kedah,N.19 Sungai Tiang,Sungai Tiang,2,Suraya Binti Yaacob,4452,BN,13948
+Kedah,N.20 Sungai Limau,Sungai Limau,1,Dato Mohd Suhaimi Abdullah,16313,BN,9802
+Kedah,N.20 Sungai Limau,Sungai Limau,2,Ustaz Azizan Hj. Abd. Razak,16314,PAS,10882
+Kedah,N.21 Guar Chempedak,Guar Chempedak,1,Mohd Afif Bin Abdullah,16315,PAS,4983
+Kedah,N.21 Guar Chempedak,Guar Chempedak,2,Dato' Hj. Abd. Razak Bin Hashim,16316,BN,8949
+Kedah,N.22 Gurun,Gurun,1,Beh Heng Seong,9363,BN,10748
+Kedah,N.22 Gurun,Gurun,2,Tan Choy,16318,DAP,698
+Kedah,N.22 Gurun,Gurun,3,Kalai Vanar,16319,PKR,3677
+Kedah,N.23 Belantek,Belantek,1,Cikgu Salleh Ismail,16320,BN,7259
+Kedah,N.23 Belantek,Belantek,2,Ust. Mohd Isa Shafie,15070,PAS,7310
+Kedah,N.24 Jeneri,Jeneri,1,Penghulu Ismail Harun,16322,BN,8631
+Kedah,N.24 Jeneri,Jeneri,2,Cikgu Yahya Abdullah,15071,PAS,7991
+Kedah,N.25 Bukit Selambau,Bukit Selambau,1,Dato V Saravanan,15075,BN,14196
+Kedah,N.25 Bukit Selambau,Bukit Selambau,2,Mustafa Khalid Bin Hanafi,16325,PKR,6501
+Kedah,N.25 Bukit Selambau,Bukit Selambau,3,Gnanaguru A/L Ganisan,15085,DAP,2120
+Kedah,N.26 Tanjong Dawai,Tanjong Dawai,1,Arzmi Bin Hamid,16327,BN,13111
+Kedah,N.26 Tanjong Dawai,Tanjong Dawai,2,Dr Hamdan Mohamed Khalib,15073,PAS,7960
+Kedah,N.27 Pantai Merdeka,Pantai Merdeka,1,Ust. Shahabudin Hj. Jaafar,16329,PAS,9081
+Kedah,N.27 Pantai Merdeka,Pantai Merdeka,2,Dr Shuib Saedin,16330,BN,11742
+Kedah,N.28 Bakar Arang,Bakar Arang,1,Johari Bin Abdul,2611,PKR,5305
+Kedah,N.28 Bakar Arang,Bakar Arang,2,Soon Kok Wak,16332,BN,14204
+Kedah,N.29 Sidam,Sidam,1,Lim Soo Nee,16333,PKR,4153
+Kedah,N.29 Sidam,Sidam,2,Dato' Fong Chok Gin,15084,BN,10287
+Kedah,N.30 Bayu,Bayu,1,Mohd Salleh Bin Yaacob,426,BN,12354
+Kedah,N.30 Bayu,Bayu,2,Ustaz Taib Azamudden,16336,PAS,10568
+Kedah,N.31 Kupang,Kupang,1,Cikgu Ismail Bin Abu Bakar,16337,BN,10571
+Kedah,N.31 Kupang,Kupang,2,Ustaz Suhaimi Bin Ahmad,15088,PAS,9565
+Kedah,N.32 Kuala Ketil,Kuala Ketil,1,Dato Abd Aziz Sheikh Fadzir,16339,BN,9323
+Kedah,N.32 Kuala Ketil,Kuala Ketil,2,Cikgu Md. Zuki Bin Yusof,16340,PAS,8861
+Kedah,N.33 Merbau Pulas,Merbau Pulas,1,Ustazah Siti Ashah Binti Ghazali,16341,PAS,6410
+Kedah,N.33 Merbau Pulas,Merbau Pulas,2,Dato' Hj. Mohd. Hadzir Bin Hj. Ismail,16342,BN,13825
+Kedah,N.34 Lunas,Lunas,1,S. Ganesan,15558,BN,13218
+Kedah,N.34 Lunas,Lunas,2,Tian Chua,2789,PKR,8979
+Kedah,N.35 Kulim,Kulim,1,Tang Fuie Wah,16345,PKR,6132
+Kedah,N.35 Kulim,Kulim,2,Boey Chin Gan,3307,BN,13497
+Kedah,N.36 Bandar Baharu,Bandar Baharu,1,Ustaz Yaakub Bin Hussin,15101,PAS,6874
+Kedah,N.36 Bandar Baharu,Bandar Baharu,2,Datuk Azimi Daim,16348,BN,10752

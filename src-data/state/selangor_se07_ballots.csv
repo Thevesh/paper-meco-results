@@ -1,0 +1,106 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Selangor,N.01 Sungai Air Tawar,Sungai Air Tawar,1,Tasrip @ Hj. Shamsuddin Bin Hj. Abdul Rahman,12109,PAS,1282
+Selangor,N.01 Sungai Air Tawar,Sungai Air Tawar,2,Dato' Haji Zainal Bin Dahalan,12110,BN,4929
+Selangor,N.02 Sabak,Sabak,1,Ariffin Bin Ayob,516,PAS,1602
+Selangor,N.02 Sabak,Sabak,2,Mohd. Yusup Bin A. Latib,12112,BN,4740
+Selangor,N.03 Sungai Besar,Sungai Besar,1,Abu Samah Bin Nordin,12113,BN,5218
+Selangor,N.03 Sungai Besar,Sungai Besar,2,Ruslan Bin Haji Ahmad,11009,PAS,2030
+Selangor,N.04 Sungai Panjang,Sungai Panjang,1,Ariffin Bin Hj. Mat Rawi @ Hj Rawi,9914,BN,4936
+Selangor,N.04 Sungai Panjang,Sungai Panjang,2,Abdul Rahman Bin Awang,1494,PAS,1560
+Selangor,N.05 Sekincan,Sekincan,1,Sim Keng Seik,12117,BN,3963
+Selangor,N.05 Sekincan,Sekincan,2,Arbain Bin Hassan,12118,PAS,1485
+Selangor,N.05 Sekincan,Sekincan,3,Low Sek Moah,12119,DAP,1749
+Selangor,N.06 Sungai Burung,Sungai Burung,1,Jaafar @ Dollah Sukor @ Abdul Shukur Haji Shiraj Bin Haji Siraj @ Haji Sirat,12120,BN,4103
+Selangor,N.06 Sungai Burung,Sungai Burung,2,Shaari Bin Saet,11014,PAS,1897
+Selangor,N.07 Kelompang,Kelompang,1,Ramli Bin Abd. Rahman,11018,BN,8803
+Selangor,N.07 Kelompang,Kelompang,2,Muhammad Shaari Bin Muhammad Nor,12123,PAS,1246
+Selangor,N.08 Kuala Kubu Baharu,Kuala Kubu Baharu,1,Mohamed Arif Bin Dato' Haji Kamaruddin,1496,SDP,701
+Selangor,N.08 Kuala Kubu Baharu,Kuala Kubu Baharu,2,Wong Ah Taih,12125,BN,3962
+Selangor,N.08 Kuala Kubu Baharu,Kuala Kubu Baharu,3,Dr. Leow Hok Len,12126,DAP,3481
+Selangor,N.09 Batang Kali,Batang Kali,1,Muhammad Bin Muhammad Taib,11022,BN,0
+Selangor,N.10 Sungai Tinggi,Sungai Tinggi,1,Yusoff Bin Hassan,12128,BN,4965
+Selangor,N.10 Sungai Tinggi,Sungai Tinggi,2,Mohamed Jamil @ Jamil Bin Haji Nawawi,12129,PAS,1369
+Selangor,N.11 Permatang,Permatang,1,Mohamed Khalip Bin Ahmad @ Khalid Bin Hj. Ahmad,11024,BN,5674
+Selangor,N.11 Permatang,Permatang,2,Suarin Bin Ibrahim,12131,PAS,2098
+Selangor,N.12 Seri Cahaya,Seri Cahaya,1,Dato' M. Mahalingam A/L Muthukrishnen,2430,BN,5210
+Selangor,N.12 Seri Cahaya,Seri Cahaya,2,Dato' Raja Nasron Bin Raja Ishak,12133,NASMA,1986
+Selangor,N.12 Seri Cahaya,Seri Cahaya,3,Sinniah A/L Periannan,11026,DAP,1069
+Selangor,N.13 Jeram,Jeram,1,Miskam @ Miskon Bin Setera @ Sutero,11031,BN,7045
+Selangor,N.13 Jeram,Jeram,2,Kasmani Bin Kasan Variro,12136,PAS,1704
+Selangor,N.14 Sementa,Sementa,1,Hj. Mohd. Amin Bin Hj. Abd. Moin @ Hj. Abd. Muin,12137,BN,6610
+Selangor,N.14 Sementa,Sementa,2,Mohd. Yusof Bin Jasmin,2435,PAS,1900
+Selangor,N.15 Selat Klang,Selat Klang,1,Che Onn Bin Hj. Ismail,8822,BN,8851
+Selangor,N.15 Selat Klang,Selat Klang,2,Hj. Aziz Bin Hamzah,12140,PAS,3418
+Selangor,N.16 Rawang,Rawang,1,Tang See Hang,11034,BN,9446
+Selangor,N.16 Rawang,Rawang,2,Tai Sing Ng,12142,DAP,4668
+Selangor,N.16 Rawang,Rawang,3,Hasbolah Bin Mohd. Arif,12143,PAS,921
+Selangor,N.17 Gombak Setia,Gombak Setia,1,Kaharudin Bin Mo Min,12144,BN,10962
+Selangor,N.17 Gombak Setia,Gombak Setia,2,Ahmad Najih Bin Yusof,12145,PAS,1921
+Selangor,N.18 Paya Jaras,Paya Jaras,1,Syed Meer Wahid Bin Syed Ibrahim,12146,PAS,1938
+Selangor,N.18 Paya Jaras,Paya Jaras,2,Saidin Tamby,12147,BN,13992
+Selangor,N.18 Paya Jaras,Paya Jaras,3,Hong Chin Poh,2085,DAP,6805
+Selangor,N.19 Hulu Kelang,Hulu Kelang,1,Ibrahim B. Moksen,12149,PAS,2529
+Selangor,N.19 Hulu Kelang,Hulu Kelang,2,Rakibah Bt. Hj. Abd. Manap,12150,BN,10250
+Selangor,N.20 Keramat,Keramat,1,Yap Hon Chu @ Yap Hun Choo,12151,DAP,3335
+Selangor,N.20 Keramat,Keramat,2,Ajus Bin Jais,997,PAS,1166
+Selangor,N.20 Keramat,Keramat,3,Mufti Bin Suib,12153,BN,8175
+Selangor,N.21 Pandan,Pandan,1,Mohd. Fahmi Bin Ibrahim,11040,BN,0
+Selangor,N.22 Dusun Tua,Dusun Tua,1,Khairuddin Bin Suleiman,12155,NASMA,2979
+Selangor,N.22 Dusun Tua,Dusun Tua,2,Anas @ Amat Bin Sulaiman,11081,PAS,1138
+Selangor,N.22 Dusun Tua,Dusun Tua,3,Mohd. Azmir Bin Mohd. Nazir,8807,BN,7082
+Selangor,N.23 Semenyih,Semenyih,1,Abd. Kadir Bin Ismail,12158,PAS,788
+Selangor,N.23 Semenyih,Semenyih,2,Abdul Jalil Bin Mohd. Nazir,12159,BN,7340
+Selangor,N.23 Semenyih,Semenyih,3,Abdul Karim Bin Haji Busu,8813,DAP,4194
+Selangor,N.24 Kajang,Kajang,1,Maido Bin Ali,12161,PAS,540
+Selangor,N.24 Kajang,Kajang,2,B.N. Hari Krishnan A/L Narayanasamy,12162,BEBAS,121
+Selangor,N.24 Kajang,Kajang,3,Poy Seng @ Chong Poy Seng,12163,SDP,139
+Selangor,N.24 Kajang,Kajang,4,Chan Kok Kit @ Chan Kit,1245,DAP,7930
+Selangor,N.24 Kajang,Kajang,5,Woo Ah Hoi @ Chang Sze Hoi,12165,BN,6279
+Selangor,N.25 Damansara Utama,Damansara Utama,1,Madhavan Nair A/L Narayanan Nair,12166,DAP,10050
+Selangor,N.25 Damansara Utama,Damansara Utama,2,Chan Tse Yuen,2129,BN,8399
+Selangor,N.25 Damansara Utama,Damansara Utama,3,Wong Sai Hou,1795,SDP,1374
+Selangor,N.26 Taman Aman,Taman Aman,1,Lee Chu Kob,12169,BN,4176
+Selangor,N.26 Taman Aman,Taman Aman,2,Oon Hong Geok,12170,DAP,9944
+Selangor,N.26 Taman Aman,Taman Aman,3,Gan Lee Beng,12171,SDP,329
+Selangor,N.27 Kelana Jaya,Kelana Jaya,1,Megat Najmuddin Bin Haji Megat Khas,12172,BN,10402
+Selangor,N.27 Kelana Jaya,Kelana Jaya,2,Yap Kok Heng,12173,DAP,7141
+Selangor,N.27 Kelana Jaya,Kelana Jaya,3,Yusof Bin Hj. Abd. Ghani,12174,PAS,919
+Selangor,N.27 Kelana Jaya,Kelana Jaya,4,Ahmad Bin Nor,1820,SDP,800
+Selangor,N.27 Kelana Jaya,Kelana Jaya,5,Radhakrishnan S/O Kunnikrishna Pillai,12176,NASMA,170
+Selangor,N.28 Bukit Gasing,Bukit Gasing,1,Tan Sin Piau @ Tai Sim Piyu,11063,DAP,12255
+Selangor,N.28 Bukit Gasing,Bukit Gasing,2,Soong @ Soong Siew Hoong,11064,BN,7663
+Selangor,N.28 Bukit Gasing,Bukit Gasing,3,Au Keng Wah,667,SDP,327
+Selangor,N.29 Lindungan,Lindungan,1,Chia Kwai Loy,12180,DAP,5208
+Selangor,N.29 Lindungan,Lindungan,2,Supian Bin Md. Nordin,12181,PAS,951
+Selangor,N.29 Lindungan,Lindungan,3,Mazlan Bin Dato' Harun,12182,BN,9046
+Selangor,N.30 Serdang,Serdang,1,Yap Pian Hon,2429,BN,11367
+Selangor,N.30 Serdang,Serdang,2,Pan Su Peng @ Pan Soo Pin,1498,DAP,7184
+Selangor,N.31 Subang,Subang,1,Sumairi Bin Awab,9978,PAS,2535
+Selangor,N.31 Subang,Subang,2,Abu Sujak Bin Haji Mahmud,12186,BN,8918
+Selangor,N.32 Batu Tiga,Batu Tiga,1,Mustafar Bin Ab. Kadir,1801,PAS,2917
+Selangor,N.32 Batu Tiga,Batu Tiga,2,M. Zin Bin Suliman,11062,BN,10540
+Selangor,N.33 Shahbandar Raya,Shahbandar Raya,1,Mohd. Ismath Bin Habib Mohamad,11061,PAS,3846
+Selangor,N.33 Shahbandar Raya,Shahbandar Raya,2,Sanggilly @ Sellathevan A/L Muthusamy,12190,BN,11959
+Selangor,N.34 Klang Bandar,Klang Bandar,1,Goon Swee Fook,12191,BN,6942
+Selangor,N.34 Klang Bandar,Klang Bandar,2,Yeoh Lai Seng,12192,NASMA,927
+Selangor,N.34 Klang Bandar,Klang Bandar,3,Tan Seng Giaw @ Tan Chun Tin,1238,DAP,13223
+Selangor,N.34 Klang Bandar,Klang Bandar,4,Yeoh Poh San @ Yang Po San,1511,SDP,314
+Selangor,N.35 Teluk Gadung,Teluk Gadung,1,Tong Yoke Seng,12195,BN,7711
+Selangor,N.35 Teluk Gadung,Teluk Gadung,2,Chua Kaw @ Chua Kow Eng,12196,DAP,6770
+Selangor,N.36 Pandamaran,Pandamaran,1,Ng Boon Thong @ Ng Thian Hock,11053,BN,10197
+Selangor,N.36 Pandamaran,Pandamaran,2,Pakiyanathan A/L Anamaly,12198,DAP,5537
+Selangor,N.37 Panglima Garang,Panglima Garang,1,Eng Hoi Choo,12199,BN,6069
+Selangor,N.37 Panglima Garang,Panglima Garang,2,Khalil Bin Muhammad Saleh,12200,PAS,2278
+Selangor,N.37 Panglima Garang,Panglima Garang,3,Mohamed Khaidzer Bin Ibrahim,12201,BEBAS,1457
+Selangor,N.38 Morib,Morib,1,Abu Bakar Bin Abdul Hamid,11077,BN,7379
+Selangor,N.38 Morib,Morib,2,Mohd. Khaile Bin Tusiman,12203,NASMA,1544
+Selangor,N.39 Banting,Banting,1,Siti Fatimah Bt. Dullah Sukimi @ Fatimah Bt. Suhaimi,12204,BN,8258
+Selangor,N.39 Banting,Banting,2,Amat Bin Suliman,12205,PAS,2801
+Selangor,N.40 Dengkil,Dengkil,1,Maruthathurai @ Munusamy S/O Thangiah,12206,BN,6326
+Selangor,N.40 Dengkil,Dengkil,2,Abdul Halim Bin Mohd. Amin,12207,PAS,3074
+Selangor,N.41 Sungai Pelik,Sungai Pelik,1,Ng Ah Hock @ Ng Soon Pon,11084,BN,6540
+Selangor,N.41 Sungai Pelik,Sungai Pelik,2,Ean Yong Tin Sin,9613,DAP,2997
+Selangor,N.42 Batu Laut,Batu Laut,1,Paujan Bin Hj. Siraj,11087,PAS,488
+Selangor,N.42 Batu Laut,Batu Laut,2,Samiran @ Sairon Bin Haji Abdul Hamid,12211,BN,6993
+Selangor,N.42 Batu Laut,Batu Laut,3,Tai Siew Siong,1807,SDP,266
+Selangor,N.42 Batu Laut,Batu Laut,4,Abd. Jabar Bin Mohd. Yusof @ Jabar Bin Yusof,1515,NASMA,2009

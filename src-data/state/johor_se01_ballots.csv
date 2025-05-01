@@ -1,0 +1,84 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Johor,N.01 Endau,Endau,1,Haji Arifin Bin Haji Ismail,5216,BEBAS,325
+Johor,N.01 Endau,Endau,2,Mahmood Bin Mahadi,5217,NEG,861
+Johor,N.01 Endau,Endau,3,Ali Affendi Bin Ahmad,5218,PERIKATAN,3639
+Johor,N.02 Mersing,Mersing,1,Yusoff Bin Awang,5219,BEBAS,519
+Johor,N.02 Mersing,Mersing,2,Poh Swee Lim,5220,PERIKATAN,3675
+Johor,N.03 Kota Tinggi,Kota Tinggi,1,Ismail Bin Sa'Adon,5221,PERIKATAN,2212
+Johor,N.03 Kota Tinggi,Kota Tinggi,2,P. Subramaniam,985,SF,974
+Johor,N.03 Kota Tinggi,Kota Tinggi,3,Ma'On Bin Omar,5223,NEG,637
+Johor,N.04 Johore Lama,Johore Lama,1,Lee Yeak Khim,5224,PERIKATAN,2722
+Johor,N.04 Johore Lama,Johore Lama,2,Syed Abu Bakar Bin Ja'Afar,5225,NEG,1168
+Johor,N.05 Plentong,Plentong,1,Haji Mohamed Bin Haji,5226,NEG,1033
+Johor,N.05 Plentong,Plentong,2,Dato' Haji Mohd. Noah Bin Omar,132,PERIKATAN,4467
+Johor,N.06 Tanjong Petri,Tanjong Petri,1,Chu Choon Yong,5228,SF,2414
+Johor,N.06 Tanjong Petri,Tanjong Petri,2,Wan Mohamed Bin Ibrahim,113,NEG,1195
+Johor,N.06 Tanjong Petri,Tanjong Petri,3,Fatimah Binti Haji A. Majid,5230,BEBAS,2356
+Johor,N.07 Tampoi,Tampoi,1,Haji Rahmat Bin Haji Daud,564,PERIKATAN,4061
+Johor,N.07 Tampoi,Tampoi,2,Haji Daud Bin Haji Abdul Hamid,146,NEG,2033
+Johor,N.08 Gelang Patah,Gelang Patah,1,Sidi Bin Jas,5233,SF,1656
+Johor,N.08 Gelang Patah,Gelang Patah,2,Haji Annuar Bin Haji Abdul Malik,85,NEG,702
+Johor,N.08 Gelang Patah,Gelang Patah,3,Syed Mohamed Bin Edros,5235,PERIKATAN,2776
+Johor,N.09 Pontian Dalam,Pontian Dalam,1,Lebi Mohamed Bin Yacob,5236,PERIKATAN,3458
+Johor,N.09 Pontian Dalam,Pontian Dalam,2,Zahid Bin Abdul Karim,5237,SF,1864
+Johor,N.09 Pontian Dalam,Pontian Dalam,3,Haji Abdul Samad Bin Haji Mohamed Noor,286,NEG,793
+Johor,N.09 Pontian Dalam,Pontian Dalam,4,Ahmad Bin Haji Hassan,5239,PAS,288
+Johor,N.09 Pontian Dalam,Pontian Dalam,5,Haji Omar Bin Haji Abdullah,5240,BEBAS,898
+Johor,N.10 Benut,Benut,1,Ab. Latif Bin Othman,5241,PAS,1109
+Johor,N.10 Benut,Benut,2,Yeo Lin Thiam,5242,BEBAS,2530
+Johor,N.10 Benut,Benut,3,Bachok Alias Haji Hashim,5243,PERIKATAN,4778
+Johor,N.11 Rengit,Rengit,1,A. Jamil Bin Sulaiman,555,PAS,613
+Johor,N.11 Rengit,Rengit,2,Mohd. Don Bin Abdullah,1636,NEG,3189
+Johor,N.11 Rengit,Rengit,3,Hj. Taha Bin Hj. Zakaria,5246,PERIKATAN,4903
+Johor,N.12 Senai-Kulai,Senai-Kulai,1,Soh Kim Siam,5247,SF,2963
+Johor,N.12 Senai-Kulai,Senai-Kulai,2,Chan Chong Wen,140,PERIKATAN,2908
+Johor,N.13 Rengam,Rengam,1,Alwi Bin Haji Jawal,5249,NEG,795
+Johor,N.13 Rengam,Rengam,2,Haji Ismail Bin Hassan,5250,PERIKATAN,5266
+Johor,N.14 Gunong Lambak,Gunong Lambak,1,Lee Ah Leng,135,SF,2615
+Johor,N.14 Gunong Lambak,Gunong Lambak,2,Woo See Tiam,5252,PERIKATAN,2525
+Johor,N.15 Sri Lalang,Sri Lalang,1,Cheong Soo Kheng,5253,PERIKATAN,2595
+Johor,N.15 Sri Lalang,Sri Lalang,2,Mohd. Zain Bin Mohamed,5254,SF,2345
+Johor,N.16 Bandar Sri Penggaram,Bandar Sri Penggaram,1,Wook Bin Ibrahim,5255,NEG,1233
+Johor,N.16 Bandar Sri Penggaram,Bandar Sri Penggaram,2,Tan Peng Khoon,5256,PERIKATAN,4470
+Johor,N.17 Pontian Kechil,Pontian Kechil,1,Abdullah Bin Mohsin,5257,PERIKATAN,0
+Johor,N.18 Broleh,Broleh,1,Abdul Wahid Bin Suleiman,5258,PERIKATAN,5384
+Johor,N.18 Broleh,Broleh,2,Hj. Ahmad Bin H. Mohd. Paiman,5259,NEG,1998
+Johor,N.18 Broleh,Broleh,3,Abd. Manap Bin Jamhari,5260,SF,2242
+Johor,N.19 Ayer Hitam,Ayer Hitam,1,Haji Hassan Bin Haji Noor,5261,NEG,2041
+Johor,N.19 Ayer Hitam,Ayer Hitam,2,Noddin Bin Haji Hashim,5262,PERIKATAN,6005
+Johor,N.19 Ayer Hitam,Ayer Hitam,3,Hashim Bin Irrakal,5263,PAS,316
+Johor,N.20 Tanjong Sembrong,Tanjong Sembrong,1,Haji Mohamed Noor Bin Juma'At,5264,PERIKATAN,5739
+Johor,N.20 Tanjong Sembrong,Tanjong Sembrong,2,Haji Abdul Hamid Bin Haji Abdul Karim,5265,NEG,2009
+Johor,N.20 Tanjong Sembrong,Tanjong Sembrong,3,Jalailani Bin Haji Abdullah,5266,PAS,588
+Johor,N.21 Simpang Kiri,Simpang Kiri,1,Tan Chin Cheong,5267,PERIKATAN,6370
+Johor,N.21 Simpang Kiri,Simpang Kiri,2,Haji Mahfoz Bin Haji Ali,5268,NEG,3040
+Johor,N.22 Parit Jawa,Parit Jawa,1,Twahir Bin Demangnatir,5269,PAS,1532
+Johor,N.22 Parit Jawa,Parit Jawa,2,Suleiman Bin Ninam Shah,5270,PERIKATAN,8552
+Johor,N.23 Parit Bakar,Parit Bakar,1,Ali Bin Salleh,5271,PAS,291
+Johor,N.23 Parit Bakar,Parit Bakar,2,Kosai Bin Haji Mohd. Salleh,5272,PERIKATAN,4874
+Johor,N.23 Parit Bakar,Parit Bakar,3,Mohamed Bin Junid,5273,NEG,1904
+Johor,N.24 Bandar Maharani,Bandar Maharani,1,Abd. Ghani Bin Hasim,5274,SF,1812
+Johor,N.24 Bandar Maharani,Bandar Maharani,2,Chua Song Lim,5275,PERIKATAN,6410
+Johor,N.24 Bandar Maharani,Bandar Maharani,3,Nasir Bin Haji Bakar,5276,NEG,1348
+Johor,N.25 Serom,Serom,1,Hj. Abdul Latiff Bin Omar,5277,PERIKATAN,7280
+Johor,N.25 Serom,Serom,2,Nasir Bin Abdullah,155,NEG,1697
+Johor,N.25 Serom,Serom,3,A. Razak Bin Ibrahim,5279,PAS,400
+Johor,N.26 Tangkak,Tangkak,1,Ahmad Bin Arshad,154,BEBAS,258
+Johor,N.26 Tangkak,Tangkak,2,Puteh Bin Idros,5281,NEG,669
+Johor,N.26 Tangkak,Tangkak,3,Lai Kuen Tee,5282,PERIKATAN,6067
+Johor,N.27 Jorak,Jorak,1,Haji Othman Bin Haji Mohd. Saat,5283,PERIKATAN,6396
+Johor,N.27 Jorak,Jorak,2,Haji Othman Bin Haji Azhari,5284,NEG,1742
+Johor,N.27 Jorak,Jorak,3,Turus Bin Daing Melebeh,5285,PAS,334
+Johor,N.28 Bukit Serampang,Bukit Serampang,1,Haji Hassan Bin Haji Yunos,90,PERIKATAN,5429
+Johor,N.28 Bukit Serampang,Bukit Serampang,2,Haji Abdul Rahman Bin Mahmood,5287,BEBAS,743
+Johor,N.28 Bukit Serampang,Bukit Serampang,3,Omar Bin Ahmad,5288,NEG,897
+Johor,N.29 Bandar Segamat,Bandar Segamat,1,Tan Boon Cheong,5289,SF,1526
+Johor,N.29 Bandar Segamat,Bandar Segamat,2,Haji Hatta Bin Haji Mohamed,5290,PERIKATAN,2586
+Johor,N.29 Bandar Segamat,Bandar Segamat,3,Lim Meng See (Henry),5291,BEBAS,1914
+Johor,N.30 Batu Anam,Batu Anam,1,M. P. Kumaran,5292,PERIKATAN,5217
+Johor,N.30 Batu Anam,Batu Anam,2,Idris Bin Abu,5293,NEG,502
+Johor,N.30 Batu Anam,Batu Anam,3,Abdul Majid Bin Jaffar,5294,BEBAS,414
+Johor,N.31 Bekok,Bekok,1,Chia Chin Koon,5295,PERIKATAN,2985
+Johor,N.31 Bekok,Bekok,2,Phang Voon Liat,5296,BEBAS,3154
+Johor,N.32 Labis,Labis,1,Elias Bin Abu Bakar,5297,PERIKATAN,4112
+Johor,N.32 Labis,Labis,2,Abdul Wahab Bin Mohd. Yassin,5298,NEG,802

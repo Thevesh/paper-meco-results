@@ -1,0 +1,71 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Johor,N.01 Buloh Kasap,Buloh Kasap,1,M. K. Muthusamy,9245,BN,7665
+Johor,N.01 Buloh Kasap,Buloh Kasap,2,Goh Seng Teck,9246,BEBAS,2448
+Johor,N.01 Buloh Kasap,Buloh Kasap,3,Zakaria Bin Taib,9247,PAS,694
+Johor,N.02 Ayer Panas,Ayer Panas,1,Dato' Teo Ah Khiang,9248,BN,8645
+Johor,N.02 Ayer Panas,Ayer Panas,2,Tan Koon Aik,9249,BEBAS,2595
+Johor,N.02 Ayer Panas,Ayer Panas,3,Jamal Bin Ahmad,1266,PAS,478
+Johor,N.03 Bandar Segamat,Bandar Segamat,1,Dato' Tan Peng Khoon,9251,BN,10874
+Johor,N.03 Bandar Segamat,Bandar Segamat,2,Goh Tuan Huee,9252,DAP,5577
+Johor,N.04 Bukit Serampang,Bukit Serampang,1,Haji Talib Bin Ali,7222,BN,9290
+Johor,N.04 Bukit Serampang,Bukit Serampang,2,Haji Daud Bin Jabah,9254,PAS,1372
+Johor,N.05 Bekok,Bekok,1,Ng Nam Seng,8116,BN,6504
+Johor,N.05 Bekok,Bekok,2,Tan Kim Yuan,9256,DAP,4623
+Johor,N.05 Bekok,Bekok,3,Abu Bakar Bin Kathom,1269,PAS,224
+Johor,N.06 Bandar Keluang,Bandar Keluang,1,Lee Kaw,708,DAP,12255
+Johor,N.06 Bandar Keluang,Bandar Keluang,2,Yau Kim Suan,9259,BN,8518
+Johor,N.06 Bandar Keluang,Bandar Keluang,3,Mohamed Abdol Bin Tulos,9260,PAS,409
+Johor,N.07 Endau,Endau,1,Abd. Rahman Bin Sabri,8119,BN,5445
+Johor,N.07 Endau,Endau,2,Ibrahim Bin Abdullah,7244,PAS,1377
+Johor,N.08 Mersing,Mersing,1,Lim Ik Kim,9263,BN,5203
+Johor,N.08 Mersing,Mersing,2,Dennis Leong Teng Hoo,9264,BEBAS,1193
+Johor,N.08 Mersing,Mersing,3,Mokhtar Bin Haji Yahaya,1554,PAS,682
+Johor,N.08 Mersing,Mersing,4,Tan Tien Lim,1271,DAP,657
+Johor,N.09 Tangkak,Tangkak,1,Lau Kheng Lay,9267,BN,7202
+Johor,N.09 Tangkak,Tangkak,2,Chong Kee Kim,9268,DAP,3174
+Johor,N.09 Tangkak,Tangkak,3,Samingan Bin Rabikun,7189,PAS,398
+Johor,N.10 Serom,Serom,1,Dato' Haji Ngah Bin H.A. Rahman,9270,BN,8430
+Johor,N.10 Serom,Serom,2,Lee Tiong Kang,9271,DAP,2283
+Johor,N.10 Serom,Serom,3,Abdul Rahman Bin Abu,9272,PAS,227
+Johor,N.11 Jorak,Jorak,1,Dato' Haji Abdul Rahman Bin Mahmud,9273,BN,8983
+Johor,N.11 Jorak,Jorak,2,Abdul Hamid Bin Daud,118,PAS,881
+Johor,N.12 Kesang,Kesang,1,Tan Sri Dato' Haji Othman Bin Haji Mohd. Saat,9275,BN,8270
+Johor,N.12 Kesang,Kesang,2,Taib Bin Haji Kassim,9276,PAS,1243
+Johor,N.13 Sri Lalang,Sri Lalang,1,Sim Geok Peak,9277,BN,0
+Johor,N.14 Sri Medan,Sri Medan,1,Kamisan Bin Haji Asahari,8129,BN,10048
+Johor,N.14 Sri Medan,Sri Medan,2,Napiah Bin Simul,9279,PAS,1131
+Johor,N.15 Bandar Maharani,Bandar Maharani,1,Musa Bin Haji Ismail,9280,BN,13137
+Johor,N.15 Bandar Maharani,Bandar Maharani,2,Ho Chan Mee,1278,DAP,9042
+Johor,N.15 Bandar Maharani,Bandar Maharani,3,Mohd. Sarif Bin Rosmin,9282,PAS,1477
+Johor,N.16 Parit Jawa,Parit Jawa,1,Haji Shahadan Bin Sabtu,9283,BN,0
+Johor,N.17 Layang-Layang,Layang–Layang,1,Low Boon Hong,8118,BN,11861
+Johor,N.17 Layang-Layang,Layang–Layang,2,Chin Kim Chong,9285,DAP,4907
+Johor,N.18 Kulai,Kulai,1,Lau Tong,7232,BN,9575
+Johor,N.18 Kulai,Kulai,2,Quek Swee Siang,9287,DAP,7668
+Johor,N.19 Kota Tinggi,Kota Tinggi,1,Hasnah Binti Ahmad,6375,BN,9820
+Johor,N.19 Kota Tinggi,Kota Tinggi,2,Mahmood Bin Haji Mahdi,9289,PAS,1519
+Johor,N.20 Johor Lama,Johor Lama,1,Semaon @ Ma'On Bin Omar,9290,BN,11277
+Johor,N.20 Johor Lama,Johor Lama,2,Husein Bin Ismail,9291,BEBAS,1199
+Johor,N.20 Johor Lama,Johor Lama,3,Syed Yahya Bin Ibrahim,9292,PAS,982
+Johor,N.21 Parit Raja,Parit Raja,1,Md. Sharif Bin Lasim,9293,BN,10281
+Johor,N.21 Parit Raja,Parit Raja,2,Haji Abdullah Bin Abu Bakar,2089,PAS,1189
+Johor,N.22 Simpang Renggam,Simpang Renggam,1,Dato' Syed Zain Shahab,9295,BN,8744
+Johor,N.22 Simpang Renggam,Simpang Renggam,2,Masdoki Bin Ral,9296,PAS,1481
+Johor,N.23 Sri Menanti,Sri Menanti,1,Datin Zaharah Binti Abd. Majid,7198,BN,6810
+Johor,N.23 Sri Menanti,Sri Menanti,2,Mr Daud,9298,PAS,1388
+Johor,N.24 Peserai,Peserai,1,Haji Redzuan Bin Haji Salim,8143,BN,12663
+Johor,N.24 Peserai,Peserai,2,Wong Ah Chew,8144,DAP,4027
+Johor,N.24 Peserai,Peserai,3,Haji Mohamed Bin Haji Kassim,9301,PAS,971
+Johor,N.25 Bandar Penggaram,Bandar Penggaram,1,Lim Tong Keng,9302,BN,0
+Johor,N.26 Rengit,Rengit,1,Ahmad Bin Paiman,8149,BN,8670
+Johor,N.26 Rengit,Rengit,2,Mohamed Bin Haji Anuar,9304,PAS,1835
+Johor,N.27 Benut,Benut,1,Haji Jalok Bin Daing Malibok,7220,BN,0
+Johor,N.28 Kukup,Kukup,1,Dato' Haji Abdullah Bin Haji Sudin,9306,BN,15568
+Johor,N.28 Kukup,Kukup,2,Abu Bakar Bin Baharudin,9307,PAS,1487
+Johor,N.29 Gelang Patah,Gelang Patah,1,Mohd. Yunus Bin Sulaiman,8153,BN,12605
+Johor,N.29 Gelang Patah,Gelang Patah,2,Abd. Hamid Bin Abd. Rahim,1287,PAS,1798
+Johor,N.30 Skudai,Skudai,1,Ali Bin Othman,9310,BN,0
+Johor,N.31 Tiram,Tiram,1,Jaafar Bin Hamzah,1031,BN,16327
+Johor,N.31 Tiram,Tiram,2,Ahmad Bin Kintan,9312,PAS,2672
+Johor,N.32 Tanjong Petri,Tanjong Petri,1,Law Lei Heng,8134,BN,22316
+Johor,N.32 Tanjong Petri,Tanjong Petri,2,Chan Yiek Nung,9314,DAP,10391

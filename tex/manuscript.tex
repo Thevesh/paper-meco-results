@@ -1,0 +1,161 @@
+\documentclass[11pt]{article}
+\usepackage[toc,page]{appendix}
+\RequirePackage{fix-cm}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5in]{geometry}
+\usepackage[bottom, flushmargin]{footmisc}
+\setlength{\footnotesep}{\baselineskip} % space between footnotes 
+\setlength{\parindent}{0in} % space at start of paragraph
+\setlength{\parskip}{0.14in} % space between paragraphs
+\linespread{1.25}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{0.21in}{0.03in}
+\titlespacing\subsection{0pt}{0.21in}{0.01in}
+\titlespacing\subsubsection{0pt}{0.21in}{0in}
+\usepackage{marginnote}
+\newcommand{\marnum}[1]{\reversemarginpar \marginnote{#1}[0.14in]}
+
+% bibliography-related packages
+\usepackage[superscript]{cite}
+\bibliographystyle{unsrt}
+
+% lists
+\usepackage{enumitem} 
+\newcommand{\bulletlabel}{\raisebox{0.2ex}{\small$\bullet$}}
+\newlist{enumbul}{enumerate}{6}
+\setlist[enumbul]{label=\bulletlabel, topsep=0pt, leftmargin=0.3in, rightmargin=0.3in}
+\newlist{enumar}{enumerate}{6}
+\setlist[enumar]{label=\arabic*$)$,topsep=0pt, leftmargin=0.3in, rightmargin=0.3in}
+
+% packages vital for various things
+\usepackage{hyperref}
+\usepackage{comment} % commenting out a large chunk
+\usepackage{enumitem} % lists
+\usepackage{graphicx,nicefrac} % graphics, especially external ones
+\graphicspath{ {dataviz/} }
+\usepackage{amsmath} % writing math
+\usepackage{amssymb} % writing symbols
+\usepackage{amsthm}
+\usepackage{bm}
+\usepackage{float}
+\usepackage{mathtools}
+\usepackage{bigints}
+
+% colors
+\usepackage{tcolorbox}
+\usepackage{color} % colors
+\usepackage{xcolor, colortbl} % more control over colors
+\newcommand{\red}[1]{\color{red}#1\color{black}}
+\newcommand{\green}[1]{\color{green!80!black}#1\color{black}}
+\newcommand{\blue}[1]{\color{blue}#1\color{black}}
+\newcommand{\gray}[1]{\color{gray!80!black}#1\color{black}}
+\newcommand{\black}[1]{\color{black}#1\color{black}}
+
+\hypersetup{
+	colorlinks,
+	linkcolor=black, %internal links
+	urlcolor=cyan,  % URLs
+	citecolor= red, % references
+	breaklinks=true
+}
+
+% for use in tables
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{booktabs}
+\newcommand\bstrut{\rule{0pt}{2.5ex}} % space before row
+\newcommand\astrut{\rule[-1.25ex]{0pt}{0pt}} % space after row
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+%miscellaneous
+\newcommand{\ansm}[1]{\text{\framebox{\ensuremath{#1}}}}
+\newcommand{\anst}[1]{\text{\framebox{#1}}}
+\newcommand{\ie}[1][]{\textit{i.e.\ }#1}
+\newcommand{\eg}[1][]{\textit{e.g.\ }#1}
+\newcommand\pspace {\\[0.07in]}
+\newcommand\ppspace {\\[0.14in]}
+\newcommand{\logsep}{\begin{center}---------------\end{center}}
+
+\def\highlight#1#2{
+	\begin{centering}
+		
+		\vspace{1.2ex}
+		\begin{minipage}{0.8\linewidth}
+			\begin{tcolorbox}[boxsep = 3.3pt, boxrule=0.4pt, colback = white, colbacktitle=white, coltitle = black, colframe= black, title=\centering \textbf{#1}]
+				\centering
+				#2
+			\end{tcolorbox}
+		\end{minipage}
+		\vspace{1.2ex}
+		
+	\end{centering}
+}
+
+\begin{document}
+\pagenumbering{gobble}
+
+\phantom{Thevesh}
+
+\vfill
+
+\begin{center}
+	\begin{minipage}{0.88\linewidth}
+		\begin{center}
+			\LARGE
+			The Malaysian Election Corpus: Federal and State Election Results from 1955 to the Present\\[0.21in]
+			\Large
+			Thevesh Thevananthan\\[0.15in]  % ← Author name inserted here
+		\end{center}
+		\large 
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	\end{minipage}
+\end{center}
+
+\vfill
+
+\phantom{Word Count:}
+
+\newpage
+\pagenumbering{arabic}
+
+
+\section*{Background \& Summary}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex\cite{ge00report} ea commodo consequat.
+
+\section*{Methods}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\section*{Data Records}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\section*{Technical Validation}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\section*{Usage Notes}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+\section*{Code Availability}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+\newpage
+
+% this section generates reference
+\begingroup
+\raggedright
+\let\oldthebibliography\thebibliography
+\bibliography{mybib}
+\endgroup
+\section*{Author Contributions}
+TT conceived, designed, and carried out all aspects of this study, including data collection, data curation, analysis, and manuscript preparation.
+
+\section*{Competing Interests}
+The author declares no competing interests. The author is not affiliated with any political party, or any private or non-governmental organization that has a vested interest in the outcome of Malaysian elections.
+
+\section*{Acknowledgements}
+This work did not receive any specific funding. We thank Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback on the dataset and manuscript. We also gratefully acknowledge Nimesha Thevananthan for their assistance with data collection, as well as Danesh Prakash Chacko of Tindak Malaysia for providing valuable insights and assisting with filling gaps in the data, particularly for Sabah in 1971. Finally, we thank the Election Commission (EC) of Malaysia for granting access to well-maintained physical records of historical election results stored in the library at its headquarters.
+
+\end{document}

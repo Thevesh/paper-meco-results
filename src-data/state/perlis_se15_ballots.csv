@@ -1,0 +1,65 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Khaw Hock Kong,19815,WARISAN,81
+Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Teh Seng Chuan,19816,PH,1512
+Perlis,N.01 Titi Tinggi,Titi Tinggi,3,Izizam Bin Ibrahim (Adi),22881,PN,5601
+Perlis,N.01 Titi Tinggi,Titi Tinggi,4,Zahidi Bin Zainul Abidin,3630,BEBAS,425
+Perlis,N.01 Titi Tinggi,Titi Tinggi,5,Shahril (Caen),22883,PEJUANG,152
+Perlis,N.01 Titi Tinggi,Titi Tinggi,6,Teh Chai Aan,21387,BN,1816
+Perlis,N.02 Beseri,Beseri,1,Cikgu Mat Safar,22885,PH,1684
+Perlis,N.02 Beseri,Beseri,2,Haziq Asyraf Dun,22886,PN,4040
+Perlis,N.02 Beseri,Beseri,3,Ruzaini Bin Rais,21390,BN,2993
+Perlis,N.02 Beseri,Beseri,4,Shamim Nordin,22888,WARISAN,96
+Perlis,N.03 Chuping,Chuping,1,Natthavuth Seng,22889,PH,1602
+Perlis,N.03 Chuping,Chuping,2,Hj Saad Bin Seman,22890,PN,5873
+Perlis,N.03 Chuping,Chuping,3,Asmaiza Binti Ahmad,19820,BN,3453
+Perlis,N.04 Mata Ayer,Mata Ayer,1,Wan Badariah Binti Wan Saad,22892,PN,4419
+Perlis,N.04 Mata Ayer,Mata Ayer,2,Amran Bin Kamarudin,22893,PH,794
+Perlis,N.04 Mata Ayer,Mata Ayer,3,Siti Berenee,22894,BN,2398
+Perlis,N.05 Santan,Santan,1,Cikgu Mazlina,22895,PH,1030
+Perlis,N.05 Santan,Santan,2,Ustaz Azmir,22896,PN,4752
+Perlis,N.05 Santan,Santan,3,Azizan Sulaiman,22897,BN,2644
+Perlis,N.06 Bintong,Bintong,1,Shazwan Bin Suban,22898,PEJUANG,157
+Perlis,N.06 Bintong,Bintong,2,Azlan Man,22899,BN,2996
+Perlis,N.06 Bintong,Bintong,3,Cikgu Azhari,20496,PH,2029
+Perlis,N.06 Bintong,Bintong,4,Datuk Hashim Suboh,22901,BEBAS,157
+Perlis,N.06 Bintong,Bintong,5,Mohamad Khair Bin Mohd Noor,4141,WARISAN,57
+Perlis,N.06 Bintong,Bintong,6,Fakhrul Anwar Bin Ismail,22903,PN,7325
+Perlis,N.07 Sena,Sena,1,Saiful Daniel Mohd Yusof,22904,BN,2619
+Perlis,N.07 Sena,Sena,2,Asrul Nizan Hj Abd Jalil,22905,PH,3356
+Perlis,N.07 Sena,Sena,3,Marzita Binti Mansor,22906,PN,5556
+Perlis,N.07 Sena,Sena,4,Mohd Faizal Bin Yunus,22907,PEJUANG,222
+Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Gan Ay Ling,21407,PH,4830
+Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Lim Weng Khee,22909,BN,1882
+Perlis,N.08 Indera Kayangan,Indera Kayangan,3,Pramoot A/L Puan,22910,PN,2957
+Perlis,N.08 Indera Kayangan,Indera Kayangan,4,Atan Bin Jasin,3809,WARISAN,736
+Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Azahar Bin Ahmad,22912,BEBAS,2197
+Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Abu Bakar Bin Hamzah,316,PN,3207
+Perlis,N.09 Kuala Perlis,Kuala Perlis,3,Muhamad Hairi Bin Noordin,22914,WARISAN,68
+Perlis,N.09 Kuala Perlis,Kuala Perlis,4,Kamarudin Bin Malek,22915,BN,2145
+Perlis,N.09 Kuala Perlis,Kuala Perlis,5,Azam Karap,21411,PH,3053
+Perlis,N.10 Kayang,Kayang,1,Ustaz Asrul Aimran,22917,PN,6178
+Perlis,N.10 Kayang,Kayang,2,Hamizan Bin Hassan,21413,BN,2917
+Perlis,N.10 Kayang,Kayang,3,Wan Kharizal,18204,PH,1400
+Perlis,N.10 Kayang,Kayang,4,Khairuddin Bin Abdullah,14011,WARISAN,101
+Perlis,N.11 Pauh,Pauh,1,Cikgu Megat Hashirat,22921,PN,4924
+Perlis,N.11 Pauh,Pauh,2,Azhar Bin Ameir,19841,PH,2369
+Perlis,N.11 Pauh,Pauh,3,Syed Atif,22923,BN,2695
+Perlis,N.11 Pauh,Pauh,4,Mohd Khalid Ahmad,22924,WARISAN,1157
+Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Zikri,22925,PN,5456
+Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Ismail Bin Kasim (Chu),3285,BN,2971
+Perlis,N.12 Tambun Tulang,Tambun Tulang,3,Syahmi Suhaimi,22927,PH,1554
+Perlis,N.12 Tambun Tulang,Tambun Tulang,4,Maton Bin Din,21420,PEJUANG,182
+Perlis,N.13 Guar Sanji,Guar Sanji,1,Hasparizal Bin Hassan,22929,PH,601
+Perlis,N.13 Guar Sanji,Guar Sanji,2,Ustaz Ridzuan Bin Hashim,20026,PN,6717
+Perlis,N.13 Guar Sanji,Guar Sanji,3,Abdul Malik Bin Abdullah,10057,PEJUANG,119
+Perlis,N.13 Guar Sanji,Guar Sanji,4,Rozieana Binti Ahmad,21418,BN,1616
+Perlis,N.14 Simpang Empat,Simpang Empat,1,Nurulhisham,22933,BN,1380
+Perlis,N.14 Simpang Empat,Simpang Empat,2,Amran Bin Darus,22934,PH,1111
+Perlis,N.14 Simpang Empat,Simpang Empat,3,Izhar Sudin,22935,PEJUANG,73
+Perlis,N.14 Simpang Empat,Simpang Empat,4,Dr. Hakim Saad,22936,WARISAN,35
+Perlis,N.14 Simpang Empat,Simpang Empat,5,Haji Razali Saad,22937,PN,5388
+Perlis,N.14 Simpang Empat,Simpang Empat,6,Ammar Bin Hassan,9725,BEBAS,128
+Perlis,N.15 Sanglang,Sanglang,1,Zainudin Bin Yom,3634,WARISAN,408
+Perlis,N.15 Sanglang,Sanglang,2,Dr. Ahmad Fadhzil Mohamad,22940,PH,931
+Perlis,N.15 Sanglang,Sanglang,3,Budin,22941,BN,1776
+Perlis,N.15 Sanglang,Sanglang,4,Cikgu Shukri,19848,PN,5111

@@ -1,0 +1,159 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Johor,N.01 Buloh Kasap,Buloh Kasap,1,Zahari Sarip,20328,BN,9186
+Johor,N.01 Buloh Kasap,Buloh Kasap,2,Norsamsu Mohd Yusof,20329,PKR,8309
+Johor,N.02 Jementah,Jementah,1,Chiam Yok Meng,20330,BN,9335
+Johor,N.02 Jementah,Jementah,2,Tan Chen Choon,16187,PKR,16336
+Johor,N.02 Jementah,Jementah,3,Khairul Faizi Bin Ahmad Kamil,4255,PAS,1986
+Johor,N.03 Pemanis,Pemanis,1,Cikgu Mala,19024,PAS,2151
+Johor,N.03 Pemanis,Pemanis,2,Dr Chong,20334,PKR,8304
+Johor,N.03 Pemanis,Pemanis,3,Koo Shiaw Lee,20335,BN,7941
+Johor,N.04 Kemelah,Kemelah,1,Dr Sulaiman Mohd Nor,20336,PKR,10836
+Johor,N.04 Kemelah,Kemelah,2,Anuar Bin Abd. Manap,3849,BN,8481
+Johor,N.05 Tenang,Tenang,1,Solihan Badri,20338,PKR,7645
+Johor,N.05 Tenang,Tenang,2,Mohd Azahar Bin Ibrahim,19027,BN,6575
+Johor,N.05 Tenang,Tenang,3,Ustaz Nasharudin Bin Awang,20340,PAS,794
+Johor,N.06 Bekok,Bekok,1,Dr S.Ramakrishnan,20341,PKR,9983
+Johor,N.06 Bekok,Bekok,2,Tan Chong,19029,BN,7514
+Johor,N.07 Bukit Kepong,Bukit Kepong,1,Dr Sahruddin Bin Jamal,20343,PKR,11665
+Johor,N.07 Bukit Kepong,Bukit Kepong,2,Hj Mohd Noor Bin Taib,20344,BN,10392
+Johor,N.07 Bukit Kepong,Bukit Kepong,3,Iqbal Razak,20345,PAS,1761
+Johor,N.08 Bukit Pasir,Bukit Pasir,1,Kapt (B) Hj Najib Bin Lep,20346,PAS,9835
+Johor,N.08 Bukit Pasir,Bukit Pasir,2,Noriah Binti Mahat,20347,BN,7952
+Johor,N.09 Gambir,Gambir,1,Datuk M. Asojan,20348,BN,7192
+Johor,N.09 Gambir,Gambir,2,Tan Sri Muhyiddin Yassin,20349,PKR,10280
+Johor,N.09 Gambir,Gambir,3,Dato Dr Mahfodz Bin Mohamed,19038,PAS,1806
+Johor,N.10 Tangkak,Tangkak,1,Ee Chin Li,19040,PKR,13512
+Johor,N.10 Tangkak,Tangkak,2,Goh Tee Tee,17519,BN,8435
+Johor,N.11 Serom,Serom,1,Abdull Rahim Bin Talib,7416,BN,9450
+Johor,N.11 Serom,Serom,2,Dr Faizul Amri Adnan,20354,PKR,11774
+Johor,N.11 Serom,Serom,3,Mustaffa Bin Salleh,20355,PAS,2708
+Johor,N.12 Bentayan,Bentayan,1,Ng Yak Howe,20356,PKR,18278
+Johor,N.12 Bentayan,Bentayan,2,Lee Kim Heng,20357,BN,4649
+Johor,N.13 Simpang Jeram,Simpang Jeram,1,Ahmad Hashim,4052,BEBAS,28
+Johor,N.13 Simpang Jeram,Simpang Jeram,2,Dr. Mohd Mazri Bin Yahya,4291,PAS,2136
+Johor,N.13 Simpang Jeram,Simpang Jeram,3,Salahuddin Ayub,2958,PKR,14640
+Johor,N.13 Simpang Jeram,Simpang Jeram,4,Mohd Radzi Bin Amin,20361,BN,6953
+Johor,N.14 Bukit Naning,Bukit Naning,1,Hassan Bin Johari,20362,BN,5728
+Johor,N.14 Bukit Naning,Bukit Naning,2,Azman Bin Ibrahim,20363,PAS,1677
+Johor,N.14 Bukit Naning,Bukit Naning,3,Jeganathan A/L Subramaniam,20364,BEBAS,364
+Johor,N.14 Bukit Naning,Bukit Naning,4,Md Ysahrudin Bin Kusni,19054,PKR,7280
+Johor,N.15 Maharani,Maharani,1,Nor Hayati Bachok,20366,PKR,12405
+Johor,N.15 Maharani,Maharani,2,Dr Mohammad Taslim,20367,PAS,3869
+Johor,N.15 Maharani,Maharani,3,Dato' Ashari Md.Sarip,20368,BN,6731
+Johor,N.16 Sungai Balang,Sungai Balang,1,Na'Im Bin Jusri,20369,PKR,7848
+Johor,N.16 Sungai Balang,Sungai Balang,2,Cikgu Hj Cheman Bin Yusoh,20370,PAS,3146
+Johor,N.16 Sungai Balang,Sungai Balang,3,Zaiton Binti Ismail,19053,BN,8022
+Johor,N.17 Semerah,Semerah,1,Ustaz Wan,20372,PAS,4314
+Johor,N.17 Semerah,Semerah,2,Mohd Ismail Bin Roslan,19055,BN,12521
+Johor,N.17 Semerah,Semerah,3,Khuzzan Abu Bakar,20374,PKR,12619
+Johor,N.18 Sri Medan,Sri Medan,1,Zulkurnain Bin Kamisan,20375,BN,11587
+Johor,N.18 Sri Medan,Sri Medan,2,Mohd Ajib Bin Omar,20376,PKR,5547
+Johor,N.18 Sri Medan,Sri Medan,3,Sallehudin Bin Ab. Rasid,20377,PAS,3238
+Johor,N.19 Yong Peng,Yong Peng,1,Muhammad Bin Abdullah,1776,PAS,1243
+Johor,N.19 Yong Peng,Yong Peng,2,Chew Peck Choo,2801,PKR,12307
+Johor,N.19 Yong Peng,Yong Peng,3,Ling Tian Soon (Ah Soon),20380,BN,7218
+Johor,N.20 Semarang,Semarang,1,Datuk Hj. Samsolbari,20381,BN,10751
+Johor,N.20 Semarang,Semarang,2,Zais Bin Mohd Akil,20382,PKR,4909
+Johor,N.20 Semarang,Semarang,3,Haji Mohd Bakri Samian,20383,PAS,2423
+Johor,N.21 Parit Yaani,Parit Yaani,1,Soh Lip Yan,20384,BN,7475
+Johor,N.21 Parit Yaani,Parit Yaani,2,Cikgu Haji Nasir,20385,PAS,2943
+Johor,N.21 Parit Yaani,Parit Yaani,3,Cikgu Aminolhuda,19062,PKR,12309
+Johor,N.22 Parit Raja,Parit Raja,1,Cikgu Abdul Hadi Bin Harun,20387,PAS,3106
+Johor,N.22 Parit Raja,Parit Raja,2,Ferdaus Bin Kayau,20388,PKR,8911
+Johor,N.22 Parit Raja,Parit Raja,3,Rashidah Ramli,20389,BN,9549
+Johor,N.23 Penggaram,Penggaram,1,Gan Peck Cheng,2189,PKR,26825
+Johor,N.23 Penggaram,Penggaram,2,Kang Beng Kuan,20391,BN,9620
+Johor,N.23 Penggaram,Penggaram,3,Misran Bin Samian,20392,PAS,5185
+Johor,N.24 Senggarang,Senggarang,1,Khairuddin Bin A Rahim,14973,PKR,10568
+Johor,N.24 Senggarang,Senggarang,2,Dr Mohd Ramli,20394,PAS,2699
+Johor,N.24 Senggarang,Senggarang,3,Zaidi Bin Japar,20395,BN,9759
+Johor,N.25 Rengit,Rengit,1,Malik  Faishal Bin Ahmad,20396,PKR,5470
+Johor,N.25 Rengit,Rengit,2,Ayub Jamil,20397,BN,9642
+Johor,N.25 Rengit,Rengit,3,Mohd.Tumiran Bin Ahmad,20398,PAS,2313
+Johor,N.26 Machap,Machap,1,Abd Taib Bin Abu Bakar,19072,BN,9375
+Johor,N.26 Machap,Machap,2,Haji Ahmad Bin Ahem,20400,PKR,8971
+Johor,N.26 Machap,Machap,3,Ustaz Haji Azlisham,20401,PAS,1630
+Johor,N.27 Layang-Layang,Layang-Layang,1,Hj Jubri,20402,PAS,1339
+Johor,N.27 Layang-Layang,Layang-Layang,2,Onn Hafiz Bin Ghazi,20403,BN,7449
+Johor,N.27 Layang-Layang,Layang-Layang,3,Cikgu Murugan,19088,PKR,7085
+Johor,N.28 Mengkibol,Mengkibol,1,Chin Sim Lai,20405,BN,10333
+Johor,N.28 Mengkibol,Mengkibol,2,Chew Chong Sin,15221,PKR,29559
+Johor,N.29 Mahkota,Mahkota,1,Datuk Hj. Md Jais Sarday,20407,BN,17839
+Johor,N.29 Mahkota,Mahkota,2,Muhamad Said Jonit,20408,PKR,19507
+Johor,N.29 Mahkota,Mahkota,3,Hasbullah Najib,4277,PAS,3092
+Johor,N.30 Paloh,Paloh,1,Teoh Yap Kun,19082,BN,8175
+Johor,N.30 Paloh,Paloh,2,Shamugam A/L Munisamy,20411,BEBAS,61
+Johor,N.30 Paloh,Paloh,3,Sheikh Omar Ali,20412,PKR,8958
+Johor,N.31 Kahang,Kahang,1,Noorlihan Binti Ariffin,20413,PKR,7907
+Johor,N.31 Kahang,Kahang,2,R. Vidyananthan,17560,BN,10768
+Johor,N.32 Endau,Endau,1,Alwiyah Talib,20415,BN,7136
+Johor,N.32 Endau,Endau,2,Cikgu Roslan,19318,PAS,3689
+Johor,N.32 Endau,Endau,3,Norul Haszarul Bin Abu Samah,20417,PKR,4056
+Johor,N.33 Tenggaroh,Tenggaroh,1,Rahamizon Binti Abdul Ghani,20418,PKR,6544
+Johor,N.33 Tenggaroh,Tenggaroh,2,Raven Kumar Krishnasamy,20419,BN,12309
+Johor,N.33 Tenggaroh,Tenggaroh,3,A. Rahman Bin A. Hamid,4281,PAS,3543
+Johor,N.34 Panti,Panti,1,Lt. Kolonel (B) Nazari,20421,PAS,2071
+Johor,N.34 Panti,Panti,2,Intan Jawahir,20422,PKR,7985
+Johor,N.34 Panti,Panti,3,Hahasrin Bin Hashim,20423,BN,11409
+Johor,N.35 Pasir Raja,Pasir Raja,1,Bahrin Bin Alias,20424,PAS,1351
+Johor,N.35 Pasir Raja,Pasir Raja,2,Abrary Ramly,20425,PKR,6208
+Johor,N.35 Pasir Raja,Pasir Raja,3,Rashidah Binti Ismail,20426,BN,8055
+Johor,N.36 Sedili,Sedili,1,Abd Razak Bin Esa,15006,PKR,4239
+Johor,N.36 Sedili,Sedili,2,Rasman Bin Ithnain,17570,BN,13407
+Johor,N.37 Johor Lama,Johor Lama,1,Hj Rosleli Bin Jahari,20429,BN,12532
+Johor,N.37 Johor Lama,Johor Lama,2,Nor Ashidah Binti Ibrahim,19020,PKR,6725
+Johor,N.37 Johor Lama,Johor Lama,3,Siti Zaharah Othman,20431,PAS,1433
+Johor,N.38 Penawar,Penawar,1,Ahmad Kamah Bin Nor,20432,PKR,5196
+Johor,N.38 Penawar,Penawar,2,Dato' Sharifah Azizah Alshahab,20433,BN,12330
+Johor,N.39 Tanjung Surat,Tanjung Surat,1,Zamil Najwah Bin Arbain,20434,PKR,5092
+Johor,N.39 Tanjung Surat,Tanjung Surat,2,Dato' Syed Sis Bin A Rahman,19100,BN,9614
+Johor,N.40 Tiram,Tiram,1,Azman Bin Atmin,20436,PAS,5366
+Johor,N.40 Tiram,Tiram,2,S Gopalakrishnan,20437,PKR,26573
+Johor,N.40 Tiram,Tiram,3,Datuk Maulizan Bujang,20438,BN,18475
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,1,Abd Aziz Bin Tohak,20439,BN,12586
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,2,Hj Mazlan Bin Bujang,20440,PKR,37545
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,3,Lim Yak Hong,20441,BEBAS,544
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,4,Ustaz Abdullah Husin,4981,PAS,2654
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,5,Ting Choon Chai,20443,BEBAS,116
+Johor,N.42 Johor Jaya,Johor Jaya,1,Kumutha A/P Rahman,19103,PAS,2605
+Johor,N.42 Johor Jaya,Johor Jaya,2,Liow Cai Tung,19109,PKR,32342
+Johor,N.42 Johor Jaya,Johor Jaya,3,Tan Cher Puk,16246,BN,16777
+Johor,N.43 Permas,Permas,1,Rohani Binti Yaacob,20447,BEBAS,113
+Johor,N.43 Permas,Permas,2,Ab. Aziz Bin Abdullah,578,PAS,4181
+Johor,N.43 Permas,Permas,3,Mohamed Khaled Nordin,2187,BN,20047
+Johor,N.43 Permas,Permas,4,Che Zakaria Bin Mohd Salleh,5014,PKR,28793
+Johor,N.44 Larkin,Larkin,1,Datuk Yahya Ja'Afar,20451,BN,16422
+Johor,N.44 Larkin,Larkin,2,Mohd Izhar Bin Ahmad,20452,PKR,25012
+Johor,N.44 Larkin,Larkin,3,Zakiah Binti Tukirin,20453,PAS,3233
+Johor,N.45 Stulang,Stulang,1,Andrew Chen Kah Eng,19114,PKR,24002
+Johor,N.45 Stulang,Stulang,2,Ang Boon Heng,20455,BN,11532
+Johor,N.46 Perling,Perling,1,Cheo Yee How,19116,PKR,32592
+Johor,N.46 Perling,Perling,2,Wong You Fong,19135,BN,13059
+Johor,N.46 Perling,Perling,3,Ust. Muhamad Nazrin Bin Ihsan,20458,PAS,5890
+Johor,N.47 Kempas,Kempas,1,Osman Bin Sapian,16255,PKR,21137
+Johor,N.47 Kempas,Kempas,2,Datuk Ramlee Bin Bohani,20460,BN,11959
+Johor,N.47 Kempas,Kempas,3,Dzulkifli Bin Suleiman,20461,PAS,2321
+Johor,N.48 Skudai,Skudai,1,Tan Hong Pin,4978,PKR,47359
+Johor,N.48 Skudai,Skudai,2,S Kanan,20463,BN,12233
+Johor,N.49 Kota Iskandar,Kota Iskandar,1,Dzulkefly Ahmad,3424,PKR,33455
+Johor,N.49 Kota Iskandar,Kota Iskandar,2,Hj Sallehuddin Bin Mohd Dahiran,20465,PAS,4966
+Johor,N.49 Kota Iskandar,Kota Iskandar,3,Mohd Khairi Bin A Malik,20466,BN,18912
+Johor,N.50 Bukit Permai,Bukit Permai,1,Tosrin Bin Jarvanthi,11539,PKR,10998
+Johor,N.50 Bukit Permai,Bukit Permai,2,Abd Aziz Bin Ja'Afar,20468,PAS,1392
+Johor,N.50 Bukit Permai,Bukit Permai,3,Ali Mazat Bin Salleh,19124,BN,8467
+Johor,N.51 Bukit Batu,Bukit Batu,1,Ustaz Juwahir Bin Amin,20470,PAS,1888
+Johor,N.51 Bukit Batu,Bukit Batu,2,Jimmy Puah Wee Tse,5015,PKR,17105
+Johor,N.51 Bukit Batu,Bukit Batu,3,Teo Lee Ho,20472,BN,7048
+Johor,N.52 Senai,Senai,1,Tee Boon Tsong,20473,PKR,28274
+Johor,N.52 Senai,Senai,2,Shen Poh Kuan,20474,BN,9372
+Johor,N.53 Benut,Benut,1,Datuk Ir.Hasni Bin Mohammad,17605,BN,9480
+Johor,N.53 Benut,Benut,2,Mohd Firdaus Bin Jaffar,3298,PAS,2590
+Johor,N.53 Benut,Benut,3,Zulkifly Bin Tasrep,20477,PKR,5033
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,1,Datuk Tee Siew Kiong,17607,BN,11112
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,2,Taqiuddin Cheman,20479,PKR,14507
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,3,Dr Baharom Mohamad,4296,PAS,2975
+Johor,N.55 Pekan Nanas,Pekan Nanas,1,Tan Eng Meng,20481,BN,10548
+Johor,N.55 Pekan Nanas,Pekan Nanas,2,Yeo Tung Siong,19136,PKR,11856
+Johor,N.56 Kukup,Kukup,1,Dr Karim Bin Deraman,20483,PAS,1040
+Johor,N.56 Kukup,Kukup,2,Suhaizan Kayat,3160,PKR,10251
+Johor,N.56 Kukup,Kukup,3,"Datuk Md Othman Yusof ""Tok Moy""",20485,BN,11113

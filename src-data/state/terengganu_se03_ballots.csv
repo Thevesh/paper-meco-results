@@ -1,0 +1,52 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Terengganu,N.01 Kuala Besut,Kuala Besut,1,Mohamad Bin Said,4041,PAS,2826
+Terengganu,N.01 Kuala Besut,Kuala Besut,2,Zakaria Bin Muda,7007,PERIKATAN,2569
+Terengganu,N.02 Kampong Raja,Kampong Raja,1,W. Ishak Bin Ali,5932,PERIKATAN,2284
+Terengganu,N.02 Kampong Raja,Kampong Raja,2,Mohd. Daud Bin Abdul Samad,410,PAS,1918
+Terengganu,N.03 Ulu Besut,Ulu Besut,1,Jabir Bin Mohd. Shah,7804,PERIKATAN,2862
+Terengganu,N.03 Ulu Besut,Ulu Besut,2,Lukman Bin Abdul Kadir,874,PAS,2747
+Terengganu,N.04 Besut Tengah,Besut Tengah,1,Dollah Bin Jusoh,7806,PERIKATAN,2991
+Terengganu,N.04 Besut Tengah,Besut Tengah,2,Husin Bin Othman,7016,PAS,2280
+Terengganu,N.05 Setiu,Setiu,1,Ab. Ghani Bin Mohd. Amin,6553,PERIKATAN,2988
+Terengganu,N.05 Setiu,Setiu,2,Abd. Latif Bin Mohamad,1706,PAS,2639
+Terengganu,N.06 Batu Rakit,Batu Rakit,1,Dato' Mansor Bin Mohd.,7810,PERIKATAN,3293
+Terengganu,N.06 Batu Rakit,Batu Rakit,2,Hashim Bin Yusof,7811,PAS,2439
+Terengganu,N.07 Kuala Nerus,Kuala Nerus,1,Ibrahim Fikri Bin Mohamad,122,PERIKATAN,2804
+Terengganu,N.07 Kuala Nerus,Kuala Nerus,2,Awang Bin Abu Bakar,7813,PAS,2480
+Terengganu,N.08 Jeram,Jeram,1,Hashim Bin Embong,7814,PAS,2465
+Terengganu,N.08 Jeram,Jeram,2,Abdul Rashid Bin Muhammad,7029,PERIKATAN,2416
+Terengganu,N.09 Langkap,Langkap,1,Abdul Rahaman Bin Long,5957,PERIKATAN,2651
+Terengganu,N.09 Langkap,Langkap,2,Ismail Bin Abbas,5958,PAS,2434
+Terengganu,N.10 Bandar,Bandar,1,Toh Seng Chong,7818,PERIKATAN,2111
+Terengganu,N.10 Bandar,Bandar,2,Saja Udin Bin Maaruff,7819,PAS,1322
+Terengganu,N.10 Bandar,Bandar,3,Tan Teng Beng,7820,PR,876
+Terengganu,N.11 Ladang,Ladang,1,Wan Mohamed Bin Wan Ngah,7821,PAS,2635
+Terengganu,N.11 Ladang,Ladang,2,Abdullah Bin Abd. Rahman,7822,PERIKATAN,2238
+Terengganu,N.12 Bukit Besar,Bukit Besar,1,Mohd. Ghazali Bin Haji Ahmad,1139,PAS,2868
+Terengganu,N.12 Bukit Besar,Bukit Besar,2,Syed Omar Bin Chik,7824,PERIKATAN,1810
+Terengganu,N.13 Batu Burok,Batu Burok,1,Mat Yasin Bin Daud @ Ustaz Ismail Bin Mohd. Daud,7825,PAS,3321
+Terengganu,N.13 Batu Burok,Batu Burok,2,Haji Abdul Muttalib Bin Haji Salleh,5963,PERIKATAN,2399
+Terengganu,N.14 Marang,Marang,1,Kasim Bin Ahmad,573,PAS,3775
+Terengganu,N.14 Marang,Marang,2,Abdullah Bin Haji Mohamed,5387,PERIKATAN,2700
+Terengganu,N.15 Sura,Sura,1,Ibrahim Bin Mat Noh,127,PAS,2068
+Terengganu,N.15 Sura,Sura,2,Wan Din Bin Embong,5995,PERIKATAN,1986
+Terengganu,N.16 Ulu Dungun,Ulu Dungun,1,Omar Shukri Bin Embong,5999,PAS,4013
+Terengganu,N.16 Ulu Dungun,Ulu Dungun,2,Mohammed Yassin Bin Abdul Malek,7832,PERIKATAN,3040
+Terengganu,N.17 Paka Kerteh,Paka Kerteh,1,Sulong Bin Mahmood,6003,PERIKATAN,2883
+Terengganu,N.17 Paka Kerteh,Paka Kerteh,2,Abdullah Bin Mohamad,4050,PAS,2333
+Terengganu,N.18 Kemaman Utara,Kemaman Utara,1,C. W. Abdul Ghani Bin Zainal,7835,PERIKATAN,1817
+Terengganu,N.18 Kemaman Utara,Kemaman Utara,2,Haji Ghani Bin Abu Bakar,7836,PAS,1426
+Terengganu,N.19 Chukai,Chukai,1,Teh Binti Hassan,7837,PERIKATAN,1867
+Terengganu,N.19 Chukai,Chukai,2,Mohd. Shaffi Bin H. G. Ahmad,7838,PAS,1440
+Terengganu,N.19 Chukai,Chukai,3,Ismail Bin Yusoff,5940,BEBAS,139
+Terengganu,N.20 Kemaman Selatan,Kemaman Selatan,1,Wan Yahya Bin Haji Wan Mohd,126,PAS,3134
+Terengganu,N.20 Kemaman Selatan,Kemaman Selatan,2,Wan Adnan Bin Ismail,7841,PERIKATAN,2344
+Terengganu,N.21 Kuala Trengganu Tengah,Kuala Trengganu Tengah,1,Mohamed @ Harun Bin Jusoh,1715,PAS,3311
+Terengganu,N.21 Kuala Trengganu Tengah,Kuala Trengganu Tengah,2,Engku Wok Abdul Rahman Bin Abdul Kadir,7067,PERIKATAN,2769
+Terengganu,N.22 Binjai,Binjai,1,Haji Mohamed Taib Bin Haji Ismail,415,PAS,3551
+Terengganu,N.22 Binjai,Binjai,2,Sharifah Azzah Apple Binti Syed Shith,7845,PERIKATAN,3043
+Terengganu,N.23 Ulu Trengganu Timor,Ulu Trengganu Timor,1,Abdul Rahman Bin Kassim,5983,PERIKATAN,2491
+Terengganu,N.23 Ulu Trengganu Timor,Ulu Trengganu Timor,2,Abu Bakar Bin Ismail,7847,PAS,2106
+Terengganu,N.23 Ulu Trengganu Timor,Ulu Trengganu Timor,3,Abdullah Bin Ahmad,5835,BEBAS,621
+Terengganu,N.24 Ulu Trengganu Barat,Ulu Trengganu Barat,1,Mahmood Bin Sulaiman,7080,PERIKATAN,3139
+Terengganu,N.24 Ulu Trengganu Barat,Ulu Trengganu Barat,2,Omar Bin Abd. Rahman,8758,PAS,2088

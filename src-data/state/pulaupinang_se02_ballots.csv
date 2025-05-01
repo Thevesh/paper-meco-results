@@ -1,0 +1,79 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Pulau Pinang,N.01 Butterworth,Butterworth,1,M. P. Mathew,427,PDB,575
+Pulau Pinang,N.01 Butterworth,Butterworth,2,M. Vasuthavan,6715,SF,3178
+Pulau Pinang,N.01 Butterworth,Butterworth,3,Williams David,6716,PERIKATAN,4258
+Pulau Pinang,N.02 Bagan Ajam,Bagan Ajam,1,Yahya Bin Abdul Rahman,6717,PAS,756
+Pulau Pinang,N.02 Bagan Ajam,Bagan Ajam,2,Ooi Thiam Siew,5,SF,3631
+Pulau Pinang,N.02 Bagan Ajam,Bagan Ajam,3,Ooi Kooi Lim,6719,PDB,203
+Pulau Pinang,N.02 Bagan Ajam,Bagan Ajam,4,Phee Joo Teik,5649,PERIKATAN,4741
+Pulau Pinang,N.03 Permatang Pauh,Permatang Pauh,1,Paharuddin Bin Ibrahim,889,SF,2282
+Pulau Pinang,N.03 Permatang Pauh,Permatang Pauh,2,Ariffin Bin Shariff,5659,PERIKATAN,6724
+Pulau Pinang,N.03 Permatang Pauh,Permatang Pauh,3,Syed Haji Abdullah Bin Syed Haji Muhamed,6723,PDB,993
+Pulau Pinang,N.04 Bukit Mertajam,Bukit Mertajam,1,Ooh Chooi Cheng,428,PDB,2458
+Pulau Pinang,N.04 Bukit Mertajam,Bukit Mertajam,2,Tan Chong Boo,6725,SF,2917
+Pulau Pinang,N.04 Bukit Mertajam,Bukit Mertajam,3,Wong Pow Nee,5662,PERIKATAN,3967
+Pulau Pinang,N.05 Alma,Alma,1,Harun Bin Sirat,6727,PDB,1273
+Pulau Pinang,N.05 Alma,Alma,2,Haji Sulaiman Bin Haji Ahmad,14,PERIKATAN,5224
+Pulau Pinang,N.05 Alma,Alma,3,Lee Chong Soon,6729,SF,2461
+Pulau Pinang,N.06 Sungei Bakap,Sungei Bakap,1,Shahadat Bin Hussian,6730,SF,3583
+Pulau Pinang,N.06 Sungei Bakap,Sungei Bakap,2,Kee Yong Chin,5666,PERIKATAN,6303
+Pulau Pinang,N.07 Nibong Tebal,Nibong Tebal,1,Seow Hun Boo,6732,SF,3044
+Pulau Pinang,N.07 Nibong Tebal,Nibong Tebal,2,Haji Sahid Bin Hassan,5669,PERIKATAN,4322
+Pulau Pinang,N.08 Kelawei,Kelawei,1,Triptipal Singh,6734,SF,1324
+Pulau Pinang,N.08 Kelawei,Kelawei,2,Lim Kean Chie,6735,PDB,1497
+Pulau Pinang,N.08 Kelawei,Kelawei,3,Tan Khim Hoe,5694,PERIKATAN,2658
+Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,1,Khoo Yat See,254,PKR,670
+Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,2,M. S. A. Zachariah,5682,PERIKATAN,4179
+Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,3,Cheah Cheng Keat,6739,PDB,1773
+Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,4,Arshad Yusoff,6740,SF,2113
+Pulau Pinang,N.10 Tanjong Bungah,Tanjong Bungah,1,Othman Bin Salleh,6741,SF,3197
+Pulau Pinang,N.10 Tanjong Bungah,Tanjong Bungah,2,Mohd. Said Bin Salleh,6742,PDB,844
+Pulau Pinang,N.10 Tanjong Bungah,Tanjong Bungah,3,Cheah Seng Khim,5699,PERIKATAN,5669
+Pulau Pinang,N.11 Ayer Itam,Ayer Itam,1,Lim Kean Siew,258,SF,3358
+Pulau Pinang,N.11 Ayer Itam,Ayer Itam,2,Toh Boon Kooi,432,PDB,1202
+Pulau Pinang,N.11 Ayer Itam,Ayer Itam,3,Chor Sin Kheng,5703,PERIKATAN,3485
+Pulau Pinang,N.12 Jelutong,Jelutong,1,Chang Lai Sum,6747,PDB,2552
+Pulau Pinang,N.12 Jelutong,Jelutong,2,Khaw Kok Chwee,6748,PERIKATAN,3159
+Pulau Pinang,N.12 Jelutong,Jelutong,3,Tan Hock Hin,6749,SF,4999
+Pulau Pinang,N.13 Glugor,Glugor,1,Chan Chee Voon,6750,PDB,658
+Pulau Pinang,N.13 Glugor,Glugor,2,Tan Phock Kin,256,SF,3345
+Pulau Pinang,N.13 Glugor,Glugor,2,Aziz Ibrahim,5709,PERIKATAN,4487
+Pulau Pinang,N.14 Balik Pulau,Balik Pulau,1,Mohamed Dalal Bin Haji Suboh,6753,PDB,416
+Pulau Pinang,N.14 Balik Pulau,Balik Pulau,2,Abubakar Hashim,6754,SF,2353
+Pulau Pinang,N.14 Balik Pulau,Balik Pulau,3,Haji Ahmad Md. Taib,6755,PERIKATAN,3149
+Pulau Pinang,N.15 Bayan Lepas,Bayan Lepas,1,Ismail Hashim,6756,PERIKATAN,5064
+Pulau Pinang,N.15 Bayan Lepas,Bayan Lepas,2,Hussain Bin Drani,1157,PAS,491
+Pulau Pinang,N.15 Bayan Lepas,Bayan Lepas,3,Ismail Bin Ibrahim,6758,PDB,961
+Pulau Pinang,N.15 Bayan Lepas,Bayan Lepas,4,Chew Tatt Cheng @ Chew Tai Seng,6759,SF,1861
+Pulau Pinang,N.16 Kota,Kota,1,Dr. Lim Chong Eu,435,PDB,4065
+Pulau Pinang,N.16 Kota,Kota,2,Lim Ewe Hock,6761,PETIR,165
+Pulau Pinang,N.16 Kota,Kota,3,Liang Juen Chew,6762,PERIKATAN,1962
+Pulau Pinang,N.16 Kota,Kota,4,Tan Puah Kim,6763,SF,2937
+Pulau Pinang,N.17 Tanjong Tengah,Tanjong Tengah,1,Teh Geok Kooi,6764,PDB,4055
+Pulau Pinang,N.17 Tanjong Tengah,Tanjong Tengah,2,Kang Eng Wah,250,PETIR,359
+Pulau Pinang,N.17 Tanjong Tengah,Tanjong Tengah,3,Lee Woon Mun,6766,PERIKATAN,2401
+Pulau Pinang,N.17 Tanjong Tengah,Tanjong Tengah,4,Wong Choong Woh,5677,SF,3576
+Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,1,Khoo Kay Por,6768,PDB,2877
+Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,2,Tan Cheong Bee,245,PETIR,535
+Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,3,Choong Ewe Leong,436,PERIKATAN,2571
+Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,4,Dr. Loh Guan Kheng,6771,SF,2656
+Pulau Pinang,N.19 Tanjong Barat,Tanjong Barat,1,C. Y. Choy,5691,SF,2470
+Pulau Pinang,N.19 Tanjong Barat,Tanjong Barat,2,Cheah Hock Seng,6773,PERIKATAN,2052
+Pulau Pinang,N.19 Tanjong Barat,Tanjong Barat,3,Teh Ewe Lim,438,PDB,3610
+Pulau Pinang,N.20 Sungei Pinang,Sungei Pinang,1,Lee Sinn Boon,6775,PDB,1385
+Pulau Pinang,N.20 Sungei Pinang,Sungei Pinang,2,Omar Bin Othman,6776,SF,3120
+Pulau Pinang,N.20 Sungei Pinang,Sungei Pinang,3,D. S. Ramanathan,5688,PERIKATAN,4236
+Pulau Pinang,N.21 Tanjong Selatan,Tanjong Selatan,1,Teh Poh Hua,6778,PERIKATAN,1376
+Pulau Pinang,N.21 Tanjong Selatan,Tanjong Selatan,2,Khor Peng Seah,6779,SF,4789
+Pulau Pinang,N.21 Tanjong Selatan,Tanjong Selatan,3,Loh Lian Kee,6780,PDB,3066
+Pulau Pinang,N.22 Muda,Muda,1,Salleh Bin Darus,5452,BEBAS,453
+Pulau Pinang,N.22 Muda,Muda,2,Haji Ismail Bin Che' Chik,5653,PERIKATAN,5769
+Pulau Pinang,N.22 Muda,Muda,3,Ayob Bin Mohd. Ali,6783,SF,687
+Pulau Pinang,N.22 Muda,Muda,4,Salmah Binti Sheikh Hussain,575,PAS,1496
+Pulau Pinang,N.23 Kepala Batas,Kepala Batas,1,Khaw Boon Pin,6785,PDB,524
+Pulau Pinang,N.23 Kepala Batas,Kepala Batas,2,Haji Yusof Rawa,579,PAS,1562
+Pulau Pinang,N.23 Kepala Batas,Kepala Batas,3,Haji Ahmad Bin Haji Abdullah,5316,PERIKATAN,4531
+Pulau Pinang,N.23 Kepala Batas,Kepala Batas,4,Omar Bin Mohd. Yusoff,439,SF,457
+Pulau Pinang,N.24 Tasek Glugor,Tasek Glugor,1,Ahmad Bin Haji Jamal,6789,PERIKATAN,4527
+Pulau Pinang,N.24 Tasek Glugor,Tasek Glugor,2,Yunus Bin Mohamad,5661,SF,1573
+Pulau Pinang,N.24 Tasek Glugor,Tasek Glugor,3,Dickson Wee Hoe Huat,6791,PDB,984

@@ -1,0 +1,119 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Sarawak,N.01 Lundu,Lundu,1,Ramsay Noel Jitam,9094,BN,4890
+Sarawak,N.01 Lundu,Lundu,2,Datuk Hj. Noor Bin Hj. Tahir,10288,PERMAS,3561
+Sarawak,N.02 Tasik Biru,Tasik Biru,1,Wilfred Rata Nissom @ Wilfred Rhata,10289,PBDS,6152
+Sarawak,N.02 Tasik Biru,Tasik Biru,2,Patau Ak. Rubis,1932,BN,6569
+Sarawak,N.03 Padungan,Padungan,1,Song Swee Guan,2553,BN,14499
+Sarawak,N.03 Padungan,Padungan,2,Tay Cheo Hong @ Cheng Hui Hong,10292,DAP,8538
+Sarawak,N.04 Stampin,Stampin,1,Sim Kheng Hong,6126,BN,16790
+Sarawak,N.04 Stampin,Stampin,2,Sim Keng Soon @ Sim Kwang Yang,1934,DAP,9724
+Sarawak,N.05 Petra Jaya,Petra Jaya,1,Sharifah Mordiah Bt. Tku. Fauzi,10295,BN,6006
+Sarawak,N.05 Petra Jaya,Petra Jaya,2,Hafsah Bt. Harun,10296,PERMAS,2696
+Sarawak,N.06 Satok,Satok,1,Abg. Abd. Rahman Zohari Bin Tun Abg. Haji Openg,9108,BN,9760
+Sarawak,N.06 Satok,Satok,2,Wan Ali B. Tku. Hj. Madhi,10298,PERMAS,4175
+Sarawak,N.06 Satok,Satok,3,Abang Ariffin Bin Abang Sebli @ Abang Bungsu,10299,BERSATU,84
+Sarawak,N.07 Sebandi,Sebandi,1,Datuk Patinggi Haji Abdul Taib Bin Mahmud,10300,BN,4397
+Sarawak,N.07 Sebandi,Sebandi,2,Wan Yusof Tun Datuk Patinggi Tuanku Haji Bujang,8031,PERMAS,2203
+Sarawak,N.08 Muara Tuang,Muara Tuang,1,Abdul Rahman Hamzah,7094,PERMAS,1755
+Sarawak,N.08 Muara Tuang,Muara Tuang,2,Adenan Bin Haji Satem,7998,BN,5196
+Sarawak,N.09 Batu Kawah,Batu Kawah,1,Lim Guan Sim,10304,DAP,2041
+Sarawak,N.09 Batu Kawah,Batu Kawah,2,Japat Ak Simol,10305,PERMAS,2407
+Sarawak,N.09 Batu Kawah,Batu Kawah,3,Chong Kiun Kong,6137,BN,8228
+Sarawak,N.10 Bengoh,Bengoh,1,Louis Nigel Gines,10307,BN,5429
+Sarawak,N.10 Bengoh,Bengoh,2,Sura Ak Sah @ Sora Ak Rusah,10308,PBDS,5648
+Sarawak,N.10 Bengoh,Bengoh,3,Chong Kuet Bui @ Robert Abui,10309,BEBAS,230
+Sarawak,N.11 Tarat,Tarat,1,Richard Riot Ak Jaem,2236,PBDS,3994
+Sarawak,N.11 Tarat,Tarat,2,Frederick Bayoi Manggi,9127,BN,5107
+Sarawak,N.11 Tarat,Tarat,3,Lai Boon Luan,10312,BEBAS,405
+Sarawak,N.12 Tebakang,Tebakang,1,Michael Ben Ak Panggi,9129,PBDS,7723
+Sarawak,N.12 Tebakang,Tebakang,2,Andrew Bujang Bareng,10314,BN,3366
+Sarawak,N.13 Semera,Semera,1,Wan Zainal Abidin Bin Wan Senusi,2229,PERMAS,2779
+Sarawak,N.13 Semera,Semera,2,Wan Wahap Bin Wan Sanusi @ Wan Abdul Wahab Bin Wan Sanusi,10316,BN,3614
+Sarawak,N.14 Gedong,Gedong,1,Khaider B. Haji Ahmad Zaidel,10317,BN,2342
+Sarawak,N.14 Gedong,Gedong,2,Mohammad Tawan Bin Abdullah @ Hilary Tawan Ak. Masan,9135,PERMAS,3482
+Sarawak,N.15 Lingga,Lingga,1,Donald Kawan,1940,BN,4468
+Sarawak,N.15 Lingga,Lingga,2,Daniel Tajem Ak. Miri,1942,PBDS,4409
+Sarawak,N.16 Sri Aman,Sri Aman,1,Michael Pilo Ak. Gangga,10321,BN,5578
+Sarawak,N.16 Sri Aman,Sri Aman,2,Hollis Ak. Tini,768,PBDS,4762
+Sarawak,N.17 Engkilili,Engkilili,1,Intal Ak Rentap,10323,BN,2061
+Sarawak,N.17 Engkilili,Engkilili,2,Sing Cho Nang @ Sim Choy Nam @ Sim Choo Nam,10324,PBDS,3839
+Sarawak,N.18 Batang Air,Batang Air,1,Mikai Ak. Mandau,10325,PBDS,2761
+Sarawak,N.18 Batang Air,Batang Air,2,Nicholas Bawin Ak. Anggat,3608,BN,2020
+Sarawak,N.19 Saribas,Saribas,1,Haji Zainudin B. Haji Satem,8028,PERMAS,3184
+Sarawak,N.19 Saribas,Saribas,2,Bolhassan B. Di @ Ahmad B. Di,10328,BN,4620
+Sarawak,N.19 Saribas,Saribas,3,Ahmad B. Johan,10329,BEBAS,108
+Sarawak,N.20 Layar,Layar,1,Alfred Jabi Anak Numpang,7126,BN,4416
+Sarawak,N.20 Layar,Layar,2,David Ak. Impi,10331,PBDS,2691
+Sarawak,N.21 Kalaka,Kalaka,1,Abdul Wahab Bin Aziz,10332,BN,3608
+Sarawak,N.21 Kalaka,Kalaka,2,Datuk A. Yusuf Puteh,10333,PERMAS,3685
+Sarawak,N.22 Krian,Krian,1,Langgu Ak Saga @ Edmund,9171,PBDS,3751
+Sarawak,N.22 Krian,Krian,2,Peter Nyarok Ak. Entrie,10335,BN,3337
+Sarawak,N.23 Kuala Rajang,Kuala Rajang,1,Sa'Adi B. Olia,9173,PERMAS,2110
+Sarawak,N.23 Kuala Rajang,Kuala Rajang,2,Hamden B. Ahmad,10337,BN,3251
+Sarawak,N.24 Matu-Daro,Matu–Daro,1,Wahab Bin Hjai Dolah,10338,BN,5302
+Sarawak,N.24 Matu-Daro,Matu–Daro,2,Tun Abdul–Rahman B Ya'Akub @ Tun Datik Patinggi Haji Abdul–Rahman Ya'Akub,10339,PERMAS,3677
+Sarawak,N.25 Repok,Repok,1,Teng Lung Chi,9176,BN,6479
+Sarawak,N.25 Repok,Repok,2,Wong Sing Nang,2256,DAP,5564
+Sarawak,N.26 Meradong,Meradong,1,Chong Siew Chiang,1352,DAP,4134
+Sarawak,N.26 Meradong,Meradong,2,Hii King Hiong @ Thomas Hii King Hiong,10343,BN,5371
+Sarawak,N.27 Maling,Maling,1,Ling Siew Ming,1642,DAP,9858
+Sarawak,N.27 Maling,Maling,2,Wong Soon Kai,1641,BN,19239
+Sarawak,N.28 Seduan,Seduan,1,Ling Sii Kiong,10346,DAP,2331
+Sarawak,N.28 Seduan,Seduan,2,Loh Ngie Hock,10347,BEBAS,155
+Sarawak,N.28 Seduan,Seduan,3,Ting Ing Mieng,7147,BN,7023
+Sarawak,N.28 Seduan,Seduan,4,Lee Hie Kin @ Eric Lee,10349,PERMAS,684
+Sarawak,N.29 Igan,Igan,1,Wong Sook Koh,5200,BN,2402
+Sarawak,N.29 Igan,Igan,2,Nait Ak. Mani,10351,BEBAS,81
+Sarawak,N.29 Igan,Igan,3,David Tiong Chiong Chu,8052,PERMAS,2425
+Sarawak,N.30 Dudong,Dudong,1,Jawan Empaling,1355,BN,4717
+Sarawak,N.30 Dudong,Dudong,2,Suffian B. Abdullah @ Siew Chee Kiong,10354,BEBAS,232
+Sarawak,N.30 Dudong,Dudong,3,Wilfred Kiroh Ak. Jeram,9193,PBDS,4406
+Sarawak,N.31 Balingian,Balingian,1,Abdul Ajis B. Abdul Majeed,10356,BN,5104
+Sarawak,N.31 Balingian,Balingian,2,Wan Habib Bin Syed Mahmud,1938,PERMAS,3473
+Sarawak,N.32 Oya,Oya,1,Mohd. Ghazali Bin Kipli,10358,BN,2705
+Sarawak,N.32 Oya,Oya,2,Wan Madzihi B. Wan Mahdzar,10359,PERMAS,4679
+Sarawak,N.33 Pakan,Pakan,1,William Ikom,9201,BN,2195
+Sarawak,N.33 Pakan,Pakan,2,Jawei Wilson Masing @ Jawie Masing @ Jawie Ak. Masing,10361,PBDS,2453
+Sarawak,N.34 Meluan,Meluan,1,Geman Ak. Itam,9205,PBDS,3135
+Sarawak,N.34 Meluan,Meluan,2,Janggu Ak. Pengarah Banyang,7156,BN,2091
+Sarawak,N.35 Machan,Machan,1,Gramong Juna,8070,PBDS,3426
+Sarawak,N.35 Machan,Machan,2,Martin Anak Charlie,10365,BN,2438
+Sarawak,N.36 Ngemah,Ngemah,1,Joseph Kudi,10366,PBDS,2427
+Sarawak,N.36 Ngemah,Ngemah,2,Tan Ak. Seliong,10367,BN,2068
+Sarawak,N.37 Katibas,Katibas,1,Ambrose Blikau Ak. Enturan,8075,BN,2080
+Sarawak,N.37 Katibas,Katibas,2,Kuin Ak. Kedal,10369,BEBAS,139
+Sarawak,N.37 Katibas,Katibas,3,Bantin Ak. Jibom,10370,PBDS,2624
+Sarawak,N.38 Pelagus,Pelagus,1,Philimon Ak. Nuing,10371,PBDS,2242
+Sarawak,N.38 Pelagus,Pelagus,2,Sng Chee Hua,2572,BEBAS,1289
+Sarawak,N.38 Pelagus,Pelagus,3,Jangi Ak. Peng Jemut,10373,BEBAS,433
+Sarawak,N.38 Pelagus,Pelagus,4,Kenneth Kanyan Ak. Temenggong Koh,10374,BN,2226
+Sarawak,N.39 Baleh,Baleh,1,Joseph Ak. Jinggut,10375,BN,2425
+Sarawak,N.39 Baleh,Baleh,2,James Jemut Ak. Masing,9222,PBDS,3516
+Sarawak,N.40 Belaga,Belaga,1,Nyipa Kilah @ Nyipa Batok,9224,BN,2934
+Sarawak,N.40 Belaga,Belaga,2,Tajang Laing,6282,PERMAS,1501
+Sarawak,N.41 Tatau,Tatau,1,Jatan Ak. Linting,10379,DAP,356
+Sarawak,N.41 Tatau,Tatau,2,Bolhassan Bin Kambar,9228,PBDS,2555
+Sarawak,N.41 Tatau,Tatau,3,Daniel Sigah,10381,BN,2310
+Sarawak,N.42 Kemena,Kemena,1,Victor Temenggong Angang,1961,PERMAS,4623
+Sarawak,N.42 Kemena,Kemena,2,Chiew Chiu Sing,2269,DAP,2462
+Sarawak,N.42 Kemena,Kemena,3,Datuk Celestine Ukang Ak. Jilan @ Ujang Ak. Jilan,10384,BN,6581
+Sarawak,N.43 Subis,Subis,1,Ali B. Mana,10385,BEBAS,95
+Sarawak,N.43 Subis,Subis,2,Salleh B Jafaruddin,1953,PERMAS,6390
+Sarawak,N.43 Subis,Subis,3,Chong Kon Fatt @ Chong Kow Fatt,10387,DAP,254
+Sarawak,N.43 Subis,Subis,4,Usop B. Wahap @ Sani Wahap,10388,BN,5672
+Sarawak,N.43 Subis,Subis,5,Linggie Ak. Balong,10389,BEBAS,81
+Sarawak,N.43 Subis,Subis,6,David Ak. La,10390,BEBAS,41
+Sarawak,N.44 Miri,Miri,1,Wong Ho Leng,1965,DAP,6079
+Sarawak,N.44 Miri,Miri,2,Dr George Chan Hong Nam,1655,BN,14352
+Sarawak,N.45 Marudi,Marudi,1,Abu Bakar Bin Abdullah @ Tom Belarek,10393,BEBAS,278
+Sarawak,N.45 Marudi,Marudi,2,Atong Ak. Chuwat,10394,BN,3102
+Sarawak,N.45 Marudi,Marudi,3,Edward Jeli Ak. Blayong @ Dian Ak. Blayong,10395,PBDS,4156
+Sarawak,N.46 Telang Usan,Telang Usan,1,Kebing Wan,3276,BN,2644
+Sarawak,N.46 Telang Usan,Telang Usan,2,Datuk Balan Seling @ Datuk Joseph Balan Seling,10397,PBDS,1878
+Sarawak,N.47 Limbang,Limbang,1,Thianeng Ak. Chuanteck,10398,BEBAS,271
+Sarawak,N.47 Limbang,Limbang,2,Datuk Amar James Wong Kim Min,829,BN,4555
+Sarawak,N.47 Limbang,Limbang,3,Munir Bin Karim,10400,PERMAS,4168
+Sarawak,N.47 Limbang,Limbang,4,Ali Bin Abdullah,5877,BEBAS,89
+Sarawak,N.48 Lawas,Lawas,1,Labo Buaye' @ Michael Labo Buaye,10402,BEBAS,2912
+Sarawak,N.48 Lawas,Lawas,2,Anagku Yusof Bin Pgn. Bongsu,10403,PERMAS,495
+Sarawak,N.48 Lawas,Lawas,3,Tengah Bin Ali Hassan @ Tengah Bin Ali Hasan,10404,BN,3722

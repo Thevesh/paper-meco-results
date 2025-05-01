@@ -1,0 +1,59 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Kedah,N.01 Alor Star Pekan,Alor Star Pekan,1,Ng Hore Jin,5299,SF,843
+Kedah,N.01 Alor Star Pekan,Alor Star Pekan,2,Shaik Osman Bin Ibrahim,5300,BEBAS,296
+Kedah,N.01 Alor Star Pekan,Alor Star Pekan,3,Haji Laidin Bin Haji Abd. Manan,100,NEG,141
+Kedah,N.01 Alor Star Pekan,Alor Star Pekan,4,Jais Bin Haji Anuar,604,PAS,559
+Kedah,N.01 Alor Star Pekan,Alor Star Pekan,5,Dr. Cheah Toon Lok,5303,PERIKATAN,6632
+Kedah,N.02 Alor Star Luar,Alor Star Luar,1,K. Karunakaran Nair,5304,PERIKATAN,6195
+Kedah,N.02 Alor Star Luar,Alor Star Luar,2,Tunku Burhanudin Bin Tunku Yahya,5305,PAS,2611
+Kedah,N.03 Langkawi,Langkawi,1,Lebai Abdullah Bin Jusoh,5306,PAS,2095
+Kedah,N.03 Langkawi,Langkawi,2,Hanafi Bin Ahmad,5307,NEG,403
+Kedah,N.03 Langkawi,Langkawi,3,Haji Ismail Bin Ibrahim,5308,PERIKATAN,7753
+Kedah,N.04 Kota Star Barat,Kota Star Barat,1,Haji Mohd. Isa Bin Mohamed,5309,NEG,2541
+Kedah,N.04 Kota Star Barat,Kota Star Barat,2,Mak Guan Pin,5310,PERIKATAN,5578
+Kedah,N.05 Langgar-Limbong,Langgar-Limbong,1,Haji Omar Bin Haji Ahmad,5311,PAS,4780
+Kedah,N.05 Langgar-Limbong,Langgar-Limbong,2,Abu Bakar Bin Omar,370,PERIKATAN,3000
+Kedah,N.06 Pokok Sena,Pokok Sena,1,Johari Bin Haji Salleh,5313,PERIKATAN,3858
+Kedah,N.06 Pokok Sena,Pokok Sena,2,Abd. Majid Bin Abd. Rahman,5314,PAS,2285
+Kedah,N.07 Kangkong-Bukit Raya,Kangkong-Bukit Raya,1,Ismail Bin Ya'Acob,5315,BEBAS,216
+Kedah,N.07 Kangkong-Bukit Raya,Kangkong-Bukit Raya,2,Haji Mahmud Bin Haji Abdullah,5316,PAS,3102
+Kedah,N.07 Kangkong-Bukit Raya,Kangkong-Bukit Raya,3,Haji Ali Bin Haji Ismail,5216,PERIKATAN,4339
+Kedah,N.07 Kangkong-Bukit Raya,Kangkong-Bukit Raya,4,Haji Rejab Bin Darus,5318,NEG,581
+Kedah,N.08 Padang,Padang,1,Hashim Bin Abdullah,5319,PAS,3299
+Kedah,N.08 Padang,Padang,2,Syed Ibrahim Bin Syed Kechik,5320,PERIKATAN,4529
+Kedah,N.09 Jerlun-Kodiang,Jerlun-Kodiang,1,Haji Shaari Bin Lebai Hamzah,5321,PAS,2073
+Kedah,N.09 Jerlun-Kodiang,Jerlun-Kodiang,2,Yahaya Bin Haji Abd. Jalil,5322,PERIKATAN,5104
+Kedah,N.10 Tunjang,Tunjang,1,Lebai Ahmad Bin Osman,5323,PAS,2435
+Kedah,N.10 Tunjang,Tunjang,2,Mustafa Bin Ahmad,404,PERIKATAN,4275
+Kedah,N.11 Jitra,Jitra,1,Lebai Isa Bin Haji Muhammad,5325,PAS,1714
+Kedah,N.11 Jitra,Jitra,2,Haji Omar Bin Haji Salleh,5326,PERIKATAN,6267
+Kedah,N.12 Padang Terap,Padang Terap,1,Syed Ahmad Bin Syed Mahmud Shahbudin,5327,PERIKATAN,5953
+Kedah,N.12 Padang Terap,Padang Terap,2,Haji Ibrahim Bin Haji Hashim,5328,PAS,2818
+Kedah,N.13 Sala,Sala,1,Abd. Hamid Bin Haji Ibrahim,5329,PAS,4106
+Kedah,N.13 Sala,Sala,2,Arshad Bin Ismail,5330,PERIKATAN,4824
+Kedah,N.14 Yan-Merbok,Yan-Merbok,1,Haji Nyak Gam Bin Nyak Abdullah,5331,PERIKATAN,6717
+Kedah,N.14 Yan-Merbok,Yan-Merbok,2,Haji Nawawi Bin Haji Abd. Rahman,5332,PAS,1781
+Kedah,N.15 Sik-Gurun,Sik-Gurun,1,Azizan Bin Johari,5333,SF,787
+Kedah,N.15 Sik-Gurun,Sik-Gurun,2,Haji Yahaya Bin Junid,5334,PAS,1667
+Kedah,N.15 Sik-Gurun,Sik-Gurun,3,Hamidah Binti Omar,5335,PERIKATAN,5325
+Kedah,N.16 Kota,Kota,1,Mohamed Zahir Bin Ismail,383,PERIKATAN,6842
+Kedah,N.16 Kota,Kota,2,Abu Hashim Bin Abdullah,5337,PAS,2192
+Kedah,N.17 Pekan Sungei Patani,Pekan Sungei Patani,1,Osman Bin Darus,1387,PAS,374
+Kedah,N.17 Pekan Sungei Patani,Pekan Sungei Patani,2,Chin Chin Cheang,5339,PERIKATAN,4280
+Kedah,N.17 Pekan Sungei Patani,Pekan Sungei Patani,3,Mansor Tobing,181,SF,2026
+Kedah,N.18 Sungei Patani Luar,Sungei Patani Luar,1,Azahari Bin Md. Taib,584,PERIKATAN,6571
+Kedah,N.18 Sungei Patani Luar,Sungei Patani Luar,2,Syed Jan Aljeffri,104,PAS,1081
+Kedah,N.18 Sungei Patani Luar,Sungei Patani Luar,3,C. A. D'Cruz,5343,SF,675
+Kedah,N.19 Baling Timor,Baling Timor,1,Shafie Bin Haji Abdullah,5344,PERIKATAN,8369
+Kedah,N.19 Baling Timor,Baling Timor,2,Haji Hassan Bin Haji Abdul Rasheed,5345,PAS,1382
+Kedah,N.20 Baling Barat,Baling Barat,1,Syed Omar Bin Syed Abdullah Shahabudin,5346,PERIKATAN,5456
+Kedah,N.20 Baling Barat,Baling Barat,2,Haji Ahmad Bin Haji Abdul Rahman,1279,PAS,2200
+Kedah,N.21 Sidam,Sidam,1,Haji Yasin Bin Ibrahim,5348,PERIKATAN,6074
+Kedah,N.21 Sidam,Sidam,2,Harun Bin Rased,5349,PAS,974
+Kedah,N.22 Lunas,Lunas,1,Mohd. Romli Bin Abdullah,9350,PAS,1449
+Kedah,N.22 Lunas,Lunas,2,Soon Cheng Leong,5351,PERIKATAN,5872
+Kedah,N.23 Kulim,Kulim,1,Khatib Shorbaini Bin Haji Hassan,588,PAS,811
+Kedah,N.23 Kulim,Kulim,2,Tai Kuan Yang,388,PERIKATAN,6151
+Kedah,N.23 Kulim,Kulim,3,Choong An Fong,187,SF,1715
+Kedah,N.24 Bandar Bahru,Bandar Bahru,1,Zainuddin Bin Haji Din,5355,PERIKATAN,6780
+Kedah,N.24 Bandar Bahru,Bandar Bahru,2,Ghazali Bin Haji Mohamad,5356,PAS,1971

@@ -1,0 +1,66 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Terengganu,N.01 Kuala Besut,Kuala Besut,1,Che Ku Hashim Bin Che Ku Mat,14525,PAS,3725
+Terengganu,N.01 Kuala Besut,Kuala Besut,2,Wan Zakaria Abd Rahman,14526,BN,4536
+Terengganu,N.02 Kampung Raja,Kampung Raja,1,Mohd Jusoh @ Yusoff Bin Hj Md Nor,14527,BN,5399
+Terengganu,N.02 Kampung Raja,Kampung Raja,2,Sazali Bin Hassan,14528,S46,3706
+Terengganu,N.03 Jertih,Jertih,1,Abd Latif Bin Mohamad,1706,PAS,3826
+Terengganu,N.03 Jertih,Jertih,2,Idris Bin Mamat,14530,BN,4742
+Terengganu,N.04 Hulu Besut,Hulu Besut,1,Abdul Rahman Bin Ab Kadir,14531,PAS,3847
+Terengganu,N.04 Hulu Besut,Hulu Besut,2,Tuan Yaakub Bin Abd Kadir,14532,BN,4668
+Terengganu,N.05 Jabi,Jabi,1,Zahari Bin Mohamed,12221,PAS,4097
+Terengganu,N.05 Jabi,Jabi,2,Mohd Lukman Bin Muda,14534,BN,4124
+Terengganu,N.06 Permaisuri,Permaisuri,1,Mohd Jidin Bin Shafee,3338,BN,5765
+Terengganu,N.06 Permaisuri,Permaisuri,2,Abdulah Bin Mat Amin,6570,S46,3198
+Terengganu,N.07 Langkap,Langkap,1,Mamat Bin Abdul Rahman,5981,BN,4814
+Terengganu,N.07 Langkap,Langkap,2,Alias Bin Zainal,13352,S46,2387
+Terengganu,N.08 Batu Rakit,Batu Rakit,1,Abu Bakar Bin Chik,1710,PAS,3179
+Terengganu,N.08 Batu Rakit,Batu Rakit,2,Mohamad @ Abdul Wahab Bin Ngah,14540,BN,3769
+Terengganu,N.09 Tepuh,Tepuh,1,Abu Bakar Bin Abdulah,12229,PAS,5079
+Terengganu,N.09 Tepuh,Tepuh,2,Abdullah @ Wahab Bin Saaid,13358,BN,4735
+Terengganu,N.10 Teluk Pasu,Teluk Pasu,1,Ismail Bin Haji Mamat,7334,PAS,4920
+Terengganu,N.10 Teluk Pasu,Teluk Pasu,2,Abdul Rahman Bin Mohd,3752,BN,4684
+Terengganu,N.11 Seberang Takir,Seberang Takir,1,Ibrahim Bin Hasan @ Ibrahim Azmi,2341,S46,2094
+Terengganu,N.11 Seberang Takir,Seberang Takir,2,Abdul Rashid Bin Ngah,10016,BN,5158
+Terengganu,N.12 Bukit Tunggal,Bukit Tunggal,1,Mohamad Bin Abu Bakar,12712,BN,3567
+Terengganu,N.12 Bukit Tunggal,Bukit Tunggal,2,Mansor Bin Sulong,14548,S46,3180
+Terengganu,N.13 Wakaf Mempelam,Wakaf Mempelam,1,Mohd Abdul Wahid Bin Endut,14549,PAS,6379
+Terengganu,N.13 Wakaf Mempelam,Wakaf Mempelam,2,Sulong Bin Mamat,14550,BN,5260
+Terengganu,N.14 Bandar,Bandar,1,Wong Foon Meng,13368,BN,6970
+Terengganu,N.14 Bandar,Bandar,2,Mustafa @ Hassan Bin Ali,880,PAS,5562
+Terengganu,N.15 Ladang,Ladang,1,Zulkifli Bin Cik,13357,S46,3850
+Terengganu,N.15 Ladang,Ladang,2,Harun @ Abd. Rahman Bin Mohamad,8913,BEBAS,184
+Terengganu,N.15 Ladang,Ladang,3,Roslan Bin Awang Chik,14555,BN,5775
+Terengganu,N.16 Batu Buruk,Batu Buruk,1,Wan Abd Mutalib @ Wan Musa Bin Embong,10049,PAS,6756
+Terengganu,N.16 Batu Buruk,Batu Buruk,2,Zubir Bin Embong,1711,BN,6115
+Terengganu,N.17 Alur Limbat,Alur Limbat,1,Yahaya Bin Ali,12267,PAS,5535
+Terengganu,N.17 Alur Limbat,Alur Limbat,2,Azmi Bin Ahmad,13388,BN,5266
+Terengganu,N.18 Bukit Payung,Bukit Payung,1,Abdul Latiff Bin Awang,14560,BN,4928
+Terengganu,N.18 Bukit Payung,Bukit Payung,2,Baharudin @ Ismail Bin Mohd,12247,PAS,4763
+Terengganu,N.19 Ru Rendang,Ru Rendang,1,Abdul Hadi Bin Haji Awang,10052,PAS,6285
+Terengganu,N.19 Ru Rendang,Ru Rendang,2,Bakar Bin Seman @ Abu Bakar Bin Othman,14563,BN,4891
+Terengganu,N.20 Pengkalan Berangan,Pengkalan Berangan,1,Muhammad Bin Abdullah,1776,PAS,5212
+Terengganu,N.20 Pengkalan Berangan,Pengkalan Berangan,2,Muda Bin Mamat,12250,BN,6444
+Terengganu,N.21 Telemung,Telemung,1,Aziz Bin Ahmad,13388,S46,2133
+Terengganu,N.21 Telemung,Telemung,2,T. Putera Bin T. Sulaiman,14567,BN,4369
+Terengganu,N.21 Telemung,Telemung,3,Abdul Majid Bin Sulaiman,14568,BEBAS,147
+Terengganu,N.22 Manir,Manir,1,Shamsudin Bin Sulong,14569,BN,3726
+Terengganu,N.22 Manir,Manir,2,Harun Bin Taib,2343,PAS,4091
+Terengganu,N.23 Kuala Berang,Kuala Berang,1,Ibrahim Bin Yusof,2400,BN,4301
+Terengganu,N.23 Kuala Berang,Kuala Berang,2,Muhyidin Bin Hj Abd Rashid,14572,PAS,3405
+Terengganu,N.24 Ajil,Ajil,1,Othman Bin Daud,2650,BN,5166
+Terengganu,N.24 Ajil,Ajil,2,Tengku Ibrahim Ibni Sultan Ismail Nasiruddin Shah @ Tengku Sri Paduka Raja,14574,S46,3201
+Terengganu,N.25 Bukit Besi,Bukit Besi,1,Awang Bin Jabar,1417,BN,3834
+Terengganu,N.25 Bukit Besi,Bukit Besi,2,T. Mohd Asri Bin T. Hashim,14576,S46,2333
+Terengganu,N.26 Rantau Panjang,Rantau Panjang,1,Shafie Bin Daud,14577,BN,0
+Terengganu,N.27 Sura,Sura,1,Ibrahim Bin Awang,13399,BN,0
+Terengganu,N.28 Paka,Paka,1,Dato' Sulong Bin Mahmood,14579,S46,4499
+Terengganu,N.28 Paka,Paka,2,Syed Omar Bin Mohammad @ Engku Bijaya Sura,12268,BN,4817
+Terengganu,N.29 Kemasik,Kemasik,1,Mohamad @ A. Bakar Bin Ali,12270,BN,5256
+Terengganu,N.29 Kemasik,Kemasik,2,Jahaya @ Yahya Bin Ab. Rahman,14582,S46,2444
+Terengganu,N.30 Kijal,Kijal,1,Ahmad Bin Said,5767,BN,4433
+Terengganu,N.30 Kijal,Kijal,2,Awang @ Ibrahim Bin Omar @ Ibrahim Kamal,14584,PAS,3143
+Terengganu,N.30 Kijal,Kijal,3,Jamalis Bin Awang,14585,BEBAS,42
+Terengganu,N.31 Cukai,Cukai,1,Wan Mokhtar Bin Ahmad,420,BN,7256
+Terengganu,N.31 Cukai,Cukai,2,Alias Bin Abdul Rahman,2347,S46,4685
+Terengganu,N.32 Air Putih,Air Putih,1,Harun Bin Hasan,12277,BN,6069
+Terengganu,N.32 Air Putih,Air Putih,2,Ismail Bin Harun,14589,PAS,3420

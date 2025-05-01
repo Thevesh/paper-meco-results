@@ -1,0 +1,97 @@
+state,dun,area_name,ballot_order,name,candidate_uid,party,votes
+Pahang,N.01 Jelai,Jelai,1,Mohd. Hashim Bin Idrus,9518,BN,1729
+Pahang,N.01 Jelai,Jelai,2,Harun Bin Jaafar,8370,PAS,742
+Pahang,N.01 Jelai,Jelai,3,Nus Bin Mat Duyar,9520,BEBAS,405
+Pahang,N.01 Jelai,Jelai,4,Wan Ismail Bin Wan Chik,9521,BEBAS,273
+Pahang,N.02 Tanah Rata,Tanah Rata,1,M. Sangaralingam,9522,BN,2384
+Pahang,N.02 Tanah Rata,Tanah Rata,2,Tan Choon Chuan,9523,BEBAS,1792
+Pahang,N.02 Tanah Rata,Tanah Rata,3,Wong Lok Hoi,7430,BEBAS,1280
+Pahang,N.02 Tanah Rata,Tanah Rata,4,Nadarajan,9525,DAP,681
+Pahang,N.03 Bukit Betong,Bukit Betong,1,Abu Bakar Bin Chu,1710,BN,1617
+Pahang,N.03 Bukit Betong,Bukit Betong,2,Kassim Bin Yahaya,1203,PAS,1020
+Pahang,N.03 Bukit Betong,Bukit Betong,3,Wan Abdul Rahman Bin Wan Ibrahim,1204,BEBAS,653
+Pahang,N.04 Bandar Lipis,Bandar Lipis,1,Chin Hon Kit,8366,BN,2852
+Pahang,N.04 Bandar Lipis,Bandar Lipis,2,Abdul Hamid Bin Haji Ismail,9530,PAS,1244
+Pahang,N.04 Bandar Lipis,Bandar Lipis,3,Hamzah Bin Haji Hussain,5519,BEBAS,267
+Pahang,N.05 Benta,Benta,1,Zuki Kamaluddin,9532,BN,3031
+Pahang,N.05 Benta,Benta,2,Ahmad Mahir Bin Haji Ibrahim,9533,PSRM,870
+Pahang,N.05 Benta,Benta,3,Mukhtar Bin Ab. Rahman,9534,PAS,410
+Pahang,N.06 Tahan,Tahan,1,Harun Bin Jaafar,8370,BN,3855
+Pahang,N.06 Tahan,Tahan,2,Abdul Wahab Bin Taha,9536,PAS,1926
+Pahang,N.06 Tahan,Tahan,3,Wan Ali Akhbar Bin Wan Musa,9537,PSRM,185
+Pahang,N.07 Tembeling,Tembeling,1,Abd. Rahman Bin Akil,8883,BN,1686
+Pahang,N.07 Tembeling,Tembeling,2,Baharuddin Bin Imam Hamzah,9539,PAS,1076
+Pahang,N.08 Jenderak,Jenderak,1,Haji Abdullah Hashim Bin Mohd.,9540,BN,1801
+Pahang,N.08 Jenderak,Jenderak,2,Ahmad Bin Talib,8375,PAS,1037
+Pahang,N.08 Jenderak,Jenderak,3,Darus Bin Mohd. Said,8727,DAP,503
+Pahang,N.08 Jenderak,Jenderak,4,Ismail Bin Hussin,6635,BEBAS,110
+Pahang,N.09 Bandar Jerantut,Bandar Jerantut,1,Ho Chock Keong,8376,BN,3247
+Pahang,N.09 Bandar Jerantut,Bandar Jerantut,2,Amirudin Bin Mohamad Amin,9545,PAS,1303
+Pahang,N.09 Bandar Jerantut,Bandar Jerantut,3,Mohg Jit San,9546,DAP,1036
+Pahang,N.10 Kerdau,Kerdau,1,Mohamed Saludin Omar,9547,BN,2139
+Pahang,N.10 Kerdau,Kerdau,2,Mohd. Lazim Bin Salleh,9548,PAS,1081
+Pahang,N.11 Beserah,Beserah,1,Abdul Rahim Bin Abu Bakar,1481,BN,5312
+Pahang,N.11 Beserah,Beserah,2,Mohamed Ali Bin Ismail,6514,PSRM,1049
+Pahang,N.11 Beserah,Beserah,3,Syed Hassan Bin Syed Idros,9551,PAS,694
+Pahang,N.11 Beserah,Beserah,4,Jaafar Hussin,1208,DAP,635
+Pahang,N.12 Sungai Lembing,Sungai Lembing,1,Wan Abdullah Bin Wan Osman,8382,BN,5213
+Pahang,N.12 Sungai Lembing,Sungai Lembing,2,Abdul Malek Mohd.,9554,PSRM,1140
+Pahang,N.12 Sungai Lembing,Sungai Lembing,3,Ismail Bin Mohamed,365,DAP,899
+Pahang,N.12 Sungai Lembing,Sungai Lembing,4,A. Latif Bin A. Majid,9556,PAS,826
+Pahang,N.12 Sungai Lembing,Sungai Lembing,5,Mohd. Zin Omar,9557,BEBAS,111
+Pahang,N.13 Bandar Kuantan,Bandar Kuantan,1,Lim Ah Lek,8386,BN,7461
+Pahang,N.13 Bandar Kuantan,Bandar Kuantan,2,S. Sivasubramanian,949,PSRM,2207
+Pahang,N.13 Bandar Kuantan,Bandar Kuantan,3,Syed Ali Mohsin,9560,DAP,1142
+Pahang,N.13 Bandar Kuantan,Bandar Kuantan,4,Noordin Bin Junid,9561,PAS,648
+Pahang,N.14 Batu Talam,Batu Talam,1,Abdul Razak Bin Hitam,9562,BN,3488
+Pahang,N.14 Batu Talam,Batu Talam,2,Raja Puji Bin Tengku Abdul Hamid,1212,PAS,1811
+Pahang,N.15 Dong,Dong,1,Tengku Mustapha Bin Tengku Seti,7438,BN,0
+Pahang,N.16 Bandar Raub,Bandar Raub,1,Tan Liew Thong,9565,BN,4977
+Pahang,N.16 Bandar Raub,Bandar Raub,2,Wan Sai Kai,1211,DAP,3105
+Pahang,N.16 Bandar Raub,Bandar Raub,3,Osman Bin Nik Hassan,9567,PAS,463
+Pahang,N.17 Paya Besar,Paya Besar,1,Abdul Rashid Bin Haji Abd. Rahman,8395,BN,3735
+Pahang,N.17 Paya Besar,Paya Besar,2,Dzulkifli Bin Ismail,9569,PSRM,1288
+Pahang,N.17 Paya Besar,Paya Besar,3,Daud Bin Majid,9570,PAS,834
+Pahang,N.17 Paya Besar,Paya Besar,4,Syed Abd. Kadir Bin Syed Alwi,9571,DAP,418
+Pahang,N.18 Bandar Maran,Bandar Maran,1,Haji Nasir Bin Haji Mat Piah,9572,BN,2794
+Pahang,N.18 Bandar Maran,Bandar Maran,2,Lee Sit Yin,9573,DAP,1238
+Pahang,N.18 Bandar Maran,Bandar Maran,3,Abdul Raffar Haji Halim,9574,BEBAS,467
+Pahang,N.18 Bandar Maran,Bandar Maran,4,M. Yusop Bin Mat,9575,PAS,450
+Pahang,N.18 Bandar Maran,Bandar Maran,5,Hamzah Ishak,1214,BEBAS,95
+Pahang,N.19 Jengka,Jengka,1,Sariah Binti Kamiso,8402,BN,5350
+Pahang,N.19 Jengka,Jengka,2,Muhamad Bin Mat,9578,PAS,2274
+Pahang,N.19 Jengka,Jengka,3,Ismail Bin Abd. Latif,7571,BEBAS,638
+Pahang,N.19 Jengka,Jengka,4,Abdul Rashin Bin Harun,9580,BEBAS,431
+Pahang,N.20 Chenor,Chenor,1,Ustaz Madmud Haji Mat Taib,8404,BN,3178
+Pahang,N.20 Chenor,Chenor,2,Sheikh Hussin Bin Sh. Jaafar,9582,PAS,1362
+Pahang,N.21 Karak,Karak,1,Chan Tan Chuen,8407,BN,4055
+Pahang,N.21 Karak,Karak,2,Lip Tuck Chee,1215,DAP,2047
+Pahang,N.21 Karak,Karak,3,Haji Mohd. Nurin Bin Haji Ma'Arof,9585,BEBAS,700
+Pahang,N.21 Karak,Karak,4,Syed Nor Adnan Bin Syed Abdullah,9586,BEBAS,383
+Pahang,N.21 Karak,Karak,5,Ahmad Bin Hussin,7449,PAS,379
+Pahang,N.22 Bandar Bentong,Bandar Bentong,1,Foo Yew Choy,9588,BN,5579
+Pahang,N.22 Bandar Bentong,Bandar Bentong,2,Chong Koon Kam,9589,DAP,3732
+Pahang,N.23 Semantan,Semantan,1,Abd. Malek Bin Mohammed,8412,BN,6070
+Pahang,N.23 Semantan,Semantan,2,Poon Kai Chiang,9591,DAP,1779
+Pahang,N.24 Kuala Pahang,Kuala Pahang,1,Hashim B. M. Zin,9592,BN,2744
+Pahang,N.24 Kuala Pahang,Kuala Pahang,2,S. Husin Bin S. Ab. Rahim,9593,PAS,696
+Pahang,N.24 Kuala Pahang,Kuala Pahang,3,Cikgu Malek,9594,BEBAS,197
+Pahang,N.25 Chini,Chini,1,Mohamed Bin Hj. Abd. Ghani,8418,BN,2539
+Pahang,N.25 Chini,Chini,2,Tengku Ali Shahdan,9596,PAS,931
+Pahang,N.26 Bandar Pekan,Bandar Pekan,1,Samsiah Binti Abd. Hamid,8420,BN,2700
+Pahang,N.26 Bandar Pekan,Bandar Pekan,2,Mohd. Rusdi Bin Arif,1217,PAS,1736
+Pahang,N.27 Bukit,Bukit,1,Khalil Yaakob,9599,BN,2015
+Pahang,N.27 Bukit,Bukit,2,Abdullah Bin Jaafar,8224,PAS,528
+Pahang,N.28 Rompin,Rompin,1,Abd. Latiff Bin Kantan,8426,BN,2877
+Pahang,N.28 Rompin,Rompin,2,Abd. Rauof Bin Abd. Majid,1272,PAS,803
+Pahang,N.29 Mentakab,Mentakab,1,Haji Idris Bin Haji Long,9603,BN,4050
+Pahang,N.29 Mentakab,Mentakab,2,Ishak Bin Abdullah,1490,PAS,1898
+Pahang,N.29 Mentakab,Mentakab,3,Sanusi Haji Abas,9605,DAP,1866
+Pahang,N.30 Bandar Temerloh,Bandar Temerloh,1,Datuk Awang Ngah Bin Tok Muda Haji Ibrahim,6619,BN,3136
+Pahang,N.30 Bandar Temerloh,Bandar Temerloh,2,Abu Samah @ Zulkifly Bin Mat Amin,9607,PSRM,2270
+Pahang,N.31 Bera,Bera,1,Jaafar Bin Salleh,9608,BN,4933
+Pahang,N.31 Bera,Bera,2,Ustaz Mat Shum Bin Haji Sidek,9609,PAS,1318
+Pahang,N.31 Bera,Bera,3,Tan Bin Kassim,8439,DAP,1265
+Pahang,N.31 Bera,Bera,4,Mat Isa Bin Dabon,9611,BEBAS,248
+Pahang,N.32 Triang,Triang,1,Ngau Boon Min,8437,BN,3194
+Pahang,N.32 Triang,Triang,2,Lim Ong Hang,236,DAP,2597
