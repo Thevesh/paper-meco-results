@@ -1,47 +1,47 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Kamis Bin Hj Yub,21385,PAS,2291
-Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Yaacob Bin Man,19814,BEBAS,132
-Perlis,N.01 Titi Tinggi,Titi Tinggi,3,Teh Chai Aan,21387,BN,2762
-Perlis,N.01 Titi Tinggi,Titi Tinggi,4,Teh Seng Chuan,19816,PKR,2620
-Perlis,N.02 Beseri,Beseri,1,Wan Kharizal,18204,PKR,2463
-Perlis,N.02 Beseri,Beseri,2,Ruzaini Bin Rais,21390,BN,2879
-Perlis,N.02 Beseri,Beseri,3,Ust . Azamhari,21391,PAS,1523
-Perlis,N.03 Chuping,Chuping,1,Poziyah Binti Hamzah,21392,PKR,2522
-Perlis,N.03 Chuping,Chuping,2,Hj Mohd Ali Puteh,18202,PAS,1967
-Perlis,N.03 Chuping,Chuping,3,Asmaiza Binti Ahmad,19820,BN,3889
-Perlis,N.04 Mata Ayer,Mata Ayer,1,Cikgu Mohammad,21395,PAS,1516
-Perlis,N.04 Mata Ayer,Mata Ayer,2,Lt Kol (B) Hj Azhar Bin Hj Omar,21396,PKR,1964
-Perlis,N.04 Mata Ayer,Mata Ayer,3,Siti Berenee Binti Yahaya,21397,BN,2684
-Perlis,N.05 Santan,Santan,1,Cikgu Mazlina Che Yob,21398,PKR,2122
-Perlis,N.05 Santan,Santan,2,Azizan Bin Sulaiman,21399,BN,3071
-Perlis,N.05 Santan,Santan,3,Baharuddin Ahmad,3632,PAS,2088
-Perlis,N.06 Bintong,Bintong,1,Dato' Seri Azlan Man,21401,BN,3986
-Perlis,N.06 Bintong,Bintong,2,Meri @ Mokhtar Che Kassim,21402,PKR,3139
-Perlis,N.06 Bintong,Bintong,3,Abd Jamil,21403,PAS,2695
-Perlis,N.07 Sena,Sena,1,Asrul Nizan Bin Abd Jalil,21404,PKR,4177
-Perlis,N.07 Sena,Sena,2,Ustaz Fakhrul Anwar,21405,PAS,1888
-Perlis,N.07 Sena,Sena,3,Azihani Binti Ali,21406,BN,3863
-Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Gan Ay Ling,21407,PKR,5023
-Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Cikgu Wan Hassan,21408,PAS,1835
-Perlis,N.08 Indera Kayangan,Indera Kayangan,3,Chuah Tian Hee,21409,BN,1846
-Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Cikgu Azam,21410,BN,2999
-Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Azam Karap,21411,PKR,4253
-Perlis,N.09 Kuala Perlis,Kuala Perlis,3,Mohamad Fuat,21412,PAS,1066
-Perlis,N.10 Kayang,Kayang,1,Hamizan Bin Hassan,21413,BN,3275
-Perlis,N.10 Kayang,Kayang,2,Hj. Radzi Hassan,21414,PAS,1855
-Perlis,N.10 Kayang,Kayang,3,Abdul Hannaan Bin Khairy,21415,PKR,2840
-Perlis,N.11 Pauh,Pauh,1,Ameir Lawyer,21416,PKR,3421
-Perlis,N.11 Pauh,Pauh,2,Ustaz Idris,21417,PAS,2085
-Perlis,N.11 Pauh,Pauh,3,Rozieana Binti Ahmad,21418,BN,3564
-Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Ismail Kasim (Chu),3285,BN,4005
-Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Maton Bin Din,21420,PKR,2825
-Perlis,N.12 Tambun Tulang,Tambun Tulang,3,Dr. Abu Bakar,21421,PAS,1910
-Perlis,N.13 Guar Sanji,Guar Sanji,1,Ustaz Mohd Ridzuan,21422,PAS,3199
-Perlis,N.13 Guar Sanji,Guar Sanji,2,Kak Ida,21423,PKR,1512
-Perlis,N.13 Guar Sanji,Guar Sanji,3,Afifi Bin Osman,21424,BN,2871
-Perlis,N.14 Simpang Empat,Simpang Empat,1,Russele Eizan,19844,PAS,2446
-Perlis,N.14 Simpang Empat,Simpang Empat,2,Nurulhisham Bin Yaakob,19845,BN,2528
-Perlis,N.14 Simpang Empat,Simpang Empat,3,Dr. Hakim,21427,PKR,1960
-Perlis,N.15 Sanglang,Sanglang,1,Ustaz Zolkharnain Abidin,4624,PKR,1379
-Perlis,N.15 Sanglang,Sanglang,2,Cikgu Shukri,19848,PAS,2971
-Perlis,N.15 Sanglang,Sanglang,3,Che Zaidi Bin Saidin,21430,BN,2929
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Kamis Bin Hj Yub,21385,PAS,3,2291
+Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Yaacob Bin Man,19814,BEBAS,1,132
+Perlis,N.01 Titi Tinggi,Titi Tinggi,3,Teh Chai Aan,21387,BN,25,2762
+Perlis,N.01 Titi Tinggi,Titi Tinggi,4,Teh Seng Chuan,19816,PKR,11,2620
+Perlis,N.02 Beseri,Beseri,1,Wan Kharizal,18204,PKR,11,2463
+Perlis,N.02 Beseri,Beseri,2,Ruzaini Bin Rais,21390,BN,25,2879
+Perlis,N.02 Beseri,Beseri,3,Ust . Azamhari,21391,PAS,3,1523
+Perlis,N.03 Chuping,Chuping,1,Poziyah Binti Hamzah,21392,PKR,11,2522
+Perlis,N.03 Chuping,Chuping,2,Hj Mohd Ali Puteh,18202,PAS,3,1967
+Perlis,N.03 Chuping,Chuping,3,Asmaiza Binti Ahmad,19820,BN,25,3889
+Perlis,N.04 Mata Ayer,Mata Ayer,1,Cikgu Mohammad,21395,PAS,3,1516
+Perlis,N.04 Mata Ayer,Mata Ayer,2,Lt Kol (B) Hj Azhar Bin Hj Omar,21396,PKR,11,1964
+Perlis,N.04 Mata Ayer,Mata Ayer,3,Siti Berenee Binti Yahaya,21397,BN,25,2684
+Perlis,N.05 Santan,Santan,1,Cikgu Mazlina Che Yob,21398,PKR,11,2122
+Perlis,N.05 Santan,Santan,2,Azizan Bin Sulaiman,21399,BN,25,3071
+Perlis,N.05 Santan,Santan,3,Baharuddin Ahmad,3632,PAS,3,2088
+Perlis,N.06 Bintong,Bintong,1,Dato' Seri Azlan Man,21401,BN,25,3986
+Perlis,N.06 Bintong,Bintong,2,Meri @ Mokhtar Che Kassim,21402,PKR,11,3139
+Perlis,N.06 Bintong,Bintong,3,Abd Jamil,21403,PAS,3,2695
+Perlis,N.07 Sena,Sena,1,Asrul Nizan Bin Abd Jalil,21404,PKR,11,4177
+Perlis,N.07 Sena,Sena,2,Ustaz Fakhrul Anwar,21405,PAS,3,1888
+Perlis,N.07 Sena,Sena,3,Azihani Binti Ali,21406,BN,25,3863
+Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Gan Ay Ling,21407,PKR,11,5023
+Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Cikgu Wan Hassan,21408,PAS,3,1835
+Perlis,N.08 Indera Kayangan,Indera Kayangan,3,Chuah Tian Hee,21409,BN,25,1846
+Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Cikgu Azam,21410,BN,25,2999
+Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Azam Karap,21411,PKR,11,4253
+Perlis,N.09 Kuala Perlis,Kuala Perlis,3,Mohamad Fuat,21412,PAS,3,1066
+Perlis,N.10 Kayang,Kayang,1,Hamizan Bin Hassan,21413,BN,25,3275
+Perlis,N.10 Kayang,Kayang,2,Hj. Radzi Hassan,21414,PAS,3,1855
+Perlis,N.10 Kayang,Kayang,3,Abdul Hannaan Bin Khairy,21415,PKR,11,2840
+Perlis,N.11 Pauh,Pauh,1,Ameir Lawyer,21416,PKR,11,3421
+Perlis,N.11 Pauh,Pauh,2,Ustaz Idris,21417,PAS,3,2085
+Perlis,N.11 Pauh,Pauh,3,Rozieana Binti Ahmad,21418,BN,25,3564
+Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Ismail Kasim (Chu),3285,BN,25,4005
+Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Maton Bin Din,21420,PKR,11,2825
+Perlis,N.12 Tambun Tulang,Tambun Tulang,3,Dr. Abu Bakar,21421,PAS,3,1910
+Perlis,N.13 Guar Sanji,Guar Sanji,1,Ustaz Mohd Ridzuan,21422,PAS,3,3199
+Perlis,N.13 Guar Sanji,Guar Sanji,2,Kak Ida,21423,PKR,11,1512
+Perlis,N.13 Guar Sanji,Guar Sanji,3,Afifi Bin Osman,21424,BN,25,2871
+Perlis,N.14 Simpang Empat,Simpang Empat,1,Russele Eizan,19844,PAS,3,2446
+Perlis,N.14 Simpang Empat,Simpang Empat,2,Nurulhisham Bin Yaakob,19845,BN,25,2528
+Perlis,N.14 Simpang Empat,Simpang Empat,3,Dr. Hakim,21427,PKR,11,1960
+Perlis,N.15 Sanglang,Sanglang,1,Ustaz Zolkharnain Abidin,4624,PKR,11,1379
+Perlis,N.15 Sanglang,Sanglang,2,Cikgu Shukri,19848,PAS,3,2971
+Perlis,N.15 Sanglang,Sanglang,3,Che Zaidi Bin Saidin,21430,BN,25,2929

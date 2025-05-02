@@ -1,61 +1,61 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Negeri Sembilan,N.01 Peradong,Peradong,1,Siow Mei Shin,13005,BN,2458
-Negeri Sembilan,N.01 Peradong,Peradong,2,Lai Teo Kuan,13006,DAP,3140
-Negeri Sembilan,N.02 Klawang,Klawang,1,Dato' Haji Shamsul Bahari Bin Mat,13007,BN,3056
-Negeri Sembilan,N.02 Klawang,Klawang,2,Ibrahim Bin Che Mat,13008,S46,2323
-Negeri Sembilan,N.03 Pertang,Pertang,1,Abd. Kadir Bin Kassim,10742,S46,3322
-Negeri Sembilan,N.03 Pertang,Pertang,2,Hj. Sharif Wahid,13010,BN,3431
-Negeri Sembilan,N.04 Sungai Lui,Sungai Lui,1,Abdul Muhi Bin Abd. Wahab,11828,S46,2946
-Negeri Sembilan,N.04 Sungai Lui,Sungai Lui,2,Anuar Bin Rashidin,13012,BN,5168
-Negeri Sembilan,N.05 Serting,Serting,1,Ibrahim Bin Haji Ali,11830,BN,6178
-Negeri Sembilan,N.05 Serting,Serting,2,Zainal Bin Maarof,13014,S46,2644
-Negeri Sembilan,N.06 Batu Kikir,Batu Kikir,1,Dato' Rais Yatim,13015,S46,1833
-Negeri Sembilan,N.06 Batu Kikir,Batu Kikir,2,Lilah Bin Hj Yasin,3470,BN,3077
-Negeri Sembilan,N.07 Bahau,Bahau,1,Wong Zee Nyok,13017,DAP,5092
-Negeri Sembilan,N.07 Bahau,Bahau,2,Chong Chi Siong,13018,BN,3741
-Negeri Sembilan,N.08 Palong,Palong,1,Mohd Sani Bin Hussin,13019,S46,2522
-Negeri Sembilan,N.08 Palong,Palong,2,Baharudin Hj. Hassan,13020,BN,9220
-Negeri Sembilan,N.09 Gemas,Gemas,1,Haji Baharudin B. Leman,11839,PAS,1672
-Negeri Sembilan,N.09 Gemas,Gemas,2,Mohamad Yassin Bin Bakar,11838,BN,7172
-Negeri Sembilan,N.10 Gemencheh,Gemencheh,1,Waad Bin Haji Mansor,10788,BN,6239
-Negeri Sembilan,N.10 Gemencheh,Gemencheh,2,Hamzah Bin Hj. Maarof,13024,S46,2633
-Negeri Sembilan,N.11 Repah,Repah,1,Lay Chun Tai,13025,BN,4410
-Negeri Sembilan,N.11 Repah,Repah,2,Abd. Malek Bin Aman,11861,DAP,2390
-Negeri Sembilan,N.11 Repah,Repah,3,Mej. (B) Mokhtar Bin Hj. Sariat,13027,BEBAS,376
-Negeri Sembilan,N.12 Kota,Kota,1,Shamsudin Dewa,13028,PAS,717
-Negeri Sembilan,N.12 Kota,Kota,2,Ahmad Apandi Bin Johan,11845,BN,5961
-Negeri Sembilan,N.13 Juasseh,Juasseh,1,Haji Mohamad Bin Haji Ahmad,13030,BN,5145
-Negeri Sembilan,N.13 Juasseh,Juasseh,2,Baharin Abdullah,13031,S46,1276
-Negeri Sembilan,N.14 Johol,Johol,1,Darus Salim Bin Bulin,11850,BN,4041
-Negeri Sembilan,N.14 Johol,Johol,2,Hj. Omar Bin Hj. Othman,13033,S46,1752
-Negeri Sembilan,N.15 Pilah,Pilah,1,Hj. Abu Zahar Bin Dato' Nika Ujang,2461,BN,6135
-Negeri Sembilan,N.15 Pilah,Pilah,2,Abu Samah Bin Katas,13035,S46,2955
-Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,1,Aspan Bin Alias,13036,S46,1402
-Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,2,Ustaz Mohamed Noh Muharam,13037,PAS,156
-Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,3,Mohd Mokhtar Bin Mohd Yasin,13038,BN,3943
-Negeri Sembilan,N.17 Lenggeng,Lenggeng,1,Hon Choon Kim,2463,BN,7099
-Negeri Sembilan,N.17 Lenggeng,Lenggeng,2,Chen Hung Chong,8462,DAP,4662
-Negeri Sembilan,N.17 Lenggeng,Lenggeng,3,Ajus Bin Jais,997,BEBAS,418
-Negeri Sembilan,N.18 Ampangan,Ampangan,1,Harun Bin Ayat,13042,S46,4747
-Negeri Sembilan,N.18 Ampangan,Ampangan,2,Puan Dermataksiah Bt Abdul Jalil,13043,BN,7344
-Negeri Sembilan,N.19 Rahang,Rahang,1,Dr S. Vijayaratnam,13044,BN,3739
-Negeri Sembilan,N.19 Rahang,Rahang,2,Lee Yuen Fong,2464,DAP,11062
-Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,1,Goh Siow Huat,2784,BN,8023
-Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,2,Lim Fui Ming,13047,DAP,5480
-Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,3,Cikgu Rahmad Binn Abd. Ja;I;,13048,PAS,1276
-Negeri Sembilan,N.21 Labu,Labu,1,Harun Bin Selatan,13049,S46,2679
-Negeri Sembilan,N.21 Labu,Labu,2,Sahardin Bin Hashim,8459,BN,6069
-Negeri Sembilan,N.22 Mambau,Mambau,1,Lee Kong Fee,13051,BN,9427
-Negeri Sembilan,N.22 Mambau,Mambau,2,Chan Kok Wah,13052,DAP,11137
-Negeri Sembilan,N.23 Jimah,Jimah,1,Yeow Chai Thiam,3476,BN,6684
-Negeri Sembilan,N.23 Jimah,Jimah,2,Hu Sepang,1250,DAP,4373
-Negeri Sembilan,N.24 Rantau,Rantau,1,Dato' Muthuppalaniappan,13055,BN,4849
-Negeri Sembilan,N.24 Rantau,Rantau,2,P. Marimuthu,13056,DAP,3404
-Negeri Sembilan,N.25 Chembong,Chembong,1,Ahmad B Yusof,13057,S46,1238
-Negeri Sembilan,N.25 Chembong,Chembong,2,Mahzan Bin Hamzah,11876,BN,5234
-Negeri Sembilan,N.26 Linggi,Linggi,1,Dato' Mohd Isa Bin Dato' Abd Samad,13059,BN,5447
-Negeri Sembilan,N.26 Linggi,Linggi,2,Hj. Jorji Harun,13060,S46,1311
-Negeri Sembilan,N.27 Si Rusa,Si Rusa,1,Khoo Seng Hock,1834,DAP,4318
-Negeri Sembilan,N.27 Si Rusa,Si Rusa,2,M.Krishnasamy,13062,BN,4515
-Negeri Sembilan,N.28 Pasir Panjang,Pasir Panjang,1,Mustapa Bin Manap,11882,BN,7343
-Negeri Sembilan,N.28 Pasir Panjang,Pasir Panjang,2,Abdul Rahim B Abd. Rahman,13064,S46,1944
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Negeri Sembilan,N.01 Peradong,Peradong,1,Siow Mei Shin,13005,BN,25,2458
+Negeri Sembilan,N.01 Peradong,Peradong,2,Lai Teo Kuan,13006,DAP,18,3140
+Negeri Sembilan,N.02 Klawang,Klawang,1,Dato' Haji Shamsul Bahari Bin Mat,13007,BN,25,3056
+Negeri Sembilan,N.02 Klawang,Klawang,2,Ibrahim Bin Che Mat,13008,S46,56,2323
+Negeri Sembilan,N.03 Pertang,Pertang,1,Abd. Kadir Bin Kassim,10742,S46,56,3322
+Negeri Sembilan,N.03 Pertang,Pertang,2,Hj. Sharif Wahid,13010,BN,25,3431
+Negeri Sembilan,N.04 Sungai Lui,Sungai Lui,1,Abdul Muhi Bin Abd. Wahab,11828,S46,56,2946
+Negeri Sembilan,N.04 Sungai Lui,Sungai Lui,2,Anuar Bin Rashidin,13012,BN,25,5168
+Negeri Sembilan,N.05 Serting,Serting,1,Ibrahim Bin Haji Ali,11830,BN,25,6178
+Negeri Sembilan,N.05 Serting,Serting,2,Zainal Bin Maarof,13014,S46,56,2644
+Negeri Sembilan,N.06 Batu Kikir,Batu Kikir,1,Dato' Rais Yatim,13015,S46,56,1833
+Negeri Sembilan,N.06 Batu Kikir,Batu Kikir,2,Lilah Bin Hj Yasin,3470,BN,25,3077
+Negeri Sembilan,N.07 Bahau,Bahau,1,Wong Zee Nyok,13017,DAP,18,5092
+Negeri Sembilan,N.07 Bahau,Bahau,2,Chong Chi Siong,13018,BN,25,3741
+Negeri Sembilan,N.08 Palong,Palong,1,Mohd Sani Bin Hussin,13019,S46,56,2522
+Negeri Sembilan,N.08 Palong,Palong,2,Baharudin Hj. Hassan,13020,BN,25,9220
+Negeri Sembilan,N.09 Gemas,Gemas,1,Haji Baharudin B. Leman,11839,PAS,3,1672
+Negeri Sembilan,N.09 Gemas,Gemas,2,Mohamad Yassin Bin Bakar,11838,BN,25,7172
+Negeri Sembilan,N.10 Gemencheh,Gemencheh,1,Waad Bin Haji Mansor,10788,BN,25,6239
+Negeri Sembilan,N.10 Gemencheh,Gemencheh,2,Hamzah Bin Hj. Maarof,13024,S46,56,2633
+Negeri Sembilan,N.11 Repah,Repah,1,Lay Chun Tai,13025,BN,25,4410
+Negeri Sembilan,N.11 Repah,Repah,2,Abd. Malek Bin Aman,11861,DAP,18,2390
+Negeri Sembilan,N.11 Repah,Repah,3,Mej. (B) Mokhtar Bin Hj. Sariat,13027,BEBAS,1,376
+Negeri Sembilan,N.12 Kota,Kota,1,Shamsudin Dewa,13028,PAS,3,717
+Negeri Sembilan,N.12 Kota,Kota,2,Ahmad Apandi Bin Johan,11845,BN,25,5961
+Negeri Sembilan,N.13 Juasseh,Juasseh,1,Haji Mohamad Bin Haji Ahmad,13030,BN,25,5145
+Negeri Sembilan,N.13 Juasseh,Juasseh,2,Baharin Abdullah,13031,S46,56,1276
+Negeri Sembilan,N.14 Johol,Johol,1,Darus Salim Bin Bulin,11850,BN,25,4041
+Negeri Sembilan,N.14 Johol,Johol,2,Hj. Omar Bin Hj. Othman,13033,S46,56,1752
+Negeri Sembilan,N.15 Pilah,Pilah,1,Hj. Abu Zahar Bin Dato' Nika Ujang,2461,BN,25,6135
+Negeri Sembilan,N.15 Pilah,Pilah,2,Abu Samah Bin Katas,13035,S46,56,2955
+Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,1,Aspan Bin Alias,13036,S46,56,1402
+Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,2,Ustaz Mohamed Noh Muharam,13037,PAS,3,156
+Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,3,Mohd Mokhtar Bin Mohd Yasin,13038,BN,25,3943
+Negeri Sembilan,N.17 Lenggeng,Lenggeng,1,Hon Choon Kim,2463,BN,25,7099
+Negeri Sembilan,N.17 Lenggeng,Lenggeng,2,Chen Hung Chong,8462,DAP,18,4662
+Negeri Sembilan,N.17 Lenggeng,Lenggeng,3,Ajus Bin Jais,997,BEBAS,1,418
+Negeri Sembilan,N.18 Ampangan,Ampangan,1,Harun Bin Ayat,13042,S46,56,4747
+Negeri Sembilan,N.18 Ampangan,Ampangan,2,Puan Dermataksiah Bt Abdul Jalil,13043,BN,25,7344
+Negeri Sembilan,N.19 Rahang,Rahang,1,Dr S. Vijayaratnam,13044,BN,25,3739
+Negeri Sembilan,N.19 Rahang,Rahang,2,Lee Yuen Fong,2464,DAP,18,11062
+Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,1,Goh Siow Huat,2784,BN,25,8023
+Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,2,Lim Fui Ming,13047,DAP,18,5480
+Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,3,Cikgu Rahmad Binn Abd. Ja;I;,13048,PAS,3,1276
+Negeri Sembilan,N.21 Labu,Labu,1,Harun Bin Selatan,13049,S46,56,2679
+Negeri Sembilan,N.21 Labu,Labu,2,Sahardin Bin Hashim,8459,BN,25,6069
+Negeri Sembilan,N.22 Mambau,Mambau,1,Lee Kong Fee,13051,BN,25,9427
+Negeri Sembilan,N.22 Mambau,Mambau,2,Chan Kok Wah,13052,DAP,18,11137
+Negeri Sembilan,N.23 Jimah,Jimah,1,Yeow Chai Thiam,3476,BN,25,6684
+Negeri Sembilan,N.23 Jimah,Jimah,2,Hu Sepang,1250,DAP,18,4373
+Negeri Sembilan,N.24 Rantau,Rantau,1,Dato' Muthuppalaniappan,13055,BN,25,4849
+Negeri Sembilan,N.24 Rantau,Rantau,2,P. Marimuthu,13056,DAP,18,3404
+Negeri Sembilan,N.25 Chembong,Chembong,1,Ahmad B Yusof,13057,S46,56,1238
+Negeri Sembilan,N.25 Chembong,Chembong,2,Mahzan Bin Hamzah,11876,BN,25,5234
+Negeri Sembilan,N.26 Linggi,Linggi,1,Dato' Mohd Isa Bin Dato' Abd Samad,13059,BN,25,5447
+Negeri Sembilan,N.26 Linggi,Linggi,2,Hj. Jorji Harun,13060,S46,56,1311
+Negeri Sembilan,N.27 Si Rusa,Si Rusa,1,Khoo Seng Hock,1834,DAP,18,4318
+Negeri Sembilan,N.27 Si Rusa,Si Rusa,2,M.Krishnasamy,13062,BN,25,4515
+Negeri Sembilan,N.28 Pasir Panjang,Pasir Panjang,1,Mustapa Bin Manap,11882,BN,25,7343
+Negeri Sembilan,N.28 Pasir Panjang,Pasir Panjang,2,Abdul Rahim B Abd. Rahman,13064,S46,56,1944

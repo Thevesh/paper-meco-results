@@ -1,92 +1,92 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Terengganu,N.01 Kuala Besut,Kuala Besut,1,Abu Bakar Bin Ahmad,409,PERIKATAN,942
-Terengganu,N.01 Kuala Besut,Kuala Besut,2,Haji Wan Said Bin Haji Mohd. Nor,5930,PAS,1303
-Terengganu,N.01 Kuala Besut,Kuala Besut,3,Wan Ali Bin Jusoh,5931,SF,1058
-Terengganu,N.02 Kampong Raja,Kampong Raja,1,Wan Ishak Bin Ali,5932,PERIKATAN,677
-Terengganu,N.02 Kampong Raja,Kampong Raja,2,Mohd. Senari Bin Yunus,5933,PAS,1070
-Terengganu,N.02 Kampong Raja,Kampong Raja,3,Wan Abdullah Bin Musa,5934,SF,379
-Terengganu,N.02 Kampong Raja,Kampong Raja,4,Idris Bin Hassan,5935,NEG,305
-Terengganu,N.03 Ulu Besut,Ulu Besut,1,Zainal Abidin Bin Mohamed Amin,5936,PERIKATAN,435
-Terengganu,N.03 Ulu Besut,Ulu Besut,2,Husin Bin Jusoh,5937,PAS,1528
-Terengganu,N.03 Ulu Besut,Ulu Besut,3,Ibrahim Bin Ismail,5938,SF,702
-Terengganu,N.03 Ulu Besut,Ulu Besut,4,Mohd. Fauzi Bin Hussain,5939,NEG,173
-Terengganu,N.04 Busut Tengah,Busut Tengah,1,Ismail Bin Yusof,5940,PERIKATAN,488
-Terengganu,N.04 Busut Tengah,Busut Tengah,2,Haji Mohamed Bin Ismail,5941,PAS,1994
-Terengganu,N.04 Busut Tengah,Busut Tengah,3,Omar Bin Ahmad,5288,NEG,235
-Terengganu,N.05 Setiu,Setiu,1,Mohamad Yusoff Bin Hj. Md. Amin,5943,PERIKATAN,611
-Terengganu,N.05 Setiu,Setiu,2,Mohd. Daud Bin Abdul Samad,410,PAS,1964
-Terengganu,N.05 Setiu,Setiu,3,Abdul Ghani Bin Sulong,5945,SF,376
-Terengganu,N.05 Setiu,Setiu,4,Che' Mohd. Zin Bin Haji Mohd. Amin,5946,NEG,80
-Terengganu,N.06 Batu Rakit,Batu Rakit,1,Mohamed Amin Bin Mohamed,5947,SF,334
-Terengganu,N.06 Batu Rakit,Batu Rakit,2,Haji Abdullah Bin Bidin,5948,NEG,974
-Terengganu,N.06 Batu Rakit,Batu Rakit,3,Mohd. Rashid Bin Su Mahmud,5949,PAS,514
-Terengganu,N.06 Batu Rakit,Batu Rakit,4,Mansor Bin Mohamed,5950,PERIKATAN,2267
-Terengganu,N.07 Kuala Nerus,Kuala Nerus,1,Haji Abas Bin Haji Mohamed,5951,PAS,1655
-Terengganu,N.07 Kuala Nerus,Kuala Nerus,2,Ibrahim Fikri,5952,PERIKATAN,1954
-Terengganu,N.08 Jeram,Jeram,1,Mohamed Said Bin Abdullah,5953,PERIKATAN,1270
-Terengganu,N.08 Jeram,Jeram,2,Ahmad Azzam,4729,PAS,1776
-Terengganu,N.08 Jeram,Jeram,3,Syed Salleh Bin Mustafa,5955,NEG,442
-Terengganu,N.09 Langkap,Langkap,1,Ngah Bin Awang,5956,PAS,685
-Terengganu,N.09 Langkap,Langkap,2,Abdul Rahman Bin Long,5957,PERIKATAN,774
-Terengganu,N.09 Langkap,Langkap,3,Ismail Bin Abas,5958,NEG,910
-Terengganu,N.09 Langkap,Langkap,4,Abdul Rashid Bin Hussin,5959,BEBAS,470
-Terengganu,N.10 Batu Burok,Batu Burok,1,Su Mahmud Bin Dato' Amar,423,PAS,487
-Terengganu,N.10 Batu Burok,Batu Burok,2,Muda Bin Abdullah,5961,PERIKATAN,948
-Terengganu,N.10 Batu Burok,Batu Burok,3,Wan Hasan Bin Wan Abdul Kadir,5962,SF,101
-Terengganu,N.10 Batu Burok,Batu Burok,4,Haji Abdul Mutalib Bin Haji Salleh,5963,NEG,1315
-Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,1,Dato' Perwira,5964,PERIKATAN,678
-Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,2,Haji Abdul Kadir Mohamed,5965,PAS,1607
-Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,3,Mohamad Bin Cheak,5966,NEG,1077
-Terengganu,N.12 Binjai,Binjai,1,Haji Shafie Bin Haji Long,5967,PAS,1874
-Terengganu,N.12 Binjai,Binjai,2,Ali Bin Haji Abdullah,5968,NEG,629
-Terengganu,N.12 Binjai,Binjai,3,Ismail Bin Haji Kassim,358,PERIKATAN,1247
-Terengganu,N.12 Binjai,Binjai,4,Abdul Latif Bin Haji Fakeh,422,SF,299
-Terengganu,N.13 Bandar,Bandar,1,Harun Bin Mohamed Hassan,5971,BEBAS,669
-Terengganu,N.13 Bandar,Bandar,2,Tan Eng Ann,5972,PERIKATAN,1628
-Terengganu,N.13 Bandar,Bandar,3,Mohamed Bin Chik,5973,PAS,710
-Terengganu,N.14 Ladang,Ladang,1,Saripah Azzah Apple,5974,PERIKATAN,793
-Terengganu,N.14 Ladang,Ladang,2,Syed Abdullah Bin Ahmad,5975,SF,178
-Terengganu,N.14 Ladang,Ladang,3,Wan Daud Bin Haji Wan Ahmad,5976,NEG,1459
-Terengganu,N.14 Ladang,Ladang,4,Da Abdul Jalil Bin Haji Awang,5977,PAS,944
-Terengganu,N.15 Bukit Besar,Bukit Besar,1,Syed Ahmad Khalid,5978,PAS,322
-Terengganu,N.15 Bukit Besar,Bukit Besar,2,Engku Wok Abdul Rahman,5979,PERIKATAN,1151
-Terengganu,N.15 Bukit Besar,Bukit Besar,3,Engku Dalam Bin Chik,5980,SF,155
-Terengganu,N.15 Bukit Besar,Bukit Besar,4,Mohamed Bin Abdul Rahman,5981,NEG,1300
-Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,1,Ismail Bin Haji Yusof,5982,PAS,1522
-Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,2,Abdul Rahman Bin Kassim,5983,PERIKATAN,1072
-Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,3,Mohamed Bin Ismail,1703,SF,512
-Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,4,Setia Bin Abu Bakar,360,BEBAS,662
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,1,Wan Ngah Bin Ahmad,5986,PERIKATAN,1209
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,2,Osman Bin Ismail,5987,SF,812
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,3,Omar Bin Abdul Rahman,5988,PAS,1367
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,4,Raja Harun Bin Ja'Afar,5989,BEBAS,181
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,5,Abu Bin Orang Kaya,5990,NEG,115
-Terengganu,N.18 Marang,Marang,1,Mohamed Taib Bin Haji Ismail,415,NEG,798
-Terengganu,N.18 Marang,Marang,2,Mohd. Taib Sabri,5992,PAS,2421
-Terengganu,N.18 Marang,Marang,3,Noordin Bin Haji Mohamed,5993,PERIKATAN,1130
-Terengganu,N.18 Marang,Marang,4,Abu Bakar Bin Haji Saman,1111,SF,95
-Terengganu,N.19 Sura,Sura,1,Wan Din Bin Embong,5995,PERIKATAN,1307
-Terengganu,N.19 Sura,Sura,2,Abu Bakar Bin Mohamed Salleh,5996,PAS,1423
-Terengganu,N.19 Sura,Sura,3,Abdul Malik Bin Mohamed Ali,5997,SF,229
-Terengganu,N.19 Sura,Sura,4,Muda Bin Mohd. Amin,5998,NEG,429
-Terengganu,N.20 Ulu Dungun,Ulu Dungun,1,Wan Omar Shukri Bin Embong,5999,PAS,1319
-Terengganu,N.20 Ulu Dungun,Ulu Dungun,2,Bidin Bin Yusof,6000,SF,276
-Terengganu,N.20 Ulu Dungun,Ulu Dungun,3,Mohamed Bin Othman,6001,PERIKATAN,1228
-Terengganu,N.20 Ulu Dungun,Ulu Dungun,4,Mohd. Amin Bin Mahmood,6002,NEG,323
-Terengganu,N.21 Paka Kerteh,Paka Kerteh,1,Sulong Bin Mahmood,6003,PERIKATAN,1382
-Terengganu,N.21 Paka Kerteh,Paka Kerteh,2,Engku Chik Bin Mat,6004,NEG,301
-Terengganu,N.21 Paka Kerteh,Paka Kerteh,3,Ahmad Haji Mahmood,6005,PAS,815
-Terengganu,N.21 Paka Kerteh,Paka Kerteh,4,T. Shahadan Majid,6006,BEBAS,728
-Terengganu,N.22 Kemaman Utara,Kemaman Utara,1,Awang Abdul Rahman Bin Salleh,6007,PAS,849
-Terengganu,N.22 Kemaman Utara,Kemaman Utara,2,Mohammed Bin Yusof,6008,NEG,217
-Terengganu,N.22 Kemaman Utara,Kemaman Utara,3,Wan Abdul Ghani Bin Zainal,6009,PERIKATAN,1488
-Terengganu,N.22 Kemaman Utara,Kemaman Utara,4,Muda Bin Salleh,6010,SF,136
-Terengganu,N.23 Chukai,Chukai,1,Abu Bakar Bin Mohd. Amin,6011,SF,474
-Terengganu,N.23 Chukai,Chukai,2,Mohammad Bin Omar,6012,BEBAS,84
-Terengganu,N.23 Chukai,Chukai,3,Wan Ngah Bin Abdul Rahman,6013,PAS,250
-Terengganu,N.23 Chukai,Chukai,4,Yeo Eng Cho,6014,PERIKATAN,1521
-Terengganu,N.23 Chukai,Chukai,5,Abdullah Bin Yusof,6015,NEG,394
-Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,1,Hashim Bin Haji Hussin,6016,SF,288
-Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,2,Mohd. Taha Bin Embong,6017,PERIKATAN,1606
-Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,3,Syed Noh Bin Alwee,419,PAS,726
-Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,4,Ahmad Effendi Bin Dorin,6019,NEG,1370
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Terengganu,N.01 Kuala Besut,Kuala Besut,1,Abu Bakar Bin Ahmad,409,PERIKATAN,2,942
+Terengganu,N.01 Kuala Besut,Kuala Besut,2,Haji Wan Said Bin Haji Mohd. Nor,5930,PAS,3,1303
+Terengganu,N.01 Kuala Besut,Kuala Besut,3,Wan Ali Bin Jusoh,5931,SF,8,1058
+Terengganu,N.02 Kampong Raja,Kampong Raja,1,Wan Ishak Bin Ali,5932,PERIKATAN,2,677
+Terengganu,N.02 Kampong Raja,Kampong Raja,2,Mohd. Senari Bin Yunus,5933,PAS,3,1070
+Terengganu,N.02 Kampong Raja,Kampong Raja,3,Wan Abdullah Bin Musa,5934,SF,8,379
+Terengganu,N.02 Kampong Raja,Kampong Raja,4,Idris Bin Hassan,5935,NEG,9,305
+Terengganu,N.03 Ulu Besut,Ulu Besut,1,Zainal Abidin Bin Mohamed Amin,5936,PERIKATAN,2,435
+Terengganu,N.03 Ulu Besut,Ulu Besut,2,Husin Bin Jusoh,5937,PAS,3,1528
+Terengganu,N.03 Ulu Besut,Ulu Besut,3,Ibrahim Bin Ismail,5938,SF,8,702
+Terengganu,N.03 Ulu Besut,Ulu Besut,4,Mohd. Fauzi Bin Hussain,5939,NEG,9,173
+Terengganu,N.04 Busut Tengah,Busut Tengah,1,Ismail Bin Yusof,5940,PERIKATAN,2,488
+Terengganu,N.04 Busut Tengah,Busut Tengah,2,Haji Mohamed Bin Ismail,5941,PAS,3,1994
+Terengganu,N.04 Busut Tengah,Busut Tengah,3,Omar Bin Ahmad,5288,NEG,9,235
+Terengganu,N.05 Setiu,Setiu,1,Mohamad Yusoff Bin Hj. Md. Amin,5943,PERIKATAN,2,611
+Terengganu,N.05 Setiu,Setiu,2,Mohd. Daud Bin Abdul Samad,410,PAS,3,1964
+Terengganu,N.05 Setiu,Setiu,3,Abdul Ghani Bin Sulong,5945,SF,8,376
+Terengganu,N.05 Setiu,Setiu,4,Che' Mohd. Zin Bin Haji Mohd. Amin,5946,NEG,9,80
+Terengganu,N.06 Batu Rakit,Batu Rakit,1,Mohamed Amin Bin Mohamed,5947,SF,8,334
+Terengganu,N.06 Batu Rakit,Batu Rakit,2,Haji Abdullah Bin Bidin,5948,NEG,9,974
+Terengganu,N.06 Batu Rakit,Batu Rakit,3,Mohd. Rashid Bin Su Mahmud,5949,PAS,3,514
+Terengganu,N.06 Batu Rakit,Batu Rakit,4,Mansor Bin Mohamed,5950,PERIKATAN,2,2267
+Terengganu,N.07 Kuala Nerus,Kuala Nerus,1,Haji Abas Bin Haji Mohamed,5951,PAS,3,1655
+Terengganu,N.07 Kuala Nerus,Kuala Nerus,2,Ibrahim Fikri,5952,PERIKATAN,2,1954
+Terengganu,N.08 Jeram,Jeram,1,Mohamed Said Bin Abdullah,5953,PERIKATAN,2,1270
+Terengganu,N.08 Jeram,Jeram,2,Ahmad Azzam,4729,PAS,3,1776
+Terengganu,N.08 Jeram,Jeram,3,Syed Salleh Bin Mustafa,5955,NEG,9,442
+Terengganu,N.09 Langkap,Langkap,1,Ngah Bin Awang,5956,PAS,3,685
+Terengganu,N.09 Langkap,Langkap,2,Abdul Rahman Bin Long,5957,PERIKATAN,2,774
+Terengganu,N.09 Langkap,Langkap,3,Ismail Bin Abas,5958,NEG,9,910
+Terengganu,N.09 Langkap,Langkap,4,Abdul Rashid Bin Hussin,5959,BEBAS,1,470
+Terengganu,N.10 Batu Burok,Batu Burok,1,Su Mahmud Bin Dato' Amar,423,PAS,3,487
+Terengganu,N.10 Batu Burok,Batu Burok,2,Muda Bin Abdullah,5961,PERIKATAN,2,948
+Terengganu,N.10 Batu Burok,Batu Burok,3,Wan Hasan Bin Wan Abdul Kadir,5962,SF,8,101
+Terengganu,N.10 Batu Burok,Batu Burok,4,Haji Abdul Mutalib Bin Haji Salleh,5963,NEG,9,1315
+Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,1,Dato' Perwira,5964,PERIKATAN,2,678
+Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,2,Haji Abdul Kadir Mohamed,5965,PAS,3,1607
+Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,3,Mohamad Bin Cheak,5966,NEG,9,1077
+Terengganu,N.12 Binjai,Binjai,1,Haji Shafie Bin Haji Long,5967,PAS,3,1874
+Terengganu,N.12 Binjai,Binjai,2,Ali Bin Haji Abdullah,5968,NEG,9,629
+Terengganu,N.12 Binjai,Binjai,3,Ismail Bin Haji Kassim,358,PERIKATAN,2,1247
+Terengganu,N.12 Binjai,Binjai,4,Abdul Latif Bin Haji Fakeh,422,SF,8,299
+Terengganu,N.13 Bandar,Bandar,1,Harun Bin Mohamed Hassan,5971,BEBAS,1,669
+Terengganu,N.13 Bandar,Bandar,2,Tan Eng Ann,5972,PERIKATAN,2,1628
+Terengganu,N.13 Bandar,Bandar,3,Mohamed Bin Chik,5973,PAS,3,710
+Terengganu,N.14 Ladang,Ladang,1,Saripah Azzah Apple,5974,PERIKATAN,2,793
+Terengganu,N.14 Ladang,Ladang,2,Syed Abdullah Bin Ahmad,5975,SF,8,178
+Terengganu,N.14 Ladang,Ladang,3,Wan Daud Bin Haji Wan Ahmad,5976,NEG,9,1459
+Terengganu,N.14 Ladang,Ladang,4,Da Abdul Jalil Bin Haji Awang,5977,PAS,3,944
+Terengganu,N.15 Bukit Besar,Bukit Besar,1,Syed Ahmad Khalid,5978,PAS,3,322
+Terengganu,N.15 Bukit Besar,Bukit Besar,2,Engku Wok Abdul Rahman,5979,PERIKATAN,2,1151
+Terengganu,N.15 Bukit Besar,Bukit Besar,3,Engku Dalam Bin Chik,5980,SF,8,155
+Terengganu,N.15 Bukit Besar,Bukit Besar,4,Mohamed Bin Abdul Rahman,5981,NEG,9,1300
+Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,1,Ismail Bin Haji Yusof,5982,PAS,3,1522
+Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,2,Abdul Rahman Bin Kassim,5983,PERIKATAN,2,1072
+Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,3,Mohamed Bin Ismail,1703,SF,8,512
+Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,4,Setia Bin Abu Bakar,360,BEBAS,1,662
+Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,1,Wan Ngah Bin Ahmad,5986,PERIKATAN,2,1209
+Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,2,Osman Bin Ismail,5987,SF,8,812
+Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,3,Omar Bin Abdul Rahman,5988,PAS,3,1367
+Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,4,Raja Harun Bin Ja'Afar,5989,BEBAS,1,181
+Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,5,Abu Bin Orang Kaya,5990,NEG,9,115
+Terengganu,N.18 Marang,Marang,1,Mohamed Taib Bin Haji Ismail,415,NEG,9,798
+Terengganu,N.18 Marang,Marang,2,Mohd. Taib Sabri,5992,PAS,3,2421
+Terengganu,N.18 Marang,Marang,3,Noordin Bin Haji Mohamed,5993,PERIKATAN,2,1130
+Terengganu,N.18 Marang,Marang,4,Abu Bakar Bin Haji Saman,1111,SF,8,95
+Terengganu,N.19 Sura,Sura,1,Wan Din Bin Embong,5995,PERIKATAN,2,1307
+Terengganu,N.19 Sura,Sura,2,Abu Bakar Bin Mohamed Salleh,5996,PAS,3,1423
+Terengganu,N.19 Sura,Sura,3,Abdul Malik Bin Mohamed Ali,5997,SF,8,229
+Terengganu,N.19 Sura,Sura,4,Muda Bin Mohd. Amin,5998,NEG,9,429
+Terengganu,N.20 Ulu Dungun,Ulu Dungun,1,Wan Omar Shukri Bin Embong,5999,PAS,3,1319
+Terengganu,N.20 Ulu Dungun,Ulu Dungun,2,Bidin Bin Yusof,6000,SF,8,276
+Terengganu,N.20 Ulu Dungun,Ulu Dungun,3,Mohamed Bin Othman,6001,PERIKATAN,2,1228
+Terengganu,N.20 Ulu Dungun,Ulu Dungun,4,Mohd. Amin Bin Mahmood,6002,NEG,9,323
+Terengganu,N.21 Paka Kerteh,Paka Kerteh,1,Sulong Bin Mahmood,6003,PERIKATAN,2,1382
+Terengganu,N.21 Paka Kerteh,Paka Kerteh,2,Engku Chik Bin Mat,6004,NEG,9,301
+Terengganu,N.21 Paka Kerteh,Paka Kerteh,3,Ahmad Haji Mahmood,6005,PAS,3,815
+Terengganu,N.21 Paka Kerteh,Paka Kerteh,4,T. Shahadan Majid,6006,BEBAS,1,728
+Terengganu,N.22 Kemaman Utara,Kemaman Utara,1,Awang Abdul Rahman Bin Salleh,6007,PAS,3,849
+Terengganu,N.22 Kemaman Utara,Kemaman Utara,2,Mohammed Bin Yusof,6008,NEG,9,217
+Terengganu,N.22 Kemaman Utara,Kemaman Utara,3,Wan Abdul Ghani Bin Zainal,6009,PERIKATAN,2,1488
+Terengganu,N.22 Kemaman Utara,Kemaman Utara,4,Muda Bin Salleh,6010,SF,8,136
+Terengganu,N.23 Chukai,Chukai,1,Abu Bakar Bin Mohd. Amin,6011,SF,8,474
+Terengganu,N.23 Chukai,Chukai,2,Mohammad Bin Omar,6012,BEBAS,1,84
+Terengganu,N.23 Chukai,Chukai,3,Wan Ngah Bin Abdul Rahman,6013,PAS,3,250
+Terengganu,N.23 Chukai,Chukai,4,Yeo Eng Cho,6014,PERIKATAN,2,1521
+Terengganu,N.23 Chukai,Chukai,5,Abdullah Bin Yusof,6015,NEG,9,394
+Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,1,Hashim Bin Haji Hussin,6016,SF,8,288
+Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,2,Mohd. Taha Bin Embong,6017,PERIKATAN,2,1606
+Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,3,Syed Noh Bin Alwee,419,PAS,3,726
+Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,4,Ahmad Effendi Bin Dorin,6019,NEG,9,1370

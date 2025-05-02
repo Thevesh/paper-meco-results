@@ -1,25 +1,25 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Leong Choon Ling,8741,BN,0
-Perlis,N.02 Chuping,Chuping,1,Ahmad Bin Haji Said,8743,BN,2641
-Perlis,N.02 Chuping,Chuping,2,Hassan Bin Lebai Othman,9886,PAS,2248
-Perlis,N.03 Bintong,Bintong,1,Datuk Jaafar Bin Hassan,9887,BN,3261
-Perlis,N.03 Bintong,Bintong,2,Ismail Bin Baba,9888,PAS,1076
-Perlis,N.04 Bandar Kangar,Bandar Kangar,1,Tan Thean Choo,8748,BN,3083
-Perlis,N.04 Bandar Kangar,Bandar Kangar,2,Abd. Rahman Bin Hamid,6923,BEBAS,2163
-Perlis,N.05 Paya,Paya,1,Mahmud Bin Haji Hashim,2414,BN,2978
-Perlis,N.05 Paya,Paya,2,Haji Ahmad Bin Long,1094,PAS,2011
-Perlis,N.06 Oran,Oran,1,Ali Bin Ahmad,9893,BN,0
-Perlis,N.07 Kuala Perlis,Kuala Perlis,1,Md Noor Bin Yub,8757,BN,2303
-Perlis,N.07 Kuala Perlis,Kuala Perlis,2,Che Gu Din Bin Saaid,9895,PAS,1598
-Perlis,N.08 Kayang,Kayang,1,Hazim Bin Abu Bakar,8759,BN,2223
-Perlis,N.08 Kayang,Kayang,2,Ahmad Amin Bin Ibni,8760,PAS,1321
-Perlis,N.08 Kayang,Kayang,3,Hasan Bin Man,9898,BEBAS,371
-Perlis,N.09 Utan Aji,Utan Aji,1,Idrus Bin Kassim,9899,BN,2273
-Perlis,N.09 Utan Aji,Utan Aji,2,Bakri Bin Hashim,9900,PAS,1757
-Perlis,N.10 Bandar Arau,Bandar Arau,1,Syed Ahmad Bin Syed Alwi,9901,BN,1668
-Perlis,N.10 Bandar Arau,Bandar Arau,2,Hussain Bin Ab. Rahman,1095,BEBAS,1550
-Perlis,N.10 Bandar Arau,Bandar Arau,3,Halim Bin Ismail,2480,PAS,847
-Perlis,N.11 Kurong Anai,Kurong Anai,1,Abu Bakar Bin Haji Ahmad,5536,BN,2398
-Perlis,N.11 Kurong Anai,Kurong Anai,2,Ahmad Bin Salleh,1957,PAS,1877
-Perlis,N.12 Sanglang,Sanglang,1,Md Zain Bin Hamzah,9906,BN,2303
-Perlis,N.12 Sanglang,Sanglang,2,Ahmad Bin Haji Puteh,9907,PAS,1592
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Leong Choon Ling,8741,BN,25,0
+Perlis,N.02 Chuping,Chuping,1,Ahmad Bin Haji Said,8743,BN,25,2641
+Perlis,N.02 Chuping,Chuping,2,Hassan Bin Lebai Othman,9886,PAS,3,2248
+Perlis,N.03 Bintong,Bintong,1,Datuk Jaafar Bin Hassan,9887,BN,25,3261
+Perlis,N.03 Bintong,Bintong,2,Ismail Bin Baba,9888,PAS,3,1076
+Perlis,N.04 Bandar Kangar,Bandar Kangar,1,Tan Thean Choo,8748,BN,25,3083
+Perlis,N.04 Bandar Kangar,Bandar Kangar,2,Abd. Rahman Bin Hamid,6923,BEBAS,1,2163
+Perlis,N.05 Paya,Paya,1,Mahmud Bin Haji Hashim,2414,BN,25,2978
+Perlis,N.05 Paya,Paya,2,Haji Ahmad Bin Long,1094,PAS,3,2011
+Perlis,N.06 Oran,Oran,1,Ali Bin Ahmad,9893,BN,25,0
+Perlis,N.07 Kuala Perlis,Kuala Perlis,1,Md Noor Bin Yub,8757,BN,25,2303
+Perlis,N.07 Kuala Perlis,Kuala Perlis,2,Che Gu Din Bin Saaid,9895,PAS,3,1598
+Perlis,N.08 Kayang,Kayang,1,Hazim Bin Abu Bakar,8759,BN,25,2223
+Perlis,N.08 Kayang,Kayang,2,Ahmad Amin Bin Ibni,8760,PAS,3,1321
+Perlis,N.08 Kayang,Kayang,3,Hasan Bin Man,9898,BEBAS,1,371
+Perlis,N.09 Utan Aji,Utan Aji,1,Idrus Bin Kassim,9899,BN,25,2273
+Perlis,N.09 Utan Aji,Utan Aji,2,Bakri Bin Hashim,9900,PAS,3,1757
+Perlis,N.10 Bandar Arau,Bandar Arau,1,Syed Ahmad Bin Syed Alwi,9901,BN,25,1668
+Perlis,N.10 Bandar Arau,Bandar Arau,2,Hussain Bin Ab. Rahman,1095,BEBAS,1,1550
+Perlis,N.10 Bandar Arau,Bandar Arau,3,Halim Bin Ismail,2480,PAS,3,847
+Perlis,N.11 Kurong Anai,Kurong Anai,1,Abu Bakar Bin Haji Ahmad,5536,BN,25,2398
+Perlis,N.11 Kurong Anai,Kurong Anai,2,Ahmad Bin Salleh,1957,PAS,3,1877
+Perlis,N.12 Sanglang,Sanglang,1,Md Zain Bin Hamzah,9906,BN,25,2303
+Perlis,N.12 Sanglang,Sanglang,2,Ahmad Bin Haji Puteh,9907,PAS,3,1592

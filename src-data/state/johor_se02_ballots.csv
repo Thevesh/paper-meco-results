@@ -1,84 +1,84 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Johor,N.01 Bukit Serampang,Bukit Serampang,1,Dato' Haji Hassan Bin Yunos,6322,PERIKATAN,0
-Johor,N.02 Jorak,Jorak,1,Md. Nassir Bin Hj. Bakar,6323,SF,1803
-Johor,N.02 Jorak,Jorak,2,Haji Osman,6324,PERIKATAN,7456
-Johor,N.03 Labis,Labis,1,Teo Ah Khiang @ Chiang Kee Foon,6325,PERIKATAN,5674
-Johor,N.03 Labis,Labis,2,Lai Hee Sang,6326,SF,2841
-Johor,N.03 Labis,Labis,3,Sani Bin Mohd. Taha,6327,PDB,488
-Johor,N.04 Bekok,Bekok,1,Sim Kim Chong,6328,PERIKATAN,5280
-Johor,N.04 Bekok,Bekok,2,Soi Beng,6329,SF,1975
-Johor,N.04 Bekok,Bekok,3,Phang Voon Liat,5296,PDB,1601
-Johor,N.05 Bandar Maharani,Bandar Maharani,1,Tan Kor Chee,6331,SF,3797
-Johor,N.05 Bandar Maharani,Bandar Maharani,2,Chua Song Lim,5275,PERIKATAN,8266
-Johor,N.06 Parit Bakar,Parit Bakar,1,Ab. Ghani Bin Hashim,5274,SF,3043
-Johor,N.06 Parit Bakar,Parit Bakar,2,Kosai Bin Hj. Md. Salleh,5272,PERIKATAN,7281
-Johor,N.07 Parit Jawa,Parit Jawa,1,Sairan Bin Sabtu,6335,PERIKATAN,0
-Johor,N.08 Simpang Kiri,Simpang Kiri,1,M. Salleh Bin Zanuddin,6336,PAS,1486
-Johor,N.08 Simpang Kiri,Simpang Kiri,2,Haji Othman Bin Haji Taib,6337,PERIKATAN,9092
-Johor,N.09 Broleh,Broleh,1,Mohd. Salleh Bin Hj. Tahir,6338,PERIKATAN,6791
-Johor,N.09 Broleh,Broleh,2,Lam Poo Chin,6339,SF,3855
-Johor,N.09 Broleh,Broleh,3,Lee Ah Gu,6340,PDB,1644
-Johor,N.10 Bandar Penggaram,Bandar Penggaram,1,Abdul Aziz Bin Haji Sadri,6341,PDB,411
-Johor,N.10 Bandar Penggaram,Bandar Penggaram,2,Tan Kau Ngee,6342,SF,2112
-Johor,N.10 Bandar Penggaram,Bandar Penggaram,3,Tan Peng Khoon,5256,PERIKATAN,5072
-Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,1,Md. Nor Bin Jumaat,6344,PERIKATAN,7563
-Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,2,Chang King Min,6345,SF,2819
-Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,3,Hj. M. Lana Bin M. Saleh,6346,BEBAS,292
-Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,4,Mohamed Daud Bin Abdul Molok,6347,PDB,421
-Johor,N.12 Ayer Hitam,Ayer Hitam,1,Yusa Bin Haji Nawawi,6348,PERIKATAN,8145
-Johor,N.12 Ayer Hitam,Ayer Hitam,2,Sakroni Bin Ahmad,550,PDB,1845
-Johor,N.13 Gunong Lambak,Gunong Lambak,1,Siew Teng Yhoi,6350,PERIKATAN,4462
-Johor,N.13 Gunong Lambak,Gunong Lambak,2,Ng Wei Siong,2167,SF,4224
-Johor,N.14 Sri Lalang,Sri Lalang,1,Lai Tha Chai,552,PETIR,493
-Johor,N.14 Sri Lalang,Sri Lalang,2,Loh Fook Yen,1013,PERIKATAN,5107
-Johor,N.14 Sri Lalang,Sri Lalang,3,Mansor Bin Hj. Salleh,6354,SF,2705
-Johor,N.15 Kota Tinggi,Kota Tinggi,1,Chia Chong Sing,6355,SF,1147
-Johor,N.15 Kota Tinggi,Kota Tinggi,2,Tan Seng Toon,6356,PERIKATAN,3451
-Johor,N.15 Kota Tinggi,Kota Tinggi,3,Syed Abu Bakar Bin Jaafar,5225,BEBAS,548
-Johor,N.16 Johore Lama,Johore Lama,1,Enche' Ismail Bin Saadon,6358,PERIKATAN,0
-Johor,N.17 Rengit,Rengit,1,Abdul Aziz Bin Abd. Rahman,6359,BEBAS,2127
-Johor,N.17 Rengit,Rengit,2,Jalok Bin D. Malibok,6360,PERIKATAN,6296
-Johor,N.17 Rengit,Rengit,3,Md. Turus Bin Dg. Melbek,6361,PAS,719
-Johor,N.18 Benut,Benut,1,Abd. Majid Bin H. Hashim,6362,PERIKATAN,6626
-Johor,N.18 Benut,Benut,2,Ah Thiam,6363,BEBAS,2599
-Johor,N.18 Benut,Benut,3,Hj. Yusoff Bin Hj. Abd. Hakim,6364,PAS,1060
-Johor,N.19 Pontian Dalam,Pontian Dalam,1,Chang Meng Hai,6365,SF,2908
-Johor,N.19 Pontian Dalam,Pontian Dalam,2,Othman Bin Mohatam,6366,PAS,339
-Johor,N.19 Pontian Dalam,Pontian Dalam,3,Abdullah Bin Hj. Sudin,6367,PERIKATAN,6408
-Johor,N.20 Pontian Kechil,Pontian Kechil,1,Syed Ibrahim Bin Hussein,6368,PERIKATAN,6525
-Johor,N.20 Pontian Kechil,Pontian Kechil,2,Lee Bing Heyok,6369,SF,3191
-Johor,N.21 Rengam,Rengam,1,Haji Ismail Bin Hassan,5250,PERIKATAN,5598
-Johor,N.21 Rengam,Rengam,2,Daud Bin Sulaiman,6371,BEBAS,189
-Johor,N.21 Rengam,Rengam,3,Hon Kin Siong,559,SF,3268
-Johor,N.22 Senai-Kulai,Senai-Kulai,1,Soh Kim Siang,6373,SF,3320
-Johor,N.22 Senai-Kulai,Senai-Kulai,2,H. L. Tang,6374,PERIKATAN,5819
-Johor,N.23 Plentong,Plentong,1,Hasnah Binti Ahmad,6375,PERIKATAN,6601
-Johor,N.23 Plentong,Plentong,2,Khadijah Binti Sidik,6376,PAS,687
-Johor,N.23 Plentong,Plentong,3,Ng Tang Sang,6377,SF,2492
-Johor,N.24 Tanjong Petri,Tanjong Petri,1,C. C. Yong,131,SF,3170
-Johor,N.24 Tanjong Petri,Tanjong Petri,2,Lokman Zakaria,6379,PAS,318
-Johor,N.24 Tanjong Petri,Tanjong Petri,3,Ooyub Bin Abdul Manas,6380,PERIKATAN,5028
-Johor,N.24 Tanjong Petri,Tanjong Petri,4,Mohamed Nor Jettey,561,PETIR,277
-Johor,N.25 Gelang Patah,Gelang Patah,1,A. Latiff Bin Mohamed,6382,SF,2001
-Johor,N.25 Gelang Patah,Gelang Patah,2,Syed Mohamed Bin Idrus,5235,PERIKATAN,5213
-Johor,N.25 Gelang Patah,Gelang Patah,3,Ma'Arof Bin Hj. Tahir,6384,PAS,282
-Johor,N.26 Tampoi,Tampoi,1,Ibrahim Bin A. Razak,6385,SF,2753
-Johor,N.26 Tampoi,Tampoi,2,Liang Teck Sum,563,PETIR,328
-Johor,N.26 Tampoi,Tampoi,3,Daud Bin Ahmad,6387,PERIKATAN,6074
-Johor,N.26 Tampoi,Tampoi,4,Othman Jabar,6388,PAS,268
-Johor,N.27 Endau,Endau,1,Ali Bin Haji Raya,6389,PERIKATAN,5285
-Johor,N.27 Endau,Endau,2,Wan Mohamad Zain Bin Abdullah,6390,PAS,658
-Johor,N.28 Mersing,Mersing,1,Poh Swee Lim,5220,PERIKATAN,4059
-Johor,N.28 Mersing,Mersing,2,Hj. Hussin Bin Hj. Md. Salleh,174,PAS,99
-Johor,N.28 Mersing,Mersing,3,Hj. A. Ghani Bin Elias,6393,BEBAS,972
-Johor,N.29 Batu Anam,Batu Anam,1,M. P. Kumaran,5292,PERIKATAN,5316
-Johor,N.29 Batu Anam,Batu Anam,2,Abdul Wahab Bin Hj. Mohd. Yassin,5298,PDB,728
-Johor,N.29 Batu Anam,Batu Anam,3,K. Raman,6396,SF,2801
-Johor,N.30 Bandar Segamat,Bandar Segamat,1,Pang Lee Seng,568,SF,2651
-Johor,N.30 Bandar Segamat,Bandar Segamat,2,Lim Meng See,160,PDB,1647
-Johor,N.30 Bandar Segamat,Bandar Segamat,3,Tey Sia Ba,6399,PERIKATAN,4426
-Johor,N.31 Tangkak,Tangkak,1,Lai Kuen Tee,5282,PERIKATAN,6944
-Johor,N.31 Tangkak,Tangkak,2,Lim Chong See,6401,SF,2477
-Johor,N.32 Serom,Serom,1,Hj. Mohamed Shah Bin Musa,6402,PAS,418
-Johor,N.32 Serom,Serom,2,Rapiah Binti Hj. Hussien,6403,SF,1409
-Johor,N.32 Serom,Serom,3,Ngah Bin A. Rahman,1555,PERIKATAN,9071
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Johor,N.01 Bukit Serampang,Bukit Serampang,1,Dato' Haji Hassan Bin Yunos,6322,PERIKATAN,2,0
+Johor,N.02 Jorak,Jorak,1,Md. Nassir Bin Hj. Bakar,6323,SF,8,1803
+Johor,N.02 Jorak,Jorak,2,Haji Osman,6324,PERIKATAN,2,7456
+Johor,N.03 Labis,Labis,1,Teo Ah Khiang @ Chiang Kee Foon,6325,PERIKATAN,2,5674
+Johor,N.03 Labis,Labis,2,Lai Hee Sang,6326,SF,8,2841
+Johor,N.03 Labis,Labis,3,Sani Bin Mohd. Taha,6327,PDB,13,488
+Johor,N.04 Bekok,Bekok,1,Sim Kim Chong,6328,PERIKATAN,2,5280
+Johor,N.04 Bekok,Bekok,2,Soi Beng,6329,SF,8,1975
+Johor,N.04 Bekok,Bekok,3,Phang Voon Liat,5296,PDB,13,1601
+Johor,N.05 Bandar Maharani,Bandar Maharani,1,Tan Kor Chee,6331,SF,8,3797
+Johor,N.05 Bandar Maharani,Bandar Maharani,2,Chua Song Lim,5275,PERIKATAN,2,8266
+Johor,N.06 Parit Bakar,Parit Bakar,1,Ab. Ghani Bin Hashim,5274,SF,8,3043
+Johor,N.06 Parit Bakar,Parit Bakar,2,Kosai Bin Hj. Md. Salleh,5272,PERIKATAN,2,7281
+Johor,N.07 Parit Jawa,Parit Jawa,1,Sairan Bin Sabtu,6335,PERIKATAN,2,0
+Johor,N.08 Simpang Kiri,Simpang Kiri,1,M. Salleh Bin Zanuddin,6336,PAS,3,1486
+Johor,N.08 Simpang Kiri,Simpang Kiri,2,Haji Othman Bin Haji Taib,6337,PERIKATAN,2,9092
+Johor,N.09 Broleh,Broleh,1,Mohd. Salleh Bin Hj. Tahir,6338,PERIKATAN,2,6791
+Johor,N.09 Broleh,Broleh,2,Lam Poo Chin,6339,SF,8,3855
+Johor,N.09 Broleh,Broleh,3,Lee Ah Gu,6340,PDB,13,1644
+Johor,N.10 Bandar Penggaram,Bandar Penggaram,1,Abdul Aziz Bin Haji Sadri,6341,PDB,13,411
+Johor,N.10 Bandar Penggaram,Bandar Penggaram,2,Tan Kau Ngee,6342,SF,8,2112
+Johor,N.10 Bandar Penggaram,Bandar Penggaram,3,Tan Peng Khoon,5256,PERIKATAN,2,5072
+Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,1,Md. Nor Bin Jumaat,6344,PERIKATAN,2,7563
+Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,2,Chang King Min,6345,SF,8,2819
+Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,3,Hj. M. Lana Bin M. Saleh,6346,BEBAS,1,292
+Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,4,Mohamed Daud Bin Abdul Molok,6347,PDB,13,421
+Johor,N.12 Ayer Hitam,Ayer Hitam,1,Yusa Bin Haji Nawawi,6348,PERIKATAN,2,8145
+Johor,N.12 Ayer Hitam,Ayer Hitam,2,Sakroni Bin Ahmad,550,PDB,13,1845
+Johor,N.13 Gunong Lambak,Gunong Lambak,1,Siew Teng Yhoi,6350,PERIKATAN,2,4462
+Johor,N.13 Gunong Lambak,Gunong Lambak,2,Ng Wei Siong,2167,SF,8,4224
+Johor,N.14 Sri Lalang,Sri Lalang,1,Lai Tha Chai,552,PETIR,14,493
+Johor,N.14 Sri Lalang,Sri Lalang,2,Loh Fook Yen,1013,PERIKATAN,2,5107
+Johor,N.14 Sri Lalang,Sri Lalang,3,Mansor Bin Hj. Salleh,6354,SF,8,2705
+Johor,N.15 Kota Tinggi,Kota Tinggi,1,Chia Chong Sing,6355,SF,8,1147
+Johor,N.15 Kota Tinggi,Kota Tinggi,2,Tan Seng Toon,6356,PERIKATAN,2,3451
+Johor,N.15 Kota Tinggi,Kota Tinggi,3,Syed Abu Bakar Bin Jaafar,5225,BEBAS,1,548
+Johor,N.16 Johore Lama,Johore Lama,1,Enche' Ismail Bin Saadon,6358,PERIKATAN,2,0
+Johor,N.17 Rengit,Rengit,1,Abdul Aziz Bin Abd. Rahman,6359,BEBAS,1,2127
+Johor,N.17 Rengit,Rengit,2,Jalok Bin D. Malibok,6360,PERIKATAN,2,6296
+Johor,N.17 Rengit,Rengit,3,Md. Turus Bin Dg. Melbek,6361,PAS,3,719
+Johor,N.18 Benut,Benut,1,Abd. Majid Bin H. Hashim,6362,PERIKATAN,2,6626
+Johor,N.18 Benut,Benut,2,Ah Thiam,6363,BEBAS,1,2599
+Johor,N.18 Benut,Benut,3,Hj. Yusoff Bin Hj. Abd. Hakim,6364,PAS,3,1060
+Johor,N.19 Pontian Dalam,Pontian Dalam,1,Chang Meng Hai,6365,SF,8,2908
+Johor,N.19 Pontian Dalam,Pontian Dalam,2,Othman Bin Mohatam,6366,PAS,3,339
+Johor,N.19 Pontian Dalam,Pontian Dalam,3,Abdullah Bin Hj. Sudin,6367,PERIKATAN,2,6408
+Johor,N.20 Pontian Kechil,Pontian Kechil,1,Syed Ibrahim Bin Hussein,6368,PERIKATAN,2,6525
+Johor,N.20 Pontian Kechil,Pontian Kechil,2,Lee Bing Heyok,6369,SF,8,3191
+Johor,N.21 Rengam,Rengam,1,Haji Ismail Bin Hassan,5250,PERIKATAN,2,5598
+Johor,N.21 Rengam,Rengam,2,Daud Bin Sulaiman,6371,BEBAS,1,189
+Johor,N.21 Rengam,Rengam,3,Hon Kin Siong,559,SF,8,3268
+Johor,N.22 Senai-Kulai,Senai-Kulai,1,Soh Kim Siang,6373,SF,8,3320
+Johor,N.22 Senai-Kulai,Senai-Kulai,2,H. L. Tang,6374,PERIKATAN,2,5819
+Johor,N.23 Plentong,Plentong,1,Hasnah Binti Ahmad,6375,PERIKATAN,2,6601
+Johor,N.23 Plentong,Plentong,2,Khadijah Binti Sidik,6376,PAS,3,687
+Johor,N.23 Plentong,Plentong,3,Ng Tang Sang,6377,SF,8,2492
+Johor,N.24 Tanjong Petri,Tanjong Petri,1,C. C. Yong,131,SF,8,3170
+Johor,N.24 Tanjong Petri,Tanjong Petri,2,Lokman Zakaria,6379,PAS,3,318
+Johor,N.24 Tanjong Petri,Tanjong Petri,3,Ooyub Bin Abdul Manas,6380,PERIKATAN,2,5028
+Johor,N.24 Tanjong Petri,Tanjong Petri,4,Mohamed Nor Jettey,561,PETIR,14,277
+Johor,N.25 Gelang Patah,Gelang Patah,1,A. Latiff Bin Mohamed,6382,SF,8,2001
+Johor,N.25 Gelang Patah,Gelang Patah,2,Syed Mohamed Bin Idrus,5235,PERIKATAN,2,5213
+Johor,N.25 Gelang Patah,Gelang Patah,3,Ma'Arof Bin Hj. Tahir,6384,PAS,3,282
+Johor,N.26 Tampoi,Tampoi,1,Ibrahim Bin A. Razak,6385,SF,8,2753
+Johor,N.26 Tampoi,Tampoi,2,Liang Teck Sum,563,PETIR,14,328
+Johor,N.26 Tampoi,Tampoi,3,Daud Bin Ahmad,6387,PERIKATAN,2,6074
+Johor,N.26 Tampoi,Tampoi,4,Othman Jabar,6388,PAS,3,268
+Johor,N.27 Endau,Endau,1,Ali Bin Haji Raya,6389,PERIKATAN,2,5285
+Johor,N.27 Endau,Endau,2,Wan Mohamad Zain Bin Abdullah,6390,PAS,3,658
+Johor,N.28 Mersing,Mersing,1,Poh Swee Lim,5220,PERIKATAN,2,4059
+Johor,N.28 Mersing,Mersing,2,Hj. Hussin Bin Hj. Md. Salleh,174,PAS,3,99
+Johor,N.28 Mersing,Mersing,3,Hj. A. Ghani Bin Elias,6393,BEBAS,1,972
+Johor,N.29 Batu Anam,Batu Anam,1,M. P. Kumaran,5292,PERIKATAN,2,5316
+Johor,N.29 Batu Anam,Batu Anam,2,Abdul Wahab Bin Hj. Mohd. Yassin,5298,PDB,13,728
+Johor,N.29 Batu Anam,Batu Anam,3,K. Raman,6396,SF,8,2801
+Johor,N.30 Bandar Segamat,Bandar Segamat,1,Pang Lee Seng,568,SF,8,2651
+Johor,N.30 Bandar Segamat,Bandar Segamat,2,Lim Meng See,160,PDB,13,1647
+Johor,N.30 Bandar Segamat,Bandar Segamat,3,Tey Sia Ba,6399,PERIKATAN,2,4426
+Johor,N.31 Tangkak,Tangkak,1,Lai Kuen Tee,5282,PERIKATAN,2,6944
+Johor,N.31 Tangkak,Tangkak,2,Lim Chong See,6401,SF,8,2477
+Johor,N.32 Serom,Serom,1,Hj. Mohamed Shah Bin Musa,6402,PAS,3,418
+Johor,N.32 Serom,Serom,2,Rapiah Binti Hj. Hussien,6403,SF,8,1409
+Johor,N.32 Serom,Serom,3,Ngah Bin A. Rahman,1555,PERIKATAN,2,9071

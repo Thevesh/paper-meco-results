@@ -1,27 +1,27 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Perlis,N.01 Kaki Bukit,Kaki Bukit,1,Yacob Bin Mohamed,5833,PAS,855
-Perlis,N.01 Kaki Bukit,Kaki Bukit,2,Loh Ah Tong,5834,PERIKATAN,2350
-Perlis,N.02 Paya,Paya,1,Hj. Abdullah Bin Ahmad,5835,PAS,1231
-Perlis,N.02 Paya,Paya,2,Wan Ahmad Bin Wan Daud,5836,PERIKATAN,2030
-Perlis,N.03 Mata Ayer,Mata Ayer,1,Shaikh Ali Ba Junid,5837,BEBAS,711
-Perlis,N.03 Mata Ayer,Mata Ayer,2,Mahayuddin Bin Dato' Habib,5838,PERIKATAN,1509
-Perlis,N.03 Mata Ayer,Mata Ayer,3,Wan Khadzim Bin Wan Din,5839,SF,222
-Perlis,N.04 Kangar Town,Kangar Town,1,Por Swee Giap,5840,PERIKATAN,1156
-Perlis,N.04 Kangar Town,Kangar Town,2,Matt Bin Haji Kassim,129,BEBAS,267
-Perlis,N.05 Sena,Sena,1,Mat Bin Md. Isa,5842,PAS,816
-Perlis,N.05 Sena,Sena,2,Wan Ahmad Bin Haji Wan Kassim,5843,PERIKATAN,1654
-Perlis,N.06 Bintong,Bintong,1,Shafii Bin Omar,5844,PAS,1150
-Perlis,N.06 Bintong,Bintong,2,Sheikh Ahmad Bin Mohd. Hashim,128,PERIKATAN,1948
-Perlis,N.07 Kurong Anai,Kurong Anai,1,Ibrahim Bin Yasin,5846,PAS,889
-Perlis,N.07 Kurong Anai,Kurong Anai,2,Haji Mokhtar Bin Hj. Ismail,318,PERIKATAN,1495
-Perlis,N.08 Arau,Arau,1,Tengku Adnan,5848,PERIKATAN,1374
-Perlis,N.08 Arau,Arau,2,Abdulrahman Bin Osman,5849,PAS,1020
-Perlis,N.09 Hutan Aji,Hutan Aji,1,Ahmad Bin Salleh,1957,PAS,1095
-Perlis,N.09 Hutan Aji,Hutan Aji,2,Syed Darus Bin Syed Hashim,5851,PERIKATAN,1366
-Perlis,N.10 Kayang,Kayang,1,Haji Keria Bin Wan Nik,5852,PERIKATAN,1506
-Perlis,N.10 Kayang,Kayang,2,Abu Bakar Bin Haji Awang,5853,PAS,889
-Perlis,N.10 Kayang,Kayang,3,Zakaria Bin Ishak,5854,SF,171
-Perlis,N.11 Kuala Perlis,Kuala Perlis,1,Omar Bin Mohamed Said,5855,PAS,535
-Perlis,N.11 Kuala Perlis,Kuala Perlis,2,Yusoff Bin Abu Bakar,5856,PERIKATAN,1556
-Perlis,N.12 Sanglang,Sanglang,1,Ahmad Bin Musa,5857,PERIKATAN,1577
-Perlis,N.12 Sanglang,Sanglang,2,Lebai Adnan Bin Abdullah,5858,PAS,1217
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,N.01 Kaki Bukit,Kaki Bukit,1,Yacob Bin Mohamed,5833,PAS,3,855
+Perlis,N.01 Kaki Bukit,Kaki Bukit,2,Loh Ah Tong,5834,PERIKATAN,2,2350
+Perlis,N.02 Paya,Paya,1,Hj. Abdullah Bin Ahmad,5835,PAS,3,1231
+Perlis,N.02 Paya,Paya,2,Wan Ahmad Bin Wan Daud,5836,PERIKATAN,2,2030
+Perlis,N.03 Mata Ayer,Mata Ayer,1,Shaikh Ali Ba Junid,5837,BEBAS,1,711
+Perlis,N.03 Mata Ayer,Mata Ayer,2,Mahayuddin Bin Dato' Habib,5838,PERIKATAN,2,1509
+Perlis,N.03 Mata Ayer,Mata Ayer,3,Wan Khadzim Bin Wan Din,5839,SF,8,222
+Perlis,N.04 Kangar Town,Kangar Town,1,Por Swee Giap,5840,PERIKATAN,2,1156
+Perlis,N.04 Kangar Town,Kangar Town,2,Matt Bin Haji Kassim,129,BEBAS,1,267
+Perlis,N.05 Sena,Sena,1,Mat Bin Md. Isa,5842,PAS,3,816
+Perlis,N.05 Sena,Sena,2,Wan Ahmad Bin Haji Wan Kassim,5843,PERIKATAN,2,1654
+Perlis,N.06 Bintong,Bintong,1,Shafii Bin Omar,5844,PAS,3,1150
+Perlis,N.06 Bintong,Bintong,2,Sheikh Ahmad Bin Mohd. Hashim,128,PERIKATAN,2,1948
+Perlis,N.07 Kurong Anai,Kurong Anai,1,Ibrahim Bin Yasin,5846,PAS,3,889
+Perlis,N.07 Kurong Anai,Kurong Anai,2,Haji Mokhtar Bin Hj. Ismail,318,PERIKATAN,2,1495
+Perlis,N.08 Arau,Arau,1,Tengku Adnan,5848,PERIKATAN,2,1374
+Perlis,N.08 Arau,Arau,2,Abdulrahman Bin Osman,5849,PAS,3,1020
+Perlis,N.09 Hutan Aji,Hutan Aji,1,Ahmad Bin Salleh,1957,PAS,3,1095
+Perlis,N.09 Hutan Aji,Hutan Aji,2,Syed Darus Bin Syed Hashim,5851,PERIKATAN,2,1366
+Perlis,N.10 Kayang,Kayang,1,Haji Keria Bin Wan Nik,5852,PERIKATAN,2,1506
+Perlis,N.10 Kayang,Kayang,2,Abu Bakar Bin Haji Awang,5853,PAS,3,889
+Perlis,N.10 Kayang,Kayang,3,Zakaria Bin Ishak,5854,SF,8,171
+Perlis,N.11 Kuala Perlis,Kuala Perlis,1,Omar Bin Mohamed Said,5855,PAS,3,535
+Perlis,N.11 Kuala Perlis,Kuala Perlis,2,Yusoff Bin Abu Bakar,5856,PERIKATAN,2,1556
+Perlis,N.12 Sanglang,Sanglang,1,Ahmad Bin Musa,5857,PERIKATAN,2,1577
+Perlis,N.12 Sanglang,Sanglang,2,Lebai Adnan Bin Abdullah,5858,PAS,3,1217

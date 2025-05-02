@@ -1,159 +1,159 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Sarawak,N.01 Opar,Opar,1,Ranum Anak Mina,13563,BN,3585
-Sarawak,N.01 Opar,Opar,2,Patrick Anek Uren,1617,SNAP,1402
-Sarawak,N.02 Tasik Biru,Tasik Biru,1,Peter Nansian Anak Ngusie,13568,BN,6393
-Sarawak,N.02 Tasik Biru,Tasik Biru,2,Joseph Jutem Anak Umen,14792,SNAP,3190
-Sarawak,N.03 Tanjung Datu,Tanjung Datu,1,Adenan Bin Satem,14793,BN,4545
-Sarawak,N.03 Tanjung Datu,Tanjung Datu,2,Sobey Bin Daud,14794,PKR,409
-Sarawak,N.03 Tanjung Datu,Tanjung Datu,3,Larry Dominic Linang,14795,BEBAS,357
-Sarawak,N.04 Pantai Damai,Pantai Damai,1,Idris Bin Bohari,3241,PKR,3053
-Sarawak,N.04 Pantai Damai,Pantai Damai,2,Abdul Rahman Bin Junaidi,14797,BN,5217
-Sarawak,N.05 Demak Laut,Demak Laut,1,Abg. Draup Zamahari Bin Abg Haji Zen,14798,BN,5094
-Sarawak,N.05 Demak Laut,Demak Laut,2,Saidan @ Massudin Bin Sahini,11327,PKR,1489
-Sarawak,N.06 Tupong,Tupong,1,Daud Bin Abdul Rahman,14800,BN,6885
-Sarawak,N.06 Tupong,Tupong,2,Ramlee Bin Mahtar,14801,PKR,2313
-Sarawak,N.07 Semariang,Semariang,1,Wan Zainal Abidin Bin Wan Senusi,2229,PKR,2877
-Sarawak,N.07 Semariang,Semariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,14803,BN,5365
-Sarawak,N.08 Satok,Satok,1,Mohamad Bin Jolhi,3594,PKR,1424
-Sarawak,N.08 Satok,Satok,2,Dato Sri Abg Abd Rahman Zohari Bin Abg Openg,14805,BN,4222
-Sarawak,N.09 Padungan,Padungan,1,Ng Kim Ho,11337,PKR,8002
-Sarawak,N.09 Padungan,Padungan,2,Lily Yong Lee Lee,14807,BN,6585
-Sarawak,N.10 Pending,Pending,1,Violet Yong Wui Wui,14808,DAP,11632
-Sarawak,N.10 Pending,Pending,2,Sim Kheng Hui,11338,BN,7260
-Sarawak,N.11 Batu Lintang,Batu Lintang,1,Voon Lee Shan,2876,DAP,8806
-Sarawak,N.11 Batu Lintang,Batu Lintang,2,Chan Seng Khai,1933,BN,5399
-Sarawak,N.12 Kota Sentosa,Kota Sentosa,1,Yap Chin Loi,12554,BN,6048
-Sarawak,N.12 Kota Sentosa,Kota Sentosa,2,Chong Chieng Jen,2874,DAP,6579
-Sarawak,N.13 Batu Kawah,Batu Kawah,1,Wong Huan Yu,14814,PKR,2575
-Sarawak,N.13 Batu Kawah,Batu Kawah,2,Tan Joo Phoi,14815,BN,6755
-Sarawak,N.14 Asajaya,Asajaya,1,Abd Karim Rahman Hamzah,13594,BN,6949
-Sarawak,N.14 Asajaya,Asajaya,2,Mosidi Bin Sait,14817,PKR,1886
-Sarawak,N.15 Muara Tuang,Muara Tuang,1,Mohammad Ali Mahmud,14818,BN,7863
-Sarawak,N.15 Muara Tuang,Muara Tuang,2,Abang Ibrahim Bin Abang Othman,9114,PKR,1536
-Sarawak,N.15 Muara Tuang,Muara Tuang,3,Jong Nyuk Chan,14820,BEBAS,415
-Sarawak,N.16 Bengoh,Bengoh,1,Mangan Anak Ngandok,14821,SNAP,3552
-Sarawak,N.16 Bengoh,Bengoh,2,Jerip Anak Susil,14822,BN,7540
-Sarawak,N.17 Tarat,Tarat,1,Roland Sagah Wee Inn,12561,BN,5854
-Sarawak,N.17 Tarat,Tarat,2,Alex Saben Anak Nipong @ Nyipong,14824,SNAP,2598
-Sarawak,N.18 Tebedu,Tebedu,1,Peter Anak Runin,11355,SNAP,1851
-Sarawak,N.18 Tebedu,Tebedu,2,Michael Manyin Anak Jawong,12562,BN,6107
-Sarawak,N.19 Kedup,Kedup,1,Frederick Bayoi Ak Manggie,9127,BN,5635
-Sarawak,N.19 Kedup,Kedup,2,Razali Bin Bolhi @ Bujang Bin Bolhi,14828,SNAP,3654
-Sarawak,N.20 Sadong Jaya,Sadong Jaya,1,Piee Bin Ling,14829,PKR,1857
-Sarawak,N.20 Sadong Jaya,Sadong Jaya,2,Wan Wahap @ Wan Abd. Wahab Bin Wan Sanusi,14830,BN,2715
-Sarawak,N.21 Simunjan,Simunjan,1,Mohd. Naroden Bin Majais,11364,BN,4786
-Sarawak,N.21 Simunjan,Simunjan,2,Sakawi Bin Nahari,14832,PKR,1436
-Sarawak,N.22 Sebuyau,Sebuyau,1,Mohamad Bin Akek,13617,PKR,1300
-Sarawak,N.22 Sebuyau,Sebuyau,2,Julaihi Bin Narawi,11370,BN,3748
-Sarawak,N.23 Lingga,Lingga,1,Simoi Binti Peri,14835,BN,3245
-Sarawak,N.23 Lingga,Lingga,2,Abang Othman Bin Abang Haji Gom,13633,PKR,1375
-Sarawak,N.24 Beting Maro,Beting Maro,1,Alem Bin Din,14837,PAS,1901
-Sarawak,N.24 Beting Maro,Beting Maro,2,Bolhassan Bin Di @ Ahmad Bin Di,10328,BN,2796
-Sarawak,N.25 Balai Ringin,Balai Ringin,1,Ibi Anak Uding,14839,SNAP,1559
-Sarawak,N.25 Balai Ringin,Balai Ringin,2,Snowdan Lawan,14840,BN,3075
-Sarawak,N.25 Balai Ringin,Balai Ringin,3,Cobbold Anak Lusol,3606,BEBAS,742
-Sarawak,N.26 Bukit Begunan,Bukit Begunan,1,Mong Anak Dagang,12574,BN,3083
-Sarawak,N.26 Bukit Begunan,Bukit Begunan,2,Daniel Tajem Anak Miri,1942,SNAP,2076
-Sarawak,N.27 Simanggang,Simanggang,1,Peli Anak Aron,14844,SNAP,886
-Sarawak,N.27 Simanggang,Simanggang,2,Francis Harden Anak Hollis,12575,BN,5144
-Sarawak,N.28 Engkilili,Engkilili,1,Johnichal Rayong Anak Ngipa,13629,SNAP,3442
-Sarawak,N.28 Engkilili,Engkilili,2,Jonathan Krai Pilo,14847,BN,3016
-Sarawak,N.29 Batang Air,Batang Air,1,Dublin Unting Anak Ingkot,12582,BN,3295
-Sarawak,N.29 Batang Air,Batang Air,2,Nicholas Bawin Anak Anggat,3608,SNAP,2489
-Sarawak,N.30 Saribas,Saribas,1,Wahbi Bin Junaidi,11390,BN,2441
-Sarawak,N.30 Saribas,Saribas,2,Abang Zulkifli Bin Abang Engkeh,3255,PKR,2347
-Sarawak,N.31 Layar,Layar,1,Dayrell Walter Entrie,14852,SNAP,1090
-Sarawak,N.31 Layar,Layar,2,Alfred Jabu Anak Numpang,7126,BN,3767
-Sarawak,N.31 Layar,Layar,3,Peter Anak Jaban,14854,BEBAS,105
-Sarawak,N.32 Bukit Saban,Bukit Saban,1,Edwin Dundang Anak Bugak,14855,SNAP,1420
-Sarawak,N.32 Bukit Saban,Bukit Saban,2,Robert Lawson Chuat Ak Vincent Entering,14856,BN,3258
-Sarawak,N.33 Kalaka,Kalaka,1,Abdul Wahab Bin Aziz,10332,BN,7396
-Sarawak,N.33 Kalaka,Kalaka,2,Jini Bin Sahini,14858,PKR,1467
-Sarawak,N.34 Krian,Krian,1,Edmund Stanley Jugol Anak Benedict,14859,SNAP,2695
-Sarawak,N.34 Krian,Krian,2,Peter Nyarok Anak Entrie,10335,BN,4784
-Sarawak,N.35 Belawai,Belawai,1,Abang Sarbini Bin Abang Ojek,14861,PKR,786
-Sarawak,N.35 Belawai,Belawai,2,Hamden Bin Ahmad,10337,BN,4102
-Sarawak,N.36 Semop,Semop,1,Mohamad Asfia Bin Awg Nasar,14863,BN,4479
-Sarawak,N.36 Semop,Semop,2,Noh Bin Sa'Bi @ Saabi,14864,PKR,1253
-Sarawak,N.37 Daro,Daro,1,Murni Bin Suhaili,14865,BN,0
-Sarawak,N.38 Jemoreng,Jemoreng,1,Nasaruddin Bin Abdullah,14866,BEBAS,1857
-Sarawak,N.38 Jemoreng,Jemoreng,2,Gani @ Abu Seman Bin Jahwie,14867,BN,3567
-Sarawak,N.39 Repok,Repok,1,David Teng Lung Chi,8040,BN,5502
-Sarawak,N.39 Repok,Repok,2,Kung Chin Chin,3617,DAP,4926
-Sarawak,N.40 Meradong,Meradong,1,Wong Kung Kuong,14870,BEBAS,603
-Sarawak,N.40 Meradong,Meradong,2,Ting Tze Fui,14871,DAP,5990
-Sarawak,N.40 Meradong,Meradong,3,Wong Zee Yeng,4896,BN,2412
-Sarawak,N.40 Meradong,Meradong,4,Junak Anak Jawek,3260,BEBAS,117
-Sarawak,N.40 Meradong,Meradong,5,David Tiong Chiong Chu,8052,BEBAS,569
-Sarawak,N.41 Pakan,Pakan,1,William Ikom,9201,BN,4138
-Sarawak,N.41 Pakan,Pakan,2,Boos Anak Tutong,14876,SNAP,2375
-Sarawak,N.42 Meluan,Meluan,1,Jenggie Anak Malaka,14877,BEBAS,2079
-Sarawak,N.42 Meluan,Meluan,2,Wong Anak Judat,3963,BN,5086
-Sarawak,N.42 Meluan,Meluan,3,Labang Anak Jamba,14879,SNAP,440
-Sarawak,N.43 Ngemah,Ngemah,1,Adeh Ak Denong,14880,BEBAS,2582
-Sarawak,N.43 Ngemah,Ngemah,2,Alexander Anak Vincent,14881,BN,2033
-Sarawak,N.43 Ngemah,Ngemah,3,Richard Anak Lias,14882,SNAP,341
-Sarawak,N.44 Machan,Machan,1,Rimong Anak Jantan,14883,SNAP,1756
-Sarawak,N.44 Machan,Machan,2,Gramong Juna,8070,BN,4045
-Sarawak,N.45 Bukit Assek,Bukit Assek,1,Wong Ho Leng,1965,DAP,10380
-Sarawak,N.45 Bukit Assek,Bukit Assek,2,Ngleng Kiong Ann,14886,BN,5629
-Sarawak,N.46 Dudong,Dudong,1,Soon Choon Teck,12615,BN,7359
-Sarawak,N.46 Dudong,Dudong,2,Stephen Lu Cheng Kuok,14888,DAP,6951
-Sarawak,N.47 Bawang Assan,Bawang Assan,1,Wong Soon Koh,5200,BN,6804
-Sarawak,N.47 Bawang Assan,Bawang Assan,2,Wong Kee Woan,14890,DAP,4300
-Sarawak,N.48 Pelawan,Pelawan,1,Goh Chung Siong,12618,BN,7375
-Sarawak,N.48 Pelawan,Pelawan,2,Ting Chek Ming,9849,DAP,7112
-Sarawak,N.49 Nangka,Nangka,1,Awang Bemee Bin Awang Ali Basah,12620,BN,6202
-Sarawak,N.49 Nangka,Nangka,2,Abang Bungsu @ Abg Ariffin Bin Abang Sebli,14894,PKR,1387
-Sarawak,N.50 Dalat,Dalat,1,Fatimah Binti Abdullah,13683,BN,0
-Sarawak,N.51 Balingian,Balingian,1,Abdul Taib Bin Mahmud,14896,BN,6393
-Sarawak,N.51 Balingian,Balingian,2,Ibrahim Bin Bayau,14897,PKR,667
-Sarawak,N.52 Tamin,Tamin,1,Augustine Anak Liom @ August Liom,14898,SNAP,2262
-Sarawak,N.52 Tamin,Tamin,2,Joseph Mauh Anak Ikeh,2901,BN,4639
-Sarawak,N.53 Kakus,Kakus,1,John Sikie Anak Tayai,11447,BN,3739
-Sarawak,N.53 Kakus,Kakus,2,Chin Khin Hee,14901,BEBAS,783
-Sarawak,N.53 Kakus,Kakus,3,Charlie @ Chali Anak Lunyong,13692,SNAP,887
-Sarawak,N.54 Pelagus,Pelagus,1,Larry Soon @ Larry Sng Wei Shien,3956,BN,5965
-Sarawak,N.54 Pelagus,Pelagus,2,Simon Anak Sibat,1960,SNAP,541
-Sarawak,N.54 Pelagus,Pelagus,3,Jeffrey Nuing Anak Ebom,13696,BEBAS,2726
-Sarawak,N.55 Katibas,Katibas,1,Ambrose Blikau Anak Enturan,8075,BN,3887
-Sarawak,N.55 Katibas,Katibas,2,Stephen Ayot Anak Kali,14907,BEBAS,430
-Sarawak,N.55 Katibas,Katibas,3,Abd Halim Bin Abdullah,14908,SNAP,555
-Sarawak,N.56 Baleh,Baleh,1,James Jemut Masing,9222,BN,5330
-Sarawak,N.56 Baleh,Baleh,2,Lucius Anak Jimbon,2581,SNAP,528
-Sarawak,N.57 Belaga,Belaga,1,Stanley Ajang Batok,9223,BEBAS,1628
-Sarawak,N.57 Belaga,Belaga,2,Liwan Lagang,14912,BN,1855
-Sarawak,N.57 Belaga,Belaga,3,John Bampa,14913,SNAP,912
-Sarawak,N.58 Jepak,Jepak,1,Talib Bin Zulpilip,13711,BN,4997
-Sarawak,N.58 Jepak,Jepak,2,Wan Saimi Bin Wan Dahlan,13713,DAP,1818
-Sarawak,N.59 Kidurong,Kidurong,1,Paul Yong Khing Kee,14916,BN,6853
-Sarawak,N.59 Kidurong,Kidurong,2,Chiew Chiu Sing,2269,DAP,8517
-Sarawak,N.60 Kemena,Kemena,1,John Brian Anthony Anak Jeremy,14918,SNAP,3178
-Sarawak,N.60 Kemena,Kemena,2,Stephen Rundi Anak Utom,13705,BN,4750
-Sarawak,N.61 Bekenu,Bekenu,1,Rosey Binti Yunus,14920,BN,4357
-Sarawak,N.61 Bekenu,Bekenu,2,Mohdak Bin Ismail,14921,PKR,1285
-Sarawak,N.62 Lambir,Lambir,1,Swin Bin Jema'Ah,14922,BN,4331
-Sarawak,N.62 Lambir,Lambir,2,Saji Bin Samat,14923,PKR,1497
-Sarawak,N.63 Piasau,Piasau,1,Ngu Hee Hieng,14924,PKR,2655
-Sarawak,N.63 Piasau,Piasau,2,George Chan Hong Nam,1655,BN,6573
-Sarawak,N.64 Pujut,Pujut,1,Fong Pau Teck,3626,DAP,5123
-Sarawak,N.64 Pujut,Pujut,2,Chia Chu Fatt,14927,BN,6493
-Sarawak,N.65 Senadin,Senadin,1,Chai Chook Fui,14928,PKR,2374
-Sarawak,N.65 Senadin,Senadin,2,Lee Kim Sin,12651,BN,7173
-Sarawak,N.66 Marudi,Marudi,1,Sylvester Entri Anak Muran,13722,BN,4954
-Sarawak,N.66 Marudi,Marudi,2,Hwong Him Pang,14931,BEBAS,117
-Sarawak,N.66 Marudi,Marudi,3,Lajan @ Telajan Anak Luyoh,14932,SNAP,670
-Sarawak,N.66 Marudi,Marudi,4,Engkamat Anak Jelani,14933,BEBAS,656
-Sarawak,N.67 Telang Usan,Telang Usan,1,Kebing Wan,3276,SNAP,1822
-Sarawak,N.67 Telang Usan,Telang Usan,2,Lidam Janang,14935,BEBAS,144
-Sarawak,N.67 Telang Usan,Telang Usan,3,Lihan Jok,13726,BN,4593
-Sarawak,N.68 Bukit Kota,Bukit Kota,1,Abdul Rahman Bin Ismail,8390,BN,5501
-Sarawak,N.68 Bukit Kota,Bukit Kota,2,Said Bin Mohidin,13729,BEBAS,2272
-Sarawak,N.68 Bukit Kota,Bukit Kota,3,Ali Bin Abdullah,5877,BEBAS,32
-Sarawak,N.69 Bukit Danau,Bukit Danau,1,Christopher Sawan Anak Jiram,9242,SNAP,1699
-Sarawak,N.69 Bukit Danau,Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,14941,BN,2961
-Sarawak,N.70 Ba`kelalan,Ba`kelalan,1,Baru Bian,3981,SNAP,1589
-Sarawak,N.70 Ba`kelalan,Ba`kelalan,2,Balang Rining,14943,BN,2064
-Sarawak,N.71 Bukit Sari,Bukit Sari,1,Tengah Bin Ali Hassin,12657,BN,5596
-Sarawak,N.71 Bukit Sari,Bukit Sari,2,Japar Bin Suyut,3629,BEBAS,321
-Sarawak,N.71 Bukit Sari,Bukit Sari,3,Mohamad Bin Haji Ibrahim,14946,PKR,98
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Sarawak,N.01 Opar,Opar,1,Ranum Anak Mina,13563,BN,25,3585
+Sarawak,N.01 Opar,Opar,2,Patrick Anek Uren,1617,SNAP,19,1402
+Sarawak,N.02 Tasik Biru,Tasik Biru,1,Peter Nansian Anak Ngusie,13568,BN,25,6393
+Sarawak,N.02 Tasik Biru,Tasik Biru,2,Joseph Jutem Anak Umen,14792,SNAP,19,3190
+Sarawak,N.03 Tanjung Datu,Tanjung Datu,1,Adenan Bin Satem,14793,BN,25,4545
+Sarawak,N.03 Tanjung Datu,Tanjung Datu,2,Sobey Bin Daud,14794,PKR,11,409
+Sarawak,N.03 Tanjung Datu,Tanjung Datu,3,Larry Dominic Linang,14795,BEBAS,1,357
+Sarawak,N.04 Pantai Damai,Pantai Damai,1,Idris Bin Bohari,3241,PKR,11,3053
+Sarawak,N.04 Pantai Damai,Pantai Damai,2,Abdul Rahman Bin Junaidi,14797,BN,25,5217
+Sarawak,N.05 Demak Laut,Demak Laut,1,Abg. Draup Zamahari Bin Abg Haji Zen,14798,BN,25,5094
+Sarawak,N.05 Demak Laut,Demak Laut,2,Saidan @ Massudin Bin Sahini,11327,PKR,11,1489
+Sarawak,N.06 Tupong,Tupong,1,Daud Bin Abdul Rahman,14800,BN,25,6885
+Sarawak,N.06 Tupong,Tupong,2,Ramlee Bin Mahtar,14801,PKR,11,2313
+Sarawak,N.07 Semariang,Semariang,1,Wan Zainal Abidin Bin Wan Senusi,2229,PKR,11,2877
+Sarawak,N.07 Semariang,Semariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,14803,BN,25,5365
+Sarawak,N.08 Satok,Satok,1,Mohamad Bin Jolhi,3594,PKR,11,1424
+Sarawak,N.08 Satok,Satok,2,Dato Sri Abg Abd Rahman Zohari Bin Abg Openg,14805,BN,25,4222
+Sarawak,N.09 Padungan,Padungan,1,Ng Kim Ho,11337,PKR,11,8002
+Sarawak,N.09 Padungan,Padungan,2,Lily Yong Lee Lee,14807,BN,25,6585
+Sarawak,N.10 Pending,Pending,1,Violet Yong Wui Wui,14808,DAP,18,11632
+Sarawak,N.10 Pending,Pending,2,Sim Kheng Hui,11338,BN,25,7260
+Sarawak,N.11 Batu Lintang,Batu Lintang,1,Voon Lee Shan,2876,DAP,18,8806
+Sarawak,N.11 Batu Lintang,Batu Lintang,2,Chan Seng Khai,1933,BN,25,5399
+Sarawak,N.12 Kota Sentosa,Kota Sentosa,1,Yap Chin Loi,12554,BN,25,6048
+Sarawak,N.12 Kota Sentosa,Kota Sentosa,2,Chong Chieng Jen,2874,DAP,18,6579
+Sarawak,N.13 Batu Kawah,Batu Kawah,1,Wong Huan Yu,14814,PKR,11,2575
+Sarawak,N.13 Batu Kawah,Batu Kawah,2,Tan Joo Phoi,14815,BN,25,6755
+Sarawak,N.14 Asajaya,Asajaya,1,Abd Karim Rahman Hamzah,13594,BN,25,6949
+Sarawak,N.14 Asajaya,Asajaya,2,Mosidi Bin Sait,14817,PKR,11,1886
+Sarawak,N.15 Muara Tuang,Muara Tuang,1,Mohammad Ali Mahmud,14818,BN,25,7863
+Sarawak,N.15 Muara Tuang,Muara Tuang,2,Abang Ibrahim Bin Abang Othman,9114,PKR,11,1536
+Sarawak,N.15 Muara Tuang,Muara Tuang,3,Jong Nyuk Chan,14820,BEBAS,1,415
+Sarawak,N.16 Bengoh,Bengoh,1,Mangan Anak Ngandok,14821,SNAP,19,3552
+Sarawak,N.16 Bengoh,Bengoh,2,Jerip Anak Susil,14822,BN,25,7540
+Sarawak,N.17 Tarat,Tarat,1,Roland Sagah Wee Inn,12561,BN,25,5854
+Sarawak,N.17 Tarat,Tarat,2,Alex Saben Anak Nipong @ Nyipong,14824,SNAP,19,2598
+Sarawak,N.18 Tebedu,Tebedu,1,Peter Anak Runin,11355,SNAP,19,1851
+Sarawak,N.18 Tebedu,Tebedu,2,Michael Manyin Anak Jawong,12562,BN,25,6107
+Sarawak,N.19 Kedup,Kedup,1,Frederick Bayoi Ak Manggie,9127,BN,25,5635
+Sarawak,N.19 Kedup,Kedup,2,Razali Bin Bolhi @ Bujang Bin Bolhi,14828,SNAP,19,3654
+Sarawak,N.20 Sadong Jaya,Sadong Jaya,1,Piee Bin Ling,14829,PKR,11,1857
+Sarawak,N.20 Sadong Jaya,Sadong Jaya,2,Wan Wahap @ Wan Abd. Wahab Bin Wan Sanusi,14830,BN,25,2715
+Sarawak,N.21 Simunjan,Simunjan,1,Mohd. Naroden Bin Majais,11364,BN,25,4786
+Sarawak,N.21 Simunjan,Simunjan,2,Sakawi Bin Nahari,14832,PKR,11,1436
+Sarawak,N.22 Sebuyau,Sebuyau,1,Mohamad Bin Akek,13617,PKR,11,1300
+Sarawak,N.22 Sebuyau,Sebuyau,2,Julaihi Bin Narawi,11370,BN,25,3748
+Sarawak,N.23 Lingga,Lingga,1,Simoi Binti Peri,14835,BN,25,3245
+Sarawak,N.23 Lingga,Lingga,2,Abang Othman Bin Abang Haji Gom,13633,PKR,11,1375
+Sarawak,N.24 Beting Maro,Beting Maro,1,Alem Bin Din,14837,PAS,3,1901
+Sarawak,N.24 Beting Maro,Beting Maro,2,Bolhassan Bin Di @ Ahmad Bin Di,10328,BN,25,2796
+Sarawak,N.25 Balai Ringin,Balai Ringin,1,Ibi Anak Uding,14839,SNAP,19,1559
+Sarawak,N.25 Balai Ringin,Balai Ringin,2,Snowdan Lawan,14840,BN,25,3075
+Sarawak,N.25 Balai Ringin,Balai Ringin,3,Cobbold Anak Lusol,3606,BEBAS,1,742
+Sarawak,N.26 Bukit Begunan,Bukit Begunan,1,Mong Anak Dagang,12574,BN,25,3083
+Sarawak,N.26 Bukit Begunan,Bukit Begunan,2,Daniel Tajem Anak Miri,1942,SNAP,19,2076
+Sarawak,N.27 Simanggang,Simanggang,1,Peli Anak Aron,14844,SNAP,19,886
+Sarawak,N.27 Simanggang,Simanggang,2,Francis Harden Anak Hollis,12575,BN,25,5144
+Sarawak,N.28 Engkilili,Engkilili,1,Johnichal Rayong Anak Ngipa,13629,SNAP,19,3442
+Sarawak,N.28 Engkilili,Engkilili,2,Jonathan Krai Pilo,14847,BN,25,3016
+Sarawak,N.29 Batang Air,Batang Air,1,Dublin Unting Anak Ingkot,12582,BN,25,3295
+Sarawak,N.29 Batang Air,Batang Air,2,Nicholas Bawin Anak Anggat,3608,SNAP,19,2489
+Sarawak,N.30 Saribas,Saribas,1,Wahbi Bin Junaidi,11390,BN,25,2441
+Sarawak,N.30 Saribas,Saribas,2,Abang Zulkifli Bin Abang Engkeh,3255,PKR,11,2347
+Sarawak,N.31 Layar,Layar,1,Dayrell Walter Entrie,14852,SNAP,19,1090
+Sarawak,N.31 Layar,Layar,2,Alfred Jabu Anak Numpang,7126,BN,25,3767
+Sarawak,N.31 Layar,Layar,3,Peter Anak Jaban,14854,BEBAS,1,105
+Sarawak,N.32 Bukit Saban,Bukit Saban,1,Edwin Dundang Anak Bugak,14855,SNAP,19,1420
+Sarawak,N.32 Bukit Saban,Bukit Saban,2,Robert Lawson Chuat Ak Vincent Entering,14856,BN,25,3258
+Sarawak,N.33 Kalaka,Kalaka,1,Abdul Wahab Bin Aziz,10332,BN,25,7396
+Sarawak,N.33 Kalaka,Kalaka,2,Jini Bin Sahini,14858,PKR,11,1467
+Sarawak,N.34 Krian,Krian,1,Edmund Stanley Jugol Anak Benedict,14859,SNAP,19,2695
+Sarawak,N.34 Krian,Krian,2,Peter Nyarok Anak Entrie,10335,BN,25,4784
+Sarawak,N.35 Belawai,Belawai,1,Abang Sarbini Bin Abang Ojek,14861,PKR,11,786
+Sarawak,N.35 Belawai,Belawai,2,Hamden Bin Ahmad,10337,BN,25,4102
+Sarawak,N.36 Semop,Semop,1,Mohamad Asfia Bin Awg Nasar,14863,BN,25,4479
+Sarawak,N.36 Semop,Semop,2,Noh Bin Sa'Bi @ Saabi,14864,PKR,11,1253
+Sarawak,N.37 Daro,Daro,1,Murni Bin Suhaili,14865,BN,25,0
+Sarawak,N.38 Jemoreng,Jemoreng,1,Nasaruddin Bin Abdullah,14866,BEBAS,1,1857
+Sarawak,N.38 Jemoreng,Jemoreng,2,Gani @ Abu Seman Bin Jahwie,14867,BN,25,3567
+Sarawak,N.39 Repok,Repok,1,David Teng Lung Chi,8040,BN,25,5502
+Sarawak,N.39 Repok,Repok,2,Kung Chin Chin,3617,DAP,18,4926
+Sarawak,N.40 Meradong,Meradong,1,Wong Kung Kuong,14870,BEBAS,1,603
+Sarawak,N.40 Meradong,Meradong,2,Ting Tze Fui,14871,DAP,18,5990
+Sarawak,N.40 Meradong,Meradong,3,Wong Zee Yeng,4896,BN,25,2412
+Sarawak,N.40 Meradong,Meradong,4,Junak Anak Jawek,3260,BEBAS,1,117
+Sarawak,N.40 Meradong,Meradong,5,David Tiong Chiong Chu,8052,BEBAS,1,569
+Sarawak,N.41 Pakan,Pakan,1,William Ikom,9201,BN,25,4138
+Sarawak,N.41 Pakan,Pakan,2,Boos Anak Tutong,14876,SNAP,19,2375
+Sarawak,N.42 Meluan,Meluan,1,Jenggie Anak Malaka,14877,BEBAS,1,2079
+Sarawak,N.42 Meluan,Meluan,2,Wong Anak Judat,3963,BN,25,5086
+Sarawak,N.42 Meluan,Meluan,3,Labang Anak Jamba,14879,SNAP,19,440
+Sarawak,N.43 Ngemah,Ngemah,1,Adeh Ak Denong,14880,BEBAS,1,2582
+Sarawak,N.43 Ngemah,Ngemah,2,Alexander Anak Vincent,14881,BN,25,2033
+Sarawak,N.43 Ngemah,Ngemah,3,Richard Anak Lias,14882,SNAP,19,341
+Sarawak,N.44 Machan,Machan,1,Rimong Anak Jantan,14883,SNAP,19,1756
+Sarawak,N.44 Machan,Machan,2,Gramong Juna,8070,BN,25,4045
+Sarawak,N.45 Bukit Assek,Bukit Assek,1,Wong Ho Leng,1965,DAP,18,10380
+Sarawak,N.45 Bukit Assek,Bukit Assek,2,Ngleng Kiong Ann,14886,BN,25,5629
+Sarawak,N.46 Dudong,Dudong,1,Soon Choon Teck,12615,BN,25,7359
+Sarawak,N.46 Dudong,Dudong,2,Stephen Lu Cheng Kuok,14888,DAP,18,6951
+Sarawak,N.47 Bawang Assan,Bawang Assan,1,Wong Soon Koh,5200,BN,25,6804
+Sarawak,N.47 Bawang Assan,Bawang Assan,2,Wong Kee Woan,14890,DAP,18,4300
+Sarawak,N.48 Pelawan,Pelawan,1,Goh Chung Siong,12618,BN,25,7375
+Sarawak,N.48 Pelawan,Pelawan,2,Ting Chek Ming,9849,DAP,18,7112
+Sarawak,N.49 Nangka,Nangka,1,Awang Bemee Bin Awang Ali Basah,12620,BN,25,6202
+Sarawak,N.49 Nangka,Nangka,2,Abang Bungsu @ Abg Ariffin Bin Abang Sebli,14894,PKR,11,1387
+Sarawak,N.50 Dalat,Dalat,1,Fatimah Binti Abdullah,13683,BN,25,0
+Sarawak,N.51 Balingian,Balingian,1,Abdul Taib Bin Mahmud,14896,BN,25,6393
+Sarawak,N.51 Balingian,Balingian,2,Ibrahim Bin Bayau,14897,PKR,11,667
+Sarawak,N.52 Tamin,Tamin,1,Augustine Anak Liom @ August Liom,14898,SNAP,19,2262
+Sarawak,N.52 Tamin,Tamin,2,Joseph Mauh Anak Ikeh,2901,BN,25,4639
+Sarawak,N.53 Kakus,Kakus,1,John Sikie Anak Tayai,11447,BN,25,3739
+Sarawak,N.53 Kakus,Kakus,2,Chin Khin Hee,14901,BEBAS,1,783
+Sarawak,N.53 Kakus,Kakus,3,Charlie @ Chali Anak Lunyong,13692,SNAP,19,887
+Sarawak,N.54 Pelagus,Pelagus,1,Larry Soon @ Larry Sng Wei Shien,3956,BN,25,5965
+Sarawak,N.54 Pelagus,Pelagus,2,Simon Anak Sibat,1960,SNAP,19,541
+Sarawak,N.54 Pelagus,Pelagus,3,Jeffrey Nuing Anak Ebom,13696,BEBAS,1,2726
+Sarawak,N.55 Katibas,Katibas,1,Ambrose Blikau Anak Enturan,8075,BN,25,3887
+Sarawak,N.55 Katibas,Katibas,2,Stephen Ayot Anak Kali,14907,BEBAS,1,430
+Sarawak,N.55 Katibas,Katibas,3,Abd Halim Bin Abdullah,14908,SNAP,19,555
+Sarawak,N.56 Baleh,Baleh,1,James Jemut Masing,9222,BN,25,5330
+Sarawak,N.56 Baleh,Baleh,2,Lucius Anak Jimbon,2581,SNAP,19,528
+Sarawak,N.57 Belaga,Belaga,1,Stanley Ajang Batok,9223,BEBAS,1,1628
+Sarawak,N.57 Belaga,Belaga,2,Liwan Lagang,14912,BN,25,1855
+Sarawak,N.57 Belaga,Belaga,3,John Bampa,14913,SNAP,19,912
+Sarawak,N.58 Jepak,Jepak,1,Talib Bin Zulpilip,13711,BN,25,4997
+Sarawak,N.58 Jepak,Jepak,2,Wan Saimi Bin Wan Dahlan,13713,DAP,18,1818
+Sarawak,N.59 Kidurong,Kidurong,1,Paul Yong Khing Kee,14916,BN,25,6853
+Sarawak,N.59 Kidurong,Kidurong,2,Chiew Chiu Sing,2269,DAP,18,8517
+Sarawak,N.60 Kemena,Kemena,1,John Brian Anthony Anak Jeremy,14918,SNAP,19,3178
+Sarawak,N.60 Kemena,Kemena,2,Stephen Rundi Anak Utom,13705,BN,25,4750
+Sarawak,N.61 Bekenu,Bekenu,1,Rosey Binti Yunus,14920,BN,25,4357
+Sarawak,N.61 Bekenu,Bekenu,2,Mohdak Bin Ismail,14921,PKR,11,1285
+Sarawak,N.62 Lambir,Lambir,1,Swin Bin Jema'Ah,14922,BN,25,4331
+Sarawak,N.62 Lambir,Lambir,2,Saji Bin Samat,14923,PKR,11,1497
+Sarawak,N.63 Piasau,Piasau,1,Ngu Hee Hieng,14924,PKR,11,2655
+Sarawak,N.63 Piasau,Piasau,2,George Chan Hong Nam,1655,BN,25,6573
+Sarawak,N.64 Pujut,Pujut,1,Fong Pau Teck,3626,DAP,18,5123
+Sarawak,N.64 Pujut,Pujut,2,Chia Chu Fatt,14927,BN,25,6493
+Sarawak,N.65 Senadin,Senadin,1,Chai Chook Fui,14928,PKR,11,2374
+Sarawak,N.65 Senadin,Senadin,2,Lee Kim Sin,12651,BN,25,7173
+Sarawak,N.66 Marudi,Marudi,1,Sylvester Entri Anak Muran,13722,BN,25,4954
+Sarawak,N.66 Marudi,Marudi,2,Hwong Him Pang,14931,BEBAS,1,117
+Sarawak,N.66 Marudi,Marudi,3,Lajan @ Telajan Anak Luyoh,14932,SNAP,19,670
+Sarawak,N.66 Marudi,Marudi,4,Engkamat Anak Jelani,14933,BEBAS,1,656
+Sarawak,N.67 Telang Usan,Telang Usan,1,Kebing Wan,3276,SNAP,19,1822
+Sarawak,N.67 Telang Usan,Telang Usan,2,Lidam Janang,14935,BEBAS,1,144
+Sarawak,N.67 Telang Usan,Telang Usan,3,Lihan Jok,13726,BN,25,4593
+Sarawak,N.68 Bukit Kota,Bukit Kota,1,Abdul Rahman Bin Ismail,8390,BN,25,5501
+Sarawak,N.68 Bukit Kota,Bukit Kota,2,Said Bin Mohidin,13729,BEBAS,1,2272
+Sarawak,N.68 Bukit Kota,Bukit Kota,3,Ali Bin Abdullah,5877,BEBAS,1,32
+Sarawak,N.69 Bukit Danau,Bukit Danau,1,Christopher Sawan Anak Jiram,9242,SNAP,19,1699
+Sarawak,N.69 Bukit Danau,Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,14941,BN,25,2961
+Sarawak,N.70 Ba`kelalan,Ba`kelalan,1,Baru Bian,3981,SNAP,19,1589
+Sarawak,N.70 Ba`kelalan,Ba`kelalan,2,Balang Rining,14943,BN,25,2064
+Sarawak,N.71 Bukit Sari,Bukit Sari,1,Tengah Bin Ali Hassin,12657,BN,25,5596
+Sarawak,N.71 Bukit Sari,Bukit Sari,2,Japar Bin Suyut,3629,BEBAS,1,321
+Sarawak,N.71 Bukit Sari,Bukit Sari,3,Mohamad Bin Haji Ibrahim,14946,PKR,11,98

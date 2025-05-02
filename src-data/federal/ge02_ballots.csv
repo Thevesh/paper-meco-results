@@ -1,280 +1,280 @@
-state,parlimen,area_name,ballot_order,name,candidate_uid,party,votes
-Perlis,P.001 Perlis Utara,Perlis Utara,1,Ismail Bin Mohamad,365,PAS,6119
-Perlis,P.001 Perlis Utara,Perlis Utara,2,Othman Bin Abdullah,55,PERIKATAN,12521
-Perlis,P.002 Perlis Selatan,Perlis Selatan,1,Haji Mohktar Bin Haji Ismail,318,PERIKATAN,10486
-Perlis,P.002 Perlis Selatan,Perlis Selatan,2,Haji Yusof Bin Hj. Abdullah,247,PAS,7250
-Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,1,L. Isa Bin Hj Mahamad,366,PAS,6105
-Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,2,Datin Fatimah Binti Haji Hashim,367,PERIKATAN,15835
-Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,1,Haji Bakar Bin H. Hanafiah,368,PAS,6566
-Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,2,Senu Bin Abdul Rahman,369,PERIKATAN,9942
-Kedah,P.005 Kota Star Utara,Kota Star Utara,1,Abu Bakar Bin Umar,370,PAS,6922
-Kedah,P.005 Kota Star Utara,Kota Star Utara,2,Haji Abdul Khalid,168,PERIKATAN,11847
-Kedah,P.006 Alor Star,Alor Star,1,Teoh Ah Thow,165,BEBAS,1747
-Kedah,P.006 Alor Star,Alor Star,2,Lim Pee Hung,371,PERIKATAN,14749
-Kedah,P.006 Alor Star,Alor Star,3,Syed Salim Bin Syed Hamid Al-Idrus,372,PAS,3608
-Kedah,P.006 Alor Star,Alor Star,4,Geh Teng Kheng,373,PDB,2695
-Kedah,P.007 Kuala Kedah,Kuala Kedah,1,Mustaffa Bin Mohd. Said,374,PAS,5462
-Kedah,P.007 Kuala Kedah,Kuala Kedah,2,Tunku Abdul Rahman Putra Al-Haj,103,PERIKATAN,17109
-Kedah,P.008 Kota Star Selatan,Kota Star Selatan,1,Dr Mahathir Bin Mohamad,375,PERIKATAN,12406
-Kedah,P.008 Kota Star Selatan,Kota Star Selatan,2,Mohd Shaari Bin Haji Abd Shukor,376,PAS,8196
-Kedah,P.009 Kedah Tengah,Kedah Tengah,1,Khir Johari,377,PERIKATAN,16042
-Kedah,P.009 Kedah Tengah,Kedah Tengah,2,Haji Hussin Che' Dol,378,PAS,5362
-Kedah,P.010 Perai,Perai,1,Hanafiah Hussain,379,PERIKATAN,14002
-Kedah,P.010 Perai,Perai,2,Haji Othman Bin Hj. Yunus,380,PAS,7085
-Kedah,P.011 Baling,Baling,1,Yaacob Bin Hj. Shafie,381,PAS,5208
-Kedah,P.011 Baling,Baling,2,Abdullah Bin Mohamed Hashim,382,BEBAS,1782
-Kedah,P.011 Baling,Baling,3,Harun Bin Abdullah,183,PERIKATAN,14970
-Kedah,P.012 Sungei Patani,Sungei Patani,1,Mohamed Zahir Bin Haji Ismail,383,PERIKATAN,14177
-Kedah,P.012 Sungei Patani,Sungei Patani,2,Said Jan Aljeffri,384,PAS,1176
-Kedah,P.012 Sungei Patani,Sungei Patani,3,Teh Pek Choon,385,BEBAS,3680
-Kedah,P.012 Sungei Patani,Sungei Patani,4,Ong Boon Seong,386,PDB,1154
-Kedah,P.013 Kulim Utara,Kulim Utara,1,Khatib Shorbaini,387,PAS,3910
-Kedah,P.013 Kulim Utara,Kulim Utara,2,Hanafi Bin Mohd. Yunus,185,PERIKATAN,12839
-Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,1,Tai Kuan Yang,388,PERIKATAN,15077
-Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,2,Mohamad Amin Bin Che' Mat,389,PAS,2261
-Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,3,A. K. Veeman S/O Kanusamy,390,BEBAS,4584
-Kelantan,P.015 Tumpat,Tumpat,1,Wan Hassan Bin Wan Daud,391,PAS,10248
-Kelantan,P.015 Tumpat,Tumpat,2,Che' Lat Bin Kassim,392,PERIKATAN,10056
-Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,1,Haji Ahmad Bin Abdullah,393,PAS,12721
-Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,2,Tengku Abdullah Bin Tengku Ahmad,394,PERIKATAN,6496
-Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,1,Muhammad Fakhruddin Bin Haji Abdullah,395,PAS,13476
-Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,2,Haji Mokhtar Bin Haji Ahmed,115,PERIKATAN,5261
-Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,1,Wan Mustapha Bin Haji Ali,396,PAS,10929
-Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,2,Dato' Nik Ahmed Kamil,397,PERIKATAN,11585
-Kelantan,P.019 Bachok,Bachok,1,Hassan Haji Mohamed,398,PERIKATAN,8278
-Kelantan,P.019 Bachok,Bachok,2,Zulkiflee Bin Muhammad,196,PAS,12659
-Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,1,Haji Husain Rahimi Bin Haji Saman,399,PAS,15656
-Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,2,Hj. Ibrahim Bin Hj. Mat,400,PERIKATAN,7915
-Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,1,Husein Bin Ahmad,401,PERIKATAN,5496
-Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,2,Abdul Samad Bin Gul Ahmad Mianji,402,PAS,9857
-Kelantan,P.022 Pasir Puteh,Pasir Puteh,1,Haji Idris Bin Ismail,403,PERIKATAN,10393
-Kelantan,P.022 Pasir Puteh,Pasir Puteh,2,Mohd. Asri Bin Haji Muda,112,PAS,11798
-Kelantan,P.023 Tanah Merah,Tanah Merah,1,Mustapha Bin Ahmad,404,PERIKATAN,12318
-Kelantan,P.023 Tanah Merah,Tanah Merah,2,Isahak Bin Abdul Hamid,405,PAS,11549
-Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,1,Hj. Wan Yusoff Bin H. Che' Tengah,406,PAS,9108
-Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,2,Hussein Bin Sulaiman,407,PERIKATAN,12681
-Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,3,Abdullah Bin Mat Ariff,408,BEBAS,414
-Terengganu,P.025 Besut,Besut,1,Abu Bakar Bin Ahmad,409,PERIKATAN,10859
-Terengganu,P.025 Besut,Besut,2,Mohd. Daud Bin Abdul Samad,410,PAS,10995
-Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,1,Che Embong Bin Abdullah,411,PN,1020
-Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,2,Wan Abdul Kadir Bin Ismail,356,PERIKATAN,11500
-Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,3,Salahuddin Bin Abdullah,412,PAS,5829
-Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,1,Garieb Bin Abdul Raouf,413,PN,5349
-Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,2,Dato'  Bijaya Di-Raja (Abdullah Bin Abdul Rahman),414,PERIKATAN,9795
-Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,3,Haji Mohamed Taib Bin Haji Ismail,415,PAS,1775
-Terengganu,P.028 Dungun,Dungun,1,Harun Bin Yusoff,416,BEBAS,691
-Terengganu,P.028 Dungun,Dungun,2,Ngah Bin Mohd.,417,PAS,5941
-Terengganu,P.028 Dungun,Dungun,3,Suleiman Bin Ali,125,PERIKATAN,7483
-Terengganu,P.028 Dungun,Dungun,4,Attan Bin Naib,418,PN,562
-Terengganu,P.029 Kemaman,Kemaman,1,Syed Noh Bin Alwee,419,PAS,2589
-Terengganu,P.029 Kemaman,Kemaman,2,Wan Mokhtar Bin Ahmad,420,PERIKATAN,10153
-Terengganu,P.029 Kemaman,Kemaman,3,Wan Hamid Bin Wan Ibrahim,421,BEBAS,3072
-Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,1,Engku Mohsein Bin Abdul Kader,124,PERIKATAN,11002
-Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,2,Abd. Latif Bin Haji Fakeh,422,BEBAS,1156
-Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,3,Che' Su Mahmud Bin Dato' Amar,423,PAS,7393
-Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,4,Abu Bakar Arshadi,424,PN,388
-Pulau Pinang,P.031 Bagan,Bagan,1,Tan Cheng Bee,245,PERIKATAN,8295
-Pulau Pinang,P.031 Bagan,Bagan,2,Shariff Bin Mohd. Isa,425,PAS,983
-Pulau Pinang,P.031 Bagan,Bagan,3,Mohd. Sallehn Bin Yacob,426,BEBAS,6564
-Pulau Pinang,P.031 Bagan,Bagan,4,M. P. Mathew,427,PDB,871
-Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,1,Ooi Chooi Cheng,428,PDB,5215
-Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,2,Kam Yau Wah,429,BEBAS,7486
-Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,3,Ibrahim Bin Abdul Rahman,251,PERIKATAN,15660
-Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,1,Mohamed Noor Bin Hj. Mokhtar,430,PAS,457
-Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,2,Md. Noordin Bin Mastan,431,PERIKATAN,10427
-Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,3,V. Veerapen,252,BEBAS,6322
-Pulau Pinang,P.034 Penang Utara,Penang Utara,1,Lau Teik Hai,262,BEBAS,10148
-Pulau Pinang,P.034 Penang Utara,Penang Utara,2,Geh Chong Keat,260,PERIKATAN,16686
-Pulau Pinang,P.034 Penang Utara,Penang Utara,3,Toh Boon Kooi,432,PDB,5149
-Pulau Pinang,P.035 Penang Selatan,Penang Selatan,1,Ismail Bin Dris,266,PERIKATAN,16088
-Pulau Pinang,P.035 Penang Selatan,Penang Selatan,2,Abubakar Bin Hashim,433,BEBAS,12572
-Pulau Pinang,P.035 Penang Selatan,Penang Selatan,3,Lim Mee Lee,434,PDB,4752
-Pulau Pinang,P.036 Tanjong,Tanjong,1,Dr. Lim Chong Eu,435,PDB,12928
-Pulau Pinang,P.036 Tanjong,Tanjong,2,Tan Chong Bee,245,PETIR,778
-Pulau Pinang,P.036 Tanjong,Tanjong,3,Choong Ewe Leong,436,PERIKATAN,6271
-Pulau Pinang,P.036 Tanjong,Tanjong,4,Tan Phock Kin,256,BEBAS,8516
-Pulau Pinang,P.037 Datok Keramat,Datok Keramat,1,Lim Cheng Poh,437,PERIKATAN,7707
-Pulau Pinang,P.037 Datok Keramat,Datok Keramat,2,Teh Ewe Lim,438,PDB,8236
-Pulau Pinang,P.037 Datok Keramat,Datok Keramat,3,Lim Kean Siew,258,BEBAS,10102
-Pulau Pinang,P.038 Seberang Utara,Seberang Utara,1,Omar Bin Mohd. Yusoff,439,BEBAS,3277
-Pulau Pinang,P.038 Seberang Utara,Seberang Utara,2,Siti Fatimah @ Salmah Binti Sheikh Hussain,440,PAS,4087
-Pulau Pinang,P.038 Seberang Utara,Seberang Utara,3,Haji Ahmad Bin Sa'Id,248,PERIKATAN,15440
-Perak,P.039 Ulu Perak,Ulu Perak,1,Mohd. Ghazali Bin Jawi,26,PERIKATAN,12486
-Perak,P.039 Ulu Perak,Ulu Perak,2,Adnan Bin Alang Abdul Mutalib,441,PAS,3015
-Perak,P.039 Ulu Perak,Ulu Perak,3,Tan Kim Seng,285,PDB,2896
-Perak,P.040 Larut Utara,Larut Utara,1,Tajudin Bin Ali,442,PERIKATAN,14778
-Perak,P.040 Larut Utara,Larut Utara,2,Hj. Ab. Samad Bin Haji Noh,443,PAS,4348
-Perak,P.040 Larut Utara,Larut Utara,3,Lim Eng Keat,444,PDB,1344
-Perak,P.041 Krian Laut,Krian Laut,1,Abdul Rauf Bin A. Rahman,267,PERIKATAN,10109
-Perak,P.041 Krian Laut,Krian Laut,2,Mohd. Noordin Bin Abd. Jalil,445,BEBAS,2282
-Perak,P.041 Krian Laut,Krian Laut,3,Abdul Wahab Bin Haji Md. Noor,25,PAS,7452
-Perak,P.042 Krian Darat,Krian Darat,1,Ramli Bin Omar,446,PERIKATAN,11574
-Perak,P.042 Krian Darat,Krian Darat,2,Baharuddin Latif,447,PAS,6011
-Perak,P.042 Krian Darat,Krian Darat,3,Asri Bin Yusof,448,PDB,518
-Perak,P.043 Larut Selatan,Larut Selatan,1,Lim Eng Chuan,449,PDB,5080
-Perak,P.043 Larut Selatan,Larut Selatan,2,Abdul Rahman Bin Haji Abd. Hamid,450,PAS,2734
-Perak,P.043 Larut Selatan,Larut Selatan,3,Othman Abdullah,191,BEBAS,3185
-Perak,P.043 Larut Selatan,Larut Selatan,4,Dr. Lim Swee Aun,276,PERIKATAN,18906
-Perak,P.044 Hilir Perak,Hilir Perak,1,Hasan Adli,451,PAS,3845
-Perak,P.044 Hilir Perak,Hilir Perak,2,Othman Abdullah,191,PERIKATAN,7883
-Perak,P.044 Hilir Perak,Hilir Perak,3,Jaafar Sidik Bin Maamor,452,PDB,375
-Perak,P.045 Kuala Kangsar,Kuala Kangsar,1,Dr S. Underwood,453,BEBAS,2209
-Perak,P.045 Kuala Kangsar,Kuala Kangsar,2,Dr Haji Megat Khas,454,PERIKATAN,11309
-Perak,P.045 Kuala Kangsar,Kuala Kangsar,3,A. Zawawi,455,PAS,5139
-Perak,P.045 Kuala Kangsar,Kuala Kangsar,4,Syed Osman Jamalullail,456,PDB,725
-Perak,P.045 Kuala Kangsar,Kuala Kangsar,5,Haji Fathil Bin Haji Khalid,457,BEBAS,3028
-Perak,P.046 Sungei Siput,Sungei Siput,1,Dato' V. T. Sambanthan,458,PERIKATAN,9855
-Perak,P.046 Sungei Siput,Sungei Siput,2,Ramaih S/O Virappan,459,PKR,3922
-Perak,P.047 Parit,Parit,1,Haji Mohamed Bin Hj. Sulaiman,460,BEBAS,920
-Perak,P.047 Parit,Parit,2,Hussein Bin Mohd. Noordin,290,PERIKATAN,10571
-Perak,P.047 Parit,Parit,3,Dato'  Raja Mohd. Hanafiah,461,PAS,5066
-Perak,P.047 Parit,Parit,4,Dato' Zainal Abidin Bin Haji Abbas,462,PDB,1138
-Perak,P.048 Bruas,Bruas,1,Loi Kiew Hang,463,PDB,6719
-Perak,P.048 Bruas,Bruas,2,Yeoh Tat Beng,279,PERIKATAN,10587
-Perak,P.048 Bruas,Bruas,3,Pachik Bin Ahmad,464,BEBAS,2550
-Perak,P.049 Sitiawan,Sitiawan,1,Too Joon Hing,42,PDB,7299
-Perak,P.049 Sitiawan,Sitiawan,2,Kam Woon Wah,465,PERIKATAN,11136
-Perak,P.050 Ipoh,Ipoh,1,Cheah Chun Ching,466,PERIKATAN,8897
-Perak,P.050 Ipoh,Ipoh,2,Wong Kim Thim,467,BEBAS,2280
-Perak,P.050 Ipoh,Ipoh,3,D. R. Seenivasagam,36,PKR,13800
-Perak,P.051 Menglembu,Menglembu,1,Yunus Bin Md. Isa,468,BEBAS,3457
-Perak,P.051 Menglembu,Menglembu,2,S. P. Seenivasagam,469,PKR,20367
-Perak,P.051 Menglembu,Menglembu,3,Lim Eng Chang,470,PERIKATAN,11246
-Perak,P.052 Ulu Kinta,Ulu Kinta,1,Chim Foon,471,PERIKATAN,7351
-Perak,P.052 Ulu Kinta,Ulu Kinta,2,Chan Swee Ho,307,PKR,6345
-Perak,P.052 Ulu Kinta,Ulu Kinta,3,Low Sin Yean,472,BEBAS,2172
-Perak,P.053 Batu Gajah,Batu Gajah,1,Khong Kok Yat,310,PKR,9127
-Perak,P.053 Batu Gajah,Batu Gajah,2,Ng Fah Yam,473,PERIKATAN,9843
-Perak,P.054 Kampar,Kampar,1,Khor Kim Yong,474,BEBAS,4403
-Perak,P.054 Kampar,Kampar,2,Chan Yoon Onn,314,PKR,9357
-Perak,P.054 Kampar,Kampar,3,Toh Theam Hock,475,PERIKATAN,12964
-Perak,P.055 Tanjong Malim,Tanjong Malim,1,Tan Boon Jin,476,BEBAS,2667
-Perak,P.055 Tanjong Malim,Tanjong Malim,2,Abdul Rahman Bin Haji Abdul Wahab,477,BEBAS,486
-Perak,P.055 Tanjong Malim,Tanjong Malim,3,Lee Seck Fun,272,PERIKATAN,9983
-Perak,P.055 Tanjong Malim,Tanjong Malim,4,Omar Bin Nordin,289,BEBAS,2328
-Perak,P.056 Telok Anson,Telok Anson,1,Chai Kai Wooi,478,BEBAS,9204
-Perak,P.056 Telok Anson,Telok Anson,2,Ng Kam Poh,479,PERIKATAN,12251
-Perak,P.057 Bagan Datoh,Bagan Datoh,1,Sulaiman Bin Bulon,480,PERIKATAN,12225
-Perak,P.057 Bagan Datoh,Bagan Datoh,2,Ibrahim Bin Haji Dahalan,481,PAS,4331
-Perak,P.058 Batang Padang,Batang Padang,1,S. A. Lingam,482,PKR,3412
-Perak,P.058 Batang Padang,Batang Padang,2,Loh Jee Mee @ Jimmy,483,BEBAS,2099
-Perak,P.058 Batang Padang,Batang Padang,3,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16,PERIKATAN,7827
-Pahang,P.059 Raub,Raub,1,Husein Bin To' Muda Hassan,484,PERIKATAN,11332
-Pahang,P.059 Raub,Raub,2,Abu Bakar Bin Resat,485,BEBAS,4996
-Pahang,P.060 Bentong,Bentong,1,Chan Siang Sun,237,PERIKATAN,12832
-Pahang,P.060 Bentong,Bentong,2,Phoon Chee Kai,486,BEBAS,6686
-Pahang,P.061 Kuantan,Kuantan,1,A. Rahman Bin Hj. Talib,487,PERIKATAN,10696
-Pahang,P.061 Kuantan,Kuantan,2,Jamahir Bin Idris,488,PAS,1755
-Pahang,P.061 Kuantan,Kuantan,3,Mohd. Kameil Bin To' Muda Hj. Ibrahim,489,BEBAS,2957
-Pahang,P.062 Pekan,Pekan,1,A. Hamid Bin A. Hitam,490,PAS,1711
-Pahang,P.062 Pekan,Pekan,2,Tun Haji Abdul Razak Bin Dato' Hussein,73,PERIKATAN,11858
-Pahang,P.063 Temerloh,Temerloh,1,Muhammad Yusof Bin Mahmud,491,PERIKATAN,12311
-Pahang,P.063 Temerloh,Temerloh,2,Dato' Abu Samah Bin Haji Ali,492,PAS,3350
-Pahang,P.063 Temerloh,Temerloh,3,Jaafar Bin Hussin @ Mustapha Bin Abd. Ghani,493,BEBAS,4357
-Pahang,P.064 Lipis,Lipis,1,Nik Ahmad Bin Nik Man,494,PAS,4421
-Pahang,P.064 Lipis,Lipis,2,Abdul Razak Bin Haji Husain,73,PERIKATAN,15294
-Selangor,P.065 Kuala Selangor,Kuala Selangor,1,Datuk Kampo Rajko,495,BEBAS,4435
-Selangor,P.065 Kuala Selangor,Kuala Selangor,2,Raja Rome Bin Raja Maamor,496,PERIKATAN,11684
-Selangor,P.066 Batu,Batu,1,Too Chee Cheong,497,PETIR,2459
-Selangor,P.066 Batu,Batu,2,Yap Chin Kwee,498,PERIKATAN,9774
-Selangor,P.066 Batu,Batu,3,Dr. Tan Chee Khoon,499,BEBAS,10122
-Selangor,P.067 Kapar,Kapar,1,Awang Ansari Bin Ahmad,500,PAS,2188
-Selangor,P.067 Kapar,Kapar,2,Zailani Sulaiman,501,BEBAS,4829
-Selangor,P.067 Kapar,Kapar,3,Hamzah Alang,350,PERIKATAN,9937
-Selangor,P.068 Rawang,Rawang,1,Tunku Abdullah,502,PERIKATAN,9935
-Selangor,P.068 Rawang,Rawang,2,Lee Chi Kit,503,BEBAS,4789
-Selangor,P.069 Langat,Langat,1,Haki Zakaria Bin Haji Mohd. Taib,341,PERIKATAN,10275
-Selangor,P.069 Langat,Langat,2,Ahmad Boestamam,329,BEBAS,4260
-Selangor,P.070 Setapak,Setapak,1,K. V. Thaver,504,PETIR,4214
-Selangor,P.070 Setapak,Setapak,2,Tajuddin Kahar,505,BEBAS,7888
-Selangor,P.070 Setapak,Setapak,3,S. Y. Chan,506,PERIKATAN,12292
-Selangor,P.071 Bungsar,Bungsar,1,Devan Nair,507,PETIR,13494
-Selangor,P.071 Bungsar,Bungsar,2,Chew Choo Soot,508,PKR,2219
-Selangor,P.071 Bungsar,Bungsar,3,Koh Pooi Kee,323,PERIKATAN,9761
-Selangor,P.071 Bungsar,Bungsar,4,V. David,322,BEBAS,12686
-Selangor,P.072 Bukit Bintang,Bukit Bintang,1,Tan Toh Hong,509,PERIKATAN,9107
-Selangor,P.072 Bukit Bintang,Bukit Bintang,2,Abdul Aziz Ismail,510,PAS,650
-Selangor,P.072 Bukit Bintang,Bukit Bintang,3,Ishak Bin Haji Mohammad,239,BEBAS,5000
-Selangor,P.072 Bukit Bintang,Bukit Bintang,4,Wong Lin Ken,511,PETIR,6667
-Selangor,P.073 Damansara,Damansara,1,Lam Khuan Kit,512,PETIR,3191
-Selangor,P.073 Damansara,Damansara,2,Tan Kai Hee,139,BEBAS,8602
-Selangor,P.073 Damansara,Damansara,3,Cheng Wing Sum,513,PERIKATAN,9148
-Selangor,P.074 Klang,Klang,1,S. S. Nayagam,347,BEBAS,7028
-Selangor,P.074 Klang,Klang,2,V. Manickavasagam,346,PERIKATAN,14027
-Selangor,P.075 Kuala Langat,Kuala Langat,1,Tahir Majid,514,PERIKATAN,9840
-Selangor,P.075 Kuala Langat,Kuala Langat,2,Aziz Ishak,349,BEBAS,6043
-Selangor,P.076 Sepang,Sepang,1,Lee Siok Yew,345,PERIKATAN,9438
-Selangor,P.076 Sepang,Sepang,2,Lim Tuan Siong,343,BEBAS,5429
-Selangor,P.077 Sabak Bernam,Sabak Bernam,1,Dato' Haji Mustafa Bin Haji Abdul Jabar,515,PERIKATAN,11372
-Selangor,P.077 Sabak Bernam,Sabak Bernam,2,Ariffin Bin Ayob,516,PAS,3690
-Selangor,P.078 Ulu Selangor,Ulu Selangor,1,Nazar Nong,327,BEBAS,4199
-Selangor,P.078 Ulu Selangor,Ulu Selangor,2,Khaw Kai-Boh,517,PERIKATAN,9412
-Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,1,Ahmad Jones,518,PDB,1930
-Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,2,Jaalam Bin Othman,519,BEBAS,3468
-Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,3,Bahaman Bin Samsudin,32,PERIKATAN,14842
-Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,1,Lau Kit Sun,520,PETIR,5410
-Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,2,Quek Kai Dong,226,PERIKATAN,9604
-Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,3,Lim Kee Sai,521,BEBAS,5124
-Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,4,Wong Lunking,522,PDB,1670
-Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,1,Baba Bin Ludek,68,PDB,2693
-Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,2,Abdul Rahman Bin Haji Mohammad,523,BEBAS,3583
-Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,3,Haji Redza Bin Haji Mohd. Said,222,PERIKATAN,11837
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,1,Ng Hup Shwee,524,PDB,2174
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,2,N. S. Devi,525,BEBAS,2074
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,3,T. Mahima Singh,231,PERIKATAN,7911
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,4,Ong Hoon Hong,526,BEBAS,504
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,5,Ibrahim Bin Ahmad,527,PKR,1349
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,6,R. Murugan,528,BEBAS,2020
-Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,1,Abdul Razak Bin Junid,529,PDB,1015
-Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,2,Mohd. Idris Bin Matsil,530,PERIKATAN,14498
-Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,3,Tan Beng Soo,531,BEBAS,5601
-Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,1,Koo Eng Kuang,532,BEBAS,6688
-Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,2,Siow Loong Hin,533,PERIKATAN,10163
-Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,3,Dr. Oh Siew Kheng,534,PDB,2005
-Melaka,P.085 Malacca Tengah,Malacca Tengah,1,Hasnal Bin Abdul Hadi,535,BEBAS,5241
-Melaka,P.085 Malacca Tengah,Malacca Tengah,2,Mohd. Kamal Bin Sudin,536,PAS,1236
-Melaka,P.085 Malacca Tengah,Malacca Tengah,3,Tan Siew Sin,9,PERIKATAN,18568
-Melaka,P.086 Bandar Malacca,Bandar Malacca,1,Tan Kee Gak,209,PERIKATAN,13789
-Melaka,P.086 Bandar Malacca,Bandar Malacca,2,Chua Sian Chin,537,PETIR,3461
-Melaka,P.086 Bandar Malacca,Bandar Malacca,3,Yeoh Ho Huat,211,BEBAS,10658
-Melaka,P.087 Malacca Utara,Malacca Utara,1,Dr. Sulaiman Bin Mohd. Attas,538,BEBAS,4429
-Melaka,P.087 Malacca Utara,Malacca Utara,2,Haji Mohd. Yusoff Bin Haji Sulong,539,PAS,2523
-Melaka,P.087 Malacca Utara,Malacca Utara,3,Abdul Ghani Bin Ishak,540,PERIKATAN,16892
-Melaka,P.088 Malacca Selatan,Malacca Selatan,1,Abd. Karim Bin Abu,541,PERIKATAN,18649
-Melaka,P.088 Malacca Selatan,Malacca Selatan,2,Jaafar Bin Mohd. Tan,12,BEBAS,7150
-Johor,P.089 Muar Dalam,Muar Dalam,1,Azri Ishak,349,PERIKATAN,15385
-Johor,P.089 Muar Dalam,Muar Dalam,2,Mohd. Dali Bin Hj. Othman,542,BEBAS,2834
-Johor,P.090 Segamat Selatan,Segamat Selatan,1,Lee San Choon,141,PERIKATAN,11355
-Johor,P.090 Segamat Selatan,Segamat Selatan,2,Chiu Siu Meng,543,BEBAS,4956
-Johor,P.090 Segamat Selatan,Segamat Selatan,3,Tan Luan Hong,544,PDB,1619
-Johor,P.091 Muar Pantai,Muar Pantai,1,Lee Boon Pin,545,BEBAS,6137
-Johor,P.091 Muar Pantai,Muar Pantai,2,Seah Teng Ngiab,151,PERIKATAN,16578
-Johor,P.092 Muar Selatan,Muar Selatan,1,Dr Awang Bin Hassan,546,PERIKATAN,0
-Johor,P.093 Batu Pahat,Batu Pahat,1,Soh Ah Teck,547,PERIKATAN,12505
-Johor,P.093 Batu Pahat,Batu Pahat,2,Tan Seow Kiew,548,PDB,2422
-Johor,P.093 Batu Pahat,Batu Pahat,3,Ng Jun Lam,549,BEBAS,5647
-Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,1,Sakroni Bin Ahmad,550,PDB,3056
-Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,2,Syed Esa Bin Alwee,551,PERIKATAN,17225
-Johor,P.095 Kluang Utara,Kluang Utara,1,Lai Tha Chai,552,PETIR,1276
-Johor,P.095 Kluang Utara,Kluang Utara,2,Tiah Eng Bee,553,PERIKATAN,9138
-Johor,P.095 Kluang Utara,Kluang Utara,3,Lee Ah Leng,135,BEBAS,6674
-Johor,P.096 Johore Tenggara,Johore Tenggara,1,Tuan Syed Ja'Afar Bin Hasan Albar,554,PERIKATAN,0
-Johor,P.097 Pontian Utara,Pontian Utara,1,A. Jamil Bin Sulaiman,555,PAS,2764
-Johor,P.097 Pontian Utara,Pontian Utara,2,Dato' Sardon Bin Haji Jubir,556,PERIKATAN,16526
-Johor,P.098 Pontian Selatan,Pontian Selatan,1,Ali Bin Haji Ahmad,557,PERIKATAN,13759
-Johor,P.098 Pontian Selatan,Pontian Selatan,2,Tan Tai Chee,558,BEBAS,5910
-Johor,P.099 Kluang Selatan,Kluang Selatan,1,Hon Kin Siong,559,BEBAS,6434
-Johor,P.099 Kluang Selatan,Kluang Selatan,2,Chan Chong Wen,140,PERIKATAN,11926
-Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,1,Datin Fatimah Binti Hj. Abd. Majid,560,PERIKATAN,12600
-Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,2,Mohamed Nor Jettey,561,PETIR,733
-Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,3,Tan Ah Ngo,562,BEBAS,5343
-Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,1,Liang Teck Sum,563,PETIR,447
-Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,2,Haji Rahmat Bin Haji Daud,564,PERIKATAN,11722
-Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,3,Lim Lee Oon,565,BEBAS,4796
-Johor,P.102 Johore Timor,Johore Timor,1,Dato' Dr. Ismail,566,PERIKATAN,10331
-Johor,P.102 Johore Timor,Johore Timor,2,Khadijah Sidik,567,PAS,909
-Johor,P.103 Segamat Utara,Segamat Utara,1,Pang Lee Seng,568,BEBAS,4671
-Johor,P.103 Segamat Utara,Segamat Utara,2,Hj. Abdullah Bin Hj. Md. Salleh,569,PERIKATAN,9646
-Johor,P.103 Segamat Utara,Segamat Utara,3,Lim Meng See,160,PDB,2545
-Johor,P.104 Muar Utara,Muar Utara,1,Ahmad Arshad,570,PERIKATAN,16717
-Johor,P.104 Muar Utara,Muar Utara,2,Hj. A. Hamid Bin Hassan,571,BEBAS,3876
+state,parlimen,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,P.001 Perlis Utara,Perlis Utara,1,Ismail Bin Mohamad,365,PAS,3,6119
+Perlis,P.001 Perlis Utara,Perlis Utara,2,Othman Bin Abdullah,55,PERIKATAN,2,12521
+Perlis,P.002 Perlis Selatan,Perlis Selatan,1,Haji Mohktar Bin Haji Ismail,318,PERIKATAN,2,10486
+Perlis,P.002 Perlis Selatan,Perlis Selatan,2,Haji Yusof Bin Hj. Abdullah,247,PAS,3,7250
+Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,1,L. Isa Bin Hj Mahamad,366,PAS,3,6105
+Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,2,Datin Fatimah Binti Haji Hashim,367,PERIKATAN,2,15835
+Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,1,Haji Bakar Bin H. Hanafiah,368,PAS,3,6566
+Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,2,Senu Bin Abdul Rahman,369,PERIKATAN,2,9942
+Kedah,P.005 Kota Star Utara,Kota Star Utara,1,Abu Bakar Bin Umar,370,PAS,3,6922
+Kedah,P.005 Kota Star Utara,Kota Star Utara,2,Haji Abdul Khalid,168,PERIKATAN,2,11847
+Kedah,P.006 Alor Star,Alor Star,1,Teoh Ah Thow,165,BEBAS,1,1747
+Kedah,P.006 Alor Star,Alor Star,2,Lim Pee Hung,371,PERIKATAN,2,14749
+Kedah,P.006 Alor Star,Alor Star,3,Syed Salim Bin Syed Hamid Al-Idrus,372,PAS,3,3608
+Kedah,P.006 Alor Star,Alor Star,4,Geh Teng Kheng,373,PDB,13,2695
+Kedah,P.007 Kuala Kedah,Kuala Kedah,1,Mustaffa Bin Mohd. Said,374,PAS,3,5462
+Kedah,P.007 Kuala Kedah,Kuala Kedah,2,Tunku Abdul Rahman Putra Al-Haj,103,PERIKATAN,2,17109
+Kedah,P.008 Kota Star Selatan,Kota Star Selatan,1,Dr Mahathir Bin Mohamad,375,PERIKATAN,2,12406
+Kedah,P.008 Kota Star Selatan,Kota Star Selatan,2,Mohd Shaari Bin Haji Abd Shukor,376,PAS,3,8196
+Kedah,P.009 Kedah Tengah,Kedah Tengah,1,Khir Johari,377,PERIKATAN,2,16042
+Kedah,P.009 Kedah Tengah,Kedah Tengah,2,Haji Hussin Che' Dol,378,PAS,3,5362
+Kedah,P.010 Perai,Perai,1,Hanafiah Hussain,379,PERIKATAN,2,14002
+Kedah,P.010 Perai,Perai,2,Haji Othman Bin Hj. Yunus,380,PAS,3,7085
+Kedah,P.011 Baling,Baling,1,Yaacob Bin Hj. Shafie,381,PAS,3,5208
+Kedah,P.011 Baling,Baling,2,Abdullah Bin Mohamed Hashim,382,BEBAS,1,1782
+Kedah,P.011 Baling,Baling,3,Harun Bin Abdullah,183,PERIKATAN,2,14970
+Kedah,P.012 Sungei Patani,Sungei Patani,1,Mohamed Zahir Bin Haji Ismail,383,PERIKATAN,2,14177
+Kedah,P.012 Sungei Patani,Sungei Patani,2,Said Jan Aljeffri,384,PAS,3,1176
+Kedah,P.012 Sungei Patani,Sungei Patani,3,Teh Pek Choon,385,BEBAS,1,3680
+Kedah,P.012 Sungei Patani,Sungei Patani,4,Ong Boon Seong,386,PDB,13,1154
+Kedah,P.013 Kulim Utara,Kulim Utara,1,Khatib Shorbaini,387,PAS,3,3910
+Kedah,P.013 Kulim Utara,Kulim Utara,2,Hanafi Bin Mohd. Yunus,185,PERIKATAN,2,12839
+Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,1,Tai Kuan Yang,388,PERIKATAN,2,15077
+Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,2,Mohamad Amin Bin Che' Mat,389,PAS,3,2261
+Kedah,P.014 Kulim-Bandar Baharu,Kulim-Bandar Baharu,3,A. K. Veeman S/O Kanusamy,390,BEBAS,1,4584
+Kelantan,P.015 Tumpat,Tumpat,1,Wan Hassan Bin Wan Daud,391,PAS,3,10248
+Kelantan,P.015 Tumpat,Tumpat,2,Che' Lat Bin Kassim,392,PERIKATAN,2,10056
+Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,1,Haji Ahmad Bin Abdullah,393,PAS,3,12721
+Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,2,Tengku Abdullah Bin Tengku Ahmad,394,PERIKATAN,2,6496
+Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,1,Muhammad Fakhruddin Bin Haji Abdullah,395,PAS,3,13476
+Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,2,Haji Mokhtar Bin Haji Ahmed,115,PERIKATAN,2,5261
+Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,1,Wan Mustapha Bin Haji Ali,396,PAS,3,10929
+Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,2,Dato' Nik Ahmed Kamil,397,PERIKATAN,2,11585
+Kelantan,P.019 Bachok,Bachok,1,Hassan Haji Mohamed,398,PERIKATAN,2,8278
+Kelantan,P.019 Bachok,Bachok,2,Zulkiflee Bin Muhammad,196,PAS,3,12659
+Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,1,Haji Husain Rahimi Bin Haji Saman,399,PAS,3,15656
+Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,2,Hj. Ibrahim Bin Hj. Mat,400,PERIKATAN,2,7915
+Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,1,Husein Bin Ahmad,401,PERIKATAN,2,5496
+Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,2,Abdul Samad Bin Gul Ahmad Mianji,402,PAS,3,9857
+Kelantan,P.022 Pasir Puteh,Pasir Puteh,1,Haji Idris Bin Ismail,403,PERIKATAN,2,10393
+Kelantan,P.022 Pasir Puteh,Pasir Puteh,2,Mohd. Asri Bin Haji Muda,112,PAS,3,11798
+Kelantan,P.023 Tanah Merah,Tanah Merah,1,Mustapha Bin Ahmad,404,PERIKATAN,2,12318
+Kelantan,P.023 Tanah Merah,Tanah Merah,2,Isahak Bin Abdul Hamid,405,PAS,3,11549
+Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,1,Hj. Wan Yusoff Bin H. Che' Tengah,406,PAS,3,9108
+Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,2,Hussein Bin Sulaiman,407,PERIKATAN,2,12681
+Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,3,Abdullah Bin Mat Ariff,408,BEBAS,1,414
+Terengganu,P.025 Besut,Besut,1,Abu Bakar Bin Ahmad,409,PERIKATAN,2,10859
+Terengganu,P.025 Besut,Besut,2,Mohd. Daud Bin Abdul Samad,410,PAS,3,10995
+Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,1,Che Embong Bin Abdullah,411,PN,12,1020
+Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,2,Wan Abdul Kadir Bin Ismail,356,PERIKATAN,2,11500
+Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,3,Salahuddin Bin Abdullah,412,PAS,3,5829
+Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,1,Garieb Bin Abdul Raouf,413,PN,12,5349
+Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,2,Dato'  Bijaya Di-Raja (Abdullah Bin Abdul Rahman),414,PERIKATAN,2,9795
+Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,3,Haji Mohamed Taib Bin Haji Ismail,415,PAS,3,1775
+Terengganu,P.028 Dungun,Dungun,1,Harun Bin Yusoff,416,BEBAS,1,691
+Terengganu,P.028 Dungun,Dungun,2,Ngah Bin Mohd.,417,PAS,3,5941
+Terengganu,P.028 Dungun,Dungun,3,Suleiman Bin Ali,125,PERIKATAN,2,7483
+Terengganu,P.028 Dungun,Dungun,4,Attan Bin Naib,418,PN,12,562
+Terengganu,P.029 Kemaman,Kemaman,1,Syed Noh Bin Alwee,419,PAS,3,2589
+Terengganu,P.029 Kemaman,Kemaman,2,Wan Mokhtar Bin Ahmad,420,PERIKATAN,2,10153
+Terengganu,P.029 Kemaman,Kemaman,3,Wan Hamid Bin Wan Ibrahim,421,BEBAS,1,3072
+Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,1,Engku Mohsein Bin Abdul Kader,124,PERIKATAN,2,11002
+Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,2,Abd. Latif Bin Haji Fakeh,422,BEBAS,1,1156
+Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,3,Che' Su Mahmud Bin Dato' Amar,423,PAS,3,7393
+Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,4,Abu Bakar Arshadi,424,PN,12,388
+Pulau Pinang,P.031 Bagan,Bagan,1,Tan Cheng Bee,245,PERIKATAN,2,8295
+Pulau Pinang,P.031 Bagan,Bagan,2,Shariff Bin Mohd. Isa,425,PAS,3,983
+Pulau Pinang,P.031 Bagan,Bagan,3,Mohd. Sallehn Bin Yacob,426,BEBAS,1,6564
+Pulau Pinang,P.031 Bagan,Bagan,4,M. P. Mathew,427,PDB,13,871
+Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,1,Ooi Chooi Cheng,428,PDB,13,5215
+Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,2,Kam Yau Wah,429,BEBAS,1,7486
+Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,3,Ibrahim Bin Abdul Rahman,251,PERIKATAN,2,15660
+Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,1,Mohamed Noor Bin Hj. Mokhtar,430,PAS,3,457
+Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,2,Md. Noordin Bin Mastan,431,PERIKATAN,2,10427
+Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,3,V. Veerapen,252,BEBAS,1,6322
+Pulau Pinang,P.034 Penang Utara,Penang Utara,1,Lau Teik Hai,262,BEBAS,1,10148
+Pulau Pinang,P.034 Penang Utara,Penang Utara,2,Geh Chong Keat,260,PERIKATAN,2,16686
+Pulau Pinang,P.034 Penang Utara,Penang Utara,3,Toh Boon Kooi,432,PDB,13,5149
+Pulau Pinang,P.035 Penang Selatan,Penang Selatan,1,Ismail Bin Dris,266,PERIKATAN,2,16088
+Pulau Pinang,P.035 Penang Selatan,Penang Selatan,2,Abubakar Bin Hashim,433,BEBAS,1,12572
+Pulau Pinang,P.035 Penang Selatan,Penang Selatan,3,Lim Mee Lee,434,PDB,13,4752
+Pulau Pinang,P.036 Tanjong,Tanjong,1,Dr. Lim Chong Eu,435,PDB,13,12928
+Pulau Pinang,P.036 Tanjong,Tanjong,2,Tan Chong Bee,245,PETIR,14,778
+Pulau Pinang,P.036 Tanjong,Tanjong,3,Choong Ewe Leong,436,PERIKATAN,2,6271
+Pulau Pinang,P.036 Tanjong,Tanjong,4,Tan Phock Kin,256,BEBAS,1,8516
+Pulau Pinang,P.037 Datok Keramat,Datok Keramat,1,Lim Cheng Poh,437,PERIKATAN,2,7707
+Pulau Pinang,P.037 Datok Keramat,Datok Keramat,2,Teh Ewe Lim,438,PDB,13,8236
+Pulau Pinang,P.037 Datok Keramat,Datok Keramat,3,Lim Kean Siew,258,BEBAS,1,10102
+Pulau Pinang,P.038 Seberang Utara,Seberang Utara,1,Omar Bin Mohd. Yusoff,439,BEBAS,1,3277
+Pulau Pinang,P.038 Seberang Utara,Seberang Utara,2,Siti Fatimah @ Salmah Binti Sheikh Hussain,440,PAS,3,4087
+Pulau Pinang,P.038 Seberang Utara,Seberang Utara,3,Haji Ahmad Bin Sa'Id,248,PERIKATAN,2,15440
+Perak,P.039 Ulu Perak,Ulu Perak,1,Mohd. Ghazali Bin Jawi,26,PERIKATAN,2,12486
+Perak,P.039 Ulu Perak,Ulu Perak,2,Adnan Bin Alang Abdul Mutalib,441,PAS,3,3015
+Perak,P.039 Ulu Perak,Ulu Perak,3,Tan Kim Seng,285,PDB,13,2896
+Perak,P.040 Larut Utara,Larut Utara,1,Tajudin Bin Ali,442,PERIKATAN,2,14778
+Perak,P.040 Larut Utara,Larut Utara,2,Hj. Ab. Samad Bin Haji Noh,443,PAS,3,4348
+Perak,P.040 Larut Utara,Larut Utara,3,Lim Eng Keat,444,PDB,13,1344
+Perak,P.041 Krian Laut,Krian Laut,1,Abdul Rauf Bin A. Rahman,267,PERIKATAN,2,10109
+Perak,P.041 Krian Laut,Krian Laut,2,Mohd. Noordin Bin Abd. Jalil,445,BEBAS,1,2282
+Perak,P.041 Krian Laut,Krian Laut,3,Abdul Wahab Bin Haji Md. Noor,25,PAS,3,7452
+Perak,P.042 Krian Darat,Krian Darat,1,Ramli Bin Omar,446,PERIKATAN,2,11574
+Perak,P.042 Krian Darat,Krian Darat,2,Baharuddin Latif,447,PAS,3,6011
+Perak,P.042 Krian Darat,Krian Darat,3,Asri Bin Yusof,448,PDB,13,518
+Perak,P.043 Larut Selatan,Larut Selatan,1,Lim Eng Chuan,449,PDB,13,5080
+Perak,P.043 Larut Selatan,Larut Selatan,2,Abdul Rahman Bin Haji Abd. Hamid,450,PAS,3,2734
+Perak,P.043 Larut Selatan,Larut Selatan,3,Othman Abdullah,191,BEBAS,1,3185
+Perak,P.043 Larut Selatan,Larut Selatan,4,Dr. Lim Swee Aun,276,PERIKATAN,2,18906
+Perak,P.044 Hilir Perak,Hilir Perak,1,Hasan Adli,451,PAS,3,3845
+Perak,P.044 Hilir Perak,Hilir Perak,2,Othman Abdullah,191,PERIKATAN,2,7883
+Perak,P.044 Hilir Perak,Hilir Perak,3,Jaafar Sidik Bin Maamor,452,PDB,13,375
+Perak,P.045 Kuala Kangsar,Kuala Kangsar,1,Dr S. Underwood,453,BEBAS,1,2209
+Perak,P.045 Kuala Kangsar,Kuala Kangsar,2,Dr Haji Megat Khas,454,PERIKATAN,2,11309
+Perak,P.045 Kuala Kangsar,Kuala Kangsar,3,A. Zawawi,455,PAS,3,5139
+Perak,P.045 Kuala Kangsar,Kuala Kangsar,4,Syed Osman Jamalullail,456,PDB,13,725
+Perak,P.045 Kuala Kangsar,Kuala Kangsar,5,Haji Fathil Bin Haji Khalid,457,BEBAS,1,3028
+Perak,P.046 Sungei Siput,Sungei Siput,1,Dato' V. T. Sambanthan,458,PERIKATAN,2,9855
+Perak,P.046 Sungei Siput,Sungei Siput,2,Ramaih S/O Virappan,459,PKR,11,3922
+Perak,P.047 Parit,Parit,1,Haji Mohamed Bin Hj. Sulaiman,460,BEBAS,1,920
+Perak,P.047 Parit,Parit,2,Hussein Bin Mohd. Noordin,290,PERIKATAN,2,10571
+Perak,P.047 Parit,Parit,3,Dato'  Raja Mohd. Hanafiah,461,PAS,3,5066
+Perak,P.047 Parit,Parit,4,Dato' Zainal Abidin Bin Haji Abbas,462,PDB,13,1138
+Perak,P.048 Bruas,Bruas,1,Loi Kiew Hang,463,PDB,13,6719
+Perak,P.048 Bruas,Bruas,2,Yeoh Tat Beng,279,PERIKATAN,2,10587
+Perak,P.048 Bruas,Bruas,3,Pachik Bin Ahmad,464,BEBAS,1,2550
+Perak,P.049 Sitiawan,Sitiawan,1,Too Joon Hing,42,PDB,13,7299
+Perak,P.049 Sitiawan,Sitiawan,2,Kam Woon Wah,465,PERIKATAN,2,11136
+Perak,P.050 Ipoh,Ipoh,1,Cheah Chun Ching,466,PERIKATAN,2,8897
+Perak,P.050 Ipoh,Ipoh,2,Wong Kim Thim,467,BEBAS,1,2280
+Perak,P.050 Ipoh,Ipoh,3,D. R. Seenivasagam,36,PKR,11,13800
+Perak,P.051 Menglembu,Menglembu,1,Yunus Bin Md. Isa,468,BEBAS,1,3457
+Perak,P.051 Menglembu,Menglembu,2,S. P. Seenivasagam,469,PKR,11,20367
+Perak,P.051 Menglembu,Menglembu,3,Lim Eng Chang,470,PERIKATAN,2,11246
+Perak,P.052 Ulu Kinta,Ulu Kinta,1,Chim Foon,471,PERIKATAN,2,7351
+Perak,P.052 Ulu Kinta,Ulu Kinta,2,Chan Swee Ho,307,PKR,11,6345
+Perak,P.052 Ulu Kinta,Ulu Kinta,3,Low Sin Yean,472,BEBAS,1,2172
+Perak,P.053 Batu Gajah,Batu Gajah,1,Khong Kok Yat,310,PKR,11,9127
+Perak,P.053 Batu Gajah,Batu Gajah,2,Ng Fah Yam,473,PERIKATAN,2,9843
+Perak,P.054 Kampar,Kampar,1,Khor Kim Yong,474,BEBAS,1,4403
+Perak,P.054 Kampar,Kampar,2,Chan Yoon Onn,314,PKR,11,9357
+Perak,P.054 Kampar,Kampar,3,Toh Theam Hock,475,PERIKATAN,2,12964
+Perak,P.055 Tanjong Malim,Tanjong Malim,1,Tan Boon Jin,476,BEBAS,1,2667
+Perak,P.055 Tanjong Malim,Tanjong Malim,2,Abdul Rahman Bin Haji Abdul Wahab,477,BEBAS,1,486
+Perak,P.055 Tanjong Malim,Tanjong Malim,3,Lee Seck Fun,272,PERIKATAN,2,9983
+Perak,P.055 Tanjong Malim,Tanjong Malim,4,Omar Bin Nordin,289,BEBAS,1,2328
+Perak,P.056 Telok Anson,Telok Anson,1,Chai Kai Wooi,478,BEBAS,1,9204
+Perak,P.056 Telok Anson,Telok Anson,2,Ng Kam Poh,479,PERIKATAN,2,12251
+Perak,P.057 Bagan Datoh,Bagan Datoh,1,Sulaiman Bin Bulon,480,PERIKATAN,2,12225
+Perak,P.057 Bagan Datoh,Bagan Datoh,2,Ibrahim Bin Haji Dahalan,481,PAS,3,4331
+Perak,P.058 Batang Padang,Batang Padang,1,S. A. Lingam,482,PKR,11,3412
+Perak,P.058 Batang Padang,Batang Padang,2,Loh Jee Mee @ Jimmy,483,BEBAS,1,2099
+Perak,P.058 Batang Padang,Batang Padang,3,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16,PERIKATAN,2,7827
+Pahang,P.059 Raub,Raub,1,Husein Bin To' Muda Hassan,484,PERIKATAN,2,11332
+Pahang,P.059 Raub,Raub,2,Abu Bakar Bin Resat,485,BEBAS,1,4996
+Pahang,P.060 Bentong,Bentong,1,Chan Siang Sun,237,PERIKATAN,2,12832
+Pahang,P.060 Bentong,Bentong,2,Phoon Chee Kai,486,BEBAS,1,6686
+Pahang,P.061 Kuantan,Kuantan,1,A. Rahman Bin Hj. Talib,487,PERIKATAN,2,10696
+Pahang,P.061 Kuantan,Kuantan,2,Jamahir Bin Idris,488,PAS,3,1755
+Pahang,P.061 Kuantan,Kuantan,3,Mohd. Kameil Bin To' Muda Hj. Ibrahim,489,BEBAS,1,2957
+Pahang,P.062 Pekan,Pekan,1,A. Hamid Bin A. Hitam,490,PAS,3,1711
+Pahang,P.062 Pekan,Pekan,2,Tun Haji Abdul Razak Bin Dato' Hussein,73,PERIKATAN,2,11858
+Pahang,P.063 Temerloh,Temerloh,1,Muhammad Yusof Bin Mahmud,491,PERIKATAN,2,12311
+Pahang,P.063 Temerloh,Temerloh,2,Dato' Abu Samah Bin Haji Ali,492,PAS,3,3350
+Pahang,P.063 Temerloh,Temerloh,3,Jaafar Bin Hussin @ Mustapha Bin Abd. Ghani,493,BEBAS,1,4357
+Pahang,P.064 Lipis,Lipis,1,Nik Ahmad Bin Nik Man,494,PAS,3,4421
+Pahang,P.064 Lipis,Lipis,2,Abdul Razak Bin Haji Husain,73,PERIKATAN,2,15294
+Selangor,P.065 Kuala Selangor,Kuala Selangor,1,Datuk Kampo Rajko,495,BEBAS,1,4435
+Selangor,P.065 Kuala Selangor,Kuala Selangor,2,Raja Rome Bin Raja Maamor,496,PERIKATAN,2,11684
+Selangor,P.066 Batu,Batu,1,Too Chee Cheong,497,PETIR,14,2459
+Selangor,P.066 Batu,Batu,2,Yap Chin Kwee,498,PERIKATAN,2,9774
+Selangor,P.066 Batu,Batu,3,Dr. Tan Chee Khoon,499,BEBAS,1,10122
+Selangor,P.067 Kapar,Kapar,1,Awang Ansari Bin Ahmad,500,PAS,3,2188
+Selangor,P.067 Kapar,Kapar,2,Zailani Sulaiman,501,BEBAS,1,4829
+Selangor,P.067 Kapar,Kapar,3,Hamzah Alang,350,PERIKATAN,2,9937
+Selangor,P.068 Rawang,Rawang,1,Tunku Abdullah,502,PERIKATAN,2,9935
+Selangor,P.068 Rawang,Rawang,2,Lee Chi Kit,503,BEBAS,1,4789
+Selangor,P.069 Langat,Langat,1,Haki Zakaria Bin Haji Mohd. Taib,341,PERIKATAN,2,10275
+Selangor,P.069 Langat,Langat,2,Ahmad Boestamam,329,BEBAS,1,4260
+Selangor,P.070 Setapak,Setapak,1,K. V. Thaver,504,PETIR,14,4214
+Selangor,P.070 Setapak,Setapak,2,Tajuddin Kahar,505,BEBAS,1,7888
+Selangor,P.070 Setapak,Setapak,3,S. Y. Chan,506,PERIKATAN,2,12292
+Selangor,P.071 Bungsar,Bungsar,1,Devan Nair,507,PETIR,14,13494
+Selangor,P.071 Bungsar,Bungsar,2,Chew Choo Soot,508,PKR,11,2219
+Selangor,P.071 Bungsar,Bungsar,3,Koh Pooi Kee,323,PERIKATAN,2,9761
+Selangor,P.071 Bungsar,Bungsar,4,V. David,322,BEBAS,1,12686
+Selangor,P.072 Bukit Bintang,Bukit Bintang,1,Tan Toh Hong,509,PERIKATAN,2,9107
+Selangor,P.072 Bukit Bintang,Bukit Bintang,2,Abdul Aziz Ismail,510,PAS,3,650
+Selangor,P.072 Bukit Bintang,Bukit Bintang,3,Ishak Bin Haji Mohammad,239,BEBAS,1,5000
+Selangor,P.072 Bukit Bintang,Bukit Bintang,4,Wong Lin Ken,511,PETIR,14,6667
+Selangor,P.073 Damansara,Damansara,1,Lam Khuan Kit,512,PETIR,14,3191
+Selangor,P.073 Damansara,Damansara,2,Tan Kai Hee,139,BEBAS,1,8602
+Selangor,P.073 Damansara,Damansara,3,Cheng Wing Sum,513,PERIKATAN,2,9148
+Selangor,P.074 Klang,Klang,1,S. S. Nayagam,347,BEBAS,1,7028
+Selangor,P.074 Klang,Klang,2,V. Manickavasagam,346,PERIKATAN,2,14027
+Selangor,P.075 Kuala Langat,Kuala Langat,1,Tahir Majid,514,PERIKATAN,2,9840
+Selangor,P.075 Kuala Langat,Kuala Langat,2,Aziz Ishak,349,BEBAS,1,6043
+Selangor,P.076 Sepang,Sepang,1,Lee Siok Yew,345,PERIKATAN,2,9438
+Selangor,P.076 Sepang,Sepang,2,Lim Tuan Siong,343,BEBAS,1,5429
+Selangor,P.077 Sabak Bernam,Sabak Bernam,1,Dato' Haji Mustafa Bin Haji Abdul Jabar,515,PERIKATAN,2,11372
+Selangor,P.077 Sabak Bernam,Sabak Bernam,2,Ariffin Bin Ayob,516,PAS,3,3690
+Selangor,P.078 Ulu Selangor,Ulu Selangor,1,Nazar Nong,327,BEBAS,1,4199
+Selangor,P.078 Ulu Selangor,Ulu Selangor,2,Khaw Kai-Boh,517,PERIKATAN,2,9412
+Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,1,Ahmad Jones,518,PDB,13,1930
+Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,2,Jaalam Bin Othman,519,BEBAS,1,3468
+Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,3,Bahaman Bin Samsudin,32,PERIKATAN,2,14842
+Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,1,Lau Kit Sun,520,PETIR,14,5410
+Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,2,Quek Kai Dong,226,PERIKATAN,2,9604
+Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,3,Lim Kee Sai,521,BEBAS,1,5124
+Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,4,Wong Lunking,522,PDB,13,1670
+Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,1,Baba Bin Ludek,68,PDB,13,2693
+Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,2,Abdul Rahman Bin Haji Mohammad,523,BEBAS,1,3583
+Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,3,Haji Redza Bin Haji Mohd. Said,222,PERIKATAN,2,11837
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,1,Ng Hup Shwee,524,PDB,13,2174
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,2,N. S. Devi,525,BEBAS,1,2074
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,3,T. Mahima Singh,231,PERIKATAN,2,7911
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,4,Ong Hoon Hong,526,BEBAS,1,504
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,5,Ibrahim Bin Ahmad,527,PKR,11,1349
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,6,R. Murugan,528,BEBAS,1,2020
+Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,1,Abdul Razak Bin Junid,529,PDB,13,1015
+Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,2,Mohd. Idris Bin Matsil,530,PERIKATAN,2,14498
+Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,3,Tan Beng Soo,531,BEBAS,1,5601
+Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,1,Koo Eng Kuang,532,BEBAS,1,6688
+Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,2,Siow Loong Hin,533,PERIKATAN,2,10163
+Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,3,Dr. Oh Siew Kheng,534,PDB,13,2005
+Melaka,P.085 Malacca Tengah,Malacca Tengah,1,Hasnal Bin Abdul Hadi,535,BEBAS,1,5241
+Melaka,P.085 Malacca Tengah,Malacca Tengah,2,Mohd. Kamal Bin Sudin,536,PAS,3,1236
+Melaka,P.085 Malacca Tengah,Malacca Tengah,3,Tan Siew Sin,9,PERIKATAN,2,18568
+Melaka,P.086 Bandar Malacca,Bandar Malacca,1,Tan Kee Gak,209,PERIKATAN,2,13789
+Melaka,P.086 Bandar Malacca,Bandar Malacca,2,Chua Sian Chin,537,PETIR,14,3461
+Melaka,P.086 Bandar Malacca,Bandar Malacca,3,Yeoh Ho Huat,211,BEBAS,1,10658
+Melaka,P.087 Malacca Utara,Malacca Utara,1,Dr. Sulaiman Bin Mohd. Attas,538,BEBAS,1,4429
+Melaka,P.087 Malacca Utara,Malacca Utara,2,Haji Mohd. Yusoff Bin Haji Sulong,539,PAS,3,2523
+Melaka,P.087 Malacca Utara,Malacca Utara,3,Abdul Ghani Bin Ishak,540,PERIKATAN,2,16892
+Melaka,P.088 Malacca Selatan,Malacca Selatan,1,Abd. Karim Bin Abu,541,PERIKATAN,2,18649
+Melaka,P.088 Malacca Selatan,Malacca Selatan,2,Jaafar Bin Mohd. Tan,12,BEBAS,1,7150
+Johor,P.089 Muar Dalam,Muar Dalam,1,Azri Ishak,349,PERIKATAN,2,15385
+Johor,P.089 Muar Dalam,Muar Dalam,2,Mohd. Dali Bin Hj. Othman,542,BEBAS,1,2834
+Johor,P.090 Segamat Selatan,Segamat Selatan,1,Lee San Choon,141,PERIKATAN,2,11355
+Johor,P.090 Segamat Selatan,Segamat Selatan,2,Chiu Siu Meng,543,BEBAS,1,4956
+Johor,P.090 Segamat Selatan,Segamat Selatan,3,Tan Luan Hong,544,PDB,13,1619
+Johor,P.091 Muar Pantai,Muar Pantai,1,Lee Boon Pin,545,BEBAS,1,6137
+Johor,P.091 Muar Pantai,Muar Pantai,2,Seah Teng Ngiab,151,PERIKATAN,2,16578
+Johor,P.092 Muar Selatan,Muar Selatan,1,Dr Awang Bin Hassan,546,PERIKATAN,2,0
+Johor,P.093 Batu Pahat,Batu Pahat,1,Soh Ah Teck,547,PERIKATAN,2,12505
+Johor,P.093 Batu Pahat,Batu Pahat,2,Tan Seow Kiew,548,PDB,13,2422
+Johor,P.093 Batu Pahat,Batu Pahat,3,Ng Jun Lam,549,BEBAS,1,5647
+Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,1,Sakroni Bin Ahmad,550,PDB,13,3056
+Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,2,Syed Esa Bin Alwee,551,PERIKATAN,2,17225
+Johor,P.095 Kluang Utara,Kluang Utara,1,Lai Tha Chai,552,PETIR,14,1276
+Johor,P.095 Kluang Utara,Kluang Utara,2,Tiah Eng Bee,553,PERIKATAN,2,9138
+Johor,P.095 Kluang Utara,Kluang Utara,3,Lee Ah Leng,135,BEBAS,1,6674
+Johor,P.096 Johore Tenggara,Johore Tenggara,1,Tuan Syed Ja'Afar Bin Hasan Albar,554,PERIKATAN,2,0
+Johor,P.097 Pontian Utara,Pontian Utara,1,A. Jamil Bin Sulaiman,555,PAS,3,2764
+Johor,P.097 Pontian Utara,Pontian Utara,2,Dato' Sardon Bin Haji Jubir,556,PERIKATAN,2,16526
+Johor,P.098 Pontian Selatan,Pontian Selatan,1,Ali Bin Haji Ahmad,557,PERIKATAN,2,13759
+Johor,P.098 Pontian Selatan,Pontian Selatan,2,Tan Tai Chee,558,BEBAS,1,5910
+Johor,P.099 Kluang Selatan,Kluang Selatan,1,Hon Kin Siong,559,BEBAS,1,6434
+Johor,P.099 Kluang Selatan,Kluang Selatan,2,Chan Chong Wen,140,PERIKATAN,2,11926
+Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,1,Datin Fatimah Binti Hj. Abd. Majid,560,PERIKATAN,2,12600
+Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,2,Mohamed Nor Jettey,561,PETIR,14,733
+Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,3,Tan Ah Ngo,562,BEBAS,1,5343
+Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,1,Liang Teck Sum,563,PETIR,14,447
+Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,2,Haji Rahmat Bin Haji Daud,564,PERIKATAN,2,11722
+Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,3,Lim Lee Oon,565,BEBAS,1,4796
+Johor,P.102 Johore Timor,Johore Timor,1,Dato' Dr. Ismail,566,PERIKATAN,2,10331
+Johor,P.102 Johore Timor,Johore Timor,2,Khadijah Sidik,567,PAS,3,909
+Johor,P.103 Segamat Utara,Segamat Utara,1,Pang Lee Seng,568,BEBAS,1,4671
+Johor,P.103 Segamat Utara,Segamat Utara,2,Hj. Abdullah Bin Hj. Md. Salleh,569,PERIKATAN,2,9646
+Johor,P.103 Segamat Utara,Segamat Utara,3,Lim Meng See,160,PDB,13,2545
+Johor,P.104 Muar Utara,Muar Utara,1,Ahmad Arshad,570,PERIKATAN,2,16717
+Johor,P.104 Muar Utara,Muar Utara,2,Hj. A. Hamid Bin Hassan,571,BEBAS,1,3876

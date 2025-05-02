@@ -1,31 +1,31 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Samsudin Bin Hamid,14398,S46,1219
-Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Loh Yoon Foo,13228,BN,3543
-Perlis,N.02 Beseri,Beseri,1,Nordin Bin Hj. Abdullah,12084,BN,3389
-Perlis,N.02 Beseri,Beseri,2,Syed Ahmad Bin Syed Ali,9901,S46,1168
-Perlis,N.03 Chuping,Chuping,1,Yahaya Bin Ahmad,10840,PAS,1714
-Perlis,N.03 Chuping,Chuping,2,Yaziz @ Yazid Bin Amat,12086,BN,4124
-Perlis,N.04 Mata Ayer,Mata Ayer,1,Ishak Bin Arshad,1972,BN,2886
-Perlis,N.04 Mata Ayer,Mata Ayer,2,Saleh Bin Itam,14405,PAS,1182
-Perlis,N.05 Santan,Santan,1,Bahari Bin Hj. Taib,12088,BN,3107
-Perlis,N.05 Santan,Santan,2,Abdullah Bin Jasin,14407,PAS,1795
-Perlis,N.06 Bintong,Bintong,1,Mohamad Faisol B Abd Rahman,14408,PAS,1833
-Perlis,N.06 Bintong,Bintong,2,Sofiah Bt Ahmad,14409,BN,3775
-Perlis,N.07 Sena,Sena,1,Selamat Bin Saad,12091,BN,3630
-Perlis,N.07 Sena,Sena,2,Aziz Bin Shariff,2290,PAS,1648
-Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Tengku Yaakob Bin Tengku Mohamad,14412,S46,1072
-Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Khor Liang Tee @ Khor Lian Tee,14413,BN,4405
-Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Ahmad Tajuddin Bin Salleh,12100,PAS,1491
-Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Abd Karim @ Ibrahim Bin Mat Salleh,13243,BN,3690
-Perlis,N.10 Kayang,Kayang,1,Kamaruddin Bin Hj Mohd Akib,14416,PAS,1515
-Perlis,N.10 Kayang,Kayang,2,Mohamad Hadzi Bin Nordin,14417,BN,3311
-Perlis,N.11 Pauh,Pauh,1,Abdul Aziz Bin Saad,14418,BN,4054
-Perlis,N.11 Pauh,Pauh,2,Ismail B Ahmad,14419,PAS,1197
-Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Alias Bin Othman,9310,S46,1661
-Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Shahidan Bin Kassim,1665,BN,3777
-Perlis,N.13 Guar Sanji,Guar Sanji,1,Arof Bin Hj Saad,14422,BN,2791
-Perlis,N.13 Guar Sanji,Guar Sanji,2,Bahari Bin Ali,12103,PAS,2493
-Perlis,N.14 Simpang Empat,Simpang Empat,1,Che Ah Bt Long,14424,BN,2721
-Perlis,N.14 Simpang Empat,Simpang Empat,2,Ramli Bin Abdul Karim,14425,S46,1782
-Perlis,N.15 Sanglang,Sanglang,1,Karim Bin Salleh,12448,BN,2860
-Perlis,N.15 Sanglang,Sanglang,2,Hashim B Hj Jasin,13253,PAS,2614
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Samsudin Bin Hamid,14398,S46,56,1219
+Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Loh Yoon Foo,13228,BN,25,3543
+Perlis,N.02 Beseri,Beseri,1,Nordin Bin Hj. Abdullah,12084,BN,25,3389
+Perlis,N.02 Beseri,Beseri,2,Syed Ahmad Bin Syed Ali,9901,S46,56,1168
+Perlis,N.03 Chuping,Chuping,1,Yahaya Bin Ahmad,10840,PAS,3,1714
+Perlis,N.03 Chuping,Chuping,2,Yaziz @ Yazid Bin Amat,12086,BN,25,4124
+Perlis,N.04 Mata Ayer,Mata Ayer,1,Ishak Bin Arshad,1972,BN,25,2886
+Perlis,N.04 Mata Ayer,Mata Ayer,2,Saleh Bin Itam,14405,PAS,3,1182
+Perlis,N.05 Santan,Santan,1,Bahari Bin Hj. Taib,12088,BN,25,3107
+Perlis,N.05 Santan,Santan,2,Abdullah Bin Jasin,14407,PAS,3,1795
+Perlis,N.06 Bintong,Bintong,1,Mohamad Faisol B Abd Rahman,14408,PAS,3,1833
+Perlis,N.06 Bintong,Bintong,2,Sofiah Bt Ahmad,14409,BN,25,3775
+Perlis,N.07 Sena,Sena,1,Selamat Bin Saad,12091,BN,25,3630
+Perlis,N.07 Sena,Sena,2,Aziz Bin Shariff,2290,PAS,3,1648
+Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Tengku Yaakob Bin Tengku Mohamad,14412,S46,56,1072
+Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Khor Liang Tee @ Khor Lian Tee,14413,BN,25,4405
+Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Ahmad Tajuddin Bin Salleh,12100,PAS,3,1491
+Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Abd Karim @ Ibrahim Bin Mat Salleh,13243,BN,25,3690
+Perlis,N.10 Kayang,Kayang,1,Kamaruddin Bin Hj Mohd Akib,14416,PAS,3,1515
+Perlis,N.10 Kayang,Kayang,2,Mohamad Hadzi Bin Nordin,14417,BN,25,3311
+Perlis,N.11 Pauh,Pauh,1,Abdul Aziz Bin Saad,14418,BN,25,4054
+Perlis,N.11 Pauh,Pauh,2,Ismail B Ahmad,14419,PAS,3,1197
+Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Alias Bin Othman,9310,S46,56,1661
+Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Shahidan Bin Kassim,1665,BN,25,3777
+Perlis,N.13 Guar Sanji,Guar Sanji,1,Arof Bin Hj Saad,14422,BN,25,2791
+Perlis,N.13 Guar Sanji,Guar Sanji,2,Bahari Bin Ali,12103,PAS,3,2493
+Perlis,N.14 Simpang Empat,Simpang Empat,1,Che Ah Bt Long,14424,BN,25,2721
+Perlis,N.14 Simpang Empat,Simpang Empat,2,Ramli Bin Abdul Karim,14425,S46,56,1782
+Perlis,N.15 Sanglang,Sanglang,1,Karim Bin Salleh,12448,BN,25,2860
+Perlis,N.15 Sanglang,Sanglang,2,Hashim B Hj Jasin,13253,PAS,3,2614

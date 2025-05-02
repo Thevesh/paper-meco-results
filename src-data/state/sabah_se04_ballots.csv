@@ -1,164 +1,164 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Sabah,N.01 Banggi,Banggi,1,Haji Tamanong Bin Suaib,8929,BEBAS,14
-Sabah,N.01 Banggi,Banggi,2,Motimbun Bin Stujongkok,8930,BERJAYA,1261
-Sabah,N.01 Banggi,Banggi,3,Saludin Bin Ali Besar,8931,PUSAKA,43
-Sabah,N.01 Banggi,Banggi,4,Datuk Abdul Salam Bin Datuk Harun,7852,USNO,1736
-Sabah,N.01 Banggi,Banggi,5,Malindaw Bin Sinong,8933,PASOK,379
-Sabah,N.02 Kudat,Kudat,1,Chong Kah Kiat,8934,BERJAYA,3775
-Sabah,N.02 Kudat,Kudat,2,Lawrence Thien Shin Hing,8935,PCBS,1880
-Sabah,N.02 Kudat,Kudat,3,Sait Bin Guik,8936,BEBAS,252
-Sabah,N.02 Kudat,Kudat,4,Willie Chong Kui Shen,8937,BEBAS,355
-Sabah,N.03 Bengkoka,Bengkoka,1,Muhamad Bin Haji Said,8743,USNO,1247
-Sabah,N.03 Bengkoka,Bengkoka,2,Ali Akbar,8939,BEBAS,37
-Sabah,N.03 Bengkoka,Bengkoka,3,Johnes Bin Piut,8940,BERJAYA,2305
-Sabah,N.03 Bengkoka,Bengkoka,4,Jair Bin Mattahir,8941,PASOK,20
-Sabah,N.04 Matunggong,Matunggong,1,Michael Wong,1293,BERJAYA,2336
-Sabah,N.04 Matunggong,Matunggong,2,Mathius Bin Majihi,8943,PASOK,1501
-Sabah,N.04 Matunggong,Matunggong,3,Jamud Bin Seboy,8944,BEBAS,41
-Sabah,N.05 Langkon,Langkon,1,Almalek Bin Abdul Hamid,8945,BEBAS,1681
-Sabah,N.05 Langkon,Langkon,2,Michael Madinal,7858,BERJAYA,1819
-Sabah,N.06 Tandek,Tandek,1,Dason Gaban,8947,BERJAYA,1504
-Sabah,N.06 Tandek,Tandek,2,Zulkiflie Majun @ Maralang,8948,USNO,804
-Sabah,N.06 Tandek,Tandek,3,Masingkan Bin Masampun @ Shingkan,8949,PASOK,666
-Sabah,N.07 Usukan,Usukan,1,Yahya Lempong,8950,BERJAYA,3071
-Sabah,N.07 Usukan,Usukan,2,Tan Sri Haji Mohammad Said Keruak,1035,USNO,3160
-Sabah,N.08 Tempasuk,Tempasuk,1,Naratine Bin Sagidon,8952,PASOK,103
-Sabah,N.08 Tempasuk,Tempasuk,2,Datuk Haji Askhar Bin Hasbollah,7868,USNO,1889
-Sabah,N.08 Tempasuk,Tempasuk,3,Datuk Haji Mohd. Noor Mansoor,8954,BERJAYA,2906
-Sabah,N.08 Tempasuk,Tempasuk,4,Abdul Mumin Bin Haji Mulia,8955,BEBAS,80
-Sabah,N.09 Kebayau,Kebayau,1,Mohd. Yahya Bin Zakaria,8956,USNO,735
-Sabah,N.09 Kebayau,Kebayau,2,Soleten Sompong,8957,PASOK,703
-Sabah,N.09 Kebayau,Kebayau,3,Yapin Gimpoton,7872,BERJAYA,3280
-Sabah,N.10 Sugut,Sugut,1,Pengiran Khafid,8959,BERJAYA,1441
-Sabah,N.10 Sugut,Sugut,2,Mohd. Said Bin Imam Puyoh,8960,USNO,529
-Sabah,N.10 Sugut,Sugut,3,Julius Niyo,8961,PASOK,736
-Sabah,N.10 Sugut,Sugut,4,Abdul Nasri Bin Kiwang,8962,PUSAKA,18
-Sabah,N.11 Semawang,Semawang,1,Salleh Otik,8963,BERJAYA,2608
-Sabah,N.11 Semawang,Semawang,2,Tamrin Bin Zaini,8964,USNO,1756
-Sabah,N.11 Semawang,Semawang,3,Abu Bakar Bin Mendoza,8965,BEBAS,189
-Sabah,N.12  Labuk, Labuk,1,Paul Baklin,8966,BERJAYA,2411
-Sabah,N.12  Labuk, Labuk,2,Ali Hassan Bin Datu Asibin,8967,PASOK,71
-Sabah,N.12  Labuk, Labuk,3,Rahia Bin Lahami,8968,USNO,638
-Sabah,N.12  Labuk, Labuk,4,Jimmy Bin Malis @ James Bin Malis,8969,USPO,20
-Sabah,N.13 Sulaman,Sulaman,1,Ansari Abdullah,8970,USNO,2514
-Sabah,N.13 Sulaman,Sulaman,2,Nawawi Bin Budin,7882,BERJAYA,2838
-Sabah,N.13 Sulaman,Sulaman,3,Alias Bin Nasip,8972,BEBAS,32
-Sabah,N.13 Sulaman,Sulaman,4,Datin Dayang Fatimah Binti Okk Laiman Diki,8973,BEBAS,61
-Sabah,N.13 Sulaman,Sulaman,5,Mohd. Yusof Othman,8974,PUSAKA,45
-Sabah,N.14 Tamparuli,Tamparuli,1,Datuk James Ongkili,1301,BERJAYA,3503
-Sabah,N.14 Tamparuli,Tamparuli,2,M. A. Rahman,1037,PUSAKA,47
-Sabah,N.14 Tamparuli,Tamparuli,3,Amisah M. Borhan,8977,USNO,944
-Sabah,N.14 Tamparuli,Tamparuli,4,Mojilip Bin Bumpuring @ Wilfred,8978,PASOK,441
-Sabah,N.15 Kiulu,Kiulu,1,Toh Puan Hajjah Rahimah Stephens,8979,BERJAYA,2552
-Sabah,N.15 Kiulu,Kiulu,2,Indra Bin Bayat,8980,PUSAKA,42
-Sabah,N.15 Kiulu,Kiulu,3,Gisin Bin Lombut,8981,PASOK,1071
-Sabah,N.16 Kundasang,Kundasang,1,Datuk Haji Abdul Ghani Gilong,1038,USNO,1833
-Sabah,N.16 Kundasang,Kundasang,2,Stanislaus Puyushi B. L. Macery,8983,BEBAS,28
-Sabah,N.16 Kundasang,Kundasang,3,Mynoor Ginggor,7891,BERJAYA,2422
-Sabah,N.17 Ranau,Ranau,1,Tham Yin Kong,8985,BEBAS,36
-Sabah,N.17 Ranau,Ranau,2,Apin Bin Dangi,8986,PASOK,1646
-Sabah,N.17 Ranau,Ranau,3,Jirin Bin Saliun,8987,BERJAYA,2819
-Sabah,N.18 Tambunan,Tambunan,1,Bernard Wong Chun Ngin,8988,BEBAS,26
-Sabah,N.18 Tambunan,Tambunan,2,Petrus Francis Bin Guriting,8989,PASOK,821
-Sabah,N.18 Tambunan,Tambunan,3,Datuk Joseph Pairin Kitingan,1895,BERJAYA,3336
-Sabah,N.19 Likas,Likas,1,Abdul Salim Berunai,8991,PUSAKA,1739
-Sabah,N.19 Likas,Likas,2,Chin Kok Kong,8992,BERJAYA,6951
-Sabah,N.20 Kota Kinabalu,Kota Kinabalu,1,Datuk Lim Guan Sing,8993,BERJAYA,5371
-Sabah,N.20 Kota Kinabalu,Kota Kinabalu,2,Joseph Chia Swee Chung,8994,PCBS,1900
-Sabah,N.21 Tanjong Aru,Tanjong Aru,1,Peter Chong On Tet,8995,PCBS,2556
-Sabah,N.21 Tanjong Aru,Tanjong Aru,2,Aloysius S. Joeman,8996,BEBAS,234
-Sabah,N.21 Tanjong Aru,Tanjong Aru,3,Nyrol Bin Ewan @ Syuester Ewan,8997,BEBAS,197
-Sabah,N.21 Tanjong Aru,Tanjong Aru,4,Paul Wong,8998,BERJAYA,4993
-Sabah,N.22 Inanam,Inanam,1,Marcel Leiking,8999,BERJAYA,4456
-Sabah,N.22 Inanam,Inanam,2,Haji Ibrahim O.K.K Mohd. Laiman Diki,9000,BEBAS,101
-Sabah,N.22 Inanam,Inanam,3,Peter Oyong Bin Labinjang,9001,PASOK,1393
-Sabah,N.22 Inanam,Inanam,4,Daniel John Jambun,3890,BEBAS,25
-Sabah,N.23 Moyog,Moyog,1,Conrad J. Mojuntin,9003,BERJAYA,3664
-Sabah,N.23 Moyog,Moyog,2,Ignatius Stephen Malanjum,1307,PASOK,1713
-Sabah,N.24 Kawang,Kawang,1,Osu Haji Sukam,2524,USNO,2153
-Sabah,N.24 Kawang,Kawang,2,Datuk Fred Sinidol,7910,BERJAYA,2976
-Sabah,N.24 Kawang,Kawang,3,Patrict Bin Sendu @ Patrick Bin Sindu,9007,PASOK,222
-Sabah,N.25 Elopura,Elopura,1,Yap Pak Leong,6077,BERJAYA,5599
-Sabah,N.25 Elopura,Elopura,2,Philip Fu Sui Cheong,9009,PCBS,792
-Sabah,N.25 Elopura,Elopura,3,Fing Ket Wing,9010,DAP,1047
-Sabah,N.26 Bandar Sandakan,Bandar Sandakan,1,Sulaiman Bin Ongon,9011,PUSAKA,31
-Sabah,N.26 Bandar Sandakan,Bandar Sandakan,2,Tan Kit Sher,9012,PCBS,1846
-Sabah,N.26 Bandar Sandakan,Bandar Sandakan,3,Stephen Wong Soon Yu,9013,BERJAYA,4735
-Sabah,N.27 Karamunting,Karamunting,1,Lau Pui Keong,7917,BERJAYA,4613
-Sabah,N.27 Karamunting,Karamunting,2,Ahamat Bin Saffar @ Ahmat Bin Mohd. Safar,9015,BEBAS,28
-Sabah,N.27 Karamunting,Karamunting,3,Michael Tan Kun Boo,9016,PCBS,1612
-Sabah,N.28 Sekong,Sekong,1,Abdullah Hussain,4287,BEBAS,111
-Sabah,N.28 Sekong,Sekong,2,Pengiran Ahmad Bin Pengiran Indar,740,USNO,1618
-Sabah,N.28 Sekong,Sekong,3,Yusof Bin Nasir,9019,PASOK,46
-Sabah,N.28 Sekong,Sekong,4,Mohammad Bin Jifli,7920,BERJAYA,2556
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,1,Puan Kolnah Binti Haji Sahih,9021,BERJAYA,1239
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,2,Tarsan Bin Ahaw,9022,PUSAKA,10
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,3,Abdul Rahman Bin Abdul Rashid,9023,BEBAS,11
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,4,Pg. Damsah Bin Pg. Indar @ Dadau,9024,USNO,868
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,5,Sairin Bin Muyang,9025,BEBAS,232
-Sabah,N.30 Kuamut,Kuamut,1,Abdul Malek Chua,1894,BERJAYA,2336
-Sabah,N.30 Kuamut,Kuamut,2,Hamid Jan,9027,BEBAS,156
-Sabah,N.30 Kuamut,Kuamut,3,Fred E. Sikal,9028,PASOK,109
-Sabah,N.31 Papar,Papar,1,Mohd. Saidi Lampoh,2844,BERJAYA,3416
-Sabah,N.31 Papar,Papar,2,James Andrew Vitales,9030,PASOK,580
-Sabah,N.31 Papar,Papar,3,Sabdin Ghani,9031,USNO,1745
-Sabah,N.32 Bongawan,Bongawan,1,Abdul Hamid Awang,9032,BERJAYA,1714
-Sabah,N.32 Bongawan,Bongawan,2,Hussin Aman,1315,BEBAS,124
-Sabah,N.32 Bongawan,Bongawan,3,Lai Teck Lan @ Francis Teck Lan Lai B. Lai Ah Cham,9034,BEBAS,116
-Sabah,N.32 Bongawan,Bongawan,4,Pg. Abdul Rahman Bin Pg. Ali,9035,USNO,1579
-Sabah,N.32 Bongawan,Bongawan,5,A. K. Aliuddin,9036,BEBAS,874
-Sabah,N.33 Kuala Penyu,Kuala Penyu,1,O.K.K Rashid Din Hatt,9037,BERJAYA,2207
-Sabah,N.33 Kuala Penyu,Kuala Penyu,2,Johan Bin O.T. Ghani,9038,USNO,1496
-Sabah,N.34 Labuan,Labuan,1,Mohamed Bin Omar Bledram,1599,USNO,2841
-Sabah,N.34 Labuan,Labuan,2,Jamal Nordin,9040,BERJAYA,3824
-Sabah,N.34 Labuan,Labuan,3,James Mathew Angggang,9041,BEBAS,292
-Sabah,N.35 Kilas,Kilas,1,Sylvester John @ Jintol Sidion,9042,BEBAS,350
-Sabah,N.35 Kilas,Kilas,2,Haji Taufek Bin Haji Asneh,7935,BERJAYA,2568
-Sabah,N.35 Kilas,Kilas,3,Abdul Rahman Bin Tadin,9044,BEBAS,70
-Sabah,N.35 Kilas,Kilas,4,Lajim Bin Md. Yusof,3561,BEBAS,156
-Sabah,N.35 Kilas,Kilas,5,Binsin Bin Haji Aliasmat,9046,USNO,1770
-Sabah,N.36 Lumadan,Lumadan,1,Anah Binti Tuali,9047,PASOK,126
-Sabah,N.36 Lumadan,Lumadan,2,Datuk Haji Mohd. Dun Bin Banir,7937,BERJAYA,2300
-Sabah,N.36 Lumadan,Lumadan,3,Mohd. Yassin Bin Buraw,9049,USNO,2123
-Sabah,N.36 Lumadan,Lumadan,4,Ramleh Haji Salleh,9050,BEBAS,87
-Sabah,N.37 Blingkor,Blingkor,1,Ayub Bin Aman,7940,BERJAYA,3347
-Sabah,N.37 Blingkor,Blingkor,2,Sairin Karno,9052,USNO,1119
-Sabah,N.37 Blingkor,Blingkor,3,Uling Anggan @ Thomas,1602,PASOK,680
-Sabah,N.38 Sook,Sook,1,Tan Sri Suffian Koroh,9054,BERJAYA,3358
-Sabah,N.38 Sook,Sook,2,Liberty Lopog @ Alibi,9055,PASOK,1578
-Sabah,N.38 Sook,Sook,3,Edmund Otigil,9056,BEBAS,176
-Sabah,N.38 Sook,Sook,4,Yunus Bin Kimin,9057,SEDAR,56
-Sabah,N.38 Sook,Sook,5,Dullah Bin Kandihong,9058,BEBAS,16
-Sabah,N.39 Pensiangan,Pensiangan,1,Eric Koroh,9059,BERJAYA,1349
-Sabah,N.39 Pensiangan,Pensiangan,2,Adut Bin Sigoh @ Joe Bin Said Besar,9060,BEBAS,964
-Sabah,N.39 Pensiangan,Pensiangan,3,Asing Ampagang,9061,PASOK,225
-Sabah,N.40 Lahad Datu,Lahad Datu,1,Mohamad Sunoch Marso,7949,BERJAYA,3991
-Sabah,N.40 Lahad Datu,Lahad Datu,2,Railey Bin Jeffrey,1925,USNO,2296
-Sabah,N.40 Lahad Datu,Lahad Datu,3,Mok Shou Khyun,9064,DAP,125
-Sabah,N.41 Kunak,Kunak,1,Datu Abdul Hamid Mustapha,9065,BERJAYA,1917
-Sabah,N.41 Kunak,Kunak,2,Salim Bin Bacho,9066,USNO,1769
-Sabah,N.42 Semporna,Semporna,1,Mohammad Shakir Bin Pg. Abdullah,1321,BERJAYA,1977
-Sabah,N.42 Semporna,Semporna,2,Osman Bin Azirul @ Osman Bin Haji Abdul Kadir,9068,BEBAS,503
-Sabah,N.42 Semporna,Semporna,3,Datuk Haji Sakaran Bin Dandai,1320,USNO,2827
-Sabah,N.43 Tenom,Tenom,1,Gamparon Bin Lajah,9070,PASOK,861
-Sabah,N.43 Tenom,Tenom,2,Harris Bin Mohd. Salleh,1609,BERJAYA,2988
-Sabah,N.43 Tenom,Tenom,3,Yong Yung Lee,9072,BEBAS,40
-Sabah,N.43 Tenom,Tenom,4,Awang Bin Yahya,9073,USNO,51
-Sabah,N.44 Sipitang,Sipitang,1,Ramle Bin Dua,9074,BERJAYA,2006
-Sabah,N.44 Sipitang,Sipitang,2,Kuting Bin O.T. Aspar,9075,PASOK,182
-Sabah,N.44 Sipitang,Sipitang,3,Shapawie Bin Othman,9076,USNO,1569
-Sabah,N.45 Kemabong,Kemabong,1,Shariff Bin Tambi @ Sharidd,9077,PASOK,959
-Sabah,N.45 Kemabong,Kemabong,2,Justin Sanggau,9078,BERJAYA,1996
-Sabah,N.45 Kemabong,Kemabong,3,Tingkalor Bin Lampag @ Yaakub Tingkalor Bin Lampag,9079,BEBAS,43
-Sabah,N.46 Merotai,Merotai,1,Joseph Mosusah,9080,PASOK,305
-Sabah,N.46 Merotai,Merotai,2,Abdullah Bin Burairah,9081,USNO,1898
-Sabah,N.46 Merotai,Merotai,3,Abdul Chapur Bin Hjai Salleh,3238,BERJAYA,2635
-Sabah,N.47 Balung,Balung,1,Liew Kong Khai,1326,DAP,501
-Sabah,N.47 Balung,Balung,2,Pengiran Hashim Bin Pengiran Ibrahim,9084,USNO,1562
-Sabah,N.47 Balung,Balung,3,S. Abas Bin S. Ali,9085,BERJAYA,2440
-Sabah,N.47 Balung,Balung,4,Haji Ismail Bin Juma,9086,PUSAKA,9
-Sabah,N.47 Balung,Balung,5,Michael S. Malanjum,9087,PASOK,113
-Sabah,N.48 Bandar Tawau,Bandar Tawau,1,Thu Voi Hiang,9088,BEBAS,41
-Sabah,N.48 Bandar Tawau,Bandar Tawau,2,Abu Bakar Bin Jambuan,9089,BEBAS,74
-Sabah,N.48 Bandar Tawau,Bandar Tawau,3,Hiew Min Kong,9090,BERJAYA,3848
-Sabah,N.48 Bandar Tawau,Bandar Tawau,4,Stephen Chan,7971,PCBS,3925
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Sabah,N.01 Banggi,Banggi,1,Haji Tamanong Bin Suaib,8929,BEBAS,1,14
+Sabah,N.01 Banggi,Banggi,2,Motimbun Bin Stujongkok,8930,BERJAYA,31,1261
+Sabah,N.01 Banggi,Banggi,3,Saludin Bin Ali Besar,8931,PUSAKA,36,43
+Sabah,N.01 Banggi,Banggi,4,Datuk Abdul Salam Bin Datuk Harun,7852,USNO,15,1736
+Sabah,N.01 Banggi,Banggi,5,Malindaw Bin Sinong,8933,PASOK,43,379
+Sabah,N.02 Kudat,Kudat,1,Chong Kah Kiat,8934,BERJAYA,31,3775
+Sabah,N.02 Kudat,Kudat,2,Lawrence Thien Shin Hing,8935,PCBS,44,1880
+Sabah,N.02 Kudat,Kudat,3,Sait Bin Guik,8936,BEBAS,1,252
+Sabah,N.02 Kudat,Kudat,4,Willie Chong Kui Shen,8937,BEBAS,1,355
+Sabah,N.03 Bengkoka,Bengkoka,1,Muhamad Bin Haji Said,8743,USNO,15,1247
+Sabah,N.03 Bengkoka,Bengkoka,2,Ali Akbar,8939,BEBAS,1,37
+Sabah,N.03 Bengkoka,Bengkoka,3,Johnes Bin Piut,8940,BERJAYA,31,2305
+Sabah,N.03 Bengkoka,Bengkoka,4,Jair Bin Mattahir,8941,PASOK,43,20
+Sabah,N.04 Matunggong,Matunggong,1,Michael Wong,1293,BERJAYA,31,2336
+Sabah,N.04 Matunggong,Matunggong,2,Mathius Bin Majihi,8943,PASOK,43,1501
+Sabah,N.04 Matunggong,Matunggong,3,Jamud Bin Seboy,8944,BEBAS,1,41
+Sabah,N.05 Langkon,Langkon,1,Almalek Bin Abdul Hamid,8945,BEBAS,1,1681
+Sabah,N.05 Langkon,Langkon,2,Michael Madinal,7858,BERJAYA,31,1819
+Sabah,N.06 Tandek,Tandek,1,Dason Gaban,8947,BERJAYA,31,1504
+Sabah,N.06 Tandek,Tandek,2,Zulkiflie Majun @ Maralang,8948,USNO,15,804
+Sabah,N.06 Tandek,Tandek,3,Masingkan Bin Masampun @ Shingkan,8949,PASOK,43,666
+Sabah,N.07 Usukan,Usukan,1,Yahya Lempong,8950,BERJAYA,31,3071
+Sabah,N.07 Usukan,Usukan,2,Tan Sri Haji Mohammad Said Keruak,1035,USNO,15,3160
+Sabah,N.08 Tempasuk,Tempasuk,1,Naratine Bin Sagidon,8952,PASOK,43,103
+Sabah,N.08 Tempasuk,Tempasuk,2,Datuk Haji Askhar Bin Hasbollah,7868,USNO,15,1889
+Sabah,N.08 Tempasuk,Tempasuk,3,Datuk Haji Mohd. Noor Mansoor,8954,BERJAYA,31,2906
+Sabah,N.08 Tempasuk,Tempasuk,4,Abdul Mumin Bin Haji Mulia,8955,BEBAS,1,80
+Sabah,N.09 Kebayau,Kebayau,1,Mohd. Yahya Bin Zakaria,8956,USNO,15,735
+Sabah,N.09 Kebayau,Kebayau,2,Soleten Sompong,8957,PASOK,43,703
+Sabah,N.09 Kebayau,Kebayau,3,Yapin Gimpoton,7872,BERJAYA,31,3280
+Sabah,N.10 Sugut,Sugut,1,Pengiran Khafid,8959,BERJAYA,31,1441
+Sabah,N.10 Sugut,Sugut,2,Mohd. Said Bin Imam Puyoh,8960,USNO,15,529
+Sabah,N.10 Sugut,Sugut,3,Julius Niyo,8961,PASOK,43,736
+Sabah,N.10 Sugut,Sugut,4,Abdul Nasri Bin Kiwang,8962,PUSAKA,36,18
+Sabah,N.11 Semawang,Semawang,1,Salleh Otik,8963,BERJAYA,31,2608
+Sabah,N.11 Semawang,Semawang,2,Tamrin Bin Zaini,8964,USNO,15,1756
+Sabah,N.11 Semawang,Semawang,3,Abu Bakar Bin Mendoza,8965,BEBAS,1,189
+Sabah,N.12  Labuk, Labuk,1,Paul Baklin,8966,BERJAYA,31,2411
+Sabah,N.12  Labuk, Labuk,2,Ali Hassan Bin Datu Asibin,8967,PASOK,43,71
+Sabah,N.12  Labuk, Labuk,3,Rahia Bin Lahami,8968,USNO,15,638
+Sabah,N.12  Labuk, Labuk,4,Jimmy Bin Malis @ James Bin Malis,8969,USPO,45,20
+Sabah,N.13 Sulaman,Sulaman,1,Ansari Abdullah,8970,USNO,15,2514
+Sabah,N.13 Sulaman,Sulaman,2,Nawawi Bin Budin,7882,BERJAYA,31,2838
+Sabah,N.13 Sulaman,Sulaman,3,Alias Bin Nasip,8972,BEBAS,1,32
+Sabah,N.13 Sulaman,Sulaman,4,Datin Dayang Fatimah Binti Okk Laiman Diki,8973,BEBAS,1,61
+Sabah,N.13 Sulaman,Sulaman,5,Mohd. Yusof Othman,8974,PUSAKA,36,45
+Sabah,N.14 Tamparuli,Tamparuli,1,Datuk James Ongkili,1301,BERJAYA,31,3503
+Sabah,N.14 Tamparuli,Tamparuli,2,M. A. Rahman,1037,PUSAKA,36,47
+Sabah,N.14 Tamparuli,Tamparuli,3,Amisah M. Borhan,8977,USNO,15,944
+Sabah,N.14 Tamparuli,Tamparuli,4,Mojilip Bin Bumpuring @ Wilfred,8978,PASOK,43,441
+Sabah,N.15 Kiulu,Kiulu,1,Toh Puan Hajjah Rahimah Stephens,8979,BERJAYA,31,2552
+Sabah,N.15 Kiulu,Kiulu,2,Indra Bin Bayat,8980,PUSAKA,36,42
+Sabah,N.15 Kiulu,Kiulu,3,Gisin Bin Lombut,8981,PASOK,43,1071
+Sabah,N.16 Kundasang,Kundasang,1,Datuk Haji Abdul Ghani Gilong,1038,USNO,15,1833
+Sabah,N.16 Kundasang,Kundasang,2,Stanislaus Puyushi B. L. Macery,8983,BEBAS,1,28
+Sabah,N.16 Kundasang,Kundasang,3,Mynoor Ginggor,7891,BERJAYA,31,2422
+Sabah,N.17 Ranau,Ranau,1,Tham Yin Kong,8985,BEBAS,1,36
+Sabah,N.17 Ranau,Ranau,2,Apin Bin Dangi,8986,PASOK,43,1646
+Sabah,N.17 Ranau,Ranau,3,Jirin Bin Saliun,8987,BERJAYA,31,2819
+Sabah,N.18 Tambunan,Tambunan,1,Bernard Wong Chun Ngin,8988,BEBAS,1,26
+Sabah,N.18 Tambunan,Tambunan,2,Petrus Francis Bin Guriting,8989,PASOK,43,821
+Sabah,N.18 Tambunan,Tambunan,3,Datuk Joseph Pairin Kitingan,1895,BERJAYA,31,3336
+Sabah,N.19 Likas,Likas,1,Abdul Salim Berunai,8991,PUSAKA,36,1739
+Sabah,N.19 Likas,Likas,2,Chin Kok Kong,8992,BERJAYA,31,6951
+Sabah,N.20 Kota Kinabalu,Kota Kinabalu,1,Datuk Lim Guan Sing,8993,BERJAYA,31,5371
+Sabah,N.20 Kota Kinabalu,Kota Kinabalu,2,Joseph Chia Swee Chung,8994,PCBS,44,1900
+Sabah,N.21 Tanjong Aru,Tanjong Aru,1,Peter Chong On Tet,8995,PCBS,44,2556
+Sabah,N.21 Tanjong Aru,Tanjong Aru,2,Aloysius S. Joeman,8996,BEBAS,1,234
+Sabah,N.21 Tanjong Aru,Tanjong Aru,3,Nyrol Bin Ewan @ Syuester Ewan,8997,BEBAS,1,197
+Sabah,N.21 Tanjong Aru,Tanjong Aru,4,Paul Wong,8998,BERJAYA,31,4993
+Sabah,N.22 Inanam,Inanam,1,Marcel Leiking,8999,BERJAYA,31,4456
+Sabah,N.22 Inanam,Inanam,2,Haji Ibrahim O.K.K Mohd. Laiman Diki,9000,BEBAS,1,101
+Sabah,N.22 Inanam,Inanam,3,Peter Oyong Bin Labinjang,9001,PASOK,43,1393
+Sabah,N.22 Inanam,Inanam,4,Daniel John Jambun,3890,BEBAS,1,25
+Sabah,N.23 Moyog,Moyog,1,Conrad J. Mojuntin,9003,BERJAYA,31,3664
+Sabah,N.23 Moyog,Moyog,2,Ignatius Stephen Malanjum,1307,PASOK,43,1713
+Sabah,N.24 Kawang,Kawang,1,Osu Haji Sukam,2524,USNO,15,2153
+Sabah,N.24 Kawang,Kawang,2,Datuk Fred Sinidol,7910,BERJAYA,31,2976
+Sabah,N.24 Kawang,Kawang,3,Patrict Bin Sendu @ Patrick Bin Sindu,9007,PASOK,43,222
+Sabah,N.25 Elopura,Elopura,1,Yap Pak Leong,6077,BERJAYA,31,5599
+Sabah,N.25 Elopura,Elopura,2,Philip Fu Sui Cheong,9009,PCBS,44,792
+Sabah,N.25 Elopura,Elopura,3,Fing Ket Wing,9010,DAP,18,1047
+Sabah,N.26 Bandar Sandakan,Bandar Sandakan,1,Sulaiman Bin Ongon,9011,PUSAKA,36,31
+Sabah,N.26 Bandar Sandakan,Bandar Sandakan,2,Tan Kit Sher,9012,PCBS,44,1846
+Sabah,N.26 Bandar Sandakan,Bandar Sandakan,3,Stephen Wong Soon Yu,9013,BERJAYA,31,4735
+Sabah,N.27 Karamunting,Karamunting,1,Lau Pui Keong,7917,BERJAYA,31,4613
+Sabah,N.27 Karamunting,Karamunting,2,Ahamat Bin Saffar @ Ahmat Bin Mohd. Safar,9015,BEBAS,1,28
+Sabah,N.27 Karamunting,Karamunting,3,Michael Tan Kun Boo,9016,PCBS,44,1612
+Sabah,N.28 Sekong,Sekong,1,Abdullah Hussain,4287,BEBAS,1,111
+Sabah,N.28 Sekong,Sekong,2,Pengiran Ahmad Bin Pengiran Indar,740,USNO,15,1618
+Sabah,N.28 Sekong,Sekong,3,Yusof Bin Nasir,9019,PASOK,43,46
+Sabah,N.28 Sekong,Sekong,4,Mohammad Bin Jifli,7920,BERJAYA,31,2556
+Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,1,Puan Kolnah Binti Haji Sahih,9021,BERJAYA,31,1239
+Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,2,Tarsan Bin Ahaw,9022,PUSAKA,36,10
+Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,3,Abdul Rahman Bin Abdul Rashid,9023,BEBAS,1,11
+Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,4,Pg. Damsah Bin Pg. Indar @ Dadau,9024,USNO,15,868
+Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,5,Sairin Bin Muyang,9025,BEBAS,1,232
+Sabah,N.30 Kuamut,Kuamut,1,Abdul Malek Chua,1894,BERJAYA,31,2336
+Sabah,N.30 Kuamut,Kuamut,2,Hamid Jan,9027,BEBAS,1,156
+Sabah,N.30 Kuamut,Kuamut,3,Fred E. Sikal,9028,PASOK,43,109
+Sabah,N.31 Papar,Papar,1,Mohd. Saidi Lampoh,2844,BERJAYA,31,3416
+Sabah,N.31 Papar,Papar,2,James Andrew Vitales,9030,PASOK,43,580
+Sabah,N.31 Papar,Papar,3,Sabdin Ghani,9031,USNO,15,1745
+Sabah,N.32 Bongawan,Bongawan,1,Abdul Hamid Awang,9032,BERJAYA,31,1714
+Sabah,N.32 Bongawan,Bongawan,2,Hussin Aman,1315,BEBAS,1,124
+Sabah,N.32 Bongawan,Bongawan,3,Lai Teck Lan @ Francis Teck Lan Lai B. Lai Ah Cham,9034,BEBAS,1,116
+Sabah,N.32 Bongawan,Bongawan,4,Pg. Abdul Rahman Bin Pg. Ali,9035,USNO,15,1579
+Sabah,N.32 Bongawan,Bongawan,5,A. K. Aliuddin,9036,BEBAS,1,874
+Sabah,N.33 Kuala Penyu,Kuala Penyu,1,O.K.K Rashid Din Hatt,9037,BERJAYA,31,2207
+Sabah,N.33 Kuala Penyu,Kuala Penyu,2,Johan Bin O.T. Ghani,9038,USNO,15,1496
+Sabah,N.34 Labuan,Labuan,1,Mohamed Bin Omar Bledram,1599,USNO,15,2841
+Sabah,N.34 Labuan,Labuan,2,Jamal Nordin,9040,BERJAYA,31,3824
+Sabah,N.34 Labuan,Labuan,3,James Mathew Angggang,9041,BEBAS,1,292
+Sabah,N.35 Kilas,Kilas,1,Sylvester John @ Jintol Sidion,9042,BEBAS,1,350
+Sabah,N.35 Kilas,Kilas,2,Haji Taufek Bin Haji Asneh,7935,BERJAYA,31,2568
+Sabah,N.35 Kilas,Kilas,3,Abdul Rahman Bin Tadin,9044,BEBAS,1,70
+Sabah,N.35 Kilas,Kilas,4,Lajim Bin Md. Yusof,3561,BEBAS,1,156
+Sabah,N.35 Kilas,Kilas,5,Binsin Bin Haji Aliasmat,9046,USNO,15,1770
+Sabah,N.36 Lumadan,Lumadan,1,Anah Binti Tuali,9047,PASOK,43,126
+Sabah,N.36 Lumadan,Lumadan,2,Datuk Haji Mohd. Dun Bin Banir,7937,BERJAYA,31,2300
+Sabah,N.36 Lumadan,Lumadan,3,Mohd. Yassin Bin Buraw,9049,USNO,15,2123
+Sabah,N.36 Lumadan,Lumadan,4,Ramleh Haji Salleh,9050,BEBAS,1,87
+Sabah,N.37 Blingkor,Blingkor,1,Ayub Bin Aman,7940,BERJAYA,31,3347
+Sabah,N.37 Blingkor,Blingkor,2,Sairin Karno,9052,USNO,15,1119
+Sabah,N.37 Blingkor,Blingkor,3,Uling Anggan @ Thomas,1602,PASOK,43,680
+Sabah,N.38 Sook,Sook,1,Tan Sri Suffian Koroh,9054,BERJAYA,31,3358
+Sabah,N.38 Sook,Sook,2,Liberty Lopog @ Alibi,9055,PASOK,43,1578
+Sabah,N.38 Sook,Sook,3,Edmund Otigil,9056,BEBAS,1,176
+Sabah,N.38 Sook,Sook,4,Yunus Bin Kimin,9057,SEDAR,37,56
+Sabah,N.38 Sook,Sook,5,Dullah Bin Kandihong,9058,BEBAS,1,16
+Sabah,N.39 Pensiangan,Pensiangan,1,Eric Koroh,9059,BERJAYA,31,1349
+Sabah,N.39 Pensiangan,Pensiangan,2,Adut Bin Sigoh @ Joe Bin Said Besar,9060,BEBAS,1,964
+Sabah,N.39 Pensiangan,Pensiangan,3,Asing Ampagang,9061,PASOK,43,225
+Sabah,N.40 Lahad Datu,Lahad Datu,1,Mohamad Sunoch Marso,7949,BERJAYA,31,3991
+Sabah,N.40 Lahad Datu,Lahad Datu,2,Railey Bin Jeffrey,1925,USNO,15,2296
+Sabah,N.40 Lahad Datu,Lahad Datu,3,Mok Shou Khyun,9064,DAP,18,125
+Sabah,N.41 Kunak,Kunak,1,Datu Abdul Hamid Mustapha,9065,BERJAYA,31,1917
+Sabah,N.41 Kunak,Kunak,2,Salim Bin Bacho,9066,USNO,15,1769
+Sabah,N.42 Semporna,Semporna,1,Mohammad Shakir Bin Pg. Abdullah,1321,BERJAYA,31,1977
+Sabah,N.42 Semporna,Semporna,2,Osman Bin Azirul @ Osman Bin Haji Abdul Kadir,9068,BEBAS,1,503
+Sabah,N.42 Semporna,Semporna,3,Datuk Haji Sakaran Bin Dandai,1320,USNO,15,2827
+Sabah,N.43 Tenom,Tenom,1,Gamparon Bin Lajah,9070,PASOK,43,861
+Sabah,N.43 Tenom,Tenom,2,Harris Bin Mohd. Salleh,1609,BERJAYA,31,2988
+Sabah,N.43 Tenom,Tenom,3,Yong Yung Lee,9072,BEBAS,1,40
+Sabah,N.43 Tenom,Tenom,4,Awang Bin Yahya,9073,USNO,15,51
+Sabah,N.44 Sipitang,Sipitang,1,Ramle Bin Dua,9074,BERJAYA,31,2006
+Sabah,N.44 Sipitang,Sipitang,2,Kuting Bin O.T. Aspar,9075,PASOK,43,182
+Sabah,N.44 Sipitang,Sipitang,3,Shapawie Bin Othman,9076,USNO,15,1569
+Sabah,N.45 Kemabong,Kemabong,1,Shariff Bin Tambi @ Sharidd,9077,PASOK,43,959
+Sabah,N.45 Kemabong,Kemabong,2,Justin Sanggau,9078,BERJAYA,31,1996
+Sabah,N.45 Kemabong,Kemabong,3,Tingkalor Bin Lampag @ Yaakub Tingkalor Bin Lampag,9079,BEBAS,1,43
+Sabah,N.46 Merotai,Merotai,1,Joseph Mosusah,9080,PASOK,43,305
+Sabah,N.46 Merotai,Merotai,2,Abdullah Bin Burairah,9081,USNO,15,1898
+Sabah,N.46 Merotai,Merotai,3,Abdul Chapur Bin Hjai Salleh,3238,BERJAYA,31,2635
+Sabah,N.47 Balung,Balung,1,Liew Kong Khai,1326,DAP,18,501
+Sabah,N.47 Balung,Balung,2,Pengiran Hashim Bin Pengiran Ibrahim,9084,USNO,15,1562
+Sabah,N.47 Balung,Balung,3,S. Abas Bin S. Ali,9085,BERJAYA,31,2440
+Sabah,N.47 Balung,Balung,4,Haji Ismail Bin Juma,9086,PUSAKA,36,9
+Sabah,N.47 Balung,Balung,5,Michael S. Malanjum,9087,PASOK,43,113
+Sabah,N.48 Bandar Tawau,Bandar Tawau,1,Thu Voi Hiang,9088,BEBAS,1,41
+Sabah,N.48 Bandar Tawau,Bandar Tawau,2,Abu Bakar Bin Jambuan,9089,BEBAS,1,74
+Sabah,N.48 Bandar Tawau,Bandar Tawau,3,Hiew Min Kong,9090,BERJAYA,31,3848
+Sabah,N.48 Bandar Tawau,Bandar Tawau,4,Stephen Chan,7971,PCBS,44,3925

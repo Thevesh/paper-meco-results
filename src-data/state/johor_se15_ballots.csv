@@ -1,240 +1,240 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Johor,N.01 Buloh Kasap,Buloh Kasap,1,Subramani Chami,22164,PKR,3579
-Johor,N.01 Buloh Kasap,Buloh Kasap,2,Mohd Hanafi Bin Ahmad,22165,PEJUANG,190
-Johor,N.01 Buloh Kasap,Buloh Kasap,3,Norazman,22166,PN,2999
-Johor,N.01 Buloh Kasap,Buloh Kasap,4,Zahari Sarip,20328,BN,8956
-Johor,N.02 Jementah,Jementah,1,See Ann Giap,22168,BN,8163
-Johor,N.02 Jementah,Jementah,2,Cikgu Muna,22169,PN,4654
-Johor,N.02 Jementah,Jementah,3,Ng Kor Sim,22170,PH,8877
-Johor,N.03 Pemanis,Pemanis,1,Uzzair Bin Ismail,4965,PN,3825
-Johor,N.03 Pemanis,Pemanis,2,Dr. Hj. Azita Bin Amrin,22172,PEJUANG,247
-Johor,N.03 Pemanis,Pemanis,3,Yoong Thau,22173,PKR,4491
-Johor,N.03 Pemanis,Pemanis,4,Anuar Bin Abd. Manap,3849,BN,8678
-Johor,N.04 Kemelah,Kemelah,1,Dr. Sulaiman Mohd Nor,20336,PH,5907
-Johor,N.04 Kemelah,Kemelah,2,Norizan Bin Sahardin,22176,PEJUANG,214
-Johor,N.04 Kemelah,Kemelah,3,Cikgu Mala,19024,PN,4639
-Johor,N.04 Kemelah,Kemelah,4,Saras,19742,BN,7518
-Johor,N.05 Tenang,Tenang,1,Ahmad Humaizi Bin Uzir,22179,PN,2729
-Johor,N.05 Tenang,Tenang,2,Mohd Fauzi Bin Bachok,22180,PEJUANG,224
-Johor,N.05 Tenang,Tenang,3,Haslinda Binti Salleh,22181,BN,5380
-Johor,N.05 Tenang,Tenang,4,Lim Wei Jiet,5036,MUDA,3644
-Johor,N.06 Bekok,Bekok,1,Kanan M.,22183,PH,3467
-Johor,N.06 Bekok,Bekok,2,Tan Lek Khang,22184,PN,2881
-Johor,N.06 Bekok,Bekok,3,Tan Chong,19029,BN,7036
-Johor,N.06 Bekok,Bekok,4,Sandara Segaran A/L Arumugam,22186,WARISAN,330
-Johor,N.07 Bukit Kepong,Bukit Kepong,1,Dato' Dr Sahruddin Bin Jamal,22187,PN,9873
-Johor,N.07 Bukit Kepong,Bukit Kepong,2,Afiqah Zulkifli,22188,MUDA,3076
-Johor,N.07 Bukit Kepong,Bukit Kepong,3,Hj Ismail Bin Mohamed,11612,BN,9163
-Johor,N.07 Bukit Kepong,Bukit Kepong,4,Hj. Md Taib Suhut,22190,PEJUANG,191
-Johor,N.08 Bukit Pasir,Bukit Pasir,1,Mohd Akhiri Bin Mahmood,22191,PEJUANG,196
-Johor,N.08 Bukit Pasir,Bukit Pasir,2,Mohamad Fazli Bin Mohamad Salleh,22192,BN,6048
-Johor,N.08 Bukit Pasir,Bukit Pasir,3,Johar Bin Haji Siraj,22193,BEBAS,207
-Johor,N.08 Bukit Pasir,Bukit Pasir,4,Elia Nadira,22194,PH,4676
-Johor,N.08 Bukit Pasir,Bukit Pasir,5,Iqbal Razak,20345,PN,5850
-Johor,N.08 Bukit Pasir,Bukit Pasir,6,Yb Kapt (B) Najib Lep,22196,BEBAS,1860
-Johor,N.09 Gambir,Gambir,1,Suraya Binti Sulaiman,22197,PEJUANG,220
-Johor,N.09 Gambir,Gambir,2,Sahrihan Jani,22198,BN,7960
-Johor,N.09 Gambir,Gambir,3,Naim Jusri,22199,PKR,4509
-Johor,N.09 Gambir,Gambir,4,Mohd Solihan Bin Badri,22200,PN,4814
-Johor,N.10 Tangkak,Tangkak,1,Ee Chin Li,19040,PH,8105
-Johor,N.10 Tangkak,Tangkak,2,Ong Chee Siang,22202,BN,7733
-Johor,N.10 Tangkak,Tangkak,3,Muhd Airel Zabridin,22203,PEJUANG,789
-Johor,N.10 Tangkak,Tangkak,4,Dr. Chong,20334,PN,3092
-Johor,N.10 Tangkak,Tangkak,5,Zainal Bahrom Bin A Kadir,22205,BEBAS,121
-Johor,N.11 Serom,Serom,1,Ustaz Tok Rahmat,22206,PN,7808
-Johor,N.11 Serom,Serom,2,Asim Abdullah,22207,PH,5509
-Johor,N.11 Serom,Serom,3,Abdul Azim Bin Abdul Malek,22208,PEJUANG,332
-Johor,N.11 Serom,Serom,4,Khairin-Nisa,22209,BN,8507
-Johor,N.12 Bentayan,Bentayan,1,Ng Yak Howe,20356,PH,10973
-Johor,N.12 Bentayan,Bentayan,2,Gan Q'I Ru,22211,BN,3497
-Johor,N.12 Bentayan,Bentayan,3,Eddy Tan Kok Hong,22212,PN,2534
-Johor,N.13 Simpang Jeram,Simpang Jeram,1,Mahaizal Bin Mahmor,22213,PEJUANG,208
-Johor,N.13 Simpang Jeram,Simpang Jeram,2,Ustaz Zarul Bin Salleh,22214,PN,6350
-Johor,N.13 Simpang Jeram,Simpang Jeram,3,Datuk Seri Salahuddin Ayub,5026,PH,8749
-Johor,N.13 Simpang Jeram,Simpang Jeram,4,Datuk Lokman Md Don,22216,BN,6062
-Johor,N.14 Bukit Naning,Bukit Naning,1,Md Ysahrudin Bin Kusni,19054,PKR,3317
-Johor,N.14 Bukit Naning,Bukit Naning,2,S. Jeganathan,22218,BEBAS,1514
-Johor,N.14 Bukit Naning,Bukit Naning,3,Datuk Hj Mohd Fuad,22219,BN,5437
-Johor,N.14 Bukit Naning,Bukit Naning,4,Hj. Mahadzir Bin Hj Abu Said,22220,PN,3902
-Johor,N.14 Bukit Naning,Bukit Naning,5,Dato' Ibrahim Bin Shafe'E,22221,PEJUANG,86
-Johor,N.15 Maharani,Maharani,1,Hanis Asmui,22222,PBM,190
-Johor,N.15 Maharani,Maharani,2,Noor Farah Binti Shamsudin,22223,BN,5861
-Johor,N.15 Maharani,Maharani,3,Nor Hayati Bachok,20366,PH,6522
-Johor,N.15 Maharani,Maharani,4,Hj. Abdul Aziz Talib,22225,PN,7559
-Johor,N.15 Maharani,Maharani,5,Riad Bin Ahmad,22226,PEJUANG,292
-Johor,N.15 Maharani,Maharani,6,Lim Kim Joo,22227,BEBAS,592
-Johor,N.16 Sungai Balang,Sungai Balang,1,Cikgu Abdullah,22228,PKR,3576
-Johor,N.16 Sungai Balang,Sungai Balang,2,Selamat Bin Takim,22229,BN,8294
-Johor,N.16 Sungai Balang,Sungai Balang,3,Datuk Hj Zainudin Bin Sayuti,22230,PN,6001
-Johor,N.16 Sungai Balang,Sungai Balang,4,Intan Nadira Shafika,22231,PEJUANG,329
-Johor,N.17 Semerah,Semerah,1,Kamarolzaman Bin Mohd Jidi,22232,PUTRA,247
-Johor,N.17 Semerah,Semerah,2,Mohd Fared Khalid,22233,BN,12542
-Johor,N.17 Semerah,Semerah,3,Khuzzan,22234,PKR,6265
-Johor,N.17 Semerah,Semerah,4,Datuk Ariss Bin Samsudin,17533,PN,8501
-Johor,N.17 Semerah,Semerah,5,Mahdzir Bin Ibrahim,4989,PEJUANG,361
-Johor,N.18 Sri Medan,Sri Medan,1,Azmi Bin Masrani,13758,PKR,1537
-Johor,N.18 Sri Medan,Sri Medan,2,Dato' Zulkurnain Bin Hj.Kamisan,22238,BN,13165
-Johor,N.18 Sri Medan,Sri Medan,3,Halim Othman Bin Kepol,22239,PN,6891
-Johor,N.18 Sri Medan,Sri Medan,4,Mohd Firdaus Bin Abdul Malek,22240,PEJUANG,159
-Johor,N.19 Yong Peng,Yong Peng,1,Ah Soon,22241,BN,9870
-Johor,N.19 Yong Peng,Yong Peng,2,Alan Tee Boon Tsong,22242,PH,7129
-Johor,N.19 Yong Peng,Yong Peng,3,Susan Yong,22243,PN,1681
-Johor,N.20 Semarang,Semarang,1,Adzlan Bin Hj Raju,22244,PEJUANG,230
-Johor,N.20 Semarang,Semarang,2,Haryati Abu Nasir,22245,PKR,1331
-Johor,N.20 Semarang,Semarang,3,Shazani A Hamid,22246,PN,5276
-Johor,N.20 Semarang,Semarang,4,Datuk Samsolbari,19060,BN,11122
-Johor,N.21 Parit Yaani,Parit Yaani,1,Ridhauddin Tahir,22248,PEJUANG,239
-Johor,N.21 Parit Yaani,Parit Yaani,2,Ahmad Nawfal Dato' Mahfodz,22249,PN,5435
-Johor,N.21 Parit Yaani,Parit Yaani,3,Datuk Najib Samuri,22250,BN,9070
-Johor,N.21 Parit Yaani,Parit Yaani,4,Cikgu Aminolhuda,19062,PH,8776
-Johor,N.22 Parit Raja,Parit Raja,1,Rashidah Ramli,20389,BN,10634
-Johor,N.22 Parit Raja,Parit Raja,2,Zulkifli B Mat Daud.,22253,PN,6415
-Johor,N.22 Parit Raja,Parit Raja,3,Fikri Musa,22254,MUDA,3893
-Johor,N.22 Parit Raja,Parit Raja,4,Lateef Mahrani,22255,PEJUANG,510
-Johor,N.23 Penggaram,Penggaram,1,Ronald Sia Wee Yet,22256,PN,5276
-Johor,N.23 Penggaram,Penggaram,2,Gan Peck Cheng,2189,PH,18208
-Johor,N.23 Penggaram,Penggaram,3,Tuan Haji Zahari Bin Haji Osman,22258,BEBAS,2190
-Johor,N.23 Penggaram,Penggaram,4,Ter Hwa Kwong,22259,BN,8252
-Johor,N.24 Senggarang,Senggarang,1,Yusla Ismail,22260,BN,9725
-Johor,N.24 Senggarang,Senggarang,2,Baharudin Abdullah,13031,BEBAS,227
-Johor,N.24 Senggarang,Senggarang,3,Khairul Faizi Bin Ahmad Kamil,4255,PN,5624
-Johor,N.24 Senggarang,Senggarang,4,Hamid Jamah,22263,PH,5813
-Johor,N.24 Senggarang,Senggarang,5,Zalihah Binti Jaffar,22264,PEJUANG,168
-Johor,N.25 Rengit,Rengit,1,Mohammad Huzair Bin Lajis,22265,PN,5983
-Johor,N.25 Rengit,Rengit,2,Nizam Bashir Bin Abdul Kariem Bashir,22266,PEJUANG,206
-Johor,N.25 Rengit,Rengit,3,Mohd Puad Zarkashi,3506,BN,7903
-Johor,N.25 Rengit,Rengit,4,Khairuddin A Rahim,3853,PKR,2065
-Johor,N.26 Machap,Machap,1,R. Sangaran,22269,MUDA,3493
-Johor,N.26 Machap,Machap,2,Azlisham Bin Azahar,16268,PN,4486
-Johor,N.26 Machap,Machap,3,Onn Hafiz Ghazi,22271,BN,11029
-Johor,N.26 Machap,Machap,4,Datuk Dr Sharuddin Bin Md Salleh,19034,PEJUANG,465
-Johor,N.27 Layang-Layang,Layang-Layang,1,Dr Maszlee Malik,4994,PKR,4736
-Johor,N.27 Layang-Layang,Layang-Layang,2,Alagenthiran Krishnan,22274,PN,1278
-Johor,N.27 Layang-Layang,Layang-Layang,3,Abd Mutalip Bin Abd Rahim,19075,BN,7551
-Johor,N.27 Layang-Layang,Layang-Layang,4,Ahmad Shafiq Othaman,22276,PEJUANG,164
-Johor,N.28 Mengkibol,Mengkibol,1,Kelly Chye Pei Yee,22277,BN,9706
-Johor,N.28 Mengkibol,Mengkibol,2,Wong Chan Giap,22278,PN,4116
-Johor,N.28 Mengkibol,Mengkibol,3,Chew Chong Sin,15221,PH,19813
-Johor,N.29 Mahkota,Mahkota,1,Taqiuddin Cheman,20479,PH,11445
-Johor,N.29 Mahkota,Mahkota,2,Dato' Sharifah Azizah Dato' Syed Zain,22281,BN,16611
-Johor,N.29 Mahkota,Mahkota,3,Mohamad Nor Bin Lingan,22282,PN,7614
-Johor,N.29 Mahkota,Mahkota,4,Mohamed Noor Bin Suleiman,22283,WARISAN,555
-Johor,N.30 Paloh,Paloh,1,Selvendran A/L Velu,22284,PN,1512
-Johor,N.30 Paloh,Paloh,2,Sheikh Omar Ali,20412,PH,4901
-Johor,N.30 Paloh,Paloh,3,Lee Ting Han,22286,BN,8077
-Johor,N.30 Paloh,Paloh,4,Aminuddin Bin Johari,22287,PEJUANG,181
-Johor,N.31 Kahang,Kahang,1,R. Vidyananthan,17560,BN,10486
-Johor,N.31 Kahang,Kahang,2,Rohani Banu,22289,PH,2181
-Johor,N.31 Kahang,Kahang,3,Rosdi Amir,22290,PEJUANG,273
-Johor,N.31 Kahang,Kahang,4,Daud,22291,PN,3788
-Johor,N.32 Endau,Endau,1,Alwiyah Talib,20415,PN,8433
-Johor,N.32 Endau,Endau,2,Ismail Bin Don,5003,BEBAS,77
-Johor,N.32 Endau,Endau,3,Mohammad Fakrulradzi,22294,PH,1154
-Johor,N.32 Endau,Endau,4,Mohd Noorhisyam Bin Ibrahim,22295,PEJUANG,145
-Johor,N.32 Endau,Endau,5,Youzaimi,22296,BN,5392
-Johor,N.33 Tenggaroh,Tenggaroh,1,Mohd Firdaus Bin Abd Rahman,22297,PEJUANG,213
-Johor,N.33 Tenggaroh,Tenggaroh,2,Zulinah Binti A Johari,22298,PKR,1529
-Johor,N.33 Tenggaroh,Tenggaroh,3,Raven Kumar Krishnasamy,20419,BN,10528
-Johor,N.33 Tenggaroh,Tenggaroh,4,Cikgu Lan,22300,PN,9172
-Johor,N.34 Panti,Panti,1,Hassan Bin Rasid,22301,PN,6745
-Johor,N.34 Panti,Panti,2,Ahmad Daniel,22302,PH,2314
-Johor,N.34 Panti,Panti,3,Ahmade Bin Mohd. Din,22303,PEJUANG,334
-Johor,N.34 Panti,Panti,4,Hahasrin Bin Hashim,20423,BN,12599
-Johor,N.35 Pasir Raja,Pasir Raja,1,Rashidah Binti Ismail,20426,BN,9381
-Johor,N.35 Pasir Raja,Pasir Raja,2,Fakharuddin Moslim,22306,PKR,1976
-Johor,N.35 Pasir Raja,Pasir Raja,3,Intan Jawahir,20422,PN,4493
-Johor,N.35 Pasir Raja,Pasir Raja,4,Mohd Yusri Bin Yusof,22308,PEJUANG,265
-Johor,N.36 Sedili,Sedili,1,Tariq Ismail Bin Mustafa,22309,PEJUANG,211
-Johor,N.36 Sedili,Sedili,2,Abang Hasnol,22310,PN,6384
-Johor,N.36 Sedili,Sedili,3,Muszaide Bin Makmor,22311,BN,12063
-Johor,N.36 Sedili,Sedili,4,Tok Mat Khairi,22312,PH,333
-Johor,N.37 Johor Lama,Johor Lama,1,Omar Mokhtar,22313,PKR,1527
-Johor,N.37 Johor Lama,Johor Lama,2,Alias Rasman,22314,PN,6132
-Johor,N.37 Johor Lama,Johor Lama,3,Norlizah Binti Noh,22315,BN,12171
-Johor,N.37 Johor Lama,Johor Lama,4,Mohd Shukor Bin Ahmad,16742,PEJUANG,268
-Johor,N.38 Penawar,Penawar,1,Norazila Sanip,22317,PH,693
-Johor,N.38 Penawar,Penawar,2,Mohd Faizal Asmar,22318,PN,4904
-Johor,N.38 Penawar,Penawar,3,Rahmattullah Kamilin,22319,PEJUANG,521
-Johor,N.38 Penawar,Penawar,4,Fauziah Binti Misri,22320,BN,12409
-Johor,N.39 Tanjung Surat,Tanjung Surat,1,Samat Bin Atan,12725,PEJUANG,110
-Johor,N.39 Tanjung Surat,Tanjung Surat,2,Aznan Bin Tamin,22322,BN,9850
-Johor,N.39 Tanjung Surat,Tanjung Surat,3,Rosman Tahir,22323,PKR,800
-Johor,N.39 Tanjung Surat,Tanjung Surat,4,Cikgu Selamat Ujud,22324,PN,3947
-Johor,N.40 Tiram,Tiram,1,Bala Sundaram Perumal,22325,BEBAS,365
-Johor,N.40 Tiram,Tiram,2,S. Gopalakrishnan,20437,PKR,12550
-Johor,N.40 Tiram,Tiram,3,Dr. Karim,4982,PN,17658
-Johor,N.40 Tiram,Tiram,4,Mohd Azmi Bin Ali,22328,PBM,860
-Johor,N.40 Tiram,Tiram,5,Hj. Azizul Bin Bachok,22329,BN,22939
-Johor,N.40 Tiram,Tiram,6,Dato' Abdul Aziz Bin Hj. Harun,22330,PEJUANG,1391
-Johor,N.40 Tiram,Tiram,7,Jayasangkar A/L Jeraman,22331,BEBAS,654
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,1,Adzrin Bin Adam,22332,BEBAS,398
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,2,Ng Yew Aik,22333,BN,15770
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,3,Dr. Khairil Anwar Razali,22334,PEJUANG,2468
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,4,Loh Kah Yong,5025,PN,8957
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,5,Steven Choong,3865,PBM,2471
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,6,Amira Aisya,22337,MUDA,22884
-Johor,N.42 Johor Jaya,Johor Jaya,1,Chan San San,22338,BN,17860
-Johor,N.42 Johor Jaya,Johor Jaya,2,Victor Chen Hain Kai,22339,WARISAN,1448
-Johor,N.42 Johor Jaya,Johor Jaya,3,Liow Cai Tung,19109,PH,19782
-Johor,N.42 Johor Jaya,Johor Jaya,4,Dr. Ker Ching Sheng,22341,PN,8307
-Johor,N.43 Permas,Permas,1,Mahaya Binti Ahad,22342,PEJUANG,1036
-Johor,N.43 Permas,Permas,2,Baharudin Bin Mohamed Taib,22343,BN,23492
-Johor,N.43 Permas,Permas,3,Mohamed Ridza Bin Busu,22344,WARISAN,1412
-Johor,N.43 Permas,Permas,4,Tazul Arifin Bin Nasri,22345,PN,15566
-Johor,N.43 Permas,Permas,5,Syed Othman (Arab),22346,PH,14521
-Johor,N.44 Larkin,Larkin,1,Mohamad Riadz Bin Mohamad Hashim,22347,PEJUANG,810
-Johor,N.44 Larkin,Larkin,2,Rasid Abu Bakar,22348,MUDA,4948
-Johor,N.44 Larkin,Larkin,3,Dr. Zamil Najwah,22349,PKR,6448
-Johor,N.44 Larkin,Larkin,4,Zulkifli Bujang,22350,PN,9875
-Johor,N.44 Larkin,Larkin,5,Ustaz Norramadan Bin Buan,22351,BEBAS,299
-Johor,N.44 Larkin,Larkin,6,Mohd Hairi Bin Mad Shah,22352,BN,16053
-Johor,N.45 Stulang,Stulang,1,Youis Yap,22353,PN,3789
-Johor,N.45 Stulang,Stulang,2,Saiful Bahari,22354,PBM,1359
-Johor,N.45 Stulang,Stulang,3,Moharam Bin Baharom,22355,BEBAS,594
-Johor,N.45 Stulang,Stulang,4,Andrew Chen Kah Eng,19114,PH,12499
-Johor,N.45 Stulang,Stulang,5,Ang Boon Heng,20455,BN,9633
-Johor,N.46 Perling,Perling,1,Koo Shiaw Lee,20335,PN,8829
-Johor,N.46 Perling,Perling,2,Tan Hiang Kee,22359,BN,15281
-Johor,N.46 Perling,Perling,3,Liew Chin Tong,3357,PH,18628
-Johor,N.47 Kempas,Kempas,1,Ramlee Bohani,22361,BN,11919
-Johor,N.47 Kempas,Kempas,2,Cikgu Azwan B. Abd Rahman,22362,BEBAS,271
-Johor,N.47 Kempas,Kempas,3,Mohd Suhimi Bin A. Rahman,22363,BEBAS,158
-Johor,N.47 Kempas,Kempas,4,Napsiah Khamis,22364,PKR,8405
-Johor,N.47 Kempas,Kempas,5,Nornekman Bin Dato' Osman,22365,PEJUANG,1358
-Johor,N.47 Kempas,Kempas,6,Tok Hambali,22366,BEBAS,480
-Johor,N.47 Kempas,Kempas,7,Tpr Hj. Nur Faizal B. Abdullah,22367,PN,8036
-Johor,N.48 Skudai,Skudai,1,Marina Binti Ibrahim,12032,PH,26359
-Johor,N.48 Skudai,Skudai,2,Khoo Kong Ek,15021,PN,6258
-Johor,N.48 Skudai,Skudai,3,Lim Soon Hai,22370,BN,12416
-Johor,N.49 Kota Iskandar,Kota Iskandar,1,Pandak Bin Ahmad,22371,BN,23133
-Johor,N.49 Kota Iskandar,Kota Iskandar,2,Samsudin Bin Ismail,22372,PN,12503
-Johor,N.49 Kota Iskandar,Kota Iskandar,3,Dr. Hj. Zaini Bin Hj. Abu Bakar,22373,PEJUANG,1308
-Johor,N.49 Kota Iskandar,Kota Iskandar,4,Sr. Hj Dzulkefly Bin Ahmad,22374,PH,18773
-Johor,N.49 Kota Iskandar,Kota Iskandar,5,Ara,22375,PSM,997
-Johor,N.50 Bukit Permai,Bukit Permai,1,Azrol Hj. Rahani,22376,MUDA,6134
-Johor,N.50 Bukit Permai,Bukit Permai,2,Dato' Mohd Jafni Md Shukor,22377,BN,10889
-Johor,N.50 Bukit Permai,Bukit Permai,3,Tosrin Bin Jarvanthi,11539,PN,5108
-Johor,N.50 Bukit Permai,Bukit Permai,4,Mokhtar Abdul Wahab,22379,PEJUANG,385
-Johor,N.51 Bukit Batu,Bukit Batu,1,Lee Ming Wen,22380,WARISAN,1349
-Johor,N.51 Bukit Batu,Bukit Batu,2,Arthur Chiong Sen Sern,22381,PKR,9439
-Johor,N.51 Bukit Batu,Bukit Batu,3,Tan Heng Choon,22382,PN,3989
-Johor,N.51 Bukit Batu,Bukit Batu,4,S. Suppayah,22383,BN,9302
-Johor,N.52 Senai,Senai,1,Yeo Kwee Kwang,22384,PN,4802
-Johor,N.52 Senai,Senai,2,Kenny Shen Poh Kuan,22385,BN,10604
-Johor,N.52 Senai,Senai,3,Wong Bor Yang,22386,PH,16525
-Johor,N.53 Benut,Benut,1,Iskandar Noor Bin Ibrahim,22387,PEJUANG,139
-Johor,N.53 Benut,Benut,2,Dato' Isa Bin Ab Hamid,22388,PN,5037
-Johor,N.53 Benut,Benut,3,Haniff Ghazali Hosman,3872,PKR,1200
-Johor,N.53 Benut,Benut,4,Hasni Bin Mohammad,4997,BN,10896
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,1,Ustaz Abdullah,5418,PN,5967
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,2,Yb Speaker Suhaizan,22392,PH,6148
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,3,Hasrunizah Hassan (Azah),22393,BN,12473
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,4,Hj. Abd. Rashid Bin Abd. Hadi,22394,PEJUANG,329
-Johor,N.55 Pekan Nanas,Pekan Nanas,1,Tan Eng Meng,20481,BN,11024
-Johor,N.55 Pekan Nanas,Pekan Nanas,2,Hishamuddin Bin Busri (Kino),22396,WARISAN,1438
-Johor,N.55 Pekan Nanas,Pekan Nanas,3,Dato' Tan,5030,PN,2741
-Johor,N.55 Pekan Nanas,Pekan Nanas,4,Yeo Tung Siong,19136,PH,6189
-Johor,N.56 Kukup,Kukup,1,Zam Zam Bin Hashim,22399,PEJUANG,927
-Johor,N.56 Kukup,Kukup,2,Mahathir Iskandar Bin Muhammad,22400,PN,3439
-Johor,N.56 Kukup,Kukup,3,Zaiful Bakri @ Epul,22401,PKR,3276
-Johor,N.56 Kukup,Kukup,4,Dato' Jefridin Atan,22402,BN,11640
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Johor,N.01 Buloh Kasap,Buloh Kasap,1,Subramani Chami,22164,PKR,11,3579
+Johor,N.01 Buloh Kasap,Buloh Kasap,2,Mohd Hanafi Bin Ahmad,22165,PEJUANG,93,190
+Johor,N.01 Buloh Kasap,Buloh Kasap,3,Norazman,22166,PN,12,2999
+Johor,N.01 Buloh Kasap,Buloh Kasap,4,Zahari Sarip,20328,BN,25,8956
+Johor,N.02 Jementah,Jementah,1,See Ann Giap,22168,BN,25,8163
+Johor,N.02 Jementah,Jementah,2,Cikgu Muna,22169,PN,12,4654
+Johor,N.02 Jementah,Jementah,3,Ng Kor Sim,22170,PH,73,8877
+Johor,N.03 Pemanis,Pemanis,1,Uzzair Bin Ismail,4965,PN,12,3825
+Johor,N.03 Pemanis,Pemanis,2,Dr. Hj. Azita Bin Amrin,22172,PEJUANG,93,247
+Johor,N.03 Pemanis,Pemanis,3,Yoong Thau,22173,PKR,11,4491
+Johor,N.03 Pemanis,Pemanis,4,Anuar Bin Abd. Manap,3849,BN,25,8678
+Johor,N.04 Kemelah,Kemelah,1,Dr. Sulaiman Mohd Nor,20336,PH,73,5907
+Johor,N.04 Kemelah,Kemelah,2,Norizan Bin Sahardin,22176,PEJUANG,93,214
+Johor,N.04 Kemelah,Kemelah,3,Cikgu Mala,19024,PN,12,4639
+Johor,N.04 Kemelah,Kemelah,4,Saras,19742,BN,25,7518
+Johor,N.05 Tenang,Tenang,1,Ahmad Humaizi Bin Uzir,22179,PN,12,2729
+Johor,N.05 Tenang,Tenang,2,Mohd Fauzi Bin Bachok,22180,PEJUANG,93,224
+Johor,N.05 Tenang,Tenang,3,Haslinda Binti Salleh,22181,BN,25,5380
+Johor,N.05 Tenang,Tenang,4,Lim Wei Jiet,5036,MUDA,94,3644
+Johor,N.06 Bekok,Bekok,1,Kanan M.,22183,PH,73,3467
+Johor,N.06 Bekok,Bekok,2,Tan Lek Khang,22184,PN,12,2881
+Johor,N.06 Bekok,Bekok,3,Tan Chong,19029,BN,25,7036
+Johor,N.06 Bekok,Bekok,4,Sandara Segaran A/L Arumugam,22186,WARISAN,74,330
+Johor,N.07 Bukit Kepong,Bukit Kepong,1,Dato' Dr Sahruddin Bin Jamal,22187,PN,12,9873
+Johor,N.07 Bukit Kepong,Bukit Kepong,2,Afiqah Zulkifli,22188,MUDA,94,3076
+Johor,N.07 Bukit Kepong,Bukit Kepong,3,Hj Ismail Bin Mohamed,11612,BN,25,9163
+Johor,N.07 Bukit Kepong,Bukit Kepong,4,Hj. Md Taib Suhut,22190,PEJUANG,93,191
+Johor,N.08 Bukit Pasir,Bukit Pasir,1,Mohd Akhiri Bin Mahmood,22191,PEJUANG,93,196
+Johor,N.08 Bukit Pasir,Bukit Pasir,2,Mohamad Fazli Bin Mohamad Salleh,22192,BN,25,6048
+Johor,N.08 Bukit Pasir,Bukit Pasir,3,Johar Bin Haji Siraj,22193,BEBAS,1,207
+Johor,N.08 Bukit Pasir,Bukit Pasir,4,Elia Nadira,22194,PH,73,4676
+Johor,N.08 Bukit Pasir,Bukit Pasir,5,Iqbal Razak,20345,PN,12,5850
+Johor,N.08 Bukit Pasir,Bukit Pasir,6,Yb Kapt (B) Najib Lep,22196,BEBAS,1,1860
+Johor,N.09 Gambir,Gambir,1,Suraya Binti Sulaiman,22197,PEJUANG,93,220
+Johor,N.09 Gambir,Gambir,2,Sahrihan Jani,22198,BN,25,7960
+Johor,N.09 Gambir,Gambir,3,Naim Jusri,22199,PKR,11,4509
+Johor,N.09 Gambir,Gambir,4,Mohd Solihan Bin Badri,22200,PN,12,4814
+Johor,N.10 Tangkak,Tangkak,1,Ee Chin Li,19040,PH,73,8105
+Johor,N.10 Tangkak,Tangkak,2,Ong Chee Siang,22202,BN,25,7733
+Johor,N.10 Tangkak,Tangkak,3,Muhd Airel Zabridin,22203,PEJUANG,93,789
+Johor,N.10 Tangkak,Tangkak,4,Dr. Chong,20334,PN,12,3092
+Johor,N.10 Tangkak,Tangkak,5,Zainal Bahrom Bin A Kadir,22205,BEBAS,1,121
+Johor,N.11 Serom,Serom,1,Ustaz Tok Rahmat,22206,PN,12,7808
+Johor,N.11 Serom,Serom,2,Asim Abdullah,22207,PH,73,5509
+Johor,N.11 Serom,Serom,3,Abdul Azim Bin Abdul Malek,22208,PEJUANG,93,332
+Johor,N.11 Serom,Serom,4,Khairin-Nisa,22209,BN,25,8507
+Johor,N.12 Bentayan,Bentayan,1,Ng Yak Howe,20356,PH,73,10973
+Johor,N.12 Bentayan,Bentayan,2,Gan Q'I Ru,22211,BN,25,3497
+Johor,N.12 Bentayan,Bentayan,3,Eddy Tan Kok Hong,22212,PN,12,2534
+Johor,N.13 Simpang Jeram,Simpang Jeram,1,Mahaizal Bin Mahmor,22213,PEJUANG,93,208
+Johor,N.13 Simpang Jeram,Simpang Jeram,2,Ustaz Zarul Bin Salleh,22214,PN,12,6350
+Johor,N.13 Simpang Jeram,Simpang Jeram,3,Datuk Seri Salahuddin Ayub,5026,PH,73,8749
+Johor,N.13 Simpang Jeram,Simpang Jeram,4,Datuk Lokman Md Don,22216,BN,25,6062
+Johor,N.14 Bukit Naning,Bukit Naning,1,Md Ysahrudin Bin Kusni,19054,PKR,11,3317
+Johor,N.14 Bukit Naning,Bukit Naning,2,S. Jeganathan,22218,BEBAS,1,1514
+Johor,N.14 Bukit Naning,Bukit Naning,3,Datuk Hj Mohd Fuad,22219,BN,25,5437
+Johor,N.14 Bukit Naning,Bukit Naning,4,Hj. Mahadzir Bin Hj Abu Said,22220,PN,12,3902
+Johor,N.14 Bukit Naning,Bukit Naning,5,Dato' Ibrahim Bin Shafe'E,22221,PEJUANG,93,86
+Johor,N.15 Maharani,Maharani,1,Hanis Asmui,22222,PBM,96,190
+Johor,N.15 Maharani,Maharani,2,Noor Farah Binti Shamsudin,22223,BN,25,5861
+Johor,N.15 Maharani,Maharani,3,Nor Hayati Bachok,20366,PH,73,6522
+Johor,N.15 Maharani,Maharani,4,Hj. Abdul Aziz Talib,22225,PN,12,7559
+Johor,N.15 Maharani,Maharani,5,Riad Bin Ahmad,22226,PEJUANG,93,292
+Johor,N.15 Maharani,Maharani,6,Lim Kim Joo,22227,BEBAS,1,592
+Johor,N.16 Sungai Balang,Sungai Balang,1,Cikgu Abdullah,22228,PKR,11,3576
+Johor,N.16 Sungai Balang,Sungai Balang,2,Selamat Bin Takim,22229,BN,25,8294
+Johor,N.16 Sungai Balang,Sungai Balang,3,Datuk Hj Zainudin Bin Sayuti,22230,PN,12,6001
+Johor,N.16 Sungai Balang,Sungai Balang,4,Intan Nadira Shafika,22231,PEJUANG,93,329
+Johor,N.17 Semerah,Semerah,1,Kamarolzaman Bin Mohd Jidi,22232,PUTRA,91,247
+Johor,N.17 Semerah,Semerah,2,Mohd Fared Khalid,22233,BN,25,12542
+Johor,N.17 Semerah,Semerah,3,Khuzzan,22234,PKR,11,6265
+Johor,N.17 Semerah,Semerah,4,Datuk Ariss Bin Samsudin,17533,PN,12,8501
+Johor,N.17 Semerah,Semerah,5,Mahdzir Bin Ibrahim,4989,PEJUANG,93,361
+Johor,N.18 Sri Medan,Sri Medan,1,Azmi Bin Masrani,13758,PKR,11,1537
+Johor,N.18 Sri Medan,Sri Medan,2,Dato' Zulkurnain Bin Hj.Kamisan,22238,BN,25,13165
+Johor,N.18 Sri Medan,Sri Medan,3,Halim Othman Bin Kepol,22239,PN,12,6891
+Johor,N.18 Sri Medan,Sri Medan,4,Mohd Firdaus Bin Abdul Malek,22240,PEJUANG,93,159
+Johor,N.19 Yong Peng,Yong Peng,1,Ah Soon,22241,BN,25,9870
+Johor,N.19 Yong Peng,Yong Peng,2,Alan Tee Boon Tsong,22242,PH,73,7129
+Johor,N.19 Yong Peng,Yong Peng,3,Susan Yong,22243,PN,12,1681
+Johor,N.20 Semarang,Semarang,1,Adzlan Bin Hj Raju,22244,PEJUANG,93,230
+Johor,N.20 Semarang,Semarang,2,Haryati Abu Nasir,22245,PKR,11,1331
+Johor,N.20 Semarang,Semarang,3,Shazani A Hamid,22246,PN,12,5276
+Johor,N.20 Semarang,Semarang,4,Datuk Samsolbari,19060,BN,25,11122
+Johor,N.21 Parit Yaani,Parit Yaani,1,Ridhauddin Tahir,22248,PEJUANG,93,239
+Johor,N.21 Parit Yaani,Parit Yaani,2,Ahmad Nawfal Dato' Mahfodz,22249,PN,12,5435
+Johor,N.21 Parit Yaani,Parit Yaani,3,Datuk Najib Samuri,22250,BN,25,9070
+Johor,N.21 Parit Yaani,Parit Yaani,4,Cikgu Aminolhuda,19062,PH,73,8776
+Johor,N.22 Parit Raja,Parit Raja,1,Rashidah Ramli,20389,BN,25,10634
+Johor,N.22 Parit Raja,Parit Raja,2,Zulkifli B Mat Daud.,22253,PN,12,6415
+Johor,N.22 Parit Raja,Parit Raja,3,Fikri Musa,22254,MUDA,94,3893
+Johor,N.22 Parit Raja,Parit Raja,4,Lateef Mahrani,22255,PEJUANG,93,510
+Johor,N.23 Penggaram,Penggaram,1,Ronald Sia Wee Yet,22256,PN,12,5276
+Johor,N.23 Penggaram,Penggaram,2,Gan Peck Cheng,2189,PH,73,18208
+Johor,N.23 Penggaram,Penggaram,3,Tuan Haji Zahari Bin Haji Osman,22258,BEBAS,1,2190
+Johor,N.23 Penggaram,Penggaram,4,Ter Hwa Kwong,22259,BN,25,8252
+Johor,N.24 Senggarang,Senggarang,1,Yusla Ismail,22260,BN,25,9725
+Johor,N.24 Senggarang,Senggarang,2,Baharudin Abdullah,13031,BEBAS,1,227
+Johor,N.24 Senggarang,Senggarang,3,Khairul Faizi Bin Ahmad Kamil,4255,PN,12,5624
+Johor,N.24 Senggarang,Senggarang,4,Hamid Jamah,22263,PH,73,5813
+Johor,N.24 Senggarang,Senggarang,5,Zalihah Binti Jaffar,22264,PEJUANG,93,168
+Johor,N.25 Rengit,Rengit,1,Mohammad Huzair Bin Lajis,22265,PN,12,5983
+Johor,N.25 Rengit,Rengit,2,Nizam Bashir Bin Abdul Kariem Bashir,22266,PEJUANG,93,206
+Johor,N.25 Rengit,Rengit,3,Mohd Puad Zarkashi,3506,BN,25,7903
+Johor,N.25 Rengit,Rengit,4,Khairuddin A Rahim,3853,PKR,11,2065
+Johor,N.26 Machap,Machap,1,R. Sangaran,22269,MUDA,94,3493
+Johor,N.26 Machap,Machap,2,Azlisham Bin Azahar,16268,PN,12,4486
+Johor,N.26 Machap,Machap,3,Onn Hafiz Ghazi,22271,BN,25,11029
+Johor,N.26 Machap,Machap,4,Datuk Dr Sharuddin Bin Md Salleh,19034,PEJUANG,93,465
+Johor,N.27 Layang-Layang,Layang-Layang,1,Dr Maszlee Malik,4994,PKR,11,4736
+Johor,N.27 Layang-Layang,Layang-Layang,2,Alagenthiran Krishnan,22274,PN,12,1278
+Johor,N.27 Layang-Layang,Layang-Layang,3,Abd Mutalip Bin Abd Rahim,19075,BN,25,7551
+Johor,N.27 Layang-Layang,Layang-Layang,4,Ahmad Shafiq Othaman,22276,PEJUANG,93,164
+Johor,N.28 Mengkibol,Mengkibol,1,Kelly Chye Pei Yee,22277,BN,25,9706
+Johor,N.28 Mengkibol,Mengkibol,2,Wong Chan Giap,22278,PN,12,4116
+Johor,N.28 Mengkibol,Mengkibol,3,Chew Chong Sin,15221,PH,73,19813
+Johor,N.29 Mahkota,Mahkota,1,Taqiuddin Cheman,20479,PH,73,11445
+Johor,N.29 Mahkota,Mahkota,2,Dato' Sharifah Azizah Dato' Syed Zain,22281,BN,25,16611
+Johor,N.29 Mahkota,Mahkota,3,Mohamad Nor Bin Lingan,22282,PN,12,7614
+Johor,N.29 Mahkota,Mahkota,4,Mohamed Noor Bin Suleiman,22283,WARISAN,74,555
+Johor,N.30 Paloh,Paloh,1,Selvendran A/L Velu,22284,PN,12,1512
+Johor,N.30 Paloh,Paloh,2,Sheikh Omar Ali,20412,PH,73,4901
+Johor,N.30 Paloh,Paloh,3,Lee Ting Han,22286,BN,25,8077
+Johor,N.30 Paloh,Paloh,4,Aminuddin Bin Johari,22287,PEJUANG,93,181
+Johor,N.31 Kahang,Kahang,1,R. Vidyananthan,17560,BN,25,10486
+Johor,N.31 Kahang,Kahang,2,Rohani Banu,22289,PH,73,2181
+Johor,N.31 Kahang,Kahang,3,Rosdi Amir,22290,PEJUANG,93,273
+Johor,N.31 Kahang,Kahang,4,Daud,22291,PN,12,3788
+Johor,N.32 Endau,Endau,1,Alwiyah Talib,20415,PN,12,8433
+Johor,N.32 Endau,Endau,2,Ismail Bin Don,5003,BEBAS,1,77
+Johor,N.32 Endau,Endau,3,Mohammad Fakrulradzi,22294,PH,73,1154
+Johor,N.32 Endau,Endau,4,Mohd Noorhisyam Bin Ibrahim,22295,PEJUANG,93,145
+Johor,N.32 Endau,Endau,5,Youzaimi,22296,BN,25,5392
+Johor,N.33 Tenggaroh,Tenggaroh,1,Mohd Firdaus Bin Abd Rahman,22297,PEJUANG,93,213
+Johor,N.33 Tenggaroh,Tenggaroh,2,Zulinah Binti A Johari,22298,PKR,11,1529
+Johor,N.33 Tenggaroh,Tenggaroh,3,Raven Kumar Krishnasamy,20419,BN,25,10528
+Johor,N.33 Tenggaroh,Tenggaroh,4,Cikgu Lan,22300,PN,12,9172
+Johor,N.34 Panti,Panti,1,Hassan Bin Rasid,22301,PN,12,6745
+Johor,N.34 Panti,Panti,2,Ahmad Daniel,22302,PH,73,2314
+Johor,N.34 Panti,Panti,3,Ahmade Bin Mohd. Din,22303,PEJUANG,93,334
+Johor,N.34 Panti,Panti,4,Hahasrin Bin Hashim,20423,BN,25,12599
+Johor,N.35 Pasir Raja,Pasir Raja,1,Rashidah Binti Ismail,20426,BN,25,9381
+Johor,N.35 Pasir Raja,Pasir Raja,2,Fakharuddin Moslim,22306,PKR,11,1976
+Johor,N.35 Pasir Raja,Pasir Raja,3,Intan Jawahir,20422,PN,12,4493
+Johor,N.35 Pasir Raja,Pasir Raja,4,Mohd Yusri Bin Yusof,22308,PEJUANG,93,265
+Johor,N.36 Sedili,Sedili,1,Tariq Ismail Bin Mustafa,22309,PEJUANG,93,211
+Johor,N.36 Sedili,Sedili,2,Abang Hasnol,22310,PN,12,6384
+Johor,N.36 Sedili,Sedili,3,Muszaide Bin Makmor,22311,BN,25,12063
+Johor,N.36 Sedili,Sedili,4,Tok Mat Khairi,22312,PH,73,333
+Johor,N.37 Johor Lama,Johor Lama,1,Omar Mokhtar,22313,PKR,11,1527
+Johor,N.37 Johor Lama,Johor Lama,2,Alias Rasman,22314,PN,12,6132
+Johor,N.37 Johor Lama,Johor Lama,3,Norlizah Binti Noh,22315,BN,25,12171
+Johor,N.37 Johor Lama,Johor Lama,4,Mohd Shukor Bin Ahmad,16742,PEJUANG,93,268
+Johor,N.38 Penawar,Penawar,1,Norazila Sanip,22317,PH,73,693
+Johor,N.38 Penawar,Penawar,2,Mohd Faizal Asmar,22318,PN,12,4904
+Johor,N.38 Penawar,Penawar,3,Rahmattullah Kamilin,22319,PEJUANG,93,521
+Johor,N.38 Penawar,Penawar,4,Fauziah Binti Misri,22320,BN,25,12409
+Johor,N.39 Tanjung Surat,Tanjung Surat,1,Samat Bin Atan,12725,PEJUANG,93,110
+Johor,N.39 Tanjung Surat,Tanjung Surat,2,Aznan Bin Tamin,22322,BN,25,9850
+Johor,N.39 Tanjung Surat,Tanjung Surat,3,Rosman Tahir,22323,PKR,11,800
+Johor,N.39 Tanjung Surat,Tanjung Surat,4,Cikgu Selamat Ujud,22324,PN,12,3947
+Johor,N.40 Tiram,Tiram,1,Bala Sundaram Perumal,22325,BEBAS,1,365
+Johor,N.40 Tiram,Tiram,2,S. Gopalakrishnan,20437,PKR,11,12550
+Johor,N.40 Tiram,Tiram,3,Dr. Karim,4982,PN,12,17658
+Johor,N.40 Tiram,Tiram,4,Mohd Azmi Bin Ali,22328,PBM,96,860
+Johor,N.40 Tiram,Tiram,5,Hj. Azizul Bin Bachok,22329,BN,25,22939
+Johor,N.40 Tiram,Tiram,6,Dato' Abdul Aziz Bin Hj. Harun,22330,PEJUANG,93,1391
+Johor,N.40 Tiram,Tiram,7,Jayasangkar A/L Jeraman,22331,BEBAS,1,654
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,1,Adzrin Bin Adam,22332,BEBAS,1,398
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,2,Ng Yew Aik,22333,BN,25,15770
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,3,Dr. Khairil Anwar Razali,22334,PEJUANG,93,2468
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,4,Loh Kah Yong,5025,PN,12,8957
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,5,Steven Choong,3865,PBM,96,2471
+Johor,N.41 Puteri Wangsa,Puteri Wangsa,6,Amira Aisya,22337,MUDA,94,22884
+Johor,N.42 Johor Jaya,Johor Jaya,1,Chan San San,22338,BN,25,17860
+Johor,N.42 Johor Jaya,Johor Jaya,2,Victor Chen Hain Kai,22339,WARISAN,74,1448
+Johor,N.42 Johor Jaya,Johor Jaya,3,Liow Cai Tung,19109,PH,73,19782
+Johor,N.42 Johor Jaya,Johor Jaya,4,Dr. Ker Ching Sheng,22341,PN,12,8307
+Johor,N.43 Permas,Permas,1,Mahaya Binti Ahad,22342,PEJUANG,93,1036
+Johor,N.43 Permas,Permas,2,Baharudin Bin Mohamed Taib,22343,BN,25,23492
+Johor,N.43 Permas,Permas,3,Mohamed Ridza Bin Busu,22344,WARISAN,74,1412
+Johor,N.43 Permas,Permas,4,Tazul Arifin Bin Nasri,22345,PN,12,15566
+Johor,N.43 Permas,Permas,5,Syed Othman (Arab),22346,PH,73,14521
+Johor,N.44 Larkin,Larkin,1,Mohamad Riadz Bin Mohamad Hashim,22347,PEJUANG,93,810
+Johor,N.44 Larkin,Larkin,2,Rasid Abu Bakar,22348,MUDA,94,4948
+Johor,N.44 Larkin,Larkin,3,Dr. Zamil Najwah,22349,PKR,11,6448
+Johor,N.44 Larkin,Larkin,4,Zulkifli Bujang,22350,PN,12,9875
+Johor,N.44 Larkin,Larkin,5,Ustaz Norramadan Bin Buan,22351,BEBAS,1,299
+Johor,N.44 Larkin,Larkin,6,Mohd Hairi Bin Mad Shah,22352,BN,25,16053
+Johor,N.45 Stulang,Stulang,1,Youis Yap,22353,PN,12,3789
+Johor,N.45 Stulang,Stulang,2,Saiful Bahari,22354,PBM,96,1359
+Johor,N.45 Stulang,Stulang,3,Moharam Bin Baharom,22355,BEBAS,1,594
+Johor,N.45 Stulang,Stulang,4,Andrew Chen Kah Eng,19114,PH,73,12499
+Johor,N.45 Stulang,Stulang,5,Ang Boon Heng,20455,BN,25,9633
+Johor,N.46 Perling,Perling,1,Koo Shiaw Lee,20335,PN,12,8829
+Johor,N.46 Perling,Perling,2,Tan Hiang Kee,22359,BN,25,15281
+Johor,N.46 Perling,Perling,3,Liew Chin Tong,3357,PH,73,18628
+Johor,N.47 Kempas,Kempas,1,Ramlee Bohani,22361,BN,25,11919
+Johor,N.47 Kempas,Kempas,2,Cikgu Azwan B. Abd Rahman,22362,BEBAS,1,271
+Johor,N.47 Kempas,Kempas,3,Mohd Suhimi Bin A. Rahman,22363,BEBAS,1,158
+Johor,N.47 Kempas,Kempas,4,Napsiah Khamis,22364,PKR,11,8405
+Johor,N.47 Kempas,Kempas,5,Nornekman Bin Dato' Osman,22365,PEJUANG,93,1358
+Johor,N.47 Kempas,Kempas,6,Tok Hambali,22366,BEBAS,1,480
+Johor,N.47 Kempas,Kempas,7,Tpr Hj. Nur Faizal B. Abdullah,22367,PN,12,8036
+Johor,N.48 Skudai,Skudai,1,Marina Binti Ibrahim,12032,PH,73,26359
+Johor,N.48 Skudai,Skudai,2,Khoo Kong Ek,15021,PN,12,6258
+Johor,N.48 Skudai,Skudai,3,Lim Soon Hai,22370,BN,25,12416
+Johor,N.49 Kota Iskandar,Kota Iskandar,1,Pandak Bin Ahmad,22371,BN,25,23133
+Johor,N.49 Kota Iskandar,Kota Iskandar,2,Samsudin Bin Ismail,22372,PN,12,12503
+Johor,N.49 Kota Iskandar,Kota Iskandar,3,Dr. Hj. Zaini Bin Hj. Abu Bakar,22373,PEJUANG,93,1308
+Johor,N.49 Kota Iskandar,Kota Iskandar,4,Sr. Hj Dzulkefly Bin Ahmad,22374,PH,73,18773
+Johor,N.49 Kota Iskandar,Kota Iskandar,5,Ara,22375,PSM,68,997
+Johor,N.50 Bukit Permai,Bukit Permai,1,Azrol Hj. Rahani,22376,MUDA,94,6134
+Johor,N.50 Bukit Permai,Bukit Permai,2,Dato' Mohd Jafni Md Shukor,22377,BN,25,10889
+Johor,N.50 Bukit Permai,Bukit Permai,3,Tosrin Bin Jarvanthi,11539,PN,12,5108
+Johor,N.50 Bukit Permai,Bukit Permai,4,Mokhtar Abdul Wahab,22379,PEJUANG,93,385
+Johor,N.51 Bukit Batu,Bukit Batu,1,Lee Ming Wen,22380,WARISAN,74,1349
+Johor,N.51 Bukit Batu,Bukit Batu,2,Arthur Chiong Sen Sern,22381,PKR,11,9439
+Johor,N.51 Bukit Batu,Bukit Batu,3,Tan Heng Choon,22382,PN,12,3989
+Johor,N.51 Bukit Batu,Bukit Batu,4,S. Suppayah,22383,BN,25,9302
+Johor,N.52 Senai,Senai,1,Yeo Kwee Kwang,22384,PN,12,4802
+Johor,N.52 Senai,Senai,2,Kenny Shen Poh Kuan,22385,BN,25,10604
+Johor,N.52 Senai,Senai,3,Wong Bor Yang,22386,PH,73,16525
+Johor,N.53 Benut,Benut,1,Iskandar Noor Bin Ibrahim,22387,PEJUANG,93,139
+Johor,N.53 Benut,Benut,2,Dato' Isa Bin Ab Hamid,22388,PN,12,5037
+Johor,N.53 Benut,Benut,3,Haniff Ghazali Hosman,3872,PKR,11,1200
+Johor,N.53 Benut,Benut,4,Hasni Bin Mohammad,4997,BN,25,10896
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,1,Ustaz Abdullah,5418,PN,12,5967
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,2,Yb Speaker Suhaizan,22392,PH,73,6148
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,3,Hasrunizah Hassan (Azah),22393,BN,25,12473
+Johor,N.54 Pulai Sebatang,Pulai Sebatang,4,Hj. Abd. Rashid Bin Abd. Hadi,22394,PEJUANG,93,329
+Johor,N.55 Pekan Nanas,Pekan Nanas,1,Tan Eng Meng,20481,BN,25,11024
+Johor,N.55 Pekan Nanas,Pekan Nanas,2,Hishamuddin Bin Busri (Kino),22396,WARISAN,74,1438
+Johor,N.55 Pekan Nanas,Pekan Nanas,3,Dato' Tan,5030,PN,12,2741
+Johor,N.55 Pekan Nanas,Pekan Nanas,4,Yeo Tung Siong,19136,PH,73,6189
+Johor,N.56 Kukup,Kukup,1,Zam Zam Bin Hashim,22399,PEJUANG,93,927
+Johor,N.56 Kukup,Kukup,2,Mahathir Iskandar Bin Muhammad,22400,PN,12,3439
+Johor,N.56 Kukup,Kukup,3,Zaiful Bakri @ Epul,22401,PKR,11,3276
+Johor,N.56 Kukup,Kukup,4,Dato' Jefridin Atan,22402,BN,25,11640

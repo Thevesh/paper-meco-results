@@ -1,113 +1,113 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,1,Tuan H. Mohd. Yusoff Bangs,5357,BEBAS,853
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,2,Wong Yeow Wye,5358,PERIKATAN,1126
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,3,Wan Yaacob Bin Wan Ahmad,5359,NEG,347
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,4,Hussein Bin Sulaiman,407,SF,99
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,5,Mohd. Bin Latiff,5361,BEBAS,56
-Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,6,Khaidir Khatib,5362,PAS,1472
-Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,1,Mohd. Ali Bin Abdullah,583,PERIKATAN,3051
-Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,2,John William Lind,5364,SF,305
-Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,3,Hj. Nik Jafaar Bin Nik Soh,5365,BEBAS,608
-Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,4,Wan Ismail Bin Wan Ahmad,5366,PAS,1978
-Kelantan,N.03 Machang Selatan,Machang Selatan,1,Haji Mohamed Noor Bin Haji,5367,PAS,4434
-Kelantan,N.03 Machang Selatan,Machang Selatan,2,Mohd. Salleh Bin H. Hussin,5368,PERIKATAN,2655
-Kelantan,N.03 Machang Selatan,Machang Selatan,3,Mohd. Ghazali Bin Haji Noh,5369,NEG,315
-Kelantan,N.03 Machang Selatan,Machang Selatan,4,Ismail Bin Omar,5370,SF,241
-Kelantan,N.04 Machang Utara,Machang Utara,1,Haji Mohamed Bin Nasir,5371,PAS,4466
-Kelantan,N.04 Machang Utara,Machang Utara,2,Ibrahim Bin Mohamed,5372,PERIKATAN,2834
-Kelantan,N.04 Machang Utara,Machang Utara,3,Mohamed Taib Bin Haji Ibrahim,5373,NEG,629
-Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,1,Othman Bin Ahmad,5374,PERIKATAN,2094
-Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,2,Che Mamat Bin Ali,5375,SF,177
-Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,3,Mohd. (Mat) Daud Bin A. Jamil,5376,PAS,3184
-Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,4,Haji Wan Yusoff Bin Wan Ali,5377,NEG,980
-Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,1,Yusoff Bin Ab. Latiff,5378,PAS,3345
-Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,2,Wan Ja'Afar Bin Haji Mahmood,5379,NEG,712
-Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,3,Hussin Bin Yunus,5380,BEBAS,865
-Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,4,Abdul Ghani Bin Mohamed,5381,PERIKATAN,765
-Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,5,Said Bin Awang,5382,SF,144
-Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,1,Tengku Mohamed Bin Sultan Mohamed Iv,5383,PAS,4666
-Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,2,Mohamed Bin Che Moh,5384,SF,106
-Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,3,Hassan Bin Yaacob,5385,NEG,426
-Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,4,Wan Isma' Binti Hj. Ab. Kadir,5386,PERIKATAN,1274
-Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,1,Abdullah Bin Haji Mohamed,5387,SF,218
-Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,2,Wan Sulaiman Bin H. Ibrahim,599,PAS,3365
-Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,3,Haji Abdul Rahman Bin Haji Yusoff,5389,PERIKATAN,2826
-Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,1,Ghazali Bin  Yusof,5390,PERIKATAN,2207
-Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,2,Haji Alias Bin Ismail Alias Alias Bin Awang,5391,SF,204
-Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,3,Ab. Rahman Bin Mohd. Salleh,5392,PAS,4868
-Kelantan,N.10 Bachok Utara,Bachok Utara,1,Shafei Bin Ahmad,5393,PAS,5557
-Kelantan,N.10 Bachok Utara,Bachok Utara,2,Jaafar Bin Mohamad,5394,PERIKATAN,1290
-Kelantan,N.10 Bachok Utara,Bachok Utara,3,Haji Nik Mohd. Salleh Bin Haji Wan Musa,5395,NEG,222
-Kelantan,N.11 Bachok Tengah,Bachok Tengah,1,Nik Mat Haji Hassan,5396,SF,162
-Kelantan,N.11 Bachok Tengah,Bachok Tengah,2,Mohd. Amin Bin Haji Yaakub,5397,PAS,4533
-Kelantan,N.11 Bachok Tengah,Bachok Tengah,3,Mohamed Yusoff Bin Yahya,5398,NEG,405
-Kelantan,N.11 Bachok Tengah,Bachok Tengah,4,Cha Wel,5399,PERIKATAN,1022
-Kelantan,N.12 Bachok Selatan,Bachok Selatan,1,Haji Othman Bin Haji Ismail,2599,PAS,4498
-Kelantan,N.12 Bachok Selatan,Bachok Selatan,2,Ismail Bin Haji Ahmad,5401,PERIKATAN,1220
-Kelantan,N.12 Bachok Selatan,Bachok Selatan,3,Nik Ab. Majid Bin Nik Ab. Rahman,5402,SF,105
-Kelantan,N.12 Bachok Selatan,Bachok Selatan,4,Othman Adam,5403,BEBAS,65
-Kelantan,N.12 Bachok Selatan,Bachok Selatan,5,Haji Mokhtar Bin Haji Ahmad,115,NEG,40
-Kelantan,N.13 Tendong,Tendong,1,Mat Noor Yusoff,5405,SF,251
-Kelantan,N.13 Tendong,Tendong,2,Tuan Guru Haji Che Hassan,5406,PAS,4075
-Kelantan,N.13 Tendong,Tendong,3,Imam Abdullah Tempoyak,5407,BEBAS,238
-Kelantan,N.13 Tendong,Tendong,4,Che Gu Haji Harun,5408,BEBAS,222
-Kelantan,N.13 Tendong,Tendong,5,Mohd. Zain Bin Harun,5409,PERIKATAN,1074
-Kelantan,N.14 Meranti,Meranti,1,Nik Man,5410,PAS,4989
-Kelantan,N.14 Meranti,Meranti,2,Yusof Bin Mat Akib,5411,PERIKATAN,340
-Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,1,Che Hassan Bin Haji Ismail,591,PERIKATAN,1715
-Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,2,Datok Lankamin,5413,NEG,85
-Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,3,Che Gu Omar,5414,PAS,3657
-Kelantan,N.16 Lemal,Lemal,1,Tuan Guru Haji Haron,5415,PAS,3367
-Kelantan,N.16 Lemal,Lemal,2,Omar Bin Haji Ahmad,5416,PERIKATAN,1070
-Kelantan,N.16 Lemal,Lemal,3,Mat S. O.,5417,SF,57
-Kelantan,N.17 Tok Uban,Tok Uban,1,Ustaz Abdullah,5418,PAS,4389
-Kelantan,N.17 Tok Uban,Tok Uban,2,Ya'Acob Bin Awang,200,PERIKATAN,1183
-Kelantan,N.18 Rantau Panjang,Rantau Panjang,1,Gelap Pak Well,5420,NEG,66
-Kelantan,N.18 Rantau Panjang,Rantau Panjang,2,Abdul Rahman Hj. Daud,5421,PAS,2521
-Kelantan,N.18 Rantau Panjang,Rantau Panjang,3,Nik Yusoff Bin Nik Lodin,5422,PERIKATAN,1241
-Kelantan,N.19 Tumpat Barat,Tumpat Barat,1,Tuan Guru Haji Daud,5423,PAS,4208
-Kelantan,N.19 Tumpat Barat,Tumpat Barat,2,Othman Bin Mohd. Uddin,5424,PERIKATAN,1017
-Kelantan,N.19 Tumpat Barat,Tumpat Barat,3,Ibrahim Tunggal,5425,BEBAS,147
-Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,1,Mustapha Awang,5426,PAS,2253
-Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,2,Foo Chow Yong,5427,PERIKATAN,2200
-Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,3,Yahya Bin Abdullah,5428,NEG,968
-Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,4,C. W. Sook,5429,SF,341
-Kelantan,N.21 Tumpat Timor,Tumpat Timor,1,Che Ishak Mustapha,5430,PAS,3469
-Kelantan,N.21 Tumpat Timor,Tumpat Timor,2,Haji Wan Idris,5431,PERIKATAN,2754
-Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,1,Haji Abdul Karim Bin Haji Abdul Malek,5432,NEG,1072
-Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,2,Nik Hassan Bin Nik Hussain,5433,PERIKATAN,1405
-Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,3,Wan Yusoff Bin Wan Ya'Acob,5434,PAS,2780
-Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,1,Haji Wan Dollah,5435,SF,169
-Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,2,Abdullah Ahmad,5436,PAS,3426
-Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,3,Halimah Binti Idris,5437,PERIKATAN,1061
-Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,4,Yusoff Bashah,5438,NEG,1262
-Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,1,Nik Abdullah Haji Arshad,5439,PAS,4437
-Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,2,Abu Bakar Mohd. Al-Ahmadi,5440,PERIKATAN,1222
-Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,3,Mohamed Bin Haji Abdullah,2329,NEG,421
-Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,4,Che Wil,5442,SF,207
-Kelantan,N.25 Bandar Hilir,Bandar Hilir,1,N. Mohamed Bin Ab. Rahman,5443,SF,369
-Kelantan,N.25 Bandar Hilir,Bandar Hilir,2,Haji Nik Mohd. Adeeb,5444,PAS,1745
-Kelantan,N.25 Bandar Hilir,Bandar Hilir,3,N. Mahmood Bin Hj. Ab. Majid,5445,BEBAS,15
-Kelantan,N.25 Bandar Hilir,Bandar Hilir,4,Che Mohamed Bin Awang,5446,NEG,99
-Kelantan,N.25 Bandar Hilir,Bandar Hilir,5,Wee Khoon Hock,5447,PERIKATAN,3027
-Kelantan,N.26 Bandar Hulu,Bandar Hulu,1,Muda Bin Haji Yusoff,5448,PAS,3249
-Kelantan,N.26 Bandar Hulu,Bandar Hulu,2,Abdul Hamid Bin Hj. Ya'Acob,5449,PERIKATAN,1977
-Kelantan,N.26 Bandar Hulu,Bandar Hulu,3,Idris Bin Haji Mohamed,121,BEBAS,87
-Kelantan,N.26 Bandar Hulu,Bandar Hulu,4,Hasnah Binti Ja'Afar,5451,NEG,204
-Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,1,Salleh Bin Daud,5452,NEG,401
-Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,2,Mohd. Asri Bin Haji Muda,112,PAS,4357
-Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,3,Hassan Bin Haji Ya'Acob,5454,PERIKATAN,1206
-Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,4,Mohd. Noor Bin Omar,5455,SF,118
-Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,1,Ismail Bin Daud,3648,NEG,229
-Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,2,Saiufi Idris,5457,PAS,5103
-Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,3,Tuan Man Bin Tuan Salleh,5458,SF,134
-Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,4,Che Gu Mat Bin H. Ali,5459,PERIKATAN,1399
-Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,1,Haji Zaid,5460,PERIKATAN,920
-Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,2,H. Osman Bin Saman,5461,NEG,439
-Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,3,Ustaz Wan Ismail,5462,SF,358
-Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,4,Ab. Rahman Bin Awang Sulong,5463,PAS,5426
-Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,1,Nik Hassan Bin Nik Yahya,110,PERIKATAN,1334
-Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,2,Haji Ab. Majid Bin H. Ibrahim,5465,BEBAS,100
-Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,3,Che Gu Deraman,5466,NEG,49
-Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,4,Che Gu Noor,5467,SF,306
-Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,5,Haji Ishak Lotfi,5468,PAS,5041
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,1,Tuan H. Mohd. Yusoff Bangs,5357,BEBAS,1,853
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,2,Wong Yeow Wye,5358,PERIKATAN,2,1126
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,3,Wan Yaacob Bin Wan Ahmad,5359,NEG,9,347
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,4,Hussein Bin Sulaiman,407,SF,8,99
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,5,Mohd. Bin Latiff,5361,BEBAS,1,56
+Kelantan,N.01 Ulu Kelantan Barat,Ulu Kelantan Barat,6,Khaidir Khatib,5362,PAS,3,1472
+Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,1,Mohd. Ali Bin Abdullah,583,PERIKATAN,2,3051
+Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,2,John William Lind,5364,SF,8,305
+Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,3,Hj. Nik Jafaar Bin Nik Soh,5365,BEBAS,1,608
+Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,4,Wan Ismail Bin Wan Ahmad,5366,PAS,3,1978
+Kelantan,N.03 Machang Selatan,Machang Selatan,1,Haji Mohamed Noor Bin Haji,5367,PAS,3,4434
+Kelantan,N.03 Machang Selatan,Machang Selatan,2,Mohd. Salleh Bin H. Hussin,5368,PERIKATAN,2,2655
+Kelantan,N.03 Machang Selatan,Machang Selatan,3,Mohd. Ghazali Bin Haji Noh,5369,NEG,9,315
+Kelantan,N.03 Machang Selatan,Machang Selatan,4,Ismail Bin Omar,5370,SF,8,241
+Kelantan,N.04 Machang Utara,Machang Utara,1,Haji Mohamed Bin Nasir,5371,PAS,3,4466
+Kelantan,N.04 Machang Utara,Machang Utara,2,Ibrahim Bin Mohamed,5372,PERIKATAN,2,2834
+Kelantan,N.04 Machang Utara,Machang Utara,3,Mohamed Taib Bin Haji Ibrahim,5373,NEG,9,629
+Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,1,Othman Bin Ahmad,5374,PERIKATAN,2,2094
+Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,2,Che Mamat Bin Ali,5375,SF,8,177
+Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,3,Mohd. (Mat) Daud Bin A. Jamil,5376,PAS,3,3184
+Kelantan,N.05 Tanah Merah Timor,Tanah Merah Timor,4,Haji Wan Yusoff Bin Wan Ali,5377,NEG,9,980
+Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,1,Yusoff Bin Ab. Latiff,5378,PAS,3,3345
+Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,2,Wan Ja'Afar Bin Haji Mahmood,5379,NEG,9,712
+Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,3,Hussin Bin Yunus,5380,BEBAS,1,865
+Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,4,Abdul Ghani Bin Mohamed,5381,PERIKATAN,2,765
+Kelantan,N.06 Tanah Merah Barat,Tanah Merah Barat,5,Said Bin Awang,5382,SF,8,144
+Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,1,Tengku Mohamed Bin Sultan Mohamed Iv,5383,PAS,3,4666
+Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,2,Mohamed Bin Che Moh,5384,SF,8,106
+Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,3,Hassan Bin Yaacob,5385,NEG,9,426
+Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,4,Wan Isma' Binti Hj. Ab. Kadir,5386,PERIKATAN,2,1274
+Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,1,Abdullah Bin Haji Mohamed,5387,SF,8,218
+Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,2,Wan Sulaiman Bin H. Ibrahim,599,PAS,3,3365
+Kelantan,N.08 Pasir Puteh Tengah,Pasir Puteh Tengah,3,Haji Abdul Rahman Bin Haji Yusoff,5389,PERIKATAN,2,2826
+Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,1,Ghazali Bin  Yusof,5390,PERIKATAN,2,2207
+Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,2,Haji Alias Bin Ismail Alias Alias Bin Awang,5391,SF,8,204
+Kelantan,N.09 Pasir Puteh Tenggara,Pasir Puteh Tenggara,3,Ab. Rahman Bin Mohd. Salleh,5392,PAS,3,4868
+Kelantan,N.10 Bachok Utara,Bachok Utara,1,Shafei Bin Ahmad,5393,PAS,3,5557
+Kelantan,N.10 Bachok Utara,Bachok Utara,2,Jaafar Bin Mohamad,5394,PERIKATAN,2,1290
+Kelantan,N.10 Bachok Utara,Bachok Utara,3,Haji Nik Mohd. Salleh Bin Haji Wan Musa,5395,NEG,9,222
+Kelantan,N.11 Bachok Tengah,Bachok Tengah,1,Nik Mat Haji Hassan,5396,SF,8,162
+Kelantan,N.11 Bachok Tengah,Bachok Tengah,2,Mohd. Amin Bin Haji Yaakub,5397,PAS,3,4533
+Kelantan,N.11 Bachok Tengah,Bachok Tengah,3,Mohamed Yusoff Bin Yahya,5398,NEG,9,405
+Kelantan,N.11 Bachok Tengah,Bachok Tengah,4,Cha Wel,5399,PERIKATAN,2,1022
+Kelantan,N.12 Bachok Selatan,Bachok Selatan,1,Haji Othman Bin Haji Ismail,2599,PAS,3,4498
+Kelantan,N.12 Bachok Selatan,Bachok Selatan,2,Ismail Bin Haji Ahmad,5401,PERIKATAN,2,1220
+Kelantan,N.12 Bachok Selatan,Bachok Selatan,3,Nik Ab. Majid Bin Nik Ab. Rahman,5402,SF,8,105
+Kelantan,N.12 Bachok Selatan,Bachok Selatan,4,Othman Adam,5403,BEBAS,1,65
+Kelantan,N.12 Bachok Selatan,Bachok Selatan,5,Haji Mokhtar Bin Haji Ahmad,115,NEG,9,40
+Kelantan,N.13 Tendong,Tendong,1,Mat Noor Yusoff,5405,SF,8,251
+Kelantan,N.13 Tendong,Tendong,2,Tuan Guru Haji Che Hassan,5406,PAS,3,4075
+Kelantan,N.13 Tendong,Tendong,3,Imam Abdullah Tempoyak,5407,BEBAS,1,238
+Kelantan,N.13 Tendong,Tendong,4,Che Gu Haji Harun,5408,BEBAS,1,222
+Kelantan,N.13 Tendong,Tendong,5,Mohd. Zain Bin Harun,5409,PERIKATAN,2,1074
+Kelantan,N.14 Meranti,Meranti,1,Nik Man,5410,PAS,3,4989
+Kelantan,N.14 Meranti,Meranti,2,Yusof Bin Mat Akib,5411,PERIKATAN,2,340
+Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,1,Che Hassan Bin Haji Ismail,591,PERIKATAN,2,1715
+Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,2,Datok Lankamin,5413,NEG,9,85
+Kelantan,N.15 Bandar Pasir Mas,Bandar Pasir Mas,3,Che Gu Omar,5414,PAS,3,3657
+Kelantan,N.16 Lemal,Lemal,1,Tuan Guru Haji Haron,5415,PAS,3,3367
+Kelantan,N.16 Lemal,Lemal,2,Omar Bin Haji Ahmad,5416,PERIKATAN,2,1070
+Kelantan,N.16 Lemal,Lemal,3,Mat S. O.,5417,SF,8,57
+Kelantan,N.17 Tok Uban,Tok Uban,1,Ustaz Abdullah,5418,PAS,3,4389
+Kelantan,N.17 Tok Uban,Tok Uban,2,Ya'Acob Bin Awang,200,PERIKATAN,2,1183
+Kelantan,N.18 Rantau Panjang,Rantau Panjang,1,Gelap Pak Well,5420,NEG,9,66
+Kelantan,N.18 Rantau Panjang,Rantau Panjang,2,Abdul Rahman Hj. Daud,5421,PAS,3,2521
+Kelantan,N.18 Rantau Panjang,Rantau Panjang,3,Nik Yusoff Bin Nik Lodin,5422,PERIKATAN,2,1241
+Kelantan,N.19 Tumpat Barat,Tumpat Barat,1,Tuan Guru Haji Daud,5423,PAS,3,4208
+Kelantan,N.19 Tumpat Barat,Tumpat Barat,2,Othman Bin Mohd. Uddin,5424,PERIKATAN,2,1017
+Kelantan,N.19 Tumpat Barat,Tumpat Barat,3,Ibrahim Tunggal,5425,BEBAS,1,147
+Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,1,Mustapha Awang,5426,PAS,3,2253
+Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,2,Foo Chow Yong,5427,PERIKATAN,2,2200
+Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,3,Yahya Bin Abdullah,5428,NEG,9,968
+Kelantan,N.20 Tumpat Tengah,Tumpat Tengah,4,C. W. Sook,5429,SF,8,341
+Kelantan,N.21 Tumpat Timor,Tumpat Timor,1,Che Ishak Mustapha,5430,PAS,3,3469
+Kelantan,N.21 Tumpat Timor,Tumpat Timor,2,Haji Wan Idris,5431,PERIKATAN,2,2754
+Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,1,Haji Abdul Karim Bin Haji Abdul Malek,5432,NEG,9,1072
+Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,2,Nik Hassan Bin Nik Hussain,5433,PERIKATAN,2,1405
+Kelantan,N.22 Kuala Kelantan,Kuala Kelantan,3,Wan Yusoff Bin Wan Ya'Acob,5434,PAS,3,2780
+Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,1,Haji Wan Dollah,5435,SF,8,169
+Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,2,Abdullah Ahmad,5436,PAS,3,3426
+Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,3,Halimah Binti Idris,5437,PERIKATAN,2,1061
+Kelantan,N.23 Kota Bharu Utara,Kota Bharu Utara,4,Yusoff Bashah,5438,NEG,9,1262
+Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,1,Nik Abdullah Haji Arshad,5439,PAS,3,4437
+Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,2,Abu Bakar Mohd. Al-Ahmadi,5440,PERIKATAN,2,1222
+Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,3,Mohamed Bin Haji Abdullah,2329,NEG,9,421
+Kelantan,N.24 Kota Bharu Pantai,Kota Bharu Pantai,4,Che Wil,5442,SF,8,207
+Kelantan,N.25 Bandar Hilir,Bandar Hilir,1,N. Mohamed Bin Ab. Rahman,5443,SF,8,369
+Kelantan,N.25 Bandar Hilir,Bandar Hilir,2,Haji Nik Mohd. Adeeb,5444,PAS,3,1745
+Kelantan,N.25 Bandar Hilir,Bandar Hilir,3,N. Mahmood Bin Hj. Ab. Majid,5445,BEBAS,1,15
+Kelantan,N.25 Bandar Hilir,Bandar Hilir,4,Che Mohamed Bin Awang,5446,NEG,9,99
+Kelantan,N.25 Bandar Hilir,Bandar Hilir,5,Wee Khoon Hock,5447,PERIKATAN,2,3027
+Kelantan,N.26 Bandar Hulu,Bandar Hulu,1,Muda Bin Haji Yusoff,5448,PAS,3,3249
+Kelantan,N.26 Bandar Hulu,Bandar Hulu,2,Abdul Hamid Bin Hj. Ya'Acob,5449,PERIKATAN,2,1977
+Kelantan,N.26 Bandar Hulu,Bandar Hulu,3,Idris Bin Haji Mohamed,121,BEBAS,1,87
+Kelantan,N.26 Bandar Hulu,Bandar Hulu,4,Hasnah Binti Ja'Afar,5451,NEG,9,204
+Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,1,Salleh Bin Daud,5452,NEG,9,401
+Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,2,Mohd. Asri Bin Haji Muda,112,PAS,3,4357
+Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,3,Hassan Bin Haji Ya'Acob,5454,PERIKATAN,2,1206
+Kelantan,N.27 Kota Bharu Tengah,Kota Bharu Tengah,4,Mohd. Noor Bin Omar,5455,SF,8,118
+Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,1,Ismail Bin Daud,3648,NEG,9,229
+Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,2,Saiufi Idris,5457,PAS,3,5103
+Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,3,Tuan Man Bin Tuan Salleh,5458,SF,8,134
+Kelantan,N.28 Kota Bharu Timor,Kota Bharu Timor,4,Che Gu Mat Bin H. Ali,5459,PERIKATAN,2,1399
+Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,1,Haji Zaid,5460,PERIKATAN,2,920
+Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,2,H. Osman Bin Saman,5461,NEG,9,439
+Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,3,Ustaz Wan Ismail,5462,SF,8,358
+Kelantan,N.29 Kota Bharu Barat,Kota Bharu Barat,4,Ab. Rahman Bin Awang Sulong,5463,PAS,3,5426
+Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,1,Nik Hassan Bin Nik Yahya,110,PERIKATAN,2,1334
+Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,2,Haji Ab. Majid Bin H. Ibrahim,5465,BEBAS,1,100
+Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,3,Che Gu Deraman,5466,NEG,9,49
+Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,4,Che Gu Noor,5467,SF,8,306
+Kelantan,N.30 Kota Bharu Selatan,Kota Bharu Selatan,5,Haji Ishak Lotfi,5468,PAS,3,5041

@@ -1,33 +1,33 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Sabah,N.01 Kudat,Kudat,1,Datu Abdul Salam Bin Datu Harun,7852,USNO,0
-Sabah,N.02 Bengkoka-Banggi,Bengkoka–Banggi,1,Tun Datu Haji Mustapha Bin Datu Harun,721,USNO,0
-Sabah,N.03 Langkon,Langkon,1,Idrus Matakim,7859,USNO,0
-Sabah,N.04 Tandek,Tandek,1,Majuning Bin Majun @ Mohd.Omar,723,USNO,0
-Sabah,N.05 Usukan,Usukan,1,Tan Sri Mohammad Said Bin Keruak,1035,USNO,0
-Sabah,N.06 Sorob,Sorob,1,Ismail Bin Gimbad,6029,USNO,0
-Sabah,N.07 Sulaman,Sulaman,1,O.T. Haji Dahlan Bin Harun,13396,USNO,0
-Sabah,N.08 Kiulu,Kiulu,1,Payar Juman,6034,USNO,0
-Sabah,N.09 Jesselton Bandar,Jesselton Bandar,1,Dato Pang Tet Tshung,729,SCA,0
-Sabah,N.10 Tanjong Aru,Tanjong Aru,1,Herman Luping,6026,USNO,0
-Sabah,N.11 Moyog,Moyog,1,Peter Joinod Mojuntin,6048,USNO,0
-Sabah,N.12 Papar,Papar,1,Haji Mohd. Salleh Bin Haji Ibrahim,4031,USNO,0
-Sabah,N.13 Bongawan,Bongawan,1,Dato Aliudin Bin Datu Harun,6084,USNO,0
-Sabah,N.14 Kuala Penyu,Kuala Penyu,1,Wong Fook Siang @ Fadzil Wong,6054,SCA,0
-Sabah,N.15 Labuan,Labuan,1,Dato Harris Bin Mohammed Salleh,1324,USNO,0
-Sabah,N.16 Beaufort,Beaufort,1,Mohd. Dun Bin Banir,6057,USNO,0
-Sabah,N.17 Tenom,Tenom,1,Tingkalor Bin O.T. Lampang,6061,USNO,0
-Sabah,N.18 Sipitang-Ulu Padas,Sipitang–Ulu Padas,1,Dato Haji Mohd. Yassin Bin Haji Hashim,6060,USNO,0
-Sabah,N.19 Keningau,Keningau,1,Anthony Undan Bin Andulag,6064,USNO,0
-Sabah,N.20 Pensiangan-Sook,Pensiangan–Sook,1,Stephen Koroh,6066,USNO,0
-Sabah,N.21 Ranau,Ranau,1,Abdul Ghani Bin Ahmad,157,USNO,0
-Sabah,N.22 Tambunan,Tambunan,1,Anthony Gibon,6071,USNO,0
-Sabah,N.23 Sandakan Bandar,Sandakan Bandar,1,Tan Tze Shu,17223,SCA,0
-Sabah,N.24 Elopura,Elopura,1,Ngui Tet Ming,7918,SCA,0
-Sabah,N.25 Sugut,Sugut,1,Dato Habib Abdul Rahman Bin Habib Mahmud,9273,USNO,0
-Sabah,N.26 Labuk,Labuk,1,Haji Salleh Bin O.T. Otik,8963,USNO,0
-Sabah,N.27 Kuala Kinabatangan,Kuala Kinabatangan,1,Salleh Sulong,6090,USNO,0
-Sabah,N.28 Lamag,Lamag,1,Panglima Mohd. Ismail Bin Pg. Siat,21249,USNO,0
-Sabah,N.29 Lahad Datu,Lahad Datu,1,Johari Bin Arief,20532,USNO,0
-Sabah,N.30 Semporna,Semporna,1,O.K.K. Sakaran Bin Dandai,6092,USNO,0
-Sabah,N.31 Merotai,Merotai,1,Mohamad Kassim Bin Kamidin,3792,USNO,0
-Sabah,N.32 Balung,Balung,1,Edwin Chan Foo Sang,6100,SCA,0
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Sabah,N.01 Kudat,Kudat,1,Datu Abdul Salam Bin Datu Harun,7852,USNO,15,0
+Sabah,N.02 Bengkoka-Banggi,Bengkoka–Banggi,1,Tun Datu Haji Mustapha Bin Datu Harun,721,USNO,15,0
+Sabah,N.03 Langkon,Langkon,1,Idrus Matakim,7859,USNO,15,0
+Sabah,N.04 Tandek,Tandek,1,Majuning Bin Majun @ Mohd.Omar,723,USNO,15,0
+Sabah,N.05 Usukan,Usukan,1,Tan Sri Mohammad Said Bin Keruak,1035,USNO,15,0
+Sabah,N.06 Sorob,Sorob,1,Ismail Bin Gimbad,6029,USNO,15,0
+Sabah,N.07 Sulaman,Sulaman,1,O.T. Haji Dahlan Bin Harun,13396,USNO,15,0
+Sabah,N.08 Kiulu,Kiulu,1,Payar Juman,6034,USNO,15,0
+Sabah,N.09 Jesselton Bandar,Jesselton Bandar,1,Dato Pang Tet Tshung,729,SCA,16,0
+Sabah,N.10 Tanjong Aru,Tanjong Aru,1,Herman Luping,6026,USNO,15,0
+Sabah,N.11 Moyog,Moyog,1,Peter Joinod Mojuntin,6048,USNO,15,0
+Sabah,N.12 Papar,Papar,1,Haji Mohd. Salleh Bin Haji Ibrahim,4031,USNO,15,0
+Sabah,N.13 Bongawan,Bongawan,1,Dato Aliudin Bin Datu Harun,6084,USNO,15,0
+Sabah,N.14 Kuala Penyu,Kuala Penyu,1,Wong Fook Siang @ Fadzil Wong,6054,SCA,16,0
+Sabah,N.15 Labuan,Labuan,1,Dato Harris Bin Mohammed Salleh,1324,USNO,15,0
+Sabah,N.16 Beaufort,Beaufort,1,Mohd. Dun Bin Banir,6057,USNO,15,0
+Sabah,N.17 Tenom,Tenom,1,Tingkalor Bin O.T. Lampang,6061,USNO,15,0
+Sabah,N.18 Sipitang-Ulu Padas,Sipitang–Ulu Padas,1,Dato Haji Mohd. Yassin Bin Haji Hashim,6060,USNO,15,0
+Sabah,N.19 Keningau,Keningau,1,Anthony Undan Bin Andulag,6064,USNO,15,0
+Sabah,N.20 Pensiangan-Sook,Pensiangan–Sook,1,Stephen Koroh,6066,USNO,15,0
+Sabah,N.21 Ranau,Ranau,1,Abdul Ghani Bin Ahmad,157,USNO,15,0
+Sabah,N.22 Tambunan,Tambunan,1,Anthony Gibon,6071,USNO,15,0
+Sabah,N.23 Sandakan Bandar,Sandakan Bandar,1,Tan Tze Shu,17223,SCA,16,0
+Sabah,N.24 Elopura,Elopura,1,Ngui Tet Ming,7918,SCA,16,0
+Sabah,N.25 Sugut,Sugut,1,Dato Habib Abdul Rahman Bin Habib Mahmud,9273,USNO,15,0
+Sabah,N.26 Labuk,Labuk,1,Haji Salleh Bin O.T. Otik,8963,USNO,15,0
+Sabah,N.27 Kuala Kinabatangan,Kuala Kinabatangan,1,Salleh Sulong,6090,USNO,15,0
+Sabah,N.28 Lamag,Lamag,1,Panglima Mohd. Ismail Bin Pg. Siat,21249,USNO,15,0
+Sabah,N.29 Lahad Datu,Lahad Datu,1,Johari Bin Arief,20532,USNO,15,0
+Sabah,N.30 Semporna,Semporna,1,O.K.K. Sakaran Bin Dandai,6092,USNO,15,0
+Sabah,N.31 Merotai,Merotai,1,Mohamad Kassim Bin Kamidin,3792,USNO,15,0
+Sabah,N.32 Balung,Balung,1,Edwin Chan Foo Sang,6100,SCA,16,0

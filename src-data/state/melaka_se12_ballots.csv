@@ -1,57 +1,57 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Melaka,N.01 Kuala Linggi,Kuala Linggi,1,Haji Ismail Othman,17779,BN,4468
-Melaka,N.01 Kuala Linggi,Kuala Linggi,2,Ustaz Jukasapiyah Bin Kassim,15190,PAS,2491
-Melaka,N.02 Tanjung Bidara,Tanjung Bidara,1,Ustaz Imran Abdul Rahman,17781,PAS,1360
-Melaka,N.02 Tanjung Bidara,Tanjung Bidara,2,Datuk Hj Ab Karim Bin Hj Sulaiman,17782,BN,4664
-Melaka,N.03 Ayer Limau,Ayer Limau,1,Hussin,17783,PKR,1565
-Melaka,N.03 Ayer Limau,Ayer Limau,2,Haji Amirudin Bin Haji Yusof,17784,BN,4948
-Melaka,N.04 Lendu,Lendu,1,Ustaz Datuk Hj Idderis Bin Hj Kassim,17785,BN,3798
-Melaka,N.04 Lendu,Lendu,2,Datuk Mohd Amir Yaakub,17786,PAS,2165
-Melaka,N.05 Taboh Naning,Taboh Naning,1,Abd Halim Said,17787,PAS,1626
-Melaka,N.05 Taboh Naning,Taboh Naning,2,Latipah Binti Omar,17788,BN,3873
-Melaka,N.06 Rembia,Rembia,1,Norpipah Binti Abdol,17789,BN,5605
-Melaka,N.06 Rembia,Rembia,2,Yusof,17790,PKR,2763
-Melaka,N.07 Gadek,Gadek,1,Datuk Abdul Ghafaar Bin Atan,17791,BN,5326
-Melaka,N.07 Gadek,Gadek,2,Kanageswari A/P Sibapatham,17792,PKR,2310
-Melaka,N.08 Machap,Machap,1,Lai Meng Chong,17793,BN,4707
-Melaka,N.08 Machap,Machap,2,Ginie Lim,17794,PKR,3068
-Melaka,N.09 Durian Tunggal,Durian Tunggal,1,Ustaz Ab Ghani Ab Rahman,17795,PAS,2841
-Melaka,N.09 Durian Tunggal,Durian Tunggal,2,Datuk Ab Wahab Bin Ab Latip,17796,BN,4317
-Melaka,N.10 Asahan,Asahan,1,Cikgu Amdan Sudin,17797,PAS,3772
-Melaka,N.10 Asahan,Asahan,2,Perumal A/L Raju,17798,BN,5950
-Melaka,N.11 Sungai Udang,Sungai Udang,1,Datuk Yaakub Bin Md Amin,17799,BN,10282
-Melaka,N.11 Sungai Udang,Sungai Udang,2,Capt (R) Engr. Zulkefly Bin Othman,17800,PKR,2277
-Melaka,N.12 Pantai Kundor,Pantai Kundor,1,Ust. Kamis Bin Saat,17801,PAS,3283
-Melaka,N.12 Pantai Kundor,Pantai Kundor,2,Datuk Hj Ab Rahaman Bin Hj Ab Karim,17802,BN,5816
-Melaka,N.13 Paya Rumput,Paya Rumput,1,Datuk Tahir Bin Hassan,17803,BN,7581
-Melaka,N.13 Paya Rumput,Paya Rumput,2,Hj Taha Bin Ahmad,17804,PKR,5687
-Melaka,N.14 Kelebang,Kelebang,1,Seet Har Cheow,16467,BN,6591
-Melaka,N.14 Kelebang,Kelebang,2,Koh Sze Choon,16468,DAP,5288
-Melaka,N.15 Bachang,Bachang,1,Ngo Kim Hwa (Wendy),17807,BN,8720
-Melaka,N.15 Bachang,Bachang,2,Lim Jak Wong,15215,DAP,9237
-Melaka,N.16 Ayer Keroh,Ayer Keroh,1,Khoo Poay Tiong,4252,DAP,11309
-Melaka,N.16 Ayer Keroh,Ayer Keroh,2,Chiew Hong Lan,17810,BN,8104
-Melaka,N.17 Bukit Baru,Bukit Baru,1,Hj. Bakrin Bin Sidek,17811,PAS,4936
-Melaka,N.17 Bukit Baru,Bukit Baru,2,Datuk Seri Mohd Ali Bin Mohd Rustam,17812,BN,7644
-Melaka,N.18 Ayer Molek,Ayer Molek,1,Datuk Md Yunos Bin Husin,17813,BN,6433
-Melaka,N.18 Ayer Molek,Ayer Molek,2,Cikgu Salim Hj. Tahir,17814,PAS,3654
-Melaka,N.19 Kesidang,Kesidang,1,Goh Leong San,3140,DAP,7241
-Melaka,N.19 Kesidang,Kesidang,2,Koh Nai Kwong,3843,BN,5842
-Melaka,N.20 Kota Laksamana,Kota Laksamana,1,Lee Kiat Lee,17817,BN,3801
-Melaka,N.20 Kota Laksamana,Kota Laksamana,2,Betty Chew,17818,DAP,11043
-Melaka,N.21 Duyong,Duyong,1,Gan Tian Loo,16481,BN,6442
-Melaka,N.21 Duyong,Duyong,2,Damian Yeo Shen Li,17820,DAP,5636
-Melaka,N.22 Bandar Hilir,Bandar Hilir,1,Chock Choon Sin,16483,BN,4679
-Melaka,N.22 Bandar Hilir,Bandar Hilir,2,Tey Kok Kiew,17822,DAP,9591
-Melaka,N.23 Telok Mas,Telok Mas,1,Latiff Bin Tamby Chik,17823,BN,7129
-Melaka,N.23 Telok Mas,Telok Mas,2,Ustaz Abd Rahman Jaafar,15228,PAS,4890
-Melaka,N.24 Bemban,Bemban,1,Chua Keng Hwa,17825,BN,6031
-Melaka,N.24 Bemban,Bemban,2,Ho Kia Kim,17826,DAP,3890
-Melaka,N.25 Rim,Rim,1,Azmi Bin Kamis,16459,PKR,2679
-Melaka,N.25 Rim,Rim,2,Mohd Yazed Bin Khamis,17828,BN,4316
-Melaka,N.26 Serkam,Serkam,1,Ustaz Kamarudin Bin Sedik,17829,PAS,4178
-Melaka,N.26 Serkam,Serkam,2,Ghazale Muhamad,17830,BN,6997
-Melaka,N.27 Merlimau,Merlimau,1,Mohamad Hidhir Bin Abu Hasan,16495,BN,4981
-Melaka,N.27 Merlimau,Merlimau,2,Mejar (B) Jasme Bin Tompang,17832,PAS,2827
-Melaka,N.28 Sungai Rambai,Sungai Rambai,1,Aminuddin Bin Abdul Jalil,17833,PAS,2606
-Melaka,N.28 Sungai Rambai,Sungai Rambai,2,Hasan Bin Abd Rahman,17834,BN,4872
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Melaka,N.01 Kuala Linggi,Kuala Linggi,1,Haji Ismail Othman,17779,BN,25,4468
+Melaka,N.01 Kuala Linggi,Kuala Linggi,2,Ustaz Jukasapiyah Bin Kassim,15190,PAS,3,2491
+Melaka,N.02 Tanjung Bidara,Tanjung Bidara,1,Ustaz Imran Abdul Rahman,17781,PAS,3,1360
+Melaka,N.02 Tanjung Bidara,Tanjung Bidara,2,Datuk Hj Ab Karim Bin Hj Sulaiman,17782,BN,25,4664
+Melaka,N.03 Ayer Limau,Ayer Limau,1,Hussin,17783,PKR,11,1565
+Melaka,N.03 Ayer Limau,Ayer Limau,2,Haji Amirudin Bin Haji Yusof,17784,BN,25,4948
+Melaka,N.04 Lendu,Lendu,1,Ustaz Datuk Hj Idderis Bin Hj Kassim,17785,BN,25,3798
+Melaka,N.04 Lendu,Lendu,2,Datuk Mohd Amir Yaakub,17786,PAS,3,2165
+Melaka,N.05 Taboh Naning,Taboh Naning,1,Abd Halim Said,17787,PAS,3,1626
+Melaka,N.05 Taboh Naning,Taboh Naning,2,Latipah Binti Omar,17788,BN,25,3873
+Melaka,N.06 Rembia,Rembia,1,Norpipah Binti Abdol,17789,BN,25,5605
+Melaka,N.06 Rembia,Rembia,2,Yusof,17790,PKR,11,2763
+Melaka,N.07 Gadek,Gadek,1,Datuk Abdul Ghafaar Bin Atan,17791,BN,25,5326
+Melaka,N.07 Gadek,Gadek,2,Kanageswari A/P Sibapatham,17792,PKR,11,2310
+Melaka,N.08 Machap,Machap,1,Lai Meng Chong,17793,BN,25,4707
+Melaka,N.08 Machap,Machap,2,Ginie Lim,17794,PKR,11,3068
+Melaka,N.09 Durian Tunggal,Durian Tunggal,1,Ustaz Ab Ghani Ab Rahman,17795,PAS,3,2841
+Melaka,N.09 Durian Tunggal,Durian Tunggal,2,Datuk Ab Wahab Bin Ab Latip,17796,BN,25,4317
+Melaka,N.10 Asahan,Asahan,1,Cikgu Amdan Sudin,17797,PAS,3,3772
+Melaka,N.10 Asahan,Asahan,2,Perumal A/L Raju,17798,BN,25,5950
+Melaka,N.11 Sungai Udang,Sungai Udang,1,Datuk Yaakub Bin Md Amin,17799,BN,25,10282
+Melaka,N.11 Sungai Udang,Sungai Udang,2,Capt (R) Engr. Zulkefly Bin Othman,17800,PKR,11,2277
+Melaka,N.12 Pantai Kundor,Pantai Kundor,1,Ust. Kamis Bin Saat,17801,PAS,3,3283
+Melaka,N.12 Pantai Kundor,Pantai Kundor,2,Datuk Hj Ab Rahaman Bin Hj Ab Karim,17802,BN,25,5816
+Melaka,N.13 Paya Rumput,Paya Rumput,1,Datuk Tahir Bin Hassan,17803,BN,25,7581
+Melaka,N.13 Paya Rumput,Paya Rumput,2,Hj Taha Bin Ahmad,17804,PKR,11,5687
+Melaka,N.14 Kelebang,Kelebang,1,Seet Har Cheow,16467,BN,25,6591
+Melaka,N.14 Kelebang,Kelebang,2,Koh Sze Choon,16468,DAP,18,5288
+Melaka,N.15 Bachang,Bachang,1,Ngo Kim Hwa (Wendy),17807,BN,25,8720
+Melaka,N.15 Bachang,Bachang,2,Lim Jak Wong,15215,DAP,18,9237
+Melaka,N.16 Ayer Keroh,Ayer Keroh,1,Khoo Poay Tiong,4252,DAP,18,11309
+Melaka,N.16 Ayer Keroh,Ayer Keroh,2,Chiew Hong Lan,17810,BN,25,8104
+Melaka,N.17 Bukit Baru,Bukit Baru,1,Hj. Bakrin Bin Sidek,17811,PAS,3,4936
+Melaka,N.17 Bukit Baru,Bukit Baru,2,Datuk Seri Mohd Ali Bin Mohd Rustam,17812,BN,25,7644
+Melaka,N.18 Ayer Molek,Ayer Molek,1,Datuk Md Yunos Bin Husin,17813,BN,25,6433
+Melaka,N.18 Ayer Molek,Ayer Molek,2,Cikgu Salim Hj. Tahir,17814,PAS,3,3654
+Melaka,N.19 Kesidang,Kesidang,1,Goh Leong San,3140,DAP,18,7241
+Melaka,N.19 Kesidang,Kesidang,2,Koh Nai Kwong,3843,BN,25,5842
+Melaka,N.20 Kota Laksamana,Kota Laksamana,1,Lee Kiat Lee,17817,BN,25,3801
+Melaka,N.20 Kota Laksamana,Kota Laksamana,2,Betty Chew,17818,DAP,18,11043
+Melaka,N.21 Duyong,Duyong,1,Gan Tian Loo,16481,BN,25,6442
+Melaka,N.21 Duyong,Duyong,2,Damian Yeo Shen Li,17820,DAP,18,5636
+Melaka,N.22 Bandar Hilir,Bandar Hilir,1,Chock Choon Sin,16483,BN,25,4679
+Melaka,N.22 Bandar Hilir,Bandar Hilir,2,Tey Kok Kiew,17822,DAP,18,9591
+Melaka,N.23 Telok Mas,Telok Mas,1,Latiff Bin Tamby Chik,17823,BN,25,7129
+Melaka,N.23 Telok Mas,Telok Mas,2,Ustaz Abd Rahman Jaafar,15228,PAS,3,4890
+Melaka,N.24 Bemban,Bemban,1,Chua Keng Hwa,17825,BN,25,6031
+Melaka,N.24 Bemban,Bemban,2,Ho Kia Kim,17826,DAP,18,3890
+Melaka,N.25 Rim,Rim,1,Azmi Bin Kamis,16459,PKR,11,2679
+Melaka,N.25 Rim,Rim,2,Mohd Yazed Bin Khamis,17828,BN,25,4316
+Melaka,N.26 Serkam,Serkam,1,Ustaz Kamarudin Bin Sedik,17829,PAS,3,4178
+Melaka,N.26 Serkam,Serkam,2,Ghazale Muhamad,17830,BN,25,6997
+Melaka,N.27 Merlimau,Merlimau,1,Mohamad Hidhir Bin Abu Hasan,16495,BN,25,4981
+Melaka,N.27 Merlimau,Merlimau,2,Mejar (B) Jasme Bin Tompang,17832,PAS,3,2827
+Melaka,N.28 Sungai Rambai,Sungai Rambai,1,Aminuddin Bin Abdul Jalil,17833,PAS,3,2606
+Melaka,N.28 Sungai Rambai,Sungai Rambai,2,Hasan Bin Abd Rahman,17834,BN,25,4872

@@ -1,65 +1,65 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Kedah,N.01 Langkawi,Langkawi,1,Syed Nahar Bin Tun Syed Sheh Shahabudin,843,BN,5704
-Kedah,N.01 Langkawi,Langkawi,2,Mohammad Bin Nyak Osman,9316,PAS,3493
-Kedah,N.02 Jerlun,Jerlun,1,Abu Bakar Bin Umar,370,PAS,8164
-Kedah,N.02 Jerlun,Jerlun,2,Mahamud Bin Abd. Jalil,8164,BN,7035
-Kedah,N.03 Tunjang,Tunjang,1,Hanafi Bin Ramli,2296,BN,9122
-Kedah,N.03 Tunjang,Tunjang,2,Ismail Bin Hanafi,7261,PAS,5230
-Kedah,N.04 Jitra,Jitra,1,Osman @ Md. Daud Bin Aroff,7255,BN,8508
-Kedah,N.04 Jitra,Jitra,2,Ahmad Bin Yusof,1505,PAS,4868
-Kedah,N.05 Kuala Nerang,Kuala Nerang,1,Azizah Binti L. Taib,9323,BN,6424
-Kedah,N.05 Kuala Nerang,Kuala Nerang,2,Muhaudin Bin Haji Ahmad,9324,PAS,5797
-Kedah,N.06 Pokok Sena,Pokok Sena,1,Baharom Bin Haji Bakar,1978,BN,0
-Kedah,N.07 Anak Bukit,Anak Bukit,1,Wahab Bin Sulaiman,8174,PAS,7474
-Kedah,N.07 Anak Bukit,Anak Bukit,2,Ismail Bin Md. Noor,9327,BN,6300
-Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,1,Haji Jamaludin Bin Lebai Bakar,9328,BN,8539
-Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,2,Ahmad Bin Awang,1411,PAS,6411
-Kedah,N.09 Alor Merah,Alor Merah,1,Mohamad Abu Bakar Bin Rautin Ibrahim,1674,BN,6896
-Kedah,N.09 Alor Merah,Alor Merah,2,Ali @ Fadzil Bin Md. Noor,1100,PAS,6087
-Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,1,Chea Kim Hoe @ Cheah Chong Chiew,9332,BN,8959
-Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,2,Chang Boon Hoe,1103,BEBAS,5873
-Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,3,Ramlee Bin Karim,1102,PAS,3828
-Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,4,C. Shanmugiah A/L Chelliah,1104,DAP,2198
-Kedah,N.11 Langgar Limbong,Langgar Limbong,1,Sudin Bin Wahab,6431,PAS,7391
-Kedah,N.11 Langgar Limbong,Langgar Limbong,2,Tuan Haji Ahmad Bin Haji Abdullah,9337,BN,5226
-Kedah,N.12 Bukit Raya,Bukit Raya,1,Ismail @ Shafiee Bin Kassim,7277,PAS,6692
-Kedah,N.12 Bukit Raya,Bukit Raya,2,Abd. Aziz Bin Ali,7470,BN,5591
-Kedah,N.12 Bukit Raya,Bukit Raya,3,Haji Ahmad Bin L. Senawi,7265,BEBAS,102
-Kedah,N.13 Sik,Sik,1,Hamzah Bin Abdul Latif,9341,PAS,3993
-Kedah,N.13 Sik,Sik,2,Haji Safirol Bin Haji Hashim,9342,BN,3487
-Kedah,N.13 Sik,Sik,3,Mokhtar Bin Abdullah,9343,BEBAS,108
-Kedah,N.14 Pendang,Pendang,1,Haji Shaari Bin Abu Bakar,9344,BN,7623
-Kedah,N.14 Pendang,Pendang,2,Ismail Bin Haji Elias,9345,PAS,5885
-Kedah,N.14 Pendang,Pendang,3,Abd. Wahab Bin Awang,8179,BEBAS,163
-Kedah,N.15 Bayu,Bayu,1,Haji Seroji Bin Haji Haron,1383,BN,6169
-Kedah,N.15 Bayu,Bayu,2,Ibrahim Bin Mohamood,5372,PAS,5801
-Kedah,N.15 Bayu,Bayu,3,Abu Bakar Bin Haji Sarda,1111,BEBAS,903
-Kedah,N.16 Kupang,Kupang,1,Mohd. Romli Bin Abdullah,9350,PAS,7652
-Kedah,N.16 Kupang,Kupang,2,Mohd. Hussain Bin Mohd. Zain,9351,BN,7245
-Kedah,N.17 Sala,Sala,1,Tuan Guru Yahaya,9352,PAS,5640
-Kedah,N.17 Sala,Sala,2,Ahmad Bin Haji Awang,7469,BN,5009
-Kedah,N.18 Yan,Yan,1,Abdullah Bin Haji Ismail,7278,BN,8345
-Kedah,N.18 Yan,Yan,2,Che Me Bin Ahmad,9355,PAS,4607
-Kedah,N.19 Jeniang,Jeniang,1,Zainol Abidin Bin Johari,8198,BN,8444
-Kedah,N.19 Jeniang,Jeniang,2,Abdul Kadir Bin Abdul Mutalib,9357,PAS,3131
-Kedah,N.19 Jeniang,Jeniang,3,Ahmad Bin Abdullah,157,PSRM,567
-Kedah,N.20 Merbok,Merbok,1,Hashim Bin Haji Osman,8232,BN,9044
-Kedah,N.20 Merbok,Merbok,2,Ustaz Ghazali,9360,PAS,4288
-Kedah,N.21 Tikam Batu,Tikam Batu,1,Ong Chow Song,9361,BN,9862
-Kedah,N.21 Tikam Batu,Tikam Batu,2,Bakar Bin Haji Amhmud,9362,PAS,6690
-Kedah,N.21 Tikam Batu,Tikam Batu,3,Beh Heng Seong,9363,BEBAS,3686
-Kedah,N.21 Tikam Batu,Tikam Batu,4,Ong Aun Boon,9364,DAP,3399
-Kedah,N.21 Tikam Batu,Tikam Batu,5,William Jansz,9365,BEBAS,141
-Kedah,N.21 Tikam Batu,Tikam Batu,6,Ahmad Kamal Bin Othman,9366,SDP,54
-Kedah,N.22 Kuala Ketil,Kuala Ketil,1,Subramaniam S/O Annasamy Pillai,9367,BN,6735
-Kedah,N.22 Kuala Ketil,Kuala Ketil,2,Mat Hassan Abdul,9368,PAS,3179
-Kedah,N.23 Lunas,Lunas,1,Fang Chok Seong,9369,BN,8910
-Kedah,N.23 Lunas,Lunas,2,Haji Ariffin Bin Haji Kechik,9370,PAS,4717
-Kedah,N.23 Lunas,Lunas,3,Kanan S/O Kujambu,9371,KITA,503
-Kedah,N.24 Merbau Pulas,Merbau Pulas,1,Mustaffa Bin Kassim,8209,BN,5084
-Kedah,N.24 Merbau Pulas,Merbau Pulas,2,Ustaz Khatib,9373,PAS,2543
-Kedah,N.24 Merbau Pulas,Merbau Pulas,3,Annamalay S/O Vadappah,9374,KITA,232
-Kedah,N.25 Kulim,Kulim,1,Leong Man Kai,6457,BN,9180
-Kedah,N.25 Kulim,Kulim,2,Abdul Aziz Bin Haji Kassim,7660,PAS,2364
-Kedah,N.26 Serdang,Serdang,1,Haji Mohamed Muslim Bin Haji Othman,9377,BN,6758
-Kedah,N.26 Serdang,Serdang,2,Ustaz Ghazali Najib,9378,PAS,4011
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Kedah,N.01 Langkawi,Langkawi,1,Syed Nahar Bin Tun Syed Sheh Shahabudin,843,BN,25,5704
+Kedah,N.01 Langkawi,Langkawi,2,Mohammad Bin Nyak Osman,9316,PAS,3,3493
+Kedah,N.02 Jerlun,Jerlun,1,Abu Bakar Bin Umar,370,PAS,3,8164
+Kedah,N.02 Jerlun,Jerlun,2,Mahamud Bin Abd. Jalil,8164,BN,25,7035
+Kedah,N.03 Tunjang,Tunjang,1,Hanafi Bin Ramli,2296,BN,25,9122
+Kedah,N.03 Tunjang,Tunjang,2,Ismail Bin Hanafi,7261,PAS,3,5230
+Kedah,N.04 Jitra,Jitra,1,Osman @ Md. Daud Bin Aroff,7255,BN,25,8508
+Kedah,N.04 Jitra,Jitra,2,Ahmad Bin Yusof,1505,PAS,3,4868
+Kedah,N.05 Kuala Nerang,Kuala Nerang,1,Azizah Binti L. Taib,9323,BN,25,6424
+Kedah,N.05 Kuala Nerang,Kuala Nerang,2,Muhaudin Bin Haji Ahmad,9324,PAS,3,5797
+Kedah,N.06 Pokok Sena,Pokok Sena,1,Baharom Bin Haji Bakar,1978,BN,25,0
+Kedah,N.07 Anak Bukit,Anak Bukit,1,Wahab Bin Sulaiman,8174,PAS,3,7474
+Kedah,N.07 Anak Bukit,Anak Bukit,2,Ismail Bin Md. Noor,9327,BN,25,6300
+Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,1,Haji Jamaludin Bin Lebai Bakar,9328,BN,25,8539
+Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,2,Ahmad Bin Awang,1411,PAS,3,6411
+Kedah,N.09 Alor Merah,Alor Merah,1,Mohamad Abu Bakar Bin Rautin Ibrahim,1674,BN,25,6896
+Kedah,N.09 Alor Merah,Alor Merah,2,Ali @ Fadzil Bin Md. Noor,1100,PAS,3,6087
+Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,1,Chea Kim Hoe @ Cheah Chong Chiew,9332,BN,25,8959
+Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,2,Chang Boon Hoe,1103,BEBAS,1,5873
+Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,3,Ramlee Bin Karim,1102,PAS,3,3828
+Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,4,C. Shanmugiah A/L Chelliah,1104,DAP,18,2198
+Kedah,N.11 Langgar Limbong,Langgar Limbong,1,Sudin Bin Wahab,6431,PAS,3,7391
+Kedah,N.11 Langgar Limbong,Langgar Limbong,2,Tuan Haji Ahmad Bin Haji Abdullah,9337,BN,25,5226
+Kedah,N.12 Bukit Raya,Bukit Raya,1,Ismail @ Shafiee Bin Kassim,7277,PAS,3,6692
+Kedah,N.12 Bukit Raya,Bukit Raya,2,Abd. Aziz Bin Ali,7470,BN,25,5591
+Kedah,N.12 Bukit Raya,Bukit Raya,3,Haji Ahmad Bin L. Senawi,7265,BEBAS,1,102
+Kedah,N.13 Sik,Sik,1,Hamzah Bin Abdul Latif,9341,PAS,3,3993
+Kedah,N.13 Sik,Sik,2,Haji Safirol Bin Haji Hashim,9342,BN,25,3487
+Kedah,N.13 Sik,Sik,3,Mokhtar Bin Abdullah,9343,BEBAS,1,108
+Kedah,N.14 Pendang,Pendang,1,Haji Shaari Bin Abu Bakar,9344,BN,25,7623
+Kedah,N.14 Pendang,Pendang,2,Ismail Bin Haji Elias,9345,PAS,3,5885
+Kedah,N.14 Pendang,Pendang,3,Abd. Wahab Bin Awang,8179,BEBAS,1,163
+Kedah,N.15 Bayu,Bayu,1,Haji Seroji Bin Haji Haron,1383,BN,25,6169
+Kedah,N.15 Bayu,Bayu,2,Ibrahim Bin Mohamood,5372,PAS,3,5801
+Kedah,N.15 Bayu,Bayu,3,Abu Bakar Bin Haji Sarda,1111,BEBAS,1,903
+Kedah,N.16 Kupang,Kupang,1,Mohd. Romli Bin Abdullah,9350,PAS,3,7652
+Kedah,N.16 Kupang,Kupang,2,Mohd. Hussain Bin Mohd. Zain,9351,BN,25,7245
+Kedah,N.17 Sala,Sala,1,Tuan Guru Yahaya,9352,PAS,3,5640
+Kedah,N.17 Sala,Sala,2,Ahmad Bin Haji Awang,7469,BN,25,5009
+Kedah,N.18 Yan,Yan,1,Abdullah Bin Haji Ismail,7278,BN,25,8345
+Kedah,N.18 Yan,Yan,2,Che Me Bin Ahmad,9355,PAS,3,4607
+Kedah,N.19 Jeniang,Jeniang,1,Zainol Abidin Bin Johari,8198,BN,25,8444
+Kedah,N.19 Jeniang,Jeniang,2,Abdul Kadir Bin Abdul Mutalib,9357,PAS,3,3131
+Kedah,N.19 Jeniang,Jeniang,3,Ahmad Bin Abdullah,157,PSRM,26,567
+Kedah,N.20 Merbok,Merbok,1,Hashim Bin Haji Osman,8232,BN,25,9044
+Kedah,N.20 Merbok,Merbok,2,Ustaz Ghazali,9360,PAS,3,4288
+Kedah,N.21 Tikam Batu,Tikam Batu,1,Ong Chow Song,9361,BN,25,9862
+Kedah,N.21 Tikam Batu,Tikam Batu,2,Bakar Bin Haji Amhmud,9362,PAS,3,6690
+Kedah,N.21 Tikam Batu,Tikam Batu,3,Beh Heng Seong,9363,BEBAS,1,3686
+Kedah,N.21 Tikam Batu,Tikam Batu,4,Ong Aun Boon,9364,DAP,18,3399
+Kedah,N.21 Tikam Batu,Tikam Batu,5,William Jansz,9365,BEBAS,1,141
+Kedah,N.21 Tikam Batu,Tikam Batu,6,Ahmad Kamal Bin Othman,9366,SDP,33,54
+Kedah,N.22 Kuala Ketil,Kuala Ketil,1,Subramaniam S/O Annasamy Pillai,9367,BN,25,6735
+Kedah,N.22 Kuala Ketil,Kuala Ketil,2,Mat Hassan Abdul,9368,PAS,3,3179
+Kedah,N.23 Lunas,Lunas,1,Fang Chok Seong,9369,BN,25,8910
+Kedah,N.23 Lunas,Lunas,2,Haji Ariffin Bin Haji Kechik,9370,PAS,3,4717
+Kedah,N.23 Lunas,Lunas,3,Kanan S/O Kujambu,9371,KITA,29,503
+Kedah,N.24 Merbau Pulas,Merbau Pulas,1,Mustaffa Bin Kassim,8209,BN,25,5084
+Kedah,N.24 Merbau Pulas,Merbau Pulas,2,Ustaz Khatib,9373,PAS,3,2543
+Kedah,N.24 Merbau Pulas,Merbau Pulas,3,Annamalay S/O Vadappah,9374,KITA,29,232
+Kedah,N.25 Kulim,Kulim,1,Leong Man Kai,6457,BN,25,9180
+Kedah,N.25 Kulim,Kulim,2,Abdul Aziz Bin Haji Kassim,7660,PAS,3,2364
+Kedah,N.26 Serdang,Serdang,1,Haji Mohamed Muslim Bin Haji Othman,9377,BN,25,6758
+Kedah,N.26 Serdang,Serdang,2,Ustaz Ghazali Najib,9378,PAS,3,4011

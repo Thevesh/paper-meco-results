@@ -1,264 +1,264 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Sabah,N.01 Banggi,Banggi,1,Abd Mijul Bin Unaini,13414,BN,4293
-Sabah,N.01 Banggi,Banggi,2,Mursalim Bin Tanjul,15758,BEBAS,642
-Sabah,N.01 Banggi,Banggi,3,Jae-Ly Bin Medong,18409,SAPP,536
-Sabah,N.01 Banggi,Banggi,4,Datu Abdul Razak Bin Datu Abdul Salam,18410,PKR,1054
-Sabah,N.01 Banggi,Banggi,5,Datu Mohd Arifin Bin Datu Abdul Salam,18411,STAR,476
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,1,Zainal Bin Hj. Nasiruddin,18412,BERSAMA,363
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,2,Alex Wong,18413,BEBAS,35
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,3,Hendiri @ Hendry Bin Minar,18414,STAR,273
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,4,Tsen Heng Chong @ Peter Tsen,18415,SAPP,500
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,5,Teo Chee Kang,17084,BN,8890
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,6,Chin Chung Kui @ William Chin,18417,PKR,6905
-Sabah,N.03 Pitas,Pitas,1,Johnes @ Onis Bin Piut,18418,SAPP,232
-Sabah,N.03 Pitas,Pitas,2,Awang Latip Bin Abdul Salam,18419,KITA,138
-Sabah,N.03 Pitas,Pitas,3,Maklin Bin Masiau,18420,STAR,3111
-Sabah,N.03 Pitas,Pitas,4,Datuk Bolkiah Bin Hj Ismail,18421,BN,6934
-Sabah,N.03 Pitas,Pitas,5,Dausieh Binti Queck @ Paraman,18422,PAS,976
-Sabah,N.04 Matunggong,Matunggong,1,Sarapin Bin Magana,17094,BN,6627
-Sabah,N.04 Matunggong,Matunggong,2,Richard Bin Jiun,18424,SAPP,367
-Sabah,N.04 Matunggong,Matunggong,3,Marunsai Bin Dawai,18425,STAR,1536
-Sabah,N.04 Matunggong,Matunggong,4,Jelani Bin Hamdan,9778,PKR,6947
-Sabah,N.04 Matunggong,Matunggong,5,Jolius Bin Majawai,18427,BEBAS,54
-Sabah,N.05 Tandek,Tandek,1,Anthony Mandiau,3196,PKR,4124
-Sabah,N.05 Tandek,Tandek,2,Jebon Janaun,18429,STAR,2668
-Sabah,N.05 Tandek,Tandek,3,Henry Yapolai,18430,SAPP,380
-Sabah,N.05 Tandek,Tandek,4,Anita Baranting,17096,BN,9399
-Sabah,N.06 Tempasuk,Tempasuk,1,Abdul Malik Bin Mohed,10712,SAPP,319
-Sabah,N.06 Tempasuk,Tempasuk,2,Hj. Ag. Laiman Bin Hj. Ikin,18433,PAS,3285
-Sabah,N.06 Tempasuk,Tempasuk,3,Suwah Bin Buleh @ Bulleh,13433,STAR,1769
-Sabah,N.06 Tempasuk,Tempasuk,4,Datuk Musbah Jamli,18435,BN,8495
-Sabah,N.07 Kadamaian,Kadamaian,1,Herbert Timbon Lagadan,17106,BN,4988
-Sabah,N.07 Kadamaian,Kadamaian,2,Ukoh @ Jeremmy Bin Malajad @ Malazad,18437,PKR,5877
-Sabah,N.07 Kadamaian,Kadamaian,3,Rubbin Bin Guribah,18438,STAR,1877
-Sabah,N.07 Kadamaian,Kadamaian,4,Peter Marajin,17105,SAPP,547
-Sabah,N.08 Usukan,Usukan,1,Salleh Said Keruak,4307,BN,10879
-Sabah,N.08 Usukan,Usukan,2,Bakhruddin Bin Ismail,18441,STAR,285
-Sabah,N.08 Usukan,Usukan,3,Haji Mustapha Bin Haji Sakmud,18442,PKR,4067
-Sabah,N.09 Tamparuli,Tamparuli,1,Datuk Seri Panglima Wilfred M. Bumburing,18443,PKR,6862
-Sabah,N.09 Tamparuli,Tamparuli,2,Linggu @ Edward Bin Bukut,14624,STAR,589
-Sabah,N.09 Tamparuli,Tamparuli,3,Stephan Bin Gaimin,18445,SAPP,185
-Sabah,N.09 Tamparuli,Tamparuli,4,Dr. James Ongkili Jr.,18446,BEBAS,126
-Sabah,N.09 Tamparuli,Tamparuli,5,Jahid Jahim,17110,BN,6479
-Sabah,N.10 Sulaman,Sulaman,1,Hajiji Bin Haji Noor,12333,BN,13065
-Sabah,N.10 Sulaman,Sulaman,2,David Bin Orok,18449,STAR,225
-Sabah,N.10 Sulaman,Sulaman,3,Arifin Bin Harith,18450,BEBAS,66
-Sabah,N.10 Sulaman,Sulaman,4,Gulabdin @ Ghulabdin Bin Enjih,18451,PKR,2624
-Sabah,N.10 Sulaman,Sulaman,5,Ali Akbar Kawi,18452,BEBAS,615
-Sabah,N.11 Kiulu,Kiulu,1,Tindil Bin Gonsobil @ Sindin,18453,SAPP,129
-Sabah,N.11 Kiulu,Kiulu,2,John Bin Hussein,18454,BEBAS,517
-Sabah,N.11 Kiulu,Kiulu,3,Rhodes Bin Panilau,18455,PKR,3701
-Sabah,N.11 Kiulu,Kiulu,4,Terence Sinti,18456,STAR,1025
-Sabah,N.11 Kiulu,Kiulu,5,Joniston Bin Lumai @ Bangkuai,18457,BN,3745
-Sabah,N.12 Karambunai,Karambunai,1,Muali Bin Aching,18458,PKR,5542
-Sabah,N.12 Karambunai,Karambunai,2,Ag. Maidin Bin Ag. Apong,18459,BEBAS,171
-Sabah,N.12 Karambunai,Karambunai,3,Aziz Bin Ibrahim,7235,SAPP,1977
-Sabah,N.12 Karambunai,Karambunai,4,Rano Bin Susulan,18461,BEBAS,172
-Sabah,N.12 Karambunai,Karambunai,5,Jainab Binti Ahmad,15806,BN,14818
-Sabah,N.13 Inanam,Inanam,1,Dr. Roland Chia Ming Shen,18463,PKR,8926
-Sabah,N.13 Inanam,Inanam,2,Eric E. Majimbun,3544,SAPP,5003
-Sabah,N.13 Inanam,Inanam,3,Joseph P . Lantip,18465,BN,5724
-Sabah,N.14 Likas,Likas,1,Wong Hong Jun,18466,DAP,7746
-Sabah,N.14 Likas,Likas,2,Chin Shu Ying,18467,BN,2094
-Sabah,N.14 Likas,Likas,3,Yong Teck Lee,2837,SAPP,1487
-Sabah,N.14 Likas,Likas,4,Prof Dr Martin Ho,18469,STAR,155
-Sabah,N.15 Api-Api,Api-Api,1,Christina Liew,3204,PKR,5853
-Sabah,N.15 Api-Api,Api-Api,2,Marcel Jude A/L Ms Joseph,18471,BEBAS,14
-Sabah,N.15 Api-Api,Api-Api,3,Wong Yit Ming,12482,SAPP,713
-Sabah,N.15 Api-Api,Api-Api,4,Felix Chong Kat Fah,18473,STAR,152
-Sabah,N.15 Api-Api,Api-Api,5,Dr Yee Moh Chai,2840,BN,5058
-Sabah,N.16 Luyang,Luyang,1,Melanie Chia Chui Ket,17129,SAPP,1694
-Sabah,N.16 Luyang,Luyang,2,Agnes Shim Tshin Nyuk,18476,BN,2537
-Sabah,N.16 Luyang,Luyang,3,Hiew King Cheu,3203,DAP,11213
-Sabah,N.16 Luyang,Luyang,4,Jafery J. @ Jet Fei Lee,18478,STAR,259
-Sabah,N.17 Tanjong Aru,Tanjong Aru,1,Ir. Edward Yong Oui Fah,17132,BN,9099
-Sabah,N.17 Tanjong Aru,Tanjong Aru,2,Salleh Bin Tiasi @ Tiaseh,15824,STAR,750
-Sabah,N.17 Tanjong Aru,Tanjong Aru,3,Hamid Bin Ismail,18481,PAS,5409
-Sabah,N.17 Tanjong Aru,Tanjong Aru,4,Richard Yong We Kong,18482,SAPP,1333
-Sabah,N.18 Petagas,Petagas,1,Awang Ahmad Sah,3206,STAR,1111
-Sabah,N.18 Petagas,Petagas,2,Yahyah @ Yahya Bin Hussin @ Ag Husin,13506,BN,8504
-Sabah,N.18 Petagas,Petagas,3,Mat Yunin @ Mohd Yunin Bin Atin,18485,PKR,2851
-Sabah,N.19 Kapayan,Kapayan,1,Edward Khoo Keok Hai,17137,BN,5733
-Sabah,N.19 Kapayan,Kapayan,2,Phillip Among @ Daniel Dell Fidelis,18487,STAR,720
-Sabah,N.19 Kapayan,Kapayan,3,Dr Edwin @ Jack Bosi,3550,DAP,13020
-Sabah,N.19 Kapayan,Kapayan,4,Chong Pit Fah,18489,SAPP,2030
-Sabah,N.20 Moyog,Moyog,1,Terrence Alon Siambun,18490,PKR,7462
-Sabah,N.20 Moyog,Moyog,2,Bernard Lawrence Solibun,18491,STAR,603
-Sabah,N.20 Moyog,Moyog,3,Danim @ Aloysius Bin Siap,18492,SAPP,779
-Sabah,N.20 Moyog,Moyog,4,Datuk Philip Benedict Lasimbang,18493,BN,5780
-Sabah,N.21 Kawang,Kawang,1,Dzulkefli Safar,18494,PKR,3401
-Sabah,N.21 Kawang,Kawang,2,Edward Dagul,18495,SAPP,906
-Sabah,N.21 Kawang,Kawang,3,Akop Bin Damsah @ Yakup Bin Damsah,18496,STAR,248
-Sabah,N.21 Kawang,Kawang,4,Datuk Gulamhaidar @ Yusof Bin Khan Bahadar,15837,BN,12301
-Sabah,N.22 Pantai Manis,Pantai Manis,1,Abdul Rahim Bin Ismail,8390,BN,9639
-Sabah,N.22 Pantai Manis,Pantai Manis,2,Noraizal Bin Mohd Noor,18499,SAPP,403
-Sabah,N.22 Pantai Manis,Pantai Manis,3,Fred Bin Gabriel,18500,PKR,5230
-Sabah,N.22 Pantai Manis,Pantai Manis,4,Baharudin @ Baharuddin Bin Nayan,18501,STAR,603
-Sabah,N.23 Bongawan,Bongawan,1,Mohamad Bin Haji Alamin,18502,BN,7443
-Sabah,N.23 Bongawan,Bongawan,2,Awang Talip Bin Awang Bagul,18503,SAPP,335
-Sabah,N.23 Bongawan,Bongawan,3,Tan Sri Ibrahim Bin Menudin,18504,PKR,4051
-Sabah,N.23 Bongawan,Bongawan,4,Ak Aliuddin,2846,BEBAS,455
-Sabah,N.23 Bongawan,Bongawan,5,Assim @ Hassim Bin Matali,18506,STAR,321
-Sabah,N.24 Membakut,Membakut,1,Mohd Arifin Bin Mohd Arif,15842,BN,6547
-Sabah,N.24 Membakut,Membakut,2,Narawi @ Sinar Bin Ahmad,18508,PKR,3037
-Sabah,N.24 Membakut,Membakut,3,Banjimin Ondoi,18509,SAPP,300
-Sabah,N.24 Membakut,Membakut,4,Jaapar Bin Ag Gador,18510,STAR,139
-Sabah,N.25 Klias,Klias,1,Mohd. Sanusi Bin Taripin,18511,SAPP,182
-Sabah,N.25 Klias,Klias,2,Aliapa Bin Osman,18512,STAR,71
-Sabah,N.25 Klias,Klias,3,Lajim Bin Ukin,10231,PKR,6324
-Sabah,N.25 Klias,Klias,4,Isnin Bin Hj. Aliasnih,18514,BN,6145
-Sabah,N.26 Kuala Penyu,Kuala Penyu,1,Jusbian Bin Kenneth,18515,BEBAS,44
-Sabah,N.26 Kuala Penyu,Kuala Penyu,2,Limus Bin Jury,18516,BN,7311
-Sabah,N.26 Kuala Penyu,Kuala Penyu,3,John Ghani,18517,PKR,5038
-Sabah,N.26 Kuala Penyu,Kuala Penyu,4,Ining Bin Sinten @ Alexander Sintin,18518,STAR,154
-Sabah,N.26 Kuala Penyu,Kuala Penyu,5,Haji Md. Tajuddin Bin Hj. Md. Walli,18519,BEBAS,92
-Sabah,N.27 Lumadan,Lumadan,1,Abdul Rahman Bin Md Yakub,2848,PKR,2303
-Sabah,N.27 Lumadan,Lumadan,2,Jamain Bin Sarudin,18521,SAPP,143
-Sabah,N.27 Lumadan,Lumadan,3,Rapahi Bin Edris,18522,BEBAS,2476
-Sabah,N.27 Lumadan,Lumadan,4,Kamarlin Bin Ombi,18523,BN,6338
-Sabah,N.27 Lumadan,Lumadan,5,Hj Saudi Bin Suhaili,18524,BEBAS,69
-Sabah,N.27 Lumadan,Lumadan,6,Mohd Jaafar Bin Ibrahim,18525,STAR,147
-Sabah,N.28 Sindumin,Sindumin,1,Harunsah Bin Ibrahim,18526,PKR,3701
-Sabah,N.28 Sindumin,Sindumin,2,Semion @ Fred Semion Bin Sakai,18527,STAR,165
-Sabah,N.28 Sindumin,Sindumin,3,Amde @ Hamdi Bin Sidik,18528,SAPP,357
-Sabah,N.28 Sindumin,Sindumin,4,Hj Ahmad Hj Bujang,18529,BN,8024
-Sabah,N.29 Kundasang,Kundasang,1,Jain Sauting,18530,STAR,1117
-Sabah,N.29 Kundasang,Kundasang,2,Cleftus Stephen Spine,4319,BEBAS,87
-Sabah,N.29 Kundasang,Kundasang,3,Satiol Bin Indong,18532,PKR,2231
-Sabah,N.29 Kundasang,Kundasang,4,Joachim Gunsalam,15855,BN,4206
-Sabah,N.29 Kundasang,Kundasang,5,Japiril Bin Suhaimin,12346,SAPP,2102
-Sabah,N.29 Kundasang,Kundasang,6,Sam Hondou,18535,BEBAS,288
-Sabah,N.30 Karanaan,Karanaan,1,Datuk Masidi Manjun,17173,BN,6292
-Sabah,N.30 Karanaan,Karanaan,2,Jalibin Bin Paidi,18537,STAR,1067
-Sabah,N.30 Karanaan,Karanaan,3,Mat Jaili Samat,17177,BEBAS,31
-Sabah,N.30 Karanaan,Karanaan,4,Muhiddin Yusin,18539,PKR,2792
-Sabah,N.31 Paginatan,Paginatan,1,Yazid Bin Sahjinan,3906,BEBAS,154
-Sabah,N.31 Paginatan,Paginatan,2,Datuk Siringan Gubat,18541,BN,5142
-Sabah,N.31 Paginatan,Paginatan,3,Amru Bin Abd Kadir,18542,PKR,4163
-Sabah,N.31 Paginatan,Paginatan,4,Pedderin @ Feddrin Bin Tuliang @ Tuling,18543,STAR,1139
-Sabah,N.32 Tambunan,Tambunan,1,Joseph Pairin Kitingan,7897,BN,5586
-Sabah,N.32 Tambunan,Tambunan,2,Justin Bin Yonsoding,18545,BEBAS,591
-Sabah,N.32 Tambunan,Tambunan,3,Wilfred Win Bin Ponil,18546,PKR,1744
-Sabah,N.32 Tambunan,Tambunan,4,Nestor Bin Joannes,15867,STAR,3507
-Sabah,N.32 Tambunan,Tambunan,5,Francis Koh,17180,BEBAS,63
-Sabah,N.33 Bingkor,Bingkor,1,Ricky @ Roland Sedomon,18549,BEBAS,111
-Sabah,N.33 Bingkor,Bingkor,2,Ahmad Shah Tambakau,18550,PKR,2368
-Sabah,N.33 Bingkor,Bingkor,3,Kennedy John Angian,18551,BN,4894
-Sabah,N.33 Bingkor,Bingkor,4,Datuk Dr. Jeffrey Kitingan,17184,STAR,5350
-Sabah,N.34 Liawan,Liawan,1,Sairin Bin Karno,12404,BN,5383
-Sabah,N.34 Liawan,Liawan,2,Paul Bunsu Bin Gitang @ Paul Gitang,18554,PKR,3631
-Sabah,N.34 Liawan,Liawan,3,Nusleh Bin Madarak,18555,BEBAS,18
-Sabah,N.34 Liawan,Liawan,4,Johari Tahir,18556,SAPP,236
-Sabah,N.34 Liawan,Liawan,5,Nicholas James Guntobon,18557,STAR,2067
-Sabah,N.35 Melalap,Melalap,1,Datuk Radin Malleh,17190,BN,4643
-Sabah,N.35 Melalap,Melalap,2,Roger Bin Stimin,18559,SAPP,2044
-Sabah,N.35 Melalap,Melalap,3,Noorita Binti Sual,18560,DAP,1992
-Sabah,N.35 Melalap,Melalap,4,Kong Fui Seng,18561,STAR,924
-Sabah,N.36 Kemabong,Kemabong,1,Rubin Bin Balang,4335,BN,5765
-Sabah,N.36 Kemabong,Kemabong,2,William Ensor Bin Tingkalor,18563,SAPP,1047
-Sabah,N.36 Kemabong,Kemabong,3,Tay Jin Kiong @ Alfred,18564,STAR,1155
-Sabah,N.36 Kemabong,Kemabong,4,Biou Bin Suyan,18565,PKR,2733
-Sabah,N.37 Sook,Sook,1,Ellron Bin Angin,2533,BN,7223
-Sabah,N.37 Sook,Sook,2,Liberty @ Alibi Bin Lopog,18567,PKR,1911
-Sabah,N.37 Sook,Sook,3,Kustin Bin Ladi,18568,STAR,2828
-Sabah,N.37 Sook,Sook,4,Chong Yu Chee @ Frankie,18569,SAPP,1226
-Sabah,N.37 Sook,Sook,5,Rusayidi Bin Abdullah,18570,BEBAS,46
-Sabah,N.38 Nabawan,Nabawan,1,Datuk Bobbey Suan,17200,BN,3816
-Sabah,N.38 Nabawan,Nabawan,2,Sidum Bin Manjin,17197,BERSAMA,41
-Sabah,N.38 Nabawan,Nabawan,3,Raymond Bin Ahuar,4338,PKR,3474
-Sabah,N.38 Nabawan,Nabawan,4,Fatimah Binti Agitor @ Mohd Daud,3914,BEBAS,18
-Sabah,N.38 Nabawan,Nabawan,5,George Eram @ George Iram,18575,STAR,310
-Sabah,N.39 Sugut,Sugut,1,Abdul Rahman Bin Atang,1494,BEBAS,1465
-Sabah,N.39 Sugut,Sugut,2,Datuk James Bin Ratib,18577,BN,4285
-Sabah,N.39 Sugut,Sugut,3,Pagrios @ Petrus Bin Zabang,18578,PKR,647
-Sabah,N.39 Sugut,Sugut,4,Datu Kamaruddin Bin Datu Mustapha,18579,BEBAS,111
-Sabah,N.39 Sugut,Sugut,5,Masiawan Kunching,18580,STAR,341
-Sabah,N.40 Labuk,Labuk,1,Metah @ Micheal Bin Asang,14722,BN,7408
-Sabah,N.40 Labuk,Labuk,2,Datuk Tan Yong Gee,18582,PKR,2882
-Sabah,N.40 Labuk,Labuk,3,Pinus Bin Gondili,18583,STAR,1238
-Sabah,N.41 Gum-Gum,Gum-Gum,1,Hassan Bin Hami @ Hamid,18584,STAR,301
-Sabah,N.41 Gum-Gum,Gum-Gum,2,Ahmad Thamrin,18585,PKR,3191
-Sabah,N.41 Gum-Gum,Gum-Gum,3,Zakaria Bin Mohd. Edris,18586,BN,5548
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,1,Musa Bin Aman,12357,BN,16637
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,2,Mohd Arshad Bin Abdul,18588,BEBAS,201
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,3,A.M. Jaffar Bin Juana,18589,SAPP,265
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,4,Mohd Roslan Bin Yussof,18590,STAR,215
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,5,Irwanshah Bin Mustapa,4349,PKR,5068
-Sabah,N.43 Sekong,Sekong,1,Musah Bin Ghani,18592,PKR,3368
-Sabah,N.43 Sekong,Sekong,2,Ahmad Bin Ibrahim,7716,STAR,100
-Sabah,N.43 Sekong,Sekong,3,Hj. Awang Bin Hj. Othman .,18594,SAPP,354
-Sabah,N.43 Sekong,Sekong,4,Datu Ilahan Bin Datu Amilbangsa,18595,BEBAS,50
-Sabah,N.43 Sekong,Sekong,5,Samsudin Bin Yahya,15894,BN,6898
-Sabah,N.44 Karamunting,Karamunting,1,Chong Ket Kiun,18597,DAP,5380
-Sabah,N.44 Karamunting,Karamunting,2,Yong Vui Min,18598,SAPP,352
-Sabah,N.44 Karamunting,Karamunting,3,Charles O Pang,18599,BN,6235
-Sabah,N.45 Elopura,Elopura,1,Liau Fook Kong,18600,SAPP,469
-Sabah,N.45 Elopura,Elopura,2,Au Kam Wah,15900,BN,8105
-Sabah,N.45 Elopura,Elopura,3,Hiew Vun Zin,18602,DAP,7854
-Sabah,N.46 Tanjong Papat,Tanjong Papat,1,Frankie Poon,18603,DAP,4631
-Sabah,N.46 Tanjong Papat,Tanjong Papat,2,Ken Yong Chie Man,18604,SAPP,191
-Sabah,N.46 Tanjong Papat,Tanjong Papat,3,Raymond Tan Shu Kiah,17226,BN,6153
-Sabah,N.47 Kuamut,Kuamut,1,Mustapa Bin Datu Tambuyong,17228,PKR,2989
-Sabah,N.47 Kuamut,Kuamut,2,Edward Podok,18607,STAR,1196
-Sabah,N.47 Kuamut,Kuamut,3,Masiung Banah,17229,BN,7607
-Sabah,N.48 Sukau,Sukau,1,Datuk Saddi Bin Abdu Rahman,18609,BN,5851
-Sabah,N.48 Sukau,Sukau,2,Aprin Bin Musin,18610,SAPP,89
-Sabah,N.48 Sukau,Sukau,3,Hj Ahdah Bin Hj Sulaiman,17233,PAS,1432
-Sabah,N.48 Sukau,Sukau,4,Juhori Bin Paritai,18612,STAR,197
-Sabah,N.49 Tungku,Tungku,1,Mohd. Azlan Tsen Abdullah,18613,BEBAS,96
-Sabah,N.49 Tungku,Tungku,2,Dato Shuaib Bin Dato Mutalib,18614,SAPP,373
-Sabah,N.49 Tungku,Tungku,3,Datuk Mohd Suhaili Bin Said,18615,BN,7848
-Sabah,N.49 Tungku,Tungku,4,Johani Bin Abd Halim,15916,PKR,2364
-Sabah,N.49 Tungku,Tungku,5,Johan Bin Nul,18617,STAR,337
-Sabah,N.50 Lahad Datu,Lahad Datu,1,Ali Andu Enjil,18618,SAPP,912
-Sabah,N.50 Lahad Datu,Lahad Datu,2,Dato' Haji Mohammad Yusof Haji Apdal,18619,BN,12949
-Sabah,N.50 Lahad Datu,Lahad Datu,3,Hamid Awong @ Abdul Hamid Awong,18620,PKR,4534
-Sabah,N.50 Lahad Datu,Lahad Datu,4,Ariffin Bin Hamid @ Alfa Hamid,18621,STAR,341
-Sabah,N.51 Kunak,Kunak,1,Abd. Sattal Shafiee,18622,BEBAS,64
-Sabah,N.51 Kunak,Kunak,2,Hussein Bin Ibnu Hassan,18623,BEBAS,1034
-Sabah,N.51 Kunak,Kunak,3,Kasman Bin Karate,18624,PAS,1002
-Sabah,N.51 Kunak,Kunak,4,Datuk Nilwan Bin Kabang,18625,BN,6394
-Sabah,N.51 Kunak,Kunak,5,Valentine @ Rengers Sebastian,18626,STAR,200
-Sabah,N.51 Kunak,Kunak,6,Sharif Shamsuddin Sh. Sagaf,18627,BEBAS,117
-Sabah,N.52 Sulabayan,Sulabayan,1,Hasaman Bin Sagaran,18628,BERSAMA,227
-Sabah,N.52 Sulabayan,Sulabayan,2,Hussein Bin Mumakil,18629,BEBAS,347
-Sabah,N.52 Sulabayan,Sulabayan,3,Dato' Hj Jaujan Bin Hj Sambakong,18630,BN,6546
-Sabah,N.52 Sulabayan,Sulabayan,4,Mamat Barhana,18631,BEBAS,74
-Sabah,N.52 Sulabayan,Sulabayan,5,Hermeny Bin Murgal,18632,PKR,1417
-Sabah,N.52 Sulabayan,Sulabayan,6,Julkalani Bin Abd. Rahman,18633,BEBAS,107
-Sabah,N.52 Sulabayan,Sulabayan,7,Ghazalie B Penghulu Hindi,18634,BEBAS,196
-Sabah,N.53 Senallang,Senallang,1,Datu Badaruddin Tun Mustapha,3931,BEBAS,164
-Sabah,N.53 Senallang,Senallang,2,Mohd Amin Bin Abdul Men,18636,PKR,1516
-Sabah,N.53 Senallang,Senallang,3,Datuk Nasir Bin Sakaran,18637,BN,7425
-Sabah,N.53 Senallang,Senallang,4,Abdul Manang Bin Hatib Lawari @ Osman,18638,BEBAS,546
-Sabah,N.53 Senallang,Senallang,5,Ab Karim Bin Talip,18639,BEBAS,145
-Sabah,N.54 Bugaya,Bugaya,1,Abdul Hussin Bin Kiamsin,15935,BEBAS,3139
-Sabah,N.54 Bugaya,Bugaya,2,Atal Muhammad Bin K.K Abd Menang,18641,BEBAS,201
-Sabah,N.54 Bugaya,Bugaya,3,Datuk Ramlee Marahaban,18642,BN,6642
-Sabah,N.54 Bugaya,Bugaya,4,Alimin Bin Budin,18643,BEBAS,638
-Sabah,N.54 Bugaya,Bugaya,5,Hasai Bin Tudai,18644,PAS,702
-Sabah,N.54 Bugaya,Bugaya,6,Abdullah Sani Bin Abdul Salleh,14769,BEBAS,191
-Sabah,N.55 Balung,Balung,1,S. Abas Bin S. Ali,9085,BN,7843
-Sabah,N.55 Balung,Balung,2,Abd. Hamid Bin Mohd. Noor,18647,SAPP,200
-Sabah,N.55 Balung,Balung,3,Ahmad Frank Salazar,18648,PKR,2274
-Sabah,N.55 Balung,Balung,4,Abdillah,18649,BEBAS,180
-Sabah,N.56 Apas,Apas,1,Tahir Bin Dahu,18650,SAPP,149
-Sabah,N.56 Apas,Apas,2,Chok Yit Min,18651,STAR,75
-Sabah,N.56 Apas,Apas,3,Alizaman Bin Jijurahman,4359,PKR,2891
-Sabah,N.56 Apas,Apas,4,Datuk Tawfiq Abu Bakar Titingan,7970,BN,9013
-Sabah,N.57 Sri Tanjong,Sri Tanjong,1,Fung Len Fui,18654,BN,5021
-Sabah,N.57 Sri Tanjong,Sri Tanjong,2,Olivia Chong Oi Yun,18655,STAR,128
-Sabah,N.57 Sri Tanjong,Sri Tanjong,3,Yong Chong Kim,18656,SAPP,260
-Sabah,N.57 Sri Tanjong,Sri Tanjong,4,Chan Foong Hin,3587,DAP,10948
-Sabah,N.58 Merotai,Merotai,1,Mohd Bin Manuke,3933,BEBAS,342
-Sabah,N.58 Merotai,Merotai,2,Rita Rudiansah Bin Abu Bakar,18659,BEBAS,104
-Sabah,N.58 Merotai,Merotai,3,Ho Shau Vui,18660,SAPP,221
-Sabah,N.58 Merotai,Merotai,4,Chin Chee Syn,18661,BEBAS,1255
-Sabah,N.58 Merotai,Merotai,5,Pang Yuk Ming,17264,BN,8045
-Sabah,N.58 Merotai,Merotai,6,Hj Ahmad Dullah,18663,PAS,3957
-Sabah,N.59 Tanjong Batu,Tanjong Batu,1,Fatmawaty Mohd Yusuf,18664,PAS,3228
-Sabah,N.59 Tanjong Batu,Tanjong Batu,2,Hamisa Binti Samat,18665,BN,10858
-Sabah,N.60 Sebatik,Sebatik,1,Mohamad Yusup Bin Lewah,18666,BEBAS,249
-Sabah,N.60 Sebatik,Sebatik,2,Daud Bin Jalaluddin,18667,PAS,1344
-Sabah,N.60 Sebatik,Sebatik,3,Abd Muis Bin Picho,17270,BN,5484
-Sabah,N.60 Sebatik,Sebatik,4,Mohammad Jeffry Bin Rosman,18669,STAR,225
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Sabah,N.01 Banggi,Banggi,1,Abd Mijul Bin Unaini,13414,BN,25,4293
+Sabah,N.01 Banggi,Banggi,2,Mursalim Bin Tanjul,15758,BEBAS,1,642
+Sabah,N.01 Banggi,Banggi,3,Jae-Ly Bin Medong,18409,SAPP,66,536
+Sabah,N.01 Banggi,Banggi,4,Datu Abdul Razak Bin Datu Abdul Salam,18410,PKR,11,1054
+Sabah,N.01 Banggi,Banggi,5,Datu Mohd Arifin Bin Datu Abdul Salam,18411,STAR,64,476
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,1,Zainal Bin Hj. Nasiruddin,18412,BERSAMA,70,363
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,2,Alex Wong,18413,BEBAS,1,35
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,3,Hendiri @ Hendry Bin Minar,18414,STAR,64,273
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,4,Tsen Heng Chong @ Peter Tsen,18415,SAPP,66,500
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,5,Teo Chee Kang,17084,BN,25,8890
+Sabah,N.02 Tanjong Kapor,Tanjong Kapor,6,Chin Chung Kui @ William Chin,18417,PKR,11,6905
+Sabah,N.03 Pitas,Pitas,1,Johnes @ Onis Bin Piut,18418,SAPP,66,232
+Sabah,N.03 Pitas,Pitas,2,Awang Latip Bin Abdul Salam,18419,KITA,29,138
+Sabah,N.03 Pitas,Pitas,3,Maklin Bin Masiau,18420,STAR,64,3111
+Sabah,N.03 Pitas,Pitas,4,Datuk Bolkiah Bin Hj Ismail,18421,BN,25,6934
+Sabah,N.03 Pitas,Pitas,5,Dausieh Binti Queck @ Paraman,18422,PAS,3,976
+Sabah,N.04 Matunggong,Matunggong,1,Sarapin Bin Magana,17094,BN,25,6627
+Sabah,N.04 Matunggong,Matunggong,2,Richard Bin Jiun,18424,SAPP,66,367
+Sabah,N.04 Matunggong,Matunggong,3,Marunsai Bin Dawai,18425,STAR,64,1536
+Sabah,N.04 Matunggong,Matunggong,4,Jelani Bin Hamdan,9778,PKR,11,6947
+Sabah,N.04 Matunggong,Matunggong,5,Jolius Bin Majawai,18427,BEBAS,1,54
+Sabah,N.05 Tandek,Tandek,1,Anthony Mandiau,3196,PKR,11,4124
+Sabah,N.05 Tandek,Tandek,2,Jebon Janaun,18429,STAR,64,2668
+Sabah,N.05 Tandek,Tandek,3,Henry Yapolai,18430,SAPP,66,380
+Sabah,N.05 Tandek,Tandek,4,Anita Baranting,17096,BN,25,9399
+Sabah,N.06 Tempasuk,Tempasuk,1,Abdul Malik Bin Mohed,10712,SAPP,66,319
+Sabah,N.06 Tempasuk,Tempasuk,2,Hj. Ag. Laiman Bin Hj. Ikin,18433,PAS,3,3285
+Sabah,N.06 Tempasuk,Tempasuk,3,Suwah Bin Buleh @ Bulleh,13433,STAR,64,1769
+Sabah,N.06 Tempasuk,Tempasuk,4,Datuk Musbah Jamli,18435,BN,25,8495
+Sabah,N.07 Kadamaian,Kadamaian,1,Herbert Timbon Lagadan,17106,BN,25,4988
+Sabah,N.07 Kadamaian,Kadamaian,2,Ukoh @ Jeremmy Bin Malajad @ Malazad,18437,PKR,11,5877
+Sabah,N.07 Kadamaian,Kadamaian,3,Rubbin Bin Guribah,18438,STAR,64,1877
+Sabah,N.07 Kadamaian,Kadamaian,4,Peter Marajin,17105,SAPP,66,547
+Sabah,N.08 Usukan,Usukan,1,Salleh Said Keruak,4307,BN,25,10879
+Sabah,N.08 Usukan,Usukan,2,Bakhruddin Bin Ismail,18441,STAR,64,285
+Sabah,N.08 Usukan,Usukan,3,Haji Mustapha Bin Haji Sakmud,18442,PKR,11,4067
+Sabah,N.09 Tamparuli,Tamparuli,1,Datuk Seri Panglima Wilfred M. Bumburing,18443,PKR,11,6862
+Sabah,N.09 Tamparuli,Tamparuli,2,Linggu @ Edward Bin Bukut,14624,STAR,64,589
+Sabah,N.09 Tamparuli,Tamparuli,3,Stephan Bin Gaimin,18445,SAPP,66,185
+Sabah,N.09 Tamparuli,Tamparuli,4,Dr. James Ongkili Jr.,18446,BEBAS,1,126
+Sabah,N.09 Tamparuli,Tamparuli,5,Jahid Jahim,17110,BN,25,6479
+Sabah,N.10 Sulaman,Sulaman,1,Hajiji Bin Haji Noor,12333,BN,25,13065
+Sabah,N.10 Sulaman,Sulaman,2,David Bin Orok,18449,STAR,64,225
+Sabah,N.10 Sulaman,Sulaman,3,Arifin Bin Harith,18450,BEBAS,1,66
+Sabah,N.10 Sulaman,Sulaman,4,Gulabdin @ Ghulabdin Bin Enjih,18451,PKR,11,2624
+Sabah,N.10 Sulaman,Sulaman,5,Ali Akbar Kawi,18452,BEBAS,1,615
+Sabah,N.11 Kiulu,Kiulu,1,Tindil Bin Gonsobil @ Sindin,18453,SAPP,66,129
+Sabah,N.11 Kiulu,Kiulu,2,John Bin Hussein,18454,BEBAS,1,517
+Sabah,N.11 Kiulu,Kiulu,3,Rhodes Bin Panilau,18455,PKR,11,3701
+Sabah,N.11 Kiulu,Kiulu,4,Terence Sinti,18456,STAR,64,1025
+Sabah,N.11 Kiulu,Kiulu,5,Joniston Bin Lumai @ Bangkuai,18457,BN,25,3745
+Sabah,N.12 Karambunai,Karambunai,1,Muali Bin Aching,18458,PKR,11,5542
+Sabah,N.12 Karambunai,Karambunai,2,Ag. Maidin Bin Ag. Apong,18459,BEBAS,1,171
+Sabah,N.12 Karambunai,Karambunai,3,Aziz Bin Ibrahim,7235,SAPP,66,1977
+Sabah,N.12 Karambunai,Karambunai,4,Rano Bin Susulan,18461,BEBAS,1,172
+Sabah,N.12 Karambunai,Karambunai,5,Jainab Binti Ahmad,15806,BN,25,14818
+Sabah,N.13 Inanam,Inanam,1,Dr. Roland Chia Ming Shen,18463,PKR,11,8926
+Sabah,N.13 Inanam,Inanam,2,Eric E. Majimbun,3544,SAPP,66,5003
+Sabah,N.13 Inanam,Inanam,3,Joseph P . Lantip,18465,BN,25,5724
+Sabah,N.14 Likas,Likas,1,Wong Hong Jun,18466,DAP,18,7746
+Sabah,N.14 Likas,Likas,2,Chin Shu Ying,18467,BN,25,2094
+Sabah,N.14 Likas,Likas,3,Yong Teck Lee,2837,SAPP,66,1487
+Sabah,N.14 Likas,Likas,4,Prof Dr Martin Ho,18469,STAR,64,155
+Sabah,N.15 Api-Api,Api-Api,1,Christina Liew,3204,PKR,11,5853
+Sabah,N.15 Api-Api,Api-Api,2,Marcel Jude A/L Ms Joseph,18471,BEBAS,1,14
+Sabah,N.15 Api-Api,Api-Api,3,Wong Yit Ming,12482,SAPP,66,713
+Sabah,N.15 Api-Api,Api-Api,4,Felix Chong Kat Fah,18473,STAR,64,152
+Sabah,N.15 Api-Api,Api-Api,5,Dr Yee Moh Chai,2840,BN,25,5058
+Sabah,N.16 Luyang,Luyang,1,Melanie Chia Chui Ket,17129,SAPP,66,1694
+Sabah,N.16 Luyang,Luyang,2,Agnes Shim Tshin Nyuk,18476,BN,25,2537
+Sabah,N.16 Luyang,Luyang,3,Hiew King Cheu,3203,DAP,18,11213
+Sabah,N.16 Luyang,Luyang,4,Jafery J. @ Jet Fei Lee,18478,STAR,64,259
+Sabah,N.17 Tanjong Aru,Tanjong Aru,1,Ir. Edward Yong Oui Fah,17132,BN,25,9099
+Sabah,N.17 Tanjong Aru,Tanjong Aru,2,Salleh Bin Tiasi @ Tiaseh,15824,STAR,64,750
+Sabah,N.17 Tanjong Aru,Tanjong Aru,3,Hamid Bin Ismail,18481,PAS,3,5409
+Sabah,N.17 Tanjong Aru,Tanjong Aru,4,Richard Yong We Kong,18482,SAPP,66,1333
+Sabah,N.18 Petagas,Petagas,1,Awang Ahmad Sah,3206,STAR,64,1111
+Sabah,N.18 Petagas,Petagas,2,Yahyah @ Yahya Bin Hussin @ Ag Husin,13506,BN,25,8504
+Sabah,N.18 Petagas,Petagas,3,Mat Yunin @ Mohd Yunin Bin Atin,18485,PKR,11,2851
+Sabah,N.19 Kapayan,Kapayan,1,Edward Khoo Keok Hai,17137,BN,25,5733
+Sabah,N.19 Kapayan,Kapayan,2,Phillip Among @ Daniel Dell Fidelis,18487,STAR,64,720
+Sabah,N.19 Kapayan,Kapayan,3,Dr Edwin @ Jack Bosi,3550,DAP,18,13020
+Sabah,N.19 Kapayan,Kapayan,4,Chong Pit Fah,18489,SAPP,66,2030
+Sabah,N.20 Moyog,Moyog,1,Terrence Alon Siambun,18490,PKR,11,7462
+Sabah,N.20 Moyog,Moyog,2,Bernard Lawrence Solibun,18491,STAR,64,603
+Sabah,N.20 Moyog,Moyog,3,Danim @ Aloysius Bin Siap,18492,SAPP,66,779
+Sabah,N.20 Moyog,Moyog,4,Datuk Philip Benedict Lasimbang,18493,BN,25,5780
+Sabah,N.21 Kawang,Kawang,1,Dzulkefli Safar,18494,PKR,11,3401
+Sabah,N.21 Kawang,Kawang,2,Edward Dagul,18495,SAPP,66,906
+Sabah,N.21 Kawang,Kawang,3,Akop Bin Damsah @ Yakup Bin Damsah,18496,STAR,64,248
+Sabah,N.21 Kawang,Kawang,4,Datuk Gulamhaidar @ Yusof Bin Khan Bahadar,15837,BN,25,12301
+Sabah,N.22 Pantai Manis,Pantai Manis,1,Abdul Rahim Bin Ismail,8390,BN,25,9639
+Sabah,N.22 Pantai Manis,Pantai Manis,2,Noraizal Bin Mohd Noor,18499,SAPP,66,403
+Sabah,N.22 Pantai Manis,Pantai Manis,3,Fred Bin Gabriel,18500,PKR,11,5230
+Sabah,N.22 Pantai Manis,Pantai Manis,4,Baharudin @ Baharuddin Bin Nayan,18501,STAR,64,603
+Sabah,N.23 Bongawan,Bongawan,1,Mohamad Bin Haji Alamin,18502,BN,25,7443
+Sabah,N.23 Bongawan,Bongawan,2,Awang Talip Bin Awang Bagul,18503,SAPP,66,335
+Sabah,N.23 Bongawan,Bongawan,3,Tan Sri Ibrahim Bin Menudin,18504,PKR,11,4051
+Sabah,N.23 Bongawan,Bongawan,4,Ak Aliuddin,2846,BEBAS,1,455
+Sabah,N.23 Bongawan,Bongawan,5,Assim @ Hassim Bin Matali,18506,STAR,64,321
+Sabah,N.24 Membakut,Membakut,1,Mohd Arifin Bin Mohd Arif,15842,BN,25,6547
+Sabah,N.24 Membakut,Membakut,2,Narawi @ Sinar Bin Ahmad,18508,PKR,11,3037
+Sabah,N.24 Membakut,Membakut,3,Banjimin Ondoi,18509,SAPP,66,300
+Sabah,N.24 Membakut,Membakut,4,Jaapar Bin Ag Gador,18510,STAR,64,139
+Sabah,N.25 Klias,Klias,1,Mohd. Sanusi Bin Taripin,18511,SAPP,66,182
+Sabah,N.25 Klias,Klias,2,Aliapa Bin Osman,18512,STAR,64,71
+Sabah,N.25 Klias,Klias,3,Lajim Bin Ukin,10231,PKR,11,6324
+Sabah,N.25 Klias,Klias,4,Isnin Bin Hj. Aliasnih,18514,BN,25,6145
+Sabah,N.26 Kuala Penyu,Kuala Penyu,1,Jusbian Bin Kenneth,18515,BEBAS,1,44
+Sabah,N.26 Kuala Penyu,Kuala Penyu,2,Limus Bin Jury,18516,BN,25,7311
+Sabah,N.26 Kuala Penyu,Kuala Penyu,3,John Ghani,18517,PKR,11,5038
+Sabah,N.26 Kuala Penyu,Kuala Penyu,4,Ining Bin Sinten @ Alexander Sintin,18518,STAR,64,154
+Sabah,N.26 Kuala Penyu,Kuala Penyu,5,Haji Md. Tajuddin Bin Hj. Md. Walli,18519,BEBAS,1,92
+Sabah,N.27 Lumadan,Lumadan,1,Abdul Rahman Bin Md Yakub,2848,PKR,11,2303
+Sabah,N.27 Lumadan,Lumadan,2,Jamain Bin Sarudin,18521,SAPP,66,143
+Sabah,N.27 Lumadan,Lumadan,3,Rapahi Bin Edris,18522,BEBAS,1,2476
+Sabah,N.27 Lumadan,Lumadan,4,Kamarlin Bin Ombi,18523,BN,25,6338
+Sabah,N.27 Lumadan,Lumadan,5,Hj Saudi Bin Suhaili,18524,BEBAS,1,69
+Sabah,N.27 Lumadan,Lumadan,6,Mohd Jaafar Bin Ibrahim,18525,STAR,64,147
+Sabah,N.28 Sindumin,Sindumin,1,Harunsah Bin Ibrahim,18526,PKR,11,3701
+Sabah,N.28 Sindumin,Sindumin,2,Semion @ Fred Semion Bin Sakai,18527,STAR,64,165
+Sabah,N.28 Sindumin,Sindumin,3,Amde @ Hamdi Bin Sidik,18528,SAPP,66,357
+Sabah,N.28 Sindumin,Sindumin,4,Hj Ahmad Hj Bujang,18529,BN,25,8024
+Sabah,N.29 Kundasang,Kundasang,1,Jain Sauting,18530,STAR,64,1117
+Sabah,N.29 Kundasang,Kundasang,2,Cleftus Stephen Spine,4319,BEBAS,1,87
+Sabah,N.29 Kundasang,Kundasang,3,Satiol Bin Indong,18532,PKR,11,2231
+Sabah,N.29 Kundasang,Kundasang,4,Joachim Gunsalam,15855,BN,25,4206
+Sabah,N.29 Kundasang,Kundasang,5,Japiril Bin Suhaimin,12346,SAPP,66,2102
+Sabah,N.29 Kundasang,Kundasang,6,Sam Hondou,18535,BEBAS,1,288
+Sabah,N.30 Karanaan,Karanaan,1,Datuk Masidi Manjun,17173,BN,25,6292
+Sabah,N.30 Karanaan,Karanaan,2,Jalibin Bin Paidi,18537,STAR,64,1067
+Sabah,N.30 Karanaan,Karanaan,3,Mat Jaili Samat,17177,BEBAS,1,31
+Sabah,N.30 Karanaan,Karanaan,4,Muhiddin Yusin,18539,PKR,11,2792
+Sabah,N.31 Paginatan,Paginatan,1,Yazid Bin Sahjinan,3906,BEBAS,1,154
+Sabah,N.31 Paginatan,Paginatan,2,Datuk Siringan Gubat,18541,BN,25,5142
+Sabah,N.31 Paginatan,Paginatan,3,Amru Bin Abd Kadir,18542,PKR,11,4163
+Sabah,N.31 Paginatan,Paginatan,4,Pedderin @ Feddrin Bin Tuliang @ Tuling,18543,STAR,64,1139
+Sabah,N.32 Tambunan,Tambunan,1,Joseph Pairin Kitingan,7897,BN,25,5586
+Sabah,N.32 Tambunan,Tambunan,2,Justin Bin Yonsoding,18545,BEBAS,1,591
+Sabah,N.32 Tambunan,Tambunan,3,Wilfred Win Bin Ponil,18546,PKR,11,1744
+Sabah,N.32 Tambunan,Tambunan,4,Nestor Bin Joannes,15867,STAR,64,3507
+Sabah,N.32 Tambunan,Tambunan,5,Francis Koh,17180,BEBAS,1,63
+Sabah,N.33 Bingkor,Bingkor,1,Ricky @ Roland Sedomon,18549,BEBAS,1,111
+Sabah,N.33 Bingkor,Bingkor,2,Ahmad Shah Tambakau,18550,PKR,11,2368
+Sabah,N.33 Bingkor,Bingkor,3,Kennedy John Angian,18551,BN,25,4894
+Sabah,N.33 Bingkor,Bingkor,4,Datuk Dr. Jeffrey Kitingan,17184,STAR,64,5350
+Sabah,N.34 Liawan,Liawan,1,Sairin Bin Karno,12404,BN,25,5383
+Sabah,N.34 Liawan,Liawan,2,Paul Bunsu Bin Gitang @ Paul Gitang,18554,PKR,11,3631
+Sabah,N.34 Liawan,Liawan,3,Nusleh Bin Madarak,18555,BEBAS,1,18
+Sabah,N.34 Liawan,Liawan,4,Johari Tahir,18556,SAPP,66,236
+Sabah,N.34 Liawan,Liawan,5,Nicholas James Guntobon,18557,STAR,64,2067
+Sabah,N.35 Melalap,Melalap,1,Datuk Radin Malleh,17190,BN,25,4643
+Sabah,N.35 Melalap,Melalap,2,Roger Bin Stimin,18559,SAPP,66,2044
+Sabah,N.35 Melalap,Melalap,3,Noorita Binti Sual,18560,DAP,18,1992
+Sabah,N.35 Melalap,Melalap,4,Kong Fui Seng,18561,STAR,64,924
+Sabah,N.36 Kemabong,Kemabong,1,Rubin Bin Balang,4335,BN,25,5765
+Sabah,N.36 Kemabong,Kemabong,2,William Ensor Bin Tingkalor,18563,SAPP,66,1047
+Sabah,N.36 Kemabong,Kemabong,3,Tay Jin Kiong @ Alfred,18564,STAR,64,1155
+Sabah,N.36 Kemabong,Kemabong,4,Biou Bin Suyan,18565,PKR,11,2733
+Sabah,N.37 Sook,Sook,1,Ellron Bin Angin,2533,BN,25,7223
+Sabah,N.37 Sook,Sook,2,Liberty @ Alibi Bin Lopog,18567,PKR,11,1911
+Sabah,N.37 Sook,Sook,3,Kustin Bin Ladi,18568,STAR,64,2828
+Sabah,N.37 Sook,Sook,4,Chong Yu Chee @ Frankie,18569,SAPP,66,1226
+Sabah,N.37 Sook,Sook,5,Rusayidi Bin Abdullah,18570,BEBAS,1,46
+Sabah,N.38 Nabawan,Nabawan,1,Datuk Bobbey Suan,17200,BN,25,3816
+Sabah,N.38 Nabawan,Nabawan,2,Sidum Bin Manjin,17197,BERSAMA,70,41
+Sabah,N.38 Nabawan,Nabawan,3,Raymond Bin Ahuar,4338,PKR,11,3474
+Sabah,N.38 Nabawan,Nabawan,4,Fatimah Binti Agitor @ Mohd Daud,3914,BEBAS,1,18
+Sabah,N.38 Nabawan,Nabawan,5,George Eram @ George Iram,18575,STAR,64,310
+Sabah,N.39 Sugut,Sugut,1,Abdul Rahman Bin Atang,1494,BEBAS,1,1465
+Sabah,N.39 Sugut,Sugut,2,Datuk James Bin Ratib,18577,BN,25,4285
+Sabah,N.39 Sugut,Sugut,3,Pagrios @ Petrus Bin Zabang,18578,PKR,11,647
+Sabah,N.39 Sugut,Sugut,4,Datu Kamaruddin Bin Datu Mustapha,18579,BEBAS,1,111
+Sabah,N.39 Sugut,Sugut,5,Masiawan Kunching,18580,STAR,64,341
+Sabah,N.40 Labuk,Labuk,1,Metah @ Micheal Bin Asang,14722,BN,25,7408
+Sabah,N.40 Labuk,Labuk,2,Datuk Tan Yong Gee,18582,PKR,11,2882
+Sabah,N.40 Labuk,Labuk,3,Pinus Bin Gondili,18583,STAR,64,1238
+Sabah,N.41 Gum-Gum,Gum-Gum,1,Hassan Bin Hami @ Hamid,18584,STAR,64,301
+Sabah,N.41 Gum-Gum,Gum-Gum,2,Ahmad Thamrin,18585,PKR,11,3191
+Sabah,N.41 Gum-Gum,Gum-Gum,3,Zakaria Bin Mohd. Edris,18586,BN,25,5548
+Sabah,N.42 Sungai Sibuga,Sungai Sibuga,1,Musa Bin Aman,12357,BN,25,16637
+Sabah,N.42 Sungai Sibuga,Sungai Sibuga,2,Mohd Arshad Bin Abdul,18588,BEBAS,1,201
+Sabah,N.42 Sungai Sibuga,Sungai Sibuga,3,A.M. Jaffar Bin Juana,18589,SAPP,66,265
+Sabah,N.42 Sungai Sibuga,Sungai Sibuga,4,Mohd Roslan Bin Yussof,18590,STAR,64,215
+Sabah,N.42 Sungai Sibuga,Sungai Sibuga,5,Irwanshah Bin Mustapa,4349,PKR,11,5068
+Sabah,N.43 Sekong,Sekong,1,Musah Bin Ghani,18592,PKR,11,3368
+Sabah,N.43 Sekong,Sekong,2,Ahmad Bin Ibrahim,7716,STAR,64,100
+Sabah,N.43 Sekong,Sekong,3,Hj. Awang Bin Hj. Othman .,18594,SAPP,66,354
+Sabah,N.43 Sekong,Sekong,4,Datu Ilahan Bin Datu Amilbangsa,18595,BEBAS,1,50
+Sabah,N.43 Sekong,Sekong,5,Samsudin Bin Yahya,15894,BN,25,6898
+Sabah,N.44 Karamunting,Karamunting,1,Chong Ket Kiun,18597,DAP,18,5380
+Sabah,N.44 Karamunting,Karamunting,2,Yong Vui Min,18598,SAPP,66,352
+Sabah,N.44 Karamunting,Karamunting,3,Charles O Pang,18599,BN,25,6235
+Sabah,N.45 Elopura,Elopura,1,Liau Fook Kong,18600,SAPP,66,469
+Sabah,N.45 Elopura,Elopura,2,Au Kam Wah,15900,BN,25,8105
+Sabah,N.45 Elopura,Elopura,3,Hiew Vun Zin,18602,DAP,18,7854
+Sabah,N.46 Tanjong Papat,Tanjong Papat,1,Frankie Poon,18603,DAP,18,4631
+Sabah,N.46 Tanjong Papat,Tanjong Papat,2,Ken Yong Chie Man,18604,SAPP,66,191
+Sabah,N.46 Tanjong Papat,Tanjong Papat,3,Raymond Tan Shu Kiah,17226,BN,25,6153
+Sabah,N.47 Kuamut,Kuamut,1,Mustapa Bin Datu Tambuyong,17228,PKR,11,2989
+Sabah,N.47 Kuamut,Kuamut,2,Edward Podok,18607,STAR,64,1196
+Sabah,N.47 Kuamut,Kuamut,3,Masiung Banah,17229,BN,25,7607
+Sabah,N.48 Sukau,Sukau,1,Datuk Saddi Bin Abdu Rahman,18609,BN,25,5851
+Sabah,N.48 Sukau,Sukau,2,Aprin Bin Musin,18610,SAPP,66,89
+Sabah,N.48 Sukau,Sukau,3,Hj Ahdah Bin Hj Sulaiman,17233,PAS,3,1432
+Sabah,N.48 Sukau,Sukau,4,Juhori Bin Paritai,18612,STAR,64,197
+Sabah,N.49 Tungku,Tungku,1,Mohd. Azlan Tsen Abdullah,18613,BEBAS,1,96
+Sabah,N.49 Tungku,Tungku,2,Dato Shuaib Bin Dato Mutalib,18614,SAPP,66,373
+Sabah,N.49 Tungku,Tungku,3,Datuk Mohd Suhaili Bin Said,18615,BN,25,7848
+Sabah,N.49 Tungku,Tungku,4,Johani Bin Abd Halim,15916,PKR,11,2364
+Sabah,N.49 Tungku,Tungku,5,Johan Bin Nul,18617,STAR,64,337
+Sabah,N.50 Lahad Datu,Lahad Datu,1,Ali Andu Enjil,18618,SAPP,66,912
+Sabah,N.50 Lahad Datu,Lahad Datu,2,Dato' Haji Mohammad Yusof Haji Apdal,18619,BN,25,12949
+Sabah,N.50 Lahad Datu,Lahad Datu,3,Hamid Awong @ Abdul Hamid Awong,18620,PKR,11,4534
+Sabah,N.50 Lahad Datu,Lahad Datu,4,Ariffin Bin Hamid @ Alfa Hamid,18621,STAR,64,341
+Sabah,N.51 Kunak,Kunak,1,Abd. Sattal Shafiee,18622,BEBAS,1,64
+Sabah,N.51 Kunak,Kunak,2,Hussein Bin Ibnu Hassan,18623,BEBAS,1,1034
+Sabah,N.51 Kunak,Kunak,3,Kasman Bin Karate,18624,PAS,3,1002
+Sabah,N.51 Kunak,Kunak,4,Datuk Nilwan Bin Kabang,18625,BN,25,6394
+Sabah,N.51 Kunak,Kunak,5,Valentine @ Rengers Sebastian,18626,STAR,64,200
+Sabah,N.51 Kunak,Kunak,6,Sharif Shamsuddin Sh. Sagaf,18627,BEBAS,1,117
+Sabah,N.52 Sulabayan,Sulabayan,1,Hasaman Bin Sagaran,18628,BERSAMA,70,227
+Sabah,N.52 Sulabayan,Sulabayan,2,Hussein Bin Mumakil,18629,BEBAS,1,347
+Sabah,N.52 Sulabayan,Sulabayan,3,Dato' Hj Jaujan Bin Hj Sambakong,18630,BN,25,6546
+Sabah,N.52 Sulabayan,Sulabayan,4,Mamat Barhana,18631,BEBAS,1,74
+Sabah,N.52 Sulabayan,Sulabayan,5,Hermeny Bin Murgal,18632,PKR,11,1417
+Sabah,N.52 Sulabayan,Sulabayan,6,Julkalani Bin Abd. Rahman,18633,BEBAS,1,107
+Sabah,N.52 Sulabayan,Sulabayan,7,Ghazalie B Penghulu Hindi,18634,BEBAS,1,196
+Sabah,N.53 Senallang,Senallang,1,Datu Badaruddin Tun Mustapha,3931,BEBAS,1,164
+Sabah,N.53 Senallang,Senallang,2,Mohd Amin Bin Abdul Men,18636,PKR,11,1516
+Sabah,N.53 Senallang,Senallang,3,Datuk Nasir Bin Sakaran,18637,BN,25,7425
+Sabah,N.53 Senallang,Senallang,4,Abdul Manang Bin Hatib Lawari @ Osman,18638,BEBAS,1,546
+Sabah,N.53 Senallang,Senallang,5,Ab Karim Bin Talip,18639,BEBAS,1,145
+Sabah,N.54 Bugaya,Bugaya,1,Abdul Hussin Bin Kiamsin,15935,BEBAS,1,3139
+Sabah,N.54 Bugaya,Bugaya,2,Atal Muhammad Bin K.K Abd Menang,18641,BEBAS,1,201
+Sabah,N.54 Bugaya,Bugaya,3,Datuk Ramlee Marahaban,18642,BN,25,6642
+Sabah,N.54 Bugaya,Bugaya,4,Alimin Bin Budin,18643,BEBAS,1,638
+Sabah,N.54 Bugaya,Bugaya,5,Hasai Bin Tudai,18644,PAS,3,702
+Sabah,N.54 Bugaya,Bugaya,6,Abdullah Sani Bin Abdul Salleh,14769,BEBAS,1,191
+Sabah,N.55 Balung,Balung,1,S. Abas Bin S. Ali,9085,BN,25,7843
+Sabah,N.55 Balung,Balung,2,Abd. Hamid Bin Mohd. Noor,18647,SAPP,66,200
+Sabah,N.55 Balung,Balung,3,Ahmad Frank Salazar,18648,PKR,11,2274
+Sabah,N.55 Balung,Balung,4,Abdillah,18649,BEBAS,1,180
+Sabah,N.56 Apas,Apas,1,Tahir Bin Dahu,18650,SAPP,66,149
+Sabah,N.56 Apas,Apas,2,Chok Yit Min,18651,STAR,64,75
+Sabah,N.56 Apas,Apas,3,Alizaman Bin Jijurahman,4359,PKR,11,2891
+Sabah,N.56 Apas,Apas,4,Datuk Tawfiq Abu Bakar Titingan,7970,BN,25,9013
+Sabah,N.57 Sri Tanjong,Sri Tanjong,1,Fung Len Fui,18654,BN,25,5021
+Sabah,N.57 Sri Tanjong,Sri Tanjong,2,Olivia Chong Oi Yun,18655,STAR,64,128
+Sabah,N.57 Sri Tanjong,Sri Tanjong,3,Yong Chong Kim,18656,SAPP,66,260
+Sabah,N.57 Sri Tanjong,Sri Tanjong,4,Chan Foong Hin,3587,DAP,18,10948
+Sabah,N.58 Merotai,Merotai,1,Mohd Bin Manuke,3933,BEBAS,1,342
+Sabah,N.58 Merotai,Merotai,2,Rita Rudiansah Bin Abu Bakar,18659,BEBAS,1,104
+Sabah,N.58 Merotai,Merotai,3,Ho Shau Vui,18660,SAPP,66,221
+Sabah,N.58 Merotai,Merotai,4,Chin Chee Syn,18661,BEBAS,1,1255
+Sabah,N.58 Merotai,Merotai,5,Pang Yuk Ming,17264,BN,25,8045
+Sabah,N.58 Merotai,Merotai,6,Hj Ahmad Dullah,18663,PAS,3,3957
+Sabah,N.59 Tanjong Batu,Tanjong Batu,1,Fatmawaty Mohd Yusuf,18664,PAS,3,3228
+Sabah,N.59 Tanjong Batu,Tanjong Batu,2,Hamisa Binti Samat,18665,BN,25,10858
+Sabah,N.60 Sebatik,Sebatik,1,Mohamad Yusup Bin Lewah,18666,BEBAS,1,249
+Sabah,N.60 Sebatik,Sebatik,2,Daud Bin Jalaluddin,18667,PAS,3,1344
+Sabah,N.60 Sebatik,Sebatik,3,Abd Muis Bin Picho,17270,BN,25,5484
+Sabah,N.60 Sebatik,Sebatik,4,Mohammad Jeffry Bin Rosman,18669,STAR,64,225

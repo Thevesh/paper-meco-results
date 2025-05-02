@@ -1,50 +1,50 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Melaka,N.01 Kuala Linggi,Kuala Linggi,1,Bahari Bin Hasan,11696,BN,3841
-Melaka,N.01 Kuala Linggi,Kuala Linggi,2,Ab. Rahman Bin Hj. Hasan,1544,PAS,774
-Melaka,N.01 Kuala Linggi,Kuala Linggi,3,Md. Ali Bin Bagus,11698,BEBAS,1161
-Melaka,N.02 Sungai Bahru,Sungai Bahru,1,Mohd. Ali Bin Abd. Majid,11699,BN,4365
-Melaka,N.02 Sungai Bahru,Sungai Bahru,2,Mahamed Ramli @ Ramlee Bin Lasim,11700,PAS,865
-Melaka,N.03 Masjid Tanah,Masjid Tanah,1,A. Rahim Bin Tamby Chik,10617,BN,5199
-Melaka,N.03 Masjid Tanah,Masjid Tanah,2,Kassim Bin Yunus,11702,PAS,1047
-Melaka,N.04 Kelemak,Kelemak,1,Mohd. Zin Bin Haji Abd. Ghani,9990,BN,5477
-Melaka,N.04 Kelemak,Kelemak,2,Jalil Bin Mohamad Isa,10616,PAS,885
-Melaka,N.05 Pualau Sebang,Pualau Sebang,1,Ang Kuang Meng,1836,DAP,2075
-Melaka,N.05 Pualau Sebang,Pualau Sebang,2,Poh Ah Tiam,11706,BN,3695
-Melaka,N.06 Kemuning,Kemuning,1,Talip @ Latif Bin Dolah @ Dollah,11707,PAS,987
-Melaka,N.06 Kemuning,Kemuning,2,Ahmad Bin Haji Abdullah,9794,BN,4636
-Melaka,N.07 Tebong,Tebong,1,Arunasalam A/L Narayanan,11709,BN,5211
-Melaka,N.07 Tebong,Tebong,2,Pung Soon Keong,11710,PPPM,125
-Melaka,N.07 Tebong,Tebong,3,Wong Shin Chye,11711,DAP,2068
-Melaka,N.07 Tebong,Tebong,4,Ong Kwee Lan,11712,NASMA,301
-Melaka,N.08 Bukit Asahan,Bukit Asahan,1,Abd. Rahim Bin Mohd.,11713,PAS,1239
-Melaka,N.08 Bukit Asahan,Bukit Asahan,2,Jenah Bt. Sarip,11714,BN,4777
-Melaka,N.09 Ayer Molek,Ayer Molek,1,Hussain Bin Kasim,11715,PAS,2415
-Melaka,N.09 Ayer Molek,Ayer Molek,2,Mohd. Ali Bin Mohd. Rustam,2474,BN,9484
-Melaka,N.10 Krubong,Krubong,1,Tan Tong Chiew,11717,DAP,4845
-Melaka,N.10 Krubong,Krubong,2,Seah Kwi Tong,11718,BN,7208
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,1,"Abd. Rahman B, Daud",11719,PAS,632
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,2,Lim Swee,1546,DAP,2970
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,3,Yasin Bin Hj. Mohd. Sarif,11721,BN,5133
-Melaka,N.12 Sungai Udang,Sungai Udang,1,Ahmad Nordin Bin Md. Amin,9500,BN,7956
-Melaka,N.12 Sungai Udang,Sungai Udang,2,Hassan Bin Md. Dahan,11723,PAS,2895
-Melaka,N.13 Tranquerah,Tranquerah,1,Ng Peng Hong @ Ng Peng Hay,10642,BN,6279
-Melaka,N.13 Tranquerah,Tranquerah,2,Thei Niu Kim,8349,PPPM,104
-Melaka,N.13 Tranquerah,Tranquerah,3,Sim Tong Him,3489,DAP,8267
-Melaka,N.14 Kubu,Kubu,1,Yau Jiok Hua @ Yau Siok Hua,10640,DAP,7744
-Melaka,N.14 Kubu,Kubu,2,Anthony Louis Taye,11728,BN,3077
-Melaka,N.15 Durian Daun,Durian Daun,1,Lai See Liong,8314,BN,3034
-Melaka,N.15 Durian Daun,Durian Daun,2,Kerk Kim Hock,2076,DAP,7842
-Melaka,N.15 Durian Daun,Durian Daun,3,Low Kim Seng,11731,PPPM,111
-Melaka,N.15 Durian Daun,Durian Daun,4,Yong Wee Yook @ Yong Wee Ngok,10646,BEBAS,215
-Melaka,N.16 Bandar Hilir,Bandar Hilir,1,Ang Kwee Teng,10633,DAP,5840
-Melaka,N.16 Bandar Hilir,Bandar Hilir,2,Gan Boon Leong,8360,BN,7870
-Melaka,N.16 Bandar Hilir,Bandar Hilir,3,Jaliluddin Bin Hj. Abd. Wahid,1261,PAS,998
-Melaka,N.16 Bandar Hilir,Bandar Hilir,4,Rosnah Binti Kamarudin,10641,BEBAS,77
-Melaka,N.17 Serkam,Serkam,1,Arifin Bin Baba,11737,BN,6476
-Melaka,N.17 Serkam,Serkam,2,A. Hamid Bin Samad,11738,PAS,2523
-Melaka,N.18 Ayer Panas,Ayer Panas,1,Abu Bakar Bin Saamin,11739,PAS,1975
-Melaka,N.18 Ayer Panas,Ayer Panas,2,Lim Ah Kow @ Lim Soo Kiang,10622,BN,5539
-Melaka,N.19 Rim,Rim,1,Tompang Bin Saadan,10626,PAS,797
-Melaka,N.19 Rim,Rim,2,Jaafar Bin Lajis,11742,BN,3732
-Melaka,N.20 Sungai Rambai,Sungai Rambai,1,Rahimi Bin Bani,1841,PAS,1729
-Melaka,N.20 Sungai Rambai,Sungai Rambai,2,Abu Zahar Bin Isnin,11744,BN,4168
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Melaka,N.01 Kuala Linggi,Kuala Linggi,1,Bahari Bin Hasan,11696,BN,25,3841
+Melaka,N.01 Kuala Linggi,Kuala Linggi,2,Ab. Rahman Bin Hj. Hasan,1544,PAS,3,774
+Melaka,N.01 Kuala Linggi,Kuala Linggi,3,Md. Ali Bin Bagus,11698,BEBAS,1,1161
+Melaka,N.02 Sungai Bahru,Sungai Bahru,1,Mohd. Ali Bin Abd. Majid,11699,BN,25,4365
+Melaka,N.02 Sungai Bahru,Sungai Bahru,2,Mahamed Ramli @ Ramlee Bin Lasim,11700,PAS,3,865
+Melaka,N.03 Masjid Tanah,Masjid Tanah,1,A. Rahim Bin Tamby Chik,10617,BN,25,5199
+Melaka,N.03 Masjid Tanah,Masjid Tanah,2,Kassim Bin Yunus,11702,PAS,3,1047
+Melaka,N.04 Kelemak,Kelemak,1,Mohd. Zin Bin Haji Abd. Ghani,9990,BN,25,5477
+Melaka,N.04 Kelemak,Kelemak,2,Jalil Bin Mohamad Isa,10616,PAS,3,885
+Melaka,N.05 Pualau Sebang,Pualau Sebang,1,Ang Kuang Meng,1836,DAP,18,2075
+Melaka,N.05 Pualau Sebang,Pualau Sebang,2,Poh Ah Tiam,11706,BN,25,3695
+Melaka,N.06 Kemuning,Kemuning,1,Talip @ Latif Bin Dolah @ Dollah,11707,PAS,3,987
+Melaka,N.06 Kemuning,Kemuning,2,Ahmad Bin Haji Abdullah,9794,BN,25,4636
+Melaka,N.07 Tebong,Tebong,1,Arunasalam A/L Narayanan,11709,BN,25,5211
+Melaka,N.07 Tebong,Tebong,2,Pung Soon Keong,11710,PPPM,46,125
+Melaka,N.07 Tebong,Tebong,3,Wong Shin Chye,11711,DAP,18,2068
+Melaka,N.07 Tebong,Tebong,4,Ong Kwee Lan,11712,NASMA,52,301
+Melaka,N.08 Bukit Asahan,Bukit Asahan,1,Abd. Rahim Bin Mohd.,11713,PAS,3,1239
+Melaka,N.08 Bukit Asahan,Bukit Asahan,2,Jenah Bt. Sarip,11714,BN,25,4777
+Melaka,N.09 Ayer Molek,Ayer Molek,1,Hussain Bin Kasim,11715,PAS,3,2415
+Melaka,N.09 Ayer Molek,Ayer Molek,2,Mohd. Ali Bin Mohd. Rustam,2474,BN,25,9484
+Melaka,N.10 Krubong,Krubong,1,Tan Tong Chiew,11717,DAP,18,4845
+Melaka,N.10 Krubong,Krubong,2,Seah Kwi Tong,11718,BN,25,7208
+Melaka,N.11 Tanjong Minyak,Tanjong Minyak,1,"Abd. Rahman B, Daud",11719,PAS,3,632
+Melaka,N.11 Tanjong Minyak,Tanjong Minyak,2,Lim Swee,1546,DAP,18,2970
+Melaka,N.11 Tanjong Minyak,Tanjong Minyak,3,Yasin Bin Hj. Mohd. Sarif,11721,BN,25,5133
+Melaka,N.12 Sungai Udang,Sungai Udang,1,Ahmad Nordin Bin Md. Amin,9500,BN,25,7956
+Melaka,N.12 Sungai Udang,Sungai Udang,2,Hassan Bin Md. Dahan,11723,PAS,3,2895
+Melaka,N.13 Tranquerah,Tranquerah,1,Ng Peng Hong @ Ng Peng Hay,10642,BN,25,6279
+Melaka,N.13 Tranquerah,Tranquerah,2,Thei Niu Kim,8349,PPPM,46,104
+Melaka,N.13 Tranquerah,Tranquerah,3,Sim Tong Him,3489,DAP,18,8267
+Melaka,N.14 Kubu,Kubu,1,Yau Jiok Hua @ Yau Siok Hua,10640,DAP,18,7744
+Melaka,N.14 Kubu,Kubu,2,Anthony Louis Taye,11728,BN,25,3077
+Melaka,N.15 Durian Daun,Durian Daun,1,Lai See Liong,8314,BN,25,3034
+Melaka,N.15 Durian Daun,Durian Daun,2,Kerk Kim Hock,2076,DAP,18,7842
+Melaka,N.15 Durian Daun,Durian Daun,3,Low Kim Seng,11731,PPPM,46,111
+Melaka,N.15 Durian Daun,Durian Daun,4,Yong Wee Yook @ Yong Wee Ngok,10646,BEBAS,1,215
+Melaka,N.16 Bandar Hilir,Bandar Hilir,1,Ang Kwee Teng,10633,DAP,18,5840
+Melaka,N.16 Bandar Hilir,Bandar Hilir,2,Gan Boon Leong,8360,BN,25,7870
+Melaka,N.16 Bandar Hilir,Bandar Hilir,3,Jaliluddin Bin Hj. Abd. Wahid,1261,PAS,3,998
+Melaka,N.16 Bandar Hilir,Bandar Hilir,4,Rosnah Binti Kamarudin,10641,BEBAS,1,77
+Melaka,N.17 Serkam,Serkam,1,Arifin Bin Baba,11737,BN,25,6476
+Melaka,N.17 Serkam,Serkam,2,A. Hamid Bin Samad,11738,PAS,3,2523
+Melaka,N.18 Ayer Panas,Ayer Panas,1,Abu Bakar Bin Saamin,11739,PAS,3,1975
+Melaka,N.18 Ayer Panas,Ayer Panas,2,Lim Ah Kow @ Lim Soo Kiang,10622,BN,25,5539
+Melaka,N.19 Rim,Rim,1,Tompang Bin Saadan,10626,PAS,3,797
+Melaka,N.19 Rim,Rim,2,Jaafar Bin Lajis,11742,BN,25,3732
+Melaka,N.20 Sungai Rambai,Sungai Rambai,1,Rahimi Bin Bani,1841,PAS,3,1729
+Melaka,N.20 Sungai Rambai,Sungai Rambai,2,Abu Zahar Bin Isnin,11744,BN,25,4168

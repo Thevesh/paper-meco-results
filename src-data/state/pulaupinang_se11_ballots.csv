@@ -1,85 +1,85 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,votes
-Pulau Pinang,N.01 Penaga,Penaga,1,Azhar Bin Ibrahim,13065,BN,6707
-Pulau Pinang,N.01 Penaga,Penaga,2,Subri Bin Md Arshad,16654,PAS,4462
-Pulau Pinang,N.02 Bertam,Bertam,1,Hilmi Bin Hj Abdul Rashid,14214,BN,7615
-Pulau Pinang,N.02 Bertam,Bertam,2,Mahamad Bin Hashim,16656,PKR,2350
-Pulau Pinang,N.03 Pinang Tunggal,Pinang Tunggal,1,Roslan Bin Saidin,16657,BN,8941
-Pulau Pinang,N.03 Pinang Tunggal,Pinang Tunggal,2,Mohd Salleh Bin Man,2350,PAS,2653
-Pulau Pinang,N.04 Permatang Berangan,Permatang Berangan,1,Shabudin Bin Yahaya,16659,BN,7791
-Pulau Pinang,N.04 Permatang Berangan,Permatang Berangan,2,Ab Rahman Bin Salleh,16660,PAS,3881
-Pulau Pinang,N.05 Sungai Dua,Sungai Dua,1,Soid Bin Mohd. Amin,16661,PAS,4631
-Pulau Pinang,N.05 Sungai Dua,Sungai Dua,2,Jasmin Bin Mohamed,14220,BN,7183
-Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,1,Johari Bin Kassim,15449,PKR,3197
-Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,2,Jahara Binti Hamid,16664,BN,7181
-Pulau Pinang,N.07 Sungai Puyu,Sungai Puyu,1,Phee Boon Poh,10809,DAP,7808
-Pulau Pinang,N.07 Sungai Puyu,Sungai Puyu,2,Loo Ah Dee @ Lee Ah Lee,14223,BN,7201
-Pulau Pinang,N.08 Bagan Jermal,Bagan Jermal,1,Ngu Lek Wah,16667,DAP,6085
-Pulau Pinang,N.08 Bagan Jermal,Bagan Jermal,2,Ooi Chuan Aik,16668,BN,9422
-Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,1,Lim Hock Seng,2044,DAP,4720
-Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,2,Subbaiyah A/L Palaniappan,16670,BN,6687
-Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,3,Abdul Razak Bin Abdul Hamid,14243,PKR,758
-Pulau Pinang,N.10 Seberang Jaya,Seberang Jaya,1,Arif Shah Bin Omar Shah,16672,BN,10113
-Pulau Pinang,N.10 Seberang Jaya,Seberang Jaya,2,Mansor Bin Othman,1253,PKR,5649
-Pulau Pinang,N.11 Permatang Pasir,Permatang Pasir,1,Md Isa Bin Haji Ramli,10818,BN,7378
-Pulau Pinang,N.11 Permatang Pasir,Permatang Pasir,2,Mohd.Hamdan Bin Abd. Rahman,11891,PAS,8057
-Pulau Pinang,N.12 Penanti,Penanti,1,Anuar Bin Shaari,16676,PKR,5528
-Pulau Pinang,N.12 Penanti,Penanti,2,Abdul Jalil Bin Abdul Majid,16677,BN,6195
-Pulau Pinang,N.13 Berapit,Berapit,1,Tan Khong Chong,16678,DAP,5233
-Pulau Pinang,N.13 Berapit,Berapit,2,Lau Chiek Tuan,14236,BN,9199
-Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,1,Toh Kin Woon,14238,BN,10410
-Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,2,Lim Boon Tong,15410,PKR,4755
-Pulau Pinang,N.15 Padang Lalang,Padang Lalang,1,Tan Teik Cheng,16682,BN,7567
-Pulau Pinang,N.15 Padang Lalang,Padang Lalang,2,Tan Kim Hooi,16683,DAP,7032
-Pulau Pinang,N.16 Perai,Perai,1,Rajapathy A/L Kuppusamy,14228,BN,5060
-Pulau Pinang,N.16 Perai,Perai,2,Chong Eng,2661,DAP,4477
-Pulau Pinang,N.17 Bukit Tengah,Bukit Tengah,1,Law Choo Kiang,2995,PKR,3090
-Pulau Pinang,N.17 Bukit Tengah,Bukit Tengah,2,Ng Siew Lai,4075,BN,7116
-Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,1,Goh Kheng Huat,2664,PKR,4992
-Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,2,Ng Yeow Chong,16689,DAP,1097
-Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,3,Lai Chew Hock,15414,BN,6030
-Pulau Pinang,N.19 Jawi,Jawi,1,Tan Cheng Liang,14245,BN,8733
-Pulau Pinang,N.19 Jawi,Jawi,2,Ganesh A/L Kailasam,16692,BEBAS,710
-Pulau Pinang,N.19 Jawi,Jawi,3,Teoh Seang Hooi,15416,DAP,4007
-Pulau Pinang,N.20 Sungai Bakap,Sungai Bakap,1,Maktar Bin Hj Shapee,16694,PKR,3697
-Pulau Pinang,N.20 Sungai Bakap,Sungai Bakap,2,Abd. Rashid Bin Abdullah,14246,BN,5693
-Pulau Pinang,N.21 Sungai Acheh,Sungai Acheh,1,Mohd Foad Bin Hj Mat Isa,16696,BN,5949
-Pulau Pinang,N.21 Sungai Acheh,Sungai Acheh,2,Ismail Bin Salleh,3637,PAS,2756
-Pulau Pinang,N.22 Tanjong Bunga,Tanjong Bunga,1,Lim Cheng Hoe,7551,DAP,2761
-Pulau Pinang,N.22 Tanjong Bunga,Tanjong Bunga,2,Koh Tsu Koon,1725,BN,8985
-Pulau Pinang,N.23 Air Putih,Air Putih,1,Teh Yee Cheu,4597,DAP,3793
-Pulau Pinang,N.23 Air Putih,Air Putih,2,Lye Siew Weng,14250,BN,4811
-Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,1,Quah Kooi Heng,16702,BN,8285
-Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,2,Lau Keng Ee,16703,DAP,5087
-Pulau Pinang,N.25 Pulau Tikus,Pulau Tikus,1,Teng Hock Nam,11934,BN,8613
-Pulau Pinang,N.25 Pulau Tikus,Pulau Tikus,2,Ong Khan Lee,16705,PKR,2507
-Pulau Pinang,N.26 Padang Kota,Padang Kota,1,Chow Kon Yeow,2665,DAP,4584
-Pulau Pinang,N.26 Padang Kota,Padang Kota,2,Teng Chang Yew,16707,BN,6838
-Pulau Pinang,N.27 Pengkalan Kota,Pengkalan Kota,1,Lee Hack Teik,14258,BN,9067
-Pulau Pinang,N.27 Pengkalan Kota,Pengkalan Kota,2,Lai Hon Meng,15428,DAP,6139
-Pulau Pinang,N.28 Komtar,Komtar,1,Lim Gim Soon,14261,BN,7732
-Pulau Pinang,N.28 Komtar,Komtar,2,Teh Lai Heng,16711,DAP,4732
-Pulau Pinang,N.29 Datok Keramat,Datok Keramat,1,Ong Thean Lye,16712,BN,9462
-Pulau Pinang,N.29 Datok Keramat,Datok Keramat,2,Koid Teng Guan,16713,DAP,4407
-Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,1,Tham Weng Fatt,16714,DAP,4127
-Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,2,Looi Swee Cheang,15434,BN,8634
-Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,3,Jimmy Gay Choon Hee,16716,PKR,843
-Pulau Pinang,N.31 Batu Lancang,Batu Lancang,1,Law Heng Kiang,15437,DAP,7467
-Pulau Pinang,N.31 Batu Lancang,Batu Lancang,2,Ng Fook On,3710,BN,7606
-Pulau Pinang,N.32 Seri Delima,Seri Delima,1,Tan Hun Wooi,16719,DAP,4569
-Pulau Pinang,N.32 Seri Delima,Seri Delima,2,Dato' Koay Kar Huah,16720,BN,9489
-Pulau Pinang,N.33 Air Itam,Air Itam,1,Cheang Chee Gooi,2666,BN,7225
-Pulau Pinang,N.33 Air Itam,Air Itam,2,Koay Teng Hai,16722,DAP,4401
-Pulau Pinang,N.34 Paya Terubong,Paya Terubong,1,Loh Hock Hun,11938,BN,9772
-Pulau Pinang,N.34 Paya Terubong,Paya Terubong,2,Yeoh Soon Hin,16724,DAP,8380
-Pulau Pinang,N.35 Batu Uban,Batu Uban,1,Ong Ping Cheow,3000,PKR,3070
-Pulau Pinang,N.35 Batu Uban,Batu Uban,2,Goh Kheng Sneah,16726,BN,10504
-Pulau Pinang,N.36 Pantai Jerejak,Pantai Jerejak,1,Syed Mohamad Nazli Bin Sved Ahmad,16727,PKR,3021
-Pulau Pinang,N.36 Pantai Jerejak,Pantai Jerejak,2,Wong Mun Hoe,16728,BN,8904
-Pulau Pinang,N.37 Batu Maung,Batu Maung,1,Mansor Bin Musa,16729,BN,10386
-Pulau Pinang,N.37 Batu Maung,Batu Maung,2,Lim Eng Nam,16730,PKR,4298
-Pulau Pinang,N.38 Bayan Lepas,Bayan Lepas,1,Amizudin Bin Ahmat,16731,PKR,3283
-Pulau Pinang,N.38 Bayan Lepas,Bayan Lepas,2,Syed Amerruddin Bin Syed Ahmad,14283,BN,8654
-Pulau Pinang,N.39 Pulau Betong,Pulau Betong,1,Muhamad Farid Bin Saad,16733,BN,6586
-Pulau Pinang,N.39 Pulau Betong,Pulau Betong,2,Zainuddin Bin Haniff,16734,PKR,2622
-Pulau Pinang,N.40 Telok Bahang,Telok Bahang,1,Abdul Aziz Bin Ismail,5879,PAS,2422
-Pulau Pinang,N.40 Telok Bahang,Telok Bahang,2,Siti Faridah Binti Arshad,16736,BN,5797
+state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
+Pulau Pinang,N.01 Penaga,Penaga,1,Azhar Bin Ibrahim,13065,BN,25,6707
+Pulau Pinang,N.01 Penaga,Penaga,2,Subri Bin Md Arshad,16654,PAS,3,4462
+Pulau Pinang,N.02 Bertam,Bertam,1,Hilmi Bin Hj Abdul Rashid,14214,BN,25,7615
+Pulau Pinang,N.02 Bertam,Bertam,2,Mahamad Bin Hashim,16656,PKR,11,2350
+Pulau Pinang,N.03 Pinang Tunggal,Pinang Tunggal,1,Roslan Bin Saidin,16657,BN,25,8941
+Pulau Pinang,N.03 Pinang Tunggal,Pinang Tunggal,2,Mohd Salleh Bin Man,2350,PAS,3,2653
+Pulau Pinang,N.04 Permatang Berangan,Permatang Berangan,1,Shabudin Bin Yahaya,16659,BN,25,7791
+Pulau Pinang,N.04 Permatang Berangan,Permatang Berangan,2,Ab Rahman Bin Salleh,16660,PAS,3,3881
+Pulau Pinang,N.05 Sungai Dua,Sungai Dua,1,Soid Bin Mohd. Amin,16661,PAS,3,4631
+Pulau Pinang,N.05 Sungai Dua,Sungai Dua,2,Jasmin Bin Mohamed,14220,BN,25,7183
+Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,1,Johari Bin Kassim,15449,PKR,11,3197
+Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,2,Jahara Binti Hamid,16664,BN,25,7181
+Pulau Pinang,N.07 Sungai Puyu,Sungai Puyu,1,Phee Boon Poh,10809,DAP,18,7808
+Pulau Pinang,N.07 Sungai Puyu,Sungai Puyu,2,Loo Ah Dee @ Lee Ah Lee,14223,BN,25,7201
+Pulau Pinang,N.08 Bagan Jermal,Bagan Jermal,1,Ngu Lek Wah,16667,DAP,18,6085
+Pulau Pinang,N.08 Bagan Jermal,Bagan Jermal,2,Ooi Chuan Aik,16668,BN,25,9422
+Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,1,Lim Hock Seng,2044,DAP,18,4720
+Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,2,Subbaiyah A/L Palaniappan,16670,BN,25,6687
+Pulau Pinang,N.09 Bagan Dalam,Bagan Dalam,3,Abdul Razak Bin Abdul Hamid,14243,PKR,11,758
+Pulau Pinang,N.10 Seberang Jaya,Seberang Jaya,1,Arif Shah Bin Omar Shah,16672,BN,25,10113
+Pulau Pinang,N.10 Seberang Jaya,Seberang Jaya,2,Mansor Bin Othman,1253,PKR,11,5649
+Pulau Pinang,N.11 Permatang Pasir,Permatang Pasir,1,Md Isa Bin Haji Ramli,10818,BN,25,7378
+Pulau Pinang,N.11 Permatang Pasir,Permatang Pasir,2,Mohd.Hamdan Bin Abd. Rahman,11891,PAS,3,8057
+Pulau Pinang,N.12 Penanti,Penanti,1,Anuar Bin Shaari,16676,PKR,11,5528
+Pulau Pinang,N.12 Penanti,Penanti,2,Abdul Jalil Bin Abdul Majid,16677,BN,25,6195
+Pulau Pinang,N.13 Berapit,Berapit,1,Tan Khong Chong,16678,DAP,18,5233
+Pulau Pinang,N.13 Berapit,Berapit,2,Lau Chiek Tuan,14236,BN,25,9199
+Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,1,Toh Kin Woon,14238,BN,25,10410
+Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,2,Lim Boon Tong,15410,PKR,11,4755
+Pulau Pinang,N.15 Padang Lalang,Padang Lalang,1,Tan Teik Cheng,16682,BN,25,7567
+Pulau Pinang,N.15 Padang Lalang,Padang Lalang,2,Tan Kim Hooi,16683,DAP,18,7032
+Pulau Pinang,N.16 Perai,Perai,1,Rajapathy A/L Kuppusamy,14228,BN,25,5060
+Pulau Pinang,N.16 Perai,Perai,2,Chong Eng,2661,DAP,18,4477
+Pulau Pinang,N.17 Bukit Tengah,Bukit Tengah,1,Law Choo Kiang,2995,PKR,11,3090
+Pulau Pinang,N.17 Bukit Tengah,Bukit Tengah,2,Ng Siew Lai,4075,BN,25,7116
+Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,1,Goh Kheng Huat,2664,PKR,11,4992
+Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,2,Ng Yeow Chong,16689,DAP,18,1097
+Pulau Pinang,N.18 Bukit Tambun,Bukit Tambun,3,Lai Chew Hock,15414,BN,25,6030
+Pulau Pinang,N.19 Jawi,Jawi,1,Tan Cheng Liang,14245,BN,25,8733
+Pulau Pinang,N.19 Jawi,Jawi,2,Ganesh A/L Kailasam,16692,BEBAS,1,710
+Pulau Pinang,N.19 Jawi,Jawi,3,Teoh Seang Hooi,15416,DAP,18,4007
+Pulau Pinang,N.20 Sungai Bakap,Sungai Bakap,1,Maktar Bin Hj Shapee,16694,PKR,11,3697
+Pulau Pinang,N.20 Sungai Bakap,Sungai Bakap,2,Abd. Rashid Bin Abdullah,14246,BN,25,5693
+Pulau Pinang,N.21 Sungai Acheh,Sungai Acheh,1,Mohd Foad Bin Hj Mat Isa,16696,BN,25,5949
+Pulau Pinang,N.21 Sungai Acheh,Sungai Acheh,2,Ismail Bin Salleh,3637,PAS,3,2756
+Pulau Pinang,N.22 Tanjong Bunga,Tanjong Bunga,1,Lim Cheng Hoe,7551,DAP,18,2761
+Pulau Pinang,N.22 Tanjong Bunga,Tanjong Bunga,2,Koh Tsu Koon,1725,BN,25,8985
+Pulau Pinang,N.23 Air Putih,Air Putih,1,Teh Yee Cheu,4597,DAP,18,3793
+Pulau Pinang,N.23 Air Putih,Air Putih,2,Lye Siew Weng,14250,BN,25,4811
+Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,1,Quah Kooi Heng,16702,BN,25,8285
+Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,2,Lau Keng Ee,16703,DAP,18,5087
+Pulau Pinang,N.25 Pulau Tikus,Pulau Tikus,1,Teng Hock Nam,11934,BN,25,8613
+Pulau Pinang,N.25 Pulau Tikus,Pulau Tikus,2,Ong Khan Lee,16705,PKR,11,2507
+Pulau Pinang,N.26 Padang Kota,Padang Kota,1,Chow Kon Yeow,2665,DAP,18,4584
+Pulau Pinang,N.26 Padang Kota,Padang Kota,2,Teng Chang Yew,16707,BN,25,6838
+Pulau Pinang,N.27 Pengkalan Kota,Pengkalan Kota,1,Lee Hack Teik,14258,BN,25,9067
+Pulau Pinang,N.27 Pengkalan Kota,Pengkalan Kota,2,Lai Hon Meng,15428,DAP,18,6139
+Pulau Pinang,N.28 Komtar,Komtar,1,Lim Gim Soon,14261,BN,25,7732
+Pulau Pinang,N.28 Komtar,Komtar,2,Teh Lai Heng,16711,DAP,18,4732
+Pulau Pinang,N.29 Datok Keramat,Datok Keramat,1,Ong Thean Lye,16712,BN,25,9462
+Pulau Pinang,N.29 Datok Keramat,Datok Keramat,2,Koid Teng Guan,16713,DAP,18,4407
+Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,1,Tham Weng Fatt,16714,DAP,18,4127
+Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,2,Looi Swee Cheang,15434,BN,25,8634
+Pulau Pinang,N.30 Sungai Pinang,Sungai Pinang,3,Jimmy Gay Choon Hee,16716,PKR,11,843
+Pulau Pinang,N.31 Batu Lancang,Batu Lancang,1,Law Heng Kiang,15437,DAP,18,7467
+Pulau Pinang,N.31 Batu Lancang,Batu Lancang,2,Ng Fook On,3710,BN,25,7606
+Pulau Pinang,N.32 Seri Delima,Seri Delima,1,Tan Hun Wooi,16719,DAP,18,4569
+Pulau Pinang,N.32 Seri Delima,Seri Delima,2,Dato' Koay Kar Huah,16720,BN,25,9489
+Pulau Pinang,N.33 Air Itam,Air Itam,1,Cheang Chee Gooi,2666,BN,25,7225
+Pulau Pinang,N.33 Air Itam,Air Itam,2,Koay Teng Hai,16722,DAP,18,4401
+Pulau Pinang,N.34 Paya Terubong,Paya Terubong,1,Loh Hock Hun,11938,BN,25,9772
+Pulau Pinang,N.34 Paya Terubong,Paya Terubong,2,Yeoh Soon Hin,16724,DAP,18,8380
+Pulau Pinang,N.35 Batu Uban,Batu Uban,1,Ong Ping Cheow,3000,PKR,11,3070
+Pulau Pinang,N.35 Batu Uban,Batu Uban,2,Goh Kheng Sneah,16726,BN,25,10504
+Pulau Pinang,N.36 Pantai Jerejak,Pantai Jerejak,1,Syed Mohamad Nazli Bin Sved Ahmad,16727,PKR,11,3021
+Pulau Pinang,N.36 Pantai Jerejak,Pantai Jerejak,2,Wong Mun Hoe,16728,BN,25,8904
+Pulau Pinang,N.37 Batu Maung,Batu Maung,1,Mansor Bin Musa,16729,BN,25,10386
+Pulau Pinang,N.37 Batu Maung,Batu Maung,2,Lim Eng Nam,16730,PKR,11,4298
+Pulau Pinang,N.38 Bayan Lepas,Bayan Lepas,1,Amizudin Bin Ahmat,16731,PKR,11,3283
+Pulau Pinang,N.38 Bayan Lepas,Bayan Lepas,2,Syed Amerruddin Bin Syed Ahmad,14283,BN,25,8654
+Pulau Pinang,N.39 Pulau Betong,Pulau Betong,1,Muhamad Farid Bin Saad,16733,BN,25,6586
+Pulau Pinang,N.39 Pulau Betong,Pulau Betong,2,Zainuddin Bin Haniff,16734,PKR,11,2622
+Pulau Pinang,N.40 Telok Bahang,Telok Bahang,1,Abdul Aziz Bin Ismail,5879,PAS,3,2422
+Pulau Pinang,N.40 Telok Bahang,Telok Bahang,2,Siti Faridah Binti Arshad,16736,BN,25,5797
