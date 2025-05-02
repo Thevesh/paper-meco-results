@@ -1264,7 +1264,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2013-05-05,SE-13,Kedah,N.02 Kuah,Kuah,3,Dato' Hj. Ahmad Bin Kasim,19143,PKR,3892,27.270179372197312,lost
 2013-05-05,SE-13,Kedah,N.03 Kota Siputeh,Kota Siputeh,1,Dato' Abu Hasan Bin Sarif,19144,BN,10777,55.79312487057362,won
 2013-05-05,SE-13,Kedah,N.03 Kota Siputeh,Kota Siputeh,2,Ismail Bin W.Teh @ Jaziz,19145,PAS,8539,44.20687512942638,lost
-2013-05-05,SE-13,Kedah,N.04 Ayer Hitam,Ayer Hitam,1,Dato' Paduka Hj Mukhriz Tun Mahathir,19146,BN,14083,54.75505443234837,won
+2013-05-05,SE-13,Kedah,N.04 Ayer Hitam,Ayer Hitam,1,Dato' Paduka Hj Mukhriz Tun Mahathir,3288,BN,14083,54.75505443234837,won
 2013-05-05,SE-13,Kedah,N.04 Ayer Hitam,Ayer Hitam,2,Ustaz Abd. Ghani Bin Ahmad,19147,PAS,11637,45.244945567651634,lost
 2013-05-05,SE-13,Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,1,Ahmad Zaini Bin Japar,19148,BN,16454,65.72398641901339,won
 2013-05-05,SE-13,Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,2,Haji Nasrul Omar,19149,PKR,8581,34.27601358098662,lost
@@ -1372,7 +1372,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2018-05-09,SE-14,Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,2,Hajah Halimaton Shaadiah Binti Saad,20500,PKR,11027,41.72310719285633,won
 2018-05-09,SE-14,Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,3,Dato' Haji Ahmad Zaini Japar,20501,BN,8874,33.576752809413904,lost
 2018-05-09,SE-14,Kedah,N.06 Jitra,Jitra,1,Zulhazmi Bin Osman,20502,PAS,7064,20.826085674695598,lost
-2018-05-09,SE-14,Kedah,N.06 Jitra,Jitra,2,Dato' Seri Hj Mukhriz Tun Mahathir,20503,PKR,18852,55.57946873433769,won
+2018-05-09,SE-14,Kedah,N.06 Jitra,Jitra,2,Dato' Seri Hj Mukhriz Tun Mahathir,3288,PKR,18852,55.57946873433769,won
 2018-05-09,SE-14,Kedah,N.06 Jitra,Jitra,3,Dato' Aminuddin Bin Omar (Pak Tam),20504,BN,8003,23.594445590966714,lost
 2018-05-09,SE-14,Kedah,N.07 Kuala Nerang,Kuala Nerang,1,Hj. Munir Bin Hj. Zakaria,16287,PAS,9118,45.60596208673036,won
 2018-05-09,SE-14,Kedah,N.07 Kuala Nerang,Kuala Nerang,2,Pak Tuan Syed Fadzil,20506,PKR,3376,16.885910068523984,lost
@@ -9998,7 +9998,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2023-08-12,SE-15,Selangor,N.24 Semenyih,Semenyih,2,Nushi Mahfodz,21520,PN,37068,50.86587809095151,won
 2023-08-12,SE-15,Selangor,N.25 Kajang,Kajang,1,David Cheong,4923,PH,54794,70.36147672552167,won
 2023-08-12,SE-15,Selangor,N.25 Kajang,Kajang,2,Allan Liew Sin Kim,23236,PN,20400,26.195826645264848,lost
-2023-08-12,SE-15,Selangor,N.25 Kajang,Kajang,3,Arul,19511,BARU) (PSM,2681,3.4426966292134833,lost_deposit
+2023-08-12,SE-15,Selangor,N.25 Kajang,Kajang,3,Arul,19511,PSM,2681,3.4426966292134833,lost_deposit
 2023-08-12,SE-15,Selangor,N.26 Sungai Ramal,Sungai Ramal,1,Shafie Ngah,4179,PN,40259,55.338070954351146,won
 2023-08-12,SE-15,Selangor,N.26 Sungai Ramal,Sungai Ramal,2,Haji Mazwan Johar,21518,PH,32492,44.661929045648854,lost
 2023-08-12,SE-15,Selangor,N.27 Balakong,Balakong,1,Wayne Ong Chun Wei,23240,PH,54995,76.21469552925525,won
@@ -10035,7 +10035,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2023-08-12,SE-15,Selangor,N.38 Paya Jaras,Paya Jaras,3,Sifu Linda,4825,BEBAS,245,0.45868983206335534,lost_deposit
 2023-08-12,SE-15,Selangor,N.39 Kota Damansara,Kota Damansara,1,Izuan Kasim,23272,PH,34628,53.7226367966241,won
 2023-08-12,SE-15,Selangor,N.39 Kota Damansara,Kota Damansara,2,Radzlan Jalaludin,23273,PN,28934,44.88884062243046,lost
-2023-08-12,SE-15,Selangor,N.39 Kota Damansara,Kota Damansara,3,Sivarajan,21558,BARU) (PSM,895,1.3885225809454367,lost_deposit
+2023-08-12,SE-15,Selangor,N.39 Kota Damansara,Kota Damansara,3,Sivarajan,21558,PSM,895,1.3885225809454367,lost_deposit
 2023-08-12,SE-15,Selangor,N.40 Kota Anggerik,Kota Anggerik,1,Sukri Omar,4173,PN,27636,40.205420661361416,lost
 2023-08-12,SE-15,Selangor,N.40 Kota Anggerik,Kota Anggerik,2,Najwan Halimi,21560,PH,38470,55.96694647715205,won
 2023-08-12,SE-15,Selangor,N.40 Kota Anggerik,Kota Anggerik,3,Azad Akbar,20653,MUDA,2631,3.827632861486536,lost_deposit
@@ -10043,7 +10043,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2023-08-12,SE-15,Selangor,N.41 Batu Tiga,Batu Tiga,2,Danial Al-Rashid,23279,PH,29064,51.30087902001625,won
 2023-08-12,SE-15,Selangor,N.41 Batu Tiga,Batu Tiga,3,Rina Harun,4215,PN,25682,45.3313093515021,lost
 2023-08-12,SE-15,Selangor,N.42 Meru,Meru,1,Hasnizam Adham,23281,PN,23558,45.799716157629724,lost
-2023-08-12,SE-15,Selangor,N.42 Meru,Meru,2,Sivaranjani,23282,BARU) (PSM,899,1.7477691156171629,lost_deposit
+2023-08-12,SE-15,Selangor,N.42 Meru,Meru,2,Sivaranjani,23282,PSM,899,1.7477691156171629,lost_deposit
 2023-08-12,SE-15,Selangor,N.42 Meru,Meru,3,Mariam Abdul Rashid,23283,PH,26980,52.45251472675312,won
 2023-08-12,SE-15,Selangor,N.43 Sementa,Sementa,1,Afrishah Azizi,23284,PH,22261,40.800205274830006,lost
 2023-08-12,SE-15,Selangor,N.43 Sementa,Sementa,2,Ustaz Najhan Salleh,15668,PN,32300,59.199794725169994,won
@@ -10077,7 +10077,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,votes,v
 2023-08-12,SE-15,Selangor,N.53 Morib,Morib,2,Hj Hasnul Baharuddin,19993,PH,15093,44.35334567574716,lost
 2023-08-12,SE-15,Selangor,N.54 Tanjong Sepat,Tanjong Sepat,1,Sabirin Bin Marsono,4203,PN,11336,44.99126845531037,lost
 2023-08-12,SE-15,Selangor,N.54 Tanjong Sepat,Tanjong Sepat,2,Borhan Bin Aman Shah,334,PH,13860,55.00873154468964,won
-2023-08-12,SE-15,Selangor,N.55 Dengkil,Dengkil,1,Prof Darren Ong,23316,BARU) (PSM,1782,2.5751817222792237,lost_deposit
+2023-08-12,SE-15,Selangor,N.55 Dengkil,Dengkil,1,Prof Darren Ong,23316,PSM,1782,2.5751817222792237,lost_deposit
 2023-08-12,SE-15,Selangor,N.55 Dengkil,Dengkil,2,Noorazli Bin Said,23317,BN,33184,47.954450208818045,lost
 2023-08-12,SE-15,Selangor,N.55 Dengkil,Dengkil,3,Mohd Daud Leong,4860,PUR,668,0.9653318689576439,lost_deposit
 2023-08-12,SE-15,Selangor,N.55 Dengkil,Dengkil,4,Datuk Seri Jamil Salleh,23319,PN,33565,48.50503619994508,won
