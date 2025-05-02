@@ -124,7 +124,7 @@ Perak,P.045 Kuala Kangsar,Kuala Kangsar,3,A. Zawawi,455,PAS,3,5139
 Perak,P.045 Kuala Kangsar,Kuala Kangsar,4,Syed Osman Jamalullail,456,PDB,13,725
 Perak,P.045 Kuala Kangsar,Kuala Kangsar,5,Haji Fathil Bin Haji Khalid,457,BEBAS,1,3028
 Perak,P.046 Sungei Siput,Sungei Siput,1,Dato' V. T. Sambanthan,458,PERIKATAN,2,9855
-Perak,P.046 Sungei Siput,Sungei Siput,2,Ramaih S/O Virappan,459,PKR,11,3922
+Perak,P.046 Sungei Siput,Sungei Siput,2,Ramaih S/O Virappan,459,PKR,100,3922
 Perak,P.047 Parit,Parit,1,Haji Mohamed Bin Hj. Sulaiman,460,BEBAS,1,920
 Perak,P.047 Parit,Parit,2,Hussein Bin Mohd. Noordin,290,PERIKATAN,2,10571
 Perak,P.047 Parit,Parit,3,Dato'  Raja Mohd. Hanafiah,461,PAS,3,5066
@@ -136,17 +136,17 @@ Perak,P.049 Sitiawan,Sitiawan,1,Too Joon Hing,42,PDB,13,7299
 Perak,P.049 Sitiawan,Sitiawan,2,Kam Woon Wah,465,PERIKATAN,2,11136
 Perak,P.050 Ipoh,Ipoh,1,Cheah Chun Ching,466,PERIKATAN,2,8897
 Perak,P.050 Ipoh,Ipoh,2,Wong Kim Thim,467,BEBAS,1,2280
-Perak,P.050 Ipoh,Ipoh,3,D. R. Seenivasagam,36,PKR,11,13800
+Perak,P.050 Ipoh,Ipoh,3,D. R. Seenivasagam,36,PKR,100,13800
 Perak,P.051 Menglembu,Menglembu,1,Yunus Bin Md. Isa,468,BEBAS,1,3457
-Perak,P.051 Menglembu,Menglembu,2,S. P. Seenivasagam,469,PKR,11,20367
+Perak,P.051 Menglembu,Menglembu,2,S. P. Seenivasagam,469,PKR,100,20367
 Perak,P.051 Menglembu,Menglembu,3,Lim Eng Chang,470,PERIKATAN,2,11246
 Perak,P.052 Ulu Kinta,Ulu Kinta,1,Chim Foon,471,PERIKATAN,2,7351
-Perak,P.052 Ulu Kinta,Ulu Kinta,2,Chan Swee Ho,307,PKR,11,6345
+Perak,P.052 Ulu Kinta,Ulu Kinta,2,Chan Swee Ho,307,PKR,100,6345
 Perak,P.052 Ulu Kinta,Ulu Kinta,3,Low Sin Yean,472,BEBAS,1,2172
-Perak,P.053 Batu Gajah,Batu Gajah,1,Khong Kok Yat,310,PKR,11,9127
+Perak,P.053 Batu Gajah,Batu Gajah,1,Khong Kok Yat,310,PKR,100,9127
 Perak,P.053 Batu Gajah,Batu Gajah,2,Ng Fah Yam,473,PERIKATAN,2,9843
 Perak,P.054 Kampar,Kampar,1,Khor Kim Yong,474,BEBAS,1,4403
-Perak,P.054 Kampar,Kampar,2,Chan Yoon Onn,314,PKR,11,9357
+Perak,P.054 Kampar,Kampar,2,Chan Yoon Onn,314,PKR,100,9357
 Perak,P.054 Kampar,Kampar,3,Toh Theam Hock,475,PERIKATAN,2,12964
 Perak,P.055 Tanjong Malim,Tanjong Malim,1,Tan Boon Jin,476,BEBAS,1,2667
 Perak,P.055 Tanjong Malim,Tanjong Malim,2,Abdul Rahman Bin Haji Abdul Wahab,477,BEBAS,1,486
@@ -156,7 +156,7 @@ Perak,P.056 Telok Anson,Telok Anson,1,Chai Kai Wooi,478,BEBAS,1,9204
 Perak,P.056 Telok Anson,Telok Anson,2,Ng Kam Poh,479,PERIKATAN,2,12251
 Perak,P.057 Bagan Datoh,Bagan Datoh,1,Sulaiman Bin Bulon,480,PERIKATAN,2,12225
 Perak,P.057 Bagan Datoh,Bagan Datoh,2,Ibrahim Bin Haji Dahalan,481,PAS,3,4331
-Perak,P.058 Batang Padang,Batang Padang,1,S. A. Lingam,482,PKR,11,3412
+Perak,P.058 Batang Padang,Batang Padang,1,S. A. Lingam,482,PKR,100,3412
 Perak,P.058 Batang Padang,Batang Padang,2,Loh Jee Mee @ Jimmy,483,BEBAS,1,2099
 Perak,P.058 Batang Padang,Batang Padang,3,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16,PERIKATAN,2,7827
 Pahang,P.059 Raub,Raub,1,Husein Bin To' Muda Hassan,484,PERIKATAN,2,11332
@@ -189,7 +189,7 @@ Selangor,P.070 Setapak,Setapak,1,K. V. Thaver,504,PETIR,14,4214
 Selangor,P.070 Setapak,Setapak,2,Tajuddin Kahar,505,BEBAS,1,7888
 Selangor,P.070 Setapak,Setapak,3,S. Y. Chan,506,PERIKATAN,2,12292
 Selangor,P.071 Bungsar,Bungsar,1,Devan Nair,507,PETIR,14,13494
-Selangor,P.071 Bungsar,Bungsar,2,Chew Choo Soot,508,PKR,11,2219
+Selangor,P.071 Bungsar,Bungsar,2,Chew Choo Soot,508,PKR,100,2219
 Selangor,P.071 Bungsar,Bungsar,3,Koh Pooi Kee,323,PERIKATAN,2,9761
 Selangor,P.071 Bungsar,Bungsar,4,V. David,322,BEBAS,1,12686
 Selangor,P.072 Bukit Bintang,Bukit Bintang,1,Tan Toh Hong,509,PERIKATAN,2,9107
@@ -223,7 +223,7 @@ Negeri Sembilan,P.082 Port Dickson,Port Dickson,1,Ng Hup Shwee,524,PDB,13,2174
 Negeri Sembilan,P.082 Port Dickson,Port Dickson,2,N. S. Devi,525,BEBAS,1,2074
 Negeri Sembilan,P.082 Port Dickson,Port Dickson,3,T. Mahima Singh,231,PERIKATAN,2,7911
 Negeri Sembilan,P.082 Port Dickson,Port Dickson,4,Ong Hoon Hong,526,BEBAS,1,504
-Negeri Sembilan,P.082 Port Dickson,Port Dickson,5,Ibrahim Bin Ahmad,527,PKR,11,1349
+Negeri Sembilan,P.082 Port Dickson,Port Dickson,5,Ibrahim Bin Ahmad,527,PKR,100,1349
 Negeri Sembilan,P.082 Port Dickson,Port Dickson,6,R. Murugan,528,BEBAS,1,2020
 Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,1,Abdul Razak Bin Junid,529,PDB,13,1015
 Negeri Sembilan,P.083 Jelebe-Jempol,Jelebe-Jempol,2,Mohd. Idris Bin Matsil,530,PERIKATAN,2,14498
