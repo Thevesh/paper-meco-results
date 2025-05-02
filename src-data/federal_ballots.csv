@@ -1908,7 +1908,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1982-04-22,GE-06,Selangor,P.075 Ulu Selangor,Ulu Selangor,4,Pan Su Peng @ Pan Soo Pin,1498,DAP,18,2897,9.98001929171834,lost_deposit
 1982-04-22,GE-06,Selangor,P.076 Kuala Selangor,Kuala Selangor,1,Sayan Bin Marbin,1499,PAS,3,2444,9.064273263360901,lost_deposit
 1982-04-22,GE-06,Selangor,P.076 Kuala Selangor,Kuala Selangor,2,Ab. Rashid Bin Daud,1500,DAP,18,3110,11.53432481548789,lost_deposit
-1982-04-22,GE-06,Selangor,P.076 Kuala Selangor,Kuala Selangor,3,Abu Hassan Bin Omar,1501,BN,25,21409,79.4014019211512,won
+1982-04-22,GE-06,Selangor,P.076 Kuala Selangor,Kuala Selangor,3,Abu Hassan Bin Omar,1225,BN,25,21409,79.4014019211512,won
 1982-04-22,GE-06,Selangor,P.077 Selayang,Selayang,1,Rahmah Binti Osan,1502,BN,25,51353,66.79804365358099,won
 1982-04-22,GE-06,Selangor,P.077 Selayang,Selayang,2,Khalid Bin Siri,1503,PAS,3,5081,6.609172975363562,lost_deposit
 1982-04-22,GE-06,Selangor,P.077 Selayang,Selayang,3,Lee Yee Lian,1504,DAP,18,20444,26.59278337105544,lost
@@ -2293,7 +2293,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,GE-07,Selangor,P.083 Tanjung Karang,Tanjung Karang,2,Dato'S Kamaruzaman Bin Ahmad,1785,BN,25,13360,69.330565646082,won
 1986-08-02,GE-07,Selangor,P.084 Hulu Selangor,Hulu Selangor,1,S.S. Subramaniam,985,BN,25,19201,67.41450740818763,won
 1986-08-02,GE-07,Selangor,P.084 Hulu Selangor,Hulu Selangor,2,Mohamed Arif Bin Dato' Haji Kamaruddin,1496,SDP,33,9281,32.58549259181237,lost
-1986-08-02,GE-07,Selangor,P.085 Kuala Selangor,Kuala Selangor,1,Abu Hassan Bin Omar,1501,BN,25,17523,78.33258828788556,won
+1986-08-02,GE-07,Selangor,P.085 Kuala Selangor,Kuala Selangor,1,Abu Hassan Bin Omar,1225,BN,25,17523,78.33258828788556,won
 1986-08-02,GE-07,Selangor,P.085 Kuala Selangor,Kuala Selangor,2,Zainudin Bin Muhammad,1786,NASMA,52,4847,21.66741171211444,lost
 1986-08-02,GE-07,Selangor,P.086 Kapar,Kapar,1,Aziz Bin Hamzah,1787,PAS,3,8697,29.34705584612789,lost
 1986-08-02,GE-07,Selangor,P.086 Kapar,Kapar,2,P. Bijandran A/L Pantanathan @ D.P Vijandran,1788,BN,25,20938,70.65294415387211,won
@@ -2714,7 +2714,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1990-10-20,GE-08,Selangor,P.084 Hulu Selangor,Hulu Selangor,1,G. Palanivel,2113,BN,25,20839,63.7356251529239,won
 1990-10-20,GE-08,Selangor,P.084 Hulu Selangor,Hulu Selangor,2,Nazar Yakin,2114,S46,56,11857,36.2643748470761,lost
 1990-10-20,GE-08,Selangor,P.085 Kuala Selangor,Kuala Selangor,1,Dr. Mohamed Haniffa,2115,S46,56,8508,32.139619220308255,lost
-1990-10-20,GE-08,Selangor,P.085 Kuala Selangor,Kuala Selangor,2,Dato' Haji Abu Hassan Omar,2116,BN,25,17964,67.86038077969175,won
+1990-10-20,GE-08,Selangor,P.085 Kuala Selangor,Kuala Selangor,2,Dato' Haji Abu Hassan Omar,1225,BN,25,17964,67.86038077969175,won
 1990-10-20,GE-08,Selangor,P.086 Kapar,Kapar,1,Dato M. Mahalingam,2117,BN,25,22038,58.22610901212714,won
 1990-10-20,GE-08,Selangor,P.086 Kapar,Kapar,2,Dato Sanad B. Hj. Said,2118,S46,56,15811,41.77389098787286,lost
 1990-10-20,GE-08,Selangor,P.087 Selayang,Selayang,1,Lee Yee Lian,1504,DAP,18,19920,28.063452706319914,lost
@@ -4069,7 +4069,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2004-03-21,GE-11,Negeri Sembilan,P.130 Rasah,Rasah,1,Datuk Goh Siow Huat,3130,BN,25,25009,55.01924980750192,won
 2004-03-21,GE-11,Negeri Sembilan,P.130 Rasah,Rasah,2,Chan Su Sann,3131,DAP,18,20446,44.98075019249808,lost
 2004-03-21,GE-11,Negeri Sembilan,P.131 Rembau,Rembau,1,Datuk Firdaus Muhammad Rom Harun,3132,BN,25,28664,74.12081092263136,won
-2004-03-21,GE-11,Negeri Sembilan,P.131 Rembau,Rembau,2,Dr Dzulkefli Ahmad,3133,PAS,3,10008,25.879189077368636,lost
+2004-03-21,GE-11,Negeri Sembilan,P.131 Rembau,Rembau,2,Dr Dzulkefli Ahmad,2751,PAS,3,10008,25.879189077368636,lost
 2004-03-21,GE-11,Negeri Sembilan,P.132 Telok Kemang,Telok Kemang,1,S Sothinathan,3134,BN,25,28494,72.66838387187269,won
 2004-03-21,GE-11,Negeri Sembilan,P.132 Telok Kemang,Telok Kemang,2,Ab Manap Sahardin,3135,PKR,11,10717,27.331616128127312,lost
 2004-03-21,GE-11,Negeri Sembilan,P.133 Tampin,Tampin,1,Datuk Shaziman Abu Mansor,3136,BN,25,23936,80.35450516986707,won
@@ -4441,7 +4441,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2008-03-08,GE-12,Selangor,P.094 Hulu Selangor,Hulu Selangor,2,Zainal Abidin Ahmad,1444,PKR,11,23177,50.214489990467115,won
 2008-03-08,GE-12,Selangor,P.095 Tanjong Karang,Tanjong Karang,1,Noh Bin Omar,2416,BN,25,16073,56.7429216973805,won
 2008-03-08,GE-12,Selangor,P.095 Tanjong Karang,Tanjong Karang,2,Mohamed Hanipa Bin Maidin,2501,PAS,3,12253,43.2570783026195,lost
-2008-03-08,GE-12,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,3424,PAS,3,18796,51.17342771576369,won
+2008-03-08,GE-12,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,2751,PAS,3,18796,51.17342771576369,won
 2008-03-08,GE-12,Selangor,P.096 Kuala Selangor,Kuala Selangor,2,Jahaya Bin Ibrahim,3425,BN,25,17934,48.82657228423632,lost
 2008-03-08,GE-12,Selangor,P.097 Selayang,Selayang,1,Lee Li Yew,3426,BN,25,27134,45.86002332381226,lost
 2008-03-08,GE-12,Selangor,P.097 Selayang,Selayang,2,Koh Swe Yong,3074,PRM,57,1332,2.2512549225074787,lost_deposit
@@ -4952,7 +4952,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2013-05-05,GE-13,Selangor,P.095 Tanjong Karang,Tanjong Karang,1,Herman Tino,3773,BEBAS,1,340,0.9178770044813995,lost_deposit
 2013-05-05,GE-13,Selangor,P.095 Tanjong Karang,Tanjong Karang,2,Noh Bin Omar,2416,BN,25,20548,55.47216672965823,won
 2013-05-05,GE-13,Selangor,P.095 Tanjong Karang,Tanjong Karang,3,Rashdi,3774,PAS,3,16154,43.609956265860376,lost
-2013-05-05,GE-13,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,3424,PAS,3,27040,49.57829116244958,lost
+2013-05-05,GE-13,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,2751,PAS,3,27040,49.57829116244958,lost
 2013-05-05,GE-13,Selangor,P.096 Kuala Selangor,Kuala Selangor,2,Irmohizam,3775,BN,25,27500,50.42170883755042,won
 2013-05-05,GE-13,Selangor,P.097 Selayang,Selayang,1,William Leong Jee Keen,3427,PKR,11,52343,57.59573063380282,won
 2013-05-05,GE-13,Selangor,P.097 Selayang,Selayang,2,Donald Lim Siang Chai,2743,BN,25,34385,37.8356073943662,lost
@@ -5598,7 +5598,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2018-05-09,GE-14,Selangor,P.095 Tanjong Karang,Tanjong Karang,1,Zulkafperi,4164,PKR,11,15626,38.584621462788284,lost
 2018-05-09,GE-14,Selangor,P.095 Tanjong Karang,Tanjong Karang,2,Noh Bin Omar,2416,BN,25,17596,43.449059212800634,won
 2018-05-09,GE-14,Selangor,P.095 Tanjong Karang,Tanjong Karang,3,Nor Az Azlan Bin Ahmad,4165,PAS,3,7276,17.96631932441108,lost
-2018-05-09,GE-14,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,3424,PKR,11,29842,49.96902262185831,won
+2018-05-09,GE-14,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Dzulkefly Ahmad,2751,PKR,11,29842,49.96902262185831,won
 2018-05-09,GE-14,Selangor,P.096 Kuala Selangor,Kuala Selangor,2,Irmohizam,3775,BN,25,21344,35.73952211115018,lost
 2018-05-09,GE-14,Selangor,P.096 Kuala Selangor,Kuala Selangor,3,Fakaruddin,4166,PAS,3,8535,14.291455266991509,lost
 2018-05-09,GE-14,Selangor,P.097 Selayang,Selayang,1,Kang Meng Fuat,4167,BN,25,19501,19.89857349850003,lost
@@ -6017,7 +6017,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2022-11-19,GE-15,Kedah,P.006 Kubang Pasu,Kubang Pasu,3,Amiruddin Hamzah (Tok Met),4427,PEJUANG,93,5329,6.389535023140931,lost_deposit
 2022-11-19,GE-15,Kedah,P.006 Kubang Pasu,Kubang Pasu,4,Hasmuni Bin Hassan (Tok Muni),4428,BN,25,14489,17.372485072300424,lost
 2022-11-19,GE-15,Kedah,P.007 Padang Terap,Padang Terap,1,Razali Bin Lebai Salleh,4429,PEJUANG,93,452,0.9294865203890683,lost_deposit
-2022-11-19,GE-15,Kedah,P.007 Padang Terap,Padang Terap,2,Mahdzir Bin Khalid,4430,BN,25,17258,35.48911143556314,lost
+2022-11-19,GE-15,Kedah,P.007 Padang Terap,Padang Terap,2,Mahdzir Bin Khalid,3641,BN,25,17258,35.48911143556314,lost
 2022-11-19,GE-15,Kedah,P.007 Padang Terap,Padang Terap,3,Muaz Abdullah,4431,PH,73,2702,5.556355261263855,lost_deposit
 2022-11-19,GE-15,Kedah,P.007 Padang Terap,Padang Terap,4,Ustaz Nurul Amin,4432,PN,12,28217,58.02504678278394,won
 2022-11-19,GE-15,Kedah,P.008 Pokok Sena,Pokok Sena,1,Noraini Binti Md Salleh,4433,WARISAN,74,622,0.7072682616210315,lost_deposit
@@ -6401,7 +6401,7 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2022-11-19,GE-15,Selangor,P.095 Tanjong Karang,Tanjong Karang,5,Dato' Hjh. Habibah,4775,BN,25,15874,31.00087882042769,lost
 2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Tengku Zafrul Aziz,4776,BN,25,30031,34.72554665186573,lost
 2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,2,Yb Shaid Rosli,4777,PEJUANG,93,1778,2.0559429238792335,lost_deposit
-2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,3,Ds Dr Dzulkefly Bin Ahmad,4778,PH,73,31033,35.88418265283704,won
+2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,3,Ds Dr Dzulkefly Bin Ahmad,2751,PH,73,31033,35.88418265283704,won
 2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,4,Ustaz Mohd Noor Shahar,4779,PN,12,23639,27.334327771418,lost
 2022-11-19,GE-15,Selangor,P.097 Selayang,Selayang,1,Datuk Abdul Rashid Asari,4780,PN,12,49154,33.92715400915234,lost
 2022-11-19,GE-15,Selangor,P.097 Selayang,Selayang,2,Chan Wun Hoong,4781,BN,25,19425,13.407555165963792,lost

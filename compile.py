@@ -32,22 +32,22 @@ def compile_ballots():
             tf = tf[['date','election'] + COL_ORI]
             
             # Generate total valid votes for each seat, and then derive percentage of votes for each candidate
-            sf = tf[['seat','votes']].groupby('seat').sum().reset_index().rename(columns={'votes':'votes_perc'})
-            tf = pd.merge(tf,sf,on='seat',how='left')
+            sf = tf[['date','seat','votes']].groupby(['date','seat']).sum().reset_index().rename(columns={'votes':'votes_perc'})
+            tf = pd.merge(tf,sf,on=['date','seat'],how='left')
             tf.votes_perc = tf.votes/tf.votes_perc * 100
 
             # Classify results
             tf['result'] = 'lost'
             tf.loc[tf.votes_perc < 12.5, 'result'] = 'lost_deposit'
             tf['nameseat'] = tf.name + tf.seat
-            sf = tf[['nameseat','seat','votes']].sort_values(by=['seat','votes']).drop_duplicates(subset='seat',keep='last')
+            sf = tf[['date','nameseat','seat','votes']].sort_values(by=['seat','votes']).drop_duplicates(subset=['date','seat'],keep='last')
             tf.loc[tf.nameseat.isin(sf.nameseat.tolist()), 'result'] = 'won'
             tf = tf.drop('nameseat',axis=1)
             tf.loc[(tf.votes == 0) & (tf.votes_perc != 0), 'result'] = 'won_uncontested'
 
             df = tf.copy() if len(df) == 0 else pd.concat([df,tf],axis=0,ignore_index=True)
 
-    assert len(df.drop_duplicates(subset=['election','state','seat'])) == len(df[df.result.str.contains('won')]), 'Number of winners and contests does not match!'
+    assert len(df.drop_duplicates(subset=['date','election','state','seat'])) == len(df[df.result.str.contains('won')]), 'Number of winners and contests does not match!'
     write_csv_parquet('src-data/consol_ballots',df=df)
     TPYES = {'GE':'federal','SE':'state','BY-ELECTION':'byelection'}
     for k,v in TPYES.items():
@@ -86,9 +86,9 @@ def compile_summary():
     w1 = wf[wf.result.str.contains('won')]
     w2 = wf[~wf.result.str.contains('won')]\
         .sort_values(by=['votes'],ascending=False)\
-        .drop_duplicates(subset=['election','state','seat'],keep='first')
+        .drop_duplicates(subset=['date','election','state','seat'],keep='first')
     assert len(w1) == len(w2) + len(w1[w1.result.str.contains('uncontested')]), 'Number of winners and losers does not match!'
-    COL_KEEP = ['election','state','seat','votes']
+    COL_KEEP = ['date','election','state','seat','votes']
     mf = pd.merge(w1[COL_KEEP + ['result']],w2[COL_KEEP],on=COL_KEEP[:-1],how='left')
     assert len(mf[(mf.votes_y.isnull()) & (~mf.result.str.contains('uncontested'))]) == 0, 'Missing runner-up outside uncontested seats!'
     mf.votes_y = mf.votes_y.fillna(0).astype(int)
@@ -97,7 +97,7 @@ def compile_summary():
     mf = mf.drop(['votes_x','votes_y','result'],axis=1)
 
     df = pd.merge(df,mf,on=COL_KEEP[:-1],how='left')
-    assert len(df[df.majority.isnull()]) == 0, 'Imperfect match between ballots and summary!'
+    assert len(df[df.majority.isnull()]) == 0, f'Imperfect match between ballots and summary!\n{df[df.majority.isnull()]}'
     df['voter_turnout'] = df.ballots_issued / df.voters_total * 100
     df['majority_perc'] = df.majority / df.votes_valid * 100
     for col in ['voter_turnout','majority_perc']:

@@ -501,12 +501,12 @@ Dr Mhathir Bin Mohamad,375
 Dr Mahathir Bin Mohamad,375
 Dr. Mahathir Bin Mohamad,375
 Doktor Mahatir Bin Mohamad,375
+Mahathir bin Mohamad,375
 Shaari,376
 Mohd Shukor,376
 Mohd Shaari Bin Haji Abd Shukor,376
 Mohd. Shaari Bin Haji Abd. Shukor,376
 Khir Johari,377
-Zairil Khir Johari,377
 Haji Hussin Che' Dol,378
 Hanafiah Hussain,379
 Haji Othman Bin Hj. Yunus,380
@@ -1670,6 +1670,9 @@ Leong Chin Hoe,1223
 Yussof Bin Ahmad,1224
 Abu Hassan Bin Hj Omar,1225
 Abu Hassan Bin Haji Omar,1225
+Dato' Haji Abu Hassan Omar,1225
+Dato' Sri (Dr) Hj. Abu Hassan Omar,1225
+Abu Hassan Bin Omar,1225
 Haji Noorhadi,1226
 Supian Bin Sirman,1227
 Rafidah Aziz,1228
@@ -1684,11 +1687,11 @@ Yeoh Poh San,1234
 Haji Hassan Haji Ishak,1235
 A. Kalai Chelvan,1236
 Cik Gu Long,1237
-Tan Seng Giaw,1238
 Dr Tan Seng Giaw,1238
 Dr. Tan Seng Giaw,1238
 Tan Seng Giaw  Tan Chun Tin,1238
 Tan Seng Giaw @ Tan Chun Tin,1238
+Tan Seng Giaw,1238
 Khoo Chin Tow,1239
 Kanda,1240
 Mohd. Idris Bin Haji Ibrahim,1241
@@ -2037,7 +2040,6 @@ Pan Su Peng @ Pan Soo Pin,1498
 Pan Su Peng @ Pan Soo Ping,1498
 Sayan Bin Marbin,1499
 Ab. Rashid Bin Daud,1500
-Abu Hassan Bin Omar,1501
 Rahmah Binti Osan,1502
 Khalid B Siri,1503
 Khalid Bin Siri,1503
@@ -2831,7 +2833,6 @@ Saidin @ Yusof Bin Adam,2112
 G. Palanivel,2113
 Nazar Yakin,2114
 Dr. Mohamed Haniffa,2115
-Dato' Haji Abu Hassan Omar,2116
 Dato M. Mahalingam,2117
 Dato Sanad B. Hj. Said,2118
 Ong Tee Keat,2119
@@ -3602,6 +3603,11 @@ Tan Sri Dato' Dr. K.S. Nijhar,2748
 Ezam Mohd. Nor,2749
 Dato' Ir. Hj. Mohd. Zin Bin Mohamed,2750
 Dr. Dzulkefly B Ahmad,2751
+Dr Dzulkefli Ahmad,2751
+Dzulkefly Ahmad,2751
+Ds Dr Dzulkefly Bin Ahmad,2751
+Sr. Hj Dzulkefly Bin Ahmad,2751
+Dzulkefly Bin Ahmad,2751
 P. Komala Devi,2752
 N. Tamilarasan @ Kim Chai,2753
 N. Tamilarasani @ Kim Chai,2753
@@ -3766,8 +3772,9 @@ Othman Bin Mustapha @ Mos,2885
 Syid Assimie Ismail,2886
 Wei @ Maxwell Anak Rojis @ Maxwell Ak Rojis,2887
 David Ak Jemut,2888
-David Anak Jemut,2888
+David Ak. Jemut,2888
 David Anak Jimut,2888
+David Anak Jemut,2888
 Idris Haji Bohari,2889
 Datuk Mohd Effendi Bin Norwawi,2890
 Lamasudin @ Udie Bin Salleh @ Dr Urdie B. Salleh,2891
@@ -4056,7 +4063,6 @@ Annuar Mohd Saleh,3129
 Datuk Goh Siow Huat,3130
 Chan Su Sann,3131
 Datuk Firdaus Muhammad Rom Harun,3132
-Dr Dzulkefli Ahmad,3133
 S Sothinathan,3134
 S. Sothinathan,3134
 Ab Manap Sahardin,3135
@@ -4226,6 +4232,7 @@ Bendindang Manjah,3272
 Dato Sri Tiong King Sing,3273
 Datuk Seri Tiong King Sing,3273
 Dr Lau Hing Kii,3274
+Lau Hing Kii,3274
 Datuk Jacob Dungau Sagan,3275
 Kabing Wan,3276
 Kebing Wan,3276
@@ -4244,11 +4251,11 @@ Ismail Kasim (Chu),3285
 Ismail Bin Kasim (Chu),3285
 Abu Bakar Taib,3286
 Wan Salleh,3287
-Mukhriz Mahathir,3288
 Mukhriz Bin Mahathir,3288
 Dato' Seri Utama Mukhriz Mahathir,3288
 Dato' Seri Hj Mukhriz Tun Mahathir,3288
 Dato' Paduka Hj Mukhriz Tun Mahathir,3288
+Mukhriz Mahathir,3288
 Isa Ismail,3289
 Mohd Johari Bin Baharum,3290
 Ghazali Bin Ibrahim,3291
@@ -4422,7 +4429,6 @@ Jamaludin Bin Jarjis,3420
 Abdul Rahman Bakri,3421
 Noriah Binti Kasnon,3422
 Osman Sabran,3423
-Dzulkefly Ahmad,3424
 Jahaya Ibrahim,3425
 Jahaya Bin Ibrahim,3425
 Lee Li Yew,3426
@@ -4665,6 +4671,8 @@ Ismail Bin Salleh,3637
 Othman Bin Aziz,3638
 Jamal Nasir,3639
 Muhamad Bazli,3640
+Dato' Mahdzir Bin Khalid,3641
+Dato' Seri Mahdzir Bin Khalid,3641
 Mahdzir Khalid,3641
 Mahdzir Bin Khalid,3641
 Shahlan Bin Ismail,3642
@@ -5563,7 +5571,6 @@ Aizuddin Ariffin,4426
 Amiruddin Hamzah (Tok Met),4427
 Hasmuni Bin Hassan (Tok Muni),4428
 Razali Bin Lebai Salleh,4429
-Mahdzir Bin Khalid,4430
 Muaz Abdullah,4431
 Ustaz Nurul Amin,4432
 Noraini Binti Md Salleh,4433
@@ -5942,7 +5949,6 @@ Cikgu Rahayu,4774
 Dato' Hjh. Habibah,4775
 Tengku Zafrul Aziz,4776
 Yb Shaid Rosli,4777
-Ds Dr Dzulkefly Bin Ahmad,4778
 Ustaz Mohd Noor Shahar,4779
 Datuk Abdul Rashid Asari,4780
 Datuk Abdul Rashid Bin Asari,4780
@@ -7411,8 +7417,10 @@ Mandi Ak Sanar,6253
 Lau Mee Ee,6254
 Dundang Ak Ibi,6255
 Laiyan Ak Boleng,6256
+Ambrose Gramong Ak. Jelian,6257
 Gramong Ak Jelian,6257
 Gramong A/K Jelian,6257
+Gramong Anak Jelian,6257
 Philip Nyadang Ak Janting,6258
 Empaling,6259
 Tedong Ak Entalai,6260
@@ -8058,9 +8066,9 @@ Nading Anak Lingeh,7120
 Benedict Bujang Anak Penghulu Tembak,7123
 Abang Ahmad Datu Hakim,7124
 Stephen Chong Kai Hong,7125
-Alfred Jabu Anak Numpang,7126
 Alfred Jabi Anak Numpang,7126
 Alfreed Jabu Anak Numpang,7126
+Alfred Jabu Anak Numpang,7126
 Ahmad Zaidi,7128
 Ahmad Saidi,7128
 Senawi Bin Sulaiman (Senawi Senir),7129
@@ -9501,7 +9509,6 @@ Sing Cho Nang,9150
 Richard Tawan Ak Sedu,9152
 Wilson Allie Ak Banyie,9154
 Sylvester Langit Ak. Uming,9155
-David Ak. Jemut,9156
 Benedict Bujang Ak. Tembak,9157
 Mohd. Parhi B. Hj. Bujang,9158
 Mohd. Parthi B. Hj. Bujang,9158
@@ -9542,7 +9549,6 @@ Brayan Anak Jalang,9203
 Engtingi Ak. Manggoi,9204
 Geman Ak Itam,9205
 Geman Ak. Itam,9205
-Ambrose Gramong Ak. Jelian,9206
 Stephen Jinggut Ak Ajub,9208
 Bartholomew Aji Ak Lanyau,9209
 Thomas Babai Ak Lias,9210
@@ -12830,7 +12836,6 @@ Jamal Abd Nasir Bin Ismail,14077
 Mohd Yusof Bin Ibrahim,14081
 Ti Lian Ker,14083
 Ibrahim Bin Mohd Taib,14084
-Abd Razak Bin Hassan,14085
 Mohd Khalil Bin Yaakob,14086
 Abd Razak Bin Hassan,14087
 Zainudin Bin Juma'At,14088
@@ -13864,7 +13869,6 @@ Dato' Mohamed Idris Abu Bakar,15604
 Cikgu Mazalan Bin Hussin,15605
 Dato' Hj. Zainal Abidin Btn Hj. Sakom,15608
 Mohd. Yahya Bin Mat Sahri,15610
-Dato' Sri (Dr) Hj. Abu Hassan Omar,15611
 Krishnan A/L Veeriah,15612
 Hj. Mohd Yusof Bin Ab. Rahim,15613
 Dato K. Sivalingam,15614
@@ -14323,8 +14327,6 @@ Adibah Ayob,16284
 Dr. Rohani Binti Abd Muttalib,16285
 Prof. Emeritus Dato' Dr Hj Othman Bin Ishak,16286
 Hj. Munir Bin Hj. Zakaria,16287
-Dato' Mahdzir Bin Khalid,16290
-Dato' Seri Mahdzir Bin Khalid,16290
 Ariffin Bin Man,16291
 Hj Rashidi Haji Osman,16293
 Dato Ahmad Lebai Sudin,16294
@@ -14600,6 +14602,7 @@ Ooi Chuan Aik,16668
 Subbaiyah A/L Palaniappan,16670
 Arif Shah Bin Omar Shah,16672
 Datuk Arif Shah Bin Omar Shah,16672
+Arif Shah Bin Omar Shah,16672
 Anuar Bin Shaari,16676
 Abdul Jalil Bin Abdul Majid,16677
 Tan Khong Chong,16678
@@ -15520,7 +15523,6 @@ Dato Jahara Binti Hamid,18006
 Teh Lay Cheng,18007
 Pk. Subbaiyah,18011
 A. Tanasekharan,18012
-Datuk Arif Shah Bin Omar Shah,18013
 Ramli Bulat,18014
 Ahmad Sahar Shuib,18015
 Mohd. Hamdan Abd. Rahman,18016
@@ -16277,8 +16279,8 @@ Shanker,19081
 Teoh Yap Kun,19082
 Hamdan Bin Basiran,19083
 Latif Bandi,19085
-Ustaz Azam,19086
 Ustaz Mohd Azam Bin Abd Samat,19086
+Mohd Azam Bin Abd Samat,19086
 Raven Krishnasamy,19087
 Cikgu Murugan,19088
 Ustaz Azlisham B. Azahar,19089
@@ -16450,7 +16452,7 @@ Eriandi,19308
 Ustaz Li,19309
 Abang Li Pak Teh Rojak,19311
 Dato' Pa,19312
-Ustaz Lah,19313
+Ustaz Lah (Air Lanas),19313
 Ramlan Bin Mat,19314
 Hj. Azizzuddin,19316
 Cikgu Roslan,19318
@@ -16463,7 +16465,7 @@ Tok Imam Ku Zaki,19325
 Md Azihan,19328
 Amran Ghani,19329
 Dato' La,19330
-Ustaz Lah,19331
+Ustaz Lah (Galas),19331
 Ab Aziz Yusoff,19332
 Datuk Ar Hj Ismail Othman,19333
 Md Rawi Bin Mahmud,19335
@@ -17186,6 +17188,7 @@ Yusri Hj Yunus,20324
 Ustaz Roslan Ramli,20325
 Datuk Hj Abd Muis Hj Picho,20326
 Datuk Hj. Abd Muis Hj. Picho,20326
+Abd Muis Bin Picho,20326
 Hassan A Gani Pg Amir,20327
 Zahari Sarip,20328
 Norsamsu Mohd Yusof,20329
@@ -17195,6 +17198,7 @@ Dr. Chong,20334
 Koo Shiaw Lee,20335
 Dr Sulaiman Mohd Nor,20336
 Dr. Sulaiman Mohd Nor,20336
+Sulaiman Mohd Nor,20336
 Solihan Badri,20338
 Ustaz Nasharudin Bin Awang,20340
 Dr S.Ramakrishnan,20341
@@ -17202,10 +17206,12 @@ Dr Sahruddin Bin Jamal,20343
 Hj Mohd Noor Bin Taib,20344
 Iqbal Razak,20345
 Kapt (B) Hj Najib Bin Lep,20346
+Najib Bin Lep,20346
 Noriah Binti Mahat,20347
 Datuk M. Asojan,20348
 Tan Sri Muhyiddin Yassin,20349
 Dr Faizul Amri Adnan,20354
+Faizul Amri Adnan,20354
 Mustaffa Bin Salleh,20355
 Ng Yak Howe,20356
 Lee Kim Heng,20357
@@ -17216,10 +17222,14 @@ Jeganathan A/L Subramaniam,20364
 Nor Hayati Bachok,20366
 Dr Mohammad Taslim,20367
 Dato' Ashari Md.Sarip,20368
+Ashari Md Sarip,20368
 Na'Im Bin Jusri,20369
+Na'im Bin Jusri,20369
 Cikgu Hj Cheman Bin Yusoh,20370
-Ustaz Wan,20372
+Cheman Bin Yusoh,20370
 Ustaz Wan Sukairi,20372
+Wan Sukairi,20372
+Ustaz Wan,20373
 Khuzzan Abu Bakar,20374
 Zulkurnain Bin Kamisan,20375
 Mohd Ajib Bin Omar,20376
@@ -17344,7 +17354,6 @@ Dato' Dr Mohd Hayati,20542
 Dato' Dr. Mohd Hayati,20542
 Razak Khamis,20543
 Ustaz Saiful Syazwan,20544
-Ustaz Mohd Azam Bin Abd Samat,20546
 Zahran Dato' Abdullah (Lah Pak),20547
 Dato' Norma Binti Awang,20548
 Mohd Saffuan Bin Sabari,20549
@@ -17811,7 +17820,6 @@ Ragindran A/L Sivasamy,21166
 Koay Teng Lye,21167
 Ong Chun Jiet,21168
 Tan Hing Teik,21170
-Jagdeep Singh Deo A/L Karpal Singh,21171
 Nicholas Diane,21174
 Muhammad Majnun Bin Abdul Wahab,21175
 Yacoob,21180
@@ -18173,7 +18181,6 @@ Haji Mohd Fazil Wahab,21652
 Lt. Kol (B) Ustaz Haji Abu Bakar Bin Abdullah,21653
 Cikgu Tuan Arif,21654
 Fatimah Lailati Omar,21655
-Ustaz Wan Sukairi,21657
 Salleh Bin Othman,21658
 Mohd Zubir Bin Mohamed,21659
 Ustaz Ahmad Shah,21661
@@ -18722,7 +18729,6 @@ Lim Soon Hai,22370
 Pandak Bin Ahmad,22371
 Samsudin Bin Ismail,22372
 Dr. Hj. Zaini Bin Hj. Abu Bakar,22373
-Sr. Hj Dzulkefly Bin Ahmad,22374
 Ara,22375
 Azrol Hj. Rahani,22376
 Dato' Mohd Jafni Md Shukor,22377
@@ -19455,3 +19461,5 @@ Kamarul Ramizu,23674
 Azharudin,23677
 Haji Pi,23678
 Tuan Aziz Bin Tuan Hamat@Tuan Mat,23679
+Tunku Iskandar Dzulkarnain Bin Tunku Ismail,23680
+Ustaz Azam,23681

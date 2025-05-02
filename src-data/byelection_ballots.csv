@@ -1,10 +1,10 @@
 date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_uid,votes,votes_perc,result
-2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,1,Haji Pi,23678,AKIM,63,92,0.09286363177551227,lost_deposit
-2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,2,Anwar Ibrahim,1426,PKR,11,31195,31.48783688301201,won
-2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,3,Datuk Arif Shah Bin Omar Shah,16672,BN,25,15524,15.669728474815786,lost
-2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,1,Dato' Wan Ahmad Farid,20037,BN,25,30252,19.798429319371728,lost
-2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,2,Haji Mohd Abdul Wahid Bin Endut,12236,PAS,3,32883,21.520287958115183,lost
-2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,3,Azharudin,23677,BEBAS,1,193,0.1263089005235602,lost_deposit
+2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,1,Haji Pi,23678,AKIM,63,92,0.19653500245668754,lost_deposit
+2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,2,Anwar Ibrahim,1426,PKR,11,31195,66.64031958300399,won
+2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,3,Datuk Arif Shah Bin Omar Shah,16672,BN,25,15524,33.16314541453932,lost
+2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,1,Dato' Wan Ahmad Farid,20037,BN,25,30252,47.77033855482567,lost
+2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,2,Haji Mohd Abdul Wahid Bin Endut,12236,PAS,3,32883,51.92489893885801,won
+2009-01-17,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,3,Azharudin,23677,BEBAS,1,193,0.3047625063163214,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,Bukit Selambau,1,R. Loganathan,23657,BEBAS,1,31,0.12816802414520198,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,Bukit Selambau,2,Tan Hock Huat,19214,BEBAS,1,78,0.32248728655889525,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,Bukit Selambau,3,Radzi,1368,BEBAS,1,25,0.10336130979451771,lost_deposit
@@ -75,10 +75,10 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2015-03-22,BY-ELECTION,Kelantan,N.06 Chempaka,Chempaka,5,Hj. Sharif,13010,BEBAS,1,807,6.796934220500295,lost_deposit
 2015-05-05,BY-ELECTION,Pahang,P.091 Rompin,Rompin,1,Ustaz Nazri Bin Haji Ahmad,206,PAS,3,14901,38.50686099697651,lost
 2015-05-05,BY-ELECTION,Pahang,P.091 Rompin,Rompin,2,Dato' Hasan Bin Arifin,4157,BN,25,23796,61.49313900302349,won
-2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,1,Suhaimi Bin Sabudin,21101,BN,25,21475,21.67659230846876,lost
-2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,2,Salleh Bin Isahak,8915,BEBAS,1,367,0.3704451398001413,lost_deposit
-2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,3,Dr Wan Azizah Wan Ismail,4901,PKR,11,30316,30.600585444635108,lost
-2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,4,Azman Shah,21070,PRM,57,101,0.10194811749268194,lost_deposit
+2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,1,Suhaimi Bin Sabudin,21101,BN,25,21475,41.09340017987332,lost
+2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,2,Salleh Bin Isahak,8915,BEBAS,1,367,0.7022713790925965,lost_deposit
+2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,3,Dr Wan Azizah Wan Ismail,4901,PKR,11,30316,58.01106029583421,won
+2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,4,Azman Shah,21070,PRM,57,101,0.19326814519986987,lost_deposit
 2016-06-18,BY-ELECTION,Perak,P.067 Kuala Kangsar,Kuala Kangsar,1,Izat Bukhary,4496,BEBAS,1,54,0.23201856148491878,lost_deposit
 2016-06-18,BY-ELECTION,Perak,P.067 Kuala Kangsar,Kuala Kangsar,2,Dr. Najihatussalehah Ahmad,23595,PAS,3,5684,24.422101916301454,lost
 2016-06-18,BY-ELECTION,Perak,P.067 Kuala Kangsar,Kuala Kangsar,3,Datin Mastura Yazid,4109,BN,25,12653,54.365386267938476,won
@@ -152,8 +152,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 2022-12-07,BY-ELECTION,Kedah,P.017 Padang Serai,Padang Serai,4,Dr. Sofee Razak,4474,PH,73,35377,38.69891485079198,lost
 2022-12-07,BY-ELECTION,Kedah,P.017 Padang Serai,Padang Serai,5,Ananda Ak,4475,BEBAS,1,846,0.9254397479653451,lost_deposit
 2022-12-07,BY-ELECTION,Kedah,P.017 Padang Serai,Padang Serai,6,Mohd Bakhri Bin Haji Hashim,4476,WARISAN,74,149,0.16299116128467664,lost_deposit
-2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,1,Datuk Hj Amzad Hashim,4052,PAS,3,68369,44.74410994764398,won
-2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,2,Azan Ismail,3409,PH,73,21103,13.81086387434555,lost
+2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,1,Datuk Hj Amzad Hashim,4052,PAS,3,68369,76.41385014306151,won
+2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,2,Azan Ismail,3409,PH,73,21103,23.586149856938484,lost
 2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,Simpang Jeram,1,Dr. Mazri Yahya,4291,PN,12,10330,42.18909536450888,lost
 2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,Simpang Jeram,2,Ir. Ts. Haji Nazri,23524,PH,73,13844,56.540739228098836,won
 2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,Simpang Jeram,3,Jeghanaathan,23525,BEBAS,1,311,1.270165407392281,lost_deposit
