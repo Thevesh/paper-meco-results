@@ -6,8 +6,6 @@ cron.py
 src-data/scrape/*
 src-geo/*
 aws/*
-logs/*
-*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
