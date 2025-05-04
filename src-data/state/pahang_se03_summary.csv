@@ -1,7 +1,7 @@
 state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
 Pahang,N.01 Cameron Highlands,Cameron Highlands,5581,3645,0,164
-Pahang,N.02 Dong,Dong,9153,6155,0,96
-Pahang,N.03 Bandar Raub,Bandar Raub,7390,5431,0,147
+Pahang,N.02 Dong,Dong,9153,6153,0,96
+Pahang,N.03 Bandar Raub,Bandar Raub,7390,5434,0,147
 Pahang,N.04 Tras,Tras,7203,5422,0,78
 Pahang,N.05 Sabai,Sabai,7395,5564,0,114
 Pahang,N.06 Bandar Bentong,Bandar Bentong,5924,4617,0,118
@@ -15,10 +15,10 @@ Pahang,N.13 Kuala Pahang,Kuala Pahang,0,0,0,0
 Pahang,N.14 Pahang Tua,Pahang Tua,0,0,0,0
 Pahang,N.15 Rompin,Rompin,0,0,0,0
 Pahang,N.16 Chenor,Chenor,7156,5101,0,672
-Pahang,N.17 Triang,Triang,8066,5532,0,456
-Pahang,N.18 Kuala Semantan,Kuala Semantan,5771,4104,0,291
+Pahang,N.17 Triang,Triang,8066,5528,0,456
+Pahang,N.18 Kuala Semantan,Kuala Semantan,5771,4097,0,291
 Pahang,N.19 Jenderak,Jenderak,6451,4519,0,488
-Pahang,N.20 Sanggang,Sanggang,5622,4404,0,341
+Pahang,N.20 Sanggang,Sanggang,5622,4380,0,341
 Pahang,N.21 Jelai,Jelai,6793,5273,0,550
 Pahang,N.22 Kuala Lipis,Kuala Lipis,4964,4102,0,441
 Pahang,N.23 Tanjong Besar,Tanjong Besar,10151,7416,0,982

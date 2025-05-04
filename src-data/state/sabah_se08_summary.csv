@@ -1,43 +1,43 @@
 state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
 Sabah,N.01 Banggi,Banggi,6555,4621,0,67
-Sabah,N.02 Kudat,Kudat,15298,11046,0,147
-Sabah,N.03 Bengkoka,Bengkoka,9033,6286,0,96
+Sabah,N.02 Kudat,Kudat,15298,11046,15,147
+Sabah,N.03 Bengkoka,Bengkoka,9033,6286,1,96
 Sabah,N.04 Matunggong,Matunggong,8350,6277,0,87
-Sabah,N.05 Tandek,Tandek,6938,5347,0,80
-Sabah,N.06 Langkon,Langkon,7677,5730,0,50
-Sabah,N.07 Tempasuk,Tempasuk,10858,8619,0,121
-Sabah,N.08 Usukan,Usukan,12452,10287,0,103
-Sabah,N.09 Kadamaian,Kadamaian,8945,7636,0,66
-Sabah,N.10 Tamparuli,Tamparuli,9658,7769,0,56
-Sabah,N.11 Sulaman,Sulaman,11771,9385,0,80
-Sabah,N.12 Kiulu,Kiulu,8156,6246,0,62
-Sabah,N.13 Kundasang,Kundasang,11061,9087,0,111
-Sabah,N.14 Ranau,Ranau,10329,8298,0,84
-Sabah,N.15 Sugut,Sugut,7386,4840,0,111
+Sabah,N.05 Tandek,Tandek,6938,5347,1,80
+Sabah,N.06 Langkon,Langkon,7677,5730,3,50
+Sabah,N.07 Tempasuk,Tempasuk,10858,8619,145,121
+Sabah,N.08 Usukan,Usukan,12452,10287,10,103
+Sabah,N.09 Kadamaian,Kadamaian,8945,7636,4,66
+Sabah,N.10 Tamparuli,Tamparuli,9658,7769,14,56
+Sabah,N.11 Sulaman,Sulaman,11771,9385,20,80
+Sabah,N.12 Kiulu,Kiulu,8156,6246,4,62
+Sabah,N.13 Kundasang,Kundasang,11061,9087,3,111
+Sabah,N.14 Ranau,Ranau,10329,8298,6,84
+Sabah,N.15 Sugut,Sugut,7386,4840,2,111
 Sabah,N.16 Labuk,Labuk,8847,6595,0,72
-Sabah,N.17 Sungai Sibuga,Sungai Sibuga,19960,13579,0,212
-Sabah,N.18 Elopura,Elopura,14311,9910,0,123
-Sabah,N.19 Tanjong Papat,Tanjong Papat,12605,8580,0,64
-Sabah,N.20 Karamunting,Karamunting,12218,8421,0,92
-Sabah,N.21 Sekong,Sekong,13764,7954,0,160
-Sabah,N.22 Sukau,Sukau,10187,6251,0,95
-Sabah,N.23 Kuamut,Kuamut,5452,3948,0,53
-Sabah,N.24 Tambunan,Tambunan,8153,7082,0,44
-Sabah,N.25 Bingkor,Bingkor,12061,9421,0,70
-Sabah,N.26 Moyog,Moyog,14242,12155,0,270
-Sabah,N.27 Inanam,Inanam,15566,11962,0,140
+Sabah,N.17 Sungai Sibuga,Sungai Sibuga,19960,13579,548,212
+Sabah,N.18 Elopura,Elopura,14311,9910,78,123
+Sabah,N.19 Tanjong Papat,Tanjong Papat,12605,8580,93,64
+Sabah,N.20 Karamunting,Karamunting,12218,8421,4,92
+Sabah,N.21 Sekong,Sekong,13764,7954,8,160
+Sabah,N.22 Sukau,Sukau,10187,6251,10,95
+Sabah,N.23 Kuamut,Kuamut,5452,3948,4,53
+Sabah,N.24 Tambunan,Tambunan,8153,7082,35,44
+Sabah,N.25 Bingkor,Bingkor,12061,9421,6,70
+Sabah,N.26 Moyog,Moyog,14242,12155,421,270
+Sabah,N.27 Inanam,Inanam,15566,11962,7,140
 Sabah,N.28 Likas,Likas,19756,14030,0,140
-Sabah,N.29 Api-Api,Api–api,20016,14124,0,108
-Sabah,N.30 Sembulan,Sembulan,13504,9514,0,114
-Sabah,N.31 Petagas,Petagas,20350,14934,0,298
+Sabah,N.29 Api-Api,Api–api,20016,14124,46,108
+Sabah,N.30 Sembulan,Sembulan,13504,9514,27,114
+Sabah,N.31 Petagas,Petagas,20350,14934,236,298
 Sabah,N.32 Kawang,Kawang,11750,9561,0,73
-Sabah,N.33 Buang Sayang,Buang Sayang,13802,11208,0,72
+Sabah,N.33 Buang Sayang,Buang Sayang,13802,11208,18,72
 Sabah,N.34 Bongawan,Bongawan,11868,9451,0,81
 Sabah,N.35 Kuala Penyu,Kuala Penyu,10486,8596,0,85
 Sabah,N.36 Klias,Klias,12033,9468,0,111
 Sabah,N.37 Lumadan,Lumadan,9065,7364,0,98
 Sabah,N.38 Sipitang,Sipitang,9702,7773,0,59
-Sabah,N.39 Tenom,Tenom,8841,6668,0,60
+Sabah,N.39 Tenom,Tenom,8841,6668,4,60
 Sabah,N.40 Kemabong,Kemabong,7366,6018,0,72
 Sabah,N.41 Sook,Sook,14724,11410,0,216
 Sabah,N.42 Nabawan,Nabawan,5209,4205,0,88

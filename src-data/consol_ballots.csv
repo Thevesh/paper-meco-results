@@ -7660,10 +7660,10 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1978-07-08,SE-05,Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,2,Ahmad Bin Awang,1411,PAS,3,6411,42.88294314381271,lost
 1978-07-08,SE-05,Kedah,N.09 Alor Merah,Alor Merah,1,Mohamad Abu Bakar Bin Rautin Ibrahim,1674,BN,25,6896,53.11561272433182,won
 1978-07-08,SE-05,Kedah,N.09 Alor Merah,Alor Merah,2,Ali @ Fadzil Bin Md. Noor,1100,PAS,3,6087,46.88438727566818,lost
-1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,1,Chea Kim Hoe @ Cheah Chong Chiew,9332,BN,25,8959,42.95234442420174,won
-1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,2,Chang Boon Hoe,1103,BEBAS,1,5873,28.15706203854636,lost
-1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,3,Ramlee Bin Karim,1102,PAS,3,3828,18.35267043820117,lost
-1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,4,C. Shanmugiah A/L Chelliah,1104,DAP,18,2198,10.537923099050724,lost_deposit
+1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,1,Chea Kim Hoe @ Cheah Chong Chiew,9332,BN,25,8959,44.20268403394513,won
+1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,2,Chang Boon Hoe,1103,BEBAS,1,5873,28.97671205841721,lost
+1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,3,Ramlee Bin Karim,1102,PAS,3,3238,15.97592263666864,lost
+1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,4,C. Shanmugiah A/L Chelliah,1104,DAP,18,2198,10.844681270969016,lost_deposit
 1978-07-08,SE-05,Kedah,N.11 Langgar Limbong,Langgar Limbong,1,Sudin Bin Wahab,6431,PAS,3,7391,58.579694063565036,won
 1978-07-08,SE-05,Kedah,N.11 Langgar Limbong,Langgar Limbong,2,Tuan Haji Ahmad Bin Haji Abdullah,9337,BN,25,5226,41.42030593643497,lost
 1978-07-08,SE-05,Kedah,N.12 Bukit Raya,Bukit Raya,1,Ismail @ Shafiee Bin Kassim,7277,PAS,3,6692,54.03310456197013,won
@@ -7755,10 +7755,10 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1982-04-22,SE-06,Kedah,N.21 Tikam Batu,Tikam Batu,2,Ong Ah Yong @ Ong Chow Song,6418,BN,25,17620,59.02649827476466,won
 1982-04-22,SE-06,Kedah,N.21 Tikam Batu,Tikam Batu,3,Ismail Bin Man,1388,BEBAS,1,194,0.6498944758969549,lost_deposit
 1982-04-22,SE-06,Kedah,N.21 Tikam Batu,Tikam Batu,4,Chong Ah Lek @ Chong Kok Heong,10517,DAP,18,4658,15.604167364577402,lost
-1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,1,Karuppaiah A/L Ramasamy,1684,DAP,18,930,8.029008029008029,lost_deposit
-1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,2,Subramaniam A/L Sundram,10519,BN,25,7342,63.38599671933005,won
-1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,3,Nadaraju A/L Aparu,10520,BEBAS,1,186,1.6058016058016058,lost_deposit
-1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,4,Ahmad Khasasi Bin L. Mahamud,10521,PAS,3,3125,26.97919364586031,lost
+1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,1,Karuppaiah A/L Ramasamy,1684,DAP,18,930,7.96710357234644,lost_deposit
+1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,2,Subramaniam A/L Sundram,10519,BN,25,7342,62.89728433136298,won
+1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,3,Nadaraju A/L Aparu,10520,BEBAS,1,186,1.5934207144692882,lost_deposit
+1982-04-22,SE-06,Kedah,N.22 Kuala Ketil,Kuala Ketil,4,Ahmad Khasasi Bin L. Mahamud,10521,PAS,3,3215,27.542191381821297,lost
 1982-04-22,SE-06,Kedah,N.23 Lunas,Lunas,1,Hong Tok Hiang @ Fang Chok Seong,10522,BN,25,12193,74.78074210364919,won
 1982-04-22,SE-06,Kedah,N.23 Lunas,Lunas,2,Khatib Shobaini Bin Hj. Hassan,588,PAS,3,3571,21.90125728304201,lost
 1982-04-22,SE-06,Kedah,N.23 Lunas,Lunas,3,Ramley Bin Ismail,1389,BEBAS,1,541,3.318000613308801,lost_deposit
@@ -7926,8 +7926,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1995-04-24,SE-09,Kedah,N.16 Kubang Rotan,Kubang Rotan,2,Muhamad Yusof Bin Husin,13852,PAS,3,4709,35.69858236676522,lost
 1995-04-24,SE-09,Kedah,N.17 Pengkalan Kundor,Pengkalan Kundor,1,Mohd Jamil Bin Hj Md Idross,13853,BN,25,8290,54.918847300430606,won
 1995-04-24,SE-09,Kedah,N.17 Pengkalan Kundor,Pengkalan Kundor,2,Mohd Muslim Bin Othman,8205,PAS,3,6805,45.081152699569394,lost
-1995-04-24,SE-09,Kedah,N.18 Bukit Raya,Bukit Raya,1,Ali @ Fadzil Bin Md Noor,1100,PAS,3,11465,55.88593711918109,won
-1995-04-24,SE-09,Kedah,N.18 Bukit Raya,Bukit Raya,2,Fadzil Bin Hanafi,4439,BN,25,9050,44.11406288081891,lost
+1995-04-24,SE-09,Kedah,N.18 Bukit Raya,Bukit Raya,1,Ali @ Fadzil Bin Md Noor,1100,PAS,3,11466,55.888087346461305,won
+1995-04-24,SE-09,Kedah,N.18 Bukit Raya,Bukit Raya,2,Fadzil Bin Hanafi,4439,BN,25,9050,44.1119126535387,lost
 1995-04-24,SE-09,Kedah,N.19 Sungai Tiang,Sungai Tiang,1,Fatimah Binti Hj Ismailhj Abdullah Bin Haji Abdul,13857,BN,25,11168,60.11734941056145,won
 1995-04-24,SE-09,Kedah,N.19 Sungai Tiang,Sungai Tiang,2,Rahman @ Haji Abdul Rahim Bin Haji Abdul Rahman,13858,PAS,3,7409,39.88265058943855,lost
 1995-04-24,SE-09,Kedah,N.20 Sala,Sala,1,Azizan Bin Abdul Razak,2938,PAS,3,8367,50.5925746765026,won
@@ -8860,8 +8860,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1978-07-08,SE-05,Kelantan,N.18 Tok Uban,Tok Uban,3,Daud @ Daud Yatimee Bin Ahmad,9419,BERJASA,34,3016,49.168568633844146,won
 1978-07-08,SE-05,Kelantan,N.19 Salor,Salor,1,Mohamad Surian,9420,BERJASA,34,5150,62.83552952659834,won
 1978-07-08,SE-05,Kelantan,N.19 Salor,Salor,2,Hassan Bin Haji Mohamed,398,PAS,3,3046,37.164470473401664,lost
-1978-07-08,SE-05,Kelantan,N.20 Ketereh,Ketereh,1,Ariffin Bin Mahmood,9422,BN,25,5213,66.55176816034725,won
-1978-07-08,SE-05,Kelantan,N.20 Ketereh,Ketereh,2,Haji Abdullah Bin Haji Hassan,5912,PAS,3,2620,33.448231839652756,lost
+1978-07-08,SE-05,Kelantan,N.20 Ketereh,Ketereh,1,Ariffin Bin Mahmood,9422,BN,25,5123,66.16298592276895,won
+1978-07-08,SE-05,Kelantan,N.20 Ketereh,Ketereh,2,Haji Abdullah Bin Haji Hassan,5912,PAS,3,2620,33.837014077231046,lost
 1978-07-08,SE-05,Kelantan,N.21 Peringat,Peringat,1,Mohd Amin @ Abdul Hamid Bin Salleh,9424,PAS,3,2390,34.408292542470484,lost
 1978-07-08,SE-05,Kelantan,N.21 Peringat,Peringat,2,Wan Hashim Bin Haji Wan Ahmad,593,BERJASA,34,4556,65.59170745752951,won
 1978-07-08,SE-05,Kelantan,N.22 Bukit Panau,Bukit Panau,1,Ab. Halim Bin Ab. Rahman,9426,PAS,3,2375,34.58066394874781,lost
@@ -8994,8 +8994,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,SE-07,Kelantan,N.02 Sungai Pinang,Sungai Pinang,2,Wan Mamat Bin Wan Yusoff,7313,PAS,3,4530,46.580976863753214,lost
 1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,Wakaf Baharu,1,Hussein Bin Mahmood,1129,BN,25,6146,51.405152224824356,won
 1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,Wakaf Baharu,2,Ramli Bin Abu Bakar,10537,PAS,3,5810,48.594847775175644,lost
-1986-08-02,SE-07,Kelantan,N.04 Semut Api,Semut Api,1,Haji Nik Ab. Aziz Bin Nik Mat,11623,PAS,3,6233,60.53219384286685,won
-1986-08-02,SE-07,Kelantan,N.04 Semut Api,Semut Api,2,Hafsah Bt Osman,11624,BN,25,4064,39.46780615713315,lost
+1986-08-02,SE-07,Kelantan,N.04 Semut Api,Semut Api,1,Haji Nik Ab. Aziz Bin Nik Mat,11623,PAS,3,6233,60.35634743875279,won
+1986-08-02,SE-07,Kelantan,N.04 Semut Api,Semut Api,2,Hafsah Bt Osman,11624,BN,25,4094,39.643652561247215,lost
 1986-08-02,SE-07,Kelantan,N.05 Kemumin,Kemumin,1,Mohd Zain Bin Mat Daud,11625,BN,25,5045,46.06885215962013,lost
 1986-08-02,SE-07,Kelantan,N.05 Kemumin,Kemumin,2,Hj. Daud Bin Ibrahim,9389,PAS,3,5906,53.93114784037988,won
 1986-08-02,SE-07,Kelantan,N.06 Banggol,Banggol,1,Dato' Haji Ariffin Bin Salleh,11627,BN,25,3920,42.57167680278019,lost
@@ -9259,8 +9259,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1995-04-24,SE-09,Kelantan,N.37 Pergau,Pergau,2,Yusof Bin Yaakub,13985,PAS,3,3425,48.13773717498243,lost
 1995-04-24,SE-09,Kelantan,N.38 Guchil,Guchil,1,Mohamed Razali Bin Haji Che Mamat,13986,BN,25,4809,53.19101869262249,won
 1995-04-24,SE-09,Kelantan,N.38 Guchil,Guchil,2,Wan Hassan Bin Wan Yusof,10597,PAS,3,4232,46.8089813073775,lost
-1995-04-24,SE-09,Kelantan,N.39 Mengkebang,Mengkebang,1,Mek Som Binti Mohamed,13988,S46,56,6321,60.470678274179654,won
-1995-04-24,SE-09,Kelantan,N.39 Mengkebang,Mengkebang,2,Haji Nik Sapeia Bin Nik Yusof,13989,BN,25,4132,39.52932172582034,lost
+1995-04-24,SE-09,Kelantan,N.39 Mengkebang,Mengkebang,1,Mek Som Binti Mohamed,13988,S46,56,6231,60.12737624240086,won
+1995-04-24,SE-09,Kelantan,N.39 Mengkebang,Mengkebang,2,Haji Nik Sapeia Bin Nik Yusof,13989,BN,25,4132,39.87262375759915,lost
 1995-04-24,SE-09,Kelantan,N.40 Manek Urai,Manek Urai,1,Ismail Bin Yaacob @ Pak Su Will,13990,PAS,3,4691,62.107771746325966,won
 1995-04-24,SE-09,Kelantan,N.40 Manek Urai,Manek Urai,2,Ahmad Bin Yusoff,1505,BN,25,2862,37.892228253674034,lost
 1995-04-24,SE-09,Kelantan,N.41 Dabong,Dabong,1,Mohamad Rozali Bin Isohak,11691,S46,56,3170,58.14380044020543,won
@@ -10176,8 +10176,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1978-07-08,SE-05,Terengganu,N.06 Langkap,Langkap,3,Mohamad Bin Hitam,10013,PAS,3,972,17.6278563656148,lost
 1978-07-08,SE-05,Terengganu,N.07 Batu Rakit,Batu Rakit,1,W. Ibrahim Bin W. Othman,10014,BN,25,2391,54.88980716253443,won
 1978-07-08,SE-05,Terengganu,N.07 Batu Rakit,Batu Rakit,2,Cikgu Daud Bin Awang,10015,PAS,3,1965,45.11019283746556,lost
-1978-07-08,SE-05,Terengganu,N.08 Seberang Takir,Seberang Takir,1,Abdul Rashid Bin Ngah,10016,BN,25,3219,62.094907407407405,won
-1978-07-08,SE-05,Terengganu,N.08 Seberang Takir,Seberang Takir,2,Ahmad Yusof Assyddieqy,10017,PAS,3,1965,37.905092592592595,lost
+1978-07-08,SE-05,Terengganu,N.08 Seberang Takir,Seberang Takir,1,Abdul Rashid Bin Ngah,10016,BN,25,3219,61.761320030698386,won
+1978-07-08,SE-05,Terengganu,N.08 Seberang Takir,Seberang Takir,2,Ahmad Yusof Assyddieqy,10017,PAS,3,1993,38.238679969301614,lost
 1978-07-08,SE-05,Terengganu,N.09 Telemong,Telemong,1,Ahmad Sidi Bin Haji Ismail,8879,BN,25,2758,62.66757555101113,won
 1978-07-08,SE-05,Terengganu,N.09 Telemong,Telemong,2,Abu Bakar Bin Ismail,7847,PAS,3,1643,37.33242444898887,lost
 1978-07-08,SE-05,Terengganu,N.10 Binjai,Binjai,1,Abd. Rahman Bin Ali,8883,BN,25,3562,62.447405329593266,won
@@ -11424,8 +11424,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,SE-07,Pulau Pinang,N.04 Ara Rendang,Ara Rendang,2,Mohd. Hamdan Bin Haji Abd. Rahman,11891,PAS,3,2215,29.450870894827812,lost
 1986-08-02,SE-07,Pulau Pinang,N.05 Sungai Dua,Sungai Dua,1,Mohd. Shariff Bin Hj. Omar,3691,BN,25,5922,71.8253486961795,won
 1986-08-02,SE-07,Pulau Pinang,N.05 Sungai Dua,Sungai Dua,2,Mohd. Salleh Bin Man,2350,PAS,3,2323,28.174651303820497,lost
-1986-08-02,SE-07,Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,1,Abd. Roni Bin A. Hassan,11894,BN,25,4691,68.86376981796829,won
-1986-08-02,SE-07,Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,2,Khalid Bin Man,11895,PAS,3,2121,31.13623018203171,lost
+1986-08-02,SE-07,Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,1,Abd. Roni Bin A. Hassan,11894,BN,25,4692,68.86833993835315,won
+1986-08-02,SE-07,Pulau Pinang,N.06 Telok Ayer Tawar,Telok Ayer Tawar,2,Khalid Bin Man,11895,PAS,3,2121,31.131660061646855,lost
 1986-08-02,SE-07,Pulau Pinang,N.07 Bagan Jermal,Bagan Jermal,1,Lim Hock Seng,2044,DAP,18,9966,62.82940360610264,won
 1986-08-02,SE-07,Pulau Pinang,N.07 Bagan Jermal,Bagan Jermal,2,Tan Swee Hueng,11897,BN,25,5896,37.17059639389736,lost
 1986-08-02,SE-07,Pulau Pinang,N.08 Mak Mandin,Mak Mandin,1,Ali Bin Kasim,10803,DAP,18,5925,42.22491448118586,lost
@@ -12596,9 +12596,9 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1974-08-24,SE-04,Perak,N.17 Bukit Chandan,Bukit Chandan,1,Haji Ahmad Zainal,8655,BN,25,5424,57.97969000534473,won
 1974-08-24,SE-04,Perak,N.17 Bukit Chandan,Bukit Chandan,2,Kuan Boon Hooi,8656,DAP,18,3108,33.222875467664345,lost
 1974-08-24,SE-04,Perak,N.17 Bukit Chandan,Bukit Chandan,3,Abd. Raffor Bin Abd. Hamid,925,PEKEMAS,27,823,8.797434526990914,lost_deposit
-1974-08-24,SE-04,Perak,N.18 Manong,Manong,1,Shafie Bin Mat Saman,7647,BN,25,3245,71.3500439753738,won
-1974-08-24,SE-04,Perak,N.18 Manong,Manong,2,Haji Fathil Khalid,8659,PEKEMAS,27,661,14.533861037818822,lost
-1974-08-24,SE-04,Perak,N.18 Manong,Manong,3,Mohamed Noor Bin Nasir,8660,DAP,18,642,14.116094986807386,lost
+1974-08-24,SE-04,Perak,N.18 Manong,Manong,1,Shafie Bin Mat Saman,7647,BN,25,3425,72.44077834179356,won
+1974-08-24,SE-04,Perak,N.18 Manong,Manong,2,Haji Fathil Khalid,8659,PEKEMAS,27,661,13.980541455160743,lost
+1974-08-24,SE-04,Perak,N.18 Manong,Manong,3,Mohamed Noor Bin Nasir,8660,DAP,18,642,13.578680203045684,lost
 1974-08-24,SE-04,Perak,N.19 Chemor,Chemor,1,Yep Boon En,6887,BN,25,7839,44.83527796842828,won
 1974-08-24,SE-04,Perak,N.19 Chemor,Chemor,2,Poon Soo Har,8662,DAP,18,7284,41.66094715168154,lost
 1974-08-24,SE-04,Perak,N.19 Chemor,Chemor,3,Samsudin Bin Harun,928,BEBAS,1,1339,7.6584305650880795,lost_deposit
@@ -12906,8 +12906,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1982-04-22,SE-06,Perak,N.39 Bidor,Bidor,1,Song Yong Pheow,10969,BN,25,9647,64.52411209952511,won
 1982-04-22,SE-06,Perak,N.39 Bidor,Bidor,2,Kandiah Peter A/L Kandiah,10970,DAP,18,4236,28.33255300648786,lost
 1982-04-22,SE-06,Perak,N.39 Bidor,Bidor,3,Omar Bin Amin @ Hj. Amin,10971,PAS,3,1068,7.143334893987024,lost_deposit
-1982-04-22,SE-06,Perak,N.40 Slim,Slim,1,Zol Karnaini @ Dzulkarnaian Bin Haji Abdul Rahman,10972,BN,25,9259,72.60252489610288,won
-1982-04-22,SE-06,Perak,N.40 Slim,Slim,2,Rajan Naidu S/O Rajan,10973,DAP,18,3494,27.397475103897122,lost
+1982-04-22,SE-06,Perak,N.40 Slim,Slim,1,Zol Karnaini @ Dzulkarnaian Bin Haji Abdul Rahman,10972,BN,25,9359,72.81568505407297,won
+1982-04-22,SE-06,Perak,N.40 Slim,Slim,2,Rajan Naidu S/O Rajan,10973,DAP,18,3494,27.184314945927017,lost
 1982-04-22,SE-06,Perak,N.41 Rungkup,Rungkup,1,Ahmad Mashud Bin Haji Masduki,10974,PAS,3,4070,31.460153049393213,lost
 1982-04-22,SE-06,Perak,N.41 Rungkup,Rungkup,2,Mohamed Yaacob Bin Haji Mohamed,8736,BN,25,8867,68.53984695060679,won
 1982-04-22,SE-06,Perak,N.42 Hutan Melintang,Hutan Melintang,1,Nahwany @ Radziah Binti Maharudin,10976,BN,25,8354,71.98001033947958,won
@@ -13029,9 +13029,9 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,SE-07,Perak,N.45 Sungkai,Sungkai,1,K. Kumaron @ Kumaran A/L Karunagaran,12074,BN,25,6771,53.83208777230084,won
 1986-08-02,SE-07,Perak,N.45 Sungkai,Sungkai,2,Ho Shing Chong @ Ghazali Ho Bin Abdullah,12075,PAS,3,451,3.585625695659087,lost_deposit
 1986-08-02,SE-07,Perak,N.45 Sungkai,Sungkai,3,Loh Jee Mee @ Jimmy,483,DAP,18,5356,42.58228653204007,lost
-1986-08-02,SE-07,Perak,N.46 Slim,Slim,1,Junus Bin Wahid,12077,BN,25,11380,68.37709547557532,won
-1986-08-02,SE-07,Perak,N.46 Slim,Slim,2,Neng Lan Fong,12078,DAP,18,3473,20.86763203749324,lost
-1986-08-02,SE-07,Perak,N.46 Slim,Slim,3,Adam Bin Zainbal Abidin,12079,PAS,3,1790,10.755272486931442,lost_deposit
+1986-08-02,SE-07,Perak,N.46 Slim,Slim,1,Junus Bin Wahid,12077,BN,25,11380,68.71150827194784,won
+1986-08-02,SE-07,Perak,N.46 Slim,Slim,2,Neng Lan Fong,12078,DAP,18,3473,20.969689651008334,lost
+1986-08-02,SE-07,Perak,N.46 Slim,Slim,3,Adam Bin Zainbal Abidin,12079,PAS,3,1709,10.318802077043836,lost_deposit
 1990-10-20,SE-08,Perak,N.01 Temengor,Temengor,1,Haji Md. Arif Bin Yaacob,7620,PAS,3,3984,32.549019607843135,lost
 1990-10-20,SE-08,Perak,N.01 Temengor,Temengor,2,Wan Abdullah Bin Wan Im,8301,BN,25,8256,67.45098039215686,won
 1990-10-20,SE-08,Perak,N.02 Kenering,Kenering,1,Johan Bin Lahamat,11962,BN,25,6923,58.8240292293313,won
@@ -13189,8 +13189,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1995-04-24,SE-09,Perak,N.27 Menglembu,Menglembu,2,Lam Wai Mun,14346,DAP,18,9100,45.614035087719294,lost
 1995-04-24,SE-09,Perak,N.28 Lahat,Lahat,1,Yang Kar Ming,2691,DAP,18,6365,33.352546635925385,lost
 1995-04-24,SE-09,Perak,N.28 Lahat,Lahat,2,Lee Kon Yin,13182,BN,25,12719,66.64745336407462,won
-1995-04-24,SE-09,Perak,N.29 Bukit Chandan,Bukit Chandan,1,Ahmad Bin Jaafar,14349,BN,25,8213,78.58578126495073,won
-1995-04-24,SE-09,Perak,N.29 Bukit Chandan,Bukit Chandan,2,Haji Yahya Bin Hj. Kamaruzzaman,14350,PAS,3,2238,21.41421873504928,lost
+1995-04-24,SE-09,Perak,N.29 Bukit Chandan,Bukit Chandan,1,Ahmad Bin Jaafar,14349,BN,25,8123,78.3997683621272,won
+1995-04-24,SE-09,Perak,N.29 Bukit Chandan,Bukit Chandan,2,Haji Yahya Bin Hj. Kamaruzzaman,14350,PAS,3,2238,21.600231637872792,lost
 1995-04-24,SE-09,Perak,N.30 Manong,Manong,1,Muhammad Bin Harun @ Mohd Nor Bin Haron,1449,PAS,3,2187,21.971066907775768,lost
 1995-04-24,SE-09,Perak,N.30 Manong,Manong,2,Ramly Bin Zahari,14352,BN,25,7767,78.02893309222424,won
 1995-04-24,SE-09,Perak,N.31 Pengkalan Baharu,Pengkalan Baharu,1,Kamarudin B. Awang Teh,14353,S46,56,3083,29.460105112279027,lost
@@ -14616,17 +14616,17 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,SE-07,Pahang,N.16 Kuala Pahang,Kuala Pahang,2,Ab. Manaf Bin Abdullah,7279,BN,25,3751,72.31540389435126,won
 1986-08-02,SE-07,Pahang,N.17 Peramu,Peramu,1,Sulaiman Bin Mohamad,1817,PAS,3,1636,26.10499441519068,lost
 1986-08-02,SE-07,Pahang,N.17 Peramu,Peramu,2,Abdul Rahim Bin Hitam,11786,BN,25,4631,73.89500558480931,won
-1986-08-02,SE-07,Pahang,N.18 Luit,Luit,1,Tan Meng Choo,10704,DAP,18,1550,22.07977207977208,lost
-1986-08-02,SE-07,Pahang,N.18 Luit,Luit,2,Ayub Bin Teh,11788,BN,25,4723,67.27920227920228,won
-1986-08-02,SE-07,Pahang,N.18 Luit,Luit,3,Nordin Bin Majid,11789,PAS,3,747,10.64102564102564,lost_deposit
+1986-08-02,SE-07,Pahang,N.18 Luit,Luit,1,Tan Meng Choo,10704,DAP,18,1550,22.017045454545457,lost
+1986-08-02,SE-07,Pahang,N.18 Luit,Luit,2,Ayub Bin Teh,11788,BN,25,4723,67.08806818181819,won
+1986-08-02,SE-07,Pahang,N.18 Luit,Luit,3,Nordin Bin Majid,11789,PAS,3,767,10.894886363636363,lost_deposit
 1986-08-02,SE-07,Pahang,N.19 Bukit Tajau,Bukit Tajau,1,Manaf Bin Othman,11790,PAS,3,1769,23.552123552123554,lost
 1986-08-02,SE-07,Pahang,N.19 Bukit Tajau,Bukit Tajau,2,Dato' Mohd. Khalil Bin Yaakob,11791,BN,25,5742,76.44787644787645,won
 1986-08-02,SE-07,Pahang,N.20 Jengka,Jengka,1,Haji Mohd Alwi Bin Haji Abdul Hamid,1486,PAS,3,2614,34.34051497635313,lost
 1986-08-02,SE-07,Pahang,N.20 Jengka,Jengka,2,Zainal Bin Hassan,10700,BN,25,4998,65.65948502364687,won
 1986-08-02,SE-07,Pahang,N.21 Cenur,Cenur,1,Mohd Rosly Bin Hussin,11794,PAS,3,1495,24.995820096973752,lost
 1986-08-02,SE-07,Pahang,N.21 Cenur,Cenur,2,Mahmud Bin Mat Talib,10703,BN,25,4486,75.00417990302624,won
-1986-08-02,SE-07,Pahang,N.22 Jenderak,Jenderak,1,Abdullah Bin Kia,10676,BN,25,4442,75.16074450084602,won
-1986-08-02,SE-07,Pahang,N.22 Jenderak,Jenderak,2,Ahmad Bin Mohd Akil,11797,PAS,3,1468,24.839255499153975,lost
+1986-08-02,SE-07,Pahang,N.22 Jenderak,Jenderak,1,Abdullah Bin Kia,10676,BN,25,4422,75.07640067911716,won
+1986-08-02,SE-07,Pahang,N.22 Jenderak,Jenderak,2,Ahmad Bin Mohd Akil,11797,PAS,3,1468,24.923599320882854,lost
 1986-08-02,SE-07,Pahang,N.23 Sanggang,Sanggang,1,Mohd Lazim Bin Salleh,9548,PAS,3,1560,15.279138099902056,lost
 1986-08-02,SE-07,Pahang,N.23 Sanggang,Sanggang,2,Abd. Halim Bin Hj. Mohd Seh,11799,BN,25,4780,46.81684622918707,won
 1986-08-02,SE-07,Pahang,N.23 Sanggang,Sanggang,3,Ng Kui Ling,2399,DAP,18,3870,37.90401567091087,lost
@@ -14774,8 +14774,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1995-04-24,SE-09,Pahang,N.23 Jengka,Jengka,2,Syed Ibrahim Bin Syed Abd. Rahman,1477,PAS,3,3281,33.16821674080065,lost
 1995-04-24,SE-09,Pahang,N.24 Cenur,Cenur,1,Tan Mohd. Aminuddin Bin Ishak,12978,BN,25,5093,70.76559677643462,won
 1995-04-24,SE-09,Pahang,N.24 Cenur,Cenur,2,Mohd Baki Bin Othman,14105,PAS,3,2104,29.234403223565376,lost
-1995-04-24,SE-09,Pahang,N.25 Jenderak,Jenderak,1,Mohamed Bin Jaafar,14106,BN,25,6286,74.44339175746092,won
-1995-04-24,SE-09,Pahang,N.25 Jenderak,Jenderak,2,Ahmad Mukti Bin Ismail,14107,PAS,3,2158,25.55660824253908,lost
+1995-04-24,SE-09,Pahang,N.25 Jenderak,Jenderak,1,Mohamed Bin Jaafar,14106,BN,25,6186,74.13710450623202,won
+1995-04-24,SE-09,Pahang,N.25 Jenderak,Jenderak,2,Ahmad Mukti Bin Ismail,14107,PAS,3,2158,25.86289549376798,lost
 1995-04-24,SE-09,Pahang,N.26 Sanggang,Sanggang,1,Abdullah Bin Kia,10676,BN,25,6602,62.88217925516716,won
 1995-04-24,SE-09,Pahang,N.26 Sanggang,Sanggang,2,Abdul Rahim Bin Abd. Latiff,14109,PAS,3,2153,20.506714925230973,lost
 1995-04-24,SE-09,Pahang,N.26 Sanggang,Sanggang,3,Abu Bakar Bin Lebai Sudin,3405,DAP,18,1744,16.611105819601867,lost
@@ -16106,8 +16106,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1995-04-24,SE-09,Selangor,N.07 Hulu Bernam,Hulu Bernam,2,Zainal Abidin Bin Sakom,14437,BN,25,10579,92.78196807577618,won
 1995-04-24,SE-09,Selangor,N.08 Kuala Kubu Baharu,Kuala Kubu Baharu,1,Ch'Ng Toh Eng,3448,BN,25,0,,won_uncontested
 1995-04-24,SE-09,Selangor,N.09 Batang Kali,Batang Kali,1,Muhammad Bin Muhammad Taib,11022,BN,25,0,,won_uncontested
-1995-04-24,SE-09,Selangor,N.10 Permatang,Permatang,1,Jamaluddin Bin Adnan,13276,BN,25,9677,78.81576804039746,won
-1995-04-24,SE-09,Selangor,N.10 Permatang,Permatang,2,Harullah Bin Junid @ Amat Dollah Bin Mat Jonit,14441,PAS,3,2601,21.184231959602542,lost
+1995-04-24,SE-09,Selangor,N.10 Permatang,Permatang,1,Jamaluddin Bin Adnan,13276,BN,25,9877,79.15531335149863,won
+1995-04-24,SE-09,Selangor,N.10 Permatang,Permatang,2,Harullah Bin Junid @ Amat Dollah Bin Mat Jonit,14441,PAS,3,2601,20.844686648501362,lost
 1995-04-24,SE-09,Selangor,N.11 Ijuk,Ijuk,1,Sinniah A/L Periannan,11026,DAP,18,1689,16.5995085995086,lost
 1995-04-24,SE-09,Selangor,N.11 Ijuk,Ijuk,2,Sivalingam A/L Arumugam Karuppiah,14443,BN,25,8486,83.4004914004914,won
 1995-04-24,SE-09,Selangor,N.12 Jeram,Jeram,1,Tukiran B Mohd. Ali,14444,S46,56,1246,11.866666666666667,lost_deposit
@@ -17405,9 +17405,9 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1982-04-22,SE-06,Negeri Sembilan,N.17 Jimah,Jimah,2,Teddy @ Edward Pang,10776,DAP,18,4337,48.258595749415825,lost
 1982-04-22,SE-06,Negeri Sembilan,N.18 Si Rusa,Si Rusa,1,Muthuppalaniappan @ Mani A/L Muthuraman Chettiar,10777,BN,25,4763,58.66486020445868,won
 1982-04-22,SE-06,Negeri Sembilan,N.18 Si Rusa,Si Rusa,2,Mohamed Zain @ Yusof Bin Bador,10778,DAP,18,3356,41.33513979554132,lost
-1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,1,Ishak B. Ibrahim,1519,PAS,3,293,5.153007386563489,lost_deposit
-1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,2,Md. Harun Bin Abd Ghani,9658,DAP,18,1039,18.27295110798452,lost
-1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,3,Mustafa @ Mustapah Bin Hj. Hassan,10781,BN,25,4354,76.57404150545199,won
+1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,1,Ishak B. Ibrahim,1519,PAS,3,293,5.15391380826737,lost_deposit
+1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,2,Md. Harun Bin Abd Ghani,9658,DAP,18,1039,18.276165347405453,lost
+1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,3,Mustafa @ Mustapah Bin Hj. Hassan,10781,BN,25,4353,76.56992084432717,won
 1982-04-22,SE-06,Negeri Sembilan,N.20 Linggi,Linggi,1,Mohd. Isa Bin Abdul Samad,410,BN,25,0,,won_uncontested
 1982-04-22,SE-06,Negeri Sembilan,N.21 Kota,Kota,1,Azhari B. Hamzah,1541,PAS,3,1146,16.563087151322446,lost
 1982-04-22,SE-06,Negeri Sembilan,N.21 Kota,Kota,2,Ismail Bin Mohd. Yassin,10784,BN,25,5773,83.43691284867757,won
@@ -17526,8 +17526,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,1,Goh Siow Huat,2784,BN,25,8023,54.28648758373368,won
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,2,Lim Fui Ming,13047,DAP,18,5480,37.07964002977198,lost
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,Sungai Ujong,3,Cikgu Rahmad Binn Abd. Ja;I;,13048,PAS,3,1276,8.63387238649435,lost_deposit
-1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,Labu,1,Harun Bin Selatan,13049,S46,56,2679,30.624142661179697,lost
-1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,Labu,2,Sahardin Bin Hashim,8459,BN,25,6069,69.3758573388203,won
+1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,Labu,1,Harun Bin Selatan,13049,S46,56,2679,30.52991452991453,lost
+1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,Labu,2,Sahardin Bin Hashim,8459,BN,25,6096,69.47008547008548,won
 1990-10-20,SE-08,Negeri Sembilan,N.22 Mambau,Mambau,1,Lee Kong Fee,13051,BN,25,9427,45.84224858976852,lost
 1990-10-20,SE-08,Negeri Sembilan,N.22 Mambau,Mambau,2,Chan Kok Wah,13052,DAP,18,11137,54.15775141023147,won
 1990-10-20,SE-08,Negeri Sembilan,N.23 Jimah,Jimah,1,Yeow Chai Thiam,3476,BN,25,6684,60.45039341593561,won
@@ -19438,8 +19438,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1986-08-02,SE-07,Johor,N.11 Paloh,Paloh,2,Pang Tong Yong,11506,BN,25,12179,54.97427101200686,won
 1986-08-02,SE-07,Johor,N.12 Gunung Lambak,Gunung Lambak,1,Kang Chow Oh,2166,BN,25,15894,76.59389908920052,won
 1986-08-02,SE-07,Johor,N.12 Gunung Lambak,Gunung Lambak,2,Leang Yui Pheng @ Kamal Leang,11508,PAS,3,4857,23.40610091079948,lost
-1986-08-02,SE-07,Johor,N.13 Sri Medan,Sri Medan,1,Kamisan Bin Haji Asari,8129,BN,25,12898,78.86755533814357,won
-1986-08-02,SE-07,Johor,N.13 Sri Medan,Sri Medan,2,Ishak Bin Mohtaram,11510,PAS,3,3456,21.132444661856425,lost
+1986-08-02,SE-07,Johor,N.13 Sri Medan,Sri Medan,1,Kamisan Bin Haji Asari,8129,BN,25,12898,78.88202556418568,won
+1986-08-02,SE-07,Johor,N.13 Sri Medan,Sri Medan,2,Ishak Bin Mohtaram,11510,PAS,3,3453,21.117974435814325,lost
 1986-08-02,SE-07,Johor,N.14 Semerah,Semerah,1,Mahmood Bin Hj. Bakar,11511,PAS,3,1536,7.6243423012012315,lost_deposit
 1986-08-02,SE-07,Johor,N.14 Semerah,Semerah,2,Chia Teo Seng @ Sia Chong Seng,11512,DAP,18,6651,33.01399781594361,lost
 1986-08-02,SE-07,Johor,N.14 Semerah,Semerah,3,Chang Lu Kiang,11513,BN,25,11959,59.36165988285516,won
@@ -20939,10 +20939,10 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1985-04-20,SE-05,Sabah,N.12 Kiulu,Kiulu,4,Gaibin Bin Ransoi,10131,BERSEPADU,50,45,1.0037921035021191,lost_deposit
 1985-04-20,SE-05,Sabah,N.12 Kiulu,Kiulu,5,Ismail Bin Talip @ Ismail Bin Taib,1892,BEBAS,1,14,0.31229087664510374,lost_deposit
 1985-04-20,SE-05,Sabah,N.12 Kiulu,Kiulu,6,Abdul Karim Bin Abdul Sanip,10133,BERSIH,51,36,0.8030336828016953,lost_deposit
-1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,1,Mynoor Ginggor,7891,BN,25,1459,24.7413939291165,lost
-1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,2,Jaffren Danggal,10135,BERSEPADU,50,98,1.661861963710361,lost_deposit
-1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,3,Ewon Ebin,3907,PBS,48,2372,40.2238426318467,won
-1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,4,Abdul Rahman Kimbuyu,10137,USNO,15,1968,33.37290147532644,lost
+1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,1,Mynoor Ginggor,7891,BN,25,1450,24.626358695652172,lost
+1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,2,Jaffren Danggal,10135,BERSEPADU,50,98,1.6644021739130437,lost_deposit
+1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,3,Ewon Ebin,3907,PBS,48,2372,40.28532608695652,won
+1985-04-20,SE-05,Sabah,N.13 Kundasang,Kundasang,4,Abdul Rahman Kimbuyu,10137,USNO,15,1968,33.42391304347826,lost
 1985-04-20,SE-05,Sabah,N.14 Ranau,Ranau,1,Abdul Momen Bin Ajak,10138,USNO,15,1518,29.613733905579398,lost
 1985-04-20,SE-05,Sabah,N.14 Ranau,Ranau,2,Hj. Jirin Bin Saliun,10139,BN,25,906,17.674600078033553,lost
 1985-04-20,SE-05,Sabah,N.14 Ranau,Ranau,3,Mark Koding,1302,PBS,48,2702,52.71166601638705,won
@@ -23659,11 +23659,11 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1979-09-15,SE-03,Sarawak,N.41 Tatau,Tatau,2,Joseph Mamat Samuel,8085,BN,25,3218,81.61298503677403,won
 1979-09-15,SE-03,Sarawak,N.42 Kemena,Kemena,1,Celestine Ujang A/K Jilan,8086,BN,25,6001,87.5419401896426,won
 1979-09-15,SE-03,Sarawak,N.42 Kemena,Kemena,2,Mohamad Bin Nawi,8087,PAJAR,35,854,12.458059810357405,lost_deposit
-1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,1,Antalai A/K Sawing,8088,SAPO,38,2237,23.404477924251935,lost
-1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,2,Haji Salem Bin Gapar,8089,BEBAS,1,52,0.5440468717304876,lost_deposit
-1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,3,Simat Bin Dollah,8090,PAJAR,35,196,2.0506382088302995,lost_deposit
-1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,4,Anthony Sia,8091,BEBAS,1,1313,13.73718351119481,lost
-1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,5,Mumin Bin Kader,7175,BN,25,5760,60.263653483992464,won
+1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,1,Antalai A/K Sawing,8088,SAPO,38,2273,23.691890765061498,lost
+1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,2,Haji Salem Bin Gapar,8089,BEBAS,1,52,0.5420054200542005,lost_deposit
+1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,3,Simat Bin Dollah,8090,PAJAR,35,196,2.0429435063581405,lost_deposit
+1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,4,Anthony Sia,8091,BEBAS,1,1313,13.685636856368562,lost
+1979-09-15,SE-03,Sarawak,N.43 Subis,Subis,5,Mumin Bin Kader,7175,BN,25,5760,60.0375234521576,won
 1979-09-15,SE-03,Sarawak,N.44 Miri,Miri,1,Szetu Mei Thong,1366,SAPO,38,7500,45.355587808417994,lost
 1979-09-15,SE-03,Sarawak,N.44 Miri,Miri,2,Datuk Chia Chin Shin,1367,BN,25,9036,54.644412191582006,won
 1979-09-15,SE-03,Sarawak,N.45 Marudi,Marudi,1,Limau A/K Dali,8095,SAPO,38,1609,24.972838739717524,lost
@@ -23933,19 +23933,19 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1987-04-15,SE-05,Sarawak,N.42 Kemena,Kemena,1,Victor Temenggong Angang,1961,PERMAS,55,4623,33.82847943802137,lost
 1987-04-15,SE-05,Sarawak,N.42 Kemena,Kemena,2,Chiew Chiu Sing,2269,DAP,18,2462,18.01551295185131,lost
 1987-04-15,SE-05,Sarawak,N.42 Kemena,Kemena,3,Datuk Celestine Ukang Ak. Jilan @ Ujang Ak. Jilan,10384,BN,25,6581,48.15600761012732,won
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,1,Ali B. Mana,10385,BEBAS,1,95,0.7579988829490146,lost_deposit
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,2,Salleh B Jafaruddin,1953,PERMAS,55,6390,50.98539854783372,won
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,3,Chong Kon Fatt @ Chong Kow Fatt,10387,DAP,18,254,2.0266496449373657,lost_deposit
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,4,Usop B. Wahap @ Sani Wahap,10388,BN,25,5672,45.25652277986117,lost
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,5,Linggie Ak. Balong,10389,BEBAS,1,81,0.6462937844091599,lost_deposit
-1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,6,David Ak. La,10390,BEBAS,1,41,0.32713636000957474,lost_deposit
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,1,Ali B. Mana,10385,BEBAS,1,95,0.7579384075315143,lost_deposit
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,2,Salleh B Jafaruddin,1953,PERMAS,55,6390,50.981330780277645,won
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,3,Chong Kon Fatt @ Chong Kow Fatt,10387,DAP,18,254,2.02648795276847,lost_deposit
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,4,Usop B. Wahap @ Sani Wahap,10388,BN,25,5672,45.25291207914472,lost
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,5,Linggie Ak. Balong,10389,BEBAS,1,81,0.646242221158449,lost_deposit
+1987-04-15,SE-05,Sarawak,N.43 Subis,Subis,6,David Ak. La,10390,BEBAS,1,42,0.3350885591191958,lost_deposit
 1987-04-15,SE-05,Sarawak,N.44 Miri,Miri,1,Wong Ho Leng,1965,DAP,18,6079,29.753805491654838,lost
 1987-04-15,SE-05,Sarawak,N.44 Miri,Miri,2,Dr George Chan Hong Nam,1655,BN,25,14352,70.24619450834516,won
 1987-04-15,SE-05,Sarawak,N.45 Marudi,Marudi,1,Abu Bakar Bin Abdullah @ Tom Belarek,10393,BEBAS,1,278,3.6889596602972397,lost_deposit
 1987-04-15,SE-05,Sarawak,N.45 Marudi,Marudi,2,Atong Ak. Chuwat,10394,BN,25,3102,41.16242038216561,lost
 1987-04-15,SE-05,Sarawak,N.45 Marudi,Marudi,3,Edward Jeli Ak. Blayong @ Dian Ak. Blayong,10395,PBDS,47,4156,55.14861995753716,won
-1987-04-15,SE-05,Sarawak,N.46 Telang Usan,Telang Usan,1,Kebing Wan,3276,BN,25,2644,58.46970367094207,won
-1987-04-15,SE-05,Sarawak,N.46 Telang Usan,Telang Usan,2,Datuk Balan Seling @ Datuk Joseph Balan Seling,10397,PBDS,47,1878,41.53029632905793,lost
+1987-04-15,SE-05,Sarawak,N.46 Telang Usan,Telang Usan,1,Kebing Wan,3276,BN,25,2644,47.88120246287577,lost
+1987-04-15,SE-05,Sarawak,N.46 Telang Usan,Telang Usan,2,Datuk Balan Seling @ Datuk Joseph Balan Seling,10397,PBDS,47,2878,52.11879753712423,won
 1987-04-15,SE-05,Sarawak,N.47 Limbang,Limbang,1,Thianeng Ak. Chuanteck,10398,BEBAS,1,271,2.9835957282836065,lost_deposit
 1987-04-15,SE-05,Sarawak,N.47 Limbang,Limbang,2,Datuk Amar James Wong Kim Min,829,BN,25,4555,50.14862930749753,won
 1987-04-15,SE-05,Sarawak,N.47 Limbang,Limbang,3,Munir Bin Karim,10400,PERMAS,55,4168,45.887922492568535,lost
@@ -24237,8 +24237,8 @@ date,election,state,seat,area_name,ballot_order,name,candidate_uid,party,party_u
 1996-09-07,SE-07,Sarawak,N.55 Lambir,Lambir,1,Mohdar Ismail,12645,BEBAS,1,2528,23.741547708489858,lost
 1996-09-07,SE-07,Sarawak,N.55 Lambir,Lambir,2,Aidan Wing,12646,BN,25,7794,73.19684447783621,won
 1996-09-07,SE-07,Sarawak,N.55 Lambir,Lambir,3,Janting Ak. T.R. Jawa,12647,BEBAS,1,326,3.0616078136739295,lost_deposit
-1996-09-07,SE-07,Sarawak,N.56 Piasau,Piasau,1,Law Ching Sing,12648,DAP,18,2546,22.564920677124878,lost
-1996-09-07,SE-07,Sarawak,N.56 Piasau,Piasau,2,Datuk Dr George Chan Hong Nam,11471,BN,25,8737,77.43507932287513,won
+1996-09-07,SE-07,Sarawak,N.56 Piasau,Piasau,1,Law Ching Sing,12648,DAP,18,3546,28.8691687698445,lost
+1996-09-07,SE-07,Sarawak,N.56 Piasau,Piasau,2,Datuk Dr George Chan Hong Nam,11471,BN,25,8737,71.1308312301555,won
 1996-09-07,SE-07,Sarawak,N.57 Senadin,Senadin,1,Yong Honng Fuh,12650,BEBAS,1,1811,14.427979604843848,lost
 1996-09-07,SE-07,Sarawak,N.57 Senadin,Senadin,2,Lee Kim Shin,12651,BN,25,9568,76.22689611217336,won
 1996-09-07,SE-07,Sarawak,N.57 Senadin,Senadin,3,Hadin Ak Mulau,12652,BEBAS,1,1173,9.345124282982791,lost_deposit
