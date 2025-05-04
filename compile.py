@@ -123,9 +123,10 @@ def validate():
     df = pd.merge(df,bf,on=COL_JOIN,how='left')
     df['check'] = df.votes_valid - df.votes_valid_derived
     df['check_perc'] = df.check.abs() / df.votes_valid * 100
+
+    df = df[~((df.state == 'Sarawak') & (df.election == 'SE-09'))] # known issue due to lack of summary data
     if len(df[df.check != 0]) > 0:
         df = df.sort_values(by=['date','state','seat']).drop('check_perc',axis=1)
-        df = df[~((df.state == 'Sarawak') & (df.election == 'SE-09'))]
         df = df[['check'] + list(df.columns[:-1])]
         df[df.check != 0].to_csv('logs/check.csv',index=False)
         raise Exception(f'Validation failed for {len(df[df.check != 0])} seats!')
