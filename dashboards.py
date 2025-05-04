@@ -1,9 +1,15 @@
 import pandas as pd
 import numpy as np
 import json as j
+import os
+import time
+from dotenv import load_dotenv
+from requests_toolbelt import MultipartEncoder
+import requests
 
 from helper import generate_slug, get_states, write_parquet
 
+load_dotenv()
 PATH = 'src-data/dashboards'
 
 nm = pd.read_csv('src-data/lookup_candidates.csv').drop_duplicates(subset=['candidate_uid'],keep='last')
@@ -31,7 +37,7 @@ def make_candidates():
 
     df = pd.read_parquet('src-data/consol_ballots.parquet').rename(columns={'election':'election_name'})
     df['seat'] = df['seat'] + ', ' + df['state']
-    df = df.drop(['state','area_name'],axis=1)
+    df = df.drop(['state'],axis=1)
     assert len(df[~df.candidate_uid.isin(MAP_NAME.keys())]) == 0, f'Candidate UIDs not found in name map! {df[~df.candidate_uid.isin(MAP_NAME.keys())].candidate_uid.unique()}'
     df['name'] = df['candidate_uid'].map(MAP_NAME)
     df['slug'] = df['candidate_uid'].astype(str).str.zfill(5)
@@ -45,7 +51,7 @@ def make_candidates():
         .drop(['votes_valid','ballots_not_returned_perc','voters_total'],axis=1)\
         .rename(columns={'ballots_issued':'voter_turnout','voter_turnout':'voter_turnout_perc','election':'election_name'})
     tf['seat'] = tf['seat'] + ', ' + tf['state']
-    tf = tf.drop(['state','area_name'],axis=1)[COL_SUMMARY]
+    tf = tf.drop(['state'],axis=1)[COL_SUMMARY]
     tf.election_name = tf.election_name.str.replace('BY-ELECTION','By-Election')
 
     df = pd.merge(df,tf,on=['date','election_name','seat'],how='right')
@@ -71,14 +77,17 @@ def make_seats():
     """
     COL_WINNER = ['slug','seat_name','seat','state','date','election_name','type','party','name']
 
+    lf = pd.read_csv('src-data/lookup_seats.csv')
+    MAP_AREA_NAME = dict(zip(zip(lf.election, lf.state, lf.seat), lf.area_name))
+
     df = pd.read_parquet(f'src-data/consol_ballots.parquet').rename(columns={'election':'election_name'})
     df['name'] = df['candidate_uid'].map(MAP_NAME)
     assert len(df[df.name.isnull()]) == 0, f'Candidate name not found in name map! {df[df.name.isnull()].candidate_uid.unique()}'
-    df.election_name = df.election_name.str.replace('BY-ELECTION','By-Election')
     df['type'] = 'parlimen'
     df.loc[df.seat.str.startswith('N.'),'type'] = 'dun'
-    df['seat_name'] = df.area_name + ', ' + df.state
+    df['seat_name'] = df.apply(lambda x: MAP_AREA_NAME.get((x['election_name'], x['state'], x['seat'])), axis=1) + ', ' + df.state
     df['slug'] = df.type.str[:1] + '-' + df.seat_name.apply(generate_slug)
+    df.election_name = df.election_name.str.replace('BY-ELECTION','By-Election')
     df = df[df.result.str.contains('won')].copy().drop('result',axis=1)[COL_WINNER]
     assert len(df) == len(df.drop_duplicates(subset=['date','slug'])), 'Duplicate seats!!'
 
@@ -279,3 +288,46 @@ if __name__ == '__main__':
     make_dates()
     make_veterans()
     make_slim_big()
+
+    TINYBIRD = True
+
+    if TINYBIRD:
+        print('\nBeginning Tinybird upload:')
+
+        for FILE in [
+            'elections_candidates',
+            'elections_seats_winner',
+            'elections_parties',
+            'elections_dates',
+            'elections_veterans',
+            'elections_slim_big',
+        ]:
+            time.sleep(10)
+            m = MultipartEncoder(
+                fields={
+                    'parquet': (
+                        f'{FILE}.parquet',
+                        open(f'src-data/dashboards/{FILE}.parquet', 'rb'),
+                        'text/plain'
+                    )
+                }
+            )
+
+            r = requests.post('https://api.us-east.aws.tinybird.co/v0/datasources',
+                headers={
+                    'Authorization': f'Bearer {os.getenv("TINYBIRD_API_KEY")}',
+                    'Content-Type': m.content_type
+                },
+                params={
+                    'name': FILE,
+                    'mode': 'replace',
+                    'format': 'parquet',
+                },
+                data=m
+            )
+
+            if r.status_code != 200:
+                print(r.status_code)
+                print(r.text)
+            else:
+                print(f'\n200 OK: {FILE}')
