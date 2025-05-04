@@ -1,49 +1,49 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Sarawak,N.01 Lundu,Lundu,6899,5708,0,399
-Sarawak,N.02 Bau,Bau,10601,8621,0,928
-Sarawak,N.03 Kuching Barat,Kuching Barat,14287,11196,0,525
-Sarawak,N.04 Kuching Timor,Kuching Timor,13888,10275,0,384
-Sarawak,N.05 Semariang,Semariang,8558,6705,0,462
-Sarawak,N.06 Sekama,Sekama,11591,8787,0,484
-Sarawak,N.07 Sebandi,Sebandi,8496,6622,0,489
-Sarawak,N.08 Muara Tuang,Muara Tuang,5092,4103,0,417
-Sarawak,N.09 Batu Kawah,Batu Kawah,9740,7874,0,656
-Sarawak,N.10 Bengoh,Bengoh,5578,4861,0,503
-Sarawak,N.11 Tarat,Tarat,9812,7869,0,981
-Sarawak,N.12 Tebakang,Tebakang,9093,7479,0,653
-Sarawak,N.13 Semera,Semera,6590,5442,0,542
-Sarawak,N.14 Gedong,Gedong,6536,5295,0,423
-Sarawak,N.15 Lingga-Sebuyu,Lingga–Sebuyu,8807,6491,0,439
-Sarawak,N.16 Seminggang,Seminggang,9711,7447,0,537
-Sarawak,N.17 Engkilili-Skrang,Engkilili–Skrang,4929,3633,0,423
-Sarawak,N.18 Ulu Ai,Ulu Ai,4774,3116,0,357
-Sarawak,N.19 Saribas,Saribas,7304,5821,0,436
-Sarawak,N.20 Layar,Layar,7044,5658,0,460
-Sarawak,N.21 Kelaka,Kelaka,6280,5378,0,337
-Sarawak,N.22 Krian,Krian,6883,5307,0,356
-Sarawak,N.23 Kuala Rajang,Kuala Rajang,6077,5054,0,358
-Sarawak,N.24 Repok,Repok,6419,4806,0,290
-Sarawak,N.25 Matu-Daro,Matu–Daro,7025,5349,0,363
-Sarawak,N.26 Binatang,Binatang,9812,7544,0,408
-Sarawak,N.27 Sibu Tengah,Sibu Tengah,11284,7743,0,333
-Sarawak,N.28 Sibu Luar,Sibu Luar,8317,5416,0,395
-Sarawak,N.29 Igan,Igan,7914,5836,0,400
-Sarawak,N.30 Dudong,Dudong,6753,4634,0,338
-Sarawak,N.31 Balingian,Balingian,9129,5682,0,423
-Sarawak,N.32 Oya,Oya,9019,6186,0,398
-Sarawak,N.33 Pakan,Pakan,4445,3315,0,290
-Sarawak,N.34 Meluan,Meluan,4745,3168,0,349
-Sarawak,N.35 Machan,Machan,5702,4174,0,218
-Sarawak,N.36 Ngemah,Ngemah,5123,3373,0,401
-Sarawak,N.37 Song,Song,6476,3914,0,481
-Sarawak,N.38 Pelagus,Pelagus,5786,4277,0,426
-Sarawak,N.39 Baleh,Baleh,7143,4665,0,479
-Sarawak,N.40 Belaga,Belaga,3760,3070,0,269
-Sarawak,N.41 Tatau,Tatau,7675,5652,0,417
-Sarawak,N.42 Kemena,Kemena,7961,5793,0,548
-Sarawak,N.43 Subis,Subis,10000,7431,0,813
-Sarawak,N.44 Miri,Miri,14058,9671,0,502
-Sarawak,N.45 Marudi,Marudi,8509,6207,0,541
-Sarawak,N.46 Telang Usan,Telang Usan,6709,4663,0,486
-Sarawak,N.47 Limbang,Limbang,7233,5915,0,310
-Sarawak,N.48 Lawas,Lawas,6315,4961,0,30
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Sarawak,N.01 Lundu,6899,5708,0,399
+Sarawak,N.02 Bau,10601,8621,0,928
+Sarawak,N.03 Kuching Barat,14287,11196,0,525
+Sarawak,N.04 Kuching Timor,13888,10275,0,384
+Sarawak,N.05 Semariang,8558,6705,0,462
+Sarawak,N.06 Sekama,11591,8787,0,484
+Sarawak,N.07 Sebandi,8496,6622,0,489
+Sarawak,N.08 Muara Tuang,5092,4103,0,417
+Sarawak,N.09 Batu Kawah,9740,7874,0,656
+Sarawak,N.10 Bengoh,5578,4861,0,503
+Sarawak,N.11 Tarat,9812,7869,0,981
+Sarawak,N.12 Tebakang,9093,7479,0,653
+Sarawak,N.13 Semera,6590,5442,0,542
+Sarawak,N.14 Gedong,6536,5295,0,423
+Sarawak,N.15 Lingga-Sebuyu,8807,6491,0,439
+Sarawak,N.16 Seminggang,9711,7447,0,537
+Sarawak,N.17 Engkilili-Skrang,4929,3633,0,423
+Sarawak,N.18 Ulu Ai,4774,3116,0,357
+Sarawak,N.19 Saribas,7304,5821,0,436
+Sarawak,N.20 Layar,7044,5658,0,460
+Sarawak,N.21 Kelaka,6280,5378,0,337
+Sarawak,N.22 Krian,6883,5307,0,356
+Sarawak,N.23 Kuala Rajang,6077,5054,0,358
+Sarawak,N.24 Repok,6419,4806,0,290
+Sarawak,N.25 Matu-Daro,7025,5349,0,363
+Sarawak,N.26 Binatang,9812,7544,0,408
+Sarawak,N.27 Sibu Tengah,11284,7743,0,333
+Sarawak,N.28 Sibu Luar,8317,5416,0,395
+Sarawak,N.29 Igan,7914,5836,0,400
+Sarawak,N.30 Dudong,6753,4634,0,338
+Sarawak,N.31 Balingian,9129,5682,0,423
+Sarawak,N.32 Oya,9019,6186,0,398
+Sarawak,N.33 Pakan,4445,3315,0,290
+Sarawak,N.34 Meluan,4745,3168,0,349
+Sarawak,N.35 Machan,5702,4174,0,218
+Sarawak,N.36 Ngemah,5123,3373,0,401
+Sarawak,N.37 Song,6476,3914,0,481
+Sarawak,N.38 Pelagus,5786,4277,0,426
+Sarawak,N.39 Baleh,7143,4665,0,479
+Sarawak,N.40 Belaga,3760,3070,0,269
+Sarawak,N.41 Tatau,7675,5652,0,417
+Sarawak,N.42 Kemena,7961,5793,0,548
+Sarawak,N.43 Subis,10000,7431,0,813
+Sarawak,N.44 Miri,14058,9671,0,502
+Sarawak,N.45 Marudi,8509,6207,0,541
+Sarawak,N.46 Telang Usan,6709,4663,0,486
+Sarawak,N.47 Limbang,7233,5915,0,310
+Sarawak,N.48 Lawas,6315,4961,0,30

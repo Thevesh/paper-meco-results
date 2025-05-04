@@ -1,37 +1,37 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Negeri Sembilan,N.01 Chennah,Chennah,9935,6970,0,293
-Negeri Sembilan,N.02 Pertang,Pertang,8023,5827,1,172
-Negeri Sembilan,N.03 Sungai Lui,Sungai Lui,11207,8696,89,271
-Negeri Sembilan,N.04 Klawang,Klawang,8551,5965,6,157
-Negeri Sembilan,N.05 Serting,Serting,14016,10564,26,195
-Negeri Sembilan,N.06 Palong,Palong,11530,9337,10,183
-Negeri Sembilan,N.07 Jeram Padang,Jeram Padang,9573,6286,22,302
-Negeri Sembilan,N.08 Bahau,Bahau,15434,11021,225,350
-Negeri Sembilan,N.09 Lenggeng,Lenggeng,12014,8927,11,162
-Negeri Sembilan,N.10 Nilai,Nilai,14802,10466,2,321
-Negeri Sembilan,N.11 Lobak,Lobak,14588,10338,18,180
-Negeri Sembilan,N.12 Temiang,Temiang,10667,7683,46,198
-Negeri Sembilan,N.13 Sikamat,Sikamat,14343,10551,0,190
-Negeri Sembilan,N.14 Ampangan,Ampangan,15290,11009,19,219
-Negeri Sembilan,N.15 Juasseh,Juasseh,8603,6437,0,157
-Negeri Sembilan,N.16 Seri Menanti,Seri Menanti,8047,6085,0,171
-Negeri Sembilan,N.17 Senaling,Senaling,7022,5299,0,95
-Negeri Sembilan,N.18 Pilah,Pilah,10531,7455,40,172
-Negeri Sembilan,N.19 Johol,Johol,8891,6538,0,189
-Negeri Sembilan,N.20 Labu,Labu,12212,9012,245,230
-Negeri Sembilan,N.21 Bukit Kepayang,Bukit Kepayang,11913,8632,232,232
-Negeri Sembilan,N.22 Rahang,Rahang,13293,9225,0,273
-Negeri Sembilan,N.23 Mambau,Mambau,13476,10056,3,142
-Negeri Sembilan,N.24 Senawang,Senawang,14258,10378,0,262
-Negeri Sembilan,N.25 Paroi,Paroi,14862,11250,60,249
-Negeri Sembilan,N.26 Chembong,Chembong,12728,9553,19,264
-Negeri Sembilan,N.27 Rantau,Rantau,13916,10127,4,260
-Negeri Sembilan,N.28 Kota,Kota,12031,8933,6,208
-Negeri Sembilan,N.29 Chuah,Chuah,10402,7515,0,197
-Negeri Sembilan,N.30 Lukut,Lukut,10128,7642,3,201
-Negeri Sembilan,N.31 Bagan Pinang,Bagan Pinang,11205,8341,319,499
-Negeri Sembilan,N.32 Linggi,Linggi,12514,9392,149,229
-Negeri Sembilan,N.33 Port Dickson,Port Dickson,12210,8356,21,320
-Negeri Sembilan,N.34 Gemas,Gemas,14169,10688,110,200
-Negeri Sembilan,N.35 Gemencheh,Gemencheh,13057,9552,10,284
-Negeri Sembilan,N.36 Repah,Repah,14345,10614,0,388
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Negeri Sembilan,N.01 Chennah,9935,6970,0,293
+Negeri Sembilan,N.02 Pertang,8023,5827,1,172
+Negeri Sembilan,N.03 Sungai Lui,11207,8696,89,271
+Negeri Sembilan,N.04 Klawang,8551,5965,6,157
+Negeri Sembilan,N.05 Serting,14016,10564,26,195
+Negeri Sembilan,N.06 Palong,11530,9337,10,183
+Negeri Sembilan,N.07 Jeram Padang,9573,6286,22,302
+Negeri Sembilan,N.08 Bahau,15434,11021,225,350
+Negeri Sembilan,N.09 Lenggeng,12014,8927,11,162
+Negeri Sembilan,N.10 Nilai,14802,10466,2,321
+Negeri Sembilan,N.11 Lobak,14588,10338,18,180
+Negeri Sembilan,N.12 Temiang,10667,7683,46,198
+Negeri Sembilan,N.13 Sikamat,14343,10551,0,190
+Negeri Sembilan,N.14 Ampangan,15290,11009,19,219
+Negeri Sembilan,N.15 Juasseh,8603,6437,0,157
+Negeri Sembilan,N.16 Seri Menanti,8047,6085,0,171
+Negeri Sembilan,N.17 Senaling,7022,5299,0,95
+Negeri Sembilan,N.18 Pilah,10531,7455,40,172
+Negeri Sembilan,N.19 Johol,8891,6538,0,189
+Negeri Sembilan,N.20 Labu,12212,9012,245,230
+Negeri Sembilan,N.21 Bukit Kepayang,11913,8632,232,232
+Negeri Sembilan,N.22 Rahang,13293,9225,0,273
+Negeri Sembilan,N.23 Mambau,13476,10056,3,142
+Negeri Sembilan,N.24 Senawang,14258,10378,0,262
+Negeri Sembilan,N.25 Paroi,14862,11250,60,249
+Negeri Sembilan,N.26 Chembong,12728,9553,19,264
+Negeri Sembilan,N.27 Rantau,13916,10127,4,260
+Negeri Sembilan,N.28 Kota,12031,8933,6,208
+Negeri Sembilan,N.29 Chuah,10402,7515,0,197
+Negeri Sembilan,N.30 Lukut,10128,7642,3,201
+Negeri Sembilan,N.31 Bagan Pinang,11205,8341,319,499
+Negeri Sembilan,N.32 Linggi,12514,9392,149,229
+Negeri Sembilan,N.33 Port Dickson,12210,8356,21,320
+Negeri Sembilan,N.34 Gemas,14169,10688,110,200
+Negeri Sembilan,N.35 Gemencheh,13057,9552,10,284
+Negeri Sembilan,N.36 Repah,14345,10614,0,388

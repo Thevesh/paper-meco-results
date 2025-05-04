@@ -1,56 +1,56 @@
-date,state,seat,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-2008-08-26,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,58459,47268,10,447
-2009-01-17,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,80229,64102,109,665
-2009-04-07,Kedah,N.25 Bukit Selambau,Bukit Selambau,35140,24611,9,415
-2009-04-07,Perak,P.059 Bukit Gantang,Bukit Gantang,55562,41467,18,456
-2009-04-07,Sarawak,N.29 Batang Air,Batang Air,8006,6030,11,59
-2009-05-31,Pulau Pinang,N.12 Penanti,Penanti,15384,7102,1,107
-2009-07-14,Kelantan,N.41 Manek Urai,Manek Urai,12293,10754,6,117
-2009-08-25,Pulau Pinang,N.11 Permatang Pasir,Permatang Pasir,20290,14769,1,83
-2009-10-11,Negeri Sembilan,N.31 Bagan Pinang,Bagan Pinang,13664,11170,356,223
-2010-04-25,Selangor,P.094 Hulu Selangor,Hulu Selangor,64500,49067,67,731
-2010-05-16,Sarawak,P.212 Sibu,Sibu,54695,38111,192,395
-2010-11-04,Kelantan,N.45 Galas,Galas,11553,9593,3,132
-2010-11-04,Sabah,P.185 Batu Sapi,Batu Sapi,25582,15613,23,372
-2011-01-30,Johor,N.05 Tenang,Tenang,14676,9833,3,139
-2011-03-06,Pahang,N.28 Kerdau,Kerdau,8999,7487,1,90
-2011-03-06,Melaka,N.27 Merlimau,Merlimau,10679,8417,1,135
-2013-07-24,Terengganu,N.01 Kuala Besut,Kuala Besut,17683,14109,0,125
-2013-11-04,Kedah,N.20 Sungai Limau,Sungai Limau,27222,23205,6,145
-2014-03-23,Selangor,N.25 Kajang,Kajang,39278,28317,38,176
-2014-03-29,Sarawak,N.51 Balingian,Balingian,13366,9624,1,146
-2014-05-25,Pulau Pinang,P.051 Bukit Gelugor,Bukit Gelugor,82431,46438,50,539
-2014-05-31,Perak,P.076 Telok Intan,Teluk Intan,60349,40668,49,543
-2014-09-25,Kelantan,N.01 Pengkalan Kubor,Pengkalan Kubor,24039,17558,3,230
-2015-03-22,Kelantan,N.06 Chempaka,Chempaka,21890,12020,7,140
-2015-05-05,Pahang,P.091 Rompin,Rompin,53294,39352,64,591
-2015-05-07,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,71890,53145,43,843
-2016-06-18,Perak,P.067 Kuala Kangsar,Kuala Kangsar,32949,23523,10,239
-2016-06-18,Selangor,P.093 Sungai Besar,Sungai Besar,42655,31721,31,379
-2017-02-18,Sarawak,N.03 Tanjong Datu,Tanjong Datu,9959,6892,1,80
-2018-08-04,Selangor,N.49 Sungai Kandis,Sungai Kandis,51230,25303,21,173
-2018-09-08,Selangor,N.27 Balakong,Balakong,62219,26734,24,227
-2018-09-08,Selangor,N.32 Seri Setia,Seri Setia,53492,23615,28,164
-2018-10-13,Negeri Sembilan,P.132 Port Dickson,Port Dickson,75317,44136,49,598
-2019-01-26,Pahang,P.078 Cameron Highlands,Cameron Highlands,32009,22019,23,568
-2019-03-02,Selangor,N.24 Semenyih,Semenyih,54503,39918,50,650
-2019-04-13,Negeri Sembilan,N.27 Rantau,Rantau,20926,16596,4,146
-2019-05-11,Sabah,P.186 Sandakan,Sandakan,40131,21847,18,234
-2019-11-16,Johor,P.165 Tanjung Piai,Tanjung Piai,52986,39440,30,595
-2020-01-18,Sabah,P.176 Kimanis,Kimanis,29664,23708,5,320
-2020-07-04,Pahang,N.23 Chini,Chini,20990,15506,36,239
-2020-08-29,Perak,N.58 Slim,Slim,23094,15796,18,327
-2022-11-19,Sabah,N.66 Bugaya,Bugaya,32761,18376,126,482
-2022-12-07,Pahang,N.42 Tioman,Tioman,28465,16621,22,91
-2022-12-07,Kedah,P.017 Padang Serai,Padang Serai,133867,92302,133,753
-2023-08-12,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,123397,90632,111,1049
-2023-09-09,Johor,N.13 Simpang Jeram,Simpang Jeram,40379,24571,12,74
-2023-09-09,Johor,P.161 Pulai,Pulai,166653,78882,66,363
-2023-10-07,Pahang,N.36 Pelangai,Pelangai,16456,11868,2,120
-2023-11-04,Sarawak,N.67 Jepak,Jepak,22804,11077,2,152
-2023-12-02,Terengganu,P.040 Kemaman,Kemaman,141790,93239,35,428
-2024-05-11,Selangor,N.06 Kuala Kubu Baharu,Kuala Kubu Baharu,40226,24734,0,263
-2024-07-06,Pulau Pinang,N.20 Sungai Bakap,Sungai Bakap,39279,24923,4,208
-2024-08-17,Kelantan,N.43 Nenggiri,Nenggiri,20259,14968,3,135
-2024-09-28,Johor,N.29 Mahkota,Mahkota,66318,35705,24,339
-2025-04-26,Perak,N.48 Ayer Kuning,Ayer Kuning,31897,18523,4,289
+date,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+2008-08-26,Pulau Pinang,P.044 Permatang Pauh,58459,47268,10,447
+2009-01-17,Terengganu,P.036 Kuala Terengganu,80229,64102,109,665
+2009-04-07,Kedah,N.25 Bukit Selambau,35140,24611,9,415
+2009-04-07,Perak,P.059 Bukit Gantang,55562,41467,18,456
+2009-04-07,Sarawak,N.29 Batang Air,8006,6030,11,59
+2009-05-31,Pulau Pinang,N.12 Penanti,15384,7102,1,107
+2009-07-14,Kelantan,N.41 Manek Urai,12293,10754,6,117
+2009-08-25,Pulau Pinang,N.11 Permatang Pasir,20290,14769,1,83
+2009-10-11,Negeri Sembilan,N.31 Bagan Pinang,13664,11170,356,223
+2010-04-25,Selangor,P.094 Hulu Selangor,64500,49067,67,731
+2010-05-16,Sarawak,P.212 Sibu,54695,38111,192,395
+2010-11-04,Kelantan,N.45 Galas,11553,9593,3,132
+2010-11-04,Sabah,P.185 Batu Sapi,25582,15613,23,372
+2011-01-30,Johor,N.05 Tenang,14676,9833,3,139
+2011-03-06,Pahang,N.28 Kerdau,8999,7487,1,90
+2011-03-06,Melaka,N.27 Merlimau,10679,8417,1,135
+2013-07-24,Terengganu,N.01 Kuala Besut,17683,14109,0,125
+2013-11-04,Kedah,N.20 Sungai Limau,27222,23205,6,145
+2014-03-23,Selangor,N.25 Kajang,39278,28317,38,176
+2014-03-29,Sarawak,N.51 Balingian,13366,9624,1,146
+2014-05-25,Pulau Pinang,P.051 Bukit Gelugor,82431,46438,50,539
+2014-05-31,Perak,P.076 Telok Intan,60349,40668,49,543
+2014-09-25,Kelantan,N.01 Pengkalan Kubor,24039,17558,3,230
+2015-03-22,Kelantan,N.06 Chempaka,21890,12020,7,140
+2015-05-05,Pahang,P.091 Rompin,53294,39352,64,591
+2015-05-07,Pulau Pinang,P.044 Permatang Pauh,71890,53145,43,843
+2016-06-18,Perak,P.067 Kuala Kangsar,32949,23523,10,239
+2016-06-18,Selangor,P.093 Sungai Besar,42655,31721,31,379
+2017-02-18,Sarawak,N.03 Tanjong Datu,9959,6892,1,80
+2018-08-04,Selangor,N.49 Sungai Kandis,51230,25303,21,173
+2018-09-08,Selangor,N.27 Balakong,62219,26734,24,227
+2018-09-08,Selangor,N.32 Seri Setia,53492,23615,28,164
+2018-10-13,Negeri Sembilan,P.132 Port Dickson,75317,44136,49,598
+2019-01-26,Pahang,P.078 Cameron Highlands,32009,22019,23,568
+2019-03-02,Selangor,N.24 Semenyih,54503,39918,50,650
+2019-04-13,Negeri Sembilan,N.27 Rantau,20926,16596,4,146
+2019-05-11,Sabah,P.186 Sandakan,40131,21847,18,234
+2019-11-16,Johor,P.165 Tanjung Piai,52986,39440,30,595
+2020-01-18,Sabah,P.176 Kimanis,29664,23708,5,320
+2020-07-04,Pahang,N.23 Chini,20990,15506,36,239
+2020-08-29,Perak,N.58 Slim,23094,15796,18,327
+2022-11-19,Sabah,N.66 Bugaya,32761,18376,126,482
+2022-12-07,Pahang,N.42 Tioman,28465,16621,22,91
+2022-12-07,Kedah,P.017 Padang Serai,133867,92302,133,753
+2023-08-12,Terengganu,P.036 Kuala Terengganu,123397,90632,111,1049
+2023-09-09,Johor,N.13 Simpang Jeram,40379,24571,12,74
+2023-09-09,Johor,P.161 Pulai,166653,78882,66,363
+2023-10-07,Pahang,N.36 Pelangai,16456,11868,2,120
+2023-11-04,Sarawak,N.67 Jepak,22804,11077,2,152
+2023-12-02,Terengganu,P.040 Kemaman,141790,93239,35,428
+2024-05-11,Selangor,N.06 Kuala Kubu Baharu,40226,24734,0,263
+2024-07-06,Pulau Pinang,N.20 Sungai Bakap,39279,24923,4,208
+2024-08-17,Kelantan,N.43 Nenggiri,20259,14968,3,135
+2024-09-28,Johor,N.29 Mahkota,66318,35705,24,339
+2025-04-26,Perak,N.48 Ayer Kuning,31897,18523,4,289

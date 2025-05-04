@@ -1,223 +1,223 @@
-state,parlimen,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Perlis,P.001 Padang Besar,Padang Besar,41976,36142,91,531
-Perlis,P.002 Kangar,Kangar,51215,43431,115,667
-Perlis,P.003 Arau,Arau,43880,38439,127,525
-Kedah,P.004 Langkawi,Langkawi,37539,32096,219,744
-Kedah,P.005 Jerlun,Jerlun,52396,45899,117,730
-Kedah,P.006 Kubang Pasu,Kubang Pasu,65556,57296,238,834
-Kedah,P.007 Padang Terap,Padang Terap,41975,37904,104,691
-Kedah,P.008 Pokok Sena,Pokok Sena,80747,69524,215,848
-Kedah,P.009 Alor Star,Alor Setar,69025,57912,200,1070
-Kedah,P.010 Kuala Kedah,Kuala Kedah,95310,82253,248,1212
-Kedah,P.011 Pendang,Pendang,70154,62578,127,759
-Kedah,P.012 Jerai,Jerai,74371,64778,164,952
-Kedah,P.013 Sik,Sik,46804,42077,85,631
-Kedah,P.014 Merbok,Merbok,85951,74520,226,1340
-Kedah,P.015 Sungai Petani,Sungai Petani,93131,81024,253,959
-Kedah,P.016 Baling,Baling,93171,83109,195,1091
-Kedah,P.017 Padang Serai,Padang Serai,74064,64584,197,1223
-Kedah,P.018 Kulim-Bandar Baharu,Kulim-Bandar Baharu,60930,52766,234,839
-Kelantan,P.019 Tumpat,Tumpat,98646,82962,198,1086
-Kelantan,P.020 Pengkalan Chepa,Pengkalan Chepa,64385,54985,188,683
-Kelantan,P.021 Kota Bharu,Kota Bharu,81221,66277,193,666
-Kelantan,P.022 Pasir Mas,Pasir Mas,71971,60168,238,1115
-Kelantan,P.023 Rantau Panjang,Rantau Panjang,52880,41934,130,632
-Kelantan,P.024 Kubang Kerian,Kubang Kerian,65371,55108,224,605
-Kelantan,P.025 Bachok,Bachok,81581,71792,208,947
-Kelantan,P.026 Ketereh,Ketereh,62247,53906,180,876
-Kelantan,P.027 Tanah Merah,Tanah Merah,58217,50009,137,876
-Kelantan,P.028 Pasir Puteh,Pasir Puteh,76216,66232,192,770
-Kelantan,P.029 Machang,Machang,59252,51372,128,729
-Kelantan,P.030 Jeli,Jeli,43231,37871,93,424
-Kelantan,P.031 Kuala Krai,Kuala Krai,63098,54643,128,720
-Kelantan,P.032 Gua Musang,Gua Musang,40156,35097,64,712
-Terengganu,P.033 Besut,Besut,72600,63017,254,641
-Terengganu,P.034 Setiu,Setiu,67266,59262,124,685
-Terengganu,P.035 Kuala Nerus,Kuala Nerus,76273,68036,152,772
-Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,94393,82122,224,845
-Terengganu,P.037 Marang,Marang,90820,81829,180,805
-Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,63562,56634,144,823
-Terengganu,P.039 Dungun,Dungun,78215,68204,157,909
-Terengganu,P.040 Kemaman,Kemaman,91935,80168,197,1227
-Pulau Pinang,P.041 Kepala Batas,Kepala Batas,51646,46740,75,585
-Pulau Pinang,P.042 Tasek Gelugor,Tasek Gelugor,54068,48121,112,675
-Pulau Pinang,P.043 Bagan,Bagan,68490,59792,57,634
-Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,71723,63475,143,672
-Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,78987,69588,185,712
-Pulau Pinang,P.046 Batu Kawan,Batu Kawan,57512,50208,69,723
-Pulau Pinang,P.047 Nibong Tebal,Nibong Tebal,59366,52599,61,833
-Pulau Pinang,P.048 Bukit Bendera,Bukit Bendera,71055,59118,99,615
-Pulau Pinang,P.049 Tanjong,Tanjong,51504,42903,33,495
-Pulau Pinang,P.050 Jelutong,Jelutong,71264,61715,274,769
-Pulau Pinang,P.051 Bukit Gelugor,Bukit Gelugor,81903,70683,129,654
-Pulau Pinang,P.052 Bayan Baru,Bayan Baru,79133,68846,187,850
-Pulau Pinang,P.053 Balik Pulau,Balik Pulau,49629,43773,64,612
-Perak,P.054 Gerik,Gerik,32713,27414,306,494
-Perak,P.055 Lenggong,Lenggong,27957,23736,251,368
-Perak,P.056 Larut,Larut,46573,40100,171,579
-Perak,P.057 Parit Buntar,Parit Buntar,51399,44306,134,618
-Perak,P.058 Bagan Serai,Bagan Serai,54762,46384,71,1096
-Perak,P.059 Bukit Gantang,Bukit Gantang,71282,61018,130,748
-Perak,P.060 Taiping,Taiping,78133,63913,164,944
-Perak,P.061 Padang Rengas,Padang Rengas,28505,24230,40,410
-Perak,P.062 Sungai Siput,Sungai Siput,51570,41617,45,982
-Perak,P.063 Tambun,Tambun,89419,76275,218,1196
-Perak,P.064 Ipoh Timor,Ipoh Timor,81828,65217,211,834
-Perak,P.065 Ipoh Barat,Ipoh Barat,77773,63074,162,875
-Perak,P.066 Batu Gajah,Batu Gajah,87618,70270,174,966
-Perak,P.067 Kuala Kangsar,Kuala Kangsar,33550,28283,75,407
-Perak,P.068 Beruas,Beruas,49175,39586,78,687
-Perak,P.069 Parit,Parit,33504,28613,72,532
-Perak,P.070 Kampar,Kampar,63658,49272,126,820
-Perak,P.071 Gopeng,Gopeng,97070,81442,179,1456
-Perak,P.072 Tapah,Tapah,45457,36957,102,1052
-Perak,P.073 Pasir Salak,Pasir Salak,51518,43533,161,1008
-Perak,P.074 Lumut,Lumut,88330,73756,175,1133
-Perak,P.075 Bagan Datok,Bagan Datuk,39938,33069,109,716
-Perak,P.076 Telok Intan,Teluk Intan,60519,48839,190,885
-Perak,P.077 Tanjong Malim,Tanjong Malim,64491,53399,162,1115
-Pahang,P.078 Cameron Highlands,Cameron Highlands,27987,22754,6,877
-Pahang,P.079 Lipis,Lipis,32331,27126,140,426
-Pahang,P.080 Raub,Raub,54222,45059,116,927
-Pahang,P.081 Jerantut,Jerantut,58352,49600,139,905
-Pahang,P.082 Indera Mahkota,Indera Mahkota,64245,54737,210,689
-Pahang,P.083 Kuantan,Kuantan,56303,47858,135,570
-Pahang,P.084 Paya Besar,Paya Besar,48040,40834,140,643
-Pahang,P.085 Pekan,Pekan,80262,68464,246,1275
-Pahang,P.086 Maran,Maran,38438,32750,155,572
-Pahang,P.087 Kuala Krau,Kuala Krau,42994,37663,115,603
-Pahang,P.088 Temerloh,Temerloh,66115,56595,154,977
-Pahang,P.089 Bentong,Bentong,62281,52628,125,988
-Pahang,P.090 Bera,Bera,51002,42944,114,965
-Pahang,P.091 Rompin,Rompin,53566,46014,165,883
-Selangor,P.092 Sabak Bernam,Sabak Bernam,37305,31859,153,576
-Selangor,P.093 Sungai Besar,Sungai Besar,42819,37810,129,690
-Selangor,P.094 Hulu Selangor,Hulu Selangor,85745,75113,166,1451
-Selangor,P.095 Tanjong Karang,Tanjong Karang,42340,37768,92,634
-Selangor,P.096 Kuala Selangor,Kuala Selangor,62322,55592,118,934
-Selangor,P.097 Selayang,Selayang,105867,92528,213,1435
-Selangor,P.098 Gombak,Gombak,123291,107140,393,1353
-Selangor,P.099 Ampang,Ampang,83128,71574,176,738
-Selangor,P.100 Pandan,Pandan,83880,73228,153,1023
-Selangor,P.101 Hulu Langat,Hulu Langat,127376,112856,534,1335
-Selangor,P.102 Serdang,Bangi,133114,118339,291,1778
-Selangor,P.103 Puchong,Puchong,107054,94529,194,1261
-Selangor,P.104 Kelana Jaya,Subang,101284,86497,210,1171
-Selangor,P.105 Petaling Jaya Selatan,Petaling Jaya,79565,65323,138,830
-Selangor,P.106 Petaling Jaya Utara,Damansara,85419,70727,113,472
-Selangor,P.107 Subang,Sungai Buloh,128483,112937,319,1669
-Selangor,P.108 Shah Alam,Shah Alam,99918,88128,186,863
-Selangor,P.109 Kapar,Kapar,144180,127023,314,2379
-Selangor,P.110 Klang,Klang,97026,84219,124,1342
-Selangor,P.111 Kota Raja,Kota Raja,105855,92729,166,1102
-Selangor,P.112 Kuala Langat,Kuala Langat,88456,78726,169,1523
-Selangor,P.113 Sepang,Sepang,84326,75135,174,1226
-W.P. Kuala Lumpur,P.114 Kepong,Kepong,68042,58585,73,388
-W.P. Kuala Lumpur,P.115 Batu,Batu,85381,72147,159,606
-W.P. Kuala Lumpur,P.116 Wangsa Maju,Wangsa Maju,67780,58291,145,375
-W.P. Kuala Lumpur,P.117 Segambut,Segambut,75599,64184,132,485
-W.P. Kuala Lumpur,P.118 Setiawangsa,Setiawangsa,62320,52910,180,502
-W.P. Kuala Lumpur,P.119 Titiwangsa,Titiwangsa,55310,45631,118,311
-W.P. Kuala Lumpur,P.120 Bukit Bintang,Bukit Bintang,55691,41824,52,355
-W.P. Kuala Lumpur,P.121 Lembah Pantai,Lembah Pantai,72417,61048,193,519
-W.P. Kuala Lumpur,P.122 Seputeh,Seputeh,85955,71859,109,302
-W.P. Kuala Lumpur,P.123 Cheras,Cheras,72551,59492,88,315
-W.P. Kuala Lumpur,P.124 Bandar Tun Razak,Bandar Tun Razak,90986,78157,10,861
-W.P. Putrajaya,P.125 Putrajaya,Putrajaya,15791,14465,47,73
-Negeri Sembilan,P.126 Jelebu,Jelebu,44940,38020,137,756
-Negeri Sembilan,P.127 Jempol,Jempol,65229,54858,157,1082
-Negeri Sembilan,P.128 Seremban,Seremban,102356,87617,258,1486
-Negeri Sembilan,P.129 Kuala Pilah,Kuala Pilah,47681,40291,144,794
-Negeri Sembilan,P.130 Rasah,Rasah,88414,75860,209,1208
-Negeri Sembilan,P.131 Rembau,Rembau,79665,69548,257,1217
-Negeri Sembilan,P.132 Telok Kemang,Port Dickson,70486,59984,129,1344
-Negeri Sembilan,P.133 Tampin,Tampin,57275,48799,139,1042
-Melaka,P.134 Masjid Tanah,Masjid Tanah,45936,39827,85,566
-Melaka,P.135 Alor Gajah,Alor Gajah,63588,55131,103,1437
-Melaka,P.136 Tangga Batu,Tangga Batu,73294,64426,138,985
-Melaka,P.137 Bukit Katil,Hang Tuah Jaya,99404,88271,188,1102
-Melaka,P.138 Kota Melaka,Kota Melaka,92295,79651,187,1168
-Melaka,P.139 Jasin,Jasin,64462,56856,146,1001
-Johor,P.140 Segamat,Segamat,46990,39895,88,950
-Johor,P.141 Sekijang,Sekijang,43075,37519,71,587
-Johor,P.142 Labis,Labis,37723,32027,49,689
-Johor,P.143 Pagoh,Pagoh,46789,40613,91,816
-Johor,P.144 Ledang,Ledang,69324,60382,34,1077
-Johor,P.145 Bakri,Bakri,67187,58453,183,1101
-Johor,P.146 Muar,Muar,48225,40992,100,804
-Johor,P.147 Parit Sulong,Parit Sulong,56912,49855,140,952
-Johor,P.148 Ayer Hitam,Ayer Hitam,42903,37841,94,967
-Johor,P.149 Sri Gading,Sri Gading,44830,39899,81,673
-Johor,P.150 Batu Pahat,Batu Pahat,88230,77202,155,1445
-Johor,P.151 Simpang Renggam,Simpang Renggam,40131,34754,84,868
-Johor,P.152 Kluang,Kluang,86707,75262,181,1292
-Johor,P.153 Sembrong,Sembrong,41610,35910,50,809
-Johor,P.154 Mersing,Mersing,44515,37393,94,678
-Johor,P.155 Tenggara,Tenggara,39711,34946,70,676
-Johor,P.156 Kota Tinggi,Kota Tinggi,41885,36943,75,696
-Johor,P.157 Pengerang,Pengerang,38008,33067,98,698
-Johor,P.158 Tebrau,Tebrau,90515,79835,81,1551
-Johor,P.159 Pasir Gudang,Pasir Gudang,101084,88550,113,1704
-Johor,P.160 Johor Bahru,Johor Bahru,96343,79965,158,1284
-Johor,P.161 Pulai,Pulai,100495,85924,161,1487
-Johor,P.162 Gelang Patah,Iskandar Puteri,106698,95068,203,1059
-Johor,P.163 Kulai,Kulai,84003,75015,119,1432
-Johor,P.164 Pontian,Pontian,49630,42831,79,871
-Johor,P.165 Tanjong Piai,Tanjung Piai,51902,45622,85,918
-W.P. Labuan,P.166 Labuan,Labuan,24465,19377,21,207
-Sabah,P.167 Kudat,Kudat,47238,36421,66,919
-Sabah,P.168 Kota Marudu,Kota Marudu,42197,33125,48,911
-Sabah,P.169 Kota Belud,Kota Belud,51481,43502,79,1109
-Sabah,P.170 Tuaran,Tuaran,48284,40849,89,807
-Sabah,P.171 Sepanggar,Sepanggar,53374,43500,84,1167
-Sabah,P.172 Kota Kinabalu,Kota Kinabalu,50508,39548,60,506
-Sabah,P.173 Putatan,Putatan,37466,29936,176,665
-Sabah,P.174 Penampang,Penampang,44329,36882,64,719
-Sabah,P.175 Papar,Papar,38766,33262,68,499
-Sabah,P.176 Kimanis,Kimanis,26632,23170,42,453
-Sabah,P.177 Beaufort,Beaufort,30092,26000,50,559
-Sabah,P.178 Sipitang,Sipitang,29171,24387,58,539
-Sabah,P.179 Ranau,Ranau,39029,31458,62,666
-Sabah,P.180 Keningau,Keningau,43704,36144,46,555
-Sabah,P.181 Tenom,Tenom,25294,20944,18,632
-Sabah,P.182 Pensiangan,Pensiangan,26182,21391,12,483
-Sabah,P.183 Beluran,Beluran,24693,18915,1,552
-Sabah,P.184 Libaran,Libaran,39751,32119,103,713
-Sabah,P.185 Batu Sapi,Batu Sapi,30193,23400,44,574
-Sabah,P.186 Sandakan,Sandakan,37082,27923,34,525
-Sabah,P.187 Kinabatangan,Kinabatangan,24748,19997,37,654
-Sabah,P.188 Silam,Lahad Datu,51644,39663,57,1077
-Sabah,P.189 Semporna,Semporna,41572,31595,72,985
-Sabah,P.190 Tawau,Tawau,51537,39787,129,789
-Sabah,P.191 Kalabakan,Kalabakan,46808,36230,98,1027
-Sarawak,P.192 Mas Gading,Mas Gading,25769,20384,31,224
-Sarawak,P.193 Santubong,Santubong,37024,29286,79,394
-Sarawak,P.194 Petra Jaya,Petra Jaya,49765,38170,174,321
-Sarawak,P.195 Bandar Kuching,Bandar Kuching,53366,40879,54,201
-Sarawak,P.196 Stampin,Stampin,84754,65515,132,488
-Sarawak,P.197 Kota Samarahan,Kota Samarahan,38178,31612,81,528
-Sarawak,P.198 Mambong,Puncak Borneo,42351,32695,116,674
-Sarawak,P.199 Serian,Serian,33708,26562,39,296
-Sarawak,P.200 Batang Sadong,Batang Sadong,19848,15541,20,227
-Sarawak,P.201 Batang Lupar,Batang Lupar,27343,20754,43,425
-Sarawak,P.202 Sri Aman,Sri Aman,29799,22409,56,224
-Sarawak,P.203 Lubok Antu,Lubok Antu,19295,15166,28,143
-Sarawak,P.204 Betong,Betong,26338,20439,59,315
-Sarawak,P.205 Saratok,Saratok,27566,22136,78,258
-Sarawak,P.206 Tanjong Manis,Tanjong Manis,19202,14402,58,238
-Sarawak,P.207 Igan,Igan,17772,13898,33,222
-Sarawak,P.208 Sarikei,Sarikei,36537,28353,55,277
-Sarawak,P.209 Julau,Julau,22510,16973,16,278
-Sarawak,P.210 Kanowit,Kanowit,19433,13759,16,276
-Sarawak,P.211 Lanang,Lanang,57123,44956,56,304
-Sarawak,P.212 Sibu,Sibu,64565,51588,114,496
-Sarawak,P.213 Mukah,Mukah,26470,19879,41,417
-Sarawak,P.214 Selangau,Selangau,25463,20753,28,309
-Sarawak,P.215 Kapit,Kapit,26197,17474,42,271
-Sarawak,P.216 Hulu Rajang,Hulu Rajang,21678,14763,21,213
-Sarawak,P.217 Bintulu,Bintulu,59854,45968,27,458
-Sarawak,P.218 Sibuti,Sibuti,28345,20947,29,288
-Sarawak,P.219 Miri,Miri,71176,52813,51,630
-Sarawak,P.220 Baram,Baram,29368,18796,21,242
-Sarawak,P.221 Limbang,Limbang,24271,17912,53,162
-Sarawak,P.222 Lawas,Lawas,18842,14113,41,177
+state,parlimen,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Perlis,P.001 Padang Besar,41976,36142,91,531
+Perlis,P.002 Kangar,51215,43431,115,667
+Perlis,P.003 Arau,43880,38439,127,525
+Kedah,P.004 Langkawi,37539,32096,219,744
+Kedah,P.005 Jerlun,52396,45899,117,730
+Kedah,P.006 Kubang Pasu,65556,57296,238,834
+Kedah,P.007 Padang Terap,41975,37904,104,691
+Kedah,P.008 Pokok Sena,80747,69524,215,848
+Kedah,P.009 Alor Star,69025,57912,200,1070
+Kedah,P.010 Kuala Kedah,95310,82253,248,1212
+Kedah,P.011 Pendang,70154,62578,127,759
+Kedah,P.012 Jerai,74371,64778,164,952
+Kedah,P.013 Sik,46804,42077,85,631
+Kedah,P.014 Merbok,85951,74520,226,1340
+Kedah,P.015 Sungai Petani,93131,81024,253,959
+Kedah,P.016 Baling,93171,83109,195,1091
+Kedah,P.017 Padang Serai,74064,64584,197,1223
+Kedah,P.018 Kulim-Bandar Baharu,60930,52766,234,839
+Kelantan,P.019 Tumpat,98646,82962,198,1086
+Kelantan,P.020 Pengkalan Chepa,64385,54985,188,683
+Kelantan,P.021 Kota Bharu,81221,66277,193,666
+Kelantan,P.022 Pasir Mas,71971,60168,238,1115
+Kelantan,P.023 Rantau Panjang,52880,41934,130,632
+Kelantan,P.024 Kubang Kerian,65371,55108,224,605
+Kelantan,P.025 Bachok,81581,71792,208,947
+Kelantan,P.026 Ketereh,62247,53906,180,876
+Kelantan,P.027 Tanah Merah,58217,50009,137,876
+Kelantan,P.028 Pasir Puteh,76216,66232,192,770
+Kelantan,P.029 Machang,59252,51372,128,729
+Kelantan,P.030 Jeli,43231,37871,93,424
+Kelantan,P.031 Kuala Krai,63098,54643,128,720
+Kelantan,P.032 Gua Musang,40156,35097,64,712
+Terengganu,P.033 Besut,72600,63017,254,641
+Terengganu,P.034 Setiu,67266,59262,124,685
+Terengganu,P.035 Kuala Nerus,76273,68036,152,772
+Terengganu,P.036 Kuala Terengganu,94393,82122,224,845
+Terengganu,P.037 Marang,90820,81829,180,805
+Terengganu,P.038 Hulu Terengganu,63562,56634,144,823
+Terengganu,P.039 Dungun,78215,68204,157,909
+Terengganu,P.040 Kemaman,91935,80168,197,1227
+Pulau Pinang,P.041 Kepala Batas,51646,46740,75,585
+Pulau Pinang,P.042 Tasek Gelugor,54068,48121,112,675
+Pulau Pinang,P.043 Bagan,68490,59792,57,634
+Pulau Pinang,P.044 Permatang Pauh,71723,63475,143,672
+Pulau Pinang,P.045 Bukit Mertajam,78987,69588,185,712
+Pulau Pinang,P.046 Batu Kawan,57512,50208,69,723
+Pulau Pinang,P.047 Nibong Tebal,59366,52599,61,833
+Pulau Pinang,P.048 Bukit Bendera,71055,59118,99,615
+Pulau Pinang,P.049 Tanjong,51504,42903,33,495
+Pulau Pinang,P.050 Jelutong,71264,61715,274,769
+Pulau Pinang,P.051 Bukit Gelugor,81903,70683,129,654
+Pulau Pinang,P.052 Bayan Baru,79133,68846,187,850
+Pulau Pinang,P.053 Balik Pulau,49629,43773,64,612
+Perak,P.054 Gerik,32713,27414,306,494
+Perak,P.055 Lenggong,27957,23736,251,368
+Perak,P.056 Larut,46573,40100,171,579
+Perak,P.057 Parit Buntar,51399,44306,134,618
+Perak,P.058 Bagan Serai,54762,46384,71,1096
+Perak,P.059 Bukit Gantang,71282,61018,130,748
+Perak,P.060 Taiping,78133,63913,164,944
+Perak,P.061 Padang Rengas,28505,24230,40,410
+Perak,P.062 Sungai Siput,51570,41617,45,982
+Perak,P.063 Tambun,89419,76275,218,1196
+Perak,P.064 Ipoh Timor,81828,65217,211,834
+Perak,P.065 Ipoh Barat,77773,63074,162,875
+Perak,P.066 Batu Gajah,87618,70270,174,966
+Perak,P.067 Kuala Kangsar,33550,28283,75,407
+Perak,P.068 Beruas,49175,39586,78,687
+Perak,P.069 Parit,33504,28613,72,532
+Perak,P.070 Kampar,63658,49272,126,820
+Perak,P.071 Gopeng,97070,81442,179,1456
+Perak,P.072 Tapah,45457,36957,102,1052
+Perak,P.073 Pasir Salak,51518,43533,161,1008
+Perak,P.074 Lumut,88330,73756,175,1133
+Perak,P.075 Bagan Datok,39938,33069,109,716
+Perak,P.076 Telok Intan,60519,48839,190,885
+Perak,P.077 Tanjong Malim,64491,53399,162,1115
+Pahang,P.078 Cameron Highlands,27987,22754,6,877
+Pahang,P.079 Lipis,32331,27126,140,426
+Pahang,P.080 Raub,54222,45059,116,927
+Pahang,P.081 Jerantut,58352,49600,139,905
+Pahang,P.082 Indera Mahkota,64245,54737,210,689
+Pahang,P.083 Kuantan,56303,47858,135,570
+Pahang,P.084 Paya Besar,48040,40834,140,643
+Pahang,P.085 Pekan,80262,68464,246,1275
+Pahang,P.086 Maran,38438,32750,155,572
+Pahang,P.087 Kuala Krau,42994,37663,115,603
+Pahang,P.088 Temerloh,66115,56595,154,977
+Pahang,P.089 Bentong,62281,52628,125,988
+Pahang,P.090 Bera,51002,42944,114,965
+Pahang,P.091 Rompin,53566,46014,165,883
+Selangor,P.092 Sabak Bernam,37305,31859,153,576
+Selangor,P.093 Sungai Besar,42819,37810,129,690
+Selangor,P.094 Hulu Selangor,85745,75113,166,1451
+Selangor,P.095 Tanjong Karang,42340,37768,92,634
+Selangor,P.096 Kuala Selangor,62322,55592,118,934
+Selangor,P.097 Selayang,105867,92528,213,1435
+Selangor,P.098 Gombak,123291,107140,393,1353
+Selangor,P.099 Ampang,83128,71574,176,738
+Selangor,P.100 Pandan,83880,73228,153,1023
+Selangor,P.101 Hulu Langat,127376,112856,534,1335
+Selangor,P.102 Serdang,133114,118339,291,1778
+Selangor,P.103 Puchong,107054,94529,194,1261
+Selangor,P.104 Kelana Jaya,101284,86497,210,1171
+Selangor,P.105 Petaling Jaya Selatan,79565,65323,138,830
+Selangor,P.106 Petaling Jaya Utara,85419,70727,113,472
+Selangor,P.107 Subang,128483,112937,319,1669
+Selangor,P.108 Shah Alam,99918,88128,186,863
+Selangor,P.109 Kapar,144180,127023,314,2379
+Selangor,P.110 Klang,97026,84219,124,1342
+Selangor,P.111 Kota Raja,105855,92729,166,1102
+Selangor,P.112 Kuala Langat,88456,78726,169,1523
+Selangor,P.113 Sepang,84326,75135,174,1226
+W.P. Kuala Lumpur,P.114 Kepong,68042,58585,73,388
+W.P. Kuala Lumpur,P.115 Batu,85381,72147,159,606
+W.P. Kuala Lumpur,P.116 Wangsa Maju,67780,58291,145,375
+W.P. Kuala Lumpur,P.117 Segambut,75599,64184,132,485
+W.P. Kuala Lumpur,P.118 Setiawangsa,62320,52910,180,502
+W.P. Kuala Lumpur,P.119 Titiwangsa,55310,45631,118,311
+W.P. Kuala Lumpur,P.120 Bukit Bintang,55691,41824,52,355
+W.P. Kuala Lumpur,P.121 Lembah Pantai,72417,61048,193,519
+W.P. Kuala Lumpur,P.122 Seputeh,85955,71859,109,302
+W.P. Kuala Lumpur,P.123 Cheras,72551,59492,88,315
+W.P. Kuala Lumpur,P.124 Bandar Tun Razak,90986,78157,10,861
+W.P. Putrajaya,P.125 Putrajaya,15791,14465,47,73
+Negeri Sembilan,P.126 Jelebu,44940,38020,137,756
+Negeri Sembilan,P.127 Jempol,65229,54858,157,1082
+Negeri Sembilan,P.128 Seremban,102356,87617,258,1486
+Negeri Sembilan,P.129 Kuala Pilah,47681,40291,144,794
+Negeri Sembilan,P.130 Rasah,88414,75860,209,1208
+Negeri Sembilan,P.131 Rembau,79665,69548,257,1217
+Negeri Sembilan,P.132 Telok Kemang,70486,59984,129,1344
+Negeri Sembilan,P.133 Tampin,57275,48799,139,1042
+Melaka,P.134 Masjid Tanah,45936,39827,85,566
+Melaka,P.135 Alor Gajah,63588,55131,103,1437
+Melaka,P.136 Tangga Batu,73294,64426,138,985
+Melaka,P.137 Bukit Katil,99404,88271,188,1102
+Melaka,P.138 Kota Melaka,92295,79651,187,1168
+Melaka,P.139 Jasin,64462,56856,146,1001
+Johor,P.140 Segamat,46990,39895,88,950
+Johor,P.141 Sekijang,43075,37519,71,587
+Johor,P.142 Labis,37723,32027,49,689
+Johor,P.143 Pagoh,46789,40613,91,816
+Johor,P.144 Ledang,69324,60382,34,1077
+Johor,P.145 Bakri,67187,58453,183,1101
+Johor,P.146 Muar,48225,40992,100,804
+Johor,P.147 Parit Sulong,56912,49855,140,952
+Johor,P.148 Ayer Hitam,42903,37841,94,967
+Johor,P.149 Sri Gading,44830,39899,81,673
+Johor,P.150 Batu Pahat,88230,77202,155,1445
+Johor,P.151 Simpang Renggam,40131,34754,84,868
+Johor,P.152 Kluang,86707,75262,181,1292
+Johor,P.153 Sembrong,41610,35910,50,809
+Johor,P.154 Mersing,44515,37393,94,678
+Johor,P.155 Tenggara,39711,34946,70,676
+Johor,P.156 Kota Tinggi,41885,36943,75,696
+Johor,P.157 Pengerang,38008,33067,98,698
+Johor,P.158 Tebrau,90515,79835,81,1551
+Johor,P.159 Pasir Gudang,101084,88550,113,1704
+Johor,P.160 Johor Bahru,96343,79965,158,1284
+Johor,P.161 Pulai,100495,85924,161,1487
+Johor,P.162 Gelang Patah,106698,95068,203,1059
+Johor,P.163 Kulai,84003,75015,119,1432
+Johor,P.164 Pontian,49630,42831,79,871
+Johor,P.165 Tanjong Piai,51902,45622,85,918
+W.P. Labuan,P.166 Labuan,24465,19377,21,207
+Sabah,P.167 Kudat,47238,36421,66,919
+Sabah,P.168 Kota Marudu,42197,33125,48,911
+Sabah,P.169 Kota Belud,51481,43502,79,1109
+Sabah,P.170 Tuaran,48284,40849,89,807
+Sabah,P.171 Sepanggar,53374,43500,84,1167
+Sabah,P.172 Kota Kinabalu,50508,39548,60,506
+Sabah,P.173 Putatan,37466,29936,176,665
+Sabah,P.174 Penampang,44329,36882,64,719
+Sabah,P.175 Papar,38766,33262,68,499
+Sabah,P.176 Kimanis,26632,23170,42,453
+Sabah,P.177 Beaufort,30092,26000,50,559
+Sabah,P.178 Sipitang,29171,24387,58,539
+Sabah,P.179 Ranau,39029,31458,62,666
+Sabah,P.180 Keningau,43704,36144,46,555
+Sabah,P.181 Tenom,25294,20944,18,632
+Sabah,P.182 Pensiangan,26182,21391,12,483
+Sabah,P.183 Beluran,24693,18915,1,552
+Sabah,P.184 Libaran,39751,32119,103,713
+Sabah,P.185 Batu Sapi,30193,23400,44,574
+Sabah,P.186 Sandakan,37082,27923,34,525
+Sabah,P.187 Kinabatangan,24748,19997,37,654
+Sabah,P.188 Silam,51644,39663,57,1077
+Sabah,P.189 Semporna,41572,31595,72,985
+Sabah,P.190 Tawau,51537,39787,129,789
+Sabah,P.191 Kalabakan,46808,36230,98,1027
+Sarawak,P.192 Mas Gading,25769,20384,31,224
+Sarawak,P.193 Santubong,37024,29286,79,394
+Sarawak,P.194 Petra Jaya,49765,38170,174,321
+Sarawak,P.195 Bandar Kuching,53366,40879,54,201
+Sarawak,P.196 Stampin,84754,65515,132,488
+Sarawak,P.197 Kota Samarahan,38178,31612,81,528
+Sarawak,P.198 Mambong,42351,32695,116,674
+Sarawak,P.199 Serian,33708,26562,39,296
+Sarawak,P.200 Batang Sadong,19848,15541,20,227
+Sarawak,P.201 Batang Lupar,27343,20754,43,425
+Sarawak,P.202 Sri Aman,29799,22409,56,224
+Sarawak,P.203 Lubok Antu,19295,15166,28,143
+Sarawak,P.204 Betong,26338,20439,59,315
+Sarawak,P.205 Saratok,27566,22136,78,258
+Sarawak,P.206 Tanjong Manis,19202,14402,58,238
+Sarawak,P.207 Igan,17772,13898,33,222
+Sarawak,P.208 Sarikei,36537,28353,55,277
+Sarawak,P.209 Julau,22510,16973,16,278
+Sarawak,P.210 Kanowit,19433,13759,16,276
+Sarawak,P.211 Lanang,57123,44956,56,304
+Sarawak,P.212 Sibu,64565,51588,114,496
+Sarawak,P.213 Mukah,26470,19879,41,417
+Sarawak,P.214 Selangau,25463,20753,28,309
+Sarawak,P.215 Kapit,26197,17474,42,271
+Sarawak,P.216 Hulu Rajang,21678,14763,21,213
+Sarawak,P.217 Bintulu,59854,45968,27,458
+Sarawak,P.218 Sibuti,28345,20947,29,288
+Sarawak,P.219 Miri,71176,52813,51,630
+Sarawak,P.220 Baram,29368,18796,21,242
+Sarawak,P.221 Limbang,24271,17912,53,162
+Sarawak,P.222 Lawas,18842,14113,41,177

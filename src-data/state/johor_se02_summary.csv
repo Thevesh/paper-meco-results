@@ -1,33 +1,33 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Johor,N.01 Bukit Serampang,Bukit Serampang,0,0,0,0
-Johor,N.02 Jorak,Jorak,12076,9799,0,540
-Johor,N.03 Labis,Labis,11291,9384,0,381
-Johor,N.04 Bekok,Bekok,11387,9330,0,474
-Johor,N.05 Bandar Maharani,Bandar Maharani,16131,12460,0,397
-Johor,N.06 Parit Bakar,Parit Bakar,13985,10740,0,416
-Johor,N.07 Parit Jawa,Parit Jawa,0,0,0,0
-Johor,N.08 Simpang Kiri,Simpang Kiri,14708,10823,0,245
-Johor,N.09 Broleh,Broleh,15113,12646,0,356
-Johor,N.10 Bandar Penggaram,Bandar Penggaram,10245,7825,0,230
-Johor,N.11 Tanjong Sembrong,Tanjong Sembrong,14494,11873,0,778
-Johor,N.12 Ayer Hitam,Ayer Hitam,13971,10870,0,880
-Johor,N.13 Gunong Lambak,Gunong Lambak,11013,9011,0,325
-Johor,N.14 Sri Lalang,Sri Lalang,10718,8587,0,282
-Johor,N.15 Kota Tinggi,Kota Tinggi,6502,5235,0,89
-Johor,N.16 Johore Lama,Johore Lama,0,0,0,0
-Johor,N.17 Rengit,Rengit,12468,10102,0,960
-Johor,N.18 Benut,Benut,13630,11201,0,916
-Johor,N.19 Pontian Dalam,Pontian Dalam,12179,10214,0,559
-Johor,N.20 Pontian Kechil,Pontian Kechil,12390,10123,0,407
-Johor,N.21 Rengam,Rengam,11750,9515,0,460
-Johor,N.22 Senai-Kulai,Senai-Kulai,11408,9512,0,373
-Johor,N.23 Plentong,Plentong,12758,10296,0,516
-Johor,N.24 Tanjong Petri,Tanjong Petri,11977,9053,0,260
-Johor,N.25 Gelang Patah,Gelang Patah,9655,7861,0,365
-Johor,N.26 Tampoi,Tampoi,12838,9809,0,386
-Johor,N.27 Endau,Endau,8256,6502,0,559
-Johor,N.28 Mersing,Mersing,6682,5477,0,347
-Johor,N.29 Batu Anam,Batu Anam,9850,9166,0,321
-Johor,N.30 Bandar Segamat,Bandar Segamat,10423,8952,0,228
-Johor,N.31 Tangkak,Tangkak,13220,10059,0,638
-Johor,N.32 Serom,Serom,13804,11553,0,655
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Johor,N.01 Bukit Serampang,0,0,0,0
+Johor,N.02 Jorak,12076,9799,0,540
+Johor,N.03 Labis,11291,9384,0,381
+Johor,N.04 Bekok,11387,9330,0,474
+Johor,N.05 Bandar Maharani,16131,12460,0,397
+Johor,N.06 Parit Bakar,13985,10740,0,416
+Johor,N.07 Parit Jawa,0,0,0,0
+Johor,N.08 Simpang Kiri,14708,10823,0,245
+Johor,N.09 Broleh,15113,12646,0,356
+Johor,N.10 Bandar Penggaram,10245,7825,0,230
+Johor,N.11 Tanjong Sembrong,14494,11873,0,778
+Johor,N.12 Ayer Hitam,13971,10870,0,880
+Johor,N.13 Gunong Lambak,11013,9011,0,325
+Johor,N.14 Sri Lalang,10718,8587,0,282
+Johor,N.15 Kota Tinggi,6502,5235,0,89
+Johor,N.16 Johore Lama,0,0,0,0
+Johor,N.17 Rengit,12468,10102,0,960
+Johor,N.18 Benut,13630,11201,0,916
+Johor,N.19 Pontian Dalam,12179,10214,0,559
+Johor,N.20 Pontian Kechil,12390,10123,0,407
+Johor,N.21 Rengam,11750,9515,0,460
+Johor,N.22 Senai-Kulai,11408,9512,0,373
+Johor,N.23 Plentong,12758,10296,0,516
+Johor,N.24 Tanjong Petri,11977,9053,0,260
+Johor,N.25 Gelang Patah,9655,7861,0,365
+Johor,N.26 Tampoi,12838,9809,0,386
+Johor,N.27 Endau,8256,6502,0,559
+Johor,N.28 Mersing,6682,5477,0,347
+Johor,N.29 Batu Anam,9850,9166,0,321
+Johor,N.30 Bandar Segamat,10423,8952,0,228
+Johor,N.31 Tangkak,13220,10059,0,638
+Johor,N.32 Serom,13804,11553,0,655

@@ -1,49 +1,49 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Selangor,N.01 Sungai Air Tawar,Sungai Air Tawar,10633,6465,19,265
-Selangor,N.02 Sabak,Sabak,10645,6751,12,325
-Selangor,N.03 Sungai Besar,Sungai Besar,13609,9295,41,364
-Selangor,N.04 Sungai Panjang,Sungai Panjang,0,0,0,0
-Selangor,N.05 Sekinchan,Sekinchan,13687,9437,0,747
-Selangor,N.06 Sungai Burong,Sungai Burong,0,0,0,0
-Selangor,N.07 Hulu Bernam,Hulu Bernam,17106,11756,3,351
-Selangor,N.08 Kuala Kubu Baharu,Kuala Kubu Baharu,0,0,0,0
-Selangor,N.09 Batang Kali,Batang Kali,0,0,0,0
-Selangor,N.10 Permatang,Permatang,18543,13110,57,575
-Selangor,N.11 Ijuk,Ijuk,16282,11163,37,951
-Selangor,N.12 Jeram,Jeram,14905,11025,18,507
-Selangor,N.13 Rawang,Rawang,0,0,0,0
-Selangor,N.14 Selayang Baharu,Selayang Baharu,28037,19496,97,441
-Selangor,N.15 Paya Jaras,Paya Jaras,25918,18571,277,745
-Selangor,N.16 Sungai Tua,Sungai Tua,19943,14077,96,398
-Selangor,N.17 Gombak Setia,Gombak Setia,26691,18849,175,235
-Selangor,N.18 Hulu Kelang,Hulu Kelang,21000,15049,159,203
-Selangor,N.19 Ampang,Ampang,26208,18172,144,453
-Selangor,N.20 Pandan,Pandan,30143,21585,79,438
-Selangor,N.21 Lembah Jaya,Lembah Jaya,29603,21711,107,493
-Selangor,N.22 Dusun Tua,Dusun Tua,20501,15022,455,445
-Selangor,N.23 Kajang,Kajang,26876,18812,126,439
-Selangor,N.24 Beranang,Beranang,19370,13947,53,470
-Selangor,N.25 Damansara Utama,Damansara Utama,37971,25984,87,266
-Selangor,N.26 Kampung Tunku,Kampung Tunku,30857,19636,73,346
-Selangor,N.27 Bukit Gasing,Bukit Gasing,33894,21886,125,355
-Selangor,N.28 Taman Medan,Taman Medan,32892,22069,73,442
-Selangor,N.29 Pucung,Pucung,34759,26252,355,483
-Selangor,N.30 Sri Kembangan,Sri Kembangan,20589,16543,17,282
-Selangor,N.31 Balakong,Balakong,23114,17898,20,506
-Selangor,N.32 Bukit Lanjan,Bukit Lanjan,21384,16031,907,776
-Selangor,N.33 Kelana Jaya,Kelana Jaya,27365,17498,70,435
-Selangor,N.34 Subang Jaya,Subang Jaya,25119,18363,52,326
-Selangor,N.35 Batu Tiga,Batu Tiga,24308,17494,0,311
-Selangor,N.36 Sungai Renggam,Sungai Renggam,32518,23965,0,420
-Selangor,N.37 Kota Raja,Kota Raja,28376,21332,0,548
-Selangor,N.38 Meru,Meru,20937,16256,29,413
-Selangor,N.39 Sementa,Sementa,23302,17290,20,397
-Selangor,N.40 Selat Klang,Selat Klang,23316,16047,17,467
-Selangor,N.41 Bandar Klang,Bandar Klang,38824,27720,61,404
-Selangor,N.42 Pelabuhan Klang,Pelabuhan Klang,38364,26962,27,412
-Selangor,N.43 Sejangkang,Sejangkang,18407,12747,3,430
-Selangor,N.44 Teluk Datok,Teluk Datok,17392,13503,2,498
-Selangor,N.45 Morib,Morib,17919,13119,52,509
-Selangor,N.46 Batu Laut,Batu Laut,18970,14243,0,471
-Selangor,N.47 Dengkil,Dengkil,17184,12699,40,424
-Selangor,N.48 Sungai Pelik,Sungai Pelik,15917,11302,62,472
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Selangor,N.01 Sungai Air Tawar,10633,6465,19,265
+Selangor,N.02 Sabak,10645,6751,12,325
+Selangor,N.03 Sungai Besar,13609,9295,41,364
+Selangor,N.04 Sungai Panjang,0,0,0,0
+Selangor,N.05 Sekinchan,13687,9437,0,747
+Selangor,N.06 Sungai Burong,0,0,0,0
+Selangor,N.07 Hulu Bernam,17106,11756,3,351
+Selangor,N.08 Kuala Kubu Baharu,0,0,0,0
+Selangor,N.09 Batang Kali,0,0,0,0
+Selangor,N.10 Permatang,18543,13110,57,575
+Selangor,N.11 Ijuk,16282,11163,37,951
+Selangor,N.12 Jeram,14905,11025,18,507
+Selangor,N.13 Rawang,0,0,0,0
+Selangor,N.14 Selayang Baharu,28037,19496,97,441
+Selangor,N.15 Paya Jaras,25918,18571,277,745
+Selangor,N.16 Sungai Tua,19943,14077,96,398
+Selangor,N.17 Gombak Setia,26691,18849,175,235
+Selangor,N.18 Hulu Kelang,21000,15049,159,203
+Selangor,N.19 Ampang,26208,18172,144,453
+Selangor,N.20 Pandan,30143,21585,79,438
+Selangor,N.21 Lembah Jaya,29603,21711,107,493
+Selangor,N.22 Dusun Tua,20501,15022,455,445
+Selangor,N.23 Kajang,26876,18812,126,439
+Selangor,N.24 Beranang,19370,13947,53,470
+Selangor,N.25 Damansara Utama,37971,25984,87,266
+Selangor,N.26 Kampung Tunku,30857,19636,73,346
+Selangor,N.27 Bukit Gasing,33894,21886,125,355
+Selangor,N.28 Taman Medan,32892,22069,73,442
+Selangor,N.29 Pucung,34759,26252,355,483
+Selangor,N.30 Sri Kembangan,20589,16543,17,282
+Selangor,N.31 Balakong,23114,17898,20,506
+Selangor,N.32 Bukit Lanjan,21384,16031,907,776
+Selangor,N.33 Kelana Jaya,27365,17498,70,435
+Selangor,N.34 Subang Jaya,25119,18363,52,326
+Selangor,N.35 Batu Tiga,24308,17494,0,311
+Selangor,N.36 Sungai Renggam,32518,23965,0,420
+Selangor,N.37 Kota Raja,28376,21332,0,548
+Selangor,N.38 Meru,20937,16256,29,413
+Selangor,N.39 Sementa,23302,17290,20,397
+Selangor,N.40 Selat Klang,23316,16047,17,467
+Selangor,N.41 Bandar Klang,38824,27720,61,404
+Selangor,N.42 Pelabuhan Klang,38364,26962,27,412
+Selangor,N.43 Sejangkang,18407,12747,3,430
+Selangor,N.44 Teluk Datok,17392,13503,2,498
+Selangor,N.45 Morib,17919,13119,52,509
+Selangor,N.46 Batu Laut,18970,14243,0,471
+Selangor,N.47 Dengkil,17184,12699,40,424
+Selangor,N.48 Sungai Pelik,15917,11302,62,472

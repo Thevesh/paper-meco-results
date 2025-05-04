@@ -1,32 +1,32 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Perlis,N.01 Titi Tinggi,Titi Tinggi,1,Yip Sun Onn,18197,BN,25,3399
-Perlis,N.01 Titi Tinggi,Titi Tinggi,2,Mohamad Razi,18198,BEBAS,1,1585
-Perlis,N.01 Titi Tinggi,Titi Tinggi,3,Keria Senawi,18199,PKR,11,846
-Perlis,N.02 Beseri,Beseri,1,Dzulkefli Mat De,18200,PKR,11,2012
-Perlis,N.02 Beseri,Beseri,2,Mat Rawi Bin Kassim,18201,BN,25,3123
-Perlis,N.03 Chuping,Chuping,1,Haji Mohd. Ali Puteh,18202,PAS,3,2169
-Perlis,N.03 Chuping,Chuping,2,Mansor Bin Jusoh,16869,BN,25,4972
-Perlis,N.04 Mata Ayer,Mata Ayer,1,Wan Kharizal,18204,PAS,3,1437
-Perlis,N.04 Mata Ayer,Mata Ayer,2,Khairi Bin Hasan,16872,BN,25,3059
-Perlis,N.05 Santan,Santan,1,Sabry Bin Ahmad,16874,BN,25,3475
-Perlis,N.05 Santan,Santan,2,Ustaz Abd Rashid Abd Rahaman,18207,PAS,3,2763
-Perlis,N.06 Bintong,Bintong,1,Hj. Anuar Tahir,18208,PAS,3,2772
-Perlis,N.06 Bintong,Bintong,2,Dato' Md Isa Bin Sabu,18209,BN,25,4882
-Perlis,N.07 Sena,Sena,1,Jamil Saad,18210,BN,25,4697
-Perlis,N.07 Sena,Sena,2,Ustaz Osman (Che Dan),18211,PAS,3,2828
-Perlis,N.08 Indera Kayangan,Indera Kayangan,1,Poziyah Hamzah,18212,PKR,11,2451
-Perlis,N.08 Indera Kayangan,Indera Kayangan,2,Dr Por Choo Chor,18213,BN,25,3714
-Perlis,N.09 Kuala Perlis,Kuala Perlis,1,Cikgu Mat Hassan,18214,BN,25,4448
-Perlis,N.09 Kuala Perlis,Kuala Perlis,2,Haji Tajuddin,18215,PAS,3,1927
-Perlis,N.10 Kayang,Kayang,1,Ustaz Ya'Akub,18216,PAS,3,2405
-Perlis,N.10 Kayang,Kayang,2,Ahmad Bakri Bin Dato' Ali,18217,BN,25,3913
-Perlis,N.11 Pauh,Pauh,1,Hj. Abu Bakar Bin Ali,18218,PAS,3,1889
-Perlis,N.11 Pauh,Pauh,2,Syed Razlan Putra,18219,BN,25,4461
-Perlis,N.12 Tambun Tulang,Tambun Tulang,1,Shahidan Bin Kassim,1665,BN,25,4371
-Perlis,N.12 Tambun Tulang,Tambun Tulang,2,Ustaz Nordin Ahmad,18221,PAS,3,2361
-Perlis,N.13 Guar Sanji,Guar Sanji,1,Ustaz Ahmad Adnan Bin Fadzil,18222,PAS,3,3034
-Perlis,N.13 Guar Sanji,Guar Sanji,2,Cikgu Jalperi Bin Haji Othman,18223,BN,25,3736
-Perlis,N.14 Simpang Empat,Simpang Empat,1,Zahari Bin Bakar,11890,BN,25,2825
-Perlis,N.14 Simpang Empat,Simpang Empat,2,Rus'Sele Bin Eizan,18225,PAS,3,2878
-Perlis,N.15 Sanglang,Sanglang,1,Abdullah Bin Hassan,1445,BN,25,3384
-Perlis,N.15 Sanglang,Sanglang,2,Ustaz Hashim Bin Hj. Jasin,18227,PAS,3,3235
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,N.01 Titi Tinggi,1,Yip Sun Onn,18197,BN,25,3399
+Perlis,N.01 Titi Tinggi,2,Mohamad Razi,18198,BEBAS,1,1585
+Perlis,N.01 Titi Tinggi,3,Keria Senawi,18199,PKR,11,846
+Perlis,N.02 Beseri,1,Dzulkefli Mat De,18200,PKR,11,2012
+Perlis,N.02 Beseri,2,Mat Rawi Bin Kassim,18201,BN,25,3123
+Perlis,N.03 Chuping,1,Haji Mohd. Ali Puteh,18202,PAS,3,2169
+Perlis,N.03 Chuping,2,Mansor Bin Jusoh,16869,BN,25,4972
+Perlis,N.04 Mata Ayer,1,Wan Kharizal,18204,PAS,3,1437
+Perlis,N.04 Mata Ayer,2,Khairi Bin Hasan,16872,BN,25,3059
+Perlis,N.05 Santan,1,Sabry Bin Ahmad,16874,BN,25,3475
+Perlis,N.05 Santan,2,Ustaz Abd Rashid Abd Rahaman,18207,PAS,3,2763
+Perlis,N.06 Bintong,1,Hj. Anuar Tahir,18208,PAS,3,2772
+Perlis,N.06 Bintong,2,Dato' Md Isa Bin Sabu,18209,BN,25,4882
+Perlis,N.07 Sena,1,Jamil Saad,18210,BN,25,4697
+Perlis,N.07 Sena,2,Ustaz Osman (Che Dan),18211,PAS,3,2828
+Perlis,N.08 Indera Kayangan,1,Poziyah Hamzah,18212,PKR,11,2451
+Perlis,N.08 Indera Kayangan,2,Dr Por Choo Chor,18213,BN,25,3714
+Perlis,N.09 Kuala Perlis,1,Cikgu Mat Hassan,18214,BN,25,4448
+Perlis,N.09 Kuala Perlis,2,Haji Tajuddin,18215,PAS,3,1927
+Perlis,N.10 Kayang,1,Ustaz Ya'Akub,18216,PAS,3,2405
+Perlis,N.10 Kayang,2,Ahmad Bakri Bin Dato' Ali,18217,BN,25,3913
+Perlis,N.11 Pauh,1,Hj. Abu Bakar Bin Ali,18218,PAS,3,1889
+Perlis,N.11 Pauh,2,Syed Razlan Putra,18219,BN,25,4461
+Perlis,N.12 Tambun Tulang,1,Shahidan Bin Kassim,1665,BN,25,4371
+Perlis,N.12 Tambun Tulang,2,Ustaz Nordin Ahmad,18221,PAS,3,2361
+Perlis,N.13 Guar Sanji,1,Ustaz Ahmad Adnan Bin Fadzil,18222,PAS,3,3034
+Perlis,N.13 Guar Sanji,2,Cikgu Jalperi Bin Haji Othman,18223,BN,25,3736
+Perlis,N.14 Simpang Empat,1,Zahari Bin Bakar,11890,BN,25,2825
+Perlis,N.14 Simpang Empat,2,Rus'Sele Bin Eizan,18225,PAS,3,2878
+Perlis,N.15 Sanglang,1,Abdullah Bin Hassan,1445,BN,25,3384
+Perlis,N.15 Sanglang,2,Ustaz Hashim Bin Hj. Jasin,18227,PAS,3,3235

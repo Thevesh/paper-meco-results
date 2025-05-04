@@ -1,33 +1,33 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Terengganu,N.01 Kuala Besut,Kuala Besut,8902,7452,0,185
-Terengganu,N.02 Kampung Raja,Kampung Raja,9769,8279,12,189
-Terengganu,N.03 Jertih,Jertih,10206,8390,16,207
-Terengganu,N.04 Hulu Besut,Hulu Besut,9267,7932,7,193
-Terengganu,N.05 Jabi,Jabi,9046,7576,0,192
-Terengganu,N.06 Permaisuri,Permaisuri,9385,7984,7,302
-Terengganu,N.07 Langkap,Langkap,7417,6290,0,191
-Terengganu,N.08 Batu Rakit,Batu Rakit,8335,6968,0,246
-Terengganu,N.09 Tepuh,Tepuh,11219,9248,5,353
-Terengganu,N.10 Teluk Pasu,Teluk Pasu,10125,8790,0,137
-Terengganu,N.11 Seberang Takir,Seberang Takir,8866,7250,0,233
-Terengganu,N.12 Bukit Tunggal,Bukit Tunggal,8205,6726,12,177
-Terengganu,N.13 Bandar,Bandar,14369,10541,23,262
-Terengganu,N.14 Ladang,Ladang,11868,8691,66,236
-Terengganu,N.15 Batu Buruk,Batu Buruk,14011,11521,18,305
-Terengganu,N.16 Wakaf Mempelam,Wakaf Mempelam,15013,12167,10,450
-Terengganu,N.17 Serada,Serada,12399,10154,61,236
-Terengganu,N.18 Bukit Payong,Bukit Payong,10059,8532,11,212
-Terengganu,N.19 Ru Rendang,Ru Rendang,10533,8815,16,152
-Terengganu,N.20 Binjai,Binjai,9715,8373,6,224
-Terengganu,N.21 Telemung,Telemung,7652,6764,0,280
-Terengganu,N.22 Manir,Manir,8641,7396,6,193
-Terengganu,N.23 Kuala Berang,Kuala Berang,8998,7808,12,283
-Terengganu,N.24 Tanggul,Tanggul,8250,7134,6,222
-Terengganu,N.25 Mercang,Mercang,9745,8113,12,335
-Terengganu,N.26 Jerangau,Jerangau,7643,6236,8,262
-Terengganu,N.27 Sura,Sura,12826,9990,30,305
-Terengganu,N.28 Paka,Paka,12148,10079,9,341
-Terengganu,N.29 Kemasik,Kemasik,8588,7284,5,176
-Terengganu,N.30 Kijal,Kijal,7620,6368,2,142
-Terengganu,N.31 Cukai,Cukai,14109,10987,23,336
-Terengganu,N.32 Bukit Bandi,Bukit Bandi,11464,9305,5,359
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Terengganu,N.01 Kuala Besut,8902,7452,0,185
+Terengganu,N.02 Kampung Raja,9769,8279,12,189
+Terengganu,N.03 Jertih,10206,8390,16,207
+Terengganu,N.04 Hulu Besut,9267,7932,7,193
+Terengganu,N.05 Jabi,9046,7576,0,192
+Terengganu,N.06 Permaisuri,9385,7984,7,302
+Terengganu,N.07 Langkap,7417,6290,0,191
+Terengganu,N.08 Batu Rakit,8335,6968,0,246
+Terengganu,N.09 Tepuh,11219,9248,5,353
+Terengganu,N.10 Teluk Pasu,10125,8790,0,137
+Terengganu,N.11 Seberang Takir,8866,7250,0,233
+Terengganu,N.12 Bukit Tunggal,8205,6726,12,177
+Terengganu,N.13 Bandar,14369,10541,23,262
+Terengganu,N.14 Ladang,11868,8691,66,236
+Terengganu,N.15 Batu Buruk,14011,11521,18,305
+Terengganu,N.16 Wakaf Mempelam,15013,12167,10,450
+Terengganu,N.17 Serada,12399,10154,61,236
+Terengganu,N.18 Bukit Payong,10059,8532,11,212
+Terengganu,N.19 Ru Rendang,10533,8815,16,152
+Terengganu,N.20 Binjai,9715,8373,6,224
+Terengganu,N.21 Telemung,7652,6764,0,280
+Terengganu,N.22 Manir,8641,7396,6,193
+Terengganu,N.23 Kuala Berang,8998,7808,12,283
+Terengganu,N.24 Tanggul,8250,7134,6,222
+Terengganu,N.25 Mercang,9745,8113,12,335
+Terengganu,N.26 Jerangau,7643,6236,8,262
+Terengganu,N.27 Sura,12826,9990,30,305
+Terengganu,N.28 Paka,12148,10079,9,341
+Terengganu,N.29 Kemasik,8588,7284,5,176
+Terengganu,N.30 Kijal,7620,6368,2,142
+Terengganu,N.31 Cukai,14109,10987,23,336
+Terengganu,N.32 Bukit Bandi,11464,9305,5,359

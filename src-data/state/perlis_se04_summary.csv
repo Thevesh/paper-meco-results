@@ -1,13 +1,13 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Perlis,N.01 Titi Tinggi,Titi Tinggi,4362,3278,0,209
-Perlis,N.02 Chuping,Chuping,5321,4195,0,325
-Perlis,N.03 Bintong,Bintong,4941,4124,0,331
-Perlis,N.04 Bandar Kangar,Bandar Kangar,5587,4372,0,190
-Perlis,N.05 Paya,Paya,0,0,0,0
-Perlis,N.06 Oran,Oran,3154,2588,0,154
-Perlis,N.07 Kuala Perlis,Kuala Perlis,4720,3626,0,345
-Perlis,N.08 Kayang,Kayang,4668,3445,0,307
-Perlis,N.09 Utan Aji,Utan Aji,4637,3761,0,365
-Perlis,N.10 Bandar Arau,Bandar Arau,5086,3650,0,321
-Perlis,N.11 Kurong Anai,Kurong Anai,5439,3979,0,475
-Perlis,N.12 Sanglang,Sanglang,4915,3974,0,282
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Perlis,N.01 Titi Tinggi,4362,3278,0,209
+Perlis,N.02 Chuping,5321,4195,0,325
+Perlis,N.03 Bintong,4941,4124,0,331
+Perlis,N.04 Bandar Kangar,5587,4372,0,190
+Perlis,N.05 Paya,0,0,0,0
+Perlis,N.06 Oran,3154,2588,0,154
+Perlis,N.07 Kuala Perlis,4720,3626,0,345
+Perlis,N.08 Kayang,4668,3445,0,307
+Perlis,N.09 Utan Aji,4637,3761,0,365
+Perlis,N.10 Bandar Arau,5086,3650,0,321
+Perlis,N.11 Kurong Anai,5439,3979,0,475
+Perlis,N.12 Sanglang,4915,3974,0,282

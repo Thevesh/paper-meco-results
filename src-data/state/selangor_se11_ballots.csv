@@ -1,120 +1,120 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Selangor,N.01 Sungai Air Tawar,Sungai Air Tawar,1,Abd. Jalil Bin Hj. Bajuri,15591,PAS,3,3416
-Selangor,N.01 Sungai Air Tawar,Sungai Air Tawar,2,Abd. Rahman Bin Bakri,8119,BN,25,5569
-Selangor,N.02 Sabak,Sabak,1,Raja Ideris @ Raja Idris Bin Raja Ahmad,14429,BN,25,7864
-Selangor,N.02 Sabak,Sabak,2,Sallehen Bin Mukhyi,16898,PAS,3,5608
-Selangor,N.03 Sungai Panjang,Sungai Panjang,1,Mohamad Khir Bin Toyo,15598,BN,25,9700
-Selangor,N.03 Sungai Panjang,Sungai Panjang,2,Saibini Bin Hi Ismail,16900,PAS,3,4240
-Selangor,N.04 Sekinchan,Sekinchan,1,Ng Suee Lim,15601,DAP,18,4903
-Selangor,N.04 Sekinchan,Sekinchan,2,Chia Kim Lem,14433,BN,25,4559
-Selangor,N.05 Hulu Bernam,Hulu Bernam,1,Mohamed Idris Bin Abu Bakar,16903,BN,25,9264
-Selangor,N.05 Hulu Bernam,Hulu Bernam,2,Abdul Sukor Bin Ali,16904,PAS,3,2713
-Selangor,N.06 Kuala Kubu Baharu,Kuala Kubu Baharu,1,Dato' Ch'Ng Toh Eng,16905,BN,25,10005
-Selangor,N.06 Kuala Kubu Baharu,Kuala Kubu Baharu,2,Kuan Wai Soon,16906,DAP,18,2549
-Selangor,N.07 Batang Kali,Batang Kali,1,Zainal Abidin Bin Sakom,14437,BN,25,12898
-Selangor,N.07 Batang Kali,Batang Kali,2,Halili Bin Rahmat,16908,PKR,11,4070
-Selangor,N.08 Sungai Burong,Sungai Burong,1,Mohd Shamsudin Bin Lias,16909,BN,25,9321
-Selangor,N.08 Sungai Burong,Sungai Burong,2,Hasan Bin Mohamed Ali,16910,PAS,3,4801
-Selangor,N.09 Permatang,Permatang,1,Samry Bin Masri,16911,PKR,11,4056
-Selangor,N.09 Permatang,Permatang,2,Dato Abd Aziz Bin Mohd Noh,16912,BN,25,8341
-Selangor,N.10 Bukit Melawati,Bukit Melawati,1,Mohamed Sayuti Bin Said,2732,BN,25,6228
-Selangor,N.10 Bukit Melawati,Bukit Melawati,2,Mohd Norman Bin Toha,2733,PAS,3,2347
-Selangor,N.11 Ijok,Ijok,1,Sivalingam A/L Arumugam Karuppiah,14443,BN,25,5213
-Selangor,N.11 Ijok,Ijok,2,Mohamed Shariff Bin Nagoorkani,16916,BEBAS,1,313
-Selangor,N.11 Ijok,Ijok,3,Abdol Raman Bin Moharam,16917,PKR,11,3564
-Selangor,N.12 Jeram,Jeram,1,Kamal Bin Ashaari,3415,PAS,3,3587
-Selangor,N.12 Jeram,Jeram,2,Amiruddin Bin Setro,16919,BN,25,9114
-Selangor,N.13 Kuang,Kuang,1,Abdul Rahim Bin Abdul Wahab,2972,PKR,11,3151
-Selangor,N.13 Kuang,Kuang,2,Soohaimi Bin Abdul Rahman,16921,BN,25,8016
-Selangor,N.14 Rawang,Rawang,1,Tang See Hang,11034,BN,25,10534
-Selangor,N.14 Rawang,Rawang,2,Md Sabri Bin Md Taib,16923,BEBAS,1,2990
-Selangor,N.15 Taman Templer,Taman Templer,1,Mohd Hatta Bin Md Ramli,16924,PAS,3,8911
-Selangor,N.15 Taman Templer,Taman Templer,2,Ahmad Bhari Bin Abd Rahman,14447,BN,25,16536
-Selangor,N.16 Batu Caves,Batu Caves,1,Kamarul Baharin Bin Abbas,3480,PKR,11,7581
-Selangor,N.16 Batu Caves,Batu Caves,2,Jagarasah A/L Verasamy,16927,BN,25,9362
-Selangor,N.17 Gombak Setia,Gombak Setia,1,Yuszahari Bin Mohd Yusoff,16928,BN,25,12506
-Selangor,N.17 Gombak Setia,Gombak Setia,2,Ismail Bin Kamus,16929,PAS,3,9778
-Selangor,N.18 Hulu Kelang,Hulu Kelang,1,Ahmad Bin Rahamat,4362,BEBAS,1,166
-Selangor,N.18 Hulu Kelang,Hulu Kelang,2,Ahmad Bin Bujang,16931,BN,25,17013
-Selangor,N.18 Hulu Kelang,Hulu Kelang,3,Abdul Rahman Bin Othman,317,PKR,11,10137
-Selangor,N.19 Bukit Antarabangsa,Bukit Antarabangsa,1,Zahir Bin Hassan,6316,PKR,11,7029
-Selangor,N.19 Bukit Antarabangsa,Bukit Antarabangsa,2,Azman Bin Wahid,3430,BN,25,14900
-Selangor,N.20 Lembah Jaya,Lembah Jaya,1,Ismail Bin Kijo,14461,BN,25,17092
-Selangor,N.20 Lembah Jaya,Lembah Jaya,2,Wan Hasrina Binti Wan Hassan,16936,PAS,3,7785
-Selangor,N.21 Chempaka,Chempaka,1,Mohd Fauzi Bin Yusoff,16937,PKR,11,6599
-Selangor,N.21 Chempaka,Chempaka,2,Mad Aris Bin Mad Yusuf,13297,BN,25,12654
-Selangor,N.22 Teratai,Teratai,1,Yap Soo Sun,16939,BN,25,10880
-Selangor,N.22 Teratai,Teratai,2,Khong Chee Seng,16940,DAP,18,8639
-Selangor,N.23 Dusun Tua,Dusun Tua,1,Abdul Ghani Bin Haroon,15387,PKR,11,5802
-Selangor,N.23 Dusun Tua,Dusun Tua,2,Rahmad Bin Musa,16942,BN,25,14845
-Selangor,N.24 Semenyih,Semenyih,1,Ahamad Kuris Bin Mohd Nor,15640,BN,25,13280
-Selangor,N.24 Semenyih,Semenyih,2,Mohd Khairuddin Bin Othman,16944,PAS,3,5425
-Selangor,N.25 Kajang,Kajang,1,Low Lee Leng,16945,BN,25,11380
-Selangor,N.25 Kajang,Kajang,2,Lee Kim Sin,12651,PKR,11,8607
-Selangor,N.26 Bangi,Bangi,1,Amran Bin Kasimin,16947,BN,25,12563
-Selangor,N.26 Bangi,Bangi,2,Dr. Shafie Bin Abu Bakar,15639,PAS,3,8855
-Selangor,N.27 Balakong,Balakong,1,Ong Ing Siong,15661,DAP,18,6121
-Selangor,N.27 Balakong,Balakong,2,Dato' Hoh Hee Lee,16950,BN,25,10289
-Selangor,N.28 Seri Kembangan,Seri Kembangan,1,Lee Yee Lian,1504,DAP,18,6616
-Selangor,N.28 Seri Kembangan,Seri Kembangan,2,Dato' Liew Yuen Keong,16952,BN,25,14379
-Selangor,N.29 Seri Serdang,Seri Serdang,1,Mazli Bin Mansor,16953,BEBAS,1,246
-Selangor,N.29 Seri Serdang,Seri Serdang,2,Yaakob Bin Sapari,16954,PKR,11,7378
-Selangor,N.29 Seri Serdang,Seri Serdang,3,Mohamad Satim Bin Diman,14479,BN,25,17923
-Selangor,N.30 Kinrara,Kinrara,1,Teoh Lib Peng,16956,DAP,18,4894
-Selangor,N.30 Kinrara,Kinrara,2,Kow Cheong Wei,16957,BN,25,9163
-Selangor,N.31 Subang Jaya,Subang Jaya,1,Lee Hwa Beng,3439,BN,25,0
-Selangor,N.32 Seri Setia,Seri Setia,1,Seripah Noli Binti Sved Hussin,2439,BN,25,16911
-Selangor,N.32 Seri Setia,Seri Setia,2,Mastura Binti Hj Muhammad,16960,PAS,3,5770
-Selangor,N.33 Taman Medan,Taman Medan,1,Kamarul Jaman Bin Seeni Mohideen,16961,BEBAS,1,641
-Selangor,N.33 Taman Medan,Taman Medan,2,Ab Wahab Bin Ibrahim,16962,BN,25,18191
-Selangor,N.33 Taman Medan,Taman Medan,3,Ghazali Bin Shaari,16963,PAS,3,4663
-Selangor,N.33 Taman Medan,Taman Medan,4,Wan M. Razali Bin Wan A. Kadir,16964,PKR,11,3292
-Selangor,N.34 Bukit Gasing,Bukit Gasing,1,Lim Thuang Seng,14475,BN,25,13057
-Selangor,N.34 Bukit Gasing,Bukit Gasing,2,John Chung Yoong Ying,16966,DAP,18,8976
-Selangor,N.35 Kampung Tunku,Kampung Tunku,1,Wong Sai Hou,1795,BN,25,11979
-Selangor,N.35 Kampung Tunku,Kampung Tunku,2,Ean Yong Hiah Wah,16968,DAP,18,8367
-Selangor,N.36 Damansara Utama,Damansara Utama,1,Lim Choon Kin,15643,BN,25,19124
-Selangor,N.36 Damansara Utama,Damansara Utama,2,Yim Chee Pool,16970,DAP,18,12309
-Selangor,N.37 Bukit Lanjan,Bukit Lanjan,1,Yong Dai Ying,16971,BN,25,11460
-Selangor,N.37 Bukit Lanjan,Bukit Lanjan,2,Panneerselvan A/L Varathan,16972,PKR,11,3121
-Selangor,N.38 Paya Jaraa,Paya Jaraa,1,Badrul Amin Bin Bahron,3065,PKR,11,7122
-Selangor,N.38 Paya Jaraa,Paya Jaraa,2,Muhammad Bushro Bin Mat Johor,16974,BN,25,10966
-Selangor,N.39 Kota Damansara,Kota Damansara,1,Mohamad Ariff Bin Md Yusof,16975,PAS,3,4827
-Selangor,N.39 Kota Damansara,Kota Damansara,2,Mohd Mokhtar Bin Haii Ahmad Dahlan,14489,BN,25,12926
-Selangor,N.40 Kota Anggerik,Kota Anggerik,1,Annette Syed Mohamed @ Animah Annette Ferrar,16977,PKR,11,8652
-Selangor,N.40 Kota Anggerik,Kota Anggerik,2,Ahmad Nawawi Bin M. Zin,15664,BN,25,16853
-Selangor,N.41 Batu Tiga,Batu Tiga,1,Salamon Bin Selamat,2432,BN,25,16666
-Selangor,N.41 Batu Tiga,Batu Tiga,2,Shaari Bin Abdul Malik,16980,PKR,11,9279
-Selangor,N.42 Meru,Meru,1,Abd. Rani Bin Osman,4194,PAS,3,7751
-Selangor,N.42 Meru,Meru,2,Dato' Jaei Bin Ismail,15669,BN,25,11850
-Selangor,N.43 Sementa,Sementa,1,Dato Abd Rahman Bin Palil,15670,BN,25,12996
-Selangor,N.43 Sementa,Sementa,2,Abdul Rahman Bin Ibrahim,3293,PKR,11,5311
-Selangor,N.44 Sungai Pinang,Sungai Pinang,1,Teng Chang Khim,2451,DAP,18,10484
-Selangor,N.44 Sungai Pinang,Sungai Pinang,2,Khoh Siew Kim,16986,BN,25,6871
-Selangor,N.45 Selat Kelang,Selat Kelang,1,Norliza Binti Ahmad,16987,BN,25,12593
-Selangor,N.45 Selat Kelang,Selat Kelang,2,Halimah Ali,16988,PAS,3,6508
-Selangor,N.46 Pelabuhan Klang,Pelabuhan Klang,1,Dato' Zainal Bin Md Deros,16989,BN,25,12312
-Selangor,N.46 Pelabuhan Klang,Pelabuhan Klang,2,Krishnasamy A/L Punusamy,16990,PKR,11,5075
-Selangor,N.47 Pandamaran,Pandamaran,1,Dato' Teh Kim Poo,16991,BN,25,9104
-Selangor,N.47 Pandamaran,Pandamaran,2,Tee Boon Hock,15679,DAP,18,8673
-Selangor,N.48 Kota Alam Shah,Kota Alam Shah,1,Ching Su Chen,16993,BN,25,9309
-Selangor,N.48 Kota Alam Shah,Kota Alam Shah,2,Thye Kim Kiong,16994,DAP,18,6566
-Selangor,N.49 Seri Andalas,Seri Andalas,1,Kamalam A/P Annasamy,16995,BN,25,15608
-Selangor,N.49 Seri Andalas,Seri Andalas,2,Tan Ah Kow,16996,PKR,11,7914
-Selangor,N.49 Seri Andalas,Seri Andalas,3,Pupalan A/L Muthusamy,14506,BEBAS,1,468
-Selangor,N.50 Sri Muda,Sri Muda,1,Amzah Bin Umar,16998,BN,25,11715
-Selangor,N.50 Sri Muda,Sri Muda,2,Sd Mohamad Johari Bin Haji Yasin,16999,PKR,11,6513
-Selangor,N.50 Sri Muda,Sri Muda,3,Krisnasamy A/L Thevarayan,17000,BEBAS,1,1725
-Selangor,N.51 Sijangkang,Sijangkang,1,Ahmad Yunus Bin Hairi,17001,PAS,3,6259
-Selangor,N.51 Sijangkang,Sijangkang,2,Abdul Fatah Bin Iskandar,14511,BN,25,9655
-Selangor,N.52 Teluk Datuk,Teluk Datuk,1,Ei Kim Hock,14513,BN,25,8899
-Selangor,N.52 Teluk Datuk,Teluk Datuk,2,Ang Leng Kiat,17004,DAP,18,4205
-Selangor,N.53 Morib,Morib,1,Hasnul B. Baharuddin,17005,PAS,3,5361
-Selangor,N.53 Morib,Morib,2,Hasiman Bin Sidom,17006,BN,25,12523
-Selangor,N.54 Tanjong Sepat,Tanjong Sepat,1,Sukiran Bin Sarman,15687,PAS,3,3762
-Selangor,N.54 Tanjong Sepat,Tanjong Sepat,2,Karim Bin Mansor,17008,BN,25,9839
-Selangor,N.55 Dengkil,Dengkil,1,Suhaimi Bin Mohd Ghazali,3806,BN,25,12336
-Selangor,N.55 Dengkil,Dengkil,2,Mohd. Haslin Bin Hassan,17010,PAS,3,4028
-Selangor,N.55 Dengkil,Dengkil,3,Husin Bin Dahlan,17011,PKR,11,932
-Selangor,N.56 Sungai Pelek,Sungai Pelek,1,Liew Chee Keong @ Liew Chee Chong,15691,BN,25,7847
-Selangor,N.56 Sungai Pelek,Sungai Pelek,2,Cheong Kai Cheng,6880,DAP,18,3740
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Selangor,N.01 Sungai Air Tawar,1,Abd. Jalil Bin Hj. Bajuri,15591,PAS,3,3416
+Selangor,N.01 Sungai Air Tawar,2,Abd. Rahman Bin Bakri,8119,BN,25,5569
+Selangor,N.02 Sabak,1,Raja Ideris @ Raja Idris Bin Raja Ahmad,14429,BN,25,7864
+Selangor,N.02 Sabak,2,Sallehen Bin Mukhyi,16898,PAS,3,5608
+Selangor,N.03 Sungai Panjang,1,Mohamad Khir Bin Toyo,15598,BN,25,9700
+Selangor,N.03 Sungai Panjang,2,Saibini Bin Hi Ismail,16900,PAS,3,4240
+Selangor,N.04 Sekinchan,1,Ng Suee Lim,15601,DAP,18,4903
+Selangor,N.04 Sekinchan,2,Chia Kim Lem,14433,BN,25,4559
+Selangor,N.05 Hulu Bernam,1,Mohamed Idris Bin Abu Bakar,16903,BN,25,9264
+Selangor,N.05 Hulu Bernam,2,Abdul Sukor Bin Ali,16904,PAS,3,2713
+Selangor,N.06 Kuala Kubu Baharu,1,Dato' Ch'Ng Toh Eng,16905,BN,25,10005
+Selangor,N.06 Kuala Kubu Baharu,2,Kuan Wai Soon,16906,DAP,18,2549
+Selangor,N.07 Batang Kali,1,Zainal Abidin Bin Sakom,14437,BN,25,12898
+Selangor,N.07 Batang Kali,2,Halili Bin Rahmat,16908,PKR,11,4070
+Selangor,N.08 Sungai Burong,1,Mohd Shamsudin Bin Lias,16909,BN,25,9321
+Selangor,N.08 Sungai Burong,2,Hasan Bin Mohamed Ali,16910,PAS,3,4801
+Selangor,N.09 Permatang,1,Samry Bin Masri,16911,PKR,11,4056
+Selangor,N.09 Permatang,2,Dato Abd Aziz Bin Mohd Noh,16912,BN,25,8341
+Selangor,N.10 Bukit Melawati,1,Mohamed Sayuti Bin Said,2732,BN,25,6228
+Selangor,N.10 Bukit Melawati,2,Mohd Norman Bin Toha,2733,PAS,3,2347
+Selangor,N.11 Ijok,1,Sivalingam A/L Arumugam Karuppiah,14443,BN,25,5213
+Selangor,N.11 Ijok,2,Mohamed Shariff Bin Nagoorkani,16916,BEBAS,1,313
+Selangor,N.11 Ijok,3,Abdol Raman Bin Moharam,16917,PKR,11,3564
+Selangor,N.12 Jeram,1,Kamal Bin Ashaari,3415,PAS,3,3587
+Selangor,N.12 Jeram,2,Amiruddin Bin Setro,16919,BN,25,9114
+Selangor,N.13 Kuang,1,Abdul Rahim Bin Abdul Wahab,2972,PKR,11,3151
+Selangor,N.13 Kuang,2,Soohaimi Bin Abdul Rahman,16921,BN,25,8016
+Selangor,N.14 Rawang,1,Tang See Hang,11034,BN,25,10534
+Selangor,N.14 Rawang,2,Md Sabri Bin Md Taib,16923,BEBAS,1,2990
+Selangor,N.15 Taman Templer,1,Mohd Hatta Bin Md Ramli,16924,PAS,3,8911
+Selangor,N.15 Taman Templer,2,Ahmad Bhari Bin Abd Rahman,14447,BN,25,16536
+Selangor,N.16 Batu Caves,1,Kamarul Baharin Bin Abbas,3480,PKR,11,7581
+Selangor,N.16 Batu Caves,2,Jagarasah A/L Verasamy,16927,BN,25,9362
+Selangor,N.17 Gombak Setia,1,Yuszahari Bin Mohd Yusoff,16928,BN,25,12506
+Selangor,N.17 Gombak Setia,2,Ismail Bin Kamus,16929,PAS,3,9778
+Selangor,N.18 Hulu Kelang,1,Ahmad Bin Rahamat,4362,BEBAS,1,166
+Selangor,N.18 Hulu Kelang,2,Ahmad Bin Bujang,16931,BN,25,17013
+Selangor,N.18 Hulu Kelang,3,Abdul Rahman Bin Othman,317,PKR,11,10137
+Selangor,N.19 Bukit Antarabangsa,1,Zahir Bin Hassan,6316,PKR,11,7029
+Selangor,N.19 Bukit Antarabangsa,2,Azman Bin Wahid,3430,BN,25,14900
+Selangor,N.20 Lembah Jaya,1,Ismail Bin Kijo,14461,BN,25,17092
+Selangor,N.20 Lembah Jaya,2,Wan Hasrina Binti Wan Hassan,16936,PAS,3,7785
+Selangor,N.21 Chempaka,1,Mohd Fauzi Bin Yusoff,16937,PKR,11,6599
+Selangor,N.21 Chempaka,2,Mad Aris Bin Mad Yusuf,13297,BN,25,12654
+Selangor,N.22 Teratai,1,Yap Soo Sun,16939,BN,25,10880
+Selangor,N.22 Teratai,2,Khong Chee Seng,16940,DAP,18,8639
+Selangor,N.23 Dusun Tua,1,Abdul Ghani Bin Haroon,15387,PKR,11,5802
+Selangor,N.23 Dusun Tua,2,Rahmad Bin Musa,16942,BN,25,14845
+Selangor,N.24 Semenyih,1,Ahamad Kuris Bin Mohd Nor,15640,BN,25,13280
+Selangor,N.24 Semenyih,2,Mohd Khairuddin Bin Othman,16944,PAS,3,5425
+Selangor,N.25 Kajang,1,Low Lee Leng,16945,BN,25,11380
+Selangor,N.25 Kajang,2,Lee Kim Sin,12651,PKR,11,8607
+Selangor,N.26 Bangi,1,Amran Bin Kasimin,16947,BN,25,12563
+Selangor,N.26 Bangi,2,Dr. Shafie Bin Abu Bakar,15639,PAS,3,8855
+Selangor,N.27 Balakong,1,Ong Ing Siong,15661,DAP,18,6121
+Selangor,N.27 Balakong,2,Dato' Hoh Hee Lee,16950,BN,25,10289
+Selangor,N.28 Seri Kembangan,1,Lee Yee Lian,1504,DAP,18,6616
+Selangor,N.28 Seri Kembangan,2,Dato' Liew Yuen Keong,16952,BN,25,14379
+Selangor,N.29 Seri Serdang,1,Mazli Bin Mansor,16953,BEBAS,1,246
+Selangor,N.29 Seri Serdang,2,Yaakob Bin Sapari,16954,PKR,11,7378
+Selangor,N.29 Seri Serdang,3,Mohamad Satim Bin Diman,14479,BN,25,17923
+Selangor,N.30 Kinrara,1,Teoh Lib Peng,16956,DAP,18,4894
+Selangor,N.30 Kinrara,2,Kow Cheong Wei,16957,BN,25,9163
+Selangor,N.31 Subang Jaya,1,Lee Hwa Beng,3439,BN,25,0
+Selangor,N.32 Seri Setia,1,Seripah Noli Binti Sved Hussin,2439,BN,25,16911
+Selangor,N.32 Seri Setia,2,Mastura Binti Hj Muhammad,16960,PAS,3,5770
+Selangor,N.33 Taman Medan,1,Kamarul Jaman Bin Seeni Mohideen,16961,BEBAS,1,641
+Selangor,N.33 Taman Medan,2,Ab Wahab Bin Ibrahim,16962,BN,25,18191
+Selangor,N.33 Taman Medan,3,Ghazali Bin Shaari,16963,PAS,3,4663
+Selangor,N.33 Taman Medan,4,Wan M. Razali Bin Wan A. Kadir,16964,PKR,11,3292
+Selangor,N.34 Bukit Gasing,1,Lim Thuang Seng,14475,BN,25,13057
+Selangor,N.34 Bukit Gasing,2,John Chung Yoong Ying,16966,DAP,18,8976
+Selangor,N.35 Kampung Tunku,1,Wong Sai Hou,1795,BN,25,11979
+Selangor,N.35 Kampung Tunku,2,Ean Yong Hiah Wah,16968,DAP,18,8367
+Selangor,N.36 Damansara Utama,1,Lim Choon Kin,15643,BN,25,19124
+Selangor,N.36 Damansara Utama,2,Yim Chee Pool,16970,DAP,18,12309
+Selangor,N.37 Bukit Lanjan,1,Yong Dai Ying,16971,BN,25,11460
+Selangor,N.37 Bukit Lanjan,2,Panneerselvan A/L Varathan,16972,PKR,11,3121
+Selangor,N.38 Paya Jaraa,1,Badrul Amin Bin Bahron,3065,PKR,11,7122
+Selangor,N.38 Paya Jaraa,2,Muhammad Bushro Bin Mat Johor,16974,BN,25,10966
+Selangor,N.39 Kota Damansara,1,Mohamad Ariff Bin Md Yusof,16975,PAS,3,4827
+Selangor,N.39 Kota Damansara,2,Mohd Mokhtar Bin Haii Ahmad Dahlan,14489,BN,25,12926
+Selangor,N.40 Kota Anggerik,1,Annette Syed Mohamed @ Animah Annette Ferrar,16977,PKR,11,8652
+Selangor,N.40 Kota Anggerik,2,Ahmad Nawawi Bin M. Zin,15664,BN,25,16853
+Selangor,N.41 Batu Tiga,1,Salamon Bin Selamat,2432,BN,25,16666
+Selangor,N.41 Batu Tiga,2,Shaari Bin Abdul Malik,16980,PKR,11,9279
+Selangor,N.42 Meru,1,Abd. Rani Bin Osman,4194,PAS,3,7751
+Selangor,N.42 Meru,2,Dato' Jaei Bin Ismail,15669,BN,25,11850
+Selangor,N.43 Sementa,1,Dato Abd Rahman Bin Palil,15670,BN,25,12996
+Selangor,N.43 Sementa,2,Abdul Rahman Bin Ibrahim,3293,PKR,11,5311
+Selangor,N.44 Sungai Pinang,1,Teng Chang Khim,2451,DAP,18,10484
+Selangor,N.44 Sungai Pinang,2,Khoh Siew Kim,16986,BN,25,6871
+Selangor,N.45 Selat Kelang,1,Norliza Binti Ahmad,16987,BN,25,12593
+Selangor,N.45 Selat Kelang,2,Halimah Ali,16988,PAS,3,6508
+Selangor,N.46 Pelabuhan Klang,1,Dato' Zainal Bin Md Deros,16989,BN,25,12312
+Selangor,N.46 Pelabuhan Klang,2,Krishnasamy A/L Punusamy,16990,PKR,11,5075
+Selangor,N.47 Pandamaran,1,Dato' Teh Kim Poo,16991,BN,25,9104
+Selangor,N.47 Pandamaran,2,Tee Boon Hock,15679,DAP,18,8673
+Selangor,N.48 Kota Alam Shah,1,Ching Su Chen,16993,BN,25,9309
+Selangor,N.48 Kota Alam Shah,2,Thye Kim Kiong,16994,DAP,18,6566
+Selangor,N.49 Seri Andalas,1,Kamalam A/P Annasamy,16995,BN,25,15608
+Selangor,N.49 Seri Andalas,2,Tan Ah Kow,16996,PKR,11,7914
+Selangor,N.49 Seri Andalas,3,Pupalan A/L Muthusamy,14506,BEBAS,1,468
+Selangor,N.50 Sri Muda,1,Amzah Bin Umar,16998,BN,25,11715
+Selangor,N.50 Sri Muda,2,Sd Mohamad Johari Bin Haji Yasin,16999,PKR,11,6513
+Selangor,N.50 Sri Muda,3,Krisnasamy A/L Thevarayan,17000,BEBAS,1,1725
+Selangor,N.51 Sijangkang,1,Ahmad Yunus Bin Hairi,17001,PAS,3,6259
+Selangor,N.51 Sijangkang,2,Abdul Fatah Bin Iskandar,14511,BN,25,9655
+Selangor,N.52 Teluk Datuk,1,Ei Kim Hock,14513,BN,25,8899
+Selangor,N.52 Teluk Datuk,2,Ang Leng Kiat,17004,DAP,18,4205
+Selangor,N.53 Morib,1,Hasnul B. Baharuddin,17005,PAS,3,5361
+Selangor,N.53 Morib,2,Hasiman Bin Sidom,17006,BN,25,12523
+Selangor,N.54 Tanjong Sepat,1,Sukiran Bin Sarman,15687,PAS,3,3762
+Selangor,N.54 Tanjong Sepat,2,Karim Bin Mansor,17008,BN,25,9839
+Selangor,N.55 Dengkil,1,Suhaimi Bin Mohd Ghazali,3806,BN,25,12336
+Selangor,N.55 Dengkil,2,Mohd. Haslin Bin Hassan,17010,PAS,3,4028
+Selangor,N.55 Dengkil,3,Husin Bin Dahlan,17011,PKR,11,932
+Selangor,N.56 Sungai Pelek,1,Liew Chee Keong @ Liew Chee Chong,15691,BN,25,7847
+Selangor,N.56 Sungai Pelek,2,Cheong Kai Cheng,6880,DAP,18,3740

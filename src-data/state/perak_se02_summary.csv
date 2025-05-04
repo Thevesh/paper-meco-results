@@ -1,41 +1,41 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Perak,N.01 Grik,Grik,10788,8863,0,493
-Perak,N.02 Lenggong,Lenggong,12384,10509,0,267
-Perak,N.03 Selama,Selama,13748,10872,0,658
-Perak,N.04 Larut,Larut,13293,10423,0,329
-Perak,N.05 Parit Buntar,Parit Buntar,11967,9300,0,436
-Perak,N.06 Kuala Kurau,Kuala Kurau,13638,11022,0,400
-Perak,N.07 Bagan Serai,Bagan Serai,12756,9638,0,603
-Perak,N.08 Gunong Semanggol,Gunong Semanggol,11981,9611,0,327
-Perak,N.09 Taiping,Taiping,18937,15037,0,590
-Perak,N.10 Matang,Matang,21972,16038,0,742
-Perak,N.11 Sungei Manik,Sungei Manik,7721,5901,0,341
-Perak,N.12 Bandar,Bandar,8084,6672,0,265
-Perak,N.13 Senggang,Senggang,15128,11536,0,524
-Perak,N.14 Padang Rengas,Padang Rengas,14586,11726,0,411
-Perak,N.15 Karai,Karai,8157,6207,0,167
-Perak,N.16 Jalong,Jalong,9634,8192,0,264
-Perak,N.17 Blanja,Blanja,12733,10280,0,309
-Perak,N.18 Kampong Gajah,Kampong Gajah,9563,7830,0,253
-Perak,N.19 Pengkalan Bharu,Pengkalan Bharu,12446,9646,0,392
-Perak,N.20 Ayer Tawar,Ayer Tawar,13824,11263,0,646
-Perak,N.21 Lekir,Lekir,10241,8452,0,492
-Perak,N.22 Lumut,Lumut,13636,10667,0,412
-Perak,N.23 Pekan Lama,Pekan Lama,18035,13555,0,435
-Perak,N.24 Pekan Bharu,Pekan Bharu,15226,12268,0,579
-Perak,N.25 Pasir Puteh,Pasir Puteh,23853,19183,0,542
-Perak,N.26 Kuala Pari,Kuala Pari,22141,17178,0,833
-Perak,N.27 Chemor,Chemor,10178,8474,0,266
-Perak,N.28 Sungei Raja,Sungei Raja,9551,7990,0,560
-Perak,N.29 Tanjong Tualang,Tanjong Tualang,8887,7618,0,268
-Perak,N.30 Pusing,Pusing,14836,12248,0,491
-Perak,N.31 Gopeng,Gopeng,14285,11556,0,2230
-Perak,N.32 Kuala Dipang,Kuala Dipang,19930,16307,0,575
-Perak,N.33 Bidor,Bidor,9866,8028,0,473
-Perak,N.34 Slim,Slim,10943,8267,0,450
-Perak,N.35 Batak Rabit,Batak Rabit,11366,9078,0,408
-Perak,N.36 Pasir Bedamar,Pasir Bedamar,17764,13655,0,686
-Perak,N.37 Rungkup,Rungkup,12253,9854,0,593
-Perak,N.38 Hutan Melintang,Hutan Melintang,10513,7750,0,647
-Perak,N.39 Tapah Road,Tapah Road,9030,7215,0,591
-Perak,N.40 Tapah,Tapah,8573,7022,0,341
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Perak,N.01 Grik,10788,8863,0,493
+Perak,N.02 Lenggong,12384,10509,0,267
+Perak,N.03 Selama,13748,10872,0,658
+Perak,N.04 Larut,13293,10423,0,329
+Perak,N.05 Parit Buntar,11967,9300,0,436
+Perak,N.06 Kuala Kurau,13638,11022,0,400
+Perak,N.07 Bagan Serai,12756,9638,0,603
+Perak,N.08 Gunong Semanggol,11981,9611,0,327
+Perak,N.09 Taiping,18937,15037,0,590
+Perak,N.10 Matang,21972,16038,0,742
+Perak,N.11 Sungei Manik,7721,5901,0,341
+Perak,N.12 Bandar,8084,6672,0,265
+Perak,N.13 Senggang,15128,11536,0,524
+Perak,N.14 Padang Rengas,14586,11726,0,411
+Perak,N.15 Karai,8157,6207,0,167
+Perak,N.16 Jalong,9634,8192,0,264
+Perak,N.17 Blanja,12733,10280,0,309
+Perak,N.18 Kampong Gajah,9563,7830,0,253
+Perak,N.19 Pengkalan Bharu,12446,9646,0,392
+Perak,N.20 Ayer Tawar,13824,11263,0,646
+Perak,N.21 Lekir,10241,8452,0,492
+Perak,N.22 Lumut,13636,10667,0,412
+Perak,N.23 Pekan Lama,18035,13555,0,435
+Perak,N.24 Pekan Bharu,15226,12268,0,579
+Perak,N.25 Pasir Puteh,23853,19183,0,542
+Perak,N.26 Kuala Pari,22141,17178,0,833
+Perak,N.27 Chemor,10178,8474,0,266
+Perak,N.28 Sungei Raja,9551,7990,0,560
+Perak,N.29 Tanjong Tualang,8887,7618,0,268
+Perak,N.30 Pusing,14836,12248,0,491
+Perak,N.31 Gopeng,14285,11556,0,2230
+Perak,N.32 Kuala Dipang,19930,16307,0,575
+Perak,N.33 Bidor,9866,8028,0,473
+Perak,N.34 Slim,10943,8267,0,450
+Perak,N.35 Batak Rabit,11366,9078,0,408
+Perak,N.36 Pasir Bedamar,17764,13655,0,686
+Perak,N.37 Rungkup,12253,9854,0,593
+Perak,N.38 Hutan Melintang,10513,7750,0,647
+Perak,N.39 Tapah Road,9030,7215,0,591
+Perak,N.40 Tapah,8573,7022,0,341

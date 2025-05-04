@@ -1,25 +1,25 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Negeri Sembilan,N.01 Kuala Klawang,Kuala Klawang,7945,6310,0,327
-Negeri Sembilan,N.02 Pertang,Pertang,5475,4511,0,279
-Negeri Sembilan,N.03 Bahau,Bahau,7305,5815,0,209
-Negeri Sembilan,N.04 Jempol,Jempol,4787,3795,0,261
-Negeri Sembilan,N.05 Lenggeng,Lenggeng,9119,7374,0,352
-Negeri Sembilan,N.06 Pantai,Pantai,6059,4471,0,203
-Negeri Sembilan,N.07 Labu,Labu,7867,6317,0,446
-Negeri Sembilan,N.08 Rantau,Rantau,4825,3854,0,211
-Negeri Sembilan,N.09 Rasah,Rasah,9332,7114,0,525
-Negeri Sembilan,N.10 Rahang,Rahang,13391,10284,0,615
-Negeri Sembilan,N.11 Sungai Ujong,Sungai Ujong,11833,8785,0,548
-Negeri Sembilan,N.12 Terentang,Terentang,6175,4793,0,375
-Negeri Sembilan,N.13 Seri Menanti,Seri Menanti,5675,4465,0,98
-Negeri Sembilan,N.14 Ulu Muar,Ulu Muar,0,0,0,0
-Negeri Sembilan,N.15 Pilah,Pilah,8677,6777,0,160
-Negeri Sembilan,N.16 Johol,Johol,0,0,0,0
-Negeri Sembilan,N.17 Jimah,Jimah,7187,5849,0,295
-Negeri Sembilan,N.18 Si Rusa,Si Rusa,7343,5679,0,184
-Negeri Sembilan,N.19 Pasir Panjang,Pasir Panjang,6003,4234,0,133
-Negeri Sembilan,N.20 Linggi,Linggi,6451,5368,0,231
-Negeri Sembilan,N.21 Kota,Kota,7360,5968,0,137
-Negeri Sembilan,N.22 Gemenceh,Gemenceh,0,0,0,0
-Negeri Sembilan,N.23 Gemas,Gemas,8264,6527,0,152
-Negeri Sembilan,N.24 Rompin,Rompin,6160,4675,0,72
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Negeri Sembilan,N.01 Kuala Klawang,7945,6310,0,327
+Negeri Sembilan,N.02 Pertang,5475,4511,0,279
+Negeri Sembilan,N.03 Bahau,7305,5815,0,209
+Negeri Sembilan,N.04 Jempol,4787,3795,0,261
+Negeri Sembilan,N.05 Lenggeng,9119,7374,0,352
+Negeri Sembilan,N.06 Pantai,6059,4471,0,203
+Negeri Sembilan,N.07 Labu,7867,6317,0,446
+Negeri Sembilan,N.08 Rantau,4825,3854,0,211
+Negeri Sembilan,N.09 Rasah,9332,7114,0,525
+Negeri Sembilan,N.10 Rahang,13391,10284,0,615
+Negeri Sembilan,N.11 Sungai Ujong,11833,8785,0,548
+Negeri Sembilan,N.12 Terentang,6175,4793,0,375
+Negeri Sembilan,N.13 Seri Menanti,5675,4465,0,98
+Negeri Sembilan,N.14 Ulu Muar,0,0,0,0
+Negeri Sembilan,N.15 Pilah,8677,6777,0,160
+Negeri Sembilan,N.16 Johol,0,0,0,0
+Negeri Sembilan,N.17 Jimah,7187,5849,0,295
+Negeri Sembilan,N.18 Si Rusa,7343,5679,0,184
+Negeri Sembilan,N.19 Pasir Panjang,6003,4234,0,133
+Negeri Sembilan,N.20 Linggi,6451,5368,0,231
+Negeri Sembilan,N.21 Kota,7360,5968,0,137
+Negeri Sembilan,N.22 Gemenceh,0,0,0,0
+Negeri Sembilan,N.23 Gemas,8264,6527,0,152
+Negeri Sembilan,N.24 Rompin,6160,4675,0,72

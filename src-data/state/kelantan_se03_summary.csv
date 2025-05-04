@@ -1,31 +1,31 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Kelantan,N.01 Tumpat Barat,Tumpat Barat,9803,7225,0,442
-Kelantan,N.02 Tumpat Tengah,Tumpat Tengah,10636,8209,0,404
-Kelantan,N.03 Tumpat Timor,Tumpat Timor,10676,8523,0,340
-Kelantan,N.04 Kuala Kelantan,Kuala Kelantan,8625,6514,0,309
-Kelantan,N.05 Kota Bharu Utara,Kota Bharu Utara,11596,8624,0,484
-Kelantan,N.06 Kota Bharu Pantai,Kota Bharu Pantai,10839,8046,0,322
-Kelantan,N.07 Meranti,Meranti,8443,5687,0,249
-Kelantan,N.08 Tendong,Tendong,9825,7398,0,386
-Kelantan,N.09 Bandar Pasir Mas,Bandar Pasir Mas,11288,7514,0,322
-Kelantan,N.10 Bandar Hilir,Bandar Hilir,11429,7576,0,375
-Kelantan,N.11 Bandar Hulu,Bandar Hulu,16533,10333,0,456
-Kelantan,N.12 Kota Bharu Tengah,Kota Bharu Tengah,11516,8800,0,445
-Kelantan,N.13 Bachok Utara,Bachok Utara,11253,9003,0,387
-Kelantan,N.14 Bachok Tengah,Bachok Tengah,9908,7853,0,441
-Kelantan,N.15 Bachok Selatan,Bachok Selatan,10132,7778,0,390
-Kelantan,N.16 Kota Bharu Timor,Kota Bharu Timor,11956,8511,0,451
-Kelantan,N.17 Kota Bharu Barat,Kota Bharu Barat,10771,8325,0,456
-Kelantan,N.18 Kota Bharu Selatan,Kota Bharu Selatan,11966,9353,0,465
-Kelantan,N.19 Rantau Panjang,Rantau Panjang,8552,5235,0,226
-Kelantan,N.20 Lemal,Lemal,7976,5682,0,313
-Kelantan,N.21 Tok Uban,Tok Uban,8869,6568,0,354
-Kelantan,N.22 Pasir Puteh Utara,Pasir Puteh Utara,10479,8624,0,549
-Kelantan,N.23 Pasir Puteh Tengah,Pasir Puteh Tengah,11339,9062,0,445
-Kelantan,N.24 Pasir Puteh Tenggara,Pasir Puteh Tenggara,11785,9308,0,452
-Kelantan,N.25 Machang Utara,Machang Utara,12597,9781,0,461
-Kelantan,N.26 Tanah Merah Timor,Tanah Merah Timor,14256,10605,0,593
-Kelantan,N.27 Tanah Merah Barat,Tanah Merah Barat,12146,9186,0,496
-Kelantan,N.28 Machang Selatan,Machang Selatan,13569,10391,0,512
-Kelantan,N.29 Ulu Kelantan Timor,Ulu Kelantan Timor,16531,12184,0,820
-Kelantan,N.30 Ulu Kelantan Barat,Ulu Kelantan Barat,8460,6776,0,388
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Kelantan,N.01 Tumpat Barat,9803,7225,0,442
+Kelantan,N.02 Tumpat Tengah,10636,8209,0,404
+Kelantan,N.03 Tumpat Timor,10676,8523,0,340
+Kelantan,N.04 Kuala Kelantan,8625,6514,0,309
+Kelantan,N.05 Kota Bharu Utara,11596,8624,0,484
+Kelantan,N.06 Kota Bharu Pantai,10839,8046,0,322
+Kelantan,N.07 Meranti,8443,5687,0,249
+Kelantan,N.08 Tendong,9825,7398,0,386
+Kelantan,N.09 Bandar Pasir Mas,11288,7514,0,322
+Kelantan,N.10 Bandar Hilir,11429,7576,0,375
+Kelantan,N.11 Bandar Hulu,16533,10333,0,456
+Kelantan,N.12 Kota Bharu Tengah,11516,8800,0,445
+Kelantan,N.13 Bachok Utara,11253,9003,0,387
+Kelantan,N.14 Bachok Tengah,9908,7853,0,441
+Kelantan,N.15 Bachok Selatan,10132,7778,0,390
+Kelantan,N.16 Kota Bharu Timor,11956,8511,0,451
+Kelantan,N.17 Kota Bharu Barat,10771,8325,0,456
+Kelantan,N.18 Kota Bharu Selatan,11966,9353,0,465
+Kelantan,N.19 Rantau Panjang,8552,5235,0,226
+Kelantan,N.20 Lemal,7976,5682,0,313
+Kelantan,N.21 Tok Uban,8869,6568,0,354
+Kelantan,N.22 Pasir Puteh Utara,10479,8624,0,549
+Kelantan,N.23 Pasir Puteh Tengah,11339,9062,0,445
+Kelantan,N.24 Pasir Puteh Tenggara,11785,9308,0,452
+Kelantan,N.25 Machang Utara,12597,9781,0,461
+Kelantan,N.26 Tanah Merah Timor,14256,10605,0,593
+Kelantan,N.27 Tanah Merah Barat,12146,9186,0,496
+Kelantan,N.28 Machang Selatan,13569,10391,0,512
+Kelantan,N.29 Ulu Kelantan Timor,16531,12184,0,820
+Kelantan,N.30 Ulu Kelantan Barat,8460,6776,0,388

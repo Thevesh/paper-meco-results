@@ -1,57 +1,57 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Johor,N.01 Buloh Kasap,Buloh Kasap,18779,16057,34,497
-Johor,N.02 Jementah,Jementah,28230,23838,44,428
-Johor,N.03 Pemanis,Pemanis,22617,19679,33,365
-Johor,N.04 Kemelah,Kemelah,20449,17840,37,229
-Johor,N.05 Tenang,Tenang,16940,14619,26,337
-Johor,N.06 Bekok,Bekok,20774,17408,25,298
-Johor,N.07 Bukit Serampang,Bukit Serampang,21429,18527,36,382
-Johor,N.08 Jorak,Jorak,25364,22086,37,449
-Johor,N.09 Gambir,Gambir,21382,18711,21,492
-Johor,N.10 Tangkak,Tangkak,23394,20381,22,438
-Johor,N.11 Serom,Serom,24540,21290,13,305
-Johor,N.12 Bentayan,Bentayan,23438,19882,50,209
-Johor,N.13 Sungai Abong,Sungai Abong,28262,24762,73,334
-Johor,N.14 Bukit Naning,Bukit Naning,15502,13809,54,319
-Johor,N.15 Maharani,Maharani,27090,22743,48,369
-Johor,N.16 Sungai Balang,Sungai Balang,21118,18249,44,408
-Johor,N.17 Semerah,Semerah,31046,26683,78,446
-Johor,N.18 Sri Medan,Sri Medan,25850,23171,59,474
-Johor,N.19 Yong Peng,Yong Peng,22484,19584,44,365
-Johor,N.20 Semarang,Semarang,20429,18254,47,320
-Johor,N.21 Parit Yaani,Parit Yaani,24609,21782,35,379
-Johor,N.22 Parit Raja,Parit Raja,20207,18117,45,350
-Johor,N.23 Penggaram,Penggaram,45157,39408,69,836
-Johor,N.24 Senggarang,Senggarang,24048,21171,49,469
-Johor,N.25 Rengit,Rengit,19067,16623,35,316
-Johor,N.26 Machap,Machap,22221,19596,26,442
-Johor,N.27 Layang-Layang,Layang-Layang,17922,15158,60,390
-Johor,N.28 Mengkibol,Mengkibol,42380,36763,80,527
-Johor,N.29 Mahkota,Mahkota,44352,38499,103,642
-Johor,N.30 Paloh,Paloh,18222,15378,16,403
-Johor,N.31 Kahang,Kahang,23366,20532,37,386
-Johor,N.32 Endau,Endau,19040,15625,58,311
-Johor,N.33 Tenggaroh,Tenggaroh,25457,21768,57,617
-Johor,N.34 Panti,Panti,17358,15407,52,319
-Johor,N.35 Pasir Raja,Pasir Raja,22336,19539,36,329
-Johor,N.36 Sedili,Sedili,24716,22139,50,402
-Johor,N.37 Johor Lama,Johor Lama,17178,14804,34,254
-Johor,N.38 Penawar,Penawar,19881,17683,47,252
-Johor,N.39 Tanjong Surat,Tanjong Surat,18118,15384,52,339
-Johor,N.40 Tiram,Tiram,46658,40861,37,835
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,43824,38974,47,709
-Johor,N.42 Johor Jaya,Johor Jaya,51648,45618,56,1087
-Johor,N.43 Permas,Permas,49393,43032,51,829
-Johor,N.44 Tanjong Puteri,Tanjong Puteri,51442,43067,98,692
-Johor,N.45 Stulang,Stulang,44879,36998,71,625
-Johor,N.46 Pengkalan Rinting,Pengkalan Rinting,61217,52213,92,1163
-Johor,N.47 Kempas,Kempas,39273,33911,74,594
-Johor,N.48 Skudai,Skudai,56543,50048,90,624
-Johor,N.49 Nusa Jaya,Nusa Jaya,50183,45220,117,972
-Johor,N.50 Bukit Permai,Bukit Permai,21619,19474,44,327
-Johor,N.51 Bukit Batu,Bukit Batu,22262,20040,33,493
-Johor,N.52 Senai,Senai,40110,35601,50,558
-Johor,N.53 Benut,Benut,21463,18624,34,446
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,28170,24207,46,465
-Johor,N.55 Pekan Nenas,Pekan Nenas,32486,28745,37,505
-Johor,N.56 Kukup,Kukup,19389,16877,33,426
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Johor,N.01 Buloh Kasap,18779,16057,34,497
+Johor,N.02 Jementah,28230,23838,44,428
+Johor,N.03 Pemanis,22617,19679,33,365
+Johor,N.04 Kemelah,20449,17840,37,229
+Johor,N.05 Tenang,16940,14619,26,337
+Johor,N.06 Bekok,20774,17408,25,298
+Johor,N.07 Bukit Serampang,21429,18527,36,382
+Johor,N.08 Jorak,25364,22086,37,449
+Johor,N.09 Gambir,21382,18711,21,492
+Johor,N.10 Tangkak,23394,20381,22,438
+Johor,N.11 Serom,24540,21290,13,305
+Johor,N.12 Bentayan,23438,19882,50,209
+Johor,N.13 Sungai Abong,28262,24762,73,334
+Johor,N.14 Bukit Naning,15502,13809,54,319
+Johor,N.15 Maharani,27090,22743,48,369
+Johor,N.16 Sungai Balang,21118,18249,44,408
+Johor,N.17 Semerah,31046,26683,78,446
+Johor,N.18 Sri Medan,25850,23171,59,474
+Johor,N.19 Yong Peng,22484,19584,44,365
+Johor,N.20 Semarang,20429,18254,47,320
+Johor,N.21 Parit Yaani,24609,21782,35,379
+Johor,N.22 Parit Raja,20207,18117,45,350
+Johor,N.23 Penggaram,45157,39408,69,836
+Johor,N.24 Senggarang,24048,21171,49,469
+Johor,N.25 Rengit,19067,16623,35,316
+Johor,N.26 Machap,22221,19596,26,442
+Johor,N.27 Layang-Layang,17922,15158,60,390
+Johor,N.28 Mengkibol,42380,36763,80,527
+Johor,N.29 Mahkota,44352,38499,103,642
+Johor,N.30 Paloh,18222,15378,16,403
+Johor,N.31 Kahang,23366,20532,37,386
+Johor,N.32 Endau,19040,15625,58,311
+Johor,N.33 Tenggaroh,25457,21768,57,617
+Johor,N.34 Panti,17358,15407,52,319
+Johor,N.35 Pasir Raja,22336,19539,36,329
+Johor,N.36 Sedili,24716,22139,50,402
+Johor,N.37 Johor Lama,17178,14804,34,254
+Johor,N.38 Penawar,19881,17683,47,252
+Johor,N.39 Tanjong Surat,18118,15384,52,339
+Johor,N.40 Tiram,46658,40861,37,835
+Johor,N.41 Puteri Wangsa,43824,38974,47,709
+Johor,N.42 Johor Jaya,51648,45618,56,1087
+Johor,N.43 Permas,49393,43032,51,829
+Johor,N.44 Tanjong Puteri,51442,43067,98,692
+Johor,N.45 Stulang,44879,36998,71,625
+Johor,N.46 Pengkalan Rinting,61217,52213,92,1163
+Johor,N.47 Kempas,39273,33911,74,594
+Johor,N.48 Skudai,56543,50048,90,624
+Johor,N.49 Nusa Jaya,50183,45220,117,972
+Johor,N.50 Bukit Permai,21619,19474,44,327
+Johor,N.51 Bukit Batu,22262,20040,33,493
+Johor,N.52 Senai,40110,35601,50,558
+Johor,N.53 Benut,21463,18624,34,446
+Johor,N.54 Pulai Sebatang,28170,24207,46,465
+Johor,N.55 Pekan Nenas,32486,28745,37,505
+Johor,N.56 Kukup,19389,16877,33,426

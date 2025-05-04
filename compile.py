@@ -4,7 +4,7 @@ import json as j
 
 from helper import get_states, write_csv_parquet
 
-dates = j.load(open('src-data/dates_master.json'))
+DATES = j.load(open('src-data/lookup_dates.json'))
 STATES = get_states(my=1)
 
 
@@ -28,7 +28,7 @@ def compile_ballots():
 
             COL_ORI = [x for x in tf.columns if x not in ['date','election']]
             tf['election'] = f'{NAME}-{e:02d}' if TYPE != 'prk' else NAME
-            if TYPE != 'prk': tf['date'] = dates[s][str(e)] 
+            if TYPE != 'prk': tf['date'] = DATES[s][str(e)] 
             tf = tf[['date','election'] + COL_ORI]
             
             # Generate total valid votes for each seat, and then derive percentage of votes for each candidate
@@ -74,7 +74,7 @@ def compile_summary():
 
             COL_ORI = [x for x in tf.columns if x not in ['date','election']]
             tf['election'] = f'{NAME}-{e:02d}' if TYPE != 'prk' else NAME
-            if TYPE != 'prk': tf['date'] = dates[s][str(e)] 
+            if TYPE != 'prk': tf['date'] = DATES[s][str(e)] 
             tf = tf[['date','election'] + COL_ORI]
 
             df = tf.copy() if len(df) == 0 else pd.concat([df,tf],axis=0,ignore_index=True)

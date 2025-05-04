@@ -1,113 +1,113 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Johor,N.01 Buloh Kasap,Buloh Kasap,1,Mohamad Rozali Bin Jamil,14960,PAS,3,1540
-Johor,N.01 Buloh Kasap,Buloh Kasap,2,Othman Bin Jais,11485,BN,25,9072
-Johor,N.02 Jementah,Jementah,1,Lee Hong Tee,16165,BN,25,11174
-Johor,N.02 Jementah,Jementah,2,Pang Hok Liong,3148,DAP,18,6449
-Johor,N.03 Pemanis,Pemanis,1,Othman Bin Selamat,16167,PAS,3,2685
-Johor,N.03 Pemanis,Pemanis,2,Lau Chin Hoon,16168,BN,25,11039
-Johor,N.04 Kemelah,Kemelah,1,Ayub Bin Rahmat,4256,BN,25,8909
-Johor,N.04 Kemelah,Kemelah,2,Suleiman Bin Shuib,16170,PAS,3,1862
-Johor,N.05 Tenang,Tenang,1,Md. Saim Bin Siran,11494,PAS,3,2138
-Johor,N.05 Tenang,Tenang,2,Sulaiman Bin Taha,16172,BN,25,7655
-Johor,N.06 Bekok,Bekok,1,Ahmad Bin Ton,2163,DAP,18,3050
-Johor,N.06 Bekok,Bekok,2,Tan Kok Hong @ Tan Yi,13748,BN,25,9521
-Johor,N.07 Bukit Serampang,Bukit Serampang,1,Mahfodz Bin Mohamed,4272,PAS,3,2418
-Johor,N.07 Bukit Serampang,Bukit Serampang,2,Tahir Bin Mohd. Taat,14955,BN,25,11482
-Johor,N.08 Jorak,Jorak,1,Sumadi Bin Ahmad @ Ahamad,1556,BEBAS,1,428
-Johor,N.08 Jorak,Jorak,2,Samat Bin Aripin,14957,BN,25,11973
-Johor,N.08 Jorak,Jorak,3,Hi. Manap Bin Juan,16179,PAS,3,2480
-Johor,N.09 Gambir,Gambir,1,Aripin Bin Hi Dahalan,16180,PAS,3,3581
-Johor,N.09 Gambir,Gambir,2,M. Asian A/L Muniyandy,16181,BN,25,9690
-Johor,N.10 Tangkak,Tangkak,1,Yau Ho Yong,16182,PKR,11,3890
-Johor,N.10 Tangkak,Tangkak,2,Datuk Yap Chik Dong,16183,BN,25,8817
-Johor,N.11 Serom,Serom,1,Abu Bakar Bin Tambi,16184,PAS,3,3195
-Johor,N.11 Serom,Serom,2,Dato' A. Ghani Bin Othman,16185,BN,25,11276
-Johor,N.12 Bentayan,Bentayan,1,Lau Yew Wee @ Low Yu Wee,14978,BN,25,7657
-Johor,N.12 Bentayan,Bentayan,2,Tan Chen Choon,16187,DAP,18,7229
-Johor,N.13 Sungai Abong,Sungai Abong,1,Haris Bin Salleh,16188,BN,25,10208
-Johor,N.13 Sungai Abong,Sungai Abong,2,Sheikh Ibrahim Bin Salleh,14975,PAS,3,4151
-Johor,N.14 Bukit Naning,Bukit Naning,1,Kusni Bin Simoh,16190,PKR,11,2057
-Johor,N.14 Bukit Naning,Bukit Naning,2,Abdullah @ Md. Khalid Bin Md. Ali,16191,BN,25,8391
-Johor,N.15 Maharani,Maharani,1,Dr Mohammad Bin Taslim,14979,PAS,3,4594
-Johor,N.15 Maharani,Maharani,2,Mohd Ismail Bin Mohd Shah,16193,BN,25,11206
-Johor,N.16 Sungai Balang,Sungai Balang,1,Malik Bin Mohamed Diah,16194,PAS,3,3496
-Johor,N.16 Sungai Balang,Sungai Balang,2,Robia Binti Kosai,16195,BN,25,9701
-Johor,N.17 Semerah,Semerah,1,Ariss Bin Samsudin,16196,BN,25,15715
-Johor,N.17 Semerah,Semerah,2,Mazlan Bin Aliman,3419,PAS,3,5046
-Johor,N.18 Sri Medan,Sri Medan,1,Ahmad Zamri Bin Jamil,14972,BN,25,12055
-Johor,N.18 Sri Medan,Sri Medan,2,Muhammad Sabri Bin Omar,14971,PAS,3,4258
-Johor,N.19 Yong Peng,Yong Peng,1,Chew Peck Choo,2801,DAP,18,4265
-Johor,N.19 Yong Peng,Yong Peng,2,Lim Kee Moi,16201,BN,25,8112
-Johor,N.20 Semarang,Semarang,1,Samsolbari Bin Jamali,16202,BN,25,9937
-Johor,N.20 Semarang,Semarang,2,Husin Bin Sujak,3503,PAS,3,2111
-Johor,N.21 Parit Yaani,Parit Yaani,1,Muhamad Yusof Bin Masran,16204,PAS,3,3259
-Johor,N.21 Parit Yaani,Parit Yaani,2,Ng See Tiong,16205,BN,25,10535
-Johor,N.22 Parit Raja,Parit Raja,1,Sanusi Bin Daing Mariok,2320,PAS,3,2754
-Johor,N.22 Parit Raja,Parit Raja,2,Ab. Aziz Bin Kaprawi,16207,BN,25,10410
-Johor,N.23 Penggaram,Penggaram,1,Gan Peck Cheng,2189,DAP,18,6247
-Johor,N.23 Penggaram,Penggaram,2,Koh Chai @ Koh Chee Chai,16209,BN,25,16845
-Johor,N.24 Senggarang,Senggarang,1,Mohmohd Ramli Bin Md. Kari,2807,PAS,3,0
-Johor,N.25 Rengit,Rengit,1,Hasanuddin Bin Mohd Yunus,4177,PAS,3,3004
-Johor,N.25 Rengit,Rengit,2,Ayub Bin Jamil,16212,BN,25,7587
-Johor,N.26 Machap,Machap,1,Abd. Hamid Bin Abd. Rahman,2811,BN,25,10088
-Johor,N.26 Machap,Machap,2,Abdullah Bin Husin,4045,PAS,3,2533
-Johor,N.27 Layang-Layang,Layang–Layang,1,Rama Loo A/L Kannaiah,16215,PKR,11,1884
-Johor,N.27 Layang-Layang,Layang–Layang,2,Onn Bin Mohd Yassin,16216,BN,25,9467
-Johor,N.28 Mengkibol,Mengkibol,1,Gan Ping Shou @ Gan Ping Sieu,16217,BN,25,17186
-Johor,N.28 Mengkibol,Mengkibol,2,Ng Lam Hua,3168,DAP,18,8091
-Johor,N.29 Mahkota,Mahkota,1,Khairul Faizi Bin Ahmad Kamil,4255,PAS,3,4107
-Johor,N.29 Mahkota,Mahkota,2,Gapar Bin Gurrohu,16220,BN,25,19045
-Johor,N.30 Paloh,Paloh,1,Chong Ah Onn @ Chong Ah Own,14967,BN,25,7967
-Johor,N.30 Paloh,Paloh,2,Ng Lam Swa,16222,DAP,18,2789
-Johor,N.31 Kahang,Kahang,1,Ramis A/I Subramaniam,16223,BN,25,9397
-Johor,N.31 Kahang,Kahang,2,Mohamad Esa Bin Jaafar,16224,PAS,3,2024
-Johor,N.32 Endau,Endau,1,Shahar Bin Abdullah,3513,PAS,3,3051
-Johor,N.32 Endau,Endau,2,Zainal Abidin Bin Osman,2484,BN,25,8341
-Johor,N.33 Tenggaroh,Tenggaroh,1,Krishnasamy A/L Shiman,13751,BN,25,10412
-Johor,N.33 Tenggaroh,Tenggaroh,2,Sheikh Abdullah Bin Said Salleh,13750,PAS,3,2125
-Johor,N.34 Panti,Panti,1,Baderi Bin Dasuki,16229,BN,25,9395
-Johor,N.34 Panti,Panti,2,Abdul Rashid Bin Abu Bakar,1481,PAS,3,1245
-Johor,N.35 Pasir Raja,Pasir Raja,1,Halimah Binti Mohd Sadique,3515,BN,25,10402
-Johor,N.35 Pasir Raja,Pasir Raja,2,Sanip Bin Ithnin,16232,PAS,3,1437
-Johor,N.36 Sedili,Sedili,1,Musa Bin Wagiman,16233,PAS,3,732
-Johor,N.36 Sedili,Sedili,2,Abdul Rashid Bin Abd Mokti,16234,BN,25,12876
-Johor,N.37 Johor Lama,Johor Lama,1,Mona'Im Bin Hassan,16235,PAS,3,988
-Johor,N.37 Johor Lama,Johor Lama,2,Asiah Binti Md Ariff,15004,BN,25,10039
-Johor,N.38 Penawar,Penawar,1,Mohd 'Azam Bin Haji Rauzan,16237,BN,25,0
-Johor,N.39 Tanjong Surat,Tanjong Surat,1,Muhram Bin Muhamed,16238,PAS,3,564
-Johor,N.39 Tanjong Surat,Tanjong Surat,2,Harun Bin Abdullah,183,BN,25,10360
-Johor,N.40 Tiram,Tiram,1,Maulizan Bin Bujang,16240,BN,25,18482
-Johor,N.40 Tiram,Tiram,2,Roslani Bin Sharif,3519,PAS,3,2887
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,1,Abdul Halim Bin Suleiman,16242,BN,25,14677
-Johor,N.41 Puteri Wangsa,Puteri Wangsa,2,A. Razak Bin Ahmad,1030,PKR,11,2337
-Johor,N.42 Johor Jaya,Johor Jaya,1,Sey Jock,16244,DAP,18,3726
-Johor,N.42 Johor Jaya,Johor Jaya,2,Low Ching Kuang,16245,PKR,11,1714
-Johor,N.42 Johor Jaya,Johor Jaya,3,Tan Cher Puk,16246,BN,25,19121
-Johor,N.43 Permas,Permas,1,Paliksina Siwalinggam,16247,BN,25,15632
-Johor,N.43 Permas,Permas,2,Syed Othman Bin Abdullah,16248,PAS,3,4827
-Johor,N.44 Tanjong Puteri,Tanjong Puteri,1,Ali Bin Mohamed,16249,BN,25,26191
-Johor,N.44 Tanjong Puteri,Tanjong Puteri,2,Zaliha Binti Mustafa,16250,PKR,11,6515
-Johor,N.45 Stulang,Stulang,1,Norman Joseph Fernandez,16251,DAP,18,5914
-Johor,N.45 Stulang,Stulang,2,Long Hoo Hin @ Long Ah Mui,13802,BN,25,22659
-Johor,N.46 Pengkalan Rinting,Pengkalan Rinting,1,Low Teh Hian,13806,BN,25,23321
-Johor,N.46 Pengkalan Rinting,Pengkalan Rinting,2,Rahmatullah Bin Abdul,16254,PAS,3,4403
-Johor,N.47 Kempas,Kempas,1,Osman Bin Sapian,16255,BN,25,19088
-Johor,N.47 Kempas,Kempas,2,Ibrahim Bin Masan,1170,PAS,3,3170
-Johor,N.48 Skudai,Skudai,1,Teo Eng Tee @ Teo Kok Chee,16257,BN,25,15573
-Johor,N.48 Skudai,Skudai,2,Boo Cheng Hau,16258,DAP,18,13380
-Johor,N.49 Nusa Jaya,Nusa Jaya,1,Abd Aziz Bin Sapian,16259,BN,25,18452
-Johor,N.49 Nusa Jaya,Nusa Jaya,2,Zulkarnian Yap Bin Abdullah,16260,PAS,3,3676
-Johor,N.50 Bukit Permai,Bukit Permai,1,Md Faridz Bin Mohd Salleh,16261,PAS,3,1368
-Johor,N.50 Bukit Permai,Bukit Permai,2,Zainal Abidin Bin Jidin,1438,BN,25,9194
-Johor,N.51 Bukit Batu,Bukit Batu,1,Liew Shin Kheong,16263,PKR,11,3066
-Johor,N.51 Bukit Batu,Bukit Batu,2,Cheong Chin Liang,16264,BN,25,10301
-Johor,N.52 Senai,Senai,1,Ong Kow Me,3187,DAP,18,8590
-Johor,N.52 Senai,Senai,2,Chun Yoon Fook,16266,BN,25,13884
-Johor,N.53 Benut,Benut,1,Saklon @ Salehon Bin Sengot,13784,BN,25,11238
-Johor,N.53 Benut,Benut,2,Azlisham Bin Azahar,16268,PAS,3,3007
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,1,Tee Siew Kiong,16269,BN,25,14199
-Johor,N.54 Pulai Sebatang,Pulai Sebatang,2,Sarobo Bin Ponoh,16270,PAS,3,3982
-Johor,N.55 Pekan Nenas,Pekan Nenas,1,Tan Hang Meng,2812,DAP,18,4233
-Johor,N.55 Pekan Nenas,Pekan Nenas,2,Wee Jeck Seng,3529,BN,25,15395
-Johor,N.56 Kukup,Kukup,1,Jamaliah @ Jamilah Binti Endan,16273,BN,25,11544
-Johor,N.56 Kukup,Kukup,2,Ahmad Sani Bin Kemat,16274,PAS,3,1603
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Johor,N.01 Buloh Kasap,1,Mohamad Rozali Bin Jamil,14960,PAS,3,1540
+Johor,N.01 Buloh Kasap,2,Othman Bin Jais,11485,BN,25,9072
+Johor,N.02 Jementah,1,Lee Hong Tee,16165,BN,25,11174
+Johor,N.02 Jementah,2,Pang Hok Liong,3148,DAP,18,6449
+Johor,N.03 Pemanis,1,Othman Bin Selamat,16167,PAS,3,2685
+Johor,N.03 Pemanis,2,Lau Chin Hoon,16168,BN,25,11039
+Johor,N.04 Kemelah,1,Ayub Bin Rahmat,4256,BN,25,8909
+Johor,N.04 Kemelah,2,Suleiman Bin Shuib,16170,PAS,3,1862
+Johor,N.05 Tenang,1,Md. Saim Bin Siran,11494,PAS,3,2138
+Johor,N.05 Tenang,2,Sulaiman Bin Taha,16172,BN,25,7655
+Johor,N.06 Bekok,1,Ahmad Bin Ton,2163,DAP,18,3050
+Johor,N.06 Bekok,2,Tan Kok Hong @ Tan Yi,13748,BN,25,9521
+Johor,N.07 Bukit Serampang,1,Mahfodz Bin Mohamed,4272,PAS,3,2418
+Johor,N.07 Bukit Serampang,2,Tahir Bin Mohd. Taat,14955,BN,25,11482
+Johor,N.08 Jorak,1,Sumadi Bin Ahmad @ Ahamad,1556,BEBAS,1,428
+Johor,N.08 Jorak,2,Samat Bin Aripin,14957,BN,25,11973
+Johor,N.08 Jorak,3,Hi. Manap Bin Juan,16179,PAS,3,2480
+Johor,N.09 Gambir,1,Aripin Bin Hi Dahalan,16180,PAS,3,3581
+Johor,N.09 Gambir,2,M. Asian A/L Muniyandy,16181,BN,25,9690
+Johor,N.10 Tangkak,1,Yau Ho Yong,16182,PKR,11,3890
+Johor,N.10 Tangkak,2,Datuk Yap Chik Dong,16183,BN,25,8817
+Johor,N.11 Serom,1,Abu Bakar Bin Tambi,16184,PAS,3,3195
+Johor,N.11 Serom,2,Dato' A. Ghani Bin Othman,16185,BN,25,11276
+Johor,N.12 Bentayan,1,Lau Yew Wee @ Low Yu Wee,14978,BN,25,7657
+Johor,N.12 Bentayan,2,Tan Chen Choon,16187,DAP,18,7229
+Johor,N.13 Sungai Abong,1,Haris Bin Salleh,16188,BN,25,10208
+Johor,N.13 Sungai Abong,2,Sheikh Ibrahim Bin Salleh,14975,PAS,3,4151
+Johor,N.14 Bukit Naning,1,Kusni Bin Simoh,16190,PKR,11,2057
+Johor,N.14 Bukit Naning,2,Abdullah @ Md. Khalid Bin Md. Ali,16191,BN,25,8391
+Johor,N.15 Maharani,1,Dr Mohammad Bin Taslim,14979,PAS,3,4594
+Johor,N.15 Maharani,2,Mohd Ismail Bin Mohd Shah,16193,BN,25,11206
+Johor,N.16 Sungai Balang,1,Malik Bin Mohamed Diah,16194,PAS,3,3496
+Johor,N.16 Sungai Balang,2,Robia Binti Kosai,16195,BN,25,9701
+Johor,N.17 Semerah,1,Ariss Bin Samsudin,16196,BN,25,15715
+Johor,N.17 Semerah,2,Mazlan Bin Aliman,3419,PAS,3,5046
+Johor,N.18 Sri Medan,1,Ahmad Zamri Bin Jamil,14972,BN,25,12055
+Johor,N.18 Sri Medan,2,Muhammad Sabri Bin Omar,14971,PAS,3,4258
+Johor,N.19 Yong Peng,1,Chew Peck Choo,2801,DAP,18,4265
+Johor,N.19 Yong Peng,2,Lim Kee Moi,16201,BN,25,8112
+Johor,N.20 Semarang,1,Samsolbari Bin Jamali,16202,BN,25,9937
+Johor,N.20 Semarang,2,Husin Bin Sujak,3503,PAS,3,2111
+Johor,N.21 Parit Yaani,1,Muhamad Yusof Bin Masran,16204,PAS,3,3259
+Johor,N.21 Parit Yaani,2,Ng See Tiong,16205,BN,25,10535
+Johor,N.22 Parit Raja,1,Sanusi Bin Daing Mariok,2320,PAS,3,2754
+Johor,N.22 Parit Raja,2,Ab. Aziz Bin Kaprawi,16207,BN,25,10410
+Johor,N.23 Penggaram,1,Gan Peck Cheng,2189,DAP,18,6247
+Johor,N.23 Penggaram,2,Koh Chai @ Koh Chee Chai,16209,BN,25,16845
+Johor,N.24 Senggarang,1,Mohmohd Ramli Bin Md. Kari,2807,PAS,3,0
+Johor,N.25 Rengit,1,Hasanuddin Bin Mohd Yunus,4177,PAS,3,3004
+Johor,N.25 Rengit,2,Ayub Bin Jamil,16212,BN,25,7587
+Johor,N.26 Machap,1,Abd. Hamid Bin Abd. Rahman,2811,BN,25,10088
+Johor,N.26 Machap,2,Abdullah Bin Husin,4045,PAS,3,2533
+Johor,N.27 Layang-Layang,1,Rama Loo A/L Kannaiah,16215,PKR,11,1884
+Johor,N.27 Layang-Layang,2,Onn Bin Mohd Yassin,16216,BN,25,9467
+Johor,N.28 Mengkibol,1,Gan Ping Shou @ Gan Ping Sieu,16217,BN,25,17186
+Johor,N.28 Mengkibol,2,Ng Lam Hua,3168,DAP,18,8091
+Johor,N.29 Mahkota,1,Khairul Faizi Bin Ahmad Kamil,4255,PAS,3,4107
+Johor,N.29 Mahkota,2,Gapar Bin Gurrohu,16220,BN,25,19045
+Johor,N.30 Paloh,1,Chong Ah Onn @ Chong Ah Own,14967,BN,25,7967
+Johor,N.30 Paloh,2,Ng Lam Swa,16222,DAP,18,2789
+Johor,N.31 Kahang,1,Ramis A/I Subramaniam,16223,BN,25,9397
+Johor,N.31 Kahang,2,Mohamad Esa Bin Jaafar,16224,PAS,3,2024
+Johor,N.32 Endau,1,Shahar Bin Abdullah,3513,PAS,3,3051
+Johor,N.32 Endau,2,Zainal Abidin Bin Osman,2484,BN,25,8341
+Johor,N.33 Tenggaroh,1,Krishnasamy A/L Shiman,13751,BN,25,10412
+Johor,N.33 Tenggaroh,2,Sheikh Abdullah Bin Said Salleh,13750,PAS,3,2125
+Johor,N.34 Panti,1,Baderi Bin Dasuki,16229,BN,25,9395
+Johor,N.34 Panti,2,Abdul Rashid Bin Abu Bakar,1481,PAS,3,1245
+Johor,N.35 Pasir Raja,1,Halimah Binti Mohd Sadique,3515,BN,25,10402
+Johor,N.35 Pasir Raja,2,Sanip Bin Ithnin,16232,PAS,3,1437
+Johor,N.36 Sedili,1,Musa Bin Wagiman,16233,PAS,3,732
+Johor,N.36 Sedili,2,Abdul Rashid Bin Abd Mokti,16234,BN,25,12876
+Johor,N.37 Johor Lama,1,Mona'Im Bin Hassan,16235,PAS,3,988
+Johor,N.37 Johor Lama,2,Asiah Binti Md Ariff,15004,BN,25,10039
+Johor,N.38 Penawar,1,Mohd 'Azam Bin Haji Rauzan,16237,BN,25,0
+Johor,N.39 Tanjong Surat,1,Muhram Bin Muhamed,16238,PAS,3,564
+Johor,N.39 Tanjong Surat,2,Harun Bin Abdullah,183,BN,25,10360
+Johor,N.40 Tiram,1,Maulizan Bin Bujang,16240,BN,25,18482
+Johor,N.40 Tiram,2,Roslani Bin Sharif,3519,PAS,3,2887
+Johor,N.41 Puteri Wangsa,1,Abdul Halim Bin Suleiman,16242,BN,25,14677
+Johor,N.41 Puteri Wangsa,2,A. Razak Bin Ahmad,1030,PKR,11,2337
+Johor,N.42 Johor Jaya,1,Sey Jock,16244,DAP,18,3726
+Johor,N.42 Johor Jaya,2,Low Ching Kuang,16245,PKR,11,1714
+Johor,N.42 Johor Jaya,3,Tan Cher Puk,16246,BN,25,19121
+Johor,N.43 Permas,1,Paliksina Siwalinggam,16247,BN,25,15632
+Johor,N.43 Permas,2,Syed Othman Bin Abdullah,16248,PAS,3,4827
+Johor,N.44 Tanjong Puteri,1,Ali Bin Mohamed,16249,BN,25,26191
+Johor,N.44 Tanjong Puteri,2,Zaliha Binti Mustafa,16250,PKR,11,6515
+Johor,N.45 Stulang,1,Norman Joseph Fernandez,16251,DAP,18,5914
+Johor,N.45 Stulang,2,Long Hoo Hin @ Long Ah Mui,13802,BN,25,22659
+Johor,N.46 Pengkalan Rinting,1,Low Teh Hian,13806,BN,25,23321
+Johor,N.46 Pengkalan Rinting,2,Rahmatullah Bin Abdul,16254,PAS,3,4403
+Johor,N.47 Kempas,1,Osman Bin Sapian,16255,BN,25,19088
+Johor,N.47 Kempas,2,Ibrahim Bin Masan,1170,PAS,3,3170
+Johor,N.48 Skudai,1,Teo Eng Tee @ Teo Kok Chee,16257,BN,25,15573
+Johor,N.48 Skudai,2,Boo Cheng Hau,16258,DAP,18,13380
+Johor,N.49 Nusa Jaya,1,Abd Aziz Bin Sapian,16259,BN,25,18452
+Johor,N.49 Nusa Jaya,2,Zulkarnian Yap Bin Abdullah,16260,PAS,3,3676
+Johor,N.50 Bukit Permai,1,Md Faridz Bin Mohd Salleh,16261,PAS,3,1368
+Johor,N.50 Bukit Permai,2,Zainal Abidin Bin Jidin,1438,BN,25,9194
+Johor,N.51 Bukit Batu,1,Liew Shin Kheong,16263,PKR,11,3066
+Johor,N.51 Bukit Batu,2,Cheong Chin Liang,16264,BN,25,10301
+Johor,N.52 Senai,1,Ong Kow Me,3187,DAP,18,8590
+Johor,N.52 Senai,2,Chun Yoon Fook,16266,BN,25,13884
+Johor,N.53 Benut,1,Saklon @ Salehon Bin Sengot,13784,BN,25,11238
+Johor,N.53 Benut,2,Azlisham Bin Azahar,16268,PAS,3,3007
+Johor,N.54 Pulai Sebatang,1,Tee Siew Kiong,16269,BN,25,14199
+Johor,N.54 Pulai Sebatang,2,Sarobo Bin Ponoh,16270,PAS,3,3982
+Johor,N.55 Pekan Nenas,1,Tan Hang Meng,2812,DAP,18,4233
+Johor,N.55 Pekan Nenas,2,Wee Jeck Seng,3529,BN,25,15395
+Johor,N.56 Kukup,1,Jamaliah @ Jamilah Binti Endan,16273,BN,25,11544
+Johor,N.56 Kukup,2,Ahmad Sani Bin Kemat,16274,PAS,3,1603

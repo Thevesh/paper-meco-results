@@ -6,7 +6,7 @@ from helper import generate_slug, get_states, write_parquet
 
 PATH = 'src-data/dashboards'
 
-nm = pd.read_csv('src-data/candidates_master.csv').drop_duplicates(subset=['candidate_uid'],keep='last')
+nm = pd.read_csv('src-data/lookup_candidates.csv').drop_duplicates(subset=['candidate_uid'],keep='last')
 MAP_NAME = dict(zip(nm.candidate_uid,nm.name))
 
 
@@ -18,7 +18,7 @@ def make_candidates():
     adds seat and election metadata, and calculates vote percentages and majorities.
 
     The function:
-    1. Maps candidate UIDs to standardized names from candidates_master.csv
+    1. Maps candidate UIDs to standardized names from lookup_candidates.csv
     2. Adds seat metadata (type, state) and election details
     3. Merges with summary statistics (turnout, rejected votes, majorities)
     4. Writes final dataframe to parquet format
@@ -147,11 +147,11 @@ def make_parties():
 def make_dates():
     """Generate dates dataframe with election dates and metadata.
 
-    Reads election dates from dates_master.csv, standardizes election names,
+    Reads election dates from lookup_dates.csv, standardizes election names,
     and combines state-level and national-level elections.
 
     The function:
-    1. Reads election dates from dates_master.csv
+    1. Reads election dates from lookup_dates.csv
     2. Standardizes election names to 'SE-XX' format
     3. Combines state-level and national-level elections
     4. Writes final dataframe to parquet format
@@ -159,7 +159,7 @@ def make_dates():
     Returns:
         Number of rows in the final dataframe, representing the number of elections in the dataset
     """
-    df = pd.read_csv('src-data/dates_master.csv').rename(columns={'election_number':'election'})
+    df = pd.read_csv('src-data/lookup_dates.csv').rename(columns={'election_number':'election'})
     df.election = 'SE-' + df.election.astype(str).str.zfill(2)
     df.loc[df.state == 'Malaysia','election'] = df.election.str.replace('SE','GE')
     df = pd.concat([df[df.state == 'Malaysia'],df[df.state != 'Malaysia']],axis=0,ignore_index=True)

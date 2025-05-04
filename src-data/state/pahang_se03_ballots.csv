@@ -1,60 +1,60 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Pahang,N.01 Cameron Highlands,Cameron Highlands,1,Wong Lok Hoi,7430,GERAKAN,21,2026
-Pahang,N.01 Cameron Highlands,Cameron Highlands,2,Chong Kat Nee,7431,PERIKATAN,2,1455
-Pahang,N.02 Dong,Dong,1,Che Yeop Sendiri Bin Haji Hussin,6579,PERIKATAN,2,3353
-Pahang,N.02 Dong,Dong,2,Tengku Kamaruzaman Bin Tengku Abdul Hamid,658,PAS,3,1090
-Pahang,N.02 Dong,Dong,3,Mohd. Salleh Bin Hassan,7434,BEBAS,1,816
-Pahang,N.02 Dong,Dong,4,Abdul Moin Bin Imam Labok,7435,BEBAS,1,798
-Pahang,N.03 Bandar Raub,Bandar Raub,1,Loke Kwok Kheong,7436,PERIKATAN,2,3421
-Pahang,N.03 Bandar Raub,Bandar Raub,2,Cheong Hoy Cheng,7437,BEBAS,1,1866
-Pahang,N.04 Tras,Tras,1,Tengku Mustapha Bin Tengku Seti,7438,PERIKATAN,2,2678
-Pahang,N.04 Tras,Tras,2,Cheam Tat Boon,7439,BEBAS,1,2355
-Pahang,N.04 Tras,Tras,3,Abdullah Bin Lisi,7440,PR,23,311
-Pahang,N.05 Sabai,Sabai,1,Abu Bakar Bin Haji Ahmad,5536,PERIKATAN,2,3343
-Pahang,N.05 Sabai,Sabai,2,Toh Wai Theng,5539,BEBAS,1,2107
-Pahang,N.06 Bandar Bentong,Bandar Bentong,1,Chow Seng Toong,5570,PERIKATAN,2,2329
-Pahang,N.06 Bandar Bentong,Bandar Bentong,2,Ng Seh Hing,7444,BEBAS,1,2170
-Pahang,N.07 Benus,Benus,1,Lo Chiew Chuen,7445,BEBAS,1,2291
-Pahang,N.07 Benus,Benus,2,Chow Chee Sang,7446,PERIKATAN,2,2280
-Pahang,N.08 Mentekab,Mentekab,1,Syed Abdullah Bin Syed Ali,6596,PERIKATAN,2,3416
-Pahang,N.08 Mentekab,Mentekab,2,Mohamed Bin Ya'Akub,6614,PR,23,1597
-Pahang,N.08 Mentekab,Mentekab,3,Ahmad Bin Hussin,7449,PAS,3,980
-Pahang,N.09 Tanah Puteh,Tanah Puteh,1,Sivasubramaniam A/L Sivasambandan,7450,PR,23,2235
-Pahang,N.09 Tanah Puteh,Tanah Puteh,2,Chan Kwang Chek,6598,PERIKATAN,2,1651
-Pahang,N.09 Tanah Puteh,Tanah Puteh,3,Sheikh Hussin Bin Sheikh Long,5559,PAS,3,491
-Pahang,N.10 Telok Sisek,Telok Sisek,1,Mahimon Binti Harun,5561,PERIKATAN,2,2077
-Pahang,N.10 Telok Sisek,Telok Sisek,2,Abdul Karim Bin Hussin,7454,BEBAS,1,1544
-Pahang,N.10 Telok Sisek,Telok Sisek,3,Bahaman Bin Saleh,7455,PAS,3,1056
-Pahang,N.11 Beserah,Beserah,1,Haji A. Aziz Bin Ahmad,6602,PERIKATAN,2,2945
-Pahang,N.11 Beserah,Beserah,2,Bidin Bin Aris,7457,PAS,3,1306
-Pahang,N.12 Ulu Kuantan,Ulu Kuantan,1,Mohd. Ramli Bin Ismail @ Dzulkifli Bin Ismail,657,PR,23,2250
-Pahang,N.12 Ulu Kuantan,Ulu Kuantan,2,Zainuddin Bin Haji Ahmad,5565,PERIKATAN,2,2182
-Pahang,N.12 Ulu Kuantan,Ulu Kuantan,3,Wan Ahmad Bin Wan Abd. Hamid,7460,PAS,3,1161
-Pahang,N.13 Kuala Pahang,Kuala Pahang,1,Mohammad Bin Jusoh,5568,PERIKATAN,2,0
-Pahang,N.14 Pahang Tua,Pahang Tua,1,K. Mokhtar Bin Haji M. Daud,6609,PERIKATAN,2,0
-Pahang,N.15 Rompin,Rompin,1,Ibrahim Bin Arsad,527,PERIKATAN,2,0
-Pahang,N.16 Chenor,Chenor,1,Wan Ahmad Tajuddin Bin Wan,7464,PERIKATAN,2,2318
-Pahang,N.16 Chenor,Chenor,2,Syed Abdul Rahman Bin Syed Mansor,7465,PAS,3,1830
-Pahang,N.16 Chenor,Chenor,3,Din Bin Md. Saad,7466,PR,23,281
-Pahang,N.17 Triang,Triang,1,Lum Wah Kum @ Lum Ban Kee,7467,PERIKATAN,2,2464
-Pahang,N.17 Triang,Triang,2,Kong Seng Sai,7468,DAP,18,1728
-Pahang,N.17 Triang,Triang,3,Mohamad Bin Haji Awang,7469,PAS,3,560
-Pahang,N.17 Triang,Triang,4,Ab. Aziz Bin Ali,7470,PR,23,320
-Pahang,N.18 Kuala Semantan,Kuala Semantan,1,Awang Ngah Bin Tok Muda Ibrahim,5552,PERIKATAN,2,1873
-Pahang,N.18 Kuala Semantan,Kuala Semantan,2,Zulkifly Bin Mat Amin,7472,PR,23,1276
-Pahang,N.18 Kuala Semantan,Kuala Semantan,3,Abdul Moin Bin Mohd. Taib,6625,PAS,3,657
-Pahang,N.19 Jenderak,Jenderak,1,Mohamad Yusoff Bin Haji Long,5554,PERIKATAN,2,2526
-Pahang,N.19 Jenderak,Jenderak,2,Mohd. Dahan Bin Haji Idin,7475,PAS,3,1241
-Pahang,N.19 Jenderak,Jenderak,3,Haji Ismail Bin Haji Ibrahim,5308,PR,23,264
-Pahang,N.20 Sanggang,Sanggang,1,Tan Sri Haji Yahya Bin Haji Mohd. Seh,7477,PERIKATAN,2,2179
-Pahang,N.20 Sanggang,Sanggang,2,Harun Bin Tamjis,7478,PAS,3,1193
-Pahang,N.20 Sanggang,Sanggang,3,Sanusi Bin Haji Abas,7479,PR,23,667
-Pahang,N.21 Jelai,Jelai,1,W. A. Rahman Bin W. Ibrahim,7480,PERIKATAN,2,2846
-Pahang,N.21 Jelai,Jelai,2,Kasim Bin Yahya,1203,PAS,3,1578
-Pahang,N.21 Jelai,Jelai,3,Wahab Bin Ismail,7482,PR,23,299
-Pahang,N.22 Kuala Lipis,Kuala Lipis,1,Ong Seong Seung,6632,PERIKATAN,2,2363
-Pahang,N.22 Kuala Lipis,Kuala Lipis,2,Abdul Rahim Bin Mohd. Noh,7484,PR,23,1298
-Pahang,N.23 Tanjong Besar,Tanjong Besar,1,Abu Samah Bin Idris,5588,PERIKATAN,2,4457
-Pahang,N.23 Tanjong Besar,Tanjong Besar,2,Abd. Rahman Bin Imam Abu,7486,PAS,3,1977
-Pahang,N.24 Jerantut,Jerantut,1,Mohamed Khairuddin Bin Mohd. Kawi,7487,PERIKATAN,2,3805
-Pahang,N.24 Jerantut,Jerantut,2,A. Wahab Bin Imam Sulong,7488,PAS,3,1977
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Pahang,N.01 Cameron Highlands,1,Wong Lok Hoi,7430,GERAKAN,21,2026
+Pahang,N.01 Cameron Highlands,2,Chong Kat Nee,7431,PERIKATAN,2,1455
+Pahang,N.02 Dong,1,Che Yeop Sendiri Bin Haji Hussin,6579,PERIKATAN,2,3353
+Pahang,N.02 Dong,2,Tengku Kamaruzaman Bin Tengku Abdul Hamid,658,PAS,3,1090
+Pahang,N.02 Dong,3,Mohd. Salleh Bin Hassan,7434,BEBAS,1,816
+Pahang,N.02 Dong,4,Abdul Moin Bin Imam Labok,7435,BEBAS,1,798
+Pahang,N.03 Bandar Raub,1,Loke Kwok Kheong,7436,PERIKATAN,2,3421
+Pahang,N.03 Bandar Raub,2,Cheong Hoy Cheng,7437,BEBAS,1,1866
+Pahang,N.04 Tras,1,Tengku Mustapha Bin Tengku Seti,7438,PERIKATAN,2,2678
+Pahang,N.04 Tras,2,Cheam Tat Boon,7439,BEBAS,1,2355
+Pahang,N.04 Tras,3,Abdullah Bin Lisi,7440,PR,23,311
+Pahang,N.05 Sabai,1,Abu Bakar Bin Haji Ahmad,5536,PERIKATAN,2,3343
+Pahang,N.05 Sabai,2,Toh Wai Theng,5539,BEBAS,1,2107
+Pahang,N.06 Bandar Bentong,1,Chow Seng Toong,5570,PERIKATAN,2,2329
+Pahang,N.06 Bandar Bentong,2,Ng Seh Hing,7444,BEBAS,1,2170
+Pahang,N.07 Benus,1,Lo Chiew Chuen,7445,BEBAS,1,2291
+Pahang,N.07 Benus,2,Chow Chee Sang,7446,PERIKATAN,2,2280
+Pahang,N.08 Mentekab,1,Syed Abdullah Bin Syed Ali,6596,PERIKATAN,2,3416
+Pahang,N.08 Mentekab,2,Mohamed Bin Ya'Akub,6614,PR,23,1597
+Pahang,N.08 Mentekab,3,Ahmad Bin Hussin,7449,PAS,3,980
+Pahang,N.09 Tanah Puteh,1,Sivasubramaniam A/L Sivasambandan,7450,PR,23,2235
+Pahang,N.09 Tanah Puteh,2,Chan Kwang Chek,6598,PERIKATAN,2,1651
+Pahang,N.09 Tanah Puteh,3,Sheikh Hussin Bin Sheikh Long,5559,PAS,3,491
+Pahang,N.10 Telok Sisek,1,Mahimon Binti Harun,5561,PERIKATAN,2,2077
+Pahang,N.10 Telok Sisek,2,Abdul Karim Bin Hussin,7454,BEBAS,1,1544
+Pahang,N.10 Telok Sisek,3,Bahaman Bin Saleh,7455,PAS,3,1056
+Pahang,N.11 Beserah,1,Haji A. Aziz Bin Ahmad,6602,PERIKATAN,2,2945
+Pahang,N.11 Beserah,2,Bidin Bin Aris,7457,PAS,3,1306
+Pahang,N.12 Ulu Kuantan,1,Mohd. Ramli Bin Ismail @ Dzulkifli Bin Ismail,657,PR,23,2250
+Pahang,N.12 Ulu Kuantan,2,Zainuddin Bin Haji Ahmad,5565,PERIKATAN,2,2182
+Pahang,N.12 Ulu Kuantan,3,Wan Ahmad Bin Wan Abd. Hamid,7460,PAS,3,1161
+Pahang,N.13 Kuala Pahang,1,Mohammad Bin Jusoh,5568,PERIKATAN,2,0
+Pahang,N.14 Pahang Tua,1,K. Mokhtar Bin Haji M. Daud,6609,PERIKATAN,2,0
+Pahang,N.15 Rompin,1,Ibrahim Bin Arsad,527,PERIKATAN,2,0
+Pahang,N.16 Chenor,1,Wan Ahmad Tajuddin Bin Wan,7464,PERIKATAN,2,2318
+Pahang,N.16 Chenor,2,Syed Abdul Rahman Bin Syed Mansor,7465,PAS,3,1830
+Pahang,N.16 Chenor,3,Din Bin Md. Saad,7466,PR,23,281
+Pahang,N.17 Triang,1,Lum Wah Kum @ Lum Ban Kee,7467,PERIKATAN,2,2464
+Pahang,N.17 Triang,2,Kong Seng Sai,7468,DAP,18,1728
+Pahang,N.17 Triang,3,Mohamad Bin Haji Awang,7469,PAS,3,560
+Pahang,N.17 Triang,4,Ab. Aziz Bin Ali,7470,PR,23,320
+Pahang,N.18 Kuala Semantan,1,Awang Ngah Bin Tok Muda Ibrahim,5552,PERIKATAN,2,1873
+Pahang,N.18 Kuala Semantan,2,Zulkifly Bin Mat Amin,7472,PR,23,1276
+Pahang,N.18 Kuala Semantan,3,Abdul Moin Bin Mohd. Taib,6625,PAS,3,657
+Pahang,N.19 Jenderak,1,Mohamad Yusoff Bin Haji Long,5554,PERIKATAN,2,2526
+Pahang,N.19 Jenderak,2,Mohd. Dahan Bin Haji Idin,7475,PAS,3,1241
+Pahang,N.19 Jenderak,3,Haji Ismail Bin Haji Ibrahim,5308,PR,23,264
+Pahang,N.20 Sanggang,1,Tan Sri Haji Yahya Bin Haji Mohd. Seh,7477,PERIKATAN,2,2179
+Pahang,N.20 Sanggang,2,Harun Bin Tamjis,7478,PAS,3,1193
+Pahang,N.20 Sanggang,3,Sanusi Bin Haji Abas,7479,PR,23,667
+Pahang,N.21 Jelai,1,W. A. Rahman Bin W. Ibrahim,7480,PERIKATAN,2,2846
+Pahang,N.21 Jelai,2,Kasim Bin Yahya,1203,PAS,3,1578
+Pahang,N.21 Jelai,3,Wahab Bin Ismail,7482,PR,23,299
+Pahang,N.22 Kuala Lipis,1,Ong Seong Seung,6632,PERIKATAN,2,2363
+Pahang,N.22 Kuala Lipis,2,Abdul Rahim Bin Mohd. Noh,7484,PR,23,1298
+Pahang,N.23 Tanjong Besar,1,Abu Samah Bin Idris,5588,PERIKATAN,2,4457
+Pahang,N.23 Tanjong Besar,2,Abd. Rahman Bin Imam Abu,7486,PAS,3,1977
+Pahang,N.24 Jerantut,1,Mohamed Khairuddin Bin Mohd. Kawi,7487,PERIKATAN,2,3805
+Pahang,N.24 Jerantut,2,A. Wahab Bin Imam Sulong,7488,PAS,3,1977

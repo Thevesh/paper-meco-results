@@ -1,37 +1,37 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Kedah,N.01 Ayer Hangat,Ayer Hangat,20130,17449,136,292
-Kedah,N.02 Kuah,Kuah,17406,14647,84,291
-Kedah,N.03 Kota Siputeh,Kota Siputeh,22816,19699,17,366
-Kedah,N.04 Ayer Hitam,Ayer Hitam,29567,26200,98,382
-Kedah,N.05 Bukit Kayu Hitam,Bukit Kayu Hitam,29228,25588,66,487
-Kedah,N.06 Jitra,Jitra,36322,31708,182,394
-Kedah,N.07 Kuala Nerang,Kuala Nerang,21651,19393,49,380
-Kedah,N.08 Pedu,Pedu,20309,18511,51,376
-Kedah,N.09 Bukit Lada,Bukit Lada,27593,24521,58,459
-Kedah,N.10 Bukit Pinang,Bukit Pinang,26426,22961,71,258
-Kedah,N.11 Derga,Derga,26695,22042,89,332
-Kedah,N.12 Bakar Bata,Bakar Bata,28186,23763,105,363
-Kedah,N.13 Kota Darul Aman,Kota Darul Aman,15466,12476,60,202
-Kedah,N.14 Alor Mengkudu,Alor Mengkudu,25357,21707,68,273
-Kedah,N.15 Anak Bukit,Anak Bukit,28981,25286,72,291
-Kedah,N.16 Kubang Rotan,Kubang Rotan,34559,29399,82,335
-Kedah,N.17 Pengkalan Kundor,Pengkalan Kundor,31788,27568,86,314
-Kedah,N.18 Tokai,Tokai,34623,30751,74,364
-Kedah,N.19 Sungai Tiang,Sungai Tiang,35512,31827,55,577
-Kedah,N.20 Sungai Limau,Sungai Limau,27287,24406,57,351
-Kedah,N.21 Guar Chempedak,Guar Chempedak,21086,18295,51,226
-Kedah,N.22 Gurun,Gurun,26037,22077,59,492
-Kedah,N.23 Belantek,Belantek,21200,19109,46,261
-Kedah,N.24 Jeneri,Jeneri,25586,22968,41,351
-Kedah,N.25 Bukit Selambau,Bukit Selambau,49087,42038,140,839
-Kedah,N.26 Tanjong Dawai,Tanjong Dawai,36821,32497,95,546
-Kedah,N.27 Pantai Merdeka,Pantai Merdeka,33282,29763,54,314
-Kedah,N.28 Bakar Arang,Bakar Arang,34743,29619,69,366
-Kedah,N.29 Sidam,Sidam,25151,21642,129,245
-Kedah,N.30 Bayu,Bayu,34570,30850,72,430
-Kedah,N.31 Kupang,Kupang,30511,27342,72,340
-Kedah,N.32 Kuala Ketil,Kuala Ketil,28087,24917,59,369
-Kedah,N.33 Merbau Pulas,Merbau Pulas,33597,29349,69,503
-Kedah,N.34 Lunas,Lunas,40498,35235,110,392
-Kedah,N.35 Kulim,Kulim,34404,29632,113,496
-Kedah,N.36 Bandar Baharu,Bandar Baharu,26506,23134,122,359
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Kedah,N.01 Ayer Hangat,20130,17449,136,292
+Kedah,N.02 Kuah,17406,14647,84,291
+Kedah,N.03 Kota Siputeh,22816,19699,17,366
+Kedah,N.04 Ayer Hitam,29567,26200,98,382
+Kedah,N.05 Bukit Kayu Hitam,29228,25588,66,487
+Kedah,N.06 Jitra,36322,31708,182,394
+Kedah,N.07 Kuala Nerang,21651,19393,49,380
+Kedah,N.08 Pedu,20309,18511,51,376
+Kedah,N.09 Bukit Lada,27593,24521,58,459
+Kedah,N.10 Bukit Pinang,26426,22961,71,258
+Kedah,N.11 Derga,26695,22042,89,332
+Kedah,N.12 Bakar Bata,28186,23763,105,363
+Kedah,N.13 Kota Darul Aman,15466,12476,60,202
+Kedah,N.14 Alor Mengkudu,25357,21707,68,273
+Kedah,N.15 Anak Bukit,28981,25286,72,291
+Kedah,N.16 Kubang Rotan,34559,29399,82,335
+Kedah,N.17 Pengkalan Kundor,31788,27568,86,314
+Kedah,N.18 Tokai,34623,30751,74,364
+Kedah,N.19 Sungai Tiang,35512,31827,55,577
+Kedah,N.20 Sungai Limau,27287,24406,57,351
+Kedah,N.21 Guar Chempedak,21086,18295,51,226
+Kedah,N.22 Gurun,26037,22077,59,492
+Kedah,N.23 Belantek,21200,19109,46,261
+Kedah,N.24 Jeneri,25586,22968,41,351
+Kedah,N.25 Bukit Selambau,49087,42038,140,839
+Kedah,N.26 Tanjong Dawai,36821,32497,95,546
+Kedah,N.27 Pantai Merdeka,33282,29763,54,314
+Kedah,N.28 Bakar Arang,34743,29619,69,366
+Kedah,N.29 Sidam,25151,21642,129,245
+Kedah,N.30 Bayu,34570,30850,72,430
+Kedah,N.31 Kupang,30511,27342,72,340
+Kedah,N.32 Kuala Ketil,28087,24917,59,369
+Kedah,N.33 Merbau Pulas,33597,29349,69,503
+Kedah,N.34 Lunas,40498,35235,110,392
+Kedah,N.35 Kulim,34404,29632,113,496
+Kedah,N.36 Bandar Baharu,26506,23134,122,359

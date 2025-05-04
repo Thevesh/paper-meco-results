@@ -1,16 +1,16 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Perlis,N.01 Titi Tinggi,Titi Tinggi,13403,9748,16,145
-Perlis,N.02 Beseri,Beseri,12128,8939,18,108
-Perlis,N.03 Chuping,Chuping,14248,11111,13,170
-Perlis,N.04 Mata Ayer,Mata Ayer,9662,7750,18,121
-Perlis,N.05 Santan,Santan,10751,8511,13,72
-Perlis,N.06 Bintong,Bintong,16366,12926,33,172
-Perlis,N.07 Sena,Sena,15870,11929,21,155
-Perlis,N.08 Indera Kayangan,Indera Kayangan,14465,10550,16,129
-Perlis,N.09 Kuala Perlis,Kuala Perlis,14717,10840,12,158
-Perlis,N.10 Kayang,Kayang,13441,10744,22,126
-Perlis,N.11 Pauh,Pauh,14797,11334,20,169
-Perlis,N.12 Tambun Tulang,Tambun Tulang,13451,10403,15,225
-Perlis,N.13 Guar Sanji,Guar Sanji,11510,9210,17,140
-Perlis,N.14 Simpang Empat,Simpang Empat,10697,8280,11,154
-Perlis,N.15 Sanglang,Sanglang,10421,8378,14,138
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Perlis,N.01 Titi Tinggi,13403,9748,16,145
+Perlis,N.02 Beseri,12128,8939,18,108
+Perlis,N.03 Chuping,14248,11111,13,170
+Perlis,N.04 Mata Ayer,9662,7750,18,121
+Perlis,N.05 Santan,10751,8511,13,72
+Perlis,N.06 Bintong,16366,12926,33,172
+Perlis,N.07 Sena,15870,11929,21,155
+Perlis,N.08 Indera Kayangan,14465,10550,16,129
+Perlis,N.09 Kuala Perlis,14717,10840,12,158
+Perlis,N.10 Kayang,13441,10744,22,126
+Perlis,N.11 Pauh,14797,11334,20,169
+Perlis,N.12 Tambun Tulang,13451,10403,15,225
+Perlis,N.13 Guar Sanji,11510,9210,17,140
+Perlis,N.14 Simpang Empat,10697,8280,11,154
+Perlis,N.15 Sanglang,10421,8378,14,138

@@ -1,73 +1,73 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Negeri Sembilan,N.01 Sri Menanti,Sri Menanti,1,Mansor Bin Othman,1253,PERIKATAN,2,3450
-Negeri Sembilan,N.01 Sri Menanti,Sri Menanti,2,Tunku Abdul Rahim Bin Tunku Muda Chik,687,PAS,3,1664
-Negeri Sembilan,N.02 Johol,Johol,1,Sapiah Binti Talib,6641,PERIKATAN,2,2800
-Negeri Sembilan,N.02 Johol,Johol,2,Ismail Abdul Tahat @ Ismail Bin Tahar,7492,PAS,3,1572
-Negeri Sembilan,N.03 Ulu Muar,Ulu Muar,1,Abd. Kadir Bin Abdullah,6644,PERIKATAN,2,3232
-Negeri Sembilan,N.03 Ulu Muar,Ulu Muar,2,Abdul Aziz Bin Haji Mohd. Yunus,5595,PAS,3,1406
-Negeri Sembilan,N.03 Ulu Muar,Ulu Muar,3,Mohamad Bin Zainalabidin,7495,BEBAS,1,384
-Negeri Sembilan,N.04 Pilah,Pilah,1,M. Idris Bin Matsil,530,PERIKATAN,2,1912
-Negeri Sembilan,N.04 Pilah,Pilah,2,Chai Tak Ham @ Chai Tak Han,7497,DAP,18,1906
-Negeri Sembilan,N.04 Pilah,Pilah,3,Md. Zainol Bin Yatim,7498,BEBAS,1,818
-Negeri Sembilan,N.04 Pilah,Pilah,4,Mustapha Bin Mohamad,2333,PAS,3,460
-Negeri Sembilan,N.05 Rantau,Rantau,1,Veloo A/L Saminathan,7500,PERIKATAN,2,2651
-Negeri Sembilan,N.05 Rantau,Rantau,2,Mohd. Shariff Bin Haji Harun,7501,DAP,18,2042
-Negeri Sembilan,N.05 Rantau,Rantau,3,Chan Ah Sui,7502,PCMB,24,103
-Negeri Sembilan,N.06 Sungei Ujong,Sungei Ujong,1,Liew Ah Kim,1461,DAP,18,5946
-Negeri Sembilan,N.06 Sungei Ujong,Sungei Ujong,2,Lee Boon Peng,994,PERIKATAN,2,3116
-Negeri Sembilan,N.06 Sungei Ujong,Sungei Ujong,3,Mohd. Tahir Bin Abu,7505,PAS,3,1007
-Negeri Sembilan,N.06 Sungei Ujong,Sungei Ujong,4,Chin See Yin,228,PCMB,24,402
-Negeri Sembilan,N.07 Rahang,Rahang,1,Chen Man Hin,688,DAP,18,4850
-Negeri Sembilan,N.07 Rahang,Rahang,2,Low Loo Toh @ Lau Oh Toh,7508,PERIKATAN,2,1705
-Negeri Sembilan,N.07 Rahang,Rahang,3,Tan Kee Jon,696,PCMB,24,334
-Negeri Sembilan,N.08 Terentang,Terentang,1,Haji Redza Bin Haji Mohd. Said,222,PERIKATAN,2,2830
-Negeri Sembilan,N.08 Terentang,Terentang,2,Mohd. Yusof Bin Haji Ibrahim,7511,PAS,3,1222
-Negeri Sembilan,N.09 Kota,Kota,1,Dahalan Bin Aman,7512,PERIKATAN,2,3291
-Negeri Sembilan,N.09 Kota,Kota,2,Mahat Bin Haji Ishak,7513,PAS,3,1666
-Negeri Sembilan,N.10 Tampin,Tampin,1,Md. Taha Bin Abd. Talib,5621,PERIKATAN,2,0
-Negeri Sembilan,N.11 Gemas,Gemas,1,Lim Heng Seng,6671,PERIKATAN,2,3682
-Negeri Sembilan,N.11 Gemas,Gemas,2,Tan Ah Kau,7516,DAP,18,1509
-Negeri Sembilan,N.12 Jimah,Jimah,1,Oh Keng Seng,681,DAP,18,2339
-Negeri Sembilan,N.12 Jimah,Jimah,2,Cheah Yen Kwee,5609,PERIKATAN,2,1442
-Negeri Sembilan,N.12 Jimah,Jimah,3,Bawon Bin Wongsoajo,7519,PAS,3,304
-Negeri Sembilan,N.12 Jimah,Jimah,4,Chan Moon Thong,7520,PCMB,24,52
-Negeri Sembilan,N.13 Lukut,Lukut,1,Chin Chan Sung,7521,DAP,18,1340
-Negeri Sembilan,N.13 Lukut,Lukut,2,Lee Tee Siong,5635,PERIKATAN,2,892
-Negeri Sembilan,N.13 Lukut,Lukut,3,Rajaratnam A/L Chellapah,7523,BEBAS,1,110
-Negeri Sembilan,N.13 Lukut,Lukut,4,Lee Ke Kiong,7524,PCMB,24,37
-Negeri Sembilan,N.14 Si Rusa,Si–Rusa,1,Haji Hassan Bin Haji Ahmad,7525,DAP,18,2486
-Negeri Sembilan,N.14 Si Rusa,Si–Rusa,2,Samad Bin Said,7526,PERIKATAN,2,2256
-Negeri Sembilan,N.14 Si Rusa,Si–Rusa,3,Ishak Bin Mat Baki,7527,PAS,3,480
-Negeri Sembilan,N.14 Si Rusa,Si–Rusa,4,Wong Tai Oon,693,PCMB,24,76
-Negeri Sembilan,N.15 Pasir Panjang,Pasir Panjang,1,Lee Geok Shean,7529,DAP,18,1628
-Negeri Sembilan,N.15 Pasir Panjang,Pasir Panjang,2,Haji Suleiman Bin Jaalam,6685,PERIKATAN,2,1493
-Negeri Sembilan,N.15 Pasir Panjang,Pasir Panjang,3,Ibrahim Bin Ahmad,527,PAS,3,771
-Negeri Sembilan,N.15 Pasir Panjang,Pasir Panjang,4,Teh Thean Choh,7532,PCMB,24,71
-Negeri Sembilan,N.16 Linggi,Linggi,1,Soorian Arjunan,690,DAP,18,1672
-Negeri Sembilan,N.16 Linggi,Linggi,2,Abdul Rashid Bin Mohamad,7029,PERIKATAN,2,1427
-Negeri Sembilan,N.16 Linggi,Linggi,3,Low Yeh Hong,7535,PCMB,24,45
-Negeri Sembilan,N.17 Kuala Klawang,Kuala Klawang,1,Lim Kim Kee,5575,PERIKATAN,2,2666
-Negeri Sembilan,N.17 Kuala Klawang,Kuala Klawang,2,Daud Bin Haji Ahmad,6689,DAP,18,2026
-Negeri Sembilan,N.17 Kuala Klawang,Kuala Klawang,3,Nasir Bin Akir,7538,BEBAS,1,437
-Negeri Sembilan,N.17 Kuala Klawang,Kuala Klawang,4,Shi Chin Hua,7539,PCMB,24,326
-Negeri Sembilan,N.18 Pertang,Pertang,1,Aminuddin Bin Abd. Manaf,5577,PERIKATAN,2,1321
-Negeri Sembilan,N.18 Pertang,Pertang,2,Saat Bin Jidin,7541,BEBAS,1,941
-Negeri Sembilan,N.18 Pertang,Pertang,3,Md. Baki Bin Maakin,7542,BEBAS,1,703
-Negeri Sembilan,N.18 Pertang,Pertang,4,Poh Loh Ng @ Wu Pau Lu,7543,DAP,18,539
-Negeri Sembilan,N.19 Bahau,Bahau,1,Thong Hiang Kim,5580,PERIKATAN,2,0
-Negeri Sembilan,N.20 Rompin,Rompin,1,Yee Kok Ching,7545,PERIKATAN,2,1409
-Negeri Sembilan,N.20 Rompin,Rompin,2,Tham Kin Sung,1827,BEBAS,1,1134
-Negeri Sembilan,N.20 Rompin,Rompin,3,Fong Lee Chien,7547,DAP,18,908
-Negeri Sembilan,N.21 Jempol,Jempol,1,Haji Mohd. Khatib Bin Mohd. Noor,7548,PERIKATAN,2,2625
-Negeri Sembilan,N.21 Jempol,Jempol,2,Hassan Bin Abdul Karim,1860,PAS,3,1133
-Negeri Sembilan,N.22 Lenggeng,Lenggeng,1,Zainalabidin Bin Mohd. Lati,6705,PERIKATAN,2,2970
-Negeri Sembilan,N.22 Lenggeng,Lenggeng,2,Lim Cheng Hoe,7551,DAP,18,2929
-Negeri Sembilan,N.22 Lenggeng,Lenggeng,3,Tai @ Toh Antek Liat @ Andrew,7552,PCMB,24,254
-Negeri Sembilan,N.23 Labu,Labu,1,Ahmad Bin Abdul Manaf,7553,PERIKATAN,2,2093
-Negeri Sembilan,N.23 Labu,Labu,2,Ponnusamy Ramakrishnan,7554,DAP,18,1729
-Negeri Sembilan,N.23 Labu,Labu,3,Haji Salleh Bin Kassim,7555,PR,23,586
-Negeri Sembilan,N.23 Labu,Labu,4,Parmeswaran,7556,BEBAS,1,226
-Negeri Sembilan,N.23 Labu,Labu,5,Chen Ah Lek,7557,PCMB,24,128
-Negeri Sembilan,N.24 Bukit Nanas,Bukit Nanas,1,Sinnathamby Seeveratnam,694,DAP,18,6336
-Negeri Sembilan,N.24 Bukit Nanas,Bukit Nanas,2,Kan Kok Kwan,7559,PERIKATAN,2,1712
-Negeri Sembilan,N.24 Bukit Nanas,Bukit Nanas,3,Chan Kai Sang,7560,PCMB,24,303
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Negeri Sembilan,N.01 Sri Menanti,1,Mansor Bin Othman,1253,PERIKATAN,2,3450
+Negeri Sembilan,N.01 Sri Menanti,2,Tunku Abdul Rahim Bin Tunku Muda Chik,687,PAS,3,1664
+Negeri Sembilan,N.02 Johol,1,Sapiah Binti Talib,6641,PERIKATAN,2,2800
+Negeri Sembilan,N.02 Johol,2,Ismail Abdul Tahat @ Ismail Bin Tahar,7492,PAS,3,1572
+Negeri Sembilan,N.03 Ulu Muar,1,Abd. Kadir Bin Abdullah,6644,PERIKATAN,2,3232
+Negeri Sembilan,N.03 Ulu Muar,2,Abdul Aziz Bin Haji Mohd. Yunus,5595,PAS,3,1406
+Negeri Sembilan,N.03 Ulu Muar,3,Mohamad Bin Zainalabidin,7495,BEBAS,1,384
+Negeri Sembilan,N.04 Pilah,1,M. Idris Bin Matsil,530,PERIKATAN,2,1912
+Negeri Sembilan,N.04 Pilah,2,Chai Tak Ham @ Chai Tak Han,7497,DAP,18,1906
+Negeri Sembilan,N.04 Pilah,3,Md. Zainol Bin Yatim,7498,BEBAS,1,818
+Negeri Sembilan,N.04 Pilah,4,Mustapha Bin Mohamad,2333,PAS,3,460
+Negeri Sembilan,N.05 Rantau,1,Veloo A/L Saminathan,7500,PERIKATAN,2,2651
+Negeri Sembilan,N.05 Rantau,2,Mohd. Shariff Bin Haji Harun,7501,DAP,18,2042
+Negeri Sembilan,N.05 Rantau,3,Chan Ah Sui,7502,PCMB,24,103
+Negeri Sembilan,N.06 Sungei Ujong,1,Liew Ah Kim,1461,DAP,18,5946
+Negeri Sembilan,N.06 Sungei Ujong,2,Lee Boon Peng,994,PERIKATAN,2,3116
+Negeri Sembilan,N.06 Sungei Ujong,3,Mohd. Tahir Bin Abu,7505,PAS,3,1007
+Negeri Sembilan,N.06 Sungei Ujong,4,Chin See Yin,228,PCMB,24,402
+Negeri Sembilan,N.07 Rahang,1,Chen Man Hin,688,DAP,18,4850
+Negeri Sembilan,N.07 Rahang,2,Low Loo Toh @ Lau Oh Toh,7508,PERIKATAN,2,1705
+Negeri Sembilan,N.07 Rahang,3,Tan Kee Jon,696,PCMB,24,334
+Negeri Sembilan,N.08 Terentang,1,Haji Redza Bin Haji Mohd. Said,222,PERIKATAN,2,2830
+Negeri Sembilan,N.08 Terentang,2,Mohd. Yusof Bin Haji Ibrahim,7511,PAS,3,1222
+Negeri Sembilan,N.09 Kota,1,Dahalan Bin Aman,7512,PERIKATAN,2,3291
+Negeri Sembilan,N.09 Kota,2,Mahat Bin Haji Ishak,7513,PAS,3,1666
+Negeri Sembilan,N.10 Tampin,1,Md. Taha Bin Abd. Talib,5621,PERIKATAN,2,0
+Negeri Sembilan,N.11 Gemas,1,Lim Heng Seng,6671,PERIKATAN,2,3682
+Negeri Sembilan,N.11 Gemas,2,Tan Ah Kau,7516,DAP,18,1509
+Negeri Sembilan,N.12 Jimah,1,Oh Keng Seng,681,DAP,18,2339
+Negeri Sembilan,N.12 Jimah,2,Cheah Yen Kwee,5609,PERIKATAN,2,1442
+Negeri Sembilan,N.12 Jimah,3,Bawon Bin Wongsoajo,7519,PAS,3,304
+Negeri Sembilan,N.12 Jimah,4,Chan Moon Thong,7520,PCMB,24,52
+Negeri Sembilan,N.13 Lukut,1,Chin Chan Sung,7521,DAP,18,1340
+Negeri Sembilan,N.13 Lukut,2,Lee Tee Siong,5635,PERIKATAN,2,892
+Negeri Sembilan,N.13 Lukut,3,Rajaratnam A/L Chellapah,7523,BEBAS,1,110
+Negeri Sembilan,N.13 Lukut,4,Lee Ke Kiong,7524,PCMB,24,37
+Negeri Sembilan,N.14 Si Rusa,1,Haji Hassan Bin Haji Ahmad,7525,DAP,18,2486
+Negeri Sembilan,N.14 Si Rusa,2,Samad Bin Said,7526,PERIKATAN,2,2256
+Negeri Sembilan,N.14 Si Rusa,3,Ishak Bin Mat Baki,7527,PAS,3,480
+Negeri Sembilan,N.14 Si Rusa,4,Wong Tai Oon,693,PCMB,24,76
+Negeri Sembilan,N.15 Pasir Panjang,1,Lee Geok Shean,7529,DAP,18,1628
+Negeri Sembilan,N.15 Pasir Panjang,2,Haji Suleiman Bin Jaalam,6685,PERIKATAN,2,1493
+Negeri Sembilan,N.15 Pasir Panjang,3,Ibrahim Bin Ahmad,527,PAS,3,771
+Negeri Sembilan,N.15 Pasir Panjang,4,Teh Thean Choh,7532,PCMB,24,71
+Negeri Sembilan,N.16 Linggi,1,Soorian Arjunan,690,DAP,18,1672
+Negeri Sembilan,N.16 Linggi,2,Abdul Rashid Bin Mohamad,7029,PERIKATAN,2,1427
+Negeri Sembilan,N.16 Linggi,3,Low Yeh Hong,7535,PCMB,24,45
+Negeri Sembilan,N.17 Kuala Klawang,1,Lim Kim Kee,5575,PERIKATAN,2,2666
+Negeri Sembilan,N.17 Kuala Klawang,2,Daud Bin Haji Ahmad,6689,DAP,18,2026
+Negeri Sembilan,N.17 Kuala Klawang,3,Nasir Bin Akir,7538,BEBAS,1,437
+Negeri Sembilan,N.17 Kuala Klawang,4,Shi Chin Hua,7539,PCMB,24,326
+Negeri Sembilan,N.18 Pertang,1,Aminuddin Bin Abd. Manaf,5577,PERIKATAN,2,1321
+Negeri Sembilan,N.18 Pertang,2,Saat Bin Jidin,7541,BEBAS,1,941
+Negeri Sembilan,N.18 Pertang,3,Md. Baki Bin Maakin,7542,BEBAS,1,703
+Negeri Sembilan,N.18 Pertang,4,Poh Loh Ng @ Wu Pau Lu,7543,DAP,18,539
+Negeri Sembilan,N.19 Bahau,1,Thong Hiang Kim,5580,PERIKATAN,2,0
+Negeri Sembilan,N.20 Rompin,1,Yee Kok Ching,7545,PERIKATAN,2,1409
+Negeri Sembilan,N.20 Rompin,2,Tham Kin Sung,1827,BEBAS,1,1134
+Negeri Sembilan,N.20 Rompin,3,Fong Lee Chien,7547,DAP,18,908
+Negeri Sembilan,N.21 Jempol,1,Haji Mohd. Khatib Bin Mohd. Noor,7548,PERIKATAN,2,2625
+Negeri Sembilan,N.21 Jempol,2,Hassan Bin Abdul Karim,1860,PAS,3,1133
+Negeri Sembilan,N.22 Lenggeng,1,Zainalabidin Bin Mohd. Lati,6705,PERIKATAN,2,2970
+Negeri Sembilan,N.22 Lenggeng,2,Lim Cheng Hoe,7551,DAP,18,2929
+Negeri Sembilan,N.22 Lenggeng,3,Tai @ Toh Antek Liat @ Andrew,7552,PCMB,24,254
+Negeri Sembilan,N.23 Labu,1,Ahmad Bin Abdul Manaf,7553,PERIKATAN,2,2093
+Negeri Sembilan,N.23 Labu,2,Ponnusamy Ramakrishnan,7554,DAP,18,1729
+Negeri Sembilan,N.23 Labu,3,Haji Salleh Bin Kassim,7555,PR,23,586
+Negeri Sembilan,N.23 Labu,4,Parmeswaran,7556,BEBAS,1,226
+Negeri Sembilan,N.23 Labu,5,Chen Ah Lek,7557,PCMB,24,128
+Negeri Sembilan,N.24 Bukit Nanas,1,Sinnathamby Seeveratnam,694,DAP,18,6336
+Negeri Sembilan,N.24 Bukit Nanas,2,Kan Kok Kwan,7559,PERIKATAN,2,1712
+Negeri Sembilan,N.24 Bukit Nanas,3,Chan Kai Sang,7560,PCMB,24,303

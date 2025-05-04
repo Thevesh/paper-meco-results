@@ -1,61 +1,61 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Sabah,N.01 Banggi,Banggi,8187,5109,8,232
-Sabah,N.02 Tanjong Kapor,Tanjong Kapor,19500,13234,77,567
-Sabah,N.03 Pitas,Pitas,11956,8213,15,277
-Sabah,N.04 Matunggong,Matunggong,15400,10879,14,254
-Sabah,N.05 Tandek,Tandek,16538,11675,360,364
-Sabah,N.06 Tempasuk,Tempasuk,14291,11167,2,324
-Sabah,N.07 Kadamaian,Kadamaian,12964,10288,0,268
-Sabah,N.08 Usukan,Usukan,15816,12263,22,336
-Sabah,N.09 Tamparuli,Tamparuli,14912,10785,0,204
-Sabah,N.10 Sulaman,Sulaman,16076,12770,0,304
-Sabah,N.11 Kiulu,Kiulu,9773,6968,0,132
-Sabah,N.12 Karambunai,Karambunai,19951,13416,207,399
-Sabah,N.13 Inanam,Inanam,19300,13626,20,274
-Sabah,N.14 Likas,Likas,15178,9519,6,111
-Sabah,N.15 Api-Api,Api–Api,10775,6832,58,110
-Sabah,N.16 Luyang,Luyang,17761,11668,43,95
-Sabah,N.17 Tanjong Aru,Tanjong Aru,19993,12437,14,225
-Sabah,N.18 Petagas,Petagas,14942,10859,695,332
-Sabah,N.19 Kapayan,Kapayan,20723,14356,236,200
-Sabah,N.20 Moyog,Moyog,15098,11195,31,119
-Sabah,N.21 Kawang,Kawang,15591,12008,163,262
-Sabah,N.22 Pantai Manis,Pantai Manis,16688,12850,279,278
-Sabah,N.23 Bongawan,Bongawan,12389,9711,5,218
-Sabah,N.24 Membakut,Membakut,9850,7656,7,168
-Sabah,N.25 Klias,Klias,13885,9983,7,361
-Sabah,N.26 Kuala Penyu,Kuala Penyu,12903,9784,14,306
-Sabah,N.27 Lumadan,Lumadan,11317,8505,5,276
-Sabah,N.28 Sindumin,Sindumin,12828,9560,11,185
-Sabah,N.29 Kundasang,Kundasang,9639,6793,13,212
-Sabah,N.30 Karanaan,Karanaan,11087,8033,23,116
-Sabah,N.31 Paginatan,Paginatan,10084,7374,8,164
-Sabah,N.32 Tambunan,Tambunan,11245,8694,0,116
-Sabah,N.33 Bingkor,Bingkor,13339,9455,0,155
-Sabah,N.34 Liawan,Liawan,10994,7811,0,143
-Sabah,N.35 Melalap,Melalap,10276,7259,0,176
-Sabah,N.36 Kemabong,Kemabong,10598,8442,0,226
-Sabah,N.37 Sook,Sook,12564,9250,0,63
-Sabah,N.38 Nabawan,Nabawan,7148,4891,0,54
-Sabah,N.39 Sugut,Sugut,7784,4503,8,237
-Sabah,N.40 Labuk,Labuk,11397,7855,29,161
-Sabah,N.41 Gum-Gum,Gum–Gum,0,0,0,0
-Sabah,N.42 Sungai Sibuga,Sungai Sibuga,21442,14594,100,425
-Sabah,N.43 Sekong,Sekong,11308,6885,9,281
-Sabah,N.44 Karamunting,Karamunting,14696,9513,355,271
-Sabah,N.45 Elopura,Elopura,18363,10865,98,338
-Sabah,N.46 Tanjong Papat,Tanjong Papat,14484,9183,0,273
-Sabah,N.47 Kuamut,Kuamut,11389,7668,18,300
-Sabah,N.48 Sukau,Sukau,8165,5139,2,324
-Sabah,N.49 Tungku,Tungku,12246,7713,4,271
-Sabah,N.50 Lahad Datu,Lahad Datu,21548,13557,119,428
-Sabah,N.51 Kunak,Kunak,9694,6283,7,225
-Sabah,N.52 Sulabayan,Sulabayan,11291,7540,186,389
-Sabah,N.53 Senallang,Senallang,12198,7753,25,366
-Sabah,N.54 Bugaya,Bugaya,0,0,0,0
-Sabah,N.55 Balung,Balung,10248,6779,8,188
-Sabah,N.56 Apas,Apas,12006,7486,6,193
-Sabah,N.57 Sri Tanjong,Sri Tanjong,20306,12807,25,146
-Sabah,N.58 Merotai,Merotai,13931,8777,0,67
-Sabah,N.59 Tanjong Batu,Tanjong Batu,12577,7690,0,92
-Sabah,N.60 Sebatik,Sebatik,9510,6277,184,110
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Sabah,N.01 Banggi,8187,5109,8,232
+Sabah,N.02 Tanjong Kapor,19500,13234,77,567
+Sabah,N.03 Pitas,11956,8213,15,277
+Sabah,N.04 Matunggong,15400,10879,14,254
+Sabah,N.05 Tandek,16538,11675,360,364
+Sabah,N.06 Tempasuk,14291,11167,2,324
+Sabah,N.07 Kadamaian,12964,10288,0,268
+Sabah,N.08 Usukan,15816,12263,22,336
+Sabah,N.09 Tamparuli,14912,10785,0,204
+Sabah,N.10 Sulaman,16076,12770,0,304
+Sabah,N.11 Kiulu,9773,6968,0,132
+Sabah,N.12 Karambunai,19951,13416,207,399
+Sabah,N.13 Inanam,19300,13626,20,274
+Sabah,N.14 Likas,15178,9519,6,111
+Sabah,N.15 Api-Api,10775,6832,58,110
+Sabah,N.16 Luyang,17761,11668,43,95
+Sabah,N.17 Tanjong Aru,19993,12437,14,225
+Sabah,N.18 Petagas,14942,10859,695,332
+Sabah,N.19 Kapayan,20723,14356,236,200
+Sabah,N.20 Moyog,15098,11195,31,119
+Sabah,N.21 Kawang,15591,12008,163,262
+Sabah,N.22 Pantai Manis,16688,12850,279,278
+Sabah,N.23 Bongawan,12389,9711,5,218
+Sabah,N.24 Membakut,9850,7656,7,168
+Sabah,N.25 Klias,13885,9983,7,361
+Sabah,N.26 Kuala Penyu,12903,9784,14,306
+Sabah,N.27 Lumadan,11317,8505,5,276
+Sabah,N.28 Sindumin,12828,9560,11,185
+Sabah,N.29 Kundasang,9639,6793,13,212
+Sabah,N.30 Karanaan,11087,8033,23,116
+Sabah,N.31 Paginatan,10084,7374,8,164
+Sabah,N.32 Tambunan,11245,8694,0,116
+Sabah,N.33 Bingkor,13339,9455,0,155
+Sabah,N.34 Liawan,10994,7811,0,143
+Sabah,N.35 Melalap,10276,7259,0,176
+Sabah,N.36 Kemabong,10598,8442,0,226
+Sabah,N.37 Sook,12564,9250,0,63
+Sabah,N.38 Nabawan,7148,4891,0,54
+Sabah,N.39 Sugut,7784,4503,8,237
+Sabah,N.40 Labuk,11397,7855,29,161
+Sabah,N.41 Gum-Gum,0,0,0,0
+Sabah,N.42 Sungai Sibuga,21442,14594,100,425
+Sabah,N.43 Sekong,11308,6885,9,281
+Sabah,N.44 Karamunting,14696,9513,355,271
+Sabah,N.45 Elopura,18363,10865,98,338
+Sabah,N.46 Tanjong Papat,14484,9183,0,273
+Sabah,N.47 Kuamut,11389,7668,18,300
+Sabah,N.48 Sukau,8165,5139,2,324
+Sabah,N.49 Tungku,12246,7713,4,271
+Sabah,N.50 Lahad Datu,21548,13557,119,428
+Sabah,N.51 Kunak,9694,6283,7,225
+Sabah,N.52 Sulabayan,11291,7540,186,389
+Sabah,N.53 Senallang,12198,7753,25,366
+Sabah,N.54 Bugaya,0,0,0,0
+Sabah,N.55 Balung,10248,6779,8,188
+Sabah,N.56 Apas,12006,7486,6,193
+Sabah,N.57 Sri Tanjong,20306,12807,25,146
+Sabah,N.58 Merotai,13931,8777,0,67
+Sabah,N.59 Tanjong Batu,12577,7690,0,92
+Sabah,N.60 Sebatik,9510,6277,184,110

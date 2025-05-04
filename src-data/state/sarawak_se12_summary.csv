@@ -1,83 +1,83 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Sarawak,N.01 Opar,Opar,11436,7958,23,112
-Sarawak,N.02 Tasik Biru,Tasik Biru,18715,12003,32,194
-Sarawak,N.03 Tanjong Datu,Tanjong Datu,11384,6977,12,134
-Sarawak,N.04 Pantai Damai,Pantai Damai,20506,13298,101,180
-Sarawak,N.05 Demak Laut,Demak Laut,14813,10024,28,237
-Sarawak,N.06 Tupong,Tupong,26004,14971,131,125
-Sarawak,N.07 Samariang,Samariang,21363,13183,102,121
-Sarawak,N.08 Satok,Satok,14314,8487,52,71
-Sarawak,N.09 Padungan,Padungan,20949,9376,26,53
-Sarawak,N.10 Pending,Pending,29747,13018,37,105
-Sarawak,N.11 Batu Lintang,Batu Lintang,29694,12496,75,94
-Sarawak,N.12 Kota Sentosa,Kota Sentosa,28392,13698,72,139
-Sarawak,N.13 Batu Kitang,Batu Kitang,20820,11096,51,107
-Sarawak,N.14 Batu Kawah,Batu Kawah,20681,11297,45,102
-Sarawak,N.15 Asajaya,Asajaya,12349,9296,16,171
-Sarawak,N.16 Muara Tuang,Muara Tuang,18644,13599,83,259
-Sarawak,N.17 Stakan,Stakan,16992,11070,48,182
-Sarawak,N.18 Serembu,Serembu,9834,7155,8,95
-Sarawak,N.19 Mambong,Mambong,19315,11482,58,146
-Sarawak,N.20 Tarat,Tarat,17717,11104,54,262
-Sarawak,N.21 Tebedu,Tebedu,12040,8363,23,119
-Sarawak,N.22 Kedup,Kedup,11202,8323,19,129
-Sarawak,N.23 Bukit Semuja,Bukit Semuja,14893,8923,45,153
-Sarawak,N.24 Sadong Jaya,Sadong Jaya,7653,5301,14,64
-Sarawak,N.25 Simunjan,Simunjan,8299,5983,23,104
-Sarawak,N.26 Gedong,Gedong,7208,5345,27,54
-Sarawak,N.27 Sebuyau,Sebuyau,9367,6388,17,145
-Sarawak,N.28 Lingga,Lingga,9578,6520,23,129
-Sarawak,N.29 Beting Maro,Beting Maro,11094,7516,13,201
-Sarawak,N.30 Balai Ringin,Balai Ringin,10791,8667,24,101
-Sarawak,N.31 Bukit Begunan,Bukit Begunan,9632,7021,26,88
-Sarawak,N.32 Simanggang,Simanggang,13224,8234,39,115
-Sarawak,N.33 Engkilili,Engkilili,11039,7563,17,81
-Sarawak,N.34 Batang Ai,Batang Ai,9929,7277,14,68
-Sarawak,N.35 Saribas,Saribas,10984,8028,45,141
-Sarawak,N.36 Layar,Layar,9334,5896,43,110
-Sarawak,N.37 Bukit Saban,Bukit Saban,9523,7002,29,79
-Sarawak,N.38 Kalaka,Kalaka,8062,5538,26,137
-Sarawak,N.39 Krian,Krian,13074,9032,29,106
-Sarawak,N.40 Kabong,Kabong,10111,7234,38,82
-Sarawak,N.41 Kuala Rajang,Kuala Rajang,11428,7662,52,122
-Sarawak,N.42 Semop,Semop,10297,6862,36,109
-Sarawak,N.43 Daro,Daro,9195,5830,23,101
-Sarawak,N.44 Jemoreng,Jemoreng,9963,6629,36,115
-Sarawak,N.45 Repok,Repok,23541,13884,46,116
-Sarawak,N.46 Meradong,Meradong,18156,11939,34,182
-Sarawak,N.47 Pakan,Pakan,11154,8059,16,98
-Sarawak,N.48 Meluan,Meluan,14671,10034,30,102
-Sarawak,N.49 Ngemah,Ngemah,9853,7045,41,97
-Sarawak,N.50 Machan,Machan,11763,7893,26,124
-Sarawak,N.51 Bukit Assek,Bukit Assek,27636,13621,73,144
-Sarawak,N.52 Dudong,Dudong,34955,20355,72,298
-Sarawak,N.53 Bawang Assan,Bawang Assan,19650,13952,23,166
-Sarawak,N.54 Pelawan,Pelawan,34466,16302,263,108
-Sarawak,N.55 Nangka,Nangka,23092,14555,56,158
-Sarawak,N.56 Dalat,Dalat,12503,7657,27,85
-Sarawak,N.57 Tellian,Tellian,10059,6205,18,79
-Sarawak,N.58 Balingian,Balingian,8704,5784,6,84
-Sarawak,N.59 Tamin,Tamin,16681,12144,18,158
-Sarawak,N.60 Kakus,Kakus,14416,10280,21,122
-Sarawak,N.61 Pelagus,Pelagus,7894,5153,13,89
-Sarawak,N.62 Katibas,Katibas,10530,6629,24,109
-Sarawak,N.63 Bukit Goram,Bukit Goram,12150,6380,56,111
-Sarawak,N.64 Baleh,Baleh,10137,5832,17,90
-Sarawak,N.65 Belaga,Belaga,8003,5096,19,40
-Sarawak,N.66 Murum,Murum,9738,7006,18,67
-Sarawak,N.67 Jepak,Jepak,14643,9219,34,146
-Sarawak,N.68 Tanjong Batu,Tanjong Batu,22743,11685,49,69
-Sarawak,N.69 Kemena,Kemena,14252,10255,21,143
-Sarawak,N.70 Samalaju,Samalaju,17981,11451,25,171
-Sarawak,N.71 Bekenu,Bekenu,12674,8172,48,140
-Sarawak,N.72 Lambir,Lambir,19907,10255,60,109
-Sarawak,N.73 Piasau,Piasau,21377,10276,23,59
-Sarawak,N.74 Pujut,Pujut,27567,12547,60,96
-Sarawak,N.75 Senadin,Senadin,34117,17185,87,189
-Sarawak,N.76 Marudi,Marudi,16478,11137,39,138
-Sarawak,N.77 Telang Usan,Telang Usan,11465,6562,24,77
-Sarawak,N.78 Mulu,Mulu,9572,5802,34,172
-Sarawak,N.79 Bukit Kota,Bukit Kota,16975,8313,62,61
-Sarawak,N.80 Batu Danau,Batu Danau,9375,5792,22,68
-Sarawak,N.81 Ba`kelalan,Ba`kelalan,8503,5004,26,62
-Sarawak,N.82 Bukit Sari,Bukit Sari,13054,7442,79,64
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Sarawak,N.01 Opar,11436,7958,23,112
+Sarawak,N.02 Tasik Biru,18715,12003,32,194
+Sarawak,N.03 Tanjong Datu,11384,6977,12,134
+Sarawak,N.04 Pantai Damai,20506,13298,101,180
+Sarawak,N.05 Demak Laut,14813,10024,28,237
+Sarawak,N.06 Tupong,26004,14971,131,125
+Sarawak,N.07 Samariang,21363,13183,102,121
+Sarawak,N.08 Satok,14314,8487,52,71
+Sarawak,N.09 Padungan,20949,9376,26,53
+Sarawak,N.10 Pending,29747,13018,37,105
+Sarawak,N.11 Batu Lintang,29694,12496,75,94
+Sarawak,N.12 Kota Sentosa,28392,13698,72,139
+Sarawak,N.13 Batu Kitang,20820,11096,51,107
+Sarawak,N.14 Batu Kawah,20681,11297,45,102
+Sarawak,N.15 Asajaya,12349,9296,16,171
+Sarawak,N.16 Muara Tuang,18644,13599,83,259
+Sarawak,N.17 Stakan,16992,11070,48,182
+Sarawak,N.18 Serembu,9834,7155,8,95
+Sarawak,N.19 Mambong,19315,11482,58,146
+Sarawak,N.20 Tarat,17717,11104,54,262
+Sarawak,N.21 Tebedu,12040,8363,23,119
+Sarawak,N.22 Kedup,11202,8323,19,129
+Sarawak,N.23 Bukit Semuja,14893,8923,45,153
+Sarawak,N.24 Sadong Jaya,7653,5301,14,64
+Sarawak,N.25 Simunjan,8299,5983,23,104
+Sarawak,N.26 Gedong,7208,5345,27,54
+Sarawak,N.27 Sebuyau,9367,6388,17,145
+Sarawak,N.28 Lingga,9578,6520,23,129
+Sarawak,N.29 Beting Maro,11094,7516,13,201
+Sarawak,N.30 Balai Ringin,10791,8667,24,101
+Sarawak,N.31 Bukit Begunan,9632,7021,26,88
+Sarawak,N.32 Simanggang,13224,8234,39,115
+Sarawak,N.33 Engkilili,11039,7563,17,81
+Sarawak,N.34 Batang Ai,9929,7277,14,68
+Sarawak,N.35 Saribas,10984,8028,45,141
+Sarawak,N.36 Layar,9334,5896,43,110
+Sarawak,N.37 Bukit Saban,9523,7002,29,79
+Sarawak,N.38 Kalaka,8062,5538,26,137
+Sarawak,N.39 Krian,13074,9032,29,106
+Sarawak,N.40 Kabong,10111,7234,38,82
+Sarawak,N.41 Kuala Rajang,11428,7662,52,122
+Sarawak,N.42 Semop,10297,6862,36,109
+Sarawak,N.43 Daro,9195,5830,23,101
+Sarawak,N.44 Jemoreng,9963,6629,36,115
+Sarawak,N.45 Repok,23541,13884,46,116
+Sarawak,N.46 Meradong,18156,11939,34,182
+Sarawak,N.47 Pakan,11154,8059,16,98
+Sarawak,N.48 Meluan,14671,10034,30,102
+Sarawak,N.49 Ngemah,9853,7045,41,97
+Sarawak,N.50 Machan,11763,7893,26,124
+Sarawak,N.51 Bukit Assek,27636,13621,73,144
+Sarawak,N.52 Dudong,34955,20355,72,298
+Sarawak,N.53 Bawang Assan,19650,13952,23,166
+Sarawak,N.54 Pelawan,34466,16302,263,108
+Sarawak,N.55 Nangka,23092,14555,56,158
+Sarawak,N.56 Dalat,12503,7657,27,85
+Sarawak,N.57 Tellian,10059,6205,18,79
+Sarawak,N.58 Balingian,8704,5784,6,84
+Sarawak,N.59 Tamin,16681,12144,18,158
+Sarawak,N.60 Kakus,14416,10280,21,122
+Sarawak,N.61 Pelagus,7894,5153,13,89
+Sarawak,N.62 Katibas,10530,6629,24,109
+Sarawak,N.63 Bukit Goram,12150,6380,56,111
+Sarawak,N.64 Baleh,10137,5832,17,90
+Sarawak,N.65 Belaga,8003,5096,19,40
+Sarawak,N.66 Murum,9738,7006,18,67
+Sarawak,N.67 Jepak,14643,9219,34,146
+Sarawak,N.68 Tanjong Batu,22743,11685,49,69
+Sarawak,N.69 Kemena,14252,10255,21,143
+Sarawak,N.70 Samalaju,17981,11451,25,171
+Sarawak,N.71 Bekenu,12674,8172,48,140
+Sarawak,N.72 Lambir,19907,10255,60,109
+Sarawak,N.73 Piasau,21377,10276,23,59
+Sarawak,N.74 Pujut,27567,12547,60,96
+Sarawak,N.75 Senadin,34117,17185,87,189
+Sarawak,N.76 Marudi,16478,11137,39,138
+Sarawak,N.77 Telang Usan,11465,6562,24,77
+Sarawak,N.78 Mulu,9572,5802,34,172
+Sarawak,N.79 Bukit Kota,16975,8313,62,61
+Sarawak,N.80 Batu Danau,9375,5792,22,68
+Sarawak,N.81 Ba`kelalan,8503,5004,26,62
+Sarawak,N.82 Bukit Sari,13054,7442,79,64

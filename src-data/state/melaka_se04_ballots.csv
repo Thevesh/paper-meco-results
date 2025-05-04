@@ -1,62 +1,62 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Melaka,N.01 Taboh Naning,Taboh Naning,1,Ab. Razak Bin Alias,8302,BN,25,3876
-Melaka,N.01 Taboh Naning,Taboh Naning,2,Hanafiah Bin Mokhtar,8303,PEKEMAS,27,1107
-Melaka,N.01 Taboh Naning,Taboh Naning,3,Ab. Rahim Bin Haji Basir,6554,PSRM,26,691
-Melaka,N.02 Sungai Bahru,Sungai Bahru,1,Haji Abd. Ghani Bin Ali,8305,BN,25,0
-Melaka,N.03 Machap,Machap,1,Yeow Kay,5504,BN,25,3006
-Melaka,N.03 Machap,Machap,2,Ahad Bin Osman,8307,PEKEMAS,27,1061
-Melaka,N.03 Machap,Machap,3,Amat Bin Muin,8308,BEBAS,1,418
-Melaka,N.04 Kelemak,Kelemak,1,Abdul Ghani Bin Ishak,540,BN,25,3218
-Melaka,N.04 Kelemak,Kelemak,2,A. Kadir Bin Hamid,8310,PEKEMAS,27,1513
-Melaka,N.05 Masjid Tanah,Masjid Tanah,1,Johari Bin Mohd. Yusof,8311,BN,25,4420
-Melaka,N.05 Masjid Tanah,Masjid Tanah,2,Yaakob Bin Ishak,8312,BEBAS,1,464
-Melaka,N.05 Masjid Tanah,Masjid Tanah,3,Mohd. Kassim Bin Haji Yasin,8313,PEKEMAS,27,393
-Melaka,N.06 Batang Melaka,Batang Melaka,1,Lai See Leong,8314,BN,25,2723
-Melaka,N.06 Batang Melaka,Batang Melaka,2,Foo Nyong Piam,8315,DAP,18,1022
-Melaka,N.06 Batang Melaka,Batang Melaka,3,Haji Mohd. Adam Bin Mohd. Anas,8316,BEBAS,1,754
-Melaka,N.06 Batang Melaka,Batang Melaka,4,Abdul Aziz Bin Abas,8317,PEKEMAS,27,552
-Melaka,N.06 Batang Melaka,Batang Melaka,5,Minhad Bin Maludin,7419,PSRM,26,172
-Melaka,N.07 Nyalas,Nyalas,1,Sabaruddin Bin Yaakub,8319,BN,25,3166
-Melaka,N.07 Nyalas,Nyalas,2,Kwong Lye Sing,8320,DAP,18,869
-Melaka,N.07 Nyalas,Nyalas,3,Jantan Bin Leman,7429,PEKEMAS,27,683
-Melaka,N.08 Ayer Panas,Ayer Panas,1,Hashim Bin Haji Yusuf,8322,BN,25,3240
-Melaka,N.08 Ayer Panas,Ayer Panas,2,Othman Bin Taha,8323,PEKEMAS,27,1707
-Melaka,N.08 Ayer Panas,Ayer Panas,3,Gan Kim Kee,8324,DAP,18,351
-Melaka,N.09 Serkam,Serkam,1,Abdul Aziz Bin Haji Alias,8325,BN,25,4085
-Melaka,N.09 Serkam,Serkam,2,Abdul Bin Chudang,5513,PEKEMAS,27,838
-Melaka,N.10 Sungei Rambai,Sungei Rambai,1,Haji Ahmad Dahalan Bin Haji Saleh,7427,BN,25,3114
-Melaka,N.10 Sungei Rambai,Sungei Rambai,2,Abd. Karim Bin Abu,541,PEKEMAS,27,1503
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,1,Haji Mohd. Nor Bin Noordin,8329,BN,25,4660
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,2,Bong Geok Cheng,7379,PSRM,26,2150
-Melaka,N.12 Ayer Keroh,Ayer Keroh,1,Haji Hashim Bin Pit,8331,BN,25,3441
-Melaka,N.12 Ayer Keroh,Ayer Keroh,2,Hasnul Bin Ab. Hadi,8332,PSRM,26,1656
-Melaka,N.12 Ayer Keroh,Ayer Keroh,3,Blement Be. Brito,8333,DAP,18,553
-Melaka,N.12 Ayer Keroh,Ayer Keroh,4,Md. Said Bin Yaman,8334,PEKEMAS,27,182
-Melaka,N.13 Ayer Molek,Ayer Molek,1,Md. Di Bin Ab. Ghani,8335,BN,25,4025
-Melaka,N.13 Ayer Molek,Ayer Molek,2,Sidek Bin Ahmad,7387,PSRM,26,1126
-Melaka,N.14 Sungai Udang,Sungai Udang,1,Dato' Haji Ahmad Bin Haji Manap,8337,BN,25,3829
-Melaka,N.14 Sungai Udang,Sungai Udang,2,Koh Chan Bin,8338,PSRM,26,1219
-Melaka,N.15 Bukit Rambai,Bukit Rambai,1,Fatimah Binti Ahmad,8339,BN,25,2630
-Melaka,N.15 Bukit Rambai,Bukit Rambai,2,Lim Yak Thye,7374,DAP,18,1361
-Melaka,N.15 Bukit Rambai,Bukit Rambai,3,Mohamad Bin Bakar,8341,PSRM,26,1085
-Melaka,N.16 Pringgit,Pringgit,1,Dato' Tan Cheng Swee,8342,BN,25,3999
-Melaka,N.16 Pringgit,Pringgit,2,Hassan Bak Tee Bin Mohd.,8343,DAP,18,1470
-Melaka,N.16 Pringgit,Pringgit,3,Haji Maidin Bin Haji Manap,1008,BEBAS,1,487
-Melaka,N.16 Pringgit,Pringgit,4,Low Kye Chye,7393,PSRM,26,473
-Melaka,N.16 Pringgit,Pringgit,5,Mizan Puteh,8346,PEKEMAS,27,348
-Melaka,N.17 Tranquerah,Tranquerah,1,Chan Teck Chan,1263,DAP,18,2829
-Melaka,N.17 Tranquerah,Tranquerah,2,Yoong Yong,8348,BN,25,2708
-Melaka,N.17 Tranquerah,Tranquerah,3,Thei Niu Kim,8349,PSRM,26,916
-Melaka,N.17 Tranquerah,Tranquerah,4,S. George De Souza,8350,PEKEMAS,27,261
-Melaka,N.18 Kubu,Kubu,1,Lim Kit Siang,698,DAP,18,4746
-Melaka,N.18 Kubu,Kubu,2,Sivapunniah S/O Krishnasamy,8352,BN,25,1881
-Melaka,N.18 Kubu,Kubu,3,Tan Giap Seng,7388,PEKEMAS,27,697
-Melaka,N.18 Kubu,Kubu,4,Thum Kim Kiu,1010,PSRM,26,433
-Melaka,N.19 Durian Daun,Durian Daun,1,Yong Wee Yook,8355,DAP,18,3538
-Melaka,N.19 Durian Daun,Durian Daun,2,Ng Chong Chee,6536,BN,25,2488
-Melaka,N.19 Durian Daun,Durian Daun,3,Khoo Chin Sun,8357,PSRM,26,334
-Melaka,N.19 Durian Daun,Durian Daun,4,Lee Kuo Ming,1011,PEKEMAS,27,250
-Melaka,N.20 Bandar Hilir,Bandar Hilir,1,Bernard Sta. Maria,7400,DAP,18,3093
-Melaka,N.20 Bandar Hilir,Bandar Hilir,2,Gan Boon Leong,8360,BN,25,2538
-Melaka,N.20 Bandar Hilir,Bandar Hilir,3,Mohd. Yusof Bin Haji Mohd.,8361,PSRM,26,138
-Melaka,N.20 Bandar Hilir,Bandar Hilir,4,Geh Thuan Choo,8362,PEKEMAS,27,134
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Melaka,N.01 Taboh Naning,1,Ab. Razak Bin Alias,8302,BN,25,3876
+Melaka,N.01 Taboh Naning,2,Hanafiah Bin Mokhtar,8303,PEKEMAS,27,1107
+Melaka,N.01 Taboh Naning,3,Ab. Rahim Bin Haji Basir,6554,PSRM,26,691
+Melaka,N.02 Sungai Bahru,1,Haji Abd. Ghani Bin Ali,8305,BN,25,0
+Melaka,N.03 Machap,1,Yeow Kay,5504,BN,25,3006
+Melaka,N.03 Machap,2,Ahad Bin Osman,8307,PEKEMAS,27,1061
+Melaka,N.03 Machap,3,Amat Bin Muin,8308,BEBAS,1,418
+Melaka,N.04 Kelemak,1,Abdul Ghani Bin Ishak,540,BN,25,3218
+Melaka,N.04 Kelemak,2,A. Kadir Bin Hamid,8310,PEKEMAS,27,1513
+Melaka,N.05 Masjid Tanah,1,Johari Bin Mohd. Yusof,8311,BN,25,4420
+Melaka,N.05 Masjid Tanah,2,Yaakob Bin Ishak,8312,BEBAS,1,464
+Melaka,N.05 Masjid Tanah,3,Mohd. Kassim Bin Haji Yasin,8313,PEKEMAS,27,393
+Melaka,N.06 Batang Melaka,1,Lai See Leong,8314,BN,25,2723
+Melaka,N.06 Batang Melaka,2,Foo Nyong Piam,8315,DAP,18,1022
+Melaka,N.06 Batang Melaka,3,Haji Mohd. Adam Bin Mohd. Anas,8316,BEBAS,1,754
+Melaka,N.06 Batang Melaka,4,Abdul Aziz Bin Abas,8317,PEKEMAS,27,552
+Melaka,N.06 Batang Melaka,5,Minhad Bin Maludin,7419,PSRM,26,172
+Melaka,N.07 Nyalas,1,Sabaruddin Bin Yaakub,8319,BN,25,3166
+Melaka,N.07 Nyalas,2,Kwong Lye Sing,8320,DAP,18,869
+Melaka,N.07 Nyalas,3,Jantan Bin Leman,7429,PEKEMAS,27,683
+Melaka,N.08 Ayer Panas,1,Hashim Bin Haji Yusuf,8322,BN,25,3240
+Melaka,N.08 Ayer Panas,2,Othman Bin Taha,8323,PEKEMAS,27,1707
+Melaka,N.08 Ayer Panas,3,Gan Kim Kee,8324,DAP,18,351
+Melaka,N.09 Serkam,1,Abdul Aziz Bin Haji Alias,8325,BN,25,4085
+Melaka,N.09 Serkam,2,Abdul Bin Chudang,5513,PEKEMAS,27,838
+Melaka,N.10 Sungei Rambai,1,Haji Ahmad Dahalan Bin Haji Saleh,7427,BN,25,3114
+Melaka,N.10 Sungei Rambai,2,Abd. Karim Bin Abu,541,PEKEMAS,27,1503
+Melaka,N.11 Tanjong Minyak,1,Haji Mohd. Nor Bin Noordin,8329,BN,25,4660
+Melaka,N.11 Tanjong Minyak,2,Bong Geok Cheng,7379,PSRM,26,2150
+Melaka,N.12 Ayer Keroh,1,Haji Hashim Bin Pit,8331,BN,25,3441
+Melaka,N.12 Ayer Keroh,2,Hasnul Bin Ab. Hadi,8332,PSRM,26,1656
+Melaka,N.12 Ayer Keroh,3,Blement Be. Brito,8333,DAP,18,553
+Melaka,N.12 Ayer Keroh,4,Md. Said Bin Yaman,8334,PEKEMAS,27,182
+Melaka,N.13 Ayer Molek,1,Md. Di Bin Ab. Ghani,8335,BN,25,4025
+Melaka,N.13 Ayer Molek,2,Sidek Bin Ahmad,7387,PSRM,26,1126
+Melaka,N.14 Sungai Udang,1,Dato' Haji Ahmad Bin Haji Manap,8337,BN,25,3829
+Melaka,N.14 Sungai Udang,2,Koh Chan Bin,8338,PSRM,26,1219
+Melaka,N.15 Bukit Rambai,1,Fatimah Binti Ahmad,8339,BN,25,2630
+Melaka,N.15 Bukit Rambai,2,Lim Yak Thye,7374,DAP,18,1361
+Melaka,N.15 Bukit Rambai,3,Mohamad Bin Bakar,8341,PSRM,26,1085
+Melaka,N.16 Pringgit,1,Dato' Tan Cheng Swee,8342,BN,25,3999
+Melaka,N.16 Pringgit,2,Hassan Bak Tee Bin Mohd.,8343,DAP,18,1470
+Melaka,N.16 Pringgit,3,Haji Maidin Bin Haji Manap,1008,BEBAS,1,487
+Melaka,N.16 Pringgit,4,Low Kye Chye,7393,PSRM,26,473
+Melaka,N.16 Pringgit,5,Mizan Puteh,8346,PEKEMAS,27,348
+Melaka,N.17 Tranquerah,1,Chan Teck Chan,1263,DAP,18,2829
+Melaka,N.17 Tranquerah,2,Yoong Yong,8348,BN,25,2708
+Melaka,N.17 Tranquerah,3,Thei Niu Kim,8349,PSRM,26,916
+Melaka,N.17 Tranquerah,4,S. George De Souza,8350,PEKEMAS,27,261
+Melaka,N.18 Kubu,1,Lim Kit Siang,698,DAP,18,4746
+Melaka,N.18 Kubu,2,Sivapunniah S/O Krishnasamy,8352,BN,25,1881
+Melaka,N.18 Kubu,3,Tan Giap Seng,7388,PEKEMAS,27,697
+Melaka,N.18 Kubu,4,Thum Kim Kiu,1010,PSRM,26,433
+Melaka,N.19 Durian Daun,1,Yong Wee Yook,8355,DAP,18,3538
+Melaka,N.19 Durian Daun,2,Ng Chong Chee,6536,BN,25,2488
+Melaka,N.19 Durian Daun,3,Khoo Chin Sun,8357,PSRM,26,334
+Melaka,N.19 Durian Daun,4,Lee Kuo Ming,1011,PEKEMAS,27,250
+Melaka,N.20 Bandar Hilir,1,Bernard Sta. Maria,7400,DAP,18,3093
+Melaka,N.20 Bandar Hilir,2,Gan Boon Leong,8360,BN,25,2538
+Melaka,N.20 Bandar Hilir,3,Mohd. Yusof Bin Haji Mohd.,8361,PSRM,26,138
+Melaka,N.20 Bandar Hilir,4,Geh Thuan Choo,8362,PEKEMAS,27,134

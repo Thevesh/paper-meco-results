@@ -1,37 +1,37 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Kelantan,N.01 Simpangan,Simpangan,10155,7367,0,176
-Kelantan,N.02 Sungai Pinang,Sungai Pinang,11405,8027,0,172
-Kelantan,N.03 Wakaf Bharu,Wakaf Bharu,11958,8905,0,169
-Kelantan,N.04 Semut Api,Semut Api,9585,7057,0,185
-Kelantan,N.05 Kemumin,Kemumin,8837,6343,0,148
-Kelantan,N.06 Sering,Sering,9473,7308,0,136
-Kelantan,N.07 Tendong,Tendong,10632,8079,0,148
-Kelantan,N.08 Meranti,Meranti,9247,6760,0,105
-Kelantan,N.09 Bandar Pasir Mas,Bandar Pasir Mas,10356,7333,0,101
-Kelantan,N.10 Sungai Keladi,Sungai Keladi,14001,8832,0,136
-Kelantan,N.11 Telipok,Telipok,11006,7341,0,98
-Kelantan,N.12 Kubang Kerian,Kubang Kerian,11277,8338,0,186
-Kelantan,N.13 Tawang,Tawang,10781,8502,0,200
-Kelantan,N.14 Perupok,Perupok,8922,6862,0,168
-Kelantan,N.15 Jelawat,Jelawat,10112,7880,0,148
-Kelantan,N.16 Gual Periok,Gual Periok,6411,4825,0,78
-Kelantan,N.17 Lemal,Lemal,7519,5357,0,161
-Kelantan,N.18 Tok Uban,Tok Uban,8343,6257,0,123
-Kelantan,N.19 Salor,Salor,10595,8319,0,123
-Kelantan,N.20 Ketereh,Ketereh,9728,7847,0,104
-Kelantan,N.21 Peringat,Peringat,9222,7052,0,106
-Kelantan,N.22 Bukit Panau,Bukit Panau,8912,6897,0,29
-Kelantan,N.23 Lanas,Lanas,5626,4601,0,24
-Kelantan,N.24 Gual Ipoh,Gual Ipoh,7245,5893,0,56
-Kelantan,N.25 Pulai Chondong,Pulai Chondong,8032,6611,0,36
-Kelantan,N.26 Bandar Machang,Bandar Machang,10688,8377,0,54
-Kelantan,N.27 Sungai Rasau,Sungai Rasau,5979,4819,0,33
-Kelantan,N.28 Selising,Selising,10519,8207,0,108
-Kelantan,N.29 Bandar Pasir Puteh,Bandar Pasir Puteh,8782,6608,0,124
-Kelantan,N.30 Cherang Ruku,Cherang Ruku,8673,6795,0,126
-Kelantan,N.31 Temangan,Temangan,6147,5016,0,79
-Kelantan,N.32 Guchil,Guchil,6324,4868,0,86
-Kelantan,N.33 Pahi,Pahi,6115,4358,0,105
-Kelantan,N.34 Jeli,Jeli,5868,4862,0,33
-Kelantan,N.35 Gua Musang,Gua Musang,8015,5261,0,80
-Kelantan,N.36 Manek Urai,Manek Urai,5179,3802,0,48
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Kelantan,N.01 Simpangan,10155,7367,0,176
+Kelantan,N.02 Sungai Pinang,11405,8027,0,172
+Kelantan,N.03 Wakaf Bharu,11958,8905,0,169
+Kelantan,N.04 Semut Api,9585,7057,0,185
+Kelantan,N.05 Kemumin,8837,6343,0,148
+Kelantan,N.06 Sering,9473,7308,0,136
+Kelantan,N.07 Tendong,10632,8079,0,148
+Kelantan,N.08 Meranti,9247,6760,0,105
+Kelantan,N.09 Bandar Pasir Mas,10356,7333,0,101
+Kelantan,N.10 Sungai Keladi,14001,8832,0,136
+Kelantan,N.11 Telipok,11006,7341,0,98
+Kelantan,N.12 Kubang Kerian,11277,8338,0,186
+Kelantan,N.13 Tawang,10781,8502,0,200
+Kelantan,N.14 Perupok,8922,6862,0,168
+Kelantan,N.15 Jelawat,10112,7880,0,148
+Kelantan,N.16 Gual Periok,6411,4825,0,78
+Kelantan,N.17 Lemal,7519,5357,0,161
+Kelantan,N.18 Tok Uban,8343,6257,0,123
+Kelantan,N.19 Salor,10595,8319,0,123
+Kelantan,N.20 Ketereh,9728,7847,0,104
+Kelantan,N.21 Peringat,9222,7052,0,106
+Kelantan,N.22 Bukit Panau,8912,6897,0,29
+Kelantan,N.23 Lanas,5626,4601,0,24
+Kelantan,N.24 Gual Ipoh,7245,5893,0,56
+Kelantan,N.25 Pulai Chondong,8032,6611,0,36
+Kelantan,N.26 Bandar Machang,10688,8377,0,54
+Kelantan,N.27 Sungai Rasau,5979,4819,0,33
+Kelantan,N.28 Selising,10519,8207,0,108
+Kelantan,N.29 Bandar Pasir Puteh,8782,6608,0,124
+Kelantan,N.30 Cherang Ruku,8673,6795,0,126
+Kelantan,N.31 Temangan,6147,5016,0,79
+Kelantan,N.32 Guchil,6324,4868,0,86
+Kelantan,N.33 Pahi,6115,4358,0,105
+Kelantan,N.34 Jeli,5868,4862,0,33
+Kelantan,N.35 Gua Musang,8015,5261,0,80
+Kelantan,N.36 Manek Urai,5179,3802,0,48

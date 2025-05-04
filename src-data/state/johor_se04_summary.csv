@@ -1,33 +1,33 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Johor,N.01 Buloh Kasap,Buloh Kasap,12716,9281,0,332
-Johor,N.02 Ayer Panas,Ayer Panas,12753,10011,0,179
-Johor,N.03 Bandar Segamat,Bandar Segamat,17507,14329,0,811
-Johor,N.04 Bukit Serampang,Bukit Serampang,0,0,0,0
-Johor,N.05 Bekok,Bekok,0,0,0,0
-Johor,N.06 Bandar Keluang,Bandar Keluang,21685,15109,0,706
-Johor,N.07 Endau,Endau,8399,6116,0,208
-Johor,N.08 Mersing,Mersing,8980,6798,0,201
-Johor,N.09 Tangkak,Tangkak,13217,9729,0,219
-Johor,N.10 Serom,Serom,0,0,0,0
-Johor,N.11 Jorak,Jorak,0,0,0,0
-Johor,N.12 Kesang,Kesang,0,0,0,0
-Johor,N.13 Sri Lalang,Sri Lalang,0,0,0,0
-Johor,N.14 Sri Medan,Sri Medan,0,0,0,0
-Johor,N.15 Bandar Maharani,Bandar Maharani,26785,18571,0,740
-Johor,N.16 Parit Jawa,Parit Jawa,14737,11176,0,844
-Johor,N.17 Layang-Layang,Layang–Layang,0,0,0,0
-Johor,N.18 Kulai,Kulai,17173,13657,0,1240
-Johor,N.19 Kota Tinggi,Kota Tinggi,0,0,0,0
-Johor,N.20 Johor Lama,Johor Lama,0,0,0,0
-Johor,N.21 Parit Raja,Parit Raja,0,0,0,0
-Johor,N.22 Simpang Renggam,Simpang Renggam,0,0,0,0
-Johor,N.23 Sri Menanti,Sri Menanti,9838,7366,0,552
-Johor,N.24 Peserai,Peserai,19033,14047,0,758
-Johor,N.25 Bandar Penggaram,Bandar Penggaram,22004,16732,0,924
-Johor,N.26 Rengit,Rengit,0,0,0,0
-Johor,N.27 Benut,Benut,16449,12477,0,508
-Johor,N.28 Kukup,Kukup,0,0,0,0
-Johor,N.29 Gelang Patah,Gelang Patah,15820,12609,0,1071
-Johor,N.30 Skudai,Skudai,18525,13628,0,913
-Johor,N.31 Tiram,Tiram,0,0,0,0
-Johor,N.32 Tanjong Petri,Tanjong Petri,32704,22823,0,1474
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Johor,N.01 Buloh Kasap,12716,9281,0,332
+Johor,N.02 Ayer Panas,12753,10011,0,179
+Johor,N.03 Bandar Segamat,17507,14329,0,811
+Johor,N.04 Bukit Serampang,0,0,0,0
+Johor,N.05 Bekok,0,0,0,0
+Johor,N.06 Bandar Keluang,21685,15109,0,706
+Johor,N.07 Endau,8399,6116,0,208
+Johor,N.08 Mersing,8980,6798,0,201
+Johor,N.09 Tangkak,13217,9729,0,219
+Johor,N.10 Serom,0,0,0,0
+Johor,N.11 Jorak,0,0,0,0
+Johor,N.12 Kesang,0,0,0,0
+Johor,N.13 Sri Lalang,0,0,0,0
+Johor,N.14 Sri Medan,0,0,0,0
+Johor,N.15 Bandar Maharani,26785,18571,0,740
+Johor,N.16 Parit Jawa,14737,11176,0,844
+Johor,N.17 Layang-Layang,0,0,0,0
+Johor,N.18 Kulai,17173,13657,0,1240
+Johor,N.19 Kota Tinggi,0,0,0,0
+Johor,N.20 Johor Lama,0,0,0,0
+Johor,N.21 Parit Raja,0,0,0,0
+Johor,N.22 Simpang Renggam,0,0,0,0
+Johor,N.23 Sri Menanti,9838,7366,0,552
+Johor,N.24 Peserai,19033,14047,0,758
+Johor,N.25 Bandar Penggaram,22004,16732,0,924
+Johor,N.26 Rengit,0,0,0,0
+Johor,N.27 Benut,16449,12477,0,508
+Johor,N.28 Kukup,0,0,0,0
+Johor,N.29 Gelang Patah,15820,12609,0,1071
+Johor,N.30 Skudai,18525,13628,0,913
+Johor,N.31 Tiram,0,0,0,0
+Johor,N.32 Tanjong Petri,32704,22823,0,1474

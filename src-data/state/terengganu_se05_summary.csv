@@ -1,29 +1,29 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Terengganu,N.01 Kuala Besut,Kuala Besut,7713,6182,0,283
-Terengganu,N.02 Kampong Raja,Kampong Raja,7553,6069,0,379
-Terengganu,N.03 Bukit Kenak,Bukit Kenak,7477,5929,0,334
-Terengganu,N.04 Ulu Besut,Ulu Besut,7477,5997,0,305
-Terengganu,N.05 Setiu,Setiu,6572,5210,0,334
-Terengganu,N.06 Langkap,Langkap,7559,5913,0,399
-Terengganu,N.07 Batu Rakit,Batu Rakit,5889,4624,0,268
-Terengganu,N.08 Seberang Takir,Seberang Takir,7545,5481,0,269
-Terengganu,N.09 Telemong,Telemong,5583,4705,0,304
-Terengganu,N.10 Binjai,Binjai,7746,6180,0,476
-Terengganu,N.11 Tanggol,Tanggol,6966,5463,0,374
-Terengganu,N.12 Kuala Brang,Kuala Brang,5416,4435,0,267
-Terengganu,N.13 Jeram,Jeram,6372,5072,0,120
-Terengganu,N.14 Bukit Tunggal,Bukit Tunggal,0,0,0,0
-Terengganu,N.15 Manir,Manir,8011,6104,0,115
-Terengganu,N.16 Bukit Payong,Bukit Payong,7531,5912,0,120
-Terengganu,N.17 Bandar,Bandar,11647,8474,0,435
-Terengganu,N.18 Ladang,Ladang,9434,6521,0,246
-Terengganu,N.19 Wakaf Mempelam,Wakaf Mempelam,7826,5875,0,360
-Terengganu,N.20 Batu Burok,Batu Burok,8597,6186,0,427
-Terengganu,N.21 Marang,Marang,7142,5691,0,387
-Terengganu,N.22 Merchang,Merchang,6627,5082,0,397
-Terengganu,N.23 Sura,Sura,8265,5737,0,379
-Terengganu,N.24 Jerangau,Jerangau,4670,3424,0,186
-Terengganu,N.25 Paka,Paka,5982,4523,0,310
-Terengganu,N.26 Kemasek,Kemasek,7192,5382,0,383
-Terengganu,N.27 Bukit Bandi,Bukit Bandi,8204,6179,0,478
-Terengganu,N.28 Chukai,Chukai,0,0,0,0
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Terengganu,N.01 Kuala Besut,7713,6182,0,283
+Terengganu,N.02 Kampong Raja,7553,6069,0,379
+Terengganu,N.03 Bukit Kenak,7477,5929,0,334
+Terengganu,N.04 Ulu Besut,7477,5997,0,305
+Terengganu,N.05 Setiu,6572,5210,0,334
+Terengganu,N.06 Langkap,7559,5913,0,399
+Terengganu,N.07 Batu Rakit,5889,4624,0,268
+Terengganu,N.08 Seberang Takir,7545,5481,0,269
+Terengganu,N.09 Telemong,5583,4705,0,304
+Terengganu,N.10 Binjai,7746,6180,0,476
+Terengganu,N.11 Tanggol,6966,5463,0,374
+Terengganu,N.12 Kuala Brang,5416,4435,0,267
+Terengganu,N.13 Jeram,6372,5072,0,120
+Terengganu,N.14 Bukit Tunggal,0,0,0,0
+Terengganu,N.15 Manir,8011,6104,0,115
+Terengganu,N.16 Bukit Payong,7531,5912,0,120
+Terengganu,N.17 Bandar,11647,8474,0,435
+Terengganu,N.18 Ladang,9434,6521,0,246
+Terengganu,N.19 Wakaf Mempelam,7826,5875,0,360
+Terengganu,N.20 Batu Burok,8597,6186,0,427
+Terengganu,N.21 Marang,7142,5691,0,387
+Terengganu,N.22 Merchang,6627,5082,0,397
+Terengganu,N.23 Sura,8265,5737,0,379
+Terengganu,N.24 Jerangau,4670,3424,0,186
+Terengganu,N.25 Paka,5982,4523,0,310
+Terengganu,N.26 Kemasek,7192,5382,0,383
+Terengganu,N.27 Bukit Bandi,8204,6179,0,478
+Terengganu,N.28 Chukai,0,0,0,0

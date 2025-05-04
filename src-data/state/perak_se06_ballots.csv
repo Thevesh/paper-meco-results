@@ -1,106 +1,106 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Perak,N.01 Temengor,Temengor,1,Shamsuddin Bin Din,908,BN,25,0
-Perak,N.02 Kenering,Kenering,1,Chan Ah Ka @ Chow Pek Chee,10874,DAP,18,2824
-Perak,N.02 Kenering,Kenering,2,Wan Mohamed Bin Wan Teh,7619,BN,25,6760
-Perak,N.03 Selama,Selama,1,Mohamed Wazi Bin Che Ngah,10876,PAS,3,2289
-Perak,N.03 Selama,Selama,2,Adbdul Hak @ Abd. Aziz Bin Hj. Ahmad,10877,BN,25,6242
-Perak,N.04 Batu Kurau,Batu Kurau,1,Abdul Manan Bin Mohd. Ali,9766,BN,25,7279
-Perak,N.04 Batu Kurau,Batu Kurau,2,Hassan Bin Talib,10879,PAS,3,2814
-Perak,N.05 Simpang Lima,Simpang Lima,1,Jaafar Bin Ali,6807,PAS,3,5604
-Perak,N.05 Simpang Lima,Simpang Lima,2,Mohamed Taib Bin Napiah @ Hanafiah,10881,BN,25,7668
-Perak,N.06 Kuala Kurau,Kuala Kurau,1,Shaarani B. Haji Mohamed,1169,BN,25,7051
-Perak,N.06 Kuala Kurau,Kuala Kurau,2,Ooi Peng Yong,10883,BEBAS,1,3002
-Perak,N.06 Kuala Kurau,Kuala Kurau,3,Hashim Bin Haji Walad,10884,PAS,3,5135
-Perak,N.07 Alor Pongsu,Alor Pongsu,1,Sulaiman B. Hj. Zain,10885,PAS,3,4214
-Perak,N.07 Alor Pongsu,Alor Pongsu,2,Mohamed Bin Abad,9776,BN,25,9745
-Perak,N.07 Alor Pongsu,Alor Pongsu,3,Jelani Bin Saman,9778,DAP,18,1234
-Perak,N.08 Gunong Semanggol,Gunong Semanggol,1,Samsudin Bin Man,10888,BN,25,6413
-Perak,N.08 Gunong Semanggol,Gunong Semanggol,2,Safian Bin Hj. Md. Nor,10889,PAS,3,4462
-Perak,N.09 Lintang,Lintang,1,Meor Osman Bin Imam Pinawa @ Panjang Hanapiah,10890,BN,25,7721
-Perak,N.09 Lintang,Lintang,2,Wong Show Sheen,10891,DAP,18,1734
-Perak,N.09 Lintang,Lintang,3,Mohd. Salleh Bin Hj. Ibrahim,10892,PAS,3,817
-Perak,N.10 Jalong,Jalong,1,Dato Lin Keng Yaik @ Lim Kheng Heng,10893,BN,25,7789
-Perak,N.10 Jalong,Jalong,2,Ngoi Thiam Woh,1757,DAP,18,5365
-Perak,N.11 Kamunting,Kamunting,1,Abdul Khalid Mohd. Nasir,10895,BN,25,9248
-Perak,N.11 Kamunting,Kamunting,2,Safari Bin Abdullah,10896,PAS,3,1574
-Perak,N.11 Kamunting,Kamunting,3,Clement Eustace De Brito,10897,DAP,18,3070
-Perak,N.12 Kelian Pauh,Kelian Pauh,1,Siew Kok Yan,10898,BN,25,13632
-Perak,N.12 Kelian Pauh,Kelian Pauh,2,Lim Nyit Sin,8680,DAP,18,11605
-Perak,N.13 Changkat Jering,Changkat Jering,1,Jaafar Bin Mat Arif,10900,PAS,3,2204
-Perak,N.13 Changkat Jering,Changkat Jering,2,Yip Wah,10901,DAP,18,3612
-Perak,N.13 Changkat Jering,Changkat Jering,3,Cheong Kai Fu,8700,BN,25,9415
-Perak,N.14 Bukit Gantang,Bukit Gantang,1,Hassan Bin Haji Yahaya,7424,PAS,3,3543
-Perak,N.14 Bukit Gantang,Bukit Gantang,2,Haji Hashim Bin Haji Ghazali,10904,BN,25,6772
-Perak,N.15 Lenggong,Lenggong,1,Ahmad Helimi B. Hj. Ab. Samad,10905,PAS,3,1491
-Perak,N.15 Lenggong,Lenggong,2,Umar B. Haji Ismail,1177,BN,25,6998
-Perak,N.15 Lenggong,Lenggong,3,Bachan Singh,10907,DAP,18,1209
-Perak,N.16 Lubok Merbau,Lubok Merbau,1,Mior Aris B. Mior Abu Bakar,9801,BN,25,5986
-Perak,N.16 Lubok Merbau,Lubok Merbau,2,Hj. Ab. Samad Bin Haji Noh,443,PAS,3,3618
-Perak,N.17 Bukit Chandan,Bukit Chandan,1,Shaari Bin Mohd. Noor,10910,BN,25,7268
-Perak,N.17 Bukit Chandan,Bukit Chandan,2,Fong Cheng Wee,1166,DAP,18,3435
-Perak,N.17 Bukit Chandan,Bukit Chandan,3,Hashim B. Haji Mad Nor @ Hj. Nor,9806,PAS,3,1659
-Perak,N.18 Manong,Manong,1,Zabidin Bin Alang Othman,1178,PAS,3,2243
-Perak,N.18 Manong,Manong,2,Shafie Bin Mat Saman,7647,BN,25,4064
-Perak,N.19 Chemor,Chemor,1,Ahmed Bin Aki,10915,DAP,18,7748
-Perak,N.19 Chemor,Chemor,2,Jamaluddin B. Mat Jali @ Haji Jamaluddin B. Mat Jali,10916,BEBAS,1,2049
-Perak,N.19 Chemor,Chemor,3,Chin Kee Seong,6876,BN,25,19413
-Perak,N.19 Chemor,Chemor,4,Abu Samah Bin Majid,649,PEKEMAS,27,293
-Perak,N.20 Gopeng,Gopeng,1,Loke Yuen Yow,1768,BN,25,12018
-Perak,N.20 Gopeng,Gopeng,2,Kalimuthu A/L Ranggayah,9847,DAP,18,8637
-Perak,N.20 Gopeng,Gopeng,3,Mohamad Nor B. Selah,10921,PAS,3,684
-Perak,N.21 Guntong,Guntong,1,Jaganathan A/L Narianasamy,1761,BEBAS,1,731
-Perak,N.21 Guntong,Guntong,2,Chin Yoong Fee,10923,BN,25,16098
-Perak,N.21 Guntong,Guntong,3,Poon Soo Har,8662,DAP,18,9583
-Perak,N.22 Kepayang,Kepayang,1,Lam Kam Wah,8691,BN,25,13453
-Perak,N.22 Kepayang,Kepayang,2,Lim Cho Hock,643,DAP,18,13614
-Perak,N.22 Kepayang,Kepayang,3,Leong Wai Man,1455,BEBAS,1,753
-Perak,N.23 Pasir Puteh,Pasir Puteh,1,Loke Sui Chun,10928,DAP,18,13352
-Perak,N.23 Pasir Puteh,Pasir Puteh,2,Liew Yoon Sin,10929,BN,25,16268
-Perak,N.24 Kuala Pari,Kuala Pari,1,Lee Kak Hoi,8701,DAP,18,9519
-Perak,N.24 Kuala Pari,Kuala Pari,2,Sew Hua Kew @ Wu Lian Hwa,10931,BN,25,12678
-Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,1,How Choon Aun,10932,DAP,18,1723
-Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,2,Abd. Malik Bin Ahmad,8683,BN,25,7129
-Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,3,Ja'Afar Bin Puteh,9826,PAS,3,704
-Perak,N.26 Pantai Remis,Pantai Remis,1,Heong Heng Keng @ Young Heow Choo,10935,BEBAS,1,1139
-Perak,N.26 Pantai Remis,Pantai Remis,2,Lai Hai Meng,10936,BN,25,5066
-Perak,N.26 Pantai Remis,Pantai Remis,3,Ho Teh Hong,10937,BEBAS,1,2091
-Perak,N.26 Pantai Remis,Pantai Remis,4,Yu Yang Kien,10938,DAP,18,5726
-Perak,N.27 Belanja,Belanja,1,Datuk Ahmad Azizuddin Zainal Abidin,10939,BN,25,0
-Perak,N.28 Bota,Bota,1,Othman Bin Aris,10940,PAS,3,4897
-Perak,N.28 Bota,Bota,2,Rokiah Bt. Kayat,10941,BN,25,7943
-Perak,N.29 Tanjong Tualang,Tanjong Tualang,1,Tan Tiew Bock,9823,BN,25,10495
-Perak,N.29 Tanjong Tualang,Tanjong Tualang,2,Foo Tiew Kok @ Foo Piew Kok,10943,DAP,18,5992
-Perak,N.29 Tanjong Tualang,Tanjong Tualang,3,Omm Bin Mohamed,10944,PAS,3,409
-Perak,N.30 Kampar,Kampar,1,Sum Cheok Leng,9838,DAP,18,7420
-Perak,N.30 Kampar,Kampar,2,Ang Kok Yeang,10946,BN,25,10645
-Perak,N.31 Tapah,Tapah,1,Lee Soon Heng @ Lee Chan Fai,10947,BN,25,6852
-Perak,N.31 Tapah,Tapah,2,Loh Jee Mee,653,DAP,18,4891
-Perak,N.32 Chenderiang,Chenderiang,1,Look Kuan,10949,BN,25,7148
-Perak,N.32 Chenderiang,Chenderiang,2,Udin Bin Said,10950,DAP,18,2338
-Perak,N.33 Sitiawan,Sitiawan,1,Mohd. Rafiei Bin Mohd. Bakri,10951,PAS,3,827
-Perak,N.33 Sitiawan,Sitiawan,2,Rajasegaran A/L Samy Nathan,10952,BN,25,9005
-Perak,N.33 Sitiawan,Sitiawan,3,Yeak Siew Leong,10953,DAP,18,6009
-Perak,N.34 Pangkor,Pangkor,1,Mohamed Salleh B. Mohd. Gaus,1463,PAS,3,428
-Perak,N.34 Pangkor,Pangkor,2,Tang Ah Lik @ Cherng Chien Chang @ Peter Tang Ah Lik,10955,BN,25,5659
-Perak,N.34 Pangkor,Pangkor,3,Ding Chek Ming @ Ting Chek Ming,1465,DAP,18,6758
-Perak,N.35 Kampong Gajah,Kampong Gajah,1,Ramli Bin Ngah Talib,9855,BN,25,8532
-Perak,N.35 Kampong Gajah,Kampong Gajah,2,Haji Mokhtar Bin Ngah Ibrahim,10958,PAS,3,2260
-Perak,N.36 Sungei Manik,Sungei Manik,1,Mohamed Yusof @ Mohamed B. Madin,10959,BN,25,8369
-Perak,N.36 Sungei Manik,Sungei Manik,2,Rais Bin Hj. Kadri,10960,PAS,3,3743
-Perak,N.37 Pasir Bedamar,Pasir Bedamar,1,Gan Loot Heng,10961,BN,25,6136
-Perak,N.37 Pasir Bedamar,Pasir Bedamar,2,Tan Ah Hee,10962,BEBAS,1,572
-Perak,N.37 Pasir Bedamar,Pasir Bedamar,3,Thee Ah Kow,10963,BEBAS,1,2411
-Perak,N.37 Pasir Bedamar,Pasir Bedamar,4,Mohd. Fadzlan Bin Yahya,919,DAP,18,8871
-Perak,N.38 Changkat Jong,Changkat Jong,1,Ahmad Harnaini Bin Abdul Aziz,10965,BEBAS,1,108
-Perak,N.38 Changkat Jong,Changkat Jong,2,Mohd. Arshad B. Abdullah @ Zainol Abidin B. Abdullah,10966,BN,25,7746
-Perak,N.38 Changkat Jong,Changkat Jong,3,Lim Ah Chuan,10967,DAP,18,2268
-Perak,N.38 Changkat Jong,Changkat Jong,4,Johar B. Ahmad,10968,PAS,3,1055
-Perak,N.39 Bidor,Bidor,1,Song Yong Pheow,10969,BN,25,9647
-Perak,N.39 Bidor,Bidor,2,Kandiah Peter A/L Kandiah,10970,DAP,18,4236
-Perak,N.39 Bidor,Bidor,3,Omar Bin Amin @ Hj. Amin,10971,PAS,3,1068
-Perak,N.40 Slim,Slim,1,Zol Karnaini @ Dzulkarnaian Bin Haji Abdul Rahman,10972,BN,25,9359
-Perak,N.40 Slim,Slim,2,Rajan Naidu S/O Rajan,10973,DAP,18,3494
-Perak,N.41 Rungkup,Rungkup,1,Ahmad Mashud Bin Haji Masduki,10974,PAS,3,4070
-Perak,N.41 Rungkup,Rungkup,2,Mohamed Yaacob Bin Haji Mohamed,8736,BN,25,8867
-Perak,N.42 Hutan Melintang,Hutan Melintang,1,Nahwany @ Radziah Binti Maharudin,10976,BN,25,8354
-Perak,N.42 Hutan Melintang,Hutan Melintang,2,Mohhamad Aris Bin Bakri,1473,PAS,3,3252
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Perak,N.01 Temengor,1,Shamsuddin Bin Din,908,BN,25,0
+Perak,N.02 Kenering,1,Chan Ah Ka @ Chow Pek Chee,10874,DAP,18,2824
+Perak,N.02 Kenering,2,Wan Mohamed Bin Wan Teh,7619,BN,25,6760
+Perak,N.03 Selama,1,Mohamed Wazi Bin Che Ngah,10876,PAS,3,2289
+Perak,N.03 Selama,2,Adbdul Hak @ Abd. Aziz Bin Hj. Ahmad,10877,BN,25,6242
+Perak,N.04 Batu Kurau,1,Abdul Manan Bin Mohd. Ali,9766,BN,25,7279
+Perak,N.04 Batu Kurau,2,Hassan Bin Talib,10879,PAS,3,2814
+Perak,N.05 Simpang Lima,1,Jaafar Bin Ali,6807,PAS,3,5604
+Perak,N.05 Simpang Lima,2,Mohamed Taib Bin Napiah @ Hanafiah,10881,BN,25,7668
+Perak,N.06 Kuala Kurau,1,Shaarani B. Haji Mohamed,1169,BN,25,7051
+Perak,N.06 Kuala Kurau,2,Ooi Peng Yong,10883,BEBAS,1,3002
+Perak,N.06 Kuala Kurau,3,Hashim Bin Haji Walad,10884,PAS,3,5135
+Perak,N.07 Alor Pongsu,1,Sulaiman B. Hj. Zain,10885,PAS,3,4214
+Perak,N.07 Alor Pongsu,2,Mohamed Bin Abad,9776,BN,25,9745
+Perak,N.07 Alor Pongsu,3,Jelani Bin Saman,9778,DAP,18,1234
+Perak,N.08 Gunong Semanggol,1,Samsudin Bin Man,10888,BN,25,6413
+Perak,N.08 Gunong Semanggol,2,Safian Bin Hj. Md. Nor,10889,PAS,3,4462
+Perak,N.09 Lintang,1,Meor Osman Bin Imam Pinawa @ Panjang Hanapiah,10890,BN,25,7721
+Perak,N.09 Lintang,2,Wong Show Sheen,10891,DAP,18,1734
+Perak,N.09 Lintang,3,Mohd. Salleh Bin Hj. Ibrahim,10892,PAS,3,817
+Perak,N.10 Jalong,1,Dato Lin Keng Yaik @ Lim Kheng Heng,10893,BN,25,7789
+Perak,N.10 Jalong,2,Ngoi Thiam Woh,1757,DAP,18,5365
+Perak,N.11 Kamunting,1,Abdul Khalid Mohd. Nasir,10895,BN,25,9248
+Perak,N.11 Kamunting,2,Safari Bin Abdullah,10896,PAS,3,1574
+Perak,N.11 Kamunting,3,Clement Eustace De Brito,10897,DAP,18,3070
+Perak,N.12 Kelian Pauh,1,Siew Kok Yan,10898,BN,25,13632
+Perak,N.12 Kelian Pauh,2,Lim Nyit Sin,8680,DAP,18,11605
+Perak,N.13 Changkat Jering,1,Jaafar Bin Mat Arif,10900,PAS,3,2204
+Perak,N.13 Changkat Jering,2,Yip Wah,10901,DAP,18,3612
+Perak,N.13 Changkat Jering,3,Cheong Kai Fu,8700,BN,25,9415
+Perak,N.14 Bukit Gantang,1,Hassan Bin Haji Yahaya,7424,PAS,3,3543
+Perak,N.14 Bukit Gantang,2,Haji Hashim Bin Haji Ghazali,10904,BN,25,6772
+Perak,N.15 Lenggong,1,Ahmad Helimi B. Hj. Ab. Samad,10905,PAS,3,1491
+Perak,N.15 Lenggong,2,Umar B. Haji Ismail,1177,BN,25,6998
+Perak,N.15 Lenggong,3,Bachan Singh,10907,DAP,18,1209
+Perak,N.16 Lubok Merbau,1,Mior Aris B. Mior Abu Bakar,9801,BN,25,5986
+Perak,N.16 Lubok Merbau,2,Hj. Ab. Samad Bin Haji Noh,443,PAS,3,3618
+Perak,N.17 Bukit Chandan,1,Shaari Bin Mohd. Noor,10910,BN,25,7268
+Perak,N.17 Bukit Chandan,2,Fong Cheng Wee,1166,DAP,18,3435
+Perak,N.17 Bukit Chandan,3,Hashim B. Haji Mad Nor @ Hj. Nor,9806,PAS,3,1659
+Perak,N.18 Manong,1,Zabidin Bin Alang Othman,1178,PAS,3,2243
+Perak,N.18 Manong,2,Shafie Bin Mat Saman,7647,BN,25,4064
+Perak,N.19 Chemor,1,Ahmed Bin Aki,10915,DAP,18,7748
+Perak,N.19 Chemor,2,Jamaluddin B. Mat Jali @ Haji Jamaluddin B. Mat Jali,10916,BEBAS,1,2049
+Perak,N.19 Chemor,3,Chin Kee Seong,6876,BN,25,19413
+Perak,N.19 Chemor,4,Abu Samah Bin Majid,649,PEKEMAS,27,293
+Perak,N.20 Gopeng,1,Loke Yuen Yow,1768,BN,25,12018
+Perak,N.20 Gopeng,2,Kalimuthu A/L Ranggayah,9847,DAP,18,8637
+Perak,N.20 Gopeng,3,Mohamad Nor B. Selah,10921,PAS,3,684
+Perak,N.21 Guntong,1,Jaganathan A/L Narianasamy,1761,BEBAS,1,731
+Perak,N.21 Guntong,2,Chin Yoong Fee,10923,BN,25,16098
+Perak,N.21 Guntong,3,Poon Soo Har,8662,DAP,18,9583
+Perak,N.22 Kepayang,1,Lam Kam Wah,8691,BN,25,13453
+Perak,N.22 Kepayang,2,Lim Cho Hock,643,DAP,18,13614
+Perak,N.22 Kepayang,3,Leong Wai Man,1455,BEBAS,1,753
+Perak,N.23 Pasir Puteh,1,Loke Sui Chun,10928,DAP,18,13352
+Perak,N.23 Pasir Puteh,2,Liew Yoon Sin,10929,BN,25,16268
+Perak,N.24 Kuala Pari,1,Lee Kak Hoi,8701,DAP,18,9519
+Perak,N.24 Kuala Pari,2,Sew Hua Kew @ Wu Lian Hwa,10931,BN,25,12678
+Perak,N.25 Pengkalan Bharu,1,How Choon Aun,10932,DAP,18,1723
+Perak,N.25 Pengkalan Bharu,2,Abd. Malik Bin Ahmad,8683,BN,25,7129
+Perak,N.25 Pengkalan Bharu,3,Ja'Afar Bin Puteh,9826,PAS,3,704
+Perak,N.26 Pantai Remis,1,Heong Heng Keng @ Young Heow Choo,10935,BEBAS,1,1139
+Perak,N.26 Pantai Remis,2,Lai Hai Meng,10936,BN,25,5066
+Perak,N.26 Pantai Remis,3,Ho Teh Hong,10937,BEBAS,1,2091
+Perak,N.26 Pantai Remis,4,Yu Yang Kien,10938,DAP,18,5726
+Perak,N.27 Belanja,1,Datuk Ahmad Azizuddin Zainal Abidin,10939,BN,25,0
+Perak,N.28 Bota,1,Othman Bin Aris,10940,PAS,3,4897
+Perak,N.28 Bota,2,Rokiah Bt. Kayat,10941,BN,25,7943
+Perak,N.29 Tanjong Tualang,1,Tan Tiew Bock,9823,BN,25,10495
+Perak,N.29 Tanjong Tualang,2,Foo Tiew Kok @ Foo Piew Kok,10943,DAP,18,5992
+Perak,N.29 Tanjong Tualang,3,Omm Bin Mohamed,10944,PAS,3,409
+Perak,N.30 Kampar,1,Sum Cheok Leng,9838,DAP,18,7420
+Perak,N.30 Kampar,2,Ang Kok Yeang,10946,BN,25,10645
+Perak,N.31 Tapah,1,Lee Soon Heng @ Lee Chan Fai,10947,BN,25,6852
+Perak,N.31 Tapah,2,Loh Jee Mee,653,DAP,18,4891
+Perak,N.32 Chenderiang,1,Look Kuan,10949,BN,25,7148
+Perak,N.32 Chenderiang,2,Udin Bin Said,10950,DAP,18,2338
+Perak,N.33 Sitiawan,1,Mohd. Rafiei Bin Mohd. Bakri,10951,PAS,3,827
+Perak,N.33 Sitiawan,2,Rajasegaran A/L Samy Nathan,10952,BN,25,9005
+Perak,N.33 Sitiawan,3,Yeak Siew Leong,10953,DAP,18,6009
+Perak,N.34 Pangkor,1,Mohamed Salleh B. Mohd. Gaus,1463,PAS,3,428
+Perak,N.34 Pangkor,2,Tang Ah Lik @ Cherng Chien Chang @ Peter Tang Ah Lik,10955,BN,25,5659
+Perak,N.34 Pangkor,3,Ding Chek Ming @ Ting Chek Ming,1465,DAP,18,6758
+Perak,N.35 Kampong Gajah,1,Ramli Bin Ngah Talib,9855,BN,25,8532
+Perak,N.35 Kampong Gajah,2,Haji Mokhtar Bin Ngah Ibrahim,10958,PAS,3,2260
+Perak,N.36 Sungei Manik,1,Mohamed Yusof @ Mohamed B. Madin,10959,BN,25,8369
+Perak,N.36 Sungei Manik,2,Rais Bin Hj. Kadri,10960,PAS,3,3743
+Perak,N.37 Pasir Bedamar,1,Gan Loot Heng,10961,BN,25,6136
+Perak,N.37 Pasir Bedamar,2,Tan Ah Hee,10962,BEBAS,1,572
+Perak,N.37 Pasir Bedamar,3,Thee Ah Kow,10963,BEBAS,1,2411
+Perak,N.37 Pasir Bedamar,4,Mohd. Fadzlan Bin Yahya,919,DAP,18,8871
+Perak,N.38 Changkat Jong,1,Ahmad Harnaini Bin Abdul Aziz,10965,BEBAS,1,108
+Perak,N.38 Changkat Jong,2,Mohd. Arshad B. Abdullah @ Zainol Abidin B. Abdullah,10966,BN,25,7746
+Perak,N.38 Changkat Jong,3,Lim Ah Chuan,10967,DAP,18,2268
+Perak,N.38 Changkat Jong,4,Johar B. Ahmad,10968,PAS,3,1055
+Perak,N.39 Bidor,1,Song Yong Pheow,10969,BN,25,9647
+Perak,N.39 Bidor,2,Kandiah Peter A/L Kandiah,10970,DAP,18,4236
+Perak,N.39 Bidor,3,Omar Bin Amin @ Hj. Amin,10971,PAS,3,1068
+Perak,N.40 Slim,1,Zol Karnaini @ Dzulkarnaian Bin Haji Abdul Rahman,10972,BN,25,9359
+Perak,N.40 Slim,2,Rajan Naidu S/O Rajan,10973,DAP,18,3494
+Perak,N.41 Rungkup,1,Ahmad Mashud Bin Haji Masduki,10974,PAS,3,4070
+Perak,N.41 Rungkup,2,Mohamed Yaacob Bin Haji Mohamed,8736,BN,25,8867
+Perak,N.42 Hutan Melintang,1,Nahwany @ Radziah Binti Maharudin,10976,BN,25,8354
+Perak,N.42 Hutan Melintang,2,Mohhamad Aris Bin Bakri,1473,PAS,3,3252

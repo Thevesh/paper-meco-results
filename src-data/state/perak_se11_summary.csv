@@ -1,60 +1,60 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Perak,N.01 Pengkalan Hulu,Pengkalan Hulu,11418,8864,199,354
-Perak,N.02 Temengor,Temengor,13228,9839,246,223
-Perak,N.03 Kenering,Kenering,12183,8924,12,121
-Perak,N.04 Kota Tampan,Kota Tampan,10976,7608,9,134
-Perak,N.05 Selama,Selama,13462,10130,28,209
-Perak,N.06 Kubu Gajah,Kubu Gajah,11373,8336,15,174
-Perak,N.07 Batu Kurau,Batu Kurau,15315,11668,39,298
-Perak,N.08 Titi Serong,Titi Serong,23581,18321,22,257
-Perak,N.09 Kuala Kurau,Kuala Kurau,21216,16206,22,343
-Perak,N.10 Alor Pongsu,Alor Pongsu,15567,11238,13,417
-Perak,N.11 Gunong Semanggol,Gunong Semanggol,16045,12021,35,220
-Perak,N.12 Selinsing,Selinsing,16133,11820,12,221
-Perak,N.13 Kuala Sepetang,Kuala Sepetang,18351,13312,24,443
-Perak,N.14 Changkat Jering,Changkat Jering,24143,17497,8,321
-Perak,N.15 Trong,Trong,11386,7833,25,152
-Perak,N.16 Kamunting,Kamunting,20382,14770,419,295
-Perak,N.17 Pokok Assam,Pokok Assam,21500,0,0,0
-Perak,N.18 Aulong,Aulong,23164,15949,524,253
-Perak,N.19 Chenderoh,Chenderoh,12263,8889,21,172
-Perak,N.20 Lubok Merbau,Lubok Merbau,12600,9243,21,143
-Perak,N.21 Lintang,Lintang,21785,14789,38,354
-Perak,N.22 Jalong,Jalong,24998,16794,13,435
-Perak,N.23 Manjoi,Manjoi,36906,26828,5,518
-Perak,N.24 Hulu Kinta,Hulu Kinta,28313,20787,40,800
-Perak,N.25 Canning,Canning,30295,20504,135,415
-Perak,N.26 Tebing Tinggi,Tebing Tinggi,18787,11892,71,222
-Perak,N.27 Pasir Pinji,Pasir Pinji,24251,16923,191,307
-Perak,N.28 Bercham,Bercham,23405,16851,63,289
-Perak,N.29 Kepayang,Kepayang,22087,15039,389,378
-Perak,N.30 Buntong,Buntong,22902,14877,41,290
-Perak,N.31 Jelapang,Jelapang,24039,16921,48,306
-Perak,N.32 Menglembu,Menglembu,25553,18431,31,350
-Perak,N.33 Tronoh,Tronoh,23556,15496,35,378
-Perak,N.34 Bukit Chandan,Bukit Chandan,14452,10289,23,227
-Perak,N.35 Manong,Manong,13939,9893,26,181
-Perak,N.36 Pengkalan Baharu,Pengkalan Baharu,15527,10693,24,367
-Perak,N.37 Pantai Remis,Pantai Remis,26646,17635,29,503
-Perak,N.38 Belanja,Belanja,14824,10909,51,169
-Perak,N.39 Bota,Bota,14092,10623,80,210
-Perak,N.40 Malim Nawar,Malim Nawar,23861,14554,32,426
-Perak,N.41 Keranji,Keranji,20127,12319,38,350
-Perak,N.42 Tualang Sekah,Tualang Sekah,16886,11538,38,351
-Perak,N.43 Sungai Rapat,Sungai Rapat,25762,18502,172,301
-Perak,N.44 Simpang Pulai,Simpang Pulai,24454,17092,29,454
-Perak,N.45 Teja,Teja,18250,11972,34,385
-Perak,N.46 Chenderiang,Chenderiang,18315,11510,103,636
-Perak,N.47 Ayer Kuning,Ayer Kuning,20584,14272,304,409
-Perak,N.48 Sungai Manik,Sungai Manik,20929,15185,53,489
-Perak,N.49 Kampong Gajah,Kampong Gajah,22030,16123,51,385
-Perak,N.50 Sitiawan,Sitiawan,23083,15191,41,539
-Perak,N.51 Pasir Panjang,Pasir Panjang,24587,17980,258,474
-Perak,N.52 Pangkor,Pangkor,20852,16712,5108,458
-Perak,N.53 Rungkup,Rungkup,14147,9564,0,316
-Perak,N.54 Hutan Melintang,Hutan Melintang,20035,13107,21,555
-Perak,N.55 Pasir Bedamar,Pasir Bedamar,29518,18808,51,48
-Perak,N.56 Changkat Jong,Changkat Jong,23545,15912,42,489
-Perak,N.57 Sungkai,Sungkai,17618,11316,45,548
-Perak,N.58 Slim,Slim,16658,12039,34,244
-Perak,N.59 Behrang,Behrang,18467,11919,42,371
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Perak,N.01 Pengkalan Hulu,11418,8864,199,354
+Perak,N.02 Temengor,13228,9839,246,223
+Perak,N.03 Kenering,12183,8924,12,121
+Perak,N.04 Kota Tampan,10976,7608,9,134
+Perak,N.05 Selama,13462,10130,28,209
+Perak,N.06 Kubu Gajah,11373,8336,15,174
+Perak,N.07 Batu Kurau,15315,11668,39,298
+Perak,N.08 Titi Serong,23581,18321,22,257
+Perak,N.09 Kuala Kurau,21216,16206,22,343
+Perak,N.10 Alor Pongsu,15567,11238,13,417
+Perak,N.11 Gunong Semanggol,16045,12021,35,220
+Perak,N.12 Selinsing,16133,11820,12,221
+Perak,N.13 Kuala Sepetang,18351,13312,24,443
+Perak,N.14 Changkat Jering,24143,17497,8,321
+Perak,N.15 Trong,11386,7833,25,152
+Perak,N.16 Kamunting,20382,14770,419,295
+Perak,N.17 Pokok Assam,21500,0,0,0
+Perak,N.18 Aulong,23164,15949,524,253
+Perak,N.19 Chenderoh,12263,8889,21,172
+Perak,N.20 Lubok Merbau,12600,9243,21,143
+Perak,N.21 Lintang,21785,14789,38,354
+Perak,N.22 Jalong,24998,16794,13,435
+Perak,N.23 Manjoi,36906,26828,5,518
+Perak,N.24 Hulu Kinta,28313,20787,40,800
+Perak,N.25 Canning,30295,20504,135,415
+Perak,N.26 Tebing Tinggi,18787,11892,71,222
+Perak,N.27 Pasir Pinji,24251,16923,191,307
+Perak,N.28 Bercham,23405,16851,63,289
+Perak,N.29 Kepayang,22087,15039,389,378
+Perak,N.30 Buntong,22902,14877,41,290
+Perak,N.31 Jelapang,24039,16921,48,306
+Perak,N.32 Menglembu,25553,18431,31,350
+Perak,N.33 Tronoh,23556,15496,35,378
+Perak,N.34 Bukit Chandan,14452,10289,23,227
+Perak,N.35 Manong,13939,9893,26,181
+Perak,N.36 Pengkalan Baharu,15527,10693,24,367
+Perak,N.37 Pantai Remis,26646,17635,29,503
+Perak,N.38 Belanja,14824,10909,51,169
+Perak,N.39 Bota,14092,10623,80,210
+Perak,N.40 Malim Nawar,23861,14554,32,426
+Perak,N.41 Keranji,20127,12319,38,350
+Perak,N.42 Tualang Sekah,16886,11538,38,351
+Perak,N.43 Sungai Rapat,25762,18502,172,301
+Perak,N.44 Simpang Pulai,24454,17092,29,454
+Perak,N.45 Teja,18250,11972,34,385
+Perak,N.46 Chenderiang,18315,11510,103,636
+Perak,N.47 Ayer Kuning,20584,14272,304,409
+Perak,N.48 Sungai Manik,20929,15185,53,489
+Perak,N.49 Kampong Gajah,22030,16123,51,385
+Perak,N.50 Sitiawan,23083,15191,41,539
+Perak,N.51 Pasir Panjang,24587,17980,258,474
+Perak,N.52 Pangkor,20852,16712,5108,458
+Perak,N.53 Rungkup,14147,9564,0,316
+Perak,N.54 Hutan Melintang,20035,13107,21,555
+Perak,N.55 Pasir Bedamar,29518,18808,51,48
+Perak,N.56 Changkat Jong,23545,15912,42,489
+Perak,N.57 Sungkai,17618,11316,45,548
+Perak,N.58 Slim,16658,12039,34,244
+Perak,N.59 Behrang,18467,11919,42,371

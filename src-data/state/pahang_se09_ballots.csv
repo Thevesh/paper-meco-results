@@ -1,84 +1,84 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Pahang,N.01 Cameron Highlands,Cameron Highlands,1,Law Kee Long,12937,BN,25,5408
-Pahang,N.01 Cameron Highlands,Cameron Highlands,2,Apalasamy A/L Jataliah,3043,DAP,18,2909
-Pahang,N.02 Jelai,Jelai,1,Omar Bin Othman,6776,BN,25,3681
-Pahang,N.02 Jelai,Jelai,2,Kasim Bin Yahaya,1203,PAS,3,1548
-Pahang,N.03 Padang Tengku,Padang Tengku,1,Abdul Fattah Bin Abdullah,14058,BN,25,3985
-Pahang,N.03 Padang Tengku,Padang Tengku,2,Mohd Alwi Bin Ab Hamid,14059,PAS,3,2548
-Pahang,N.04 Ceka,Ceka,1,Fong Koong Fuee,14060,BN,25,4243
-Pahang,N.04 Ceka,Ceka,2,Ahmad Bin Haji Pilus,12943,S46,56,2754
-Pahang,N.05 Benta,Benta,1,Suhaimi Bin Ibrahim,14062,BN,25,4124
-Pahang,N.05 Benta,Benta,2,Mohd Jaafar Bin Kamarulzaman,14063,S46,56,1663
-Pahang,N.06 Batu Talam,Batu Talam,1,Syed Ali Bin Syed Mohammad,14064,BN,25,5316
-Pahang,N.06 Batu Talam,Batu Talam,2,Abdullah Suhaimin Bin Sa'At,14065,PAS,3,2085
-Pahang,N.07 Teras,Teras,1,Biaw Nga @ Liaw Per Lon,11761,BN,25,7877
-Pahang,N.07 Teras,Teras,2,Lip Tuck Chee @ Lip Ah Kow,14067,DAP,18,5392
-Pahang,N.07 Teras,Teras,3,Ibrahim Bin Yusof,2400,BEBAS,1,449
-Pahang,N.08 Dong,Dong,1,Shahiruddin Bin Ab Moin,14069,BN,25,7369
-Pahang,N.08 Dong,Dong,2,Md Rusli Bin Ab Jalil,14070,S46,56,1357
-Pahang,N.09 Tahan,Tahan,1,Rahimah Bt Mohammad Kawi,12954,BN,25,3612
-Pahang,N.09 Tahan,Tahan,2,Abd. Malik Bin Yusof,14072,PAS,3,3140
-Pahang,N.10 Damak,Damak,1,Lau Lee,14073,BN,25,6819
-Pahang,N.10 Damak,Damak,2,Haji Abd Rahim Bin Yahya,12955,S46,56,4140
-Pahang,N.11 Pulau Tawar,Pulau Tawar,1,Azizan Bin Yaakob,14075,BN,25,7798
-Pahang,N.11 Pulau Tawar,Pulau Tawar,2,Hashim Bin Awang Sulong,14076,S46,56,3279
-Pahang,N.12 Beserah,Beserah,1,Jamal Abd Nasir Bin Ismail,14077,BN,25,8978
-Pahang,N.12 Beserah,Beserah,2,Raja Puji Tengku Abdul Hamid,1212,PAS,3,5018
-Pahang,N.13 Teruntum,Teruntum,1,Kan Tong Leong,12962,BN,25,9241
-Pahang,N.13 Teruntum,Teruntum,2,Pang Jon Kong,12963,DAP,18,3453
-Pahang,N.13 Teruntum,Teruntum,3,Mohd Yusof Bin Ibrahim,14081,PAS,3,2588
-Pahang,N.14 Indera Mahkota,Indera Mahkota,1,Abdul Aziz Bin Othman,12958,S46,56,4320
-Pahang,N.14 Indera Mahkota,Indera Mahkota,2,Ti Lian Ker,14083,BN,25,10937
-Pahang,N.15 Sungai Lembing,Sungai Lembing,1,Ibrahim Bin Mohd Taib,14084,BN,25,5812
-Pahang,N.15 Sungai Lembing,Sungai Lembing,2,Tunku Iskandar Dzulkarnain Bin Tunku Ismail,23680,S46,56,2701
-Pahang,N.16 Lepar,Lepar,1,Mohd Khalil Bin Yaakob,14086,BN,25,10035
-Pahang,N.16 Lepar,Lepar,2,Abd Razak Bin Hassan,14087,S46,56,2035
-Pahang,N.17 Penur,Penur,1,Zainudin Bin Juma'At,14088,BN,25,9366
-Pahang,N.17 Penur,Penur,2,Bahrin Bin Mohamad,11774,PAS,3,4589
-Pahang,N.18 Kuala Pahang,Kuala Pahang,1,Haji Abdullah Bin Md Derus,14090,BN,25,5328
-Pahang,N.18 Kuala Pahang,Kuala Pahang,2,Abu Kassim Bin Haji Abdul Ghani,14091,PAS,3,3310
-Pahang,N.18 Kuala Pahang,Kuala Pahang,3,Zainalabidin Bin Mat Alias,14092,BEBAS,1,137
-Pahang,N.19 Bebar,Bebar,1,Ishak Bin Muhamad,14093,BN,25,5066
-Pahang,N.19 Bebar,Bebar,2,Ab. Wahab Bin Jaapar,14094,S46,56,2175
-Pahang,N.20 Cini,Chini,1,Wan Mohamad Razali Bin Wan Mahussin,11819,BN,25,5362
-Pahang,N.20 Cini,Chini,2,Alias Bin Sulaiman,13004,S46,56,2171
-Pahang,N.21 Luit,Luit,1,Ayub Bin Teh,11788,BN,25,4606
-Pahang,N.21 Luit,Luit,2,Abu Bakar Bin Othman,14098,S46,56,1306
-Pahang,N.22 Hulu Jempul,Hulu Jempul,1,Nazri Bin Othman,14099,BN,25,5820
-Pahang,N.22 Hulu Jempul,Hulu Jempul,2,Manaf Bin Othman,11790,PAS,3,1536
-Pahang,N.22 Hulu Jempul,Hulu Jempul,3,Tengku Iskandar Bin Tengku Ismail,14101,S46,56,603
-Pahang,N.23 Jengka,Jengka,1,Zainal Bin Hassan,10700,BN,25,6611
-Pahang,N.23 Jengka,Jengka,2,Syed Ibrahim Bin Syed Abd. Rahman,1477,PAS,3,3281
-Pahang,N.24 Cenur,Cenur,1,Tan Mohd. Aminuddin Bin Ishak,12978,BN,25,5093
-Pahang,N.24 Cenur,Cenur,2,Mohd Baki Bin Othman,14105,PAS,3,2104
-Pahang,N.25 Jenderak,Jenderak,1,Mohamed Bin Jaafar,14106,BN,25,6186
-Pahang,N.25 Jenderak,Jenderak,2,Ahmad Mukti Bin Ismail,14107,PAS,3,2158
-Pahang,N.26 Sanggang,Sanggang,1,Abdullah Bin Kia,10676,BN,25,6602
-Pahang,N.26 Sanggang,Sanggang,2,Abdul Rahim Bin Abd. Latiff,14109,PAS,3,2153
-Pahang,N.26 Sanggang,Sanggang,3,Abu Bakar Bin Lebai Sudin,3405,DAP,18,1744
-Pahang,N.27 Lancang,Lancang,1,Bahari Bin Yahaya,14111,BN,25,8095
-Pahang,N.27 Lancang,Lancang,2,Saari Bin Abd. Manap,14112,S46,56,2467
-Pahang,N.28 Bilut,Bilut,1,Hoh Khai Mun,3755,BN,25,6979
-Pahang,N.28 Bilut,Bilut,2,Leong Chee Meng,2410,DAP,18,3052
-Pahang,N.29 Ketari,Ketari,1,Loke Koon Kam @ Loke Ah Kow,14115,BN,25,6627
-Pahang,N.29 Ketari,Ketari,2,Choong Siew Onn,3046,DAP,18,3727
-Pahang,N.29 Ketari,Ketari,3,Mohd Shah Bin Ijah,14117,BEBAS,1,738
-Pahang,N.30 Sabai,Sabai,1,Gopal @ Sinnathamby A/L Ramasamy,14118,BN,25,3377
-Pahang,N.30 Sabai,Sabai,2,Soon San Choong,14119,DAP,18,2022
-Pahang,N.30 Sabai,Sabai,3,Mohamed Basri Bin Mahidin,1487,BEBAS,1,571
-Pahang,N.31 Pelangi,Pelangi,1,Adnan Bin Yaakob,11809,BN,25,5484
-Pahang,N.31 Pelangi,Pelangi,2,Mohamed Bin Buyong,14122,S46,56,1142
-Pahang,N.32 Semantan,Semantan,1,Mohd Sarit Bin Hj. Yusoh,12994,BN,25,7203
-Pahang,N.32 Semantan,Semantan,2,Abdul Aziz Bin Haji Yaakob,11816,PAS,3,4484
-Pahang,N.33 Teriang,Teriang,1,Leong Ngah Ngah,11813,DAP,18,5066
-Pahang,N.33 Teriang,Teriang,2,Lai Kong Gan,14126,BN,25,4041
-Pahang,N.34 Guai,Guai,1,Mohd Hayani Bin Abd Rahman,14127,BN,25,5671
-Pahang,N.34 Guai,Guai,2,Idris Bin Ngah @ Singah,14128,PAS,3,2223
-Pahang,N.35 Bera,Bera,1,Abdul Malik Bin Ismail,14129,BN,25,5886
-Pahang,N.35 Bera,Bera,2,Mokhtar Bin Mohd,14130,S46,56,2089
-Pahang,N.36 Bukit Ibam,Bukit Ibam,1,Hasan Bin Arifin,4157,BN,25,6762
-Pahang,N.36 Bukit Ibam,Bukit Ibam,2,Ismail Bin Mat Tahar,14132,PAS,3,2488
-Pahang,N.37 Muadzam Shah,Muadzam Shah,1,Maznah Bt Mazlan,14133,BN,25,6397
-Pahang,N.37 Muadzam Shah,Muadzam Shah,2,Abdul Rahim Bin Sulaiman,1436,S46,56,1502
-Pahang,N.38 Tioman,Tioman,1,Mustafar Bin Abu Bakar,14135,BN,25,5524
-Pahang,N.38 Tioman,Tioman,2,Muhamad Zahar Bin Osman,14136,PAS,3,1911
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Pahang,N.01 Cameron Highlands,1,Law Kee Long,12937,BN,25,5408
+Pahang,N.01 Cameron Highlands,2,Apalasamy A/L Jataliah,3043,DAP,18,2909
+Pahang,N.02 Jelai,1,Omar Bin Othman,6776,BN,25,3681
+Pahang,N.02 Jelai,2,Kasim Bin Yahaya,1203,PAS,3,1548
+Pahang,N.03 Padang Tengku,1,Abdul Fattah Bin Abdullah,14058,BN,25,3985
+Pahang,N.03 Padang Tengku,2,Mohd Alwi Bin Ab Hamid,14059,PAS,3,2548
+Pahang,N.04 Ceka,1,Fong Koong Fuee,14060,BN,25,4243
+Pahang,N.04 Ceka,2,Ahmad Bin Haji Pilus,12943,S46,56,2754
+Pahang,N.05 Benta,1,Suhaimi Bin Ibrahim,14062,BN,25,4124
+Pahang,N.05 Benta,2,Mohd Jaafar Bin Kamarulzaman,14063,S46,56,1663
+Pahang,N.06 Batu Talam,1,Syed Ali Bin Syed Mohammad,14064,BN,25,5316
+Pahang,N.06 Batu Talam,2,Abdullah Suhaimin Bin Sa'At,14065,PAS,3,2085
+Pahang,N.07 Teras,1,Biaw Nga @ Liaw Per Lon,11761,BN,25,7877
+Pahang,N.07 Teras,2,Lip Tuck Chee @ Lip Ah Kow,14067,DAP,18,5392
+Pahang,N.07 Teras,3,Ibrahim Bin Yusof,2400,BEBAS,1,449
+Pahang,N.08 Dong,1,Shahiruddin Bin Ab Moin,14069,BN,25,7369
+Pahang,N.08 Dong,2,Md Rusli Bin Ab Jalil,14070,S46,56,1357
+Pahang,N.09 Tahan,1,Rahimah Bt Mohammad Kawi,12954,BN,25,3612
+Pahang,N.09 Tahan,2,Abd. Malik Bin Yusof,14072,PAS,3,3140
+Pahang,N.10 Damak,1,Lau Lee,14073,BN,25,6819
+Pahang,N.10 Damak,2,Haji Abd Rahim Bin Yahya,12955,S46,56,4140
+Pahang,N.11 Pulau Tawar,1,Azizan Bin Yaakob,14075,BN,25,7798
+Pahang,N.11 Pulau Tawar,2,Hashim Bin Awang Sulong,14076,S46,56,3279
+Pahang,N.12 Beserah,1,Jamal Abd Nasir Bin Ismail,14077,BN,25,8978
+Pahang,N.12 Beserah,2,Raja Puji Tengku Abdul Hamid,1212,PAS,3,5018
+Pahang,N.13 Teruntum,1,Kan Tong Leong,12962,BN,25,9241
+Pahang,N.13 Teruntum,2,Pang Jon Kong,12963,DAP,18,3453
+Pahang,N.13 Teruntum,3,Mohd Yusof Bin Ibrahim,14081,PAS,3,2588
+Pahang,N.14 Indera Mahkota,1,Abdul Aziz Bin Othman,12958,S46,56,4320
+Pahang,N.14 Indera Mahkota,2,Ti Lian Ker,14083,BN,25,10937
+Pahang,N.15 Sungai Lembing,1,Ibrahim Bin Mohd Taib,14084,BN,25,5812
+Pahang,N.15 Sungai Lembing,2,Tunku Iskandar Dzulkarnain Bin Tunku Ismail,23680,S46,56,2701
+Pahang,N.16 Lepar,1,Mohd Khalil Bin Yaakob,14086,BN,25,10035
+Pahang,N.16 Lepar,2,Abd Razak Bin Hassan,14087,S46,56,2035
+Pahang,N.17 Penur,1,Zainudin Bin Juma'At,14088,BN,25,9366
+Pahang,N.17 Penur,2,Bahrin Bin Mohamad,11774,PAS,3,4589
+Pahang,N.18 Kuala Pahang,1,Haji Abdullah Bin Md Derus,14090,BN,25,5328
+Pahang,N.18 Kuala Pahang,2,Abu Kassim Bin Haji Abdul Ghani,14091,PAS,3,3310
+Pahang,N.18 Kuala Pahang,3,Zainalabidin Bin Mat Alias,14092,BEBAS,1,137
+Pahang,N.19 Bebar,1,Ishak Bin Muhamad,14093,BN,25,5066
+Pahang,N.19 Bebar,2,Ab. Wahab Bin Jaapar,14094,S46,56,2175
+Pahang,N.20 Cini,1,Wan Mohamad Razali Bin Wan Mahussin,11819,BN,25,5362
+Pahang,N.20 Cini,2,Alias Bin Sulaiman,13004,S46,56,2171
+Pahang,N.21 Luit,1,Ayub Bin Teh,11788,BN,25,4606
+Pahang,N.21 Luit,2,Abu Bakar Bin Othman,14098,S46,56,1306
+Pahang,N.22 Hulu Jempul,1,Nazri Bin Othman,14099,BN,25,5820
+Pahang,N.22 Hulu Jempul,2,Manaf Bin Othman,11790,PAS,3,1536
+Pahang,N.22 Hulu Jempul,3,Tengku Iskandar Bin Tengku Ismail,14101,S46,56,603
+Pahang,N.23 Jengka,1,Zainal Bin Hassan,10700,BN,25,6611
+Pahang,N.23 Jengka,2,Syed Ibrahim Bin Syed Abd. Rahman,1477,PAS,3,3281
+Pahang,N.24 Cenur,1,Tan Mohd. Aminuddin Bin Ishak,12978,BN,25,5093
+Pahang,N.24 Cenur,2,Mohd Baki Bin Othman,14105,PAS,3,2104
+Pahang,N.25 Jenderak,1,Mohamed Bin Jaafar,14106,BN,25,6186
+Pahang,N.25 Jenderak,2,Ahmad Mukti Bin Ismail,14107,PAS,3,2158
+Pahang,N.26 Sanggang,1,Abdullah Bin Kia,10676,BN,25,6602
+Pahang,N.26 Sanggang,2,Abdul Rahim Bin Abd. Latiff,14109,PAS,3,2153
+Pahang,N.26 Sanggang,3,Abu Bakar Bin Lebai Sudin,3405,DAP,18,1744
+Pahang,N.27 Lancang,1,Bahari Bin Yahaya,14111,BN,25,8095
+Pahang,N.27 Lancang,2,Saari Bin Abd. Manap,14112,S46,56,2467
+Pahang,N.28 Bilut,1,Hoh Khai Mun,3755,BN,25,6979
+Pahang,N.28 Bilut,2,Leong Chee Meng,2410,DAP,18,3052
+Pahang,N.29 Ketari,1,Loke Koon Kam @ Loke Ah Kow,14115,BN,25,6627
+Pahang,N.29 Ketari,2,Choong Siew Onn,3046,DAP,18,3727
+Pahang,N.29 Ketari,3,Mohd Shah Bin Ijah,14117,BEBAS,1,738
+Pahang,N.30 Sabai,1,Gopal @ Sinnathamby A/L Ramasamy,14118,BN,25,3377
+Pahang,N.30 Sabai,2,Soon San Choong,14119,DAP,18,2022
+Pahang,N.30 Sabai,3,Mohamed Basri Bin Mahidin,1487,BEBAS,1,571
+Pahang,N.31 Pelangi,1,Adnan Bin Yaakob,11809,BN,25,5484
+Pahang,N.31 Pelangi,2,Mohamed Bin Buyong,14122,S46,56,1142
+Pahang,N.32 Semantan,1,Mohd Sarit Bin Hj. Yusoh,12994,BN,25,7203
+Pahang,N.32 Semantan,2,Abdul Aziz Bin Haji Yaakob,11816,PAS,3,4484
+Pahang,N.33 Teriang,1,Leong Ngah Ngah,11813,DAP,18,5066
+Pahang,N.33 Teriang,2,Lai Kong Gan,14126,BN,25,4041
+Pahang,N.34 Guai,1,Mohd Hayani Bin Abd Rahman,14127,BN,25,5671
+Pahang,N.34 Guai,2,Idris Bin Ngah @ Singah,14128,PAS,3,2223
+Pahang,N.35 Bera,1,Abdul Malik Bin Ismail,14129,BN,25,5886
+Pahang,N.35 Bera,2,Mokhtar Bin Mohd,14130,S46,56,2089
+Pahang,N.36 Bukit Ibam,1,Hasan Bin Arifin,4157,BN,25,6762
+Pahang,N.36 Bukit Ibam,2,Ismail Bin Mat Tahar,14132,PAS,3,2488
+Pahang,N.37 Muadzam Shah,1,Maznah Bt Mazlan,14133,BN,25,6397
+Pahang,N.37 Muadzam Shah,2,Abdul Rahim Bin Sulaiman,1436,S46,56,1502
+Pahang,N.38 Tioman,1,Mustafar Bin Abu Bakar,14135,BN,25,5524
+Pahang,N.38 Tioman,2,Muhamad Zahar Bin Osman,14136,PAS,3,1911

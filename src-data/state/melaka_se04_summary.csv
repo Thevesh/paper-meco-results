@@ -1,21 +1,21 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Melaka,N.01 Taboh Naning,Taboh Naning,8346,5991,0,317
-Melaka,N.02 Sungai Bahru,Sungai Bahru,0,0,0,0
-Melaka,N.03 Machap,Machap,5785,4747,0,262
-Melaka,N.04 Kelemak,Kelemak,6489,5077,0,346
-Melaka,N.05 Masjid Tanah,Masjid Tanah,7568,5519,0,242
-Melaka,N.06 Batang Melaka,Batang Melaka,7099,5515,0,292
-Melaka,N.07 Nyalas,Nyalas,6278,5034,0,316
-Melaka,N.08 Ayer Panas,Ayer Panas,7276,5596,0,298
-Melaka,N.09 Serkam,Serkam,6785,5207,0,284
-Melaka,N.10 Sungei Rambai,Sungei Rambai,6289,4917,0,300
-Melaka,N.11 Tanjong Minyak,Tanjong Minyak,9137,7265,0,455
-Melaka,N.12 Ayer Keroh,Ayer Keroh,7509,6127,0,295
-Melaka,N.13 Ayer Molek,Ayer Molek,6896,5526,0,375
-Melaka,N.14 Sungai Udang,Sungai Udang,7144,5379,0,331
-Melaka,N.15 Bukit Rambai,Bukit Rambai,7228,5370,0,294
-Melaka,N.16 Pringgit,Pringgit,9181,7054,0,277
-Melaka,N.17 Tranquerah,Tranquerah,8761,6896,0,182
-Melaka,N.18 Kubu,Kubu,9726,7961,0,204
-Melaka,N.19 Durian Daun,Durian Daun,8751,6720,0,110
-Melaka,N.20 Bandar Hilir,Bandar Hilir,7951,6034,0,131
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Melaka,N.01 Taboh Naning,8346,5991,0,317
+Melaka,N.02 Sungai Bahru,0,0,0,0
+Melaka,N.03 Machap,5785,4747,0,262
+Melaka,N.04 Kelemak,6489,5077,0,346
+Melaka,N.05 Masjid Tanah,7568,5519,0,242
+Melaka,N.06 Batang Melaka,7099,5515,0,292
+Melaka,N.07 Nyalas,6278,5034,0,316
+Melaka,N.08 Ayer Panas,7276,5596,0,298
+Melaka,N.09 Serkam,6785,5207,0,284
+Melaka,N.10 Sungei Rambai,6289,4917,0,300
+Melaka,N.11 Tanjong Minyak,9137,7265,0,455
+Melaka,N.12 Ayer Keroh,7509,6127,0,295
+Melaka,N.13 Ayer Molek,6896,5526,0,375
+Melaka,N.14 Sungai Udang,7144,5379,0,331
+Melaka,N.15 Bukit Rambai,7228,5370,0,294
+Melaka,N.16 Pringgit,9181,7054,0,277
+Melaka,N.17 Tranquerah,8761,6896,0,182
+Melaka,N.18 Kubu,9726,7961,0,204
+Melaka,N.19 Durian Daun,8751,6720,0,110
+Melaka,N.20 Bandar Hilir,7951,6034,0,131

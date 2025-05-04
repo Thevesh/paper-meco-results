@@ -1,46 +1,46 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Kelantan,N.01 Pengkalan Kubor,Pengkalan Kubor,27395,20796,147,361
-Kelantan,N.02 Kelaboran,Kelaboran,28498,22432,198,349
-Kelantan,N.03 Pasir Pekan,Pasir Pekan,28075,22875,244,247
-Kelantan,N.04 Wakaf Bharu,Wakaf Bharu,26956,22632,149,297
-Kelantan,N.05 Kijang,Kijang,22173,17536,207,222
-Kelantan,N.06 Chempaka,Chempaka,24702,20493,219,232
-Kelantan,N.07 Panchor,Panchor,28509,22830,306,224
-Kelantan,N.08 Tanjong Mas,Tanjong Mas,32114,24795,356,201
-Kelantan,N.09 Kota Lama,Kota Lama,28157,21367,140,267
-Kelantan,N.10 Bunut Payong,Bunut Payong,28437,22271,256,214
-Kelantan,N.11 Tendong,Tendong,23906,19159,182,487
-Kelantan,N.12 Pengkalan Pasir,Pengkalan Pasir,25817,19680,216,380
-Kelantan,N.13 Meranti,Meranti,21499,16482,145,318
-Kelantan,N.14 Chetok,Chetok,22149,17129,182,249
-Kelantan,N.15 Gual Periok,Gual Periok,24046,17155,119,325
-Kelantan,N.16 Apam Putra,Apam Putra,19920,15364,148,214
-Kelantan,N.17 Salor,Salor,27164,21836,258,215
-Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,26257,20709,210,221
-Kelantan,N.19 Demit,Demit,28597,22316,251,290
-Kelantan,N.20 Tawang,Tawang,31434,26139,290,450
-Kelantan,N.21 Pantai Irama,Pantai Irama,30719,25293,290,383
-Kelantan,N.22 Jelawat,Jelawat,30453,24517,242,419
-Kelantan,N.23 Melor,Melor,21240,17586,136,335
-Kelantan,N.24 Kadok,Kadok,16583,13787,150,205
-Kelantan,N.25 Kok Lanas,Kok Lanas,27415,23029,212,318
-Kelantan,N.26 Bukit Panau,Bukit Panau,35135,28416,245,487
-Kelantan,N.27 Gual Ipoh,Gual Ipoh,20048,16494,112,280
-Kelantan,N.28 Kemahang,Kemahang,17989,14682,140,206
-Kelantan,N.29 Selising,Selising,21348,17408,159,281
-Kelantan,N.30 Limbongan,Limbongan,25629,20350,223,218
-Kelantan,N.31 Semerak,Semerak,20690,17283,149,260
-Kelantan,N.32 Gaal,Gaal,17744,14706,143,177
-Kelantan,N.33 Pulai Chondong,Pulai Chondong,21644,17888,173,226
-Kelantan,N.34 Temangan,Temangan,20354,16831,144,248
-Kelantan,N.35 Kemuning,Kemuning,26389,21611,230,315
-Kelantan,N.36 Bukit Bunga,Bukit Bunga,17352,14044,186,144
-Kelantan,N.37 Air Lanas,Air Lanas,17711,15030,122,173
-Kelantan,N.38 Kuala Balah,Kuala Balah,12407,10550,114,130
-Kelantan,N.39 Mengkebang,Mengkebang,20218,16357,49,240
-Kelantan,N.40 Guchil,Guchil,20560,15524,0,190
-Kelantan,N.41 Manek Urai,Manek Urai,17722,14554,112,267
-Kelantan,N.42 Dabong,Dabong,11848,9633,49,190
-Kelantan,N.43 Nenggiri,Nenggiri,15010,11750,121,290
-Kelantan,N.44 Paloh,Paloh,17115,13262,118,218
-Kelantan,N.45 Galas,Galas,20399,16195,81,317
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Kelantan,N.01 Pengkalan Kubor,27395,20796,147,361
+Kelantan,N.02 Kelaboran,28498,22432,198,349
+Kelantan,N.03 Pasir Pekan,28075,22875,244,247
+Kelantan,N.04 Wakaf Bharu,26956,22632,149,297
+Kelantan,N.05 Kijang,22173,17536,207,222
+Kelantan,N.06 Chempaka,24702,20493,219,232
+Kelantan,N.07 Panchor,28509,22830,306,224
+Kelantan,N.08 Tanjong Mas,32114,24795,356,201
+Kelantan,N.09 Kota Lama,28157,21367,140,267
+Kelantan,N.10 Bunut Payong,28437,22271,256,214
+Kelantan,N.11 Tendong,23906,19159,182,487
+Kelantan,N.12 Pengkalan Pasir,25817,19680,216,380
+Kelantan,N.13 Meranti,21499,16482,145,318
+Kelantan,N.14 Chetok,22149,17129,182,249
+Kelantan,N.15 Gual Periok,24046,17155,119,325
+Kelantan,N.16 Apam Putra,19920,15364,148,214
+Kelantan,N.17 Salor,27164,21836,258,215
+Kelantan,N.18 Pasir Tumboh,26257,20709,210,221
+Kelantan,N.19 Demit,28597,22316,251,290
+Kelantan,N.20 Tawang,31434,26139,290,450
+Kelantan,N.21 Pantai Irama,30719,25293,290,383
+Kelantan,N.22 Jelawat,30453,24517,242,419
+Kelantan,N.23 Melor,21240,17586,136,335
+Kelantan,N.24 Kadok,16583,13787,150,205
+Kelantan,N.25 Kok Lanas,27415,23029,212,318
+Kelantan,N.26 Bukit Panau,35135,28416,245,487
+Kelantan,N.27 Gual Ipoh,20048,16494,112,280
+Kelantan,N.28 Kemahang,17989,14682,140,206
+Kelantan,N.29 Selising,21348,17408,159,281
+Kelantan,N.30 Limbongan,25629,20350,223,218
+Kelantan,N.31 Semerak,20690,17283,149,260
+Kelantan,N.32 Gaal,17744,14706,143,177
+Kelantan,N.33 Pulai Chondong,21644,17888,173,226
+Kelantan,N.34 Temangan,20354,16831,144,248
+Kelantan,N.35 Kemuning,26389,21611,230,315
+Kelantan,N.36 Bukit Bunga,17352,14044,186,144
+Kelantan,N.37 Air Lanas,17711,15030,122,173
+Kelantan,N.38 Kuala Balah,12407,10550,114,130
+Kelantan,N.39 Mengkebang,20218,16357,49,240
+Kelantan,N.40 Guchil,20560,15524,0,190
+Kelantan,N.41 Manek Urai,17722,14554,112,267
+Kelantan,N.42 Dabong,11848,9633,49,190
+Kelantan,N.43 Nenggiri,15010,11750,121,290
+Kelantan,N.44 Paloh,17115,13262,118,218
+Kelantan,N.45 Galas,20399,16195,81,317

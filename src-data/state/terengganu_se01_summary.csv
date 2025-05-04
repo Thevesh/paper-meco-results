@@ -1,25 +1,25 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Terengganu,N.01 Kuala Besut,Kuala Besut,4835,3390,0,87
-Terengganu,N.02 Kampong Raja,Kampong Raja,3782,2517,0,86
-Terengganu,N.03 Ulu Besut,Ulu Besut,4200,2954,0,116
-Terengganu,N.04 Busut Tengah,Busut Tengah,4251,2818,0,101
-Terengganu,N.05 Setiu,Setiu,4331,3146,0,115
-Terengganu,N.06 Batu Rakit,Batu Rakit,5763,4240,0,151
-Terengganu,N.07 Kuala Nerus,Kuala Nerus,4921,3745,0,136
-Terengganu,N.08 Jeram,Jeram,4853,3649,0,161
-Terengganu,N.09 Langkap,Langkap,4457,3056,0,217
-Terengganu,N.10 Batu Burok,Batu Burok,4726,2954,0,103
-Terengganu,N.11 Kuala Trengganu Tengah,Kuala Trengganu Tengah,5161,3516,0,154
-Terengganu,N.12 Binjai,Binjai,5484,4213,0,164
-Terengganu,N.13 Bandar,Bandar,4547,3052,0,45
-Terengganu,N.14 Ladang,Ladang,5181,3430,0,56
-Terengganu,N.15 Bukit Besar,Bukit Besar,4793,3019,0,91
-Terengganu,N.16 Ulu Trengganu Timor,Ulu Trengganu Timor,4802,3930,0,162
-Terengganu,N.17 Ulu Trengganu Barat,Ulu Trengganu Barat,5317,3986,0,302
-Terengganu,N.18 Marang,Marang,6074,4603,0,159
-Terengganu,N.19 Sura,Sura,5137,3445,0,57
-Terengganu,N.20 Ulu Dungun,Ulu Dungun,4546,3235,0,89
-Terengganu,N.21 Paka Kerteh,Paka Kerteh,4555,3404,0,178
-Terengganu,N.22 Kemaman Utara,Kemaman Utara,3782,2770,0,80
-Terengganu,N.23 Chukai,Chukai,3939,2782,0,59
-Terengganu,N.24 Kemaman Selatan,Kemaman Selatan,5439,4105,0,115
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Terengganu,N.01 Kuala Besut,4835,3390,0,87
+Terengganu,N.02 Kampong Raja,3782,2517,0,86
+Terengganu,N.03 Ulu Besut,4200,2954,0,116
+Terengganu,N.04 Busut Tengah,4251,2818,0,101
+Terengganu,N.05 Setiu,4331,3146,0,115
+Terengganu,N.06 Batu Rakit,5763,4240,0,151
+Terengganu,N.07 Kuala Nerus,4921,3745,0,136
+Terengganu,N.08 Jeram,4853,3649,0,161
+Terengganu,N.09 Langkap,4457,3056,0,217
+Terengganu,N.10 Batu Burok,4726,2954,0,103
+Terengganu,N.11 Kuala Trengganu Tengah,5161,3516,0,154
+Terengganu,N.12 Binjai,5484,4213,0,164
+Terengganu,N.13 Bandar,4547,3052,0,45
+Terengganu,N.14 Ladang,5181,3430,0,56
+Terengganu,N.15 Bukit Besar,4793,3019,0,91
+Terengganu,N.16 Ulu Trengganu Timor,4802,3930,0,162
+Terengganu,N.17 Ulu Trengganu Barat,5317,3986,0,302
+Terengganu,N.18 Marang,6074,4603,0,159
+Terengganu,N.19 Sura,5137,3445,0,57
+Terengganu,N.20 Ulu Dungun,4546,3235,0,89
+Terengganu,N.21 Paka Kerteh,4555,3404,0,178
+Terengganu,N.22 Kemaman Utara,3782,2770,0,80
+Terengganu,N.23 Chukai,3939,2782,0,59
+Terengganu,N.24 Kemaman Selatan,5439,4105,0,115

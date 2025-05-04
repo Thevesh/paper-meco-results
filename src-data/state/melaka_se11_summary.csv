@@ -1,29 +1,29 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Melaka,N.01 Kuala Linggi,Kuala Linggi,8561,6830,3,127
-Melaka,N.02 Tanjung Bidara,Tanjung Bidara,7096,5792,9,90
-Melaka,N.03 Ayer Limau,Ayer Limau,8300,6521,8,119
-Melaka,N.04 Lendu,Lendu,7677,6019,57,129
-Melaka,N.05 Taboh Naning,Taboh Naning,7371,5648,9,106
-Melaka,N.06 Rembia,Rembia,10215,8047,36,255
-Melaka,N.07 Gadek,Gadek,10795,7765,10,227
-Melaka,N.08 Machap,Machap,9889,7350,16,202
-Melaka,N.09 Durian Tunggal,Durian Tunggal,8023,6540,19,189
-Melaka,N.10 Asahan,Asahan,12666,9607,24,236
-Melaka,N.11 Sungai Udang,Sungai Udang,13268,11390,634,122
-Melaka,N.12 Pantai Kundor,Pantai Kundor,11292,8921,6,135
-Melaka,N.13 Paya Rumput,Paya Rumput,13335,10804,8,192
-Melaka,N.14 Kelebang,Kelebang,15396,11982,23,760
-Melaka,N.15 Bachang,Bachang,20702,16365,28,539
-Melaka,N.16 Ayer Keroh,Ayer Keroh,20779,16649,62,476
-Melaka,N.17 Bukit Baru,Bukit Baru,13509,10768,37,207
-Melaka,N.18 Ayer Molek,Ayer Molek,11044,9397,19,181
-Melaka,N.19 Kesidang,Kesidang,15502,12239,8,240
-Melaka,N.20 Kota Laksamana,Kota Laksamana,18957,14471,10,215
-Melaka,N.21 Duyong,Duyong,14824,11405,15,250
-Melaka,N.22 Bandar Hilir,Bandar Hilir,19392,14622,180,252
-Melaka,N.23 Telok Mas,Telok Mas,14106,11548,5,249
-Melaka,N.24 Bemban,Bemban,12556,9819,68,429
-Melaka,N.25 Rim,Rim,9285,7032,5,167
-Melaka,N.26 Serkam,Serkam,12600,10523,6,176
-Melaka,N.27 Merlimau,Merlimau,10026,7824,15,232
-Melaka,N.28 Sungai Rambai,Sungai Rambai,8751,7207,2,181
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Melaka,N.01 Kuala Linggi,8561,6830,3,127
+Melaka,N.02 Tanjung Bidara,7096,5792,9,90
+Melaka,N.03 Ayer Limau,8300,6521,8,119
+Melaka,N.04 Lendu,7677,6019,57,129
+Melaka,N.05 Taboh Naning,7371,5648,9,106
+Melaka,N.06 Rembia,10215,8047,36,255
+Melaka,N.07 Gadek,10795,7765,10,227
+Melaka,N.08 Machap,9889,7350,16,202
+Melaka,N.09 Durian Tunggal,8023,6540,19,189
+Melaka,N.10 Asahan,12666,9607,24,236
+Melaka,N.11 Sungai Udang,13268,11390,634,122
+Melaka,N.12 Pantai Kundor,11292,8921,6,135
+Melaka,N.13 Paya Rumput,13335,10804,8,192
+Melaka,N.14 Kelebang,15396,11982,23,760
+Melaka,N.15 Bachang,20702,16365,28,539
+Melaka,N.16 Ayer Keroh,20779,16649,62,476
+Melaka,N.17 Bukit Baru,13509,10768,37,207
+Melaka,N.18 Ayer Molek,11044,9397,19,181
+Melaka,N.19 Kesidang,15502,12239,8,240
+Melaka,N.20 Kota Laksamana,18957,14471,10,215
+Melaka,N.21 Duyong,14824,11405,15,250
+Melaka,N.22 Bandar Hilir,19392,14622,180,252
+Melaka,N.23 Telok Mas,14106,11548,5,249
+Melaka,N.24 Bemban,12556,9819,68,429
+Melaka,N.25 Rim,9285,7032,5,167
+Melaka,N.26 Serkam,12600,10523,6,176
+Melaka,N.27 Merlimau,10026,7824,15,232
+Melaka,N.28 Sungai Rambai,8751,7207,2,181

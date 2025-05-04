@@ -1,27 +1,27 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Kedah,N.01 Langkawi,Langkawi,14423,11872,0,253
-Kedah,N.02 Jerlun,Jerlun,24535,18606,0,243
-Kedah,N.03 Tunjang,Tunjang,22019,17504,0,370
-Kedah,N.04 Jitra,Jitra,21564,16480,0,367
-Kedah,N.05 Kuala Nerang,Kuala Nerang,18926,15614,0,361
-Kedah,N.06 Pokok Sena,Pokok Sena,19905,16363,0,340
-Kedah,N.07 Anak Bukit,Anak Bukit,21496,16652,0,261
-Kedah,N.08 Pengkalan Kundor,Pengkalan Kundor,24627,17762,0,251
-Kedah,N.09 Alor Merah,Alor Merah,23401,17152,0,251
-Kedah,N.10 Bandar Alor Setar,Bandar Alor Setar,35055,24490,0,376
-Kedah,N.11 Langgar-Limbong,Langgar–Limbong,17587,13943,0,203
-Kedah,N.12 Bukit Raya,Bukit Raya,19486,16158,0,171
-Kedah,N.13 Sik,Sik,13885,11525,0,273
-Kedah,N.14 Pendang,Pendang,20318,16273,0,320
-Kedah,N.15 Bayu,Bayu,19099,14927,0,330
-Kedah,N.16 Kupang,Kupang,22527,17480,0,338
-Kedah,N.17 Sala,Sala,16600,12878,0,214
-Kedah,N.18 Yan,Yan,20357,13695,0,421
-Kedah,N.19 Jeniang,Jeniang,19215,14620,0,365
-Kedah,N.20 Merbok,Merbok,20595,15990,0,290
-Kedah,N.21 Tikam Batu,Tikam Batu,40938,30421,0,570
-Kedah,N.22 Kuala Ketil,Kuala Ketil,15695,11890,0,217
-Kedah,N.23 Lunas,Lunas,21513,16728,0,423
-Kedah,N.24 Merbau Pulas,Merbau Pulas,12299,9354,0,219
-Kedah,N.25 Kulim,Kulim,19543,14446,0,284
-Kedah,N.26 Serdang,Serdang,16856,12938,0,352
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Kedah,N.01 Langkawi,14423,11872,0,253
+Kedah,N.02 Jerlun,24535,18606,0,243
+Kedah,N.03 Tunjang,22019,17504,0,370
+Kedah,N.04 Jitra,21564,16480,0,367
+Kedah,N.05 Kuala Nerang,18926,15614,0,361
+Kedah,N.06 Pokok Sena,19905,16363,0,340
+Kedah,N.07 Anak Bukit,21496,16652,0,261
+Kedah,N.08 Pengkalan Kundor,24627,17762,0,251
+Kedah,N.09 Alor Merah,23401,17152,0,251
+Kedah,N.10 Bandar Alor Setar,35055,24490,0,376
+Kedah,N.11 Langgar-Limbong,17587,13943,0,203
+Kedah,N.12 Bukit Raya,19486,16158,0,171
+Kedah,N.13 Sik,13885,11525,0,273
+Kedah,N.14 Pendang,20318,16273,0,320
+Kedah,N.15 Bayu,19099,14927,0,330
+Kedah,N.16 Kupang,22527,17480,0,338
+Kedah,N.17 Sala,16600,12878,0,214
+Kedah,N.18 Yan,20357,13695,0,421
+Kedah,N.19 Jeniang,19215,14620,0,365
+Kedah,N.20 Merbok,20595,15990,0,290
+Kedah,N.21 Tikam Batu,40938,30421,0,570
+Kedah,N.22 Kuala Ketil,15695,11890,0,217
+Kedah,N.23 Lunas,21513,16728,0,423
+Kedah,N.24 Merbau Pulas,12299,9354,0,219
+Kedah,N.25 Kulim,19543,14446,0,284
+Kedah,N.26 Serdang,16856,12938,0,352

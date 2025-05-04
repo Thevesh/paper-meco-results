@@ -1,48 +1,48 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Melaka,N.01 Kota Selatan,Kota Selatan,1,Liew Siat Yee (Miss),5469,SF,8,607
-Melaka,N.01 Kota Selatan,Kota Selatan,2,Tan Kee Gak,209,MP,10,1746
-Melaka,N.01 Kota Selatan,Kota Selatan,3,Goh Joon Hoe,5471,PERIKATAN,2,2001
-Melaka,N.02 Kota Tengah,Kota Tengah,1,Goh Chee Yan,5472,PERIKATAN,2,1268
-Melaka,N.02 Kota Tengah,Kota Tengah,2,Chung Cheng Wen,217,SF,8,1000
-Melaka,N.02 Kota Tengah,Kota Tengah,3,Hashim Bin Haji Abdul Ghani,5474,MP,10,525
-Melaka,N.03 Kota Barat,Kota Barat,1,Siew Mun Fook,5475,MP,10,757
-Melaka,N.03 Kota Barat,Kota Barat,2,Teo Thiam Hock,5476,SF,8,529
-Melaka,N.03 Kota Barat,Kota Barat,3,Tamby Kadir Bin Abu Bakar,5477,BEBAS,1,178
-Melaka,N.03 Kota Barat,Kota Barat,4,Goh Kay Seng,5478,PERIKATAN,2,1589
-Melaka,N.04 Kota Utara,Kota Utara,1,Karim Bakar,215,SF,8,348
-Melaka,N.04 Kota Utara,Kota Utara,2,Tan Cheng Swee,5480,PERIKATAN,2,145
-Melaka,N.04 Kota Utara,Kota Utara,3,Dossan Frank Christa,5481,MP,10,595
-Melaka,N.05 Kota Timur,Kota Timur,1,Lim Yeow Koon,5482,PERIKATAN,2,1394
-Melaka,N.05 Kota Timur,Kota Timur,2,Too Yeng Jong,5483,SF,8,315
-Melaka,N.05 Kota Timur,Kota Timur,3,De Cruz John Leon,5484,MP,10,1370
-Melaka,N.05 Kota Timur,Kota Timur,4,Ah Jiok,5485,BEBAS,1,60
-Melaka,N.06 Tanjong Kling,Tanjong Kling,1,Abdul Ghafar Bin Baba,11,PERIKATAN,2,3247
-Melaka,N.06 Tanjong Kling,Tanjong Kling,2,Mohd Nor Bin Noordin,5487,PAS,3,505
-Melaka,N.07 Bukit Rambai,Bukit Rambai,1,Hassan Bin Mansor,216,PERIKATAN,2,2295
-Melaka,N.07 Bukit Rambai,Bukit Rambai,2,Azhari Bin Yusoff,5489,PAS,3,641
-Melaka,N.08 Batu Berendam,Batu Berendam,1,Mohd. Bin H. Abd. Rahman,5490,PERIKATAN,2,2407
-Melaka,N.08 Batu Berendam,Batu Berendam,2,Hasnul Bin Abdul Hadi,535,SF,8,1592
-Melaka,N.09 Semabok,Semabok,1,Bulat Bin Mohamed,5492,PERIKATAN,2,2782
-Melaka,N.09 Semabok,Semabok,2,Othman Bin Hujang,5493,PAS,3,1005
-Melaka,N.10 Kandang,Kandang,1,Tawy Bin Hj. Abd. Hamid,5494,PERIKATAN,2,2847
-Melaka,N.10 Kandang,Kandang,2,Haji Md. Nor Bin Hj. Hasan,5495,PAS,3,1138
-Melaka,N.11 Sungei Bharu,Sungei Bharu,1,H. Karim Bin H. Dalib,213,PAS,3,1854
-Melaka,N.11 Sungei Bharu,Sungei Bharu,2,Tamby Chik Bin Abd. Karim,5497,PERIKATAN,2,3067
-Melaka,N.12 Ramuan China,Ramuan China,1,Mohd. Sudin Bin Abd. Rahman,5498,PERIKATAN,2,2146
-Melaka,N.12 Ramuan China,Ramuan China,2,Abd. Karim Bin Yusof,5499,PAS,3,1191
-Melaka,N.13 Masjid Tanah,Masjid Tanah,1,Mohd. Yusof Bin Enjah,5500,PAS,3,899
-Melaka,N.13 Masjid Tanah,Masjid Tanah,2,H. Hassan Bin H. Ya'Akub,5501,PERIKATAN,2,2510
-Melaka,N.14 Alor Gajah,Alor Gajah,1,Haji Talib Karim,5502,PERIKATAN,2,3075
-Melaka,N.14 Alor Gajah,Alor Gajah,2,Naam Bin Muid,5503,PAS,3,528
-Melaka,N.15 Pulau Sebang,Pulau Sebang,1,Yeow Kay,5504,PERIKATAN,2,2149
-Melaka,N.15 Pulau Sebang,Pulau Sebang,2,Law Heng Choi,5505,SF,8,918
-Melaka,N.16 Batang Malaka,Batang Malaka,1,Mamat Bin Bintong,5506,SF,8,1801
-Melaka,N.16 Batang Malaka,Batang Malaka,2,H. Ab. Malek Bin H. Nong,5507,PERIKATAN,2,2712
-Melaka,N.17 Rim,Rim,1,Tan Nai Kwi,5508,PERIKATAN,2,3536
-Melaka,N.17 Rim,Rim,2,H. Md. Nor Bin H. A. Latif,5509,PAS,3,661
-Melaka,N.18 Jasin,Jasin,1,Abdul Latiff Bin Idris,5510,PAS,3,879
-Melaka,N.18 Jasin,Jasin,2,Noordin Bin Sa'At,5511,PERIKATAN,2,3017
-Melaka,N.19 Serkam,Serkam,1,Mohd. Taha Bin Kallu,218,PAS,3,1163
-Melaka,N.19 Serkam,Serkam,2,Abdul Bin Chudang,5513,PERIKATAN,2,2357
-Melaka,N.20 Sungei Rambai,Sungei Rambai,1,Ibrahim Bin Abdul Hamid,5514,PERIKATAN,2,2346
-Melaka,N.20 Sungei Rambai,Sungei Rambai,2,Othman Bin Hussin,5515,SF,8,1105
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Melaka,N.01 Kota Selatan,1,Liew Siat Yee (Miss),5469,SF,8,607
+Melaka,N.01 Kota Selatan,2,Tan Kee Gak,209,MP,10,1746
+Melaka,N.01 Kota Selatan,3,Goh Joon Hoe,5471,PERIKATAN,2,2001
+Melaka,N.02 Kota Tengah,1,Goh Chee Yan,5472,PERIKATAN,2,1268
+Melaka,N.02 Kota Tengah,2,Chung Cheng Wen,217,SF,8,1000
+Melaka,N.02 Kota Tengah,3,Hashim Bin Haji Abdul Ghani,5474,MP,10,525
+Melaka,N.03 Kota Barat,1,Siew Mun Fook,5475,MP,10,757
+Melaka,N.03 Kota Barat,2,Teo Thiam Hock,5476,SF,8,529
+Melaka,N.03 Kota Barat,3,Tamby Kadir Bin Abu Bakar,5477,BEBAS,1,178
+Melaka,N.03 Kota Barat,4,Goh Kay Seng,5478,PERIKATAN,2,1589
+Melaka,N.04 Kota Utara,1,Karim Bakar,215,SF,8,348
+Melaka,N.04 Kota Utara,2,Tan Cheng Swee,5480,PERIKATAN,2,145
+Melaka,N.04 Kota Utara,3,Dossan Frank Christa,5481,MP,10,595
+Melaka,N.05 Kota Timur,1,Lim Yeow Koon,5482,PERIKATAN,2,1394
+Melaka,N.05 Kota Timur,2,Too Yeng Jong,5483,SF,8,315
+Melaka,N.05 Kota Timur,3,De Cruz John Leon,5484,MP,10,1370
+Melaka,N.05 Kota Timur,4,Ah Jiok,5485,BEBAS,1,60
+Melaka,N.06 Tanjong Kling,1,Abdul Ghafar Bin Baba,11,PERIKATAN,2,3247
+Melaka,N.06 Tanjong Kling,2,Mohd Nor Bin Noordin,5487,PAS,3,505
+Melaka,N.07 Bukit Rambai,1,Hassan Bin Mansor,216,PERIKATAN,2,2295
+Melaka,N.07 Bukit Rambai,2,Azhari Bin Yusoff,5489,PAS,3,641
+Melaka,N.08 Batu Berendam,1,Mohd. Bin H. Abd. Rahman,5490,PERIKATAN,2,2407
+Melaka,N.08 Batu Berendam,2,Hasnul Bin Abdul Hadi,535,SF,8,1592
+Melaka,N.09 Semabok,1,Bulat Bin Mohamed,5492,PERIKATAN,2,2782
+Melaka,N.09 Semabok,2,Othman Bin Hujang,5493,PAS,3,1005
+Melaka,N.10 Kandang,1,Tawy Bin Hj. Abd. Hamid,5494,PERIKATAN,2,2847
+Melaka,N.10 Kandang,2,Haji Md. Nor Bin Hj. Hasan,5495,PAS,3,1138
+Melaka,N.11 Sungei Bharu,1,H. Karim Bin H. Dalib,213,PAS,3,1854
+Melaka,N.11 Sungei Bharu,2,Tamby Chik Bin Abd. Karim,5497,PERIKATAN,2,3067
+Melaka,N.12 Ramuan China,1,Mohd. Sudin Bin Abd. Rahman,5498,PERIKATAN,2,2146
+Melaka,N.12 Ramuan China,2,Abd. Karim Bin Yusof,5499,PAS,3,1191
+Melaka,N.13 Masjid Tanah,1,Mohd. Yusof Bin Enjah,5500,PAS,3,899
+Melaka,N.13 Masjid Tanah,2,H. Hassan Bin H. Ya'Akub,5501,PERIKATAN,2,2510
+Melaka,N.14 Alor Gajah,1,Haji Talib Karim,5502,PERIKATAN,2,3075
+Melaka,N.14 Alor Gajah,2,Naam Bin Muid,5503,PAS,3,528
+Melaka,N.15 Pulau Sebang,1,Yeow Kay,5504,PERIKATAN,2,2149
+Melaka,N.15 Pulau Sebang,2,Law Heng Choi,5505,SF,8,918
+Melaka,N.16 Batang Malaka,1,Mamat Bin Bintong,5506,SF,8,1801
+Melaka,N.16 Batang Malaka,2,H. Ab. Malek Bin H. Nong,5507,PERIKATAN,2,2712
+Melaka,N.17 Rim,1,Tan Nai Kwi,5508,PERIKATAN,2,3536
+Melaka,N.17 Rim,2,H. Md. Nor Bin H. A. Latif,5509,PAS,3,661
+Melaka,N.18 Jasin,1,Abdul Latiff Bin Idris,5510,PAS,3,879
+Melaka,N.18 Jasin,2,Noordin Bin Sa'At,5511,PERIKATAN,2,3017
+Melaka,N.19 Serkam,1,Mohd. Taha Bin Kallu,218,PAS,3,1163
+Melaka,N.19 Serkam,2,Abdul Bin Chudang,5513,PERIKATAN,2,2357
+Melaka,N.20 Sungei Rambai,1,Ibrahim Bin Abdul Hamid,5514,PERIKATAN,2,2346
+Melaka,N.20 Sungei Rambai,2,Othman Bin Hussin,5515,SF,8,1105

@@ -1,34 +1,34 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pahang,N.01 Tanah Rata,Tanah Rata,12134,7671,0,340
-Pahang,N.02 Jelai,Jelai,7256,4751,0,141
-Pahang,N.03 Bukit Bentung,Bukit Bentung,7688,5424,0,262
-Pahang,N.04 Ceka,Ceka,8307,5406,0,281
-Pahang,N.05 Benta,Benta,7395,4857,0,184
-Pahang,N.06 Batu Talam,Batu Talam,10556,7303,0,386
-Pahang,N.07 Teras,Teras,15582,11604,0,276
-Pahang,N.08 Dong,Dong,10172,7392,0,280
-Pahang,N.09 Tahan,Tahan,11673,8793,0,288
-Pahang,N.10 Tembeling,Tembeling,9779,7110,0,344
-Pahang,N.11 Pulau Tawar,Pulau Tawar,11558,7930,0,319
-Pahang,N.12 Sungai Lembing,Sungai Lembing,14452,10142,0,256
-Pahang,N.13 Beserah,Beserah,16106,10705,0,282
-Pahang,N.14 Teruntum,Teruntum,24037,15625,0,424
-Pahang,N.15 Paya Besar,Paya Besar,15894,10686,0,312
-Pahang,N.16 Kuala Pahang,Kuala Pahang,7811,5492,0,305
-Pahang,N.17 Peramu,Peramu,10312,6572,0,305
-Pahang,N.18 Luit,Luit,10394,7348,0,308
-Pahang,N.19 Bukit Tajau,Bukit Tajau,9841,7691,0,180
-Pahang,N.20 Jengka,Jengka,9343,7766,0,154
-Pahang,N.21 Cenur,Cenur,8555,6212,0,231
-Pahang,N.22 Jenderak,Jenderak,8311,6167,0,277
-Pahang,N.23 Sanggang,Sanggang,14918,10626,0,416
-Pahang,N.24 Lancang,Lancang,9173,6454,0,348
-Pahang,N.25 Bilut,Bilut,15243,11424,0,364
-Pahang,N.26 Karak,Karak,12597,9154,0,283
-Pahang,N.27 Pelangai,Pelangai,11430,8506,0,244
-Pahang,N.28 Semantan,Semantan,11107,7564,0,294
-Pahang,N.29 Teriang,Teriang,11173,8624,0,387
-Pahang,N.30 Bera,Bera,16809,12337,0,437
-Pahang,N.31 Cini,Chini,9141,6244,0,254
-Pahang,N.32 Bukit Ibam,Bukit Ibam,12566,9218,0,346
-Pahang,N.33 Tioman,Tioman,9666,6048,0,352
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Pahang,N.01 Tanah Rata,12134,7671,0,340
+Pahang,N.02 Jelai,7256,4751,0,141
+Pahang,N.03 Bukit Bentung,7688,5424,0,262
+Pahang,N.04 Ceka,8307,5406,0,281
+Pahang,N.05 Benta,7395,4857,0,184
+Pahang,N.06 Batu Talam,10556,7303,0,386
+Pahang,N.07 Teras,15582,11604,0,276
+Pahang,N.08 Dong,10172,7392,0,280
+Pahang,N.09 Tahan,11673,8793,0,288
+Pahang,N.10 Tembeling,9779,7110,0,344
+Pahang,N.11 Pulau Tawar,11558,7930,0,319
+Pahang,N.12 Sungai Lembing,14452,10142,0,256
+Pahang,N.13 Beserah,16106,10705,0,282
+Pahang,N.14 Teruntum,24037,15625,0,424
+Pahang,N.15 Paya Besar,15894,10686,0,312
+Pahang,N.16 Kuala Pahang,7811,5492,0,305
+Pahang,N.17 Peramu,10312,6572,0,305
+Pahang,N.18 Luit,10394,7348,0,308
+Pahang,N.19 Bukit Tajau,9841,7691,0,180
+Pahang,N.20 Jengka,9343,7766,0,154
+Pahang,N.21 Cenur,8555,6212,0,231
+Pahang,N.22 Jenderak,8311,6167,0,277
+Pahang,N.23 Sanggang,14918,10626,0,416
+Pahang,N.24 Lancang,9173,6454,0,348
+Pahang,N.25 Bilut,15243,11424,0,364
+Pahang,N.26 Karak,12597,9154,0,283
+Pahang,N.27 Pelangai,11430,8506,0,244
+Pahang,N.28 Semantan,11107,7564,0,294
+Pahang,N.29 Teriang,11173,8624,0,387
+Pahang,N.30 Bera,16809,12337,0,437
+Pahang,N.31 Cini,9141,6244,0,254
+Pahang,N.32 Bukit Ibam,12566,9218,0,346
+Pahang,N.33 Tioman,9666,6048,0,352

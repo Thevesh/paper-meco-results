@@ -1,28 +1,28 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pulau Pinang,N.01 Penaga,Penaga,11063,8749,0,237
-Pulau Pinang,N.02 Bertam,Bertam,10344,8244,0,178
-Pulau Pinang,N.03 Tasek Gelugor,Tasek Gelugor,10074,8282,0,170
-Pulau Pinang,N.04 Bagan Ajam,Bagan Ajam,14801,11585,0,227
-Pulau Pinang,N.05 Bagan Jermal,Bagan Jermal,22176,17566,0,319
-Pulau Pinang,N.06 Bagan Dalam,Bagan Dalam,20658,15549,0,342
-Pulau Pinang,N.07 Sungai Dua,Sungai Dua,9577,7764,0,147
-Pulau Pinang,N.08 Kubang Semang,Kubang Semang,11623,9453,0,201
-Pulau Pinang,N.09 Penanti,Penanti,11178,8692,0,244
-Pulau Pinang,N.10 Bukit Tengah,Bukit Tengah,17547,13667,0,391
-Pulau Pinang,N.11 Pekan Bukit Mertajam,Pekan Bukit Mertajam,22201,17296,0,399
-Pulau Pinang,N.12 Machang Bubok,Machang Bubok,13576,11029,0,282
-Pulau Pinang,N.13 Bukit Tambun,Bukit Tambun,9970,8063,0,342
-Pulau Pinang,N.14 Sungai Bakap,Sungai Bakap,12042,9311,0,315
-Pulau Pinang,N.15 Sungai Acheh,Sungai Acheh,13983,10650,0,266
-Pulau Pinang,N.16 Telok Bahang,Telok Bahang,13623,10047,0,237
-Pulau Pinang,N.17 Sungai Nibong,Sungai Nibong,21985,15478,0,144
-Pulau Pinang,N.18 Bayan Lepas,Bayan Lepas,16877,12873,0,363
-Pulau Pinang,N.19 Tanjung Bunga,Tanjung Bunga,23058,17495,0,366
-Pulau Pinang,N.20 Ayer Itam,Ayer Itam,22615,17318,0,375
-Pulau Pinang,N.21 Paya Terubong,Paya Terubong,21588,16562,0,329
-Pulau Pinang,N.22 Padang Kota,Padang Kota,16772,12330,0,269
-Pulau Pinang,N.23 Kampong Kolam,Kampong Kolam,19485,14880,0,319
-Pulau Pinang,N.24 Pengkalan Kota,Pengkalan Kota,22478,18115,0,305
-Pulau Pinang,N.25 Datok Keramat,Datok Keramat,20091,14804,0,265
-Pulau Pinang,N.26 Sungai Pinang,Sungai Pinang,24645,18881,0,441
-Pulau Pinang,N.27 Bukit Gelugor,Bukit Gelugor,26357,20082,0,277
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Pulau Pinang,N.01 Penaga,11063,8749,0,237
+Pulau Pinang,N.02 Bertam,10344,8244,0,178
+Pulau Pinang,N.03 Tasek Gelugor,10074,8282,0,170
+Pulau Pinang,N.04 Bagan Ajam,14801,11585,0,227
+Pulau Pinang,N.05 Bagan Jermal,22176,17566,0,319
+Pulau Pinang,N.06 Bagan Dalam,20658,15549,0,342
+Pulau Pinang,N.07 Sungai Dua,9577,7764,0,147
+Pulau Pinang,N.08 Kubang Semang,11623,9453,0,201
+Pulau Pinang,N.09 Penanti,11178,8692,0,244
+Pulau Pinang,N.10 Bukit Tengah,17547,13667,0,391
+Pulau Pinang,N.11 Pekan Bukit Mertajam,22201,17296,0,399
+Pulau Pinang,N.12 Machang Bubok,13576,11029,0,282
+Pulau Pinang,N.13 Bukit Tambun,9970,8063,0,342
+Pulau Pinang,N.14 Sungai Bakap,12042,9311,0,315
+Pulau Pinang,N.15 Sungai Acheh,13983,10650,0,266
+Pulau Pinang,N.16 Telok Bahang,13623,10047,0,237
+Pulau Pinang,N.17 Sungai Nibong,21985,15478,0,144
+Pulau Pinang,N.18 Bayan Lepas,16877,12873,0,363
+Pulau Pinang,N.19 Tanjung Bunga,23058,17495,0,366
+Pulau Pinang,N.20 Ayer Itam,22615,17318,0,375
+Pulau Pinang,N.21 Paya Terubong,21588,16562,0,329
+Pulau Pinang,N.22 Padang Kota,16772,12330,0,269
+Pulau Pinang,N.23 Kampong Kolam,19485,14880,0,319
+Pulau Pinang,N.24 Pengkalan Kota,22478,18115,0,305
+Pulau Pinang,N.25 Datok Keramat,20091,14804,0,265
+Pulau Pinang,N.26 Sungai Pinang,24645,18881,0,441
+Pulau Pinang,N.27 Bukit Gelugor,26357,20082,0,277

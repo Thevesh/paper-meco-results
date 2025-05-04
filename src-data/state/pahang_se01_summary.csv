@@ -1,25 +1,25 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pahang,N.01 Jelai,Jelai,4631,3831,0,90
-Pahang,N.02 Kuala Lipis,Kuala Lipis,4032,3283,0,63
-Pahang,N.03 Tanjong Besar,Tanjong Besar,7113,5847,0,166
-Pahang,N.04 Jerantut,Jerantut,5858,4267,0,191
-Pahang,N.05 Cameron Highlands,Cameron Highlands,3885,2948,0,47
-Pahang,N.06 Dong,Dong,5345,4287,0,120
-Pahang,N.07 Bandar Raub,Bandar Raub,4428,3435,0,40
-Pahang,N.08 Tras,Tras,3701,3211,0,74
-Pahang,N.09 Sabai,Sabai,4295,3496,0,97
-Pahang,N.10 Benus,Benus,3788,3320,0,31
-Pahang,N.11 Mentakab,Mentakab,6151,4841,0,66
-Pahang,N.12 Chenor,Chenor,4237,3281,0,119
-Pahang,N.13 Triang,Triang,4856,3883,0,64
-Pahang,N.14 Kuala Semantan,Kuala Semantan,3583,2642,0,47
-Pahang,N.15 Jenderak,Jenderak,4267,3059,0,101
-Pahang,N.16 Sanggang,Sanggang,3775,2940,0,42
-Pahang,N.17 Tanah Puteh,Tanah Puteh,3864,2788,0,36
-Pahang,N.18 Telok Sisek,Telok Sisek,3511,2491,0,53
-Pahang,N.19 Beserah,Beserah,4206,3305,0,128
-Pahang,N.20 Ulu Kuantan,Ulu Kuantan,4971,3810,0,112
-Pahang,N.21 Kuala Pahang,Kuala Pahang,5511,4131,0,124
-Pahang,N.22 Bandar Bentong,Bandar Bentong,0,0,0,0
-Pahang,N.23 Pahang Tua,Pahang Tua,5746,4611,0,79
-Pahang,N.24 Rompin,Rompin,4186,3001,0,66
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Pahang,N.01 Jelai,4631,3831,0,90
+Pahang,N.02 Kuala Lipis,4032,3283,0,63
+Pahang,N.03 Tanjong Besar,7113,5847,0,166
+Pahang,N.04 Jerantut,5858,4267,0,191
+Pahang,N.05 Cameron Highlands,3885,2948,0,47
+Pahang,N.06 Dong,5345,4287,0,120
+Pahang,N.07 Bandar Raub,4428,3435,0,40
+Pahang,N.08 Tras,3701,3211,0,74
+Pahang,N.09 Sabai,4295,3496,0,97
+Pahang,N.10 Benus,3788,3320,0,31
+Pahang,N.11 Mentakab,6151,4841,0,66
+Pahang,N.12 Chenor,4237,3281,0,119
+Pahang,N.13 Triang,4856,3883,0,64
+Pahang,N.14 Kuala Semantan,3583,2642,0,47
+Pahang,N.15 Jenderak,4267,3059,0,101
+Pahang,N.16 Sanggang,3775,2940,0,42
+Pahang,N.17 Tanah Puteh,3864,2788,0,36
+Pahang,N.18 Telok Sisek,3511,2491,0,53
+Pahang,N.19 Beserah,4206,3305,0,128
+Pahang,N.20 Ulu Kuantan,4971,3810,0,112
+Pahang,N.21 Kuala Pahang,5511,4131,0,124
+Pahang,N.22 Bandar Bentong,0,0,0,0
+Pahang,N.23 Pahang Tua,5746,4611,0,79
+Pahang,N.24 Rompin,4186,3001,0,66

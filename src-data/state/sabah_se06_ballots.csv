@@ -1,166 +1,166 @@
-state,dun,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Sabah,N.01 Banggi,Banggi,1,Datu Amir Kahar B. Tun Datu Hj. Mustapha,1874,USNO,15,2177
-Sabah,N.01 Banggi,Banggi,2,Mohd. Rosley B. Asantie @ Gohong B. Masonti,11155,PBS,48,1248
-Sabah,N.01 Banggi,Banggi,3,Jose Bin Modsinupu,11156,BERJAYA,31,258
-Sabah,N.02 Kudat,Kudat,1,Wong Phin Chung,10078,PBS,48,4380
-Sabah,N.02 Kudat,Kudat,2,Chong Kah Kiat,8934,BERJAYA,31,3489
-Sabah,N.02 Kudat,Kudat,3,Dingle Anthony @ Eric Christopher,11159,BEBAS,1,25
-Sabah,N.03 Bengkoka,Bengkoka,1,Paulus Itum @ Paul Tom,11160,PBS,48,1742
-Sabah,N.03 Bengkoka,Bengkoka,2,Chee Syn Fook,11161,BEBAS,1,84
-Sabah,N.03 Bengkoka,Bengkoka,3,Yussof Bin Abd. Manan @ Yuma,11162,USNO,15,1862
-Sabah,N.03 Bengkoka,Bengkoka,4,Fauziah Bte Tan Sri Hh. Mohd. Fuad Stephens,11163,BERJAYA,31,672
-Sabah,N.03 Bengkoka,Bengkoka,5,Johnes Piut @ Onis @ Haji Jasni Piut,11164,BEBAS,1,436
-Sabah,N.04 Matunggong,Matunggong,1,Johnny Kololong Sokuroh,11165,BERJAYA,31,441
-Sabah,N.04 Matunggong,Matunggong,2,Abah Bin Mengimpal @ George Abah,11166,BEBAS,1,392
-Sabah,N.04 Matunggong,Matunggong,3,Mathius Bin Majihi,8943,PBS,48,3644
-Sabah,N.04 Matunggong,Matunggong,4,Sagid Bin Mongulintad,11168,USNO,15,1145
-Sabah,N.05 Tandek,Tandek,1,Saibul Bin Supu @ Cyril Saibul Supu,11169,PBS,48,2055
-Sabah,N.05 Tandek,Tandek,2,Majawab Bin Masantun,11170,BERJAYA,31,242
-Sabah,N.05 Tandek,Tandek,3,Saidi Bin Suari @ Ramli,11171,USNO,15,1202
-Sabah,N.05 Tandek,Tandek,4,Uhot Bin Malingka @ Herowan V. Malingka,11172,BEBAS,1,385
-Sabah,N.06 Langkon,Langkon,1,Michael Madinal @ Edward,11173,BEBAS,1,688
-Sabah,N.06 Langkon,Langkon,2,Yain Bin Abak @ Md. Zain Abag,11174,USNO,15,857
-Sabah,N.06 Langkon,Langkon,3,Dason Suran @ Gaban,11175,BERJAYA,31,217
-Sabah,N.06 Langkon,Langkon,4,Suini Gaban @ Geoffry,1886,BEBAS,1,308
-Sabah,N.06 Langkon,Langkon,5,Bugie Galadam @ Bugie Tinggal,10097,PBS,48,2529
-Sabah,N.06 Langkon,Langkon,6,Joseph Stalin Sunsulit @ Ahkah,11178,BEBAS,1,93
-Sabah,N.07 Tempasuk,Tempasuk,1,Santri Bin Rakman @ San Luciana,11179,BEBAS,1,17
-Sabah,N.07 Tempasuk,Tempasuk,2,Adam Bin Sampoli,11180,BERJAYA,31,1445
-Sabah,N.07 Tempasuk,Tempasuk,3,Lamsil Bin Amidsor,11181,USNO,15,2609
-Sabah,N.07 Tempasuk,Tempasuk,4,Robert Ripin Minggir,11182,PBS,48,2869
-Sabah,N.08 Usukan,Usukan,1,Datu Abdul Hamid Bin Tun Datu Haji Mustapha,1913,USNO,15,4249
-Sabah,N.08 Usukan,Usukan,2,Liew Vui Kong,3581,BEBAS,1,473
-Sabah,N.08 Usukan,Usukan,3,Chin Ing Hing,11185,BEBAS,1,277
-Sabah,N.08 Usukan,Usukan,4,Jabar Khan B. Napi @ Haji Yasser Arafat,11186,PBS,48,2464
-Sabah,N.09 Kadamaian,Kadamaian,1,Baggai Bin Basirun,10116,PBS,48,3737
-Sabah,N.09 Kadamaian,Kadamaian,2,Yapin Gimpoton @ Timothy,1880,BERJAYA,31,2072
-Sabah,N.10 Tamparuli,Tamparuli,1,Johny Tanggar @ Johnnie,11189,BERJAYA,31,1393
-Sabah,N.10 Tamparuli,Tamparuli,2,Mojilip Bin Bumburing @ Wilfred,8978,PBS,48,4816
-Sabah,N.11 Sulaman,Sulaman,1,Osu Hj. Sukam,1907,USNO,15,2913
-Sabah,N.11 Sulaman,Sulaman,2,Nawawi Bin Budin,7882,BEBAS,1,212
-Sabah,N.11 Sulaman,Sulaman,3,Mungkit Ampuling @ Michael N. Ampuling,11193,BERJAYA,31,651
-Sabah,N.11 Sulaman,Sulaman,4,Bigong Bin Polinoh @ Albert Bin Polinoh,11194,BEBAS,1,80
-Sabah,N.11 Sulaman,Sulaman,5,A. Tanjong Bin Hakim @ Mike,11195,BEBAS,1,15
-Sabah,N.11 Sulaman,Sulaman,6,Muhammad Bin Abd. Rahman @ Ahmad I. Onggohon,11196,PBS,48,2510
-Sabah,N.12 Kiulu,Kiulu,1,Puan Sri Hajjah Rahimah Stephens,11197,BERJAYA,31,1775
-Sabah,N.12 Kiulu,Kiulu,2,Gisin Bin Lombut,8981,PBS,48,2967
-Sabah,N.12 Kiulu,Kiulu,3,Ajun Bin Meliyon,11199,BEBAS,1,101
-Sabah,N.13 Kundasang,Kundasang,1,Lwon Bin Ebin,5100,PBS,48,3303
-Sabah,N.13 Kundasang,Kundasang,2,Amari Bin Ginggor @ Mynoor Ginggor,11201,BERJAYA,31,2775
-Sabah,N.13 Kundasang,Kundasang,3,Samin Bin Hassan,11202,BEBAS,1,90
-Sabah,N.13 Kundasang,Kundasang,4,Maslin Bin Juriman,11203,USNO,15,502
-Sabah,N.14 Ranau,Ranau,1,Benedict Yasin,11204,BERJAYA,31,2257
-Sabah,N.14 Ranau,Ranau,2,Mark Koding,1302,PBS,48,3599
-Sabah,N.15 Sugut,Sugut,1,Adnan Bin Md. Jaafar,11206,BEBAS,1,166
-Sabah,N.15 Sugut,Sugut,2,Jublee Bin K. K. Zen,11207,PBS,48,1563
-Sabah,N.15 Sugut,Sugut,3,Ampong Bin Puyon,1584,USNO,15,1057
-Sabah,N.16 Labuk,Labuk,1,Juslie Bin Ajirol,2858,USNO,15,1099
-Sabah,N.16 Labuk,Labuk,2,Tang Yung Hi @ Tan Yong Gee,11210,PBS,48,2638
-Sabah,N.16 Labuk,Labuk,3,K. K. Paul Baklin O. T. Gurandi,11211,BERJAYA,31,1221
-Sabah,N.17 Sungai Sibuga,Sungai Sibuga,1,Ahmad Thamrin Bin Haji Mohd. Jaini @ Tamrin Bin Zaini,11212,USNO,15,2767
-Sabah,N.17 Sungai Sibuga,Sungai Sibuga,2,Hiew Choi @ Vincent Hiew Syn Choi,11213,BERJAYA,31,891
-Sabah,N.17 Sungai Sibuga,Sungai Sibuga,3,Tan Kun Boo @ Michael Tan,11214,PBS,48,3140
-Sabah,N.17 Sungai Sibuga,Sungai Sibuga,4,Rusli B. Udam,11215,BEBAS,1,71
-Sabah,N.18 Elopura,Elopura,1,Tham Nyip Shen,10159,PBS,48,5262
-Sabah,N.18 Elopura,Elopura,2,Yap Pak Leong,6077,BERJAYA,31,2784
-Sabah,N.19 Tanjong Papat,Tanjong Papat,1,Fu Sui Cheong @ Philip,1311,PCBS,44,53
-Sabah,N.19 Tanjong Papat,Tanjong Papat,2,Huang Han Ching,11219,SCA,16,47
-Sabah,N.19 Tanjong Papat,Tanjong Papat,3,Tan Kit Sher,9012,PBS,48,4708
-Sabah,N.19 Tanjong Papat,Tanjong Papat,4,Chin Su Kim,11221,BERJAYA,31,1748
-Sabah,N.19 Tanjong Papat,Tanjong Papat,5,Wong Hee Yung,11222,BEBAS,1,1552
-Sabah,N.20 Karamunting,Karamunting,1,Lau Pui Keong,7917,PBS,48,4752
-Sabah,N.20 Karamunting,Karamunting,2,Ngui Kon Foh @ David Ngui Tet Shiung,10163,BEBAS,1,1802
-Sabah,N.20 Karamunting,Karamunting,3,Liaw Wah Fong @ William,11225,BERJAYA,31,1010
-Sabah,N.21 Sekong,Sekong,1,Juhar Bin Mahiruddin,2543,PBS,48,2264
-Sabah,N.21 Sekong,Sekong,2,Yee Loi Fook,11227,BERJAYA,31,285
-Sabah,N.21 Sekong,Sekong,3,Salleh B. Janan,11228,USNO,15,2450
-Sabah,N.22 Sukau,Sukau,1,Zaki B. Haji Gusmiah @ Zakariah Bin Hjai Gusmiah,11229,USNO,15,1995
-Sabah,N.22 Sukau,Sukau,2,Saman B. Hj. Gulam,10171,PBS,48,1116
-Sabah,N.23 Kuamut,Kuamut,1,Joseph Stim B. Saang,11231,PBS,48,1694
-Sabah,N.23 Kuamut,Kuamut,2,Abdul Malek Chua,1894,BERJAYA,31,1499
-Sabah,N.24 Tambunan,Tambunan,1,Albertus B. Ongkudon,11233,BERJAYA,31,219
-Sabah,N.24 Tambunan,Tambunan,2,Bernard Wong Chung Ngin,8988,USNO,15,499
-Sabah,N.24 Tambunan,Tambunan,3,Joseph Pairin Kitingan,7897,PBS,48,4752
-Sabah,N.25 Bingkor,Bingkor,1,Stephen Robert Evans,1043,PBS,48,4713
-Sabah,N.25 Bingkor,Bingkor,2,Uling Anggan @ Thomas,1602,PASOK,43,1235
-Sabah,N.25 Bingkor,Bingkor,3,Md. Amir B. Hj. Arif,11238,BERJAYA,31,895
-Sabah,N.25 Bingkor,Bingkor,4,Jumining Kinjawan @ Dennnis Jumining Kinjawan,11239,BERJAYA,31,137
-Sabah,N.26 Moyog,Moyog,1,Bernard Giluk Dompok,1898,PBS,48,6714
-Sabah,N.26 Moyog,Moyog,2,Matasim B. Lojingon @ Bryan Matasim Lojingon,11241,BERJAYA,31,558
-Sabah,N.27 Inanam,Inanam,1,Stephen Kinson Kutai @ Joni Biligan,11242,PBS,48,5575
-Sabah,N.27 Inanam,Inanam,2,Ignatius Stephen Malanjum,1307,PASOK,43,380
-Sabah,N.27 Inanam,Inanam,3,Freddie Angelo Solibun,11244,BERJAYA,31,2411
-Sabah,N.28 Likas,Likas,1,Kok Fung Chong,6037,PCBS,44,38
-Sabah,N.28 Likas,Likas,2,Yong Teck Lee,2837,PBS,48,6488
-Sabah,N.28 Likas,Likas,3,Chin Kok Kong,8992,BERJAYA,31,2911
-Sabah,N.28 Likas,Likas,4,Chu Yee Min @ Jeffrey,11248,SCA,16,140
-Sabah,N.29 Api-Api,Api–Api,1,Johnny Sun Chung Sang @ Kim Shang,11249,PCBS,44,51
-Sabah,N.29 Api-Api,Api–Api,2,Kong Yun Chee @ Joshua Kong,11250,BEBAS,1,37
-Sabah,N.29 Api-Api,Api–Api,3,Chau Tet On,7900,PBS,48,10294
-Sabah,N.29 Api-Api,Api–Api,4,Chin Nyuk Fatt,1304,SCA,16,180
-Sabah,N.29 Api-Api,Api–Api,5,Chong Kon Fui,11253,BERJAYA,31,1339
-Sabah,N.30 Sembulan,Sembulan,1,Tay Wee Kiong,11254,BEBAS,1,184
-Sabah,N.30 Sembulan,Sembulan,2,Mohamed Hatta Bin Abdullah,11255,BEBAS,1,25
-Sabah,N.30 Sembulan,Sembulan,3,Wong Kau Chai Sindin @ Paul Wong,11256,BERJAYA,31,1557
-Sabah,N.30 Sembulan,Sembulan,4,Peter Chong On Tet,8995,PBS,48,5006
-Sabah,N.30 Sembulan,Sembulan,5,Liong Che Kiong @ Francis,11258,SCA,16,1317
-Sabah,N.31 Petagas,Petagas,1,Clarence Elong Mansul,1592,BERJAYA,31,866
-Sabah,N.31 Petagas,Petagas,2,Fung Chik Tong @ Thomas Fung,11260,SCA,16,1677
-Sabah,N.31 Petagas,Petagas,3,James Andrew Vitales,9030,PBS,48,4935
-Sabah,N.31 Petagas,Petagas,4,Ho See Ming @ Peter Ho,11262,PCBS,44,64
-Sabah,N.32 Kwang,Kwang,1,Irene Daphne Pritchard @ Ariah Ahmad,11263,PBS,48,3188
-Sabah,N.32 Kwang,Kwang,2,Malitim B. Lajami @ Malitin Lajamo,11264,BERJAYA,31,282
-Sabah,N.32 Kwang,Kwang,3,Nerawi Bin Lampong,11265,USNO,15,2415
-Sabah,N.33 Buang Sayang,Buang Sayang,1,Amat B. Awang Matnasir,11266,PBS,48,3711
-Sabah,N.33 Buang Sayang,Buang Sayang,2,Hj. Mohammad Noor Bin Hj. Mansoor,11267,BERJAYA,31,4124
-Sabah,N.34 Bongawan,Bongawan,1,Abd. Karim Bin Abdul Ghani @ Karim Ghani,11268,USNO,15,2715
-Sabah,N.34 Bongawan,Bongawan,2,Chua Hu Thiam,11269,BEBAS,1,66
-Sabah,N.34 Bongawan,Bongawan,3,George Ng Shee Wah,10224,PBS,48,2564
-Sabah,N.34 Bongawan,Bongawan,4,Ak. Aliuddin B. Pg. Mohd. Tahir @ Pg. Aliuddin,1910,BEBAS,1,689
-Sabah,N.34 Bongawan,Bongawan,5,Andrew Mudi,11272,BERJAYA,31,149
-Sabah,N.34 Bongawan,Bongawan,6,Chong Ah Tan @ Chong Tuck Foong,11273,BEBAS,1,142
-Sabah,N.35 Kuala Penyu,Kuala Penyu,1,Johan B. O. T. Ghani @ Christopher,11274,USNO,15,2612
-Sabah,N.35 Kuala Penyu,Kuala Penyu,2,Wences Angang @ James,10227,PBS,48,3152
-Sabah,N.36 Klias,Klias,1,Azizah Bte Mohd. Dun,10229,USNO,15,2652
-Sabah,N.36 Klias,Klias,2,Lajim Bin Okin,10231,PBS,48,2749
-Sabah,N.36 Klias,Klias,3,Godfrey Eigur @ Empih,11278,BERJAYA,31,199
-Sabah,N.37 Lumadan,Lumadan,1,Rashid Bin Gador @ Abdul Rashid Bin Hj. Gador,11279,PBS,48,1689
-Sabah,N.37 Lumadan,Lumadan,2,Dayang Mahani Binte Pengiran Haji Ahmad Raffae,11280,USNO,15,3737
-Sabah,N.38 Sipitang,Sipitang,1,Jawawi Bin Hj. Isa,10241,USNO,15,2421
-Sabah,N.38 Sipitang,Sipitang,2,Ismail Awang Adi @ Hadie Roy Ismadie,11282,BEBAS,1,65
-Sabah,N.38 Sipitang,Sipitang,3,Mifli Bin Mohd Noh,7964,PBS,48,2245
-Sabah,N.38 Sipitang,Sipitang,4,Dawar Sadom,11284,BEBAS,1,162
-Sabah,N.39 Tenom,Tenom,1,Jinuin Bin Jimin,1914,BERJAYA,31,1551
-Sabah,N.39 Tenom,Tenom,2,Chong Thiam Huat Bin Pon Soh,11286,SCA,16,124
-Sabah,N.39 Tenom,Tenom,3,Kadoh Agundong @ Ferdinand,1915,PBS,48,3607
-Sabah,N.40 Kemabong,Kemabong,1,Asmawie Chew @ Chew Ah Ngok,11288,USNO,15,912
-Sabah,N.40 Kemabong,Kemabong,2,Limun Laikim,2534,PBS,48,2574
-Sabah,N.40 Kemabong,Kemabong,3,Angagon Bin Anbou @ Angkangon Bin Sagul,11290,BERJAYA,31,835
-Sabah,N.41 Sook,Sook,1,Joseph Kurup,3573,PBS,48,4973
-Sabah,N.41 Sook,Sook,2,Peter Kodou @ Peter Anthony Kodou,1916,BEBAS,1,328
-Sabah,N.41 Sook,Sook,3,Albert Pensyl,11293,BERJAYA,31,730
-Sabah,N.41 Sook,Sook,4,Denson B. Tom @ Demson B. Tom,11294,BEBAS,1,1570
-Sabah,N.42 Nabawan,Nabawan,1,Adut B. Sigoh @ Joe B. Said Besar,9060,PBS,48,2112
-Sabah,N.42 Nabawan,Nabawan,2,Mohd. Yassin B. Anik,11296,USNO,15,509
-Sabah,N.42 Nabawan,Nabawan,3,Matusin B. Eloh @ David B. Eloh,11297,BEBAS,1,255
-Sabah,N.43 Merotai,Merotai,1,S. Abas Bin S. Ali,9085,PBS,48,3062
-Sabah,N.43 Merotai,Merotai,2,Mohd. Said B. Senang @ Mohd. Said Noor,11299,USNO,15,5052
-Sabah,N.44 Sri Tanjung,Sri Tanjung,1,Ku Hien Liong,11300,PCBS,44,7335
-Sabah,N.44 Sri Tanjung,Sri Tanjung,2,Dr Chang Chau Lap @ Charlie,11301,SCA,16,521
-Sabah,N.44 Sri Tanjung,Sri Tanjung,3,Hue Min Kong @ Hiew Min Kong,11302,BERJAYA,31,4559
-Sabah,N.45 Lahad Datu,Lahad Datu,1,Datu Nasrun Bin Datu Mansur,11303,BEBAS,1,867
-Sabah,N.45 Lahad Datu,Lahad Datu,2,Gamut Ismail @ Zamrin,1921,BERJAYA,31,3763
-Sabah,N.45 Lahad Datu,Lahad Datu,3,Kasuari B. Ariff,11305,BEBAS,1,85
-Sabah,N.45 Lahad Datu,Lahad Datu,4,Mohammad Bin Kama @ Mohd. Kamal Bin Kamaruddin,11306,BEBAS,1,49
-Sabah,N.45 Lahad Datu,Lahad Datu,5,Muhammad Bin Hj. Mansur,11307,BEBAS,1,17
-Sabah,N.45 Lahad Datu,Lahad Datu,6,Mohamaddin Bin Ketapi,2224,PBS,48,4556
-Sabah,N.46 Kunak,Kunak,1,Salim Bin Bachu @ Salin Bin Bacho,7953,USNO,15,3750
-Sabah,N.46 Kunak,Kunak,2,William Chiuh,11310,PBS,48,2161
-Sabah,N.46 Kunak,Kunak,3,Mohamad Jikiranu @ Utoh Imam Tahassam,11311,BEBAS,1,105
-Sabah,N.47 Balung,Balung,1,Hj. Ahmad Bin Hj. Awang @ Madon,11312,USNO,15,3156
-Sabah,N.47 Balung,Balung,2,Chan Tse Huang @ Chan Tze Hung Stephen,11313,PCBS,44,61
-Sabah,N.47 Balung,Balung,3,Loh Ah Su @ Lo Soo On,11314,BERJAYA,31,883
-Sabah,N.47 Balung,Balung,4,Ahmad Bahrom Bin Datuk Hj. Abu Bakar Titingan @ Bahrom,11315,PBS,48,4099
-Sabah,N.48 Sulabayan,Sulabayan,1,N. C. Datu Eranza Bin Datu Hj. Saribu,11316,PBS,48,2217
-Sabah,N.48 Sulabayan,Sulabayan,2,Bakal Bin Manduan,11317,BEBAS,1,264
-Sabah,N.48 Sulabayan,Sulabayan,3,Datuk Haji Sakaran Bin Dandai @ Hashim Bin Dandai,1928,USNO,15,5360
+state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
+Sabah,N.01 Banggi,1,Datu Amir Kahar B. Tun Datu Hj. Mustapha,1874,USNO,15,2177
+Sabah,N.01 Banggi,2,Mohd. Rosley B. Asantie @ Gohong B. Masonti,11155,PBS,48,1248
+Sabah,N.01 Banggi,3,Jose Bin Modsinupu,11156,BERJAYA,31,258
+Sabah,N.02 Kudat,1,Wong Phin Chung,10078,PBS,48,4380
+Sabah,N.02 Kudat,2,Chong Kah Kiat,8934,BERJAYA,31,3489
+Sabah,N.02 Kudat,3,Dingle Anthony @ Eric Christopher,11159,BEBAS,1,25
+Sabah,N.03 Bengkoka,1,Paulus Itum @ Paul Tom,11160,PBS,48,1742
+Sabah,N.03 Bengkoka,2,Chee Syn Fook,11161,BEBAS,1,84
+Sabah,N.03 Bengkoka,3,Yussof Bin Abd. Manan @ Yuma,11162,USNO,15,1862
+Sabah,N.03 Bengkoka,4,Fauziah Bte Tan Sri Hh. Mohd. Fuad Stephens,11163,BERJAYA,31,672
+Sabah,N.03 Bengkoka,5,Johnes Piut @ Onis @ Haji Jasni Piut,11164,BEBAS,1,436
+Sabah,N.04 Matunggong,1,Johnny Kololong Sokuroh,11165,BERJAYA,31,441
+Sabah,N.04 Matunggong,2,Abah Bin Mengimpal @ George Abah,11166,BEBAS,1,392
+Sabah,N.04 Matunggong,3,Mathius Bin Majihi,8943,PBS,48,3644
+Sabah,N.04 Matunggong,4,Sagid Bin Mongulintad,11168,USNO,15,1145
+Sabah,N.05 Tandek,1,Saibul Bin Supu @ Cyril Saibul Supu,11169,PBS,48,2055
+Sabah,N.05 Tandek,2,Majawab Bin Masantun,11170,BERJAYA,31,242
+Sabah,N.05 Tandek,3,Saidi Bin Suari @ Ramli,11171,USNO,15,1202
+Sabah,N.05 Tandek,4,Uhot Bin Malingka @ Herowan V. Malingka,11172,BEBAS,1,385
+Sabah,N.06 Langkon,1,Michael Madinal @ Edward,11173,BEBAS,1,688
+Sabah,N.06 Langkon,2,Yain Bin Abak @ Md. Zain Abag,11174,USNO,15,857
+Sabah,N.06 Langkon,3,Dason Suran @ Gaban,11175,BERJAYA,31,217
+Sabah,N.06 Langkon,4,Suini Gaban @ Geoffry,1886,BEBAS,1,308
+Sabah,N.06 Langkon,5,Bugie Galadam @ Bugie Tinggal,10097,PBS,48,2529
+Sabah,N.06 Langkon,6,Joseph Stalin Sunsulit @ Ahkah,11178,BEBAS,1,93
+Sabah,N.07 Tempasuk,1,Santri Bin Rakman @ San Luciana,11179,BEBAS,1,17
+Sabah,N.07 Tempasuk,2,Adam Bin Sampoli,11180,BERJAYA,31,1445
+Sabah,N.07 Tempasuk,3,Lamsil Bin Amidsor,11181,USNO,15,2609
+Sabah,N.07 Tempasuk,4,Robert Ripin Minggir,11182,PBS,48,2869
+Sabah,N.08 Usukan,1,Datu Abdul Hamid Bin Tun Datu Haji Mustapha,1913,USNO,15,4249
+Sabah,N.08 Usukan,2,Liew Vui Kong,3581,BEBAS,1,473
+Sabah,N.08 Usukan,3,Chin Ing Hing,11185,BEBAS,1,277
+Sabah,N.08 Usukan,4,Jabar Khan B. Napi @ Haji Yasser Arafat,11186,PBS,48,2464
+Sabah,N.09 Kadamaian,1,Baggai Bin Basirun,10116,PBS,48,3737
+Sabah,N.09 Kadamaian,2,Yapin Gimpoton @ Timothy,1880,BERJAYA,31,2072
+Sabah,N.10 Tamparuli,1,Johny Tanggar @ Johnnie,11189,BERJAYA,31,1393
+Sabah,N.10 Tamparuli,2,Mojilip Bin Bumburing @ Wilfred,8978,PBS,48,4816
+Sabah,N.11 Sulaman,1,Osu Hj. Sukam,1907,USNO,15,2913
+Sabah,N.11 Sulaman,2,Nawawi Bin Budin,7882,BEBAS,1,212
+Sabah,N.11 Sulaman,3,Mungkit Ampuling @ Michael N. Ampuling,11193,BERJAYA,31,651
+Sabah,N.11 Sulaman,4,Bigong Bin Polinoh @ Albert Bin Polinoh,11194,BEBAS,1,80
+Sabah,N.11 Sulaman,5,A. Tanjong Bin Hakim @ Mike,11195,BEBAS,1,15
+Sabah,N.11 Sulaman,6,Muhammad Bin Abd. Rahman @ Ahmad I. Onggohon,11196,PBS,48,2510
+Sabah,N.12 Kiulu,1,Puan Sri Hajjah Rahimah Stephens,11197,BERJAYA,31,1775
+Sabah,N.12 Kiulu,2,Gisin Bin Lombut,8981,PBS,48,2967
+Sabah,N.12 Kiulu,3,Ajun Bin Meliyon,11199,BEBAS,1,101
+Sabah,N.13 Kundasang,1,Lwon Bin Ebin,5100,PBS,48,3303
+Sabah,N.13 Kundasang,2,Amari Bin Ginggor @ Mynoor Ginggor,11201,BERJAYA,31,2775
+Sabah,N.13 Kundasang,3,Samin Bin Hassan,11202,BEBAS,1,90
+Sabah,N.13 Kundasang,4,Maslin Bin Juriman,11203,USNO,15,502
+Sabah,N.14 Ranau,1,Benedict Yasin,11204,BERJAYA,31,2257
+Sabah,N.14 Ranau,2,Mark Koding,1302,PBS,48,3599
+Sabah,N.15 Sugut,1,Adnan Bin Md. Jaafar,11206,BEBAS,1,166
+Sabah,N.15 Sugut,2,Jublee Bin K. K. Zen,11207,PBS,48,1563
+Sabah,N.15 Sugut,3,Ampong Bin Puyon,1584,USNO,15,1057
+Sabah,N.16 Labuk,1,Juslie Bin Ajirol,2858,USNO,15,1099
+Sabah,N.16 Labuk,2,Tang Yung Hi @ Tan Yong Gee,11210,PBS,48,2638
+Sabah,N.16 Labuk,3,K. K. Paul Baklin O. T. Gurandi,11211,BERJAYA,31,1221
+Sabah,N.17 Sungai Sibuga,1,Ahmad Thamrin Bin Haji Mohd. Jaini @ Tamrin Bin Zaini,11212,USNO,15,2767
+Sabah,N.17 Sungai Sibuga,2,Hiew Choi @ Vincent Hiew Syn Choi,11213,BERJAYA,31,891
+Sabah,N.17 Sungai Sibuga,3,Tan Kun Boo @ Michael Tan,11214,PBS,48,3140
+Sabah,N.17 Sungai Sibuga,4,Rusli B. Udam,11215,BEBAS,1,71
+Sabah,N.18 Elopura,1,Tham Nyip Shen,10159,PBS,48,5262
+Sabah,N.18 Elopura,2,Yap Pak Leong,6077,BERJAYA,31,2784
+Sabah,N.19 Tanjong Papat,1,Fu Sui Cheong @ Philip,1311,PCBS,44,53
+Sabah,N.19 Tanjong Papat,2,Huang Han Ching,11219,SCA,16,47
+Sabah,N.19 Tanjong Papat,3,Tan Kit Sher,9012,PBS,48,4708
+Sabah,N.19 Tanjong Papat,4,Chin Su Kim,11221,BERJAYA,31,1748
+Sabah,N.19 Tanjong Papat,5,Wong Hee Yung,11222,BEBAS,1,1552
+Sabah,N.20 Karamunting,1,Lau Pui Keong,7917,PBS,48,4752
+Sabah,N.20 Karamunting,2,Ngui Kon Foh @ David Ngui Tet Shiung,10163,BEBAS,1,1802
+Sabah,N.20 Karamunting,3,Liaw Wah Fong @ William,11225,BERJAYA,31,1010
+Sabah,N.21 Sekong,1,Juhar Bin Mahiruddin,2543,PBS,48,2264
+Sabah,N.21 Sekong,2,Yee Loi Fook,11227,BERJAYA,31,285
+Sabah,N.21 Sekong,3,Salleh B. Janan,11228,USNO,15,2450
+Sabah,N.22 Sukau,1,Zaki B. Haji Gusmiah @ Zakariah Bin Hjai Gusmiah,11229,USNO,15,1995
+Sabah,N.22 Sukau,2,Saman B. Hj. Gulam,10171,PBS,48,1116
+Sabah,N.23 Kuamut,1,Joseph Stim B. Saang,11231,PBS,48,1694
+Sabah,N.23 Kuamut,2,Abdul Malek Chua,1894,BERJAYA,31,1499
+Sabah,N.24 Tambunan,1,Albertus B. Ongkudon,11233,BERJAYA,31,219
+Sabah,N.24 Tambunan,2,Bernard Wong Chung Ngin,8988,USNO,15,499
+Sabah,N.24 Tambunan,3,Joseph Pairin Kitingan,7897,PBS,48,4752
+Sabah,N.25 Bingkor,1,Stephen Robert Evans,1043,PBS,48,4713
+Sabah,N.25 Bingkor,2,Uling Anggan @ Thomas,1602,PASOK,43,1235
+Sabah,N.25 Bingkor,3,Md. Amir B. Hj. Arif,11238,BERJAYA,31,895
+Sabah,N.25 Bingkor,4,Jumining Kinjawan @ Dennnis Jumining Kinjawan,11239,BERJAYA,31,137
+Sabah,N.26 Moyog,1,Bernard Giluk Dompok,1898,PBS,48,6714
+Sabah,N.26 Moyog,2,Matasim B. Lojingon @ Bryan Matasim Lojingon,11241,BERJAYA,31,558
+Sabah,N.27 Inanam,1,Stephen Kinson Kutai @ Joni Biligan,11242,PBS,48,5575
+Sabah,N.27 Inanam,2,Ignatius Stephen Malanjum,1307,PASOK,43,380
+Sabah,N.27 Inanam,3,Freddie Angelo Solibun,11244,BERJAYA,31,2411
+Sabah,N.28 Likas,1,Kok Fung Chong,6037,PCBS,44,38
+Sabah,N.28 Likas,2,Yong Teck Lee,2837,PBS,48,6488
+Sabah,N.28 Likas,3,Chin Kok Kong,8992,BERJAYA,31,2911
+Sabah,N.28 Likas,4,Chu Yee Min @ Jeffrey,11248,SCA,16,140
+Sabah,N.29 Api-Api,1,Johnny Sun Chung Sang @ Kim Shang,11249,PCBS,44,51
+Sabah,N.29 Api-Api,2,Kong Yun Chee @ Joshua Kong,11250,BEBAS,1,37
+Sabah,N.29 Api-Api,3,Chau Tet On,7900,PBS,48,10294
+Sabah,N.29 Api-Api,4,Chin Nyuk Fatt,1304,SCA,16,180
+Sabah,N.29 Api-Api,5,Chong Kon Fui,11253,BERJAYA,31,1339
+Sabah,N.30 Sembulan,1,Tay Wee Kiong,11254,BEBAS,1,184
+Sabah,N.30 Sembulan,2,Mohamed Hatta Bin Abdullah,11255,BEBAS,1,25
+Sabah,N.30 Sembulan,3,Wong Kau Chai Sindin @ Paul Wong,11256,BERJAYA,31,1557
+Sabah,N.30 Sembulan,4,Peter Chong On Tet,8995,PBS,48,5006
+Sabah,N.30 Sembulan,5,Liong Che Kiong @ Francis,11258,SCA,16,1317
+Sabah,N.31 Petagas,1,Clarence Elong Mansul,1592,BERJAYA,31,866
+Sabah,N.31 Petagas,2,Fung Chik Tong @ Thomas Fung,11260,SCA,16,1677
+Sabah,N.31 Petagas,3,James Andrew Vitales,9030,PBS,48,4935
+Sabah,N.31 Petagas,4,Ho See Ming @ Peter Ho,11262,PCBS,44,64
+Sabah,N.32 Kwang,1,Irene Daphne Pritchard @ Ariah Ahmad,11263,PBS,48,3188
+Sabah,N.32 Kwang,2,Malitim B. Lajami @ Malitin Lajamo,11264,BERJAYA,31,282
+Sabah,N.32 Kwang,3,Nerawi Bin Lampong,11265,USNO,15,2415
+Sabah,N.33 Buang Sayang,1,Amat B. Awang Matnasir,11266,PBS,48,3711
+Sabah,N.33 Buang Sayang,2,Hj. Mohammad Noor Bin Hj. Mansoor,11267,BERJAYA,31,4124
+Sabah,N.34 Bongawan,1,Abd. Karim Bin Abdul Ghani @ Karim Ghani,11268,USNO,15,2715
+Sabah,N.34 Bongawan,2,Chua Hu Thiam,11269,BEBAS,1,66
+Sabah,N.34 Bongawan,3,George Ng Shee Wah,10224,PBS,48,2564
+Sabah,N.34 Bongawan,4,Ak. Aliuddin B. Pg. Mohd. Tahir @ Pg. Aliuddin,1910,BEBAS,1,689
+Sabah,N.34 Bongawan,5,Andrew Mudi,11272,BERJAYA,31,149
+Sabah,N.34 Bongawan,6,Chong Ah Tan @ Chong Tuck Foong,11273,BEBAS,1,142
+Sabah,N.35 Kuala Penyu,1,Johan B. O. T. Ghani @ Christopher,11274,USNO,15,2612
+Sabah,N.35 Kuala Penyu,2,Wences Angang @ James,10227,PBS,48,3152
+Sabah,N.36 Klias,1,Azizah Bte Mohd. Dun,10229,USNO,15,2652
+Sabah,N.36 Klias,2,Lajim Bin Okin,10231,PBS,48,2749
+Sabah,N.36 Klias,3,Godfrey Eigur @ Empih,11278,BERJAYA,31,199
+Sabah,N.37 Lumadan,1,Rashid Bin Gador @ Abdul Rashid Bin Hj. Gador,11279,PBS,48,1689
+Sabah,N.37 Lumadan,2,Dayang Mahani Binte Pengiran Haji Ahmad Raffae,11280,USNO,15,3737
+Sabah,N.38 Sipitang,1,Jawawi Bin Hj. Isa,10241,USNO,15,2421
+Sabah,N.38 Sipitang,2,Ismail Awang Adi @ Hadie Roy Ismadie,11282,BEBAS,1,65
+Sabah,N.38 Sipitang,3,Mifli Bin Mohd Noh,7964,PBS,48,2245
+Sabah,N.38 Sipitang,4,Dawar Sadom,11284,BEBAS,1,162
+Sabah,N.39 Tenom,1,Jinuin Bin Jimin,1914,BERJAYA,31,1551
+Sabah,N.39 Tenom,2,Chong Thiam Huat Bin Pon Soh,11286,SCA,16,124
+Sabah,N.39 Tenom,3,Kadoh Agundong @ Ferdinand,1915,PBS,48,3607
+Sabah,N.40 Kemabong,1,Asmawie Chew @ Chew Ah Ngok,11288,USNO,15,912
+Sabah,N.40 Kemabong,2,Limun Laikim,2534,PBS,48,2574
+Sabah,N.40 Kemabong,3,Angagon Bin Anbou @ Angkangon Bin Sagul,11290,BERJAYA,31,835
+Sabah,N.41 Sook,1,Joseph Kurup,3573,PBS,48,4973
+Sabah,N.41 Sook,2,Peter Kodou @ Peter Anthony Kodou,1916,BEBAS,1,328
+Sabah,N.41 Sook,3,Albert Pensyl,11293,BERJAYA,31,730
+Sabah,N.41 Sook,4,Denson B. Tom @ Demson B. Tom,11294,BEBAS,1,1570
+Sabah,N.42 Nabawan,1,Adut B. Sigoh @ Joe B. Said Besar,9060,PBS,48,2112
+Sabah,N.42 Nabawan,2,Mohd. Yassin B. Anik,11296,USNO,15,509
+Sabah,N.42 Nabawan,3,Matusin B. Eloh @ David B. Eloh,11297,BEBAS,1,255
+Sabah,N.43 Merotai,1,S. Abas Bin S. Ali,9085,PBS,48,3062
+Sabah,N.43 Merotai,2,Mohd. Said B. Senang @ Mohd. Said Noor,11299,USNO,15,5052
+Sabah,N.44 Sri Tanjung,1,Ku Hien Liong,11300,PCBS,44,7335
+Sabah,N.44 Sri Tanjung,2,Dr Chang Chau Lap @ Charlie,11301,SCA,16,521
+Sabah,N.44 Sri Tanjung,3,Hue Min Kong @ Hiew Min Kong,11302,BERJAYA,31,4559
+Sabah,N.45 Lahad Datu,1,Datu Nasrun Bin Datu Mansur,11303,BEBAS,1,867
+Sabah,N.45 Lahad Datu,2,Gamut Ismail @ Zamrin,1921,BERJAYA,31,3763
+Sabah,N.45 Lahad Datu,3,Kasuari B. Ariff,11305,BEBAS,1,85
+Sabah,N.45 Lahad Datu,4,Mohammad Bin Kama @ Mohd. Kamal Bin Kamaruddin,11306,BEBAS,1,49
+Sabah,N.45 Lahad Datu,5,Muhammad Bin Hj. Mansur,11307,BEBAS,1,17
+Sabah,N.45 Lahad Datu,6,Mohamaddin Bin Ketapi,2224,PBS,48,4556
+Sabah,N.46 Kunak,1,Salim Bin Bachu @ Salin Bin Bacho,7953,USNO,15,3750
+Sabah,N.46 Kunak,2,William Chiuh,11310,PBS,48,2161
+Sabah,N.46 Kunak,3,Mohamad Jikiranu @ Utoh Imam Tahassam,11311,BEBAS,1,105
+Sabah,N.47 Balung,1,Hj. Ahmad Bin Hj. Awang @ Madon,11312,USNO,15,3156
+Sabah,N.47 Balung,2,Chan Tse Huang @ Chan Tze Hung Stephen,11313,PCBS,44,61
+Sabah,N.47 Balung,3,Loh Ah Su @ Lo Soo On,11314,BERJAYA,31,883
+Sabah,N.47 Balung,4,Ahmad Bahrom Bin Datuk Hj. Abu Bakar Titingan @ Bahrom,11315,PBS,48,4099
+Sabah,N.48 Sulabayan,1,N. C. Datu Eranza Bin Datu Hj. Saribu,11316,PBS,48,2217
+Sabah,N.48 Sulabayan,2,Bakal Bin Manduan,11317,BEBAS,1,264
+Sabah,N.48 Sulabayan,3,Datuk Haji Sakaran Bin Dandai @ Hashim Bin Dandai,1928,USNO,15,5360

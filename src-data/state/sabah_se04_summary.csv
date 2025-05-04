@@ -1,49 +1,49 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Sabah,N.01 Banggi,Banggi,4885,3553,0,120
-Sabah,N.02 Kudat,Kudat,8335,6378,0,116
-Sabah,N.03 Bengkoka,Bengkoka,5203,3656,0,47
-Sabah,N.04 Matunggong,Matunggong,4858,3944,0,66
-Sabah,N.05 Langkon,Langkon,4908,3578,0,78
-Sabah,N.06 Tandek,Tandek,4705,3102,0,128
-Sabah,N.07 Usukan,Usukan,7436,6400,0,169
-Sabah,N.08 Tempasuk,Tempasuk,6358,5090,0,112
-Sabah,N.09 Kebayau,Kebayau,5597,4797,0,79
-Sabah,N.10 Sugut,Sugut,4724,2804,0,80
-Sabah,N.11 Semawang,Semawang,6260,4626,0,73
-Sabah,N.12 Labuk,Labuk,4457,3215,0,75
-Sabah,N.13 Sulaman,Sulaman,6923,5541,0,51
-Sabah,N.14 Tamparuli,Tamparuli,6135,5022,0,87
-Sabah,N.15 Kiulu,Kiulu,4903,3796,0,131
-Sabah,N.16 Kundasang,Kundasang,5349,4381,0,98
-Sabah,N.17 Ranau,Ranau,5959,4580,0,79
-Sabah,N.18 Tambunan,Tambunan,5356,4294,0,111
-Sabah,N.19 Likas,Likas,12347,8804,0,114
-Sabah,N.20 Kota Kinabalu,Kota Kinabalu,10269,7356,0,85
-Sabah,N.21 Tanjong Aru,Tanjong Aru,11437,8052,0,72
-Sabah,N.22 Inanam,Inanam,7665,6073,0,98
-Sabah,N.23 Moyog,Moyog,6884,5454,0,77
-Sabah,N.24 Kawang,Kawang,6424,5444,0,93
-Sabah,N.25 Elopura,Elopura,10328,7493,0,55
-Sabah,N.26 Bandar Sandakan,Bandar Sandakan,9293,6683,0,71
-Sabah,N.27 Karamunting,Karamunting,8615,6311,0,58
-Sabah,N.28 Sekong,Sekong,5982,4399,0,68
-Sabah,N.29 Kuala Kinabatangan,Kuala Kinabatangan,3974,2410,0,50
-Sabah,N.30 Kuamut,Kuamut,3662,2626,0,25
-Sabah,N.31 Papar,Papar,7328,5786,0,45
-Sabah,N.32 Bongawan,Bongawan,5754,4470,0,63
-Sabah,N.33 Kuala Penyu,Kuala Penyu,4538,3795,0,92
-Sabah,N.34 Labuan,Labuan,8583,7023,0,66
-Sabah,N.35 Kilas,Kilas,6692,5012,0,98
-Sabah,N.36 Lumadan,Lumadan,5895,4735,0,99
-Sabah,N.37 Blingkor,Blingkor,6612,5257,0,111
-Sabah,N.38 Sook,Sook,7569,5335,0,151
-Sabah,N.39 Pensiangan,Pensiangan,4102,2660,0,122
-Sabah,N.40 Lahad Datu,Lahad Datu,8796,6505,0,93
-Sabah,N.41 Kunak,Kunak,4856,3726,0,40
-Sabah,N.42 Semporna,Semporna,7603,5510,0,203
-Sabah,N.43 Tenom,Tenom,5184,4036,0,96
-Sabah,N.44 Sipitang,Sipitang,4680,3823,0,66
-Sabah,N.45 Kemabong,Kemabong,3981,3096,0,98
-Sabah,N.46 Merotai,Merotai,6823,4948,0,110
-Sabah,N.47 Balung,Balung,6104,4698,0,73
-Sabah,N.48 Bandar Tawau,Bandar Tawau,10543,7991,0,103
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Sabah,N.01 Banggi,4885,3553,0,120
+Sabah,N.02 Kudat,8335,6378,0,116
+Sabah,N.03 Bengkoka,5203,3656,0,47
+Sabah,N.04 Matunggong,4858,3944,0,66
+Sabah,N.05 Langkon,4908,3578,0,78
+Sabah,N.06 Tandek,4705,3102,0,128
+Sabah,N.07 Usukan,7436,6400,0,169
+Sabah,N.08 Tempasuk,6358,5090,0,112
+Sabah,N.09 Kebayau,5597,4797,0,79
+Sabah,N.10 Sugut,4724,2804,0,80
+Sabah,N.11 Semawang,6260,4626,0,73
+Sabah,N.12 Labuk,4457,3215,0,75
+Sabah,N.13 Sulaman,6923,5541,0,51
+Sabah,N.14 Tamparuli,6135,5022,0,87
+Sabah,N.15 Kiulu,4903,3796,0,131
+Sabah,N.16 Kundasang,5349,4381,0,98
+Sabah,N.17 Ranau,5959,4580,0,79
+Sabah,N.18 Tambunan,5356,4294,0,111
+Sabah,N.19 Likas,12347,8804,0,114
+Sabah,N.20 Kota Kinabalu,10269,7356,0,85
+Sabah,N.21 Tanjong Aru,11437,8052,0,72
+Sabah,N.22 Inanam,7665,6073,0,98
+Sabah,N.23 Moyog,6884,5454,0,77
+Sabah,N.24 Kawang,6424,5444,0,93
+Sabah,N.25 Elopura,10328,7493,0,55
+Sabah,N.26 Bandar Sandakan,9293,6683,0,71
+Sabah,N.27 Karamunting,8615,6311,0,58
+Sabah,N.28 Sekong,5982,4399,0,68
+Sabah,N.29 Kuala Kinabatangan,3974,2410,0,50
+Sabah,N.30 Kuamut,3662,2626,0,25
+Sabah,N.31 Papar,7328,5786,0,45
+Sabah,N.32 Bongawan,5754,4470,0,63
+Sabah,N.33 Kuala Penyu,4538,3795,0,92
+Sabah,N.34 Labuan,8583,7023,0,66
+Sabah,N.35 Kilas,6692,5012,0,98
+Sabah,N.36 Lumadan,5895,4735,0,99
+Sabah,N.37 Blingkor,6612,5257,0,111
+Sabah,N.38 Sook,7569,5335,0,151
+Sabah,N.39 Pensiangan,4102,2660,0,122
+Sabah,N.40 Lahad Datu,8796,6505,0,93
+Sabah,N.41 Kunak,4856,3726,0,40
+Sabah,N.42 Semporna,7603,5510,0,203
+Sabah,N.43 Tenom,5184,4036,0,96
+Sabah,N.44 Sipitang,4680,3823,0,66
+Sabah,N.45 Kemabong,3981,3096,0,98
+Sabah,N.46 Merotai,6823,4948,0,110
+Sabah,N.47 Balung,6104,4698,0,73
+Sabah,N.48 Bandar Tawau,10543,7991,0,103

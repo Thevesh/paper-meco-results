@@ -1,33 +1,33 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pahang,N.01 Jelai,Jelai,5237,3320,0,171
-Pahang,N.02 Tanah Rata,Tanah Rata,8503,6428,0,291
-Pahang,N.03 Bukit Betong,Bukit Betong,4658,3516,0,226
-Pahang,N.04 Bandar Lipis,Bandar Lipis,6477,4620,0,257
-Pahang,N.05 Benta,Benta,6117,4580,0,269
-Pahang,N.06 Tahan,Tahan,8270,6430,0,464
-Pahang,N.07 Tembeling,Tembeling,4020,3020,0,258
-Pahang,N.08 Jenderak,Jenderak,5169,3796,0,345
-Pahang,N.09 Bandar Jerantut,Bandar Jerantut,8108,5923,0,337
-Pahang,N.10 Kerdau,Kerdau,4835,3599,0,379
-Pahang,N.11 Beserah,Beserah,10690,7968,0,278
-Pahang,N.12 Sungai Lembing,Sungai Lembing,10827,8514,0,325
-Pahang,N.13 Bandar Kuantan,Bandar Kuantan,16712,11879,0,421
-Pahang,N.14 Batu Talam,Batu Talam,7367,5732,0,433
-Pahang,N.15 Dong,Dong,0,0,0,0
-Pahang,N.16 Bandar Raub,Bandar Raub,11375,8984,0,439
-Pahang,N.17 Paya Besar,Paya Besar,8840,6582,0,307
-Pahang,N.18 Bandar Maran,Bandar Maran,6937,5320,0,276
-Pahang,N.19 Jengka,Jengka,11247,9087,0,394
-Pahang,N.20 Chenor,Chenor,6171,4742,0,202
-Pahang,N.21 Karak,Karak,10231,8040,0,476
-Pahang,N.22 Bandar Bentong,Bandar Bentong,12090,9837,0,526
-Pahang,N.23 Semantan,Semantan,11335,8458,0,609
-Pahang,N.24 Kuala Pahang,Kuala Pahang,5045,3876,0,239
-Pahang,N.25 Chini,Chini,5156,3698,0,228
-Pahang,N.26 Bandar Pekan,Bandar Pekan,6343,4635,0,199
-Pahang,N.27 Bukit,Bukit,4628,2788,0,245
-Pahang,N.28 Rompin,Rompin,5647,3984,0,304
-Pahang,N.29 Mentakab,Mentakab,11413,8394,0,580
-Pahang,N.30 Bandar Temerloh,Bandar Temerloh,7966,5886,0,480
-Pahang,N.31 Bera,Bera,10648,8265,0,501
-Pahang,N.32 Triang,Triang,7731,6190,0,399
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Pahang,N.01 Jelai,5237,3320,0,171
+Pahang,N.02 Tanah Rata,8503,6428,0,291
+Pahang,N.03 Bukit Betong,4658,3516,0,226
+Pahang,N.04 Bandar Lipis,6477,4620,0,257
+Pahang,N.05 Benta,6117,4580,0,269
+Pahang,N.06 Tahan,8270,6430,0,464
+Pahang,N.07 Tembeling,4020,3020,0,258
+Pahang,N.08 Jenderak,5169,3796,0,345
+Pahang,N.09 Bandar Jerantut,8108,5923,0,337
+Pahang,N.10 Kerdau,4835,3599,0,379
+Pahang,N.11 Beserah,10690,7968,0,278
+Pahang,N.12 Sungai Lembing,10827,8514,0,325
+Pahang,N.13 Bandar Kuantan,16712,11879,0,421
+Pahang,N.14 Batu Talam,7367,5732,0,433
+Pahang,N.15 Dong,0,0,0,0
+Pahang,N.16 Bandar Raub,11375,8984,0,439
+Pahang,N.17 Paya Besar,8840,6582,0,307
+Pahang,N.18 Bandar Maran,6937,5320,0,276
+Pahang,N.19 Jengka,11247,9087,0,394
+Pahang,N.20 Chenor,6171,4742,0,202
+Pahang,N.21 Karak,10231,8040,0,476
+Pahang,N.22 Bandar Bentong,12090,9837,0,526
+Pahang,N.23 Semantan,11335,8458,0,609
+Pahang,N.24 Kuala Pahang,5045,3876,0,239
+Pahang,N.25 Chini,5156,3698,0,228
+Pahang,N.26 Bandar Pekan,6343,4635,0,199
+Pahang,N.27 Bukit,4628,2788,0,245
+Pahang,N.28 Rompin,5647,3984,0,304
+Pahang,N.29 Mentakab,11413,8394,0,580
+Pahang,N.30 Bandar Temerloh,7966,5886,0,480
+Pahang,N.31 Bera,10648,8265,0,501
+Pahang,N.32 Triang,7731,6190,0,399

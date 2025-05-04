@@ -1,42 +1,42 @@
-state,dun,area_name,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pahang,N.01 Tanah Rata,Tanah Rata,26838,19052,33,438
-Pahang,N.02 Jelai,Jelai,19182,15137,38,485
-Pahang,N.03 Padang Tengku,Padang Tengku,19407,15497,47,182
-Pahang,N.04 Cheka,Cheka,16822,12565,41,143
-Pahang,N.05 Benta,Benta,10895,8281,18,74
-Pahang,N.06 Batu Talam,Batu Talam,19683,15373,32,257
-Pahang,N.07 Tras,Tras,38329,28000,57,257
-Pahang,N.08 Dong,Dong,17052,13725,33,145
-Pahang,N.09 Tahan,Tahan,20895,16569,38,267
-Pahang,N.10 Damak,Damak,34967,26606,81,318
-Pahang,N.11 Pulau Tawar,Pulau Tawar,31189,24599,64,296
-Pahang,N.12 Beserah,Beserah,59370,46669,185,405
-Pahang,N.13 Semambu,Semambu,61179,47723,76,405
-Pahang,N.14 Teruntum,Teruntum,30854,22377,51,183
-Pahang,N.15 Tanjung Lumpur,Tanjung Lumpur,38185,30730,52,306
-Pahang,N.16 Inderapura,Inderapura,18558,15408,19,159
-Pahang,N.17 Sungai Lembing,Sungai Lembing,19130,14880,14,172
-Pahang,N.18 Lepar,Lepar,25728,20016,38,256
-Pahang,N.19 Panching,Panching,34886,27864,41,252
-Pahang,N.20 Pulau Manis,Pulau Manis,30113,24427,53,276
-Pahang,N.21 Peramu Jaya,Peramu Jaya,41915,33952,98,299
-Pahang,N.22 Bebar,Bebar,21294,15997,32,402
-Pahang,N.23 Chini,Chini,26121,20244,40,320
-Pahang,N.24 Luit,Luit,16279,12596,35,139
-Pahang,N.25 Kuala Sentul,Kuala Sentul,17434,13231,36,181
-Pahang,N.26 Chenor,Chenor,19415,15838,38,159
-Pahang,N.27 Jenderak,Jenderak,13994,11054,12,231
-Pahang,N.28 Kerdau,Kerdau,15184,12277,33,123
-Pahang,N.29 Jengka,Jengka,31359,25111,73,213
-Pahang,N.30 Mentakab,Mentakab,37269,28699,81,182
-Pahang,N.31 Lanchang,Lanchang,32774,25383,54,361
-Pahang,N.32 Kuala Semantan,Kuala Semantan,36786,29532,83,272
-Pahang,N.33 Bilut,Bilut,24286,18702,39,188
-Pahang,N.34 Ketari,Ketari,30758,23902,46,242
-Pahang,N.35 Sabai,Sabai,15643,12005,24,136
-Pahang,N.36 Pelangai,Pelangai,16371,12846,18,164
-Pahang,N.37 Guai,Guai,24412,19408,102,251
-Pahang,N.38 Triang,Triang,25891,19218,11,237
-Pahang,N.39 Kemayan,Kemayan,27366,21880,28,1209
-Pahang,N.40 Bukit Ibam,Bukit Ibam,31003,24040,56,368
-Pahang,N.41 Muadzam Shah,Muadzam Shah,29663,22733,55,409
+state,dun,voters_total,ballots_issued,ballots_not_returned,votes_rejected
+Pahang,N.01 Tanah Rata,26838,19052,33,438
+Pahang,N.02 Jelai,19182,15137,38,485
+Pahang,N.03 Padang Tengku,19407,15497,47,182
+Pahang,N.04 Cheka,16822,12565,41,143
+Pahang,N.05 Benta,10895,8281,18,74
+Pahang,N.06 Batu Talam,19683,15373,32,257
+Pahang,N.07 Tras,38329,28000,57,257
+Pahang,N.08 Dong,17052,13725,33,145
+Pahang,N.09 Tahan,20895,16569,38,267
+Pahang,N.10 Damak,34967,26606,81,318
+Pahang,N.11 Pulau Tawar,31189,24599,64,296
+Pahang,N.12 Beserah,59370,46669,185,405
+Pahang,N.13 Semambu,61179,47723,76,405
+Pahang,N.14 Teruntum,30854,22377,51,183
+Pahang,N.15 Tanjung Lumpur,38185,30730,52,306
+Pahang,N.16 Inderapura,18558,15408,19,159
+Pahang,N.17 Sungai Lembing,19130,14880,14,172
+Pahang,N.18 Lepar,25728,20016,38,256
+Pahang,N.19 Panching,34886,27864,41,252
+Pahang,N.20 Pulau Manis,30113,24427,53,276
+Pahang,N.21 Peramu Jaya,41915,33952,98,299
+Pahang,N.22 Bebar,21294,15997,32,402
+Pahang,N.23 Chini,26121,20244,40,320
+Pahang,N.24 Luit,16279,12596,35,139
+Pahang,N.25 Kuala Sentul,17434,13231,36,181
+Pahang,N.26 Chenor,19415,15838,38,159
+Pahang,N.27 Jenderak,13994,11054,12,231
+Pahang,N.28 Kerdau,15184,12277,33,123
+Pahang,N.29 Jengka,31359,25111,73,213
+Pahang,N.30 Mentakab,37269,28699,81,182
+Pahang,N.31 Lanchang,32774,25383,54,361
+Pahang,N.32 Kuala Semantan,36786,29532,83,272
+Pahang,N.33 Bilut,24286,18702,39,188
+Pahang,N.34 Ketari,30758,23902,46,242
+Pahang,N.35 Sabai,15643,12005,24,136
+Pahang,N.36 Pelangai,16371,12846,18,164
+Pahang,N.37 Guai,24412,19408,102,251
+Pahang,N.38 Triang,25891,19218,11,237
+Pahang,N.39 Kemayan,27366,21880,28,1209
+Pahang,N.40 Bukit Ibam,31003,24040,56,368
+Pahang,N.41 Muadzam Shah,29663,22733,55,409

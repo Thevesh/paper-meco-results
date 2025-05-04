@@ -1,447 +1,447 @@
-state,parlimen,area_name,ballot_order,name,candidate_uid,party,party_uid,votes
-Perlis,P.001 Padang Besar,Padang Besar,1,Wan Kharizal Wan Khazim,2914,PAS,3,9058
-Perlis,P.001 Padang Besar,Padang Besar,2,Datuk Seri Azmi Khalid,2289,BN,25,18323
-Perlis,P.002 Kangar,Kangar,1,Datuk Radzi Sheikh Ahmad,2915,BN,25,22498
-Perlis,P.002 Kangar,Kangar,2,Ishar Saad,2916,PAS,3,9950
-Perlis,P.003 Arau,Arau,1,Datuk Dr Haron Din,2918,PAS,3,14124
-Perlis,P.003 Arau,Arau,2,Datuk Seri Syed Razlan Syed Putra Jamalullail,2917,BN,25,17367
-Kedah,P.004 Langkawi,Langkawi,1,Datuk Abu Bakar Taib,2919,BN,25,16510
-Kedah,P.004 Langkawi,Langkawi,2,Zubir Ahmad,2920,PAS,3,5738
-Kedah,P.005 Jerlun,Jerlun,1,Datuk Abdul Rahman Ariffin,2921,BN,25,19123
-Kedah,P.005 Jerlun,Jerlun,2,Idris Ahmad,2922,PAS,3,16981
-Kedah,P.006 Kubang Pasu,Kubang Pasu,1,Datuk Mohd Johari Baharom,2923,BN,25,26657
-Kedah,P.006 Kubang Pasu,Kubang Pasu,2,Dr Abdul Isa Ismail,2924,PAS,3,12945
-Kedah,P.007 Padang Terap,Padang Terap,1,Zawawi Haji Ahmad,2926,PAS,3,12604
-Kedah,P.007 Padang Terap,Padang Terap,2,Datuk Ghazali Ibrahim,2925,BN,25,14776
-Kedah,P.008 Pokok Sena,Pokok Sena,1,Mahfuz Omar,2928,PAS,3,22440
-Kedah,P.008 Pokok Sena,Pokok Sena,2,Datuk Abdul Rahman Ibrahim,2927,BN,25,29740
-Kedah,P.009 Alor Setar,Alor Setar,1,Datuk Chor Chee Heung,2929,BN,25,28379
-Kedah,P.009 Alor Setar,Alor Setar,2,Siti Nor Abdul Hamid,2930,PKR,11,13864
-Kedah,P.010 Kuala Kedah,Kuala Kedah,1,Mohamed Sabu,2932,PAS,3,26493
-Kedah,P.010 Kuala Kedah,Kuala Kedah,2,Hashim Jahaya,2931,BN,25,36707
-Kedah,P.011 Pendang,Pendang,1,Md Rozai Shafian,2933,BN,25,24380
-Kedah,P.011 Pendang,Pendang,2,Dr Mohd Hayati Othman,2934,PAS,3,24430
-Kedah,P.012 Jerai,Jerai,1,Datuk Badruddin Amirudin,2935,BN,25,30154
-Kedah,P.012 Jerai,Jerai,2,Che Bin Arshad,2936,PAS,3,19749
-Kedah,P.013 Sik,Sik,1,Azizan Abdul Razak,2938,PAS,3,15038
-Kedah,P.013 Sik,Sik,2,Datuk Dr Wan Azmi Wan Ariffin,2937,BN,25,15357
-Kedah,P.014 Merbok,Merbok,1,Saiful Izham Ramli,2940,PKR,11,14162
-Kedah,P.014 Merbok,Merbok,2,Datuk Zainuddin Maidin,2939,BN,25,29607
-Kedah,P.015 Sungai Petani,Sungai Petani,1,Zamri Yusof,2942,PKR,11,18565
-Kedah,P.015 Sungai Petani,Sungai Petani,2,Datuk Mahadzir Mohd Khir,2941,BN,25,36067
-Kedah,P.016 Baling,Baling,1,Datuk Dr Mashitah Ibrahim,2943,BN,25,32661
-Kedah,P.016 Baling,Baling,2,Taib Azamudden Md Taib,2944,PAS,3,28432
-Kedah,P.017 Padang Serai,Padang Serai,1,Lim Bee Kau,2616,BN,25,26269
-Kedah,P.017 Padang Serai,Padang Serai,2,Saifuddin Nasution Ismail,2615,PKR,11,15953
-Kedah,P.018 Kulim-Bandar Baharu,Kulim-Bandar Baharu,1,Datuk Paduka Abdul Kadir Sheikh Fadzir,1117,BN,25,22556
-Kedah,P.018 Kulim-Bandar Baharu,Kulim-Bandar Baharu,2,Alwi Mohamed Yusop,2945,PKR,11,14558
-Kelantan,P.019 Tumpat,Tumpat,1,Datuk Kamarudin Jaafar,2947,PAS,3,27919
-Kelantan,P.019 Tumpat,Tumpat,2,Mat Nawawi Mat Jusoh,2946,BN,25,26099
-Kelantan,P.020 Pengkalan Chepa,Pengkalan Chepa,1,Datuk Ab Halim Ab Rahman,2949,PAS,3,20621
-Kelantan,P.020 Pengkalan Chepa,Pengkalan Chepa,2,Datuk Dr Nik Mohd Zain Omar,2948,BN,25,14399
-Kelantan,P.021 Kota Bharu,Kota Bharu,1,Nik Mahmood Nik Hassan,2951,PKR,11,22108
-Kelantan,P.021 Kota Bharu,Kota Bharu,2,Datuk Zaid Ibrahim,2950,BN,25,23831
-Kelantan,P.022 Pasir Mas,Pasir Mas,1,Datuk Ibrahim Ali,2954,BEBAS,1,6198
-Kelantan,P.022 Pasir Mas,Pasir Mas,2,Ismail Noh,2953,PAS,3,17526
-Kelantan,P.022 Pasir Mas,Pasir Mas,3,Datuk Abd Rahim Ab Rahman,2952,BN,25,16275
-Kelantan,P.023 Rantau Panjang,Rantau Panjang,1,Mohd Daud Hamat,2955,BN,25,14295
-Kelantan,P.023 Rantau Panjang,Rantau Panjang,2,Abdul Fatah Haron,2956,PAS,3,15027
-Kelantan,P.024 Kubang Kerian,Kubang Kerian,1,Salahuddin Ayub,2958,PAS,3,21430
-Kelantan,P.024 Kubang Kerian,Kubang Kerian,2,Datuk Ahmad Rusli Iberahim,2957,BN,25,15803
-Kelantan,P.025 Bachok,Bachok,1,Wan Nik Wan Yusof,2960,PAS,3,21774
-Kelantan,P.025 Bachok,Bachok,2,Datuk Dr Awang Adek Hussin,2959,BN,25,23341
-Kelantan,P.026 Ketereh,Ketereh,1,Muamad Mustafa,2962,PKR,11,17136
-Kelantan,P.026 Ketereh,Ketereh,2,Md Alwi Che Ahmad,2961,BN,25,20024
-Kelantan,P.027 Tanah Merah,Tanah Merah,1,Shaari Hassan,2963,BN,25,16107
-Kelantan,P.027 Tanah Merah,Tanah Merah,2,Saupi Daud,2964,PKR,11,13580
-Kelantan,P.028 Pasir Puteh,Pasir Puteh,1,Kalthom Othman,2966,PAS,3,27018
-Kelantan,P.028 Pasir Puteh,Pasir Puteh,2,Che Min Che Ahmad,2965,BN,25,23208
-Kelantan,P.029 Machang,Machang,1,Mohd Yusof Mohd Noor,2968,PAS,3,17329
-Kelantan,P.029 Machang,Machang,2,Sazmi Miah,2967,BN,25,17464
-Kelantan,P.030 Jeli,Jeli,1,Datuk Mustapa Mohamed,2969,BN,25,16960
-Kelantan,P.030 Jeli,Jeli,2,Mohd Apandi Mohamed,2970,PAS,3,9607
-Kelantan,P.031 Kuala Krai,Kuala Krai,1,Mohammad Razali Che Mamat,2971,BN,25,19148
-Kelantan,P.031 Kuala Krai,Kuala Krai,2,Abdul Rahim Wan Abdullah,2972,PAS,3,16732
-Kelantan,P.032 Gua Musang,Gua Musang,1,Tengku Razaleigh Hamzah,872,BN,25,13570
-Kelantan,P.032 Gua Musang,Gua Musang,2,Dr Zulkifli Ahmad,2973,PAS,3,6972
-Terengganu,P.033 Besut,Besut,1,Nasharudin Mat Isa,2975,PAS,3,17587
-Terengganu,P.033 Besut,Besut,2,Prof Datuk Dr. Abdullah Mohd Zin,2974,BN,25,26087
-Terengganu,P.034 Setiu,Setiu,1,Mohd Yusof Majid,2976,BN,25,24546
-Terengganu,P.034 Setiu,Setiu,2,Che Ghani Che Ambak,2644,PAS,3,17141
-Terengganu,P.035 Kuala Nerus,Kuala Nerus,1,Mohd Shukrimun Shamsudin,2978,PAS,3,20798
-Terengganu,P.035 Kuala Nerus,Kuala Nerus,2,Che Azmi Abd Rahman,2977,BN,25,24895
-Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,1,Razali Ismail,2979,BN,25,30994
-Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,2,Dr Syed Azam Syed Ahmad,2980,PAS,3,29061
-Terengganu,P.037 Marang,Marang,1,Datuk Seri Abdul Hadi Awang,1712,PAS,3,27913
-Terengganu,P.037 Marang,Marang,2,Datuk Abdul Rahman Bakar,2981,BN,25,28076
-Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,1,Muhyidin Abd Rashid,2983,PAS,3,16055
-Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,2,Tengku Putera Tengku Awang,2982,BN,25,23815
-Terengganu,P.039 Dungun,Dungun,1,Datuk Rosli Mat Hassan,2984,BN,25,26398
-Terengganu,P.039 Dungun,Dungun,2,Datuk Mustafa Ali,2985,PAS,3,21502
-Terengganu,P.040 Kemaman,Kemaman,1,Ahmad Shabery Chik,2986,BN,25,36517
-Terengganu,P.040 Kemaman,Kemaman,2,Abdl Rahman Yusof,2987,PKR,11,20635
-Pulau Pinang,P.041 Kepala Batas,Kepala Batas,1,Abdul Rashid Rasid,2988,PAS,3,7281
-Pulau Pinang,P.041 Kepala Batas,Kepala Batas,2,Datuk Seri Abdullah Ahmad Badawi,2655,BN,25,25403
-Pulau Pinang,P.042 Tasek Gelugor,Tasek Gelugor,1,Datuk Seri Mohd Shariff Omar,2989,BN,25,22011
-Pulau Pinang,P.042 Tasek Gelugor,Tasek Gelugor,2,Mujahid Yusof Rawa,2990,PAS,3,11828
-Pulau Pinang,P.043 Bagan,Bagan,1,Lim Chien Aun,2991,BN,25,19473
-Pulau Pinang,P.043 Bagan,Bagan,2,Lim Hock Seng,2044,DAP,18,23095
-Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,1,Datuk Pirdaus Ismail,2992,BN,25,21147
-Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,2,Datin Seri Dr Wan Azizah Wan Ismail,4901,PKR,11,21737
-Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,1,Chong Eng,2661,DAP,18,26215
-Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,2,Ma Kok Ben,2993,BN,25,17651
-Pulau Pinang,P.046 Batu Kawan,Batu Kawan,1,Huan Cheng Guan,2994,BN,25,17097
-Pulau Pinang,P.046 Batu Kawan,Batu Kawan,2,Tanasekharan A/L Audherapady,2996,DAP,18,6552
-Pulau Pinang,P.046 Batu Kawan,Batu Kawan,3,Law Choo Kian,2995,PKR,11,8099
-Pulau Pinang,P.047 Nibong Tebal,Nibong Tebal,1,Datuk Zainal Abidin Osman,2997,BN,25,18823
-Pulau Pinang,P.047 Nibong Tebal,Nibong Tebal,2,Goh Kheng Huat,2664,PKR,11,12818
-Pulau Pinang,P.048 Bukit Bendera,Bukit Bendera,1,Chia Kwang Chye,2355,BN,25,28281
-Pulau Pinang,P.048 Bukit Bendera,Bukit Bendera,2,Zulkifli Mohd Noor,2668,DAP,18,17564
-Pulau Pinang,P.049 Tanjong,Tanjong,1,Ooi Swee Hing,2998,BN,25,17424
-Pulau Pinang,P.049 Tanjong,Tanjong,2,Chow Kon Yeow,2665,DAP,18,21652
-Pulau Pinang,P.050 Jelutong,Jelutong,1,Lee Kah Choon,2667,BN,25,24988
-Pulau Pinang,P.050 Jelutong,Jelutong,2,Gooi Seong Kin,2999,DAP,18,17518
-Pulau Pinang,P.051 Bukit Gelugor,Bukit Gelugor,1,Lim Boo Chang,1726,BN,25,21268
-Pulau Pinang,P.051 Bukit Gelugor,Bukit Gelugor,2,Karpal Singh,848,DAP,18,22529
-Pulau Pinang,P.052 Bayan Baru,Bayan Baru,1,Ong Peng Cheow,3000,PKR,11,10579
-Pulau Pinang,P.052 Bayan Baru,Bayan Baru,2,Wong Kam Hoong,2359,BN,25,29430
-Pulau Pinang,P.053 Balik Pulau,Balik Pulau,1,Datuk Dr Hilmi Yahaya,3001,BN,25,21114
-Pulau Pinang,P.053 Balik Pulau,Balik Pulau,2,Dr Rohana Ariffin,3002,PKR,11,8177
-Perak,P.054 Gerik,Gerik,1,Ramli Tusin,3004,PAS,3,4224
-Perak,P.054 Gerik,Gerik,2,Datuk Dr Wan Hashim Wan Teh,3003,BN,25,12621
-Perak,P.055 Lenggong,Lenggong,1,Datil Khamsiyah Yeop,3005,BN,25,10924
-Perak,P.055 Lenggong,Lenggong,2,Zulkifli Abu,3006,PAS,3,5292
-Perak,P.056 Larut,Larut,1,Datuk Raja Ahmad Zainuddin Raja Omar,3007,BN,25,19064
-Perak,P.056 Larut,Larut,2,Kamaruddin Awang Basir,3008,PAS,3,11456
-Perak,P.057 Parit Buntar,Parit Buntar,1,Datuk Dr Hasan Mohd Ali,3010,PAS,3,14623
-Perak,P.057 Parit Buntar,Parit Buntar,2,Brig (G) Datuk Abd Hamid Ngah @ Zainal Abidin,3009,BN,25,19312
-Perak,P.058 Bagan Serai,Bagan Serai,1,Ahmad Awang,3011,PAS,3,14209
-Perak,P.058 Bagan Serai,Bagan Serai,2,Datuk Zainal Abidin Zin,2676,BN,25,19827
-Perak,P.059 Bukit Gantang,Bukit Gantang,1,Tan Lian Hoe,3012,BN,25,23294
-Perak,P.059 Bukit Gantang,Bukit Gantang,2,Dr Lo Lo Mohamed Ghazli,3013,PAS,3,14406
-Perak,P.060 Taiping,Taiping,1,Datuk M Kayveas,3014,BN,25,20129
-Perak,P.060 Taiping,Taiping,2,Ong Chee Keng,3015,DAP,18,17957
-Perak,P.060 Taiping,Taiping,3,P Annah Dorai,3016,PKR,11,4371
-Perak,P.061 Padang Rengas,Padang Rengas,1,Datuk Seri Mohamed Nazri Abd Aziz,3017,BN,25,11615
-Perak,P.061 Padang Rengas,Padang Rengas,2,Mohd Zolkafli Yahaya,3018,PKR,11,6052
-Perak,P.062 Sungai Siput,Sungai Siput,1,Samugam Ponmugam Ponnan,3020,DAP,18,2890
-Perak,P.062 Sungai Siput,Sungai Siput,2,Dr Michael Jeyakumar Devaraj,3019,PKR,11,8680
-Perak,P.062 Sungai Siput,Sungai Siput,3,Datuk Seri Samy Vellu,1172,BN,25,19029
-Perak,P.063 Tambun,Tambun,1,Dr Khairuddin Datuk Abdul Malek,3022,PAS,3,14464
-Perak,P.063 Tambun,Tambun,2,Datuk Ahmad Husni Hanadzlah,3021,BN,25,31824
-Perak,P.064 Ipoh Timor,Ipoh Timor,1,Thong Fah Chong,2688,BN,25,19077
-Perak,P.064 Ipoh Timor,Ipoh Timor,2,Lim Kit Siang,698,DAP,18,28851
-Perak,P.065 Ipoh Barat,Ipoh Barat,1,M Kulasegaran,2690,DAP,18,22935
-Perak,P.065 Ipoh Barat,Ipoh Barat,2,Datuk Ir Ho Cheong Sing,3023,BN,25,22337
-Perak,P.066 Batu Gajah,Batu Gajah,1,Fong Po Kuan,2692,DAP,18,28847
-Perak,P.066 Batu Gajah,Batu Gajah,2,Datuk Ong Ka Chuan,3024,BN,25,20814
-Perak,P.067 Kuala Kangsar,Kuala Kangsar,1,Mohammad Nizar Jamaluddin,3278,PAS,3,6747
-Perak,P.067 Kuala Kangsar,Kuala Kangsar,2,Datuk Seri Rafidah Aziz,1228,BN,25,12938
-Perak,P.068 Beruas,Beruas,1,Datuk Seri Lim Keng Yaik,3026,BN,25,15867
-Perak,P.068 Beruas,Beruas,2,Nga Hock Cheh,3027,DAP,18,11303
-Perak,P.069 Parit,Parit,1,Muhammad Ismi Mat Taib,3029,PAS,3,8112
-Perak,P.069 Parit,Parit,2,Nasaruddin Hashim,3028,BN,25,12808
-Perak,P.070 Kampar,Kampar,1,Liew Ah Kim,1461,DAP,18,13639
-Perak,P.070 Kampar,Kampar,2,Tan Sri Hew See Yong,3030,BN,25,23129
-Perak,P.071 Gopeng,Gopeng,1,Tan Sri Dr Ting Chew Peh,3031,BN,25,30312
-Perak,P.071 Gopeng,Gopeng,2,Dr Lee Boon Chye,3032,PKR,11,15530
-Perak,P.072 Tapah,Tapah,1,Dr Mohd Radzi Othman,3034,PAS,3,7359
-Perak,P.072 Tapah,Tapah,2,Datuk S Veerasingam,3033,BN,25,16945
-Perak,P.073 Pasir Salak,Pasir Salak,1,Muhaimin Sulam,3036,PAS,3,10875
-Perak,P.073 Pasir Salak,Pasir Salak,2,Tan Sri Ramli Ngah Talib,3035,BN,25,19422
-Perak,P.074 Lumut,Lumut,1,Kong Cho Ha,2706,BN,25,27415
-Perak,P.074 Lumut,Lumut,2,Mustafa Kamil Ayub,3037,PKR,11,15801
-Perak,P.075 Bagan Datok,Bagan Datok,1,Datuk Ahmad Zahid Hamidi,2707,BN,25,17049
-Perak,P.075 Bagan Datok,Bagan Datok,2,A Ayadhurai,3038,PKR,11,4510
-Perak,P.076 Telok Intan,Telok Intan,1,N Gobalakrishnan,2785,PKR,11,6128
-Perak,P.076 Telok Intan,Telok Intan,2,Wu Him Ven,3039,DAP,18,8829
-Perak,P.076 Telok Intan,Telok Intan,3,Mah Siew Keong,2709,BN,25,18870
-Perak,P.077 Tanjong Malim,Tanjong Malim,1,Shamsuddin Abdul Rahman,3041,PKR,11,9590
-Perak,P.077 Tanjong Malim,Tanjong Malim,2,Datuk Loke Yuen Yow,3040,BN,25,24283
-Pahang,P.078 Cameron Highlands,Cameron Highlands,1,Apalasamy A/L Jataliah,3043,DAP,18,3966
-Pahang,P.078 Cameron Highlands,Cameron Highlands,2,Devamany A/L Krishnasamy,3042,BN,25,10226
-Pahang,P.079 Lipis,Lipis,1,Mohd Zai Mustafa,3045,PAS,3,6246
-Pahang,P.079 Lipis,Lipis,2,Mohamad Shahrum Osman,3044,BN,25,13870
-Pahang,P.080 Raub,Raub,1,Datuk Dr Ng Yen Yen,2714,BN,25,20472
-Pahang,P.080 Raub,Raub,2,Choong Siew Oon,3046,DAP,18,10650
-Pahang,P.081 Jerantut,Jerantut,1,Dr Hamzah Jaafar,3048,PAS,3,12892
-Pahang,P.081 Jerantut,Jerantut,2,Datuk Seri Tengku Azlan Sultan Abu Bakar,3047,BN,25,21349
-Pahang,P.082 Indera Mahkota,Indera Mahkota,1,Dzulkifli Ismail,1207,PKR,11,10948
-Pahang,P.082 Indera Mahkota,Indera Mahkota,2,Datuk Wan Adnan Wan Mamat,3049,BN,25,25177
-Pahang,P.083 Kuantan,Kuantan,1,Fuziah Salleh,2716,PKR,11,12177
-Pahang,P.083 Kuantan,Kuantan,2,Datuk Fu Ah Kiow,3050,BN,25,21324
-Pahang,P.084 Paya Besar,Paya Besar,1,Datuk Seri Dr Siti Zaharah Sulaiman,3051,BN,25,20474
-Pahang,P.084 Paya Besar,Paya Besar,2,Saari Sungib,3052,PKR,11,7956
-Pahang,P.085 Pekan,Pekan,1,Datuk Seri Mohd Najib Tun Abdul Razak,1216,BN,25,31956
-Pahang,P.085 Pekan,Pekan,2,Brig Jen (B) Datuk Zakaria Dahlan,3053,PAS,3,9034
-Pahang,P.086 Maran,Maran,1,Ismail Abdul Muttalib,3054,BN,25,15725
-Pahang,P.086 Maran,Maran,2,Datuk Tuan Ibrahim Tuan Man,3055,PAS,3,8483
-Pahang,P.087 Kuala Krau,Kuala Krau,1,Musaniff Ab Rahman,3057,PAS,3,8670
-Pahang,P.087 Kuala Krau,Kuala Krau,2,Ismail Mohamed Said,3056,BN,25,16021
-Pahang,P.088 Temerloh,Temerloh,1,Idris Omar,3059,PAS,3,12026
-Pahang,P.088 Temerloh,Temerloh,2,Datuk Mohd Sarit Yusoh,3058,BN,25,24633
-Pahang,P.089 Bentong,Bentong,1,Liow Tiong Lai,2721,BN,25,27144
-Pahang,P.089 Bentong,Bentong,2,Abub Bakar Lebai Sudin,3060,DAP,18,10305
-Pahang,P.090 Bera,Bera,1,Dr Abdul Wahab Ismail,2723,PAS,3,12590
-Pahang,P.090 Bera,Bera,2,Ismail Sabri Yaakob,3061,BN,25,17572
-Pahang,P.091 Rompin,Rompin,1,Sukri Ahmad,3063,PAS,3,10009
-Pahang,P.091 Rompin,Rompin,2,Datuk Dr Jamaluddin Mohd Jarjis,3062,BN,25,19359
-Selangor,P.092 Sabak Bernam,Sabak Bernam,1,Datuk Mat Yasir Ikhsan,3064,BN,25,13826
-Selangor,P.092 Sabak Bernam,Sabak Bernam,2,Badrul Amin Bahron,3065,PKR,11,8478
-Selangor,P.093 Sungai Besar,Sungai Besar,1,Sallehen Mukhyi,3067,PAS,3,7988
-Selangor,P.093 Sungai Besar,Sungai Besar,2,Noriah Kasnon,3066,BN,25,15337
-Selangor,P.094 Hulu Selangor,Hulu Selangor,1,Datuk Ismail Kamus,3069,PAS,3,13324
-Selangor,P.094 Hulu Selangor,Hulu Selangor,2,Datuk G Palanivel,3068,BN,25,27807
-Selangor,P.095 Tanjong Karang,Tanjong Karang,1,Datuk Noh Omar,3070,BN,25,17750
-Selangor,P.095 Tanjong Karang,Tanjong Karang,2,Abdul Ghani Samsudin,3071,PAS,3,8742
-Selangor,P.096 Kuala Selangor,Kuala Selangor,1,Raja Kamaruddin Raja Abdul Wahid,3073,PKR,11,8339
-Selangor,P.096 Kuala Selangor,Kuala Selangor,2,Mohd Daud Taripeh,3072,BN,25,22001
-Selangor,P.097 Selayang,Selayang,1,Datuk Chan Kong Choy,2735,BN,25,36343
-Selangor,P.097 Selayang,Selayang,2,Koh Swe Yong,3074,PKR,11,13117
-Selangor,P.098 Gombak,Gombak,1,Dr Raman Ismail,3075,BN,25,39870
-Selangor,P.098 Gombak,Gombak,2,Dr Mohd Hatta Md Ramli,3076,PAS,3,26663
-Selangor,P.099 Ampang,Ampang,1,Dr Rozaidah Talib,3077,BN,25,33214
-Selangor,P.099 Ampang,Ampang,2,Dr A Xavier Jayakumar,3078,PKR,11,13482
-Selangor,P.100 Pandan,Pandan,1,Iskandar Abdul Samad,3080,PAS,3,12609
-Selangor,P.100 Pandan,Pandan,2,Datuk Ong Tee Keat,3079,BN,25,26721
-Selangor,P.101 Hulu Langat,Hulu Langat,1,Markiman Kobiran,3081,BN,25,40937
-Selangor,P.101 Hulu Langat,Hulu Langat,2,Datuk Yeop Adlan Che Rose,3082,PAS,3,18160
-Selangor,P.102 Serdang,Serdang,1,Wong Kok Yew,3084,DAP,18,23215
-Selangor,P.102 Serdang,Serdang,2,Datuk Yap Pian Hon,3083,BN,25,34495
-Selangor,P.103 Puchong,Puchong,1,Wong Choong Yun,3087,DAP,18,9185
-Selangor,P.103 Puchong,Puchong,2,Dr Azmi Jamion @ Jemingon,3086,PAS,3,9409
-Selangor,P.103 Puchong,Puchong,3,Lau Yeng Peng,3085,BN,25,21291
-Selangor,P.104 Kelana Jaya,Kelana Jaya,1,Syed Shahir Syed Mohamed,3089,PKR,11,14275
-Selangor,P.104 Kelana Jaya,Kelana Jaya,2,Loh Seng Kok,3088,BN,25,35846
-Selangor,P.105 Petaling Jaya Selatan,Petaling Jaya Selatan,1,R Sivarasa,3091,PKR,11,13638
-Selangor,P.105 Petaling Jaya Selatan,Petaling Jaya Selatan,2,Datuk Donald Lim Siang Chai,3090,BN,25,35054
-Selangor,P.106 Petaling Jaya Utara,Petaling Jaya Utara,1,Ronnie Liu Tian Khiew,2740,DAP,18,19379
-Selangor,P.106 Petaling Jaya Utara,Petaling Jaya Utara,2,Chew Mei Fun,2741,BN,25,32422
-Selangor,P.107 Subang,Subang,1,Mohd Nasir Hashim,3093,PKR,11,17481
-Selangor,P.107 Subang,Subang,2,Tan Sri Ks Nijhar,3092,BN,25,32941
-Selangor,P.108 Shah Alam,Shah Alam,1,Khalid Abdul Samad,3095,PAS,3,19007
-Selangor,P.108 Shah Alam,Shah Alam,2,Datuk Abdul Aziz Shamsuddin,3094,BN,25,32417
-Selangor,P.109 Kapar,Kapar,1,Ang Hiok Gai,3097,PKR,11,29419
-Selangor,P.109 Kapar,Kapar,2,P Komaladevi,3096,BN,25,44007
-Selangor,P.110 Klang,Klang,1,Datin Paduka Dr Tan Yee Kew,3098,BN,25,32138
-Selangor,P.110 Klang,Klang,2,Dr Wong Ang Peng,2746,DAP,18,18857
-Selangor,P.111 Kota Raja,Kota Raja,1,Dr Mariah Mahmud,3100,PAS,3,16137
-Selangor,P.111 Kota Raja,Kota Raja,2,T Krisnasami,3101,BEBAS,1,3608
-Selangor,P.111 Kota Raja,Kota Raja,3,S Vigneswaran,3099,BN,25,24376
-Selangor,P.112 Kuala Langat,Kuala Langat,1,Datuk Dr Shafie Mohd Salleh,3102,BN,25,34118
-Selangor,P.112 Kuala Langat,Kuala Langat,2,Zulkifli Noordin,3103,PKR,11,12623
-Selangor,P.113 Sepang,Sepang,1,Mohamed Makki Ahmad,3105,PAS,3,11918
-Selangor,P.113 Sepang,Sepang,2,Datuk Mohd Zin Mohamed,3104,BN,25,30755
-W.P. Kuala Lumpur,P.114 Kepong,Kepong,1,Dr Tan Seng Giaw,1238,DAP,18,23282
-W.P. Kuala Lumpur,P.114 Kepong,Kepong,2,Ma Woei Chyi,2759,BN,25,21428
-W.P. Kuala Lumpur,P.115 Batu,Batu,1,Ng Lip Yong @ Ng Lip Sat,3106,BN,25,28718
-W.P. Kuala Lumpur,P.115 Batu,Batu,2,Chua Tian Chang,3107,PKR,11,17201
-W.P. Kuala Lumpur,P.116 Wangsa Maju,Wangsa Maju,1,Yew Teong Look,3108,BN,25,23135
-W.P. Kuala Lumpur,P.116 Wangsa Maju,Wangsa Maju,2,Sahri Bahari,3109,PKR,11,12950
-W.P. Kuala Lumpur,P.117 Segambut,Segambut,1,Kuan Perk Siong,3111,DAP,18,11093
-W.P. Kuala Lumpur,P.117 Segambut,Segambut,2,Dr Tan Kee Kwong,3110,BN,25,28061
-W.P. Kuala Lumpur,P.118 Setiawangsa,Setiawangsa,1,Datuk Zulhasnan Rafique,3112,BN,25,27757
-W.P. Kuala Lumpur,P.118 Setiawangsa,Setiawangsa,2,Mejar (B) Abdul Rashid Hassan Basri,3113,PAS,3,8088
-W.P. Kuala Lumpur,P.119 Titiwangsa,Titiwangsa,1,Datuk Astaman Abdul Aziz,3114,BN,25,22910
-W.P. Kuala Lumpur,P.119 Titiwangsa,Titiwangsa,2,Mohamad Noor Mohamad,3115,PAS,3,11095
-W.P. Kuala Lumpur,P.120 Bukit Bintang,Bukit Bintang,1,Wee Choo Keong,1804,MDP,65,1107
-W.P. Kuala Lumpur,P.120 Bukit Bintang,Bukit Bintang,2,Fong Kui Lun,2128,DAP,18,19103
-W.P. Kuala Lumpur,P.120 Bukit Bintang,Bukit Bintang,3,Billi Lim Peng Soon,3117,BEBAS,1,132
-W.P. Kuala Lumpur,P.120 Bukit Bintang,Bukit Bintang,4,Tan Chew Mooi,3116,BN,25,18799
-W.P. Kuala Lumpur,P.121 Lembah Pantai,Lembah Pantai,1,Sanusi Osman,3119,PKR,11,11186
-W.P. Kuala Lumpur,P.121 Lembah Pantai,Lembah Pantai,2,Datuk Seri Shahrizat Abdul Jalil,3118,BN,25,26474
-W.P. Kuala Lumpur,P.122 Seputeh,Seputeh,1,Teresa Kok Suh Sim,2374,DAP,18,33197
-W.P. Kuala Lumpur,P.122 Seputeh,Seputeh,2,Chin Yen Foo,3120,BN,25,20302
-W.P. Kuala Lumpur,P.123 Cheras,Cheras,1,Lee Boon Kok,2772,BN,25,17195
-W.P. Kuala Lumpur,P.123 Cheras,Cheras,2,Tan Kok Wai,1825,DAP,18,29056
-W.P. Kuala Lumpur,P.124 Bandar Tun Razak,Bandar Tun Razak,1,Datuk Tan Chai Ho,2773,BN,25,33223
-W.P. Kuala Lumpur,P.124 Bandar Tun Razak,Bandar Tun Razak,2,Dr Rosli Ibrahim,3121,PKR,11,15696
-W.P. Putrajaya,P.125 Putrajaya,Putrajaya,1,Datuk Tengku Adnan Tengku Mansor,3122,BN,25,4086
-W.P. Putrajaya,P.125 Putrajaya,Putrajaya,2,Abdul Rahman Othman,317,PKR,11,540
-Negeri Sembilan,P.126 Jelebu,Jelebu,1,Datuk Seri Dr Rais Yatim,991,BN,25,20650
-Negeri Sembilan,P.126 Jelebu,Jelebu,2,Dr Rosli Yaakop,3123,PAS,3,5870
-Negeri Sembilan,P.127 Jempol,Jempol,1,Tan Sri Mohamed Isa Abdul Samad,3124,BN,25,26360
-Negeri Sembilan,P.127 Jempol,Jempol,2,Mohamad Fozi Mohd Zin,3125,PAS,3,9280
-Negeri Sembilan,P.128 Seremban,Seremban,1,Datuk Hon Choon Kim,3126,BN,25,36542
-Negeri Sembilan,P.128 Seremban,Seremban,2,Choong Yen Loong,3127,DAP,18,20306
-Negeri Sembilan,P.129 Kuala Pilah,Kuala Pilah,1,Annuar Mohd Saleh,3129,PKR,11,8763
-Negeri Sembilan,P.129 Kuala Pilah,Kuala Pilah,2,Datuk Hasan Malek,3128,BN,25,22105
-Negeri Sembilan,P.130 Rasah,Rasah,1,Datuk Goh Siow Huat,3130,BN,25,25009
-Negeri Sembilan,P.130 Rasah,Rasah,2,Chan Su Sann,3131,DAP,18,20446
-Negeri Sembilan,P.131 Rembau,Rembau,1,Datuk Firdaus Muhammad Rom Harun,3132,BN,25,28664
-Negeri Sembilan,P.131 Rembau,Rembau,2,Dr Dzulkefli Ahmad,2751,PAS,3,10008
-Negeri Sembilan,P.132 Telok Kemang,Telok Kemang,1,S Sothinathan,3134,BN,25,28494
-Negeri Sembilan,P.132 Telok Kemang,Telok Kemang,2,Ab Manap Sahardin,3135,PKR,11,10717
-Negeri Sembilan,P.133 Tampin,Tampin,1,Datuk Shaziman Abu Mansor,3136,BN,25,23936
-Negeri Sembilan,P.133 Tampin,Tampin,2,Abdul Razakek Abdul Rahim,3137,PAS,3,5852
-Melaka,P.134 Masjid Tanah,Masjid Tanah,1,Muhamad Burok,3138,PAS,3,5789
-Melaka,P.134 Masjid Tanah,Masjid Tanah,2,Datuk Wira Abu Seman Yusop,2788,BN,25,24188
-Melaka,P.135 Alor Gajah,Alor Gajah,1,Goh Leong San,3140,DAP,18,7372
-Melaka,P.135 Alor Gajah,Alor Gajah,2,Datuk Dr Fong Chan Onn,3139,BN,25,29920
-Melaka,P.136 Tangga Batu,Tangga Batu,1,Shamsul Iskandar Mohd Akin,3142,PKR,11,8595
-Melaka,P.136 Tangga Batu,Tangga Batu,2,Idris Haron,3141,BN,25,33039
-Melaka,P.137 Bukit Katil,Bukit Katil,1,Datuk Dr Mohd Ruddin Abdul Ghani,3143,BN,25,39491
-Melaka,P.137 Bukit Katil,Bukit Katil,2,Khalid Jaafar,2790,PKR,11,12239
-Melaka,P.138 Kota Melaka,Kota Melaka,1,Wong Nai Chee,3144,BN,25,31217
-Melaka,P.138 Kota Melaka,Kota Melaka,2,Kerk Kim Hock,2076,DAP,18,30998
-Melaka,P.139 Jasin,Jasin,1,Jasme Tompang,3146,PAS,3,9864
-Melaka,P.139 Jasin,Jasin,2,Mohd Said Yusof,3145,BN,25,31198
-Johor,P.140 Segamat,Segamat,1,Dr S Subramaniam,3147,BN,25,17953
-Johor,P.140 Segamat,Segamat,2,Pang Hok Liong,3148,DAP,18,10144
-Johor,P.141 Sekijang,Sekijang,1,Zulkapli Bin Salleh,3150,PKR,11,4786
-Johor,P.141 Sekijang,Sekijang,2,Baharum Mohamed,3149,BN,25,19628
-Johor,P.142 Labis,Labis,1,Tee Gey Yan,2795,DAP,18,5740
-Johor,P.142 Labis,Labis,2,Datuk Dr Chua Soi Lek @ Chua Kin Seng,3151,BN,25,16469
-Johor,P.143 Pagoh,Pagoh,1,Tan Sri Muhyiddin Mohd Yassin,2797,BN,25,23679
-Johor,P.143 Pagoh,Pagoh,2,Mohamed Anang,3152,PAS,3,4932
-Johor,P.144 Ledang,Ledang,1,Hamim Samuri,3153,BN,25,30967
-Johor,P.144 Ledang,Ledang,2,Kasim Ibrahim,3154,PAS,3,9296
-Johor,P.145 Bakri,Bakri,1,Datuk Chua Jui Meng,3155,BN,25,29320
-Johor,P.145 Bakri,Bakri,2,Azhari Ismail,3156,DAP,18,10261
-Johor,P.146 Muar,Muar,1,Razali Ibrahim,3157,BN,25,21116
-Johor,P.146 Muar,Muar,2,Mohamad Taib,3158,PAS,3,7701
-Johor,P.147 Parit Sulong,Parit Sulong,1,Suhaizan Kaiat,3160,PAS,3,9788
-Johor,P.147 Parit Sulong,Parit Sulong,2,Syed Hood Syed Edros,3159,BN,25,26974
-Johor,P.148 Ayer Hitam,Ayer Hitam,1,Dr Wee Ka Siong,3161,BN,25,20065
-Johor,P.148 Ayer Hitam,Ayer Hitam,2,Mohd Zamri Mat Taksis,3162,PAS,3,4302
-Johor,P.149 Sri Gading,Sri Gading,1,Datuk Mohamad Aziz,3163,BN,25,21512
-Johor,P.149 Sri Gading,Sri Gading,2,Dr Ahmad Faidi Saidi,3164,PKR,11,5316
-Johor,P.150 Batu Pahat,Batu Pahat,1,Dr Junaidy And Wahab,3165,BN,25,38982
-Johor,P.150 Batu Pahat,Batu Pahat,2,Mohamed Hanipa Maidin,2501,PAS,3,9880
-Johor,P.151 Simpang Renggam,Simpang Renggam,1,Atan Gombang,3167,PAS,3,4842
-Johor,P.151 Simpang Renggam,Simpang Renggam,2,Datuk Seri Kerk Choo Ting,3166,BN,25,18997
-Johor,P.152 Kluang,Kluang,1,Ng Lam Hua,3168,DAP,18,14303
-Johor,P.152 Kluang,Kluang,2,Hoo Seong Chang,2486,BN,25,33001
-Johor,P.153 Sembrong,Sembrong,1,Datuk Hishamuddin Tun Hussein,3169,BN,25,19575
-Johor,P.153 Sembrong,Sembrong,2,Onn Jaafar,3170,PAS,3,2597
-Johor,P.154 Mersing,Mersing,1,Idris Tukachil,3172,PAS,3,4649
-Johor,P.154 Mersing,Mersing,2,Datuk Abdul Latiff Ahmad,3171,BN,25,19222
-Johor,P.155 Tenggara,Tenggara,1,Salleh Farmin,3174,PAS,3,2618
-Johor,P.155 Tenggara,Tenggara,2,Datuk Dr Adham Baba,3173,BN,25,19706
-Johor,P.156 Kota Tinggi,Kota Tinggi,1,Datuk Syed Hamid Albar,3175,BN,25,0
-Johor,P.157 Pengerang,Pengerang,1,Datuk Azalina Othman Said,3177,BN,25,0
-Johor,P.158 Tebrau,Tebrau,1,Yaakob Mohd Yusof,3180,PAS,3,6060
-Johor,P.158 Tebrau,Tebrau,2,Ling Ban San @ Teng Boon Soon,3179,BN,25,32071
-Johor,P.159 Pasir Gudang,Pasir Gudang,1,Datuk Mohamed Khaled Nordin,3181,BN,25,38123
-Johor,P.159 Pasir Gudang,Pasir Gudang,2,A Razak Ahmad,2188,PKR,11,7002
-Johor,P.160 Johor Bahru,Johor Bahru,1,Datuk Shahrir Abdul Samad,3182,BN,25,54073
-Johor,P.160 Johor Bahru,Johor Bahru,2,Atan Ahmad,3183,PAS,3,7281
-Johor,P.161 Pulai,Pulai,1,Nasir Wahab,3185,PAS,3,7480
-Johor,P.161 Pulai,Pulai,2,Datuk Nur Jazlan Tan Sri Mohamad,3184,BN,25,42406
-Johor,P.162 Gelang Patah,Gelang Patah,1,Song Sing Kwee,1851,PKR,11,9335
-Johor,P.162 Gelang Patah,Gelang Patah,2,Tan Ah Eng,3186,BN,25,41001
-Johor,P.163 Kulai,Kulai,1,Ong Kow Meng,3187,DAP,18,14134
-Johor,P.163 Kulai,Kulai,2,Lim Si Cheng,2500,BN,25,32278
-Johor,P.164 Pontian,Pontian,1,Hassan Abdul Karim,1860,PKR,11,5509
-Johor,P.164 Pontian,Pontian,2,Hasni Mohamad,3188,BN,25,26667
-Johor,P.165 Tanjong Piai,Tanjong Piai,1,Datuk Seri Ong Ka Ting,3189,BN,25,28046
-Johor,P.165 Tanjong Piai,Tanjong Piai,2,Tan Hang Meng,2812,DAP,18,4431
-W.P. Labuan,P.166 Labuan,Labuan,1,Matusin Abdul Rahman,3191,PAS,3,3186
-W.P. Labuan,P.166 Labuan,Labuan,2,Datuk Suhaili Abdul Rahman,3190,BN,25,11087
-Sabah,P.167 Kudat,Kudat,1,Abdul Rahman Bin Sedik @ Sidek,3279,BEBAS,1,6488
-Sabah,P.167 Kudat,Kudat,2,Datuk Abdul Rahim Bakri,3192,BN,25,13236
-Sabah,P.167 Kudat,Kudat,3,Asbiah Binti Anggar,3280,BEBAS,1,1282
-Sabah,P.167 Kudat,Kudat,4,Datu Abdul Razak Abdul Salam,3194,BEBAS,1,2375
-Sabah,P.168 Kota Marudu,Kota Marudu,1,Datuk Dr Maximus Ongkili,3195,BN,25,10457
-Sabah,P.168 Kota Marudu,Kota Marudu,2,Anthony Mandiau,3196,BEBAS,1,7268
-Sabah,P.169 Kota Belud,Kota Belud,1,James Bagah,3198,BEBAS,1,8869
-Sabah,P.169 Kota Belud,Kota Belud,2,Md Salleh Md Said,2513,BN,25,19290
-Sabah,P.169 Kota Belud,Kota Belud,3,Jainin Giau,3199,SETIA,62,1551
-Sabah,P.170 Tuaran,Tuaran,1,Wilfred Madius Tangau,2834,BN,25,17354
-Sabah,P.170 Tuaran,Tuaran,2,Umsery @ Ansari Abdullah,3200,PKR,11,8855
-Sabah,P.171 Sepanggar,Sepanggar,1,Datin Saidatul Badru Tun Said,3202,PKR,11,5098
-Sabah,P.171 Sepanggar,Sepanggar,2,Eric Enchin Majimbun,3201,BN,25,16226
-Sabah,P.172 Kota Kinabalu,Kota Kinabalu,1,Hiew King Cheu,3203,DAP,18,5187
-Sabah,P.172 Kota Kinabalu,Kota Kinabalu,2,Christina Liew,3204,PKR,11,3492
-Sabah,P.172 Kota Kinabalu,Kota Kinabalu,3,Dr Yee Moh Chai,2840,BN,25,15993
-Sabah,P.173 Putatan,Putatan,1,Datuk Dr Marcus Mojigoh,3205,BN,25,13816
-Sabah,P.173 Putatan,Putatan,2,Awang Ahmad Sah,3206,PKR,11,5984
-Sabah,P.174 Penampang,Penampang,1,Donald Peter Mojuntin,3207,BN,25,16032
-Sabah,P.174 Penampang,Penampang,2,Jomilon Mojountin @ Conrad Mojountin,3208,DAP,18,3379
-Sabah,P.174 Penampang,Penampang,3,Blaise Mosidin@Frederick Francis,3210,PKR,11,864
-Sabah,P.174 Penampang,Penampang,4,Joseph Sulaiman,3209,BEBAS,1,975
-Sabah,P.175 Papar,Papar,1,Rosnah Abdul Abdul Rashid Shirlin,3211,BN,25,0
-Sabah,P.176 Kimanis,Kimanis,1,Datuk Anifah Aman,3212,BN,25,9655
-Sabah,P.176 Kimanis,Kimanis,2,Awang Tengah Awang Amin,3213,PKR,11,4547
-Sabah,P.177 Beaufort,Beaufort,1,Azizah Mohd Dun,3214,BN,25,0
-Sabah,P.178 Sipitang,Sipitang,1,Datuk Dr Yusof Yacob,3215,BN,25,0
-Sabah,P.179 Ranau,Ranau,1,Tan Sri Bernard Dompok,3216,BN,25,7547
-Sabah,P.179 Ranau,Ranau,2,Ruhimin Adzim,3217,BEBAS,1,6160
-Sabah,P.179 Ranau,Ranau,3,Karim Adam,3218,BEBAS,1,3310
-Sabah,P.179 Ranau,Ranau,4,Japiril Suhaimin,3219,BEBAS,1,1609
-Sabah,P.180 Keningau,Keningau,1,Datuk Joseph Pairin Kitingan,1895,BN,25,0
-Sabah,P.181 Tenom,Tenom,1,Raimi Unggi,3221,BN,25,8032
-Sabah,P.181 Tenom,Tenom,2,Datuk Laimun Laikin,3222,BEBAS,1,5628
-Sabah,P.182 Pensiangan,Pensiangan,1,Bernard S.Maraat,3223,BN,25,6080
-Sabah,P.182 Pensiangan,Pensiangan,2,Razali Suffian Koroh,3225,BEBAS,1,557
-Sabah,P.182 Pensiangan,Pensiangan,3,Matin Tomy@Tommy,3224,BEBAS,1,5272
-Sabah,P.183 Beluran,Beluran,1,Ronald Kiandee,2857,BN,25,0
-Sabah,P.184 Libaran,Libaran,1,Rajmunni Sabu,3227,PKR,11,2471
-Sabah,P.184 Libaran,Libaran,2,Juslie Ajirol,3226,BN,25,13140
-Sabah,P.185 Batu Sapi,Batu Sapi,1,Edmund Chong Ket Wah,3228,BN,25,0
-Sabah,P.186 Sandakan,Sandakan,1,Chong Hon Min,3230,BEBAS,1,9538
-Sabah,P.186 Sandakan,Sandakan,2,Lau Ngan Siew,2542,BN,25,8208
-Sabah,P.186 Sandakan,Sandakan,3,Liew Teck Khen @ Liaw Tech King,3231,PASOK,43,543
-Sabah,P.187 Kinabatangan,Kinabatangan,1,Bung Mokthar Radin,2861,BN,25,0
-Sabah,P.188 Silam,Silam,1,Samsu Baharom Abdul Rahman,3232,BN,25,16613
-Sabah,P.188 Silam,Silam,2,Shamsuri Baharuddin,3233,PKR,11,5865
-Sabah,P.189 Semporna,Semporna,1,Noraida Abdul Salleh,3235,BEBAS,1,816
-Sabah,P.189 Semporna,Semporna,2,Mohd Abdul Wahab Pg Abdullah,3236,PKR,11,740
-Sabah,P.189 Semporna,Semporna,3,Madjalis Bin Lais,3281,BEBAS,1,1896
-Sabah,P.189 Semporna,Semporna,4,Aldani Bin Landi,3277,BEBAS,1,1286
-Sabah,P.189 Semporna,Semporna,5,Datuk Shafie Apdal,3234,BN,25,15215
-Sabah,P.190 Tawau,Tawau,1,Shim Paw Fatt,2869,BN,25,0
-Sabah,P.191 Kalabakan,Kalabakan,1,Abdul Ghapur Salleh,3238,BN,25,0
-Sarawak,P.192 Mas Gading,Mas Gading,1,Tekhee@Tiki Ak Lafe,3239,BN,25,10579
-Sarawak,P.192 Mas Gading,Mas Gading,2,Dr Patau Rubis,3240,SNAP,19,7867
-Sarawak,P.193 Santubong,Santubong,1,Idris Bin Bohari,3241,BEBAS,1,2030
-Sarawak,P.193 Santubong,Santubong,2,Datuk Wan Junaidi Tuanku Jaafar,2242,BN,25,12590
-Sarawak,P.194 Petra Jaya,Petra Jaya,1,Fadillah Yusof,3242,BN,25,18236
-Sarawak,P.194 Petra Jaya,Petra Jaya,2,Wan Zainal Abidin Wan Senusi,2229,PKR,11,5420
-Sarawak,P.195 Bandar Kuching,Bandar Kuching,1,Chong Chieng Jen,2874,DAP,18,17914
-Sarawak,P.195 Bandar Kuching,Bandar Kuching,2,Wee Kok Tiong,3243,BN,25,15873
-Sarawak,P.196 Stampin,Stampin,1,Voon Lee Shan,2876,DAP,18,13424
-Sarawak,P.196 Stampin,Stampin,2,Datuk Yong Khoon Seng,3244,BN,25,21155
-Sarawak,P.197 Kota Samarahan,Kota Samarahan,1,Abdul Taib Mahmud,754,BN,25,0
-Sarawak,P.198 Mambong,Mambong,1,Dr James Dawos Mamit,3245,BN,25,15368
-Sarawak,P.198 Mambong,Mambong,2,Mangan Ngandok,3246,STAR,64,6270
-Sarawak,P.199 Serian,Serian,1,Richard Riot Jaem,2236,BN,25,13960
-Sarawak,P.199 Serian,Serian,2,Henry Genailanggie,3247,BEBAS,1,4265
-Sarawak,P.200 Batang Sadong,Batang Sadong,1,Datuk Seri Adenan Satem,3248,BN,25,10767
-Sarawak,P.200 Batang Sadong,Batang Sadong,2,Adam Ahid,3249,PAS,3,1035
-Sarawak,P.201 Batang Lupar,Batang Lupar,1,Datuk Rohanie Abdul Karim,3250,BN,25,0
-Sarawak,P.202 Sri Aman,Sri Aman,1,Cobbold Lusoi,3252,BEBAS,1,5311
-Sarawak,P.202 Sri Aman,Sri Aman,2,Jimmy Donald,3251,BN,25,9679
-Sarawak,P.203 Lubok Antu,Lubok Antu,1,William Nyallau Badak,3253,BEBAS,1,4927
-Sarawak,P.203 Lubok Antu,Lubok Antu,2,Jawah Anak Gerang,2564,BN,25,6962
-Sarawak,P.204 Betong,Betong,1,Abang Zulkifli Abang Engkeh,3255,SNAP,19,1895
-Sarawak,P.204 Betong,Betong,2,Datuk Douglas Uggah Embas,3254,BN,25,11618
-Sarawak,P.205 Saratok,Saratok,1,Jelaing Mersat,3256,BN,25,11995
-Sarawak,P.205 Saratok,Saratok,2,Edmond Stanley Jugol,3257,SNAP,19,4450
-Sarawak,P.206 Kuala Rajang,Kuala Rajang,1,Datuk Wahab Dolah,3258,BN,25,0
-Sarawak,P.207 Sarikei,Sarikei,1,Ngu Tieng Hai,3262,BEBAS,1,3886
-Sarawak,P.207 Sarikei,Sarikei,2,Datuk Seri Law Hieng Ding,3259,BN,25,15485
-Sarawak,P.207 Sarikei,Sarikei,3,Juna Anak Jawek,3260,BEBAS,1,864
-Sarawak,P.207 Sarikei,Sarikei,4,Ling Bit Tiing,3261,BEBAS,1,1667
-Sarawak,P.208 Julau,Julau,1,Datuk Joseph Salang Gandum,3263,BN,25,8388
-Sarawak,P.208 Julau,Julau,2,Josephine Randum Mawat,3264,BEBAS,1,5700
-Sarawak,P.209 Kanowit,Kanowit,1,Frederick Bungsu Janton,3266,BEBAS,1,4381
-Sarawak,P.209 Kanowit,Kanowit,2,Aaron Ago Dagang,3265,BN,25,6438
-Sarawak,P.210 Lanang,Lanang,1,David Wong Kee Woan,3267,DAP,18,10174
-Sarawak,P.210 Lanang,Lanang,2,Tiong Thai King,2574,BN,25,14895
-Sarawak,P.211 Sibu,Sibu,1,Wong Ho Leng,1965,DAP,18,17161
-Sarawak,P.211 Sibu,Sibu,2,Datuk Robert Lau Hoi Chew,3268,BN,25,20501
-Sarawak,P.212 Mukah,Mukah,1,Datuk Dr. Leo Michael Toyad,1644,BN,25,11829
-Sarawak,P.212 Mukah,Mukah,2,Mohamad @ Latip Rahman,3269,BEBAS,1,2651
-Sarawak,P.213 Selangau,Selangau,1,Joseph Entulu Belaun,3270,BN,25,7876
-Sarawak,P.213 Selangau,Selangau,2,Liman Sujang,3271,SNAP,19,4260
-Sarawak,P.214 Kapit,Kapit,1,Alexander Nanta Linggi,2903,BN,25,0
-Sarawak,P.215 Hulu Rajang,Hulu Rajang,1,Abit Joo @ Billy Abit Joo,2905,BN,25,6949
-Sarawak,P.215 Hulu Rajang,Hulu Rajang,2,Bendindang Manjah,3272,SNAP,19,3283
-Sarawak,P.216 Bintulu,Bintulu,1,Dr Lau Hing Kii,3274,SNAP,19,2583
-Sarawak,P.216 Bintulu,Bintulu,2,Chiew Chiu Sing,2269,DAP,18,8958
-Sarawak,P.216 Bintulu,Bintulu,3,Datuk Seri Tiong King Sing,3273,BN,25,20225
-Sarawak,P.217 Miri,Miri,1,Peter Chin Fah Kui,2273,BN,25,0
-Sarawak,P.218 Baram,Baram,1,Datuk Jacob Dungau Sagan,3275,BN,25,7551
-Sarawak,P.218 Baram,Baram,2,Kabing Wan,3276,SNAP,19,4241
-Sarawak,P.219 Bukit Mas,Bukit Mas,1,Henry Sum Agong,2912,BN,25,0
+state,parlimen,ballot_order,name,candidate_uid,party,party_uid,votes
+Perlis,P.001 Padang Besar,1,Wan Kharizal Wan Khazim,2914,PAS,3,9058
+Perlis,P.001 Padang Besar,2,Datuk Seri Azmi Khalid,2289,BN,25,18323
+Perlis,P.002 Kangar,1,Datuk Radzi Sheikh Ahmad,2915,BN,25,22498
+Perlis,P.002 Kangar,2,Ishar Saad,2916,PAS,3,9950
+Perlis,P.003 Arau,1,Datuk Dr Haron Din,2918,PAS,3,14124
+Perlis,P.003 Arau,2,Datuk Seri Syed Razlan Syed Putra Jamalullail,2917,BN,25,17367
+Kedah,P.004 Langkawi,1,Datuk Abu Bakar Taib,2919,BN,25,16510
+Kedah,P.004 Langkawi,2,Zubir Ahmad,2920,PAS,3,5738
+Kedah,P.005 Jerlun,1,Datuk Abdul Rahman Ariffin,2921,BN,25,19123
+Kedah,P.005 Jerlun,2,Idris Ahmad,2922,PAS,3,16981
+Kedah,P.006 Kubang Pasu,1,Datuk Mohd Johari Baharom,2923,BN,25,26657
+Kedah,P.006 Kubang Pasu,2,Dr Abdul Isa Ismail,2924,PAS,3,12945
+Kedah,P.007 Padang Terap,1,Zawawi Haji Ahmad,2926,PAS,3,12604
+Kedah,P.007 Padang Terap,2,Datuk Ghazali Ibrahim,2925,BN,25,14776
+Kedah,P.008 Pokok Sena,1,Mahfuz Omar,2928,PAS,3,22440
+Kedah,P.008 Pokok Sena,2,Datuk Abdul Rahman Ibrahim,2927,BN,25,29740
+Kedah,P.009 Alor Setar,1,Datuk Chor Chee Heung,2929,BN,25,28379
+Kedah,P.009 Alor Setar,2,Siti Nor Abdul Hamid,2930,PKR,11,13864
+Kedah,P.010 Kuala Kedah,1,Mohamed Sabu,2932,PAS,3,26493
+Kedah,P.010 Kuala Kedah,2,Hashim Jahaya,2931,BN,25,36707
+Kedah,P.011 Pendang,1,Md Rozai Shafian,2933,BN,25,24380
+Kedah,P.011 Pendang,2,Dr Mohd Hayati Othman,2934,PAS,3,24430
+Kedah,P.012 Jerai,1,Datuk Badruddin Amirudin,2935,BN,25,30154
+Kedah,P.012 Jerai,2,Che Bin Arshad,2936,PAS,3,19749
+Kedah,P.013 Sik,1,Azizan Abdul Razak,2938,PAS,3,15038
+Kedah,P.013 Sik,2,Datuk Dr Wan Azmi Wan Ariffin,2937,BN,25,15357
+Kedah,P.014 Merbok,1,Saiful Izham Ramli,2940,PKR,11,14162
+Kedah,P.014 Merbok,2,Datuk Zainuddin Maidin,2939,BN,25,29607
+Kedah,P.015 Sungai Petani,1,Zamri Yusof,2942,PKR,11,18565
+Kedah,P.015 Sungai Petani,2,Datuk Mahadzir Mohd Khir,2941,BN,25,36067
+Kedah,P.016 Baling,1,Datuk Dr Mashitah Ibrahim,2943,BN,25,32661
+Kedah,P.016 Baling,2,Taib Azamudden Md Taib,2944,PAS,3,28432
+Kedah,P.017 Padang Serai,1,Lim Bee Kau,2616,BN,25,26269
+Kedah,P.017 Padang Serai,2,Saifuddin Nasution Ismail,2615,PKR,11,15953
+Kedah,P.018 Kulim-Bandar Baharu,1,Datuk Paduka Abdul Kadir Sheikh Fadzir,1117,BN,25,22556
+Kedah,P.018 Kulim-Bandar Baharu,2,Alwi Mohamed Yusop,2945,PKR,11,14558
+Kelantan,P.019 Tumpat,1,Datuk Kamarudin Jaafar,2947,PAS,3,27919
+Kelantan,P.019 Tumpat,2,Mat Nawawi Mat Jusoh,2946,BN,25,26099
+Kelantan,P.020 Pengkalan Chepa,1,Datuk Ab Halim Ab Rahman,2949,PAS,3,20621
+Kelantan,P.020 Pengkalan Chepa,2,Datuk Dr Nik Mohd Zain Omar,2948,BN,25,14399
+Kelantan,P.021 Kota Bharu,1,Nik Mahmood Nik Hassan,2951,PKR,11,22108
+Kelantan,P.021 Kota Bharu,2,Datuk Zaid Ibrahim,2950,BN,25,23831
+Kelantan,P.022 Pasir Mas,1,Datuk Ibrahim Ali,2954,BEBAS,1,6198
+Kelantan,P.022 Pasir Mas,2,Ismail Noh,2953,PAS,3,17526
+Kelantan,P.022 Pasir Mas,3,Datuk Abd Rahim Ab Rahman,2952,BN,25,16275
+Kelantan,P.023 Rantau Panjang,1,Mohd Daud Hamat,2955,BN,25,14295
+Kelantan,P.023 Rantau Panjang,2,Abdul Fatah Haron,2956,PAS,3,15027
+Kelantan,P.024 Kubang Kerian,1,Salahuddin Ayub,2958,PAS,3,21430
+Kelantan,P.024 Kubang Kerian,2,Datuk Ahmad Rusli Iberahim,2957,BN,25,15803
+Kelantan,P.025 Bachok,1,Wan Nik Wan Yusof,2960,PAS,3,21774
+Kelantan,P.025 Bachok,2,Datuk Dr Awang Adek Hussin,2959,BN,25,23341
+Kelantan,P.026 Ketereh,1,Muamad Mustafa,2962,PKR,11,17136
+Kelantan,P.026 Ketereh,2,Md Alwi Che Ahmad,2961,BN,25,20024
+Kelantan,P.027 Tanah Merah,1,Shaari Hassan,2963,BN,25,16107
+Kelantan,P.027 Tanah Merah,2,Saupi Daud,2964,PKR,11,13580
+Kelantan,P.028 Pasir Puteh,1,Kalthom Othman,2966,PAS,3,27018
+Kelantan,P.028 Pasir Puteh,2,Che Min Che Ahmad,2965,BN,25,23208
+Kelantan,P.029 Machang,1,Mohd Yusof Mohd Noor,2968,PAS,3,17329
+Kelantan,P.029 Machang,2,Sazmi Miah,2967,BN,25,17464
+Kelantan,P.030 Jeli,1,Datuk Mustapa Mohamed,2969,BN,25,16960
+Kelantan,P.030 Jeli,2,Mohd Apandi Mohamed,2970,PAS,3,9607
+Kelantan,P.031 Kuala Krai,1,Mohammad Razali Che Mamat,2971,BN,25,19148
+Kelantan,P.031 Kuala Krai,2,Abdul Rahim Wan Abdullah,2972,PAS,3,16732
+Kelantan,P.032 Gua Musang,1,Tengku Razaleigh Hamzah,872,BN,25,13570
+Kelantan,P.032 Gua Musang,2,Dr Zulkifli Ahmad,2973,PAS,3,6972
+Terengganu,P.033 Besut,1,Nasharudin Mat Isa,2975,PAS,3,17587
+Terengganu,P.033 Besut,2,Prof Datuk Dr. Abdullah Mohd Zin,2974,BN,25,26087
+Terengganu,P.034 Setiu,1,Mohd Yusof Majid,2976,BN,25,24546
+Terengganu,P.034 Setiu,2,Che Ghani Che Ambak,2644,PAS,3,17141
+Terengganu,P.035 Kuala Nerus,1,Mohd Shukrimun Shamsudin,2978,PAS,3,20798
+Terengganu,P.035 Kuala Nerus,2,Che Azmi Abd Rahman,2977,BN,25,24895
+Terengganu,P.036 Kuala Terengganu,1,Razali Ismail,2979,BN,25,30994
+Terengganu,P.036 Kuala Terengganu,2,Dr Syed Azam Syed Ahmad,2980,PAS,3,29061
+Terengganu,P.037 Marang,1,Datuk Seri Abdul Hadi Awang,1712,PAS,3,27913
+Terengganu,P.037 Marang,2,Datuk Abdul Rahman Bakar,2981,BN,25,28076
+Terengganu,P.038 Hulu Terengganu,1,Muhyidin Abd Rashid,2983,PAS,3,16055
+Terengganu,P.038 Hulu Terengganu,2,Tengku Putera Tengku Awang,2982,BN,25,23815
+Terengganu,P.039 Dungun,1,Datuk Rosli Mat Hassan,2984,BN,25,26398
+Terengganu,P.039 Dungun,2,Datuk Mustafa Ali,2985,PAS,3,21502
+Terengganu,P.040 Kemaman,1,Ahmad Shabery Chik,2986,BN,25,36517
+Terengganu,P.040 Kemaman,2,Abdl Rahman Yusof,2987,PKR,11,20635
+Pulau Pinang,P.041 Kepala Batas,1,Abdul Rashid Rasid,2988,PAS,3,7281
+Pulau Pinang,P.041 Kepala Batas,2,Datuk Seri Abdullah Ahmad Badawi,2655,BN,25,25403
+Pulau Pinang,P.042 Tasek Gelugor,1,Datuk Seri Mohd Shariff Omar,2989,BN,25,22011
+Pulau Pinang,P.042 Tasek Gelugor,2,Mujahid Yusof Rawa,2990,PAS,3,11828
+Pulau Pinang,P.043 Bagan,1,Lim Chien Aun,2991,BN,25,19473
+Pulau Pinang,P.043 Bagan,2,Lim Hock Seng,2044,DAP,18,23095
+Pulau Pinang,P.044 Permatang Pauh,1,Datuk Pirdaus Ismail,2992,BN,25,21147
+Pulau Pinang,P.044 Permatang Pauh,2,Datin Seri Dr Wan Azizah Wan Ismail,4901,PKR,11,21737
+Pulau Pinang,P.045 Bukit Mertajam,1,Chong Eng,2661,DAP,18,26215
+Pulau Pinang,P.045 Bukit Mertajam,2,Ma Kok Ben,2993,BN,25,17651
+Pulau Pinang,P.046 Batu Kawan,1,Huan Cheng Guan,2994,BN,25,17097
+Pulau Pinang,P.046 Batu Kawan,2,Tanasekharan A/L Audherapady,2996,DAP,18,6552
+Pulau Pinang,P.046 Batu Kawan,3,Law Choo Kian,2995,PKR,11,8099
+Pulau Pinang,P.047 Nibong Tebal,1,Datuk Zainal Abidin Osman,2997,BN,25,18823
+Pulau Pinang,P.047 Nibong Tebal,2,Goh Kheng Huat,2664,PKR,11,12818
+Pulau Pinang,P.048 Bukit Bendera,1,Chia Kwang Chye,2355,BN,25,28281
+Pulau Pinang,P.048 Bukit Bendera,2,Zulkifli Mohd Noor,2668,DAP,18,17564
+Pulau Pinang,P.049 Tanjong,1,Ooi Swee Hing,2998,BN,25,17424
+Pulau Pinang,P.049 Tanjong,2,Chow Kon Yeow,2665,DAP,18,21652
+Pulau Pinang,P.050 Jelutong,1,Lee Kah Choon,2667,BN,25,24988
+Pulau Pinang,P.050 Jelutong,2,Gooi Seong Kin,2999,DAP,18,17518
+Pulau Pinang,P.051 Bukit Gelugor,1,Lim Boo Chang,1726,BN,25,21268
+Pulau Pinang,P.051 Bukit Gelugor,2,Karpal Singh,848,DAP,18,22529
+Pulau Pinang,P.052 Bayan Baru,1,Ong Peng Cheow,3000,PKR,11,10579
+Pulau Pinang,P.052 Bayan Baru,2,Wong Kam Hoong,2359,BN,25,29430
+Pulau Pinang,P.053 Balik Pulau,1,Datuk Dr Hilmi Yahaya,3001,BN,25,21114
+Pulau Pinang,P.053 Balik Pulau,2,Dr Rohana Ariffin,3002,PKR,11,8177
+Perak,P.054 Gerik,1,Ramli Tusin,3004,PAS,3,4224
+Perak,P.054 Gerik,2,Datuk Dr Wan Hashim Wan Teh,3003,BN,25,12621
+Perak,P.055 Lenggong,1,Datil Khamsiyah Yeop,3005,BN,25,10924
+Perak,P.055 Lenggong,2,Zulkifli Abu,3006,PAS,3,5292
+Perak,P.056 Larut,1,Datuk Raja Ahmad Zainuddin Raja Omar,3007,BN,25,19064
+Perak,P.056 Larut,2,Kamaruddin Awang Basir,3008,PAS,3,11456
+Perak,P.057 Parit Buntar,1,Datuk Dr Hasan Mohd Ali,3010,PAS,3,14623
+Perak,P.057 Parit Buntar,2,Brig (G) Datuk Abd Hamid Ngah @ Zainal Abidin,3009,BN,25,19312
+Perak,P.058 Bagan Serai,1,Ahmad Awang,3011,PAS,3,14209
+Perak,P.058 Bagan Serai,2,Datuk Zainal Abidin Zin,2676,BN,25,19827
+Perak,P.059 Bukit Gantang,1,Tan Lian Hoe,3012,BN,25,23294
+Perak,P.059 Bukit Gantang,2,Dr Lo Lo Mohamed Ghazli,3013,PAS,3,14406
+Perak,P.060 Taiping,1,Datuk M Kayveas,3014,BN,25,20129
+Perak,P.060 Taiping,2,Ong Chee Keng,3015,DAP,18,17957
+Perak,P.060 Taiping,3,P Annah Dorai,3016,PKR,11,4371
+Perak,P.061 Padang Rengas,1,Datuk Seri Mohamed Nazri Abd Aziz,3017,BN,25,11615
+Perak,P.061 Padang Rengas,2,Mohd Zolkafli Yahaya,3018,PKR,11,6052
+Perak,P.062 Sungai Siput,1,Samugam Ponmugam Ponnan,3020,DAP,18,2890
+Perak,P.062 Sungai Siput,2,Dr Michael Jeyakumar Devaraj,3019,PKR,11,8680
+Perak,P.062 Sungai Siput,3,Datuk Seri Samy Vellu,1172,BN,25,19029
+Perak,P.063 Tambun,1,Dr Khairuddin Datuk Abdul Malek,3022,PAS,3,14464
+Perak,P.063 Tambun,2,Datuk Ahmad Husni Hanadzlah,3021,BN,25,31824
+Perak,P.064 Ipoh Timor,1,Thong Fah Chong,2688,BN,25,19077
+Perak,P.064 Ipoh Timor,2,Lim Kit Siang,698,DAP,18,28851
+Perak,P.065 Ipoh Barat,1,M Kulasegaran,2690,DAP,18,22935
+Perak,P.065 Ipoh Barat,2,Datuk Ir Ho Cheong Sing,3023,BN,25,22337
+Perak,P.066 Batu Gajah,1,Fong Po Kuan,2692,DAP,18,28847
+Perak,P.066 Batu Gajah,2,Datuk Ong Ka Chuan,3024,BN,25,20814
+Perak,P.067 Kuala Kangsar,1,Mohammad Nizar Jamaluddin,3278,PAS,3,6747
+Perak,P.067 Kuala Kangsar,2,Datuk Seri Rafidah Aziz,1228,BN,25,12938
+Perak,P.068 Beruas,1,Datuk Seri Lim Keng Yaik,3026,BN,25,15867
+Perak,P.068 Beruas,2,Nga Hock Cheh,3027,DAP,18,11303
+Perak,P.069 Parit,1,Muhammad Ismi Mat Taib,3029,PAS,3,8112
+Perak,P.069 Parit,2,Nasaruddin Hashim,3028,BN,25,12808
+Perak,P.070 Kampar,1,Liew Ah Kim,1461,DAP,18,13639
+Perak,P.070 Kampar,2,Tan Sri Hew See Yong,3030,BN,25,23129
+Perak,P.071 Gopeng,1,Tan Sri Dr Ting Chew Peh,3031,BN,25,30312
+Perak,P.071 Gopeng,2,Dr Lee Boon Chye,3032,PKR,11,15530
+Perak,P.072 Tapah,1,Dr Mohd Radzi Othman,3034,PAS,3,7359
+Perak,P.072 Tapah,2,Datuk S Veerasingam,3033,BN,25,16945
+Perak,P.073 Pasir Salak,1,Muhaimin Sulam,3036,PAS,3,10875
+Perak,P.073 Pasir Salak,2,Tan Sri Ramli Ngah Talib,3035,BN,25,19422
+Perak,P.074 Lumut,1,Kong Cho Ha,2706,BN,25,27415
+Perak,P.074 Lumut,2,Mustafa Kamil Ayub,3037,PKR,11,15801
+Perak,P.075 Bagan Datok,1,Datuk Ahmad Zahid Hamidi,2707,BN,25,17049
+Perak,P.075 Bagan Datok,2,A Ayadhurai,3038,PKR,11,4510
+Perak,P.076 Telok Intan,1,N Gobalakrishnan,2785,PKR,11,6128
+Perak,P.076 Telok Intan,2,Wu Him Ven,3039,DAP,18,8829
+Perak,P.076 Telok Intan,3,Mah Siew Keong,2709,BN,25,18870
+Perak,P.077 Tanjong Malim,1,Shamsuddin Abdul Rahman,3041,PKR,11,9590
+Perak,P.077 Tanjong Malim,2,Datuk Loke Yuen Yow,3040,BN,25,24283
+Pahang,P.078 Cameron Highlands,1,Apalasamy A/L Jataliah,3043,DAP,18,3966
+Pahang,P.078 Cameron Highlands,2,Devamany A/L Krishnasamy,3042,BN,25,10226
+Pahang,P.079 Lipis,1,Mohd Zai Mustafa,3045,PAS,3,6246
+Pahang,P.079 Lipis,2,Mohamad Shahrum Osman,3044,BN,25,13870
+Pahang,P.080 Raub,1,Datuk Dr Ng Yen Yen,2714,BN,25,20472
+Pahang,P.080 Raub,2,Choong Siew Oon,3046,DAP,18,10650
+Pahang,P.081 Jerantut,1,Dr Hamzah Jaafar,3048,PAS,3,12892
+Pahang,P.081 Jerantut,2,Datuk Seri Tengku Azlan Sultan Abu Bakar,3047,BN,25,21349
+Pahang,P.082 Indera Mahkota,1,Dzulkifli Ismail,1207,PKR,11,10948
+Pahang,P.082 Indera Mahkota,2,Datuk Wan Adnan Wan Mamat,3049,BN,25,25177
+Pahang,P.083 Kuantan,1,Fuziah Salleh,2716,PKR,11,12177
+Pahang,P.083 Kuantan,2,Datuk Fu Ah Kiow,3050,BN,25,21324
+Pahang,P.084 Paya Besar,1,Datuk Seri Dr Siti Zaharah Sulaiman,3051,BN,25,20474
+Pahang,P.084 Paya Besar,2,Saari Sungib,3052,PKR,11,7956
+Pahang,P.085 Pekan,1,Datuk Seri Mohd Najib Tun Abdul Razak,1216,BN,25,31956
+Pahang,P.085 Pekan,2,Brig Jen (B) Datuk Zakaria Dahlan,3053,PAS,3,9034
+Pahang,P.086 Maran,1,Ismail Abdul Muttalib,3054,BN,25,15725
+Pahang,P.086 Maran,2,Datuk Tuan Ibrahim Tuan Man,3055,PAS,3,8483
+Pahang,P.087 Kuala Krau,1,Musaniff Ab Rahman,3057,PAS,3,8670
+Pahang,P.087 Kuala Krau,2,Ismail Mohamed Said,3056,BN,25,16021
+Pahang,P.088 Temerloh,1,Idris Omar,3059,PAS,3,12026
+Pahang,P.088 Temerloh,2,Datuk Mohd Sarit Yusoh,3058,BN,25,24633
+Pahang,P.089 Bentong,1,Liow Tiong Lai,2721,BN,25,27144
+Pahang,P.089 Bentong,2,Abub Bakar Lebai Sudin,3060,DAP,18,10305
+Pahang,P.090 Bera,1,Dr Abdul Wahab Ismail,2723,PAS,3,12590
+Pahang,P.090 Bera,2,Ismail Sabri Yaakob,3061,BN,25,17572
+Pahang,P.091 Rompin,1,Sukri Ahmad,3063,PAS,3,10009
+Pahang,P.091 Rompin,2,Datuk Dr Jamaluddin Mohd Jarjis,3062,BN,25,19359
+Selangor,P.092 Sabak Bernam,1,Datuk Mat Yasir Ikhsan,3064,BN,25,13826
+Selangor,P.092 Sabak Bernam,2,Badrul Amin Bahron,3065,PKR,11,8478
+Selangor,P.093 Sungai Besar,1,Sallehen Mukhyi,3067,PAS,3,7988
+Selangor,P.093 Sungai Besar,2,Noriah Kasnon,3066,BN,25,15337
+Selangor,P.094 Hulu Selangor,1,Datuk Ismail Kamus,3069,PAS,3,13324
+Selangor,P.094 Hulu Selangor,2,Datuk G Palanivel,3068,BN,25,27807
+Selangor,P.095 Tanjong Karang,1,Datuk Noh Omar,3070,BN,25,17750
+Selangor,P.095 Tanjong Karang,2,Abdul Ghani Samsudin,3071,PAS,3,8742
+Selangor,P.096 Kuala Selangor,1,Raja Kamaruddin Raja Abdul Wahid,3073,PKR,11,8339
+Selangor,P.096 Kuala Selangor,2,Mohd Daud Taripeh,3072,BN,25,22001
+Selangor,P.097 Selayang,1,Datuk Chan Kong Choy,2735,BN,25,36343
+Selangor,P.097 Selayang,2,Koh Swe Yong,3074,PKR,11,13117
+Selangor,P.098 Gombak,1,Dr Raman Ismail,3075,BN,25,39870
+Selangor,P.098 Gombak,2,Dr Mohd Hatta Md Ramli,3076,PAS,3,26663
+Selangor,P.099 Ampang,1,Dr Rozaidah Talib,3077,BN,25,33214
+Selangor,P.099 Ampang,2,Dr A Xavier Jayakumar,3078,PKR,11,13482
+Selangor,P.100 Pandan,1,Iskandar Abdul Samad,3080,PAS,3,12609
+Selangor,P.100 Pandan,2,Datuk Ong Tee Keat,3079,BN,25,26721
+Selangor,P.101 Hulu Langat,1,Markiman Kobiran,3081,BN,25,40937
+Selangor,P.101 Hulu Langat,2,Datuk Yeop Adlan Che Rose,3082,PAS,3,18160
+Selangor,P.102 Serdang,1,Wong Kok Yew,3084,DAP,18,23215
+Selangor,P.102 Serdang,2,Datuk Yap Pian Hon,3083,BN,25,34495
+Selangor,P.103 Puchong,1,Wong Choong Yun,3087,DAP,18,9185
+Selangor,P.103 Puchong,2,Dr Azmi Jamion @ Jemingon,3086,PAS,3,9409
+Selangor,P.103 Puchong,3,Lau Yeng Peng,3085,BN,25,21291
+Selangor,P.104 Kelana Jaya,1,Syed Shahir Syed Mohamed,3089,PKR,11,14275
+Selangor,P.104 Kelana Jaya,2,Loh Seng Kok,3088,BN,25,35846
+Selangor,P.105 Petaling Jaya Selatan,1,R Sivarasa,3091,PKR,11,13638
+Selangor,P.105 Petaling Jaya Selatan,2,Datuk Donald Lim Siang Chai,3090,BN,25,35054
+Selangor,P.106 Petaling Jaya Utara,1,Ronnie Liu Tian Khiew,2740,DAP,18,19379
+Selangor,P.106 Petaling Jaya Utara,2,Chew Mei Fun,2741,BN,25,32422
+Selangor,P.107 Subang,1,Mohd Nasir Hashim,3093,PKR,11,17481
+Selangor,P.107 Subang,2,Tan Sri Ks Nijhar,3092,BN,25,32941
+Selangor,P.108 Shah Alam,1,Khalid Abdul Samad,3095,PAS,3,19007
+Selangor,P.108 Shah Alam,2,Datuk Abdul Aziz Shamsuddin,3094,BN,25,32417
+Selangor,P.109 Kapar,1,Ang Hiok Gai,3097,PKR,11,29419
+Selangor,P.109 Kapar,2,P Komaladevi,3096,BN,25,44007
+Selangor,P.110 Klang,1,Datin Paduka Dr Tan Yee Kew,3098,BN,25,32138
+Selangor,P.110 Klang,2,Dr Wong Ang Peng,2746,DAP,18,18857
+Selangor,P.111 Kota Raja,1,Dr Mariah Mahmud,3100,PAS,3,16137
+Selangor,P.111 Kota Raja,2,T Krisnasami,3101,BEBAS,1,3608
+Selangor,P.111 Kota Raja,3,S Vigneswaran,3099,BN,25,24376
+Selangor,P.112 Kuala Langat,1,Datuk Dr Shafie Mohd Salleh,3102,BN,25,34118
+Selangor,P.112 Kuala Langat,2,Zulkifli Noordin,3103,PKR,11,12623
+Selangor,P.113 Sepang,1,Mohamed Makki Ahmad,3105,PAS,3,11918
+Selangor,P.113 Sepang,2,Datuk Mohd Zin Mohamed,3104,BN,25,30755
+W.P. Kuala Lumpur,P.114 Kepong,1,Dr Tan Seng Giaw,1238,DAP,18,23282
+W.P. Kuala Lumpur,P.114 Kepong,2,Ma Woei Chyi,2759,BN,25,21428
+W.P. Kuala Lumpur,P.115 Batu,1,Ng Lip Yong @ Ng Lip Sat,3106,BN,25,28718
+W.P. Kuala Lumpur,P.115 Batu,2,Chua Tian Chang,3107,PKR,11,17201
+W.P. Kuala Lumpur,P.116 Wangsa Maju,1,Yew Teong Look,3108,BN,25,23135
+W.P. Kuala Lumpur,P.116 Wangsa Maju,2,Sahri Bahari,3109,PKR,11,12950
+W.P. Kuala Lumpur,P.117 Segambut,1,Kuan Perk Siong,3111,DAP,18,11093
+W.P. Kuala Lumpur,P.117 Segambut,2,Dr Tan Kee Kwong,3110,BN,25,28061
+W.P. Kuala Lumpur,P.118 Setiawangsa,1,Datuk Zulhasnan Rafique,3112,BN,25,27757
+W.P. Kuala Lumpur,P.118 Setiawangsa,2,Mejar (B) Abdul Rashid Hassan Basri,3113,PAS,3,8088
+W.P. Kuala Lumpur,P.119 Titiwangsa,1,Datuk Astaman Abdul Aziz,3114,BN,25,22910
+W.P. Kuala Lumpur,P.119 Titiwangsa,2,Mohamad Noor Mohamad,3115,PAS,3,11095
+W.P. Kuala Lumpur,P.120 Bukit Bintang,1,Wee Choo Keong,1804,MDP,65,1107
+W.P. Kuala Lumpur,P.120 Bukit Bintang,2,Fong Kui Lun,2128,DAP,18,19103
+W.P. Kuala Lumpur,P.120 Bukit Bintang,3,Billi Lim Peng Soon,3117,BEBAS,1,132
+W.P. Kuala Lumpur,P.120 Bukit Bintang,4,Tan Chew Mooi,3116,BN,25,18799
+W.P. Kuala Lumpur,P.121 Lembah Pantai,1,Sanusi Osman,3119,PKR,11,11186
+W.P. Kuala Lumpur,P.121 Lembah Pantai,2,Datuk Seri Shahrizat Abdul Jalil,3118,BN,25,26474
+W.P. Kuala Lumpur,P.122 Seputeh,1,Teresa Kok Suh Sim,2374,DAP,18,33197
+W.P. Kuala Lumpur,P.122 Seputeh,2,Chin Yen Foo,3120,BN,25,20302
+W.P. Kuala Lumpur,P.123 Cheras,1,Lee Boon Kok,2772,BN,25,17195
+W.P. Kuala Lumpur,P.123 Cheras,2,Tan Kok Wai,1825,DAP,18,29056
+W.P. Kuala Lumpur,P.124 Bandar Tun Razak,1,Datuk Tan Chai Ho,2773,BN,25,33223
+W.P. Kuala Lumpur,P.124 Bandar Tun Razak,2,Dr Rosli Ibrahim,3121,PKR,11,15696
+W.P. Putrajaya,P.125 Putrajaya,1,Datuk Tengku Adnan Tengku Mansor,3122,BN,25,4086
+W.P. Putrajaya,P.125 Putrajaya,2,Abdul Rahman Othman,317,PKR,11,540
+Negeri Sembilan,P.126 Jelebu,1,Datuk Seri Dr Rais Yatim,991,BN,25,20650
+Negeri Sembilan,P.126 Jelebu,2,Dr Rosli Yaakop,3123,PAS,3,5870
+Negeri Sembilan,P.127 Jempol,1,Tan Sri Mohamed Isa Abdul Samad,3124,BN,25,26360
+Negeri Sembilan,P.127 Jempol,2,Mohamad Fozi Mohd Zin,3125,PAS,3,9280
+Negeri Sembilan,P.128 Seremban,1,Datuk Hon Choon Kim,3126,BN,25,36542
+Negeri Sembilan,P.128 Seremban,2,Choong Yen Loong,3127,DAP,18,20306
+Negeri Sembilan,P.129 Kuala Pilah,1,Annuar Mohd Saleh,3129,PKR,11,8763
+Negeri Sembilan,P.129 Kuala Pilah,2,Datuk Hasan Malek,3128,BN,25,22105
+Negeri Sembilan,P.130 Rasah,1,Datuk Goh Siow Huat,3130,BN,25,25009
+Negeri Sembilan,P.130 Rasah,2,Chan Su Sann,3131,DAP,18,20446
+Negeri Sembilan,P.131 Rembau,1,Datuk Firdaus Muhammad Rom Harun,3132,BN,25,28664
+Negeri Sembilan,P.131 Rembau,2,Dr Dzulkefli Ahmad,2751,PAS,3,10008
+Negeri Sembilan,P.132 Telok Kemang,1,S Sothinathan,3134,BN,25,28494
+Negeri Sembilan,P.132 Telok Kemang,2,Ab Manap Sahardin,3135,PKR,11,10717
+Negeri Sembilan,P.133 Tampin,1,Datuk Shaziman Abu Mansor,3136,BN,25,23936
+Negeri Sembilan,P.133 Tampin,2,Abdul Razakek Abdul Rahim,3137,PAS,3,5852
+Melaka,P.134 Masjid Tanah,1,Muhamad Burok,3138,PAS,3,5789
+Melaka,P.134 Masjid Tanah,2,Datuk Wira Abu Seman Yusop,2788,BN,25,24188
+Melaka,P.135 Alor Gajah,1,Goh Leong San,3140,DAP,18,7372
+Melaka,P.135 Alor Gajah,2,Datuk Dr Fong Chan Onn,3139,BN,25,29920
+Melaka,P.136 Tangga Batu,1,Shamsul Iskandar Mohd Akin,3142,PKR,11,8595
+Melaka,P.136 Tangga Batu,2,Idris Haron,3141,BN,25,33039
+Melaka,P.137 Bukit Katil,1,Datuk Dr Mohd Ruddin Abdul Ghani,3143,BN,25,39491
+Melaka,P.137 Bukit Katil,2,Khalid Jaafar,2790,PKR,11,12239
+Melaka,P.138 Kota Melaka,1,Wong Nai Chee,3144,BN,25,31217
+Melaka,P.138 Kota Melaka,2,Kerk Kim Hock,2076,DAP,18,30998
+Melaka,P.139 Jasin,1,Jasme Tompang,3146,PAS,3,9864
+Melaka,P.139 Jasin,2,Mohd Said Yusof,3145,BN,25,31198
+Johor,P.140 Segamat,1,Dr S Subramaniam,3147,BN,25,17953
+Johor,P.140 Segamat,2,Pang Hok Liong,3148,DAP,18,10144
+Johor,P.141 Sekijang,1,Zulkapli Bin Salleh,3150,PKR,11,4786
+Johor,P.141 Sekijang,2,Baharum Mohamed,3149,BN,25,19628
+Johor,P.142 Labis,1,Tee Gey Yan,2795,DAP,18,5740
+Johor,P.142 Labis,2,Datuk Dr Chua Soi Lek @ Chua Kin Seng,3151,BN,25,16469
+Johor,P.143 Pagoh,1,Tan Sri Muhyiddin Mohd Yassin,2797,BN,25,23679
+Johor,P.143 Pagoh,2,Mohamed Anang,3152,PAS,3,4932
+Johor,P.144 Ledang,1,Hamim Samuri,3153,BN,25,30967
+Johor,P.144 Ledang,2,Kasim Ibrahim,3154,PAS,3,9296
+Johor,P.145 Bakri,1,Datuk Chua Jui Meng,3155,BN,25,29320
+Johor,P.145 Bakri,2,Azhari Ismail,3156,DAP,18,10261
+Johor,P.146 Muar,1,Razali Ibrahim,3157,BN,25,21116
+Johor,P.146 Muar,2,Mohamad Taib,3158,PAS,3,7701
+Johor,P.147 Parit Sulong,1,Suhaizan Kaiat,3160,PAS,3,9788
+Johor,P.147 Parit Sulong,2,Syed Hood Syed Edros,3159,BN,25,26974
+Johor,P.148 Ayer Hitam,1,Dr Wee Ka Siong,3161,BN,25,20065
+Johor,P.148 Ayer Hitam,2,Mohd Zamri Mat Taksis,3162,PAS,3,4302
+Johor,P.149 Sri Gading,1,Datuk Mohamad Aziz,3163,BN,25,21512
+Johor,P.149 Sri Gading,2,Dr Ahmad Faidi Saidi,3164,PKR,11,5316
+Johor,P.150 Batu Pahat,1,Dr Junaidy And Wahab,3165,BN,25,38982
+Johor,P.150 Batu Pahat,2,Mohamed Hanipa Maidin,2501,PAS,3,9880
+Johor,P.151 Simpang Renggam,1,Atan Gombang,3167,PAS,3,4842
+Johor,P.151 Simpang Renggam,2,Datuk Seri Kerk Choo Ting,3166,BN,25,18997
+Johor,P.152 Kluang,1,Ng Lam Hua,3168,DAP,18,14303
+Johor,P.152 Kluang,2,Hoo Seong Chang,2486,BN,25,33001
+Johor,P.153 Sembrong,1,Datuk Hishamuddin Tun Hussein,3169,BN,25,19575
+Johor,P.153 Sembrong,2,Onn Jaafar,3170,PAS,3,2597
+Johor,P.154 Mersing,1,Idris Tukachil,3172,PAS,3,4649
+Johor,P.154 Mersing,2,Datuk Abdul Latiff Ahmad,3171,BN,25,19222
+Johor,P.155 Tenggara,1,Salleh Farmin,3174,PAS,3,2618
+Johor,P.155 Tenggara,2,Datuk Dr Adham Baba,3173,BN,25,19706
+Johor,P.156 Kota Tinggi,1,Datuk Syed Hamid Albar,3175,BN,25,0
+Johor,P.157 Pengerang,1,Datuk Azalina Othman Said,3177,BN,25,0
+Johor,P.158 Tebrau,1,Yaakob Mohd Yusof,3180,PAS,3,6060
+Johor,P.158 Tebrau,2,Ling Ban San @ Teng Boon Soon,3179,BN,25,32071
+Johor,P.159 Pasir Gudang,1,Datuk Mohamed Khaled Nordin,3181,BN,25,38123
+Johor,P.159 Pasir Gudang,2,A Razak Ahmad,2188,PKR,11,7002
+Johor,P.160 Johor Bahru,1,Datuk Shahrir Abdul Samad,3182,BN,25,54073
+Johor,P.160 Johor Bahru,2,Atan Ahmad,3183,PAS,3,7281
+Johor,P.161 Pulai,1,Nasir Wahab,3185,PAS,3,7480
+Johor,P.161 Pulai,2,Datuk Nur Jazlan Tan Sri Mohamad,3184,BN,25,42406
+Johor,P.162 Gelang Patah,1,Song Sing Kwee,1851,PKR,11,9335
+Johor,P.162 Gelang Patah,2,Tan Ah Eng,3186,BN,25,41001
+Johor,P.163 Kulai,1,Ong Kow Meng,3187,DAP,18,14134
+Johor,P.163 Kulai,2,Lim Si Cheng,2500,BN,25,32278
+Johor,P.164 Pontian,1,Hassan Abdul Karim,1860,PKR,11,5509
+Johor,P.164 Pontian,2,Hasni Mohamad,3188,BN,25,26667
+Johor,P.165 Tanjong Piai,1,Datuk Seri Ong Ka Ting,3189,BN,25,28046
+Johor,P.165 Tanjong Piai,2,Tan Hang Meng,2812,DAP,18,4431
+W.P. Labuan,P.166 Labuan,1,Matusin Abdul Rahman,3191,PAS,3,3186
+W.P. Labuan,P.166 Labuan,2,Datuk Suhaili Abdul Rahman,3190,BN,25,11087
+Sabah,P.167 Kudat,1,Abdul Rahman Bin Sedik @ Sidek,3279,BEBAS,1,6488
+Sabah,P.167 Kudat,2,Datuk Abdul Rahim Bakri,3192,BN,25,13236
+Sabah,P.167 Kudat,3,Asbiah Binti Anggar,3280,BEBAS,1,1282
+Sabah,P.167 Kudat,4,Datu Abdul Razak Abdul Salam,3194,BEBAS,1,2375
+Sabah,P.168 Kota Marudu,1,Datuk Dr Maximus Ongkili,3195,BN,25,10457
+Sabah,P.168 Kota Marudu,2,Anthony Mandiau,3196,BEBAS,1,7268
+Sabah,P.169 Kota Belud,1,James Bagah,3198,BEBAS,1,8869
+Sabah,P.169 Kota Belud,2,Md Salleh Md Said,2513,BN,25,19290
+Sabah,P.169 Kota Belud,3,Jainin Giau,3199,SETIA,62,1551
+Sabah,P.170 Tuaran,1,Wilfred Madius Tangau,2834,BN,25,17354
+Sabah,P.170 Tuaran,2,Umsery @ Ansari Abdullah,3200,PKR,11,8855
+Sabah,P.171 Sepanggar,1,Datin Saidatul Badru Tun Said,3202,PKR,11,5098
+Sabah,P.171 Sepanggar,2,Eric Enchin Majimbun,3201,BN,25,16226
+Sabah,P.172 Kota Kinabalu,1,Hiew King Cheu,3203,DAP,18,5187
+Sabah,P.172 Kota Kinabalu,2,Christina Liew,3204,PKR,11,3492
+Sabah,P.172 Kota Kinabalu,3,Dr Yee Moh Chai,2840,BN,25,15993
+Sabah,P.173 Putatan,1,Datuk Dr Marcus Mojigoh,3205,BN,25,13816
+Sabah,P.173 Putatan,2,Awang Ahmad Sah,3206,PKR,11,5984
+Sabah,P.174 Penampang,1,Donald Peter Mojuntin,3207,BN,25,16032
+Sabah,P.174 Penampang,2,Jomilon Mojountin @ Conrad Mojountin,3208,DAP,18,3379
+Sabah,P.174 Penampang,3,Blaise Mosidin@Frederick Francis,3210,PKR,11,864
+Sabah,P.174 Penampang,4,Joseph Sulaiman,3209,BEBAS,1,975
+Sabah,P.175 Papar,1,Rosnah Abdul Abdul Rashid Shirlin,3211,BN,25,0
+Sabah,P.176 Kimanis,1,Datuk Anifah Aman,3212,BN,25,9655
+Sabah,P.176 Kimanis,2,Awang Tengah Awang Amin,3213,PKR,11,4547
+Sabah,P.177 Beaufort,1,Azizah Mohd Dun,3214,BN,25,0
+Sabah,P.178 Sipitang,1,Datuk Dr Yusof Yacob,3215,BN,25,0
+Sabah,P.179 Ranau,1,Tan Sri Bernard Dompok,3216,BN,25,7547
+Sabah,P.179 Ranau,2,Ruhimin Adzim,3217,BEBAS,1,6160
+Sabah,P.179 Ranau,3,Karim Adam,3218,BEBAS,1,3310
+Sabah,P.179 Ranau,4,Japiril Suhaimin,3219,BEBAS,1,1609
+Sabah,P.180 Keningau,1,Datuk Joseph Pairin Kitingan,1895,BN,25,0
+Sabah,P.181 Tenom,1,Raimi Unggi,3221,BN,25,8032
+Sabah,P.181 Tenom,2,Datuk Laimun Laikin,3222,BEBAS,1,5628
+Sabah,P.182 Pensiangan,1,Bernard S.Maraat,3223,BN,25,6080
+Sabah,P.182 Pensiangan,2,Razali Suffian Koroh,3225,BEBAS,1,557
+Sabah,P.182 Pensiangan,3,Matin Tomy@Tommy,3224,BEBAS,1,5272
+Sabah,P.183 Beluran,1,Ronald Kiandee,2857,BN,25,0
+Sabah,P.184 Libaran,1,Rajmunni Sabu,3227,PKR,11,2471
+Sabah,P.184 Libaran,2,Juslie Ajirol,3226,BN,25,13140
+Sabah,P.185 Batu Sapi,1,Edmund Chong Ket Wah,3228,BN,25,0
+Sabah,P.186 Sandakan,1,Chong Hon Min,3230,BEBAS,1,9538
+Sabah,P.186 Sandakan,2,Lau Ngan Siew,2542,BN,25,8208
+Sabah,P.186 Sandakan,3,Liew Teck Khen @ Liaw Tech King,3231,PASOK,43,543
+Sabah,P.187 Kinabatangan,1,Bung Mokthar Radin,2861,BN,25,0
+Sabah,P.188 Silam,1,Samsu Baharom Abdul Rahman,3232,BN,25,16613
+Sabah,P.188 Silam,2,Shamsuri Baharuddin,3233,PKR,11,5865
+Sabah,P.189 Semporna,1,Noraida Abdul Salleh,3235,BEBAS,1,816
+Sabah,P.189 Semporna,2,Mohd Abdul Wahab Pg Abdullah,3236,PKR,11,740
+Sabah,P.189 Semporna,3,Madjalis Bin Lais,3281,BEBAS,1,1896
+Sabah,P.189 Semporna,4,Aldani Bin Landi,3277,BEBAS,1,1286
+Sabah,P.189 Semporna,5,Datuk Shafie Apdal,3234,BN,25,15215
+Sabah,P.190 Tawau,1,Shim Paw Fatt,2869,BN,25,0
+Sabah,P.191 Kalabakan,1,Abdul Ghapur Salleh,3238,BN,25,0
+Sarawak,P.192 Mas Gading,1,Tekhee@Tiki Ak Lafe,3239,BN,25,10579
+Sarawak,P.192 Mas Gading,2,Dr Patau Rubis,3240,SNAP,19,7867
+Sarawak,P.193 Santubong,1,Idris Bin Bohari,3241,BEBAS,1,2030
+Sarawak,P.193 Santubong,2,Datuk Wan Junaidi Tuanku Jaafar,2242,BN,25,12590
+Sarawak,P.194 Petra Jaya,1,Fadillah Yusof,3242,BN,25,18236
+Sarawak,P.194 Petra Jaya,2,Wan Zainal Abidin Wan Senusi,2229,PKR,11,5420
+Sarawak,P.195 Bandar Kuching,1,Chong Chieng Jen,2874,DAP,18,17914
+Sarawak,P.195 Bandar Kuching,2,Wee Kok Tiong,3243,BN,25,15873
+Sarawak,P.196 Stampin,1,Voon Lee Shan,2876,DAP,18,13424
+Sarawak,P.196 Stampin,2,Datuk Yong Khoon Seng,3244,BN,25,21155
+Sarawak,P.197 Kota Samarahan,1,Abdul Taib Mahmud,754,BN,25,0
+Sarawak,P.198 Mambong,1,Dr James Dawos Mamit,3245,BN,25,15368
+Sarawak,P.198 Mambong,2,Mangan Ngandok,3246,STAR,64,6270
+Sarawak,P.199 Serian,1,Richard Riot Jaem,2236,BN,25,13960
+Sarawak,P.199 Serian,2,Henry Genailanggie,3247,BEBAS,1,4265
+Sarawak,P.200 Batang Sadong,1,Datuk Seri Adenan Satem,3248,BN,25,10767
+Sarawak,P.200 Batang Sadong,2,Adam Ahid,3249,PAS,3,1035
+Sarawak,P.201 Batang Lupar,1,Datuk Rohanie Abdul Karim,3250,BN,25,0
+Sarawak,P.202 Sri Aman,1,Cobbold Lusoi,3252,BEBAS,1,5311
+Sarawak,P.202 Sri Aman,2,Jimmy Donald,3251,BN,25,9679
+Sarawak,P.203 Lubok Antu,1,William Nyallau Badak,3253,BEBAS,1,4927
+Sarawak,P.203 Lubok Antu,2,Jawah Anak Gerang,2564,BN,25,6962
+Sarawak,P.204 Betong,1,Abang Zulkifli Abang Engkeh,3255,SNAP,19,1895
+Sarawak,P.204 Betong,2,Datuk Douglas Uggah Embas,3254,BN,25,11618
+Sarawak,P.205 Saratok,1,Jelaing Mersat,3256,BN,25,11995
+Sarawak,P.205 Saratok,2,Edmond Stanley Jugol,3257,SNAP,19,4450
+Sarawak,P.206 Kuala Rajang,1,Datuk Wahab Dolah,3258,BN,25,0
+Sarawak,P.207 Sarikei,1,Ngu Tieng Hai,3262,BEBAS,1,3886
+Sarawak,P.207 Sarikei,2,Datuk Seri Law Hieng Ding,3259,BN,25,15485
+Sarawak,P.207 Sarikei,3,Juna Anak Jawek,3260,BEBAS,1,864
+Sarawak,P.207 Sarikei,4,Ling Bit Tiing,3261,BEBAS,1,1667
+Sarawak,P.208 Julau,1,Datuk Joseph Salang Gandum,3263,BN,25,8388
+Sarawak,P.208 Julau,2,Josephine Randum Mawat,3264,BEBAS,1,5700
+Sarawak,P.209 Kanowit,1,Frederick Bungsu Janton,3266,BEBAS,1,4381
+Sarawak,P.209 Kanowit,2,Aaron Ago Dagang,3265,BN,25,6438
+Sarawak,P.210 Lanang,1,David Wong Kee Woan,3267,DAP,18,10174
+Sarawak,P.210 Lanang,2,Tiong Thai King,2574,BN,25,14895
+Sarawak,P.211 Sibu,1,Wong Ho Leng,1965,DAP,18,17161
+Sarawak,P.211 Sibu,2,Datuk Robert Lau Hoi Chew,3268,BN,25,20501
+Sarawak,P.212 Mukah,1,Datuk Dr. Leo Michael Toyad,1644,BN,25,11829
+Sarawak,P.212 Mukah,2,Mohamad @ Latip Rahman,3269,BEBAS,1,2651
+Sarawak,P.213 Selangau,1,Joseph Entulu Belaun,3270,BN,25,7876
+Sarawak,P.213 Selangau,2,Liman Sujang,3271,SNAP,19,4260
+Sarawak,P.214 Kapit,1,Alexander Nanta Linggi,2903,BN,25,0
+Sarawak,P.215 Hulu Rajang,1,Abit Joo @ Billy Abit Joo,2905,BN,25,6949
+Sarawak,P.215 Hulu Rajang,2,Bendindang Manjah,3272,SNAP,19,3283
+Sarawak,P.216 Bintulu,1,Dr Lau Hing Kii,3274,SNAP,19,2583
+Sarawak,P.216 Bintulu,2,Chiew Chiu Sing,2269,DAP,18,8958
+Sarawak,P.216 Bintulu,3,Datuk Seri Tiong King Sing,3273,BN,25,20225
+Sarawak,P.217 Miri,1,Peter Chin Fah Kui,2273,BN,25,0
+Sarawak,P.218 Baram,1,Datuk Jacob Dungau Sagan,3275,BN,25,7551
+Sarawak,P.218 Baram,2,Kabing Wan,3276,SNAP,19,4241
+Sarawak,P.219 Bukit Mas,1,Henry Sum Agong,2912,BN,25,0
