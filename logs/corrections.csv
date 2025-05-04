@@ -1,50 +1,50 @@
 state,election,seat,original,corrected
-Malaysia,GE03,P.087 Malacca Utara,26088,25728
-Malaysia,GE03,P.103 Segamat Utara,17193,17192
-Malaysia,GE03,P.121 Bau-Lundu,13846,13844
-Malaysia,GE03,P.123 Santubong,14359,14338
-Malaysia,GE03,P.127 Simunjan,10058,10059
-Malaysia,GE03,P.128 Batang Lupar,13864,13776
-Malaysia,GE03,P.129 Lubok Antu,6875,6873
-Malaysia,GE03,P.132 Sarikei,10430,10412
-Malaysia,GE03,P.135 Rajang,11265,11258
-Malaysia,GE03,P.137 Julau,5377,5286
-Malaysia,GE03,P.139 Kapit,7983,7921
-Malaysia,GE03,P.141 Bintulu,9427,9425
-Malaysia,GE03,P.142 Miri-Subis,13178,13156
-Malaysia,GE03,P.144 Limbang-Lawas,9494,9495
-Malaysia,GE04,P.029 Ulu Nerus,18123,18051
-Malaysia,GE04,P.030 Ulu Trengganu,18145,18144
-Malaysia,GE04,P.032 Kuala Trengganu,22476,22446
-Malaysia,GE04,P.039 Nibong Tebal,21181,22181
-Malaysia,GE04,P.041 Bukit Bendera,32829,32652
-Malaysia,GE04,P.043 Jelutong,35434,35560
-Malaysia,GE04,P.049 Taiping,27522,27516
-Malaysia,GE04,P.088 Sungai Besi,27336,27299
-Malaysia,GE04,P.093 Telok Kemang,21364,20939
-Malaysia,GE05,P.029 Ulu Nerus,21263,21232
-Malaysia,GE05,P.033 Dungun,19927,19895
-Malaysia,GE05,P.062 Telok Anson,26268,26118
-Malaysia,GE05,P.067 Kuantan,28354,28347
-Malaysia,GE05,P.070 Bentong,26358,26349
-Malaysia,GE06,P.012 Kuala Muda,30570,30560
-Malaysia,GE08,P.051 Parit Buntar,29115,29205
-Malaysia,GE08,P.102 Sungai Besi,58215,58315
-Malaysia,GE08,P.112 Batu Berendam,60864,60863
-Malaysia,GE09,P.067 Gopeng,32078,32076
-Malaysia,GE09,P.083 Bentung,35563,35363
-Malaysia,GE10,P.078 Kuantan,52308,52290
-Malaysia,GE10,P.093 Hulu Langat,53557,53617
-Malaysia,GE10,P.151 Tanjong Aru,24027,24028
-Malaysia,GE10,P.183 Kanowit,10710,10620
-Malaysia,GE11,P.053 Balik Pulau,29825,29885
-Malaysia,GE11,P.067 Kuala Kangsar,20229,20184
+Malaysia,GE-03,P.087 Malacca Utara,26088,25728
+Malaysia,GE-03,P.103 Segamat Utara,17193,17192
+Malaysia,GE-03,P.121 Bau-Lundu,13846,13844
+Malaysia,GE-03,P.123 Santubong,14359,14338
+Malaysia,GE-03,P.127 Simunjan,10058,10059
+Malaysia,GE-03,P.128 Batang Lupar,13864,13776
+Malaysia,GE-03,P.129 Lubok Antu,6875,6873
+Malaysia,GE-03,P.132 Sarikei,10430,10412
+Malaysia,GE-03,P.135 Rajang,11265,11258
+Malaysia,GE-03,P.137 Julau,5377,5286
+Malaysia,GE-03,P.139 Kapit,7983,7921
+Malaysia,GE-03,P.141 Bintulu,9427,9425
+Malaysia,GE-03,P.142 Miri-Subis,13178,13156
+Malaysia,GE-03,P.144 Limbang-Lawas,9494,9495
+Malaysia,GE-04,P.029 Ulu Nerus,18123,18051
+Malaysia,GE-04,P.030 Ulu Trengganu,18145,18144
+Malaysia,GE-04,P.032 Kuala Trengganu,22476,22446
+Malaysia,GE-04,P.039 Nibong Tebal,21181,22181
+Malaysia,GE-04,P.041 Bukit Bendera,32829,32652
+Malaysia,GE-04,P.043 Jelutong,35434,35560
+Malaysia,GE-04,P.049 Taiping,27522,27516
+Malaysia,GE-04,P.088 Sungai Besi,27336,27299
+Malaysia,GE-04,P.093 Telok Kemang,21364,20939
+Malaysia,GE-05,P.029 Ulu Nerus,21263,21232
+Malaysia,GE-05,P.033 Dungun,19927,19895
+Malaysia,GE-05,P.062 Telok Anson,26268,26118
+Malaysia,GE-05,P.067 Kuantan,28354,28347
+Malaysia,GE-05,P.070 Bentong,26358,26349
+Malaysia,GE-06,P.012 Kuala Muda,30570,30560
+Malaysia,GE-08,P.051 Parit Buntar,29115,29205
+Malaysia,GE-08,P.102 Sungai Besi,58215,58315
+Malaysia,GE-08,P.112 Batu Berendam,60864,60863
+Malaysia,GE-09,P.067 Gopeng,32078,32076
+Malaysia,GE-09,P.083 Bentung,35563,35363
+Malaysia,GE-10,P.078 Kuantan,52308,52290
+Malaysia,GE-10,P.093 Hulu Langat,53557,53617
+Malaysia,GE-10,P.151 Tanjong Aru,24027,24028
+Malaysia,GE-10,P.183 Kanowit,10710,10620
+Malaysia,GE-11,P.053 Balik Pulau,29825,29885
+Malaysia,GE-11,P.067 Kuala Kangsar,20229,20184
 Sarawak,SE-01,N.01 Lundu,5454,5445
 Sarawak,SE-01,N.02 Bau,8392,8382
 Sarawak,SE-01,N.05 Semariang,6343,6335
 Sarawak,SE-01,N.06 Sekama,8019,8005
 Sarawak,SE-01,N.07 Sebandi,6638,6685
-Sarawak,SE-01,N.14 Gedong,4843,4839
+Sarawak,SE-01,N.14 GE-dong,4843,4839
 Sarawak,SE-01,N.15 Lingga-Sebuyau,6509,6484
 Sarawak,SE-01,N.16 Simanggang,7355,7290
 Sarawak,SE-01,N.19 Saribas,4616,4607
@@ -73,7 +73,7 @@ Sarawak,SE-03,N.19 Saribas,5941,5950
 Sarawak,SE-03,N.43 Subis,9908,9872
 Kelantan,SE-04,N.14 Perupok,6248,6284
 Kelantan,SE-04,N.34 Jeli,4327,4347
-Negeri Sembilan,SE-04,N.18 Si Rusa,5678,5679
+NeGE-ri Sembilan,SE-04,N.18 Si Rusa,5678,5679
 Pahang,SE-04,N.13 Bandar Kuantan,8125,8215
 Pahang,SE-04,N.31 Bera,4509,4609
 Pulau Pinang,SE-04,N.04 Bagan Ajam,7223,7233
@@ -91,12 +91,12 @@ Terengganu,SE-04,N.22 Merchang,4577,4572
 Terengganu,SE-04,N.24 Jerangau,2860,2890
 Perak,SE-05,N.20 Gopeng,20095,20094
 Perlis,SE-05,N.10 Bandar Arau,4285,4265
-Pulau Pinang,SE-05,N.15 Sungei Acheh,9271,9190
+Pulau Pinang,SE-05,N.15 SunGE-i Acheh,9271,9190
 Pahang,SE-06,N.23 Semantan,9977,10022
 Perak,SE-06,N.13 Changkat Jering,15596,15595
 Sarawak,SE-06,N.14 Tarat,9285,9294
 Melaka,SE-07,N.11 Tanjong Minyak,9031,9022
-Negeri Sembilan,SE-07,N.23 Jimah,9763,9762
+NeGE-ri Sembilan,SE-07,N.23 Jimah,9763,9762
 Sarawak,SE-07,N.06 Satok,7798,7744
 Pahang,SE-08,N.13 Beserah,14419,14418
 Perak,SE-08,N.09 Sapetang,14287,14278
@@ -108,7 +108,7 @@ Terengganu,SE-08,N.08 Batu Rakit,6973,6968
 Terengganu,SE-08,N.10 Teluk Pasu,8797,8790
 Kedah,SE-09,N.10 Langgar,14770,14750
 Melaka,SE-09,N.11 Tangga Batu,12758,12754
-Negeri Sembilan,SE-09,N.14 Senaling,5248,5247
+NeGE-ri Sembilan,SE-09,N.14 Senaling,5248,5247
 Perak,SE-09,N.11 Changkat Jering,13198,12883
 Perak,SE-09,N.32 Pantai Remis,16977,16997
 Sabah,SE-09,N.04 Matunggong,8974,8979
