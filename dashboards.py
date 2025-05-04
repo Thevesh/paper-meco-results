@@ -296,9 +296,9 @@ if __name__ == '__main__':
             'elections_candidates',
             'elections_seats_winner',
             'elections_parties',
-            'elections_dates',
-            'elections_veterans',
-            'elections_slim_big',
+            # 'elections_dates',
+            # 'elections_veterans',
+            # 'elections_slim_big',
         ]:
             time.sleep(10)
             m = MultipartEncoder(
