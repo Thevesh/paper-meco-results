@@ -123,12 +123,12 @@ def make_parties():
     """
     col_idx = ['party','type','state','election_name','date']
     df = pd.read_parquet(f'{PATH}/elections_candidates.parquet').rename(columns={'seat':'state'})
+    df = df[df.election_name != 'By-Election'] # Remove By-Elections, we are not interested in them
     df = df.drop(['voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc','majority','majority_perc'],axis=1)
     df['state'] = df['state'].apply(lambda x: x.split(',')[1].strip())
     df['seats'] = 0
     df.loc[df.result.str.contains('won'),'seats'] = 1
-    df = df[df.type.isin(['parlimen','dun'])].drop(['name','votes_perc','result','slug'],axis=1)
-    df = df.groupby(col_idx).sum().reset_index()
+    df = df.drop(['name','votes_perc','result','slug'],axis=1).groupby(col_idx).sum().reset_index()
 
     # number of seats and votes per election, by state (sf)
     col_idx_sf = ['election_name','state']
@@ -146,8 +146,6 @@ def make_parties():
 
     df.loc[(df.election_name == 'SE-02') & (df.state == 'Sabah'),'votes_perc'] = df.seats_perc # special case where all seats were uncontested
     df = pd.concat([dfm,df],ignore_index=True)[col_idx + ['seats','seats_total','seats_perc'] + ['votes','votes_perc']]
-    df = df[df.election_name != 'By-Election'] # Remove By-Elections, we are not interested in them
-    write_parquet(f'{PATH}/elections_parties',df=df) 
 
     return len(df)
 
