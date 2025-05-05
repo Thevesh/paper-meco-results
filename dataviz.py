@@ -6,11 +6,6 @@ import seaborn as sb
 from helper import get_states
 
 
-# TODO error rate across years
-# TODO validation using 4 vars
-# TODO timeseries of 4 vars
-
-
 def heatmap_seats_federal():
     dates = j.loads(open('src-data/lookup_dates.json').read())['Malaysia']
     dates = {int(k):dates[k][:4] for k in dates.keys()}
