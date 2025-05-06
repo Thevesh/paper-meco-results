@@ -3,6 +3,7 @@ Tay Hooi Soo,1
 Haji Zabidi Bin Hj. Ali,2
 Haji Zabidi Bin Haji Ali,2
 Haji Zabidi Bin Hjai Ali,2
+Zabidi Bin Haji Ali,2
 Hashim Awang,3
 Chee Swee Ee,4
 Ooi Thiam Siew,5
@@ -26,9 +27,11 @@ Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16
 Mohamed Shamshuddin Bin Haji Hamzah,17
 Abdul Majid Bin Ariffin,18
 Dr Cheah Khay Chuan,19
+Cheah Khay Chuan,19
 Abu Bakar Bin Said,20
 Wan Zarazillah Bin Wan Haji Ismail,21
 Dr Puran Singh,22
+Puran Singh,22
 Haji Mior Ariff Bin Mior Alwi,23
 Mohd. Yunus Bin Mahmood,24
 Abdul Wahab Bin Haji Md. Noor,25
@@ -975,7 +978,6 @@ Haji Awang Awal Bin Awang Abu,751
 Ho Ho Lim,752
 Major Ngu Kuang Kee,753
 Abdul Taib Mahmud,754
-Abdul Taib Bin Mahmud,754
 Datok Amar Haji Abdul Taib Bin Mahmud,754
 Datuk Amar Haji Abdul Taib Bin Mahmud,754
 Datuk Patinggi Haji Abdul Talib Mahmud,754
@@ -983,6 +985,7 @@ Datuk Patinggi Hj. Abdul Taib B Mahmud,754
 Datuk Patinggi Hj. Abdul Taib B. Mahmud,754
 Datuk Tan Sri Haji Abdul Taib Bin Mahmud,754
 Yab Datuk Patinggi Hj Abdul Taib B. Mahmud,754
+Abdul Taib Bin Mahmud,754
 W. M. Khan,755
 Abang Anwar,756
 Stephen K. T. Yong,757
@@ -1028,9 +1031,15 @@ Wong Yuk Feng,786
 Then Kwan Long (Mok),787
 Ching Ting Chiok,788
 Ching Ting Chick,788
+Datuk Patinggi Haji Abdul Rahman Ya'Kub,789
+Datuk Patinggi Tan Sri Abdul Rahman Ya'Kub,789
+Datuk Patinggi Haji Abd. Rahman Bin Ya'Kub,789
+Datuk Patinggi Tan Sri Abdul Rahman Bin Ya'Akub,789
 Dato' Haji Abdul-Rahman Ya'Kub,789
 Dato' Haji Abdul-Rahman Ya'Kub,789
 Dato' Haji Abdul Rahman Ya'Kub,789
+Abdul Rahman Ya'Kub,789
+Abdul Rahman Bin Ya'Kub,789
 Nyandang Ak Linang,790
 Nyandang Ak Lenang,790
 Abuseman Bin Merais,791
@@ -1165,6 +1174,7 @@ Ong Cheng Piaw,892
 Ong Chenng Piiaw,892
 Goh Cheng Teik,893
 "K, Ponnudurai",894
+K. Ponnudurai,894
 Shamsuri Bin Mat Saleh,895
 Mohideen Abd. Kader,896
 Mohideen Abdul Kader,896
@@ -1585,6 +1595,7 @@ Samy Vellu A/L Sangalimuthu,1172
 S. Samy Vellu A/L Sangalimuthu,1172
 Dato' S. Samy Vellu A/L Sangalimuthu,1172
 Dato ' S. Samy Vellu A/L Sangalimuthu,1172
+Samy Vellu A/L Sangalimuthu,1172
 Ngan Siong Hing @ Ngan Siong Eng,1173
 Abdul Samad Bin Hussin,1174
 Jamaluddin Bin Yeop Hamzah,1175
@@ -1675,9 +1686,9 @@ Dato' Sri (Dr) Hj. Abu Hassan Omar,1225
 Abu Hassan Bin Omar,1225
 Haji Noorhadi,1226
 Supian Bin Sirman,1227
-Rafidah Aziz,1228
 Rafidah Bt. Ab. Aziz,1228
 Datuk Seri Rafidah Aziz,1228
+Rafidah Aziz,1228
 Chow Poh Kheng,1229
 Ong Kwai Leng,1230
 Zainal Abidin Bin Mohd. Sidek,1231
@@ -1727,6 +1738,7 @@ Chew Hok Thye,1264
 Chew Hock Thye,1264
 Dato Musa Bin Hitam,1265
 Dato' Musa Bin Hitam,1265
+Musa Bin Hitam,1265
 Jamal Bin Ahmad,1266
 Abdul Hak Bin Haji Fadzil,1267
 Dato Loh Fook Yen,1268
@@ -1827,11 +1839,6 @@ Simon Dembab Anak Maja,1345
 Charles Henry Ingka,1347
 Mahmood Bin Aman,1348
 Vincent Busut Dang,1349
-Abdul Rahman Bin Ya'Kub,1350
-Datuk Patinggi Haji Abdul Rahman Ya'Kub,1350
-Datuk Patinggi Tan Sri Abdul Rahman Ya'Kub,1350
-Datuk Patinggi Haji Abd. Rahman Bin Ya'Kub,1350
-Datuk Patinggi Tan Sri Abdul Rahman Bin Ya'Akub,1350
 Lona Binti Osman,1351
 Chong Siew Chiang,1352
 Dr Wong Soon Kai,1353

@@ -1309,7 +1309,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1974-08-24,GE-04,Sarawak,P.141 Saratok,2,Douglas Sullang A/K Ganda,1067,BN,25,4885,48.16129350290841,lost
 1974-08-24,GE-04,Sarawak,P.142 Sarikei,1,Ching Tiong Kai,1068,BN,25,6420,68.34149457100277,won
 1974-08-24,GE-04,Sarawak,P.142 Sarikei,2,Wong Siong Kuong,1069,PKS,28,2974,31.65850542899723,lost
-1974-08-24,GE-04,Sarawak,P.143 Payang,1,Datuk Patinggi Haji Abd. Rahman Bin Ya'Kub,1350,BN,25,9246,74.43845101038565,won
+1974-08-24,GE-04,Sarawak,P.143 Payang,1,Datuk Patinggi Haji Abd. Rahman Bin Ya'Kub,789,BN,25,9246,74.43845101038565,won
 1974-08-24,GE-04,Sarawak,P.143 Payang,2,Salang A/K Gadum,1071,PKS,28,3175,25.561548989614362,lost
 1974-08-24,GE-04,Sarawak,P.144 Bandar Sibu,1,Wee Heo Soon,1072,BN,25,6861,54.49130331188945,won
 1974-08-24,GE-04,Sarawak,P.144 Bandar Sibu,2,Joseph Tan Chock Chung,1073,PKS,28,5730,45.508696688110554,lost
@@ -1693,7 +1693,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1978-07-08,GE-05,Sarawak,P.140 Betong,3,Mahmood Bin Aman,1348,PEACE,39,434,4.337831084457771,lost_deposit
 1978-07-08,GE-05,Sarawak,P.141 Saratok,1,Edmund Langgu A/K Saga,780,BN,25,7260,74.18003473996117,won
 1978-07-08,GE-05,Sarawak,P.141 Saratok,2,Vincent Busut Dang,1349,PAJAR,35,2527,25.81996526003883,lost
-1978-07-08,GE-05,Sarawak,P.142 Paloh,1,Datuk Patinggi Tan Sri Abdul Rahman Ya'Kub,1350,BN,25,8581,77.85338414080928,won
+1978-07-08,GE-05,Sarawak,P.142 Paloh,1,Datuk Patinggi Tan Sri Abdul Rahman Ya'Kub,789,BN,25,8581,77.85338414080928,won
 1978-07-08,GE-05,Sarawak,P.142 Paloh,2,Lona Binti Osman,1351,PAJAR,35,2441,22.14661585919071,lost
 1978-07-08,GE-05,Sarawak,P.143 Sarikei,1,Chieng Tiong Kai,1068,BN,25,7760,54.9108406453439,won
 1978-07-08,GE-05,Sarawak,P.143 Sarikei,2,Chong Siew Chiang,1352,BEBAS,1,6372,45.0891593546561,lost

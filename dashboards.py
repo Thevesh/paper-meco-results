@@ -280,6 +280,7 @@ def make_slim_big():
 
 
 if __name__ == '__main__':
+    print('\nGenerating dashboard files:')
     make_candidates()
     make_seats()
     make_parties()
@@ -290,7 +291,7 @@ if __name__ == '__main__':
     TINYBIRD = True
 
     if TINYBIRD:
-        print('\nBeginning Tinybird upload:')
+        print('\nBeginning Tinybird upload:\n')
 
         for FILE in [
             'elections_candidates',
@@ -328,4 +329,4 @@ if __name__ == '__main__':
                 print(r.status_code)
                 print(r.text)
             else:
-                print(f'\n200 OK: {FILE}')
+                print(f'200 OK: {FILE}\n')

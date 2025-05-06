@@ -133,6 +133,9 @@ def validate():
 
 
 if __name__ == '__main__':
+    print('\nCompiling ballots:')
     compile_ballots()
+    print('\nCompiling summaries:')
     compile_summary()
+    print('\nValidating:')
     validate()

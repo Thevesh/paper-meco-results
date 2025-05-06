@@ -115,7 +115,7 @@ def heatmap_elections():
             annot=False, fmt=",.0f",
             annot_kws={'fontsize': 11},
             vmin=0,
-            cmap='Blues',
+            cmap='Greys',
             cbar=False,
             linewidths=0.5,
             linecolor=GRID_COLOUR,
