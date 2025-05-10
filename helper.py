@@ -1,6 +1,8 @@
 import pandas as pd
 import re
-
+import os
+import tarfile
+import shutil
 import boto3
 from datetime import date,timedelta, datetime
 import time
@@ -9,18 +11,16 @@ TOKEN_API_S3 = ('YOUR_ACCESS_KEY', 'YOUR_SECRET_KEY')
 
 
 # generate tarball for arxiv submission
-def make_arxiv_tarball(FILEPATH=None,DATAVIZ_PATH='dataviz/'):
-    import os
-    import tarfile
-    import shutil
-    from pathlib import Path
-
+def make_arxiv_tarball(FILEPATH=None, DATAVIZ_PATH='dataviz/',TEMP_PATH='temp_archive'):
     if not FILEPATH:
         return "No FILEPATH provided"
 
     # Create temporary directory for modified files
-    temp_dir = os.path.join(FILEPATH, 'temp_archive')
+    temp_dir = os.path.join(FILEPATH, TEMP_PATH)
     os.makedirs(temp_dir, exist_ok=True)
+
+    # Keep track of arcnames for each file to avoid recomputing
+    file_to_arcname = {}
 
     try:
         # 1. Copy .tex and .bbl files
@@ -50,6 +50,9 @@ def make_arxiv_tarball(FILEPATH=None,DATAVIZ_PATH='dataviz/'):
                             f.write('\n'.join(modified_lines))
                     else:
                         shutil.copy2(src_path, dst_path)
+                    
+                    # Store the arcname for this file (relative to FILEPATH)
+                    file_to_arcname[dst_path] = rel_path
 
         # 2. Copy only .eps and .pdf files from DATAVIZ_PATH to root of temp_dir
         dataviz_full_path = os.path.join(FILEPATH, DATAVIZ_PATH)
@@ -61,14 +64,14 @@ def make_arxiv_tarball(FILEPATH=None,DATAVIZ_PATH='dataviz/'):
                         # Copy directly to temp_dir root, not preserving directory structure
                         dst_path = os.path.join(temp_dir, os.path.basename(file))
                         shutil.copy2(src_path, dst_path)
+                        # Store the arcname for this file (just the basename)
+                        file_to_arcname[dst_path] = os.path.basename(file)
 
         # Create tarball
         tar_path = os.path.join(FILEPATH, 'arxiv.tar.gz')
         with tarfile.open(tar_path, 'w:gz') as tar:
-            for root, _, files in os.walk(temp_dir):
-                for file in files:
-                    file_path = os.path.join(root, file)
-                    arcname = os.path.relpath(file_path, temp_dir)
+            for file_path, arcname in file_to_arcname.items():
+                if f'{TEMP_PATH}/{TEMP_PATH}' not in file_path:
                     tar.add(file_path, arcname=arcname)
 
     finally:
