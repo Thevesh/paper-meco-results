@@ -4,10 +4,13 @@ import os
 import tarfile
 import shutil
 import boto3
+from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date,timedelta, datetime
 import time
 
-TOKEN_API_S3 = ('YOUR_ACCESS_KEY', 'YOUR_SECRET_KEY')
+load_dotenv()
+TOKEN_API_S3 = (os.getenv('S3_KEY'),os.getenv('S3_SECRET'))
 
 
 # generate tarball for arxiv submission
@@ -99,6 +102,55 @@ def upload_s3(bucket_name=None, source_file_name=None, cloud_file_name=None):
         res = f'FAILURE: {source_file_name}\n\n{e}'
     
     return res
+
+
+# upload single file to S3, works as base for bulk upload
+def upload_s3_single(bucket_name, source_file_name, cloud_file_name):
+    """
+    Upload a single file to S3.
+    Returns a tuple of (source_file_name, success, message).
+    """
+    try:
+        time_start_temp = time.time()
+        s3 = boto3.client(
+            's3',
+            aws_access_key_id=TOKEN_API_S3[0],
+            aws_secret_access_key=TOKEN_API_S3[1]
+        )
+        s3.upload_file(source_file_name, bucket_name, cloud_file_name)
+        duration = "{:.1f}".format(time.time() - time_start_temp) + ' seconds'
+        message = f'SUCCESS ({duration}): {bucket_name}/{cloud_file_name}'
+        return source_file_name, True, message
+    except Exception as e:
+        message = f'FAILURE: {bucket_name}/{source_file_name}\n\n{e}'
+        return source_file_name, False, message
+    
+
+def upload_s3_bulk(bucket_name, files_to_upload, max_workers=50):
+    """
+    Upload multiple files to S3 in parallel.
+    Args:
+        bucket_name (str): S3 bucket name.
+        files_to_upload (list): List of tuples (source_file_name, cloud_file_name).
+        max_workers (int): Number of concurrent uploads.
+    Returns:
+        dict: Mapping of source file names to (success, message).
+    """
+    results = {}
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_file = {
+            executor.submit(upload_s3_single, bucket_name, source_file, cloud_file): (source_file, cloud_file)
+            for source_file, cloud_file in files_to_upload
+        }
+
+        for future in as_completed(future_to_file):
+            source_file, cloud_file = future_to_file[future]
+            source_file_name, success, message = future.result()
+            results[source_file_name] = (success, message)
+            print(message)
+
+    failed_uploads = [(source_file, message.split(": ", 1)[1][9:]) for source_file, (success, message) in results.items() if not success]
+    return failed_uploads
 
 
 # get latest view of bucket (S3)

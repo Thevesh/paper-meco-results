@@ -4,6 +4,8 @@ pdf*
 constants.py
 cron.py
 src-data/scrape/*
+src-data-external*
+api*
 src-geo/*
 aws/*
 

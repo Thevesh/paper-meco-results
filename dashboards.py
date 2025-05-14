@@ -288,7 +288,7 @@ if __name__ == '__main__':
     make_veterans()
     make_slim_big()
 
-    TINYBIRD = True
+    TINYBIRD = False
 
     if TINYBIRD:
         print('\nBeginning Tinybird upload:\n')
