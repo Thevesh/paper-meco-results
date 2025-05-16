@@ -28,7 +28,6 @@ def make_seats():
 
     df = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
     df.slug = df.type + '-' + df.slug
-    print(len(df.slug.unique()))
     for SLUG in df.slug.unique():
         tf = df[df.slug == SLUG].copy()[COL_API_SEAT].sort_values(by='date',ascending=False)
         tf = tf.to_dict(orient='records')
@@ -67,13 +66,14 @@ def make_parties():
 
 
 def make_results():
-    data = { "data": []}
-    data_s = { "data":[]}
+    print('')
+    DATA = { "ballot": [], "summary": []}
 
     COL_API_BALLOT = ['name','party','votes','votes_perc','result']
     COL_API_BALLOT_SUMMARY = ['date','voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc','majority','majority_perc']
 
     df = pd.read_parquet('src-data/dashboards/elections_candidates.parquet')
+    print(f"{df.drop_duplicates(subset=['seat','election_name']).shape[0]:,.0f} seats to create")
     for s in df.seat.unique():
         if not os.path.exists(f'api/results/{s}'):
             os.makedirs(f'api/results/{s}')
@@ -89,10 +89,9 @@ def make_results():
             res_b = dfse_b.to_dict(orient='records')
             res_b = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res_b] # proper JSON null
             
-            data['data'] = res
-            data_s['data'] = res_b
-            j.dump(data,open(f'api/results/{s}/{g}.json','w'))
-            j.dump(data_s,open(f'api/results/{s}/{g}-summary.json','w'))
+            DATA['ballot'] = res
+            DATA['summary'] = res_b
+            j.dump(DATA,open(f'api/results/{s}/{g}.json','w'))
 
 
 def upload_candidates():
@@ -144,11 +143,11 @@ if __name__ == '__main__':
     print(f'\nStart: {START.strftime("%Y-%m-%d %H:%M:%S")}')
     # make_candidates()
     # make_seats()
-    make_parties()
-    # make_results()
+    # make_parties()
+    make_results()
     # upload_candidates()
     # upload_seats()
-    upload_parties()
-    # upload_results()
+    # upload_parties()
+    upload_results()
     print(f'\nEnd: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     print(f'\nDuration: {datetime.now() - START}\n')
