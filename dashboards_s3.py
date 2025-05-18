@@ -4,7 +4,7 @@ import json as j
 from glob import glob as g
 from datetime import datetime
 
-from helper import get_states, upload_s3_bulk
+from helper import get_states, upload_s3, upload_s3_bulk
 
 
 def make_candidates():
@@ -176,6 +176,28 @@ def upload_data(PATH='candidates/*'):
     )
 
 
+def make_upload_dates():
+    DATA = {"data": []}
+    df = pd.read_csv('src-data/lookup_seats.csv')\
+        [['state','election','date']]\
+        .drop_duplicates()\
+        .sort_values(by=['state','election'])
+    df = df[~df.election.str.contains('BY-ELECTION')]
+    df = pd.concat([
+        df[df.election.str.startswith('GE')].assign(state='Malaysia').drop_duplicates(),
+        df
+    ],axis=0,ignore_index=True)
+    res = df.to_dict(orient='records')
+    DATA['data'] = res
+    j.dump(DATA,open('api/dates.json','w'))
+
+    print(upload_s3(
+        bucket_name='static.electiondata.my',
+        source_file_name='api/dates.json',
+        cloud_file_name='dates.json'
+    ))
+
+
 if __name__ == '__main__':
     START = datetime.now()
     print(f'\nStart: {START.strftime("%Y-%m-%d %H:%M:%S")}')
@@ -194,5 +216,6 @@ if __name__ == '__main__':
         'trivia/*'
     ]:
         upload_data(PATH=PATH)
+    make_upload_dates()
     print(f'\nEnd: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     print(f'\nDuration: {datetime.now() - START}\n')
