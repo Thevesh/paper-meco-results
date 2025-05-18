@@ -99,14 +99,26 @@ def make_elections():
     COL_FINAL = {
         "ballot": ['party','seats','seats_total','seats_perc','votes','votes_perc'],
         "summary": ['voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc'],
-        "stats": ['seat','date','party','name','state','majority','majority_perc','voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc']
+        "stats": ['seat','date','party','party_lost','name','state','majority','majority_perc','voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc']
     }
 
+    # dfm for main ballot by party
     dfm = pd.read_parquet('src-data/dashboards/elections_parties.parquet').sort_values(by=['seats_perc','votes_perc'],ascending=False)
+
+    # dfs for summary stats
     dfs = pd.read_parquet('src-data/dashboards/elections_summary.parquet').fillna(0)
+
+    # dft for table of statistics by seat; need to be joined with lf loser frame
     dft = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
     dft = dft[dft.election_name != 'By-Election']
     dft = pd.concat([dft[dft.type == 'parlimen'].assign(state='Malaysia'),dft],axis=0,ignore_index=True)
+    lf = pd.read_parquet('src-data/consol_ballots.parquet')
+    lf = lf[lf.result != 'won']
+    lf.loc[lf.result == 'won_uncontested','party'] = 'NEMO'
+    lf.seat = lf.seat + ', ' + lf.state
+    lf = lf[['date','seat','party']].drop_duplicates().rename(columns={'party':'party_lost'})
+    lf = lf.groupby(['date','seat'])['party_lost'].agg(list).reset_index()
+    dft = pd.merge(dft,lf,on=['date','seat'],how='left')
 
     assert len(dfm.drop_duplicates(subset=COL_COMBO)) \
         == len(dfs.drop_duplicates(subset=COL_COMBO)) \
@@ -138,7 +150,8 @@ def make_elections():
                     tf = df[KEY].copy()
                     tf = tf[(tf.type == TYPE) & (tf.state == STATE) & (tf.election_name == ELECTION)]
                     res = tf[COL_FINAL[KEY]].to_dict(orient='records')
-                    res = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res] # proper JSON null
+                    res = [{k: (None if pd.isna(v) else v) if not isinstance(v, list) else v for k,v in record.items()} for record in res] # proper JSON null
+                    res = [{k: [] if isinstance(v, list) and v == ["NEMO"] else v for k,v in record.items()} for record in res]
                     DATA[KEY] = res
                 j.dump(DATA,open(f'api/elections/{STATE}/{TYPE}-{ELECTION}.json','w'))
 
