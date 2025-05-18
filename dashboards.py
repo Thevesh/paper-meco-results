@@ -6,6 +6,7 @@ import time
 from dotenv import load_dotenv
 from requests_toolbelt import MultipartEncoder
 import requests
+from datetime import datetime
 
 from helper import generate_slug, get_states, write_parquet
 
@@ -139,14 +140,50 @@ def make_parties():
     df['seats_perc'] = df.seats / df.seats_total * 100
 
     # number of seats and votes per election, for Malaysia (dfm)
-    dfm = df[df.columns[:7]].copy().assign(state='Malaysia').groupby(col_idx).sum().reset_index()
+    dfm = df[df.type == 'parlimen'][df.columns[:7]].copy().assign(state='Malaysia').groupby(col_idx).sum().reset_index()
     dfm = pd.merge(dfm,sf.groupby('election_name').sum(numeric_only=True).reset_index(),on='election_name',how='left')
     dfm['votes_perc'] = dfm.votes / dfm.votes_total * 100
     dfm['seats_perc'] = dfm.seats / dfm.seats_total * 100
 
     df.loc[(df.election_name == 'SE-02') & (df.state == 'Sabah'),'votes_perc'] = df.seats_perc # special case where all seats were uncontested
     df = pd.concat([dfm,df],ignore_index=True)[col_idx + ['seats','seats_total','seats_perc'] + ['votes','votes_perc']]
+    write_parquet(f'{PATH}/elections_parties',df=df)
+    return len(df)
 
+
+# generate headline stats for each election
+def make_summary():
+    """
+    The function:
+        Reads election summary data from consol_summary.parquet, 
+        then filters out By-Elections,
+        then filters out uncontested wins,
+        then groups by state and type,
+        then calculates voter turnout and rejected votes percentages,
+        then writes final dataframe to parquet format.
+    Returns:
+        Number of rows in the final dataframe, representing the number of general elections
+    """
+    COL_KEEP = ['type','election','state','voters_total','ballots_issued','votes_rejected','votes_valid']
+    COL_GROUP = COL_KEEP[:3]
+    df = pd.read_parquet('src-data/consol_summary.parquet')
+    cf = pd.read_parquet('src-data/consol_ballots.parquet')
+    cf = cf[cf.result == 'won_uncontested']
+    assert len(df[df.majority == 0]) == len(cf) == len(df) - len(df[df.majority > 0]), 'Number of majority 0 does not match number of uncontested wins!'
+    df = df[(df.majority > 0) & (df.election != 'BY-ELECTION')]
+    df['type'] = 'parlimen'
+    df.loc[df.seat.str.startswith('N.'),'type'] = 'dun'
+    df = df[COL_KEEP].groupby(COL_GROUP).sum().reset_index().rename(columns={'ballots_issued':'voter_turnout'})
+    df.loc[len(df)] = ['dun','SE-02','Sabah',0,0,0,0] # special case for Sabah 1971 with all seats uncontested
+    df = df.sort_values(by=['state','type','election']).reset_index(drop=True)
+
+    df = pd.concat([
+        df[df['type'] == 'parlimen'].assign(state='Malaysia').groupby(COL_GROUP).sum().reset_index(),
+        df
+    ],axis=0,ignore_index=True)
+    df['voter_turnout_perc'] = df.voter_turnout / df.voters_total * 100
+    df['votes_rejected_perc'] = df.votes_rejected/df.votes_valid * 100
+    write_parquet(f'{PATH}/elections_summary',df=df.rename(columns={'election':'election_name'}))
     return len(df)
 
 
@@ -280,13 +317,18 @@ def make_slim_big():
 
 
 if __name__ == '__main__':
+    START = datetime.now()
+    print(f'\nStart: {START}')
     print('\nGenerating dashboard files:')
     make_candidates()
     make_seats()
     make_parties()
+    make_summary()
     make_dates()
     make_veterans()
     make_slim_big()
+    print(f'\nEnd: {datetime.now()}')
+    print(f'\nDuration: {datetime.now() - START}\n')
 
     TINYBIRD = False
 

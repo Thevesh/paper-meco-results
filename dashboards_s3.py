@@ -4,11 +4,11 @@ import json as j
 from glob import glob as g
 from datetime import datetime
 
-from helper import upload_s3_bulk
+from helper import get_states, upload_s3_bulk
 
 
 def make_candidates():
-    OUTPUT = {"data": []}
+    DATA = {"data": []}
 
     COL_API_CANDIDATE = ['name','election_name','type','date','seat','party','votes','votes_perc','result']
 
@@ -17,12 +17,12 @@ def make_candidates():
         tf = df[df.slug == SLUG].copy()[COL_API_CANDIDATE].sort_values(by='date',ascending=False)
         tf = tf.to_dict(orient='records')
         tf = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in tf] # proper JSON null
-        OUTPUT['data'] = tf
-        j.dump(OUTPUT, open(f'api/candidates/{SLUG}.json','w'))
+        DATA['data'] = tf
+        j.dump(DATA, open(f'api/candidates/{SLUG}.json','w'))
 
 
 def make_seats():
-    OUTPUT = {"data": []}
+    DATA = {"data": []}
 
     COL_API_SEAT = ['election_name','seat','date','party','name','majority','majority_perc']
 
@@ -32,13 +32,13 @@ def make_seats():
         tf = df[df.slug == SLUG].copy()[COL_API_SEAT].sort_values(by='date',ascending=False)
         tf = tf.to_dict(orient='records')
         tf = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in tf] # proper JSON null
-        OUTPUT['data'] = tf
-        j.dump(OUTPUT, open(f'api/seats/{SLUG}.json','w'))
+        DATA['data'] = tf
+        j.dump(DATA, open(f'api/seats/{SLUG}.json','w'))
 
 
 def make_parties():
 
-    OUTPUT = { "data": []}
+    DATA = { "data": []}
 
     COL_PARTY = ['state', 'type', 'election_name', 'date', 'seats', 'seats_total', 'seats_perc', 'votes', 'votes_perc']
 
@@ -61,8 +61,8 @@ def make_parties():
                 res = tfts.to_dict(orient='records')
                 res = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res] # proper JSON null
 
-                OUTPUT['data'] = res
-                j.dump(OUTPUT,open(f'api/parties/{PARTY}/{TYPE}/{STATE}.json','w'))
+                DATA['data'] = res
+                j.dump(DATA,open(f'api/parties/{PARTY}/{TYPE}/{STATE}.json','w'))
 
 
 def make_results():
@@ -73,15 +73,15 @@ def make_results():
     COL_API_BALLOT_SUMMARY = ['date','voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc','majority','majority_perc']
 
     df = pd.read_parquet('src-data/dashboards/elections_candidates.parquet')
-    print(f"{df.drop_duplicates(subset=['seat','election_name']).shape[0]:,.0f} seats to create")
-    for s in df.seat.unique():
-        if not os.path.exists(f'api/results/{s}'):
-            os.makedirs(f'api/results/{s}')
+    print(f"{df.drop_duplicates(subset=['seat','date']).shape[0]:,.0f} results to create")
+    for SEAT in df.seat.unique():
+        if not os.path.exists(f'api/results/{SEAT}'):
+            os.makedirs(f'api/results/{SEAT}')
 
-        dfs = df[df.seat == s].copy()
-        for g in dfs.election_name.unique():
-            dfse = dfs[dfs.election_name == g].copy()[COL_API_BALLOT].sort_values(by='votes',ascending=False)
-            dfse_b = dfs[dfs.election_name == g].copy()[COL_API_BALLOT_SUMMARY].drop_duplicates()
+        dfs = df[df.seat == SEAT].copy()
+        for DATE in dfs.date.unique():
+            dfse = dfs[dfs.date == DATE].copy()[COL_API_BALLOT].sort_values(by='votes',ascending=False)
+            dfse_b = dfs[dfs.date == DATE].copy()[COL_API_BALLOT_SUMMARY].drop_duplicates()
 
             res = dfse.to_dict(orient='records')
             res = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res] # proper JSON null
@@ -91,44 +91,82 @@ def make_results():
             
             DATA['ballot'] = res
             DATA['summary'] = res_b
-            j.dump(DATA,open(f'api/results/{s}/{g}.json','w'))
+            j.dump(DATA,open(f'api/results/{SEAT}/{DATE}.json','w'))
 
 
-def upload_candidates():
-    FILES = g('api/candidates/*.json')
-    FILES_TO_UPLOAD = sorted([(f,f.replace('api/','')) for f in FILES])
+def make_elections():
+    COL_COMBO = ['state','type','election_name']
+    COL_FINAL = {
+        "ballot": ['party','seats','seats_total','seats_perc','votes','votes_perc'],
+        "summary": ['voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc'],
+        "stats": ['seat','date','party','name','state','majority','majority_perc','voter_turnout','voter_turnout_perc','votes_rejected','votes_rejected_perc']
+    }
 
-    res = upload_s3_bulk(
-        bucket_name='static.electiondata.my',
-        files_to_upload=FILES_TO_UPLOAD,
-        max_workers=120
-    )
+    dfm = pd.read_parquet('src-data/dashboards/elections_parties.parquet').sort_values(by=['seats_perc','votes_perc'],ascending=False)
+    dfs = pd.read_parquet('src-data/dashboards/elections_summary.parquet').fillna(0)
+    dft = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
+    dft = dft[dft.election_name != 'By-Election']
+    dft = pd.concat([dft[dft.type == 'parlimen'].assign(state='Malaysia'),dft],axis=0,ignore_index=True)
+
+    assert len(dfm.drop_duplicates(subset=COL_COMBO)) \
+        == len(dfs.drop_duplicates(subset=COL_COMBO)) \
+        == len(dft.drop_duplicates(subset=COL_COMBO)), \
+        f'Mismatch between 3 components!\
+            ballots: {len(dfm.drop_duplicates(subset=COL_COMBO))} \
+            summaries: {len(dfs.drop_duplicates(subset=COL_COMBO))} \
+            stats: {len(dft.drop_duplicates(subset=COL_COMBO))}'
+
+    df = {
+        "ballot": dfm,
+        "summary": dfs,
+        "stats": dft
+    }
+
+    for TYPE in dfm.type.unique():
+        tf = dfm[dfm.type == TYPE].copy()
+        for STATE in tf.state.unique():
+            tf = dfm[(dfm.type == TYPE) & (dfm.state == STATE)].copy().copy()
+            for ELECTION in tf.election_name.unique():
+
+                # ensure state folder exists
+                if not os.path.exists(f'api/elections/{STATE}'): 
+                    os.makedirs(f'api/elections/{STATE}')
+
+                # now loop over the keys
+                DATA = { "ballot": [], "summary": [], "stats":[]}
+                for KEY in df.keys():
+                    tf = df[KEY].copy()
+                    tf = tf[(tf.type == TYPE) & (tf.state == STATE) & (tf.election_name == ELECTION)]
+                    res = tf[COL_FINAL[KEY]].to_dict(orient='records')
+                    res = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res] # proper JSON null
+                    DATA[KEY] = res
+                j.dump(DATA,open(f'api/elections/{STATE}/{TYPE}-{ELECTION}.json','w'))
 
 
-def upload_seats():
-    FILES = g('api/seats/*.json')
-    FILES_TO_UPLOAD = sorted([(f,f.replace('api/','')) for f in FILES])
+def make_trivia():
+    STATES = get_states(my=1)
 
-    res = upload_s3_bulk(
-        bucket_name='static.electiondata.my',
-        files_to_upload=FILES_TO_UPLOAD,
-        max_workers=120
-    )
+    sb = pd.read_parquet('src-data/dashboards/elections_slim_big.parquet').sort_values(by='majority')
+    vt = pd.read_parquet('src-data/dashboards/elections_veterans.parquet')
+
+    for STATE in STATES:
+        df = {
+            "slim_big": sb[sb.state == STATE].copy().drop('state',axis=1),
+            "veterans_parlimen": vt[(vt.type == 'parlimen') & (vt.state == STATE)].copy().drop(['type','state'],axis=1),
+            "veterans_dun": vt[(vt.type == 'dun') & (vt.state == STATE)].copy().drop(['type','state'],axis=1)
+        }
+
+        DATA = { "slim_big": [], "veterans_parlimen": [], "veterans_dun":[]}
+        for KEY in DATA.keys():
+            tf = df[KEY].copy()
+            res = tf.to_dict(orient='records')
+            res = [{k: (None if pd.isna(v) else v) for k,v in record.items()} for record in res] # proper JSON null
+            DATA[KEY] = res
+        j.dump(DATA,open(f'api/trivia/{STATE}.json','w'))
 
 
-def upload_parties():
-    FILES = g('api/parties/*/*/*.json')
-    FILES_TO_UPLOAD = sorted([(f,f.replace('api/','')) for f in FILES])
-
-    res = upload_s3_bulk(
-        bucket_name='static.electiondata.my',
-        files_to_upload=FILES_TO_UPLOAD,
-        max_workers=120
-    )
-
-
-def upload_results():
-    FILES = g('api/results/*/*.json')
+def upload_data(PATH='candidates/*'):
+    FILES = g(f'api/{PATH}.json')
     FILES_TO_UPLOAD = sorted([(f,f.replace('api/','')) for f in FILES])
 
     res = upload_s3_bulk(
@@ -141,13 +179,20 @@ def upload_results():
 if __name__ == '__main__':
     START = datetime.now()
     print(f'\nStart: {START.strftime("%Y-%m-%d %H:%M:%S")}')
-    # make_candidates()
-    # make_seats()
-    # make_parties()
+    make_candidates()
+    make_seats()
+    make_parties()
     make_results()
-    # upload_candidates()
-    # upload_seats()
-    # upload_parties()
-    upload_results()
+    make_elections()
+    make_trivia()
+    for PATH in [
+        'candidates/*',
+        'seats/*',
+        'parties/*/*/*',
+        'results/*/*',
+        'elections/*/*',
+        'trivia/*'
+    ]:
+        upload_data(PATH=PATH)
     print(f'\nEnd: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     print(f'\nDuration: {datetime.now() - START}\n')
