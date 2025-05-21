@@ -8920,7 +8920,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,1,Ramli Bin Abu Bakar,10537,PAS,3,4961,43.95322051918136,lost
 1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,2,Omar Bin Awang Kechik,6466,BN,25,6326,56.04677948081864,won
 1982-04-22,SE-06,Kelantan,N.04 Semut Api,1,Wan Mamat Bin Wan Yusoff,7313,PAS,3,6528,62.96903636539019,won
-1982-04-22,SE-06,Kelantan,N.04 Semut Api,2,Nik Abdul Aziz Haji Nik Hussin,10540,BN,25,3839,37.03096363460982,lost
+1982-04-22,SE-06,Kelantan,N.04 Semut Api,2,Nik Abdul Aziz Haji Nik Hussin,859,BN,25,3839,37.03096363460982,lost
 1982-04-22,SE-06,Kelantan,N.05 Kemumin,1,Che Hassan Bin Che Ishak,9381,PAS,3,0,,won_uncontested
 1982-04-22,SE-06,Kelantan,N.06 Sering,1,Ab. Hamid Bin Ahmad,7849,BN,25,3983,42.237539766702014,lost
 1982-04-22,SE-06,Kelantan,N.06 Sering,2,Daud Bin Ibrahim,10543,PAS,3,5447,57.762460233297986,won
@@ -8994,7 +8994,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1986-08-02,SE-07,Kelantan,N.02 Sungai Pinang,2,Wan Mamat Bin Wan Yusoff,7313,PAS,3,4530,46.580976863753214,lost
 1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,1,Hussein Bin Mahmood,1129,BN,25,6146,51.405152224824356,won
 1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,2,Ramli Bin Abu Bakar,10537,PAS,3,5810,48.594847775175644,lost
-1986-08-02,SE-07,Kelantan,N.04 Semut Api,1,Haji Nik Ab. Aziz Bin Nik Mat,11623,PAS,3,6233,60.35634743875279,won
+1986-08-02,SE-07,Kelantan,N.04 Semut Api,1,Haji Nik Ab. Aziz Bin Nik Mat,859,PAS,3,6233,60.35634743875279,won
 1986-08-02,SE-07,Kelantan,N.04 Semut Api,2,Hafsah Bt Osman,11624,BN,25,4094,39.643652561247215,lost
 1986-08-02,SE-07,Kelantan,N.05 Kemumin,1,Mohd Zain Bin Mat Daud,11625,BN,25,5045,46.06885215962013,lost
 1986-08-02,SE-07,Kelantan,N.05 Kemumin,2,Hj. Daud Bin Ibrahim,9389,PAS,3,5906,53.93114784037988,won
@@ -9076,7 +9076,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-10-20,SE-08,Kelantan,N.03 Wakaf Bharu,1,Jaffar Bin Che Awang,12796,BEBAS,1,143,1.0150482680295285,lost_deposit
 1990-10-20,SE-08,Kelantan,N.03 Wakaf Bharu,2,Hj. Ramli Bin Hj Abu Bakar,12797,PAS,3,9985,70.87592277115276,won
 1990-10-20,SE-08,Kelantan,N.03 Wakaf Bharu,3,Hj. Hussien Bin Mahmood,12798,BN,25,3960,28.109028960817717,lost
-1990-10-20,SE-08,Kelantan,N.04 Semut Api,1,Tuan Guru Hj Nik Abdul Aziz Bin Nik Mat,12799,PAS,3,9504,79.10112359550561,won
+1990-10-20,SE-08,Kelantan,N.04 Semut Api,1,Tuan Guru Hj Nik Abdul Aziz Bin Nik Mat,859,PAS,3,9504,79.10112359550561,won
 1990-10-20,SE-08,Kelantan,N.04 Semut Api,2,Hj Wan Mat,12800,BN,25,2511,20.89887640449438,lost
 1990-10-20,SE-08,Kelantan,N.05 Kemumin,1,Cik Gu Haji Daud,12801,PAS,3,9310,65.51724137931035,won
 1990-10-20,SE-08,Kelantan,N.05 Kemumin,2,Abang Pin,12802,BN,25,4900,34.48275862068966,lost
@@ -9280,7 +9280,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1999-11-29,SE-10,Kelantan,N.04 Kijang,1,Ustaz Ab. Halim,15108,PAS,3,7352,74.32268499797816,won
 1999-11-29,SE-10,Kelantan,N.04 Kijang,2,Dr Nik Zain,15109,BN,25,2540,25.67731500202183,lost
 1999-11-29,SE-10,Kelantan,N.05 Chempaka,1,Ropli Bin Ishak,15110,BN,25,2302,21.020911332298418,lost
-1999-11-29,SE-10,Kelantan,N.05 Chempaka,2,Tuan Guru Da To' Hj. Nik Abdul Aziz B Nik Mat,15111,PAS,3,8649,78.97908866770157,won
+1999-11-29,SE-10,Kelantan,N.05 Chempaka,2,Tuan Guru Da To' Hj. Nik Abdul Aziz B Nik Mat,859,PAS,3,8649,78.97908866770157,won
 1999-11-29,SE-10,Kelantan,N.06 Panchor,1,Mohd Yusoff Bin Ludin @ Tok Imam Soh,13907,PAS,3,7443,71.05489260143199,won
 1999-11-29,SE-10,Kelantan,N.06 Panchor,2,Mohd Ariffin Bin Abdul Hamid @ Abang Pin,15113,BN,25,3032,28.94510739856802,lost
 1999-11-29,SE-10,Kelantan,N.07 Tanjong Mas,1,Abd. Rahim Bin Wan Abdullah @ Cikgu Rahim,15114,PAS,3,10843,75.44006122590969,won
@@ -9368,7 +9368,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2004-03-21,SE-11,Kelantan,N.04 Wakaf Bharu,2,Rosdi Aziz,16356,BN,25,7280,55.34438193705336,won
 2004-03-21,SE-11,Kelantan,N.05 Kijang,1,Che Rosli Bin Hassan,16357,BN,25,4034,36.84018264840183,lost
 2004-03-21,SE-11,Kelantan,N.05 Kijang,2,Husam Musa,3826,PAS,3,6916,63.15981735159817,won
-2004-03-21,SE-11,Kelantan,N.06 Chempaka,1,Tuan Guru Dato' Haji Nik Aziz,16359,PAS,3,7889,65.2846739490235,won
+2004-03-21,SE-11,Kelantan,N.06 Chempaka,1,Tuan Guru Dato' Haji Nik Aziz,859,PAS,3,7889,65.2846739490235,won
 2004-03-21,SE-11,Kelantan,N.06 Chempaka,2,Hajjah Ruhani Binti Mamat,16360,BN,25,4195,34.7153260509765,lost
 2004-03-21,SE-11,Kelantan,N.07 Panchor,1,Nik Amar Nik Abdullah,16361,PAS,3,7123,58.57248581531124,won
 2004-03-21,SE-11,Kelantan,N.07 Panchor,2,Hj. Zulkifli Bin Hj. Dollah,16362,BN,25,5038,41.42751418468876,lost
@@ -9459,7 +9459,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2008-03-08,SE-12,Kelantan,N.04 Wakaf Bharu,2,Che Abdullah Bin Mat Nawi (Hj Che Lah),17696,PAS,3,8405,52.04334365325077,won
 2008-03-08,SE-12,Kelantan,N.05 Kijang,1,Wan Ubaidah Binti Omar,17697,PAS,3,0,,won_uncontested
 2008-03-08,SE-12,Kelantan,N.06 Chempaka,1,Datuk Dr. Nik Mohd Zain,17698,BN,25,5265,35.624873130793695,lost
-2008-03-08,SE-12,Kelantan,N.06 Chempaka,2,Tuan Guru Dato' Haji Nik Abdul Aziz,16359,PAS,3,9514,64.37512686920631,won
+2008-03-08,SE-12,Kelantan,N.06 Chempaka,2,Tuan Guru Dato' Haji Nik Abdul Aziz,859,PAS,3,9514,64.37512686920631,won
 2008-03-08,SE-12,Kelantan,N.07 Panchor,1,Mohd Amar Bin Abdullah (Nik Amar),2621,PAS,3,9148,61.56538125042063,won
 2008-03-08,SE-12,Kelantan,N.07 Panchor,2,Dali Bin Husin,3660,BN,25,5711,38.43461874957938,lost
 2008-03-08,SE-12,Kelantan,N.08 Tanjong Mas,1,Rohani Binti Ibrahim (Kak Ani),17702,PAS,3,11095,69.00733922129618,won
@@ -9551,7 +9551,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2013-05-05,SE-13,Kelantan,N.05 Kijang,1,Kak Ubai,19246,PAS,3,10632,65.95124371937224,won
 2013-05-05,SE-13,Kelantan,N.05 Kijang,2,Hj. Zaluzi,19247,BN,25,5489,34.04875628062775,lost
 2013-05-05,SE-13,Kelantan,N.06 Chempaka,1,Tok Gawo Man,19248,BN,25,5810,32.06401766004415,lost
-2013-05-05,SE-13,Kelantan,N.06 Chempaka,2,Tuan Guru Dato' Haji Nik Abdul Aziz,16359,PAS,3,12310,67.93598233995584,won
+2013-05-05,SE-13,Kelantan,N.06 Chempaka,2,Tuan Guru Dato' Haji Nik Abdul Aziz,859,PAS,3,12310,67.93598233995584,won
 2013-05-05,SE-13,Kelantan,N.07 Panchor,1,Dato' Nik Amar,19250,PAS,3,12467,62.65453814453714,won
 2013-05-05,SE-13,Kelantan,N.07 Panchor,2,Che Rosli,19251,BN,25,7431,37.34546185546286,lost
 2013-05-05,SE-13,Kelantan,N.08 Tanjong Mas,1,Kanidy Omar,19252,BN,25,6866,30.85426684042601,lost
