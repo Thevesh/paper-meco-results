@@ -1,8 +1,7 @@
-[![Preprint](https://img.shields.io/badge/project-paper-lightgrey)](https://doi.org/10.48550/arxiv.2505.06564)
+[![Preprint](https://img.shields.io/badge/project-paper-orange)](https://doi.org/10.48550/arxiv.2505.06564)
 [![Cite This Work](https://img.shields.io/badge/citation-ready-green)](#Citation)
-[![Python](https://img.shields.io/badge/python-3.11+-red.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.11+-pink.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-CC0_1.0-blue.svg)](LICENSE)
-[![Last Updated](https://img.shields.io/github/last-commit/thevesh/paper-malaysian-election-corpus)](https://github.com/thevesh/paper-malaysian-election-corpus/commits/main)
 
 # Malaysian Election Corpus (MECo)
 
@@ -39,7 +38,7 @@ This repository contains the full data processing and analysis pipeline underlyi
 1. Clone the repository:
 ```bash
 git clone git@github.com:thevesh/paper-malaysian-election-corpus.git
-cd paper-non-resident-voters
+cd paper-malaysian-election-corpus
 ```
 
 2. Create and activate a virtual environment:
