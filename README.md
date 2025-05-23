@@ -70,7 +70,7 @@ If you use this work, please cite it as:
 > Thevesh Thevananthan, "The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025", 2025.
 
 ``` BibTeX
-@misc{thevananthan2025malaysianelectioncorpusmeco,
+@misc{thevesh2025mecoresults,
       title={The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025}, 
       author={Thevesh Thevananthan},
       year={2025},
