@@ -8,7 +8,6 @@ src-data-external*
 api*
 src-geo/*
 aws/*
-lint.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
