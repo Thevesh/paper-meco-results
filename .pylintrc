@@ -1,0 +1,5 @@
+[MASTER]
+disable=R0801,R0914,E0401,W0718,R1732
+
+[FORMAT]
+max-line-length=240
