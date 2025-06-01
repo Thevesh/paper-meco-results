@@ -8,13 +8,13 @@ from helper import get_states, write_csv_parquet
 
 with open("src-data/lookup_dates.json", encoding="utf-8") as f:
     DATES = j.load(f)
-STATES = get_states(my=1)
+states = get_states(my=1)
 
 
 def compile_ballots():
     """Compile ballot data from various election sources."""
     df = pd.DataFrame()
-    for s in STATES + ["PRK"]:
+    for s in states + ["PRK"]:
         if "W.P." in s:
             continue
 
@@ -86,7 +86,7 @@ def compile_ballots():
 def compile_summary():
     """Compile summary data from various election sources."""
     df = pd.DataFrame()
-    for s in STATES + ["PRK"]:
+    for s in states + ["PRK"]:
         if "W.P." in s:
             continue
 

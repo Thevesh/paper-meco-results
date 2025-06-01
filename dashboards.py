@@ -1,8 +1,6 @@
 """Module for generating dashboard data and visualizations for election results."""
 
 import pandas as pd
-import numpy as np
-import json as j
 import os
 import time
 from dotenv import load_dotenv

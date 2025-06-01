@@ -9,6 +9,7 @@ api*
 src-geo/*
 aws/*
 lint.sh
+.pylint*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
