@@ -1,12 +1,12 @@
 """Module for generating dashboard data and visualizations for election results."""
 
-import pandas as pd
 import os
 import time
+from datetime import datetime
+import requests
+import pandas as pd
 from dotenv import load_dotenv
 from requests_toolbelt import MultipartEncoder
-import requests
-from datetime import datetime
 
 from helper import generate_slug, get_states, write_parquet
 
@@ -36,7 +36,7 @@ def make_candidates():
         Number of rows in the final dataframe, representing the number of candidates across all elections
     """
 
-    COL_BALLOT = [
+    ballot_cols = [
         "slug",
         "name",
         "type",
@@ -62,9 +62,9 @@ def make_candidates():
     df.election_name = df.election_name.str.replace("BY-ELECTION", "By-Election")
     df["type"] = "parlimen"
     df.loc[df.seat.str.startswith("N."), "type"] = "dun"
-    df = df[COL_BALLOT]
+    df = df[ballot_cols]
 
-    COL_SUMMARY = [
+    summary_cols = [
         "date",
         "election_name",
         "seat",
@@ -87,7 +87,7 @@ def make_candidates():
         )
     )
     tf["seat"] = tf["seat"] + ", " + tf["state"]
-    tf = tf.drop(["state"], axis=1)[COL_SUMMARY]
+    tf = tf.drop(["state"], axis=1)[summary_cols]
     tf.election_name = tf.election_name.str.replace("BY-ELECTION", "By-Election")
 
     df = pd.merge(df, tf, on=["date", "election_name", "seat"], how="right")
@@ -111,7 +111,7 @@ def make_seats():
     Returns:
         Number of rows in the final dataframe, representing the number of seats in the dataset
     """
-    COL_WINNER = [
+    winner_cols = [
         "slug",
         "seat_name",
         "seat",
@@ -124,9 +124,9 @@ def make_seats():
     ]
 
     lf = pd.read_csv("src-data/lookup_seats.csv")
-    MAP_AREA_NAME = dict(zip(zip(lf.election, lf.state, lf.seat), lf.area_name))
+    map_area_name = dict(zip(zip(lf.election, lf.state, lf.seat), lf.area_name))
 
-    df = pd.read_parquet(f"src-data/consol_ballots.parquet").rename(
+    df = pd.read_parquet("src-data/consol_ballots.parquet").rename(
         columns={"election": "election_name"}
     )
     df["name"] = df["candidate_uid"].map(MAP_NAME)
@@ -137,7 +137,7 @@ def make_seats():
     df.loc[df.seat.str.startswith("N."), "type"] = "dun"
     df["seat_name"] = (
         df.apply(
-            lambda x: MAP_AREA_NAME.get((x["election_name"], x["state"], x["seat"])),
+            lambda x: map_area_name.get((x["election_name"], x["state"], x["seat"])),
             axis=1,
         )
         + ", "
@@ -145,12 +145,12 @@ def make_seats():
     )
     df["slug"] = df.type.str[:1] + "-" + df.seat_name.apply(generate_slug)
     df.election_name = df.election_name.str.replace("BY-ELECTION", "By-Election")
-    df = df[df.result.str.contains("won")].copy().drop("result", axis=1)[COL_WINNER]
+    df = df[df.result.str.contains("won")].copy().drop("result", axis=1)[winner_cols]
     assert len(df) == len(
         df.drop_duplicates(subset=["date", "slug"])
     ), "Duplicate seats!!"
 
-    COL_SUMMARY = [
+    summary_cols = [
         "date",
         "state",
         "seat",
@@ -167,7 +167,7 @@ def make_seats():
             "ballots_issued": "voter_turnout",
         }
     )
-    sf = sf[COL_SUMMARY]
+    sf = sf[summary_cols]
 
     df = pd.merge(df, sf, on=["date", "state", "seat"], how="left")
     assert (
@@ -282,7 +282,7 @@ def make_summary():
     Returns:
         Number of rows in the final dataframe, representing the number of general elections
     """
-    COL_KEEP = [
+    cols_to_keep = [
         "type",
         "election",
         "state",
@@ -291,7 +291,7 @@ def make_summary():
         "votes_rejected",
         "votes_valid",
     ]
-    COL_GROUP = COL_KEEP[:3]
+    cols_to_group = cols_to_keep[:3]
     df = pd.read_parquet("src-data/consol_summary.parquet")
     cf = pd.read_parquet("src-data/consol_ballots.parquet")
     cf = cf[cf.result == "won_uncontested"]
@@ -302,8 +302,8 @@ def make_summary():
     df["type"] = "parlimen"
     df.loc[df.seat.str.startswith("N."), "type"] = "dun"
     df = (
-        df[COL_KEEP]
-        .groupby(COL_GROUP)
+        df[cols_to_keep]
+        .groupby(cols_to_group)
         .sum()
         .reset_index()
         .rename(columns={"ballots_issued": "voter_turnout"})
@@ -323,7 +323,7 @@ def make_summary():
         [
             df[df["type"] == "parlimen"]
             .assign(state="Malaysia")
-            .groupby(COL_GROUP)
+            .groupby(cols_to_group)
             .sum()
             .reset_index(),
             df,

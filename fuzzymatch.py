@@ -95,5 +95,5 @@ def update_candidates(write=False, ballots_file=None):
 
 
 if __name__ == "__main__":
-    ballots_file = "src-data/prk/prk_ballots.csv"
-    update_candidates(write=True, ballots_file=ballots_file)
+    BALLOTS_FILE = "src-data/prk/prk_ballots.csv"
+    update_candidates(write=True, ballots_file=BALLOTS_FILE)

@@ -14,7 +14,7 @@ sb.set_palette("husl")
 
 def heatmap_seats_federal():
     """Plot seat distribution by state over time."""
-    dates = j.loads(open("src-data/lookup_dates.json", 
+    dates = j.loads(open("src-data/lookup_dates.json",
                          encoding="utf-8").read())["Malaysia"]
     dates = {int(k): dates[k][:4] for k in dates.keys()}
 
@@ -428,9 +428,9 @@ def histogram_validation():
         }
         # x-axis adjustments
         ax[i].set_xlabel("")
-        SPACE = "" if i < 2 else "\n"
+        space_to_add = "" if i < 2 else "\n"
         ax[i].set_title(
-            f'{SPACE}{VARS[col]["TITLE"]}\nMin: {df[col].min():.2f}  |  Max: {df[col].max():.2f}',
+            f'{space_to_add}{VARS[col]["TITLE"]}\nMin: {df[col].min():.2f}  |  Max: {df[col].max():.2f}',
             linespacing=1.8,
         )
         ax[i].set_xlim(VARS[col]["BLIM"], VARS[col]["ULIM"])

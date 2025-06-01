@@ -380,28 +380,6 @@ def write_json(data: Dict[str, Any], file_path: str) -> None:
         json.dump(data, f, indent=2)
 
 
-def read_parquet(file_path: str) -> pd.DataFrame:
-    """Read Parquet file.
-    
-    Args:
-        file_path (str): Path to Parquet file
-        
-    Returns:
-        pd.DataFrame: DataFrame from Parquet file
-    """
-    return pd.read_parquet(file_path)
-
-
-def write_parquet(df: pd.DataFrame, file_path: str) -> None:
-    """Write DataFrame to Parquet file.
-    
-    Args:
-        df (pd.DataFrame): DataFrame to write
-        file_path (str): Path to write to
-    """
-    df.to_parquet(file_path, index=False)
-
-
 def get_timestamp() -> str:
     """Get current timestamp in ISO format.
     
@@ -409,12 +387,3 @@ def get_timestamp() -> str:
         str: Current timestamp
     """
     return datetime.now().isoformat()
-
-
-def sleep(seconds: int) -> None:
-    """Sleep for given number of seconds.
-    
-    Args:
-        seconds (int): Number of seconds to sleep
-    """
-    time.sleep(seconds)
