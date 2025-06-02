@@ -297,7 +297,7 @@ def get_states(my: int = 0) -> List[str]:
         "W.P. Labuan",
         "W.P. Putrajaya",
     ]
-    return states if my else states[:-3]
+    return states if my == 0 else ['Malaysia'] + states
 
 
 def capitalize_sentence(sentence):
