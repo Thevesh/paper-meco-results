@@ -1,14 +1,13 @@
 """Helper module for file operations, data processing, and S3 interactions."""
 
-import json
 import os
 import re
 import shutil
 import tarfile
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import timedelta, datetime
-from typing import List, Dict, Any
+from datetime import timedelta
+from typing import List
 
 import boto3
 import pandas as pd
@@ -311,79 +310,3 @@ def capitalize_sentence(sentence):
     """
     words = sentence.split()
     return " ".join([words[0].upper()] + [word.title() for word in words[1:]])
-
-
-def upload_to_s3(file_path: str, s3_key: str) -> None:
-    """Upload file to S3.
-    
-    Args:
-        file_path (str): Path to file to upload
-        s3_key (str): S3 key to upload to
-    """
-    try:
-        s3_client.upload_file(file_path, s3_bucket, s3_key)
-    except Exception as e:
-        print(f"Failed to upload {file_path} to {s3_key}: {str(e)}")
-
-
-def download_from_s3(s3_key: str, file_path: str) -> None:
-    """Download file from S3.
-    
-    Args:
-        s3_key (str): S3 key to download from
-        file_path (str): Path to save file to
-    """
-    try:
-        s3_client.download_file(s3_bucket, s3_key, file_path)
-    except Exception as e:
-        print(f"Failed to download {s3_key} to {file_path}: {str(e)}")
-
-
-def list_s3_files(prefix: str) -> List[str]:
-    """List files in S3 bucket with given prefix.
-    
-    Args:
-        prefix (str): Prefix to filter files by
-        
-    Returns:
-        List[str]: List of S3 keys
-    """
-    try:
-        response = s3_client.list_objects_v2(Bucket=s3_bucket, Prefix=prefix)
-        return [obj["Key"] for obj in response.get("Contents", [])]
-    except Exception as e:
-        print(f"Failed to list files with prefix {prefix}: {str(e)}")
-        return []
-
-
-def read_json(file_path: str) -> Dict[str, Any]:
-    """Read JSON file.
-    
-    Args:
-        file_path (str): Path to JSON file
-        
-    Returns:
-        Dict[str, Any]: JSON data
-    """
-    with open(file_path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-def write_json(data: Dict[str, Any], file_path: str) -> None:
-    """Write data to JSON file.
-    
-    Args:
-        data (Dict[str, Any]): Data to write
-        file_path (str): Path to write to
-    """
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
-
-
-def get_timestamp() -> str:
-    """Get current timestamp in ISO format.
-    
-    Returns:
-        str: Current timestamp
-    """
-    return datetime.now().isoformat()

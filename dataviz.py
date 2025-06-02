@@ -381,8 +381,7 @@ def histogram_validation():
     _, ax = plt.subplots(2, 2)
     ax = ax.ravel()
 
-    for i in range(len(cols)):
-        col = cols[i]
+    for i, col in enumerate(cols):
         assert len(df[df[col] < 0]) == 0, "Negative values found!"
         assert len(df[df[col] > 100]) == 0, "Values greater than 100 found!"
         ax[i].hist(df[col], bins=250, color="black", edgecolor="black", linewidth=0.5)
@@ -400,7 +399,7 @@ def histogram_validation():
         ax[i].set_ylabel("")
         ax[i].set_yticklabels([])
 
-        VARS = {
+        vars_to_plot = {
             "voter_turnout": {
                 "TITLE": "Voter Turnout (%)",
                 "BLIM": 40,
@@ -430,12 +429,12 @@ def histogram_validation():
         ax[i].set_xlabel("")
         space_to_add = "" if i < 2 else "\n"
         ax[i].set_title(
-            f'{space_to_add}{VARS[col]["TITLE"]}\nMin: {df[col].min():.2f}  |  Max: {df[col].max():.2f}',
+            f'{space_to_add}{vars_to_plot[col]["TITLE"]}\nMin: {df[col].min():.2f}  |  Max: {df[col].max():.2f}',
             linespacing=1.8,
         )
-        ax[i].set_xlim(VARS[col]["BLIM"], VARS[col]["ULIM"])
+        ax[i].set_xlim(vars_to_plot[col]["BLIM"], vars_to_plot[col]["ULIM"])
         ax[i].set_xticks(
-            [x for x in range(VARS[col]["BLIM"], VARS[col]["ULIM"] + 1, VARS[col]["GAP"])]
+            list(range(vars_to_plot[col]["BLIM"], vars_to_plot[col]["ULIM"] + 1, vars_to_plot[col]["GAP"]))
         )
         ax[i].get_xaxis().set_visible(True)
 

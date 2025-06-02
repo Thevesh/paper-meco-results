@@ -1,5 +1,14 @@
 [MASTER]
-disable=R0801,R0914,E0401,W0718,R1732
+disable=
+    R0801,  # Similar lines in multiple files
+    R0914,  # Too many local variables
+    E0401,  # Unable to import module
+    W0718,  # Broad exception caught
+    R1732,  # Consider using with for resource-allocating operations
+    R0913,  # Too many arguments
+    R0917,  # Too many positional arguments
+    R1702,  # Too many nested blocks
+    R0912  # Too many branches
 
 [FORMAT]
 max-line-length=240
