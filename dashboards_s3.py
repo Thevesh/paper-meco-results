@@ -14,6 +14,25 @@ def make_candidates():
     """Generate candidate data files for API."""
     data = {"data": []}
 
+    df = pd.read_parquet("src-data/dashboards/elections_candidates.parquet")
+    df = (df
+        .assign(
+            c=1,
+            w=df.result.str.contains('won').astype(int),
+            l=lambda x: 1 - x.w
+        )
+        .groupby(['slug','name'], as_index=False)
+        .agg({'c':'sum', 'w':'sum', 'l':'sum'})
+        .sort_values(['c','w'], ascending=False)
+    )
+    df = df.to_dict(orient="records")
+    df = [
+        {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in df
+    ]  # proper JSON null
+    data["data"] = df
+    with open("api/candidates/dropdown.json", "w", encoding="utf-8") as f:
+        j.dump(data, f)
+
     col_api_candidate = [
         "name",
         "election_name",
@@ -71,9 +90,13 @@ def make_seats():
         .drop_duplicates(subset=['lineage'],keep='last')\
         .drop(columns=['lineage_sort'])
     lineages = tf.lineage.apply(lambda x: x[0])
+    tf = pd.concat([
+        tf[tf.type == 'parlimen'],
+        tf[tf.type == 'dun']
+    ],axis=0,ignore_index=True)
     tf = tf[['seat','slug','type']].rename(columns={'seat':'seat_name'}).to_dict(orient='records')
     data['data'] = tf
-    with open('api/seats/dropdown_new.json','w',encoding='utf-8') as f:
+    with open('api/seats/dropdown.json','w',encoding='utf-8') as f:
         j.dump(data,f)
 
     map_change = {
