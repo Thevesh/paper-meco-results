@@ -3,10 +3,11 @@
 import json as j
 import os
 from glob import glob as g
+from ast import literal_eval as le
 from datetime import datetime
 import pandas as pd
 
-from helper import get_states, upload_s3, upload_s3_bulk
+from helper import get_states, upload_s3, upload_s3_bulk, generate_slug
 
 
 def make_candidates():
@@ -55,11 +56,52 @@ def make_seats():
         "majority_perc",
     ]
 
-    df = pd.read_parquet("src-data/dashboards/elections_seats_winner.parquet")
-    df.slug = df.type + "-" + df.slug
-    for slug in df.slug.unique():
+    df = pd.read_csv('src-data/lookup_seats_new.csv')
+    for r in [('federal','parlimen'),('state','dun')]:
+        df.type = df.type.replace(r[0],r[1])
+    for r in [('[','["'),(']','"]'),(',','","')]:
+        df.lineage = df.lineage.str.replace(r[0],r[1])
+    df['lineage'] = df['lineage'].apply(le)
+    df['lineage_sort'] = df.lineage.astype(str)
+    df.seat = df.seat + ', ' + df.state
+    df['slug'] = df.seat.apply(generate_slug)
+
+    tf = df[df['lineage'].apply(lambda x: len(x) == 1)].copy()\
+        .sort_values(by=['lineage_sort','date'])\
+        .drop_duplicates(subset=['lineage'],keep='last')\
+        .drop(columns=['lineage_sort'])
+    lineages = tf.lineage.apply(lambda x: x[0])
+    tf = tf[['seat','slug','type']].rename(columns={'seat':'seat_name'}).to_dict(orient='records')
+    data['data'] = tf
+    with open('api/seats/dropdown_new.json','w',encoding='utf-8') as f:
+        j.dump(data,f)
+
+    map_change = {
+        'en': {
+            'rename': 'was renamed to',
+            'split': 'was split into',
+            'merge': 'was merged with',
+        },
+        'ms': {
+            'rename': 'dinamakan semula kepada',
+            'split': 'dibahagikan kepada',
+            'merge': 'digabungkan dengan',
+        }
+    }
+    ef = pd.read_csv('src-data/lookup_lineage_desc.csv',dtype=str)
+    ef['change_en'] = ef['from'] + ' ' + ef['type'].map(map_change['en']) + ' ' + ef['to'] + ' in the ' + ef['date'].str[:4] + ' redelineation'
+    ef['change_ms'] = ef['from'] + ' ' + ef['type'].map(map_change['ms']) + ' ' + ef['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + ef['date'].str[:4]
+
+    sf = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
+    sf.slug = sf.seat.apply(generate_slug)
+
+    for lineage in lineages:
+        slugs = list(df[df['lineage'].apply(lambda x, l=lineage: l in x)]['slug'])
+        if len(slugs) == 0:
+            continue
+
         tf = (
-            df[df.slug == slug]
+            sf[sf.slug.isin(slugs)]
             .copy()[col_api_seat]
             .sort_values(by="date", ascending=False)
         )
@@ -67,8 +109,11 @@ def make_seats():
         tf = [
             {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
         ]  # proper JSON null
-        data["data"] = tf
-        with open(f"api/seats/{slug}.json", "w", encoding="utf-8") as f:
+        tfe = ef[ef.slug == slugs[-1]][['date','change_en','change_ms']].to_dict(orient='records')
+
+        data["data"] = tf + tfe
+        data["data"].sort(key=lambda x: x.get("date", ""), reverse=True)
+        with open(f"api/seats/{slugs[-1]}.json", "w", encoding="utf-8") as f:
             j.dump(data, f)
 
 

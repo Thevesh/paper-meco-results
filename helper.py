@@ -269,34 +269,37 @@ def generate_slug(x):
     return slug
 
 
-def get_states(my: int = 0) -> List[str]:
+def get_states(my: int = 0, codes: int = 0) -> List[str]:
     """Get list of Malaysian states.
     
     Args:
         my (int): Whether to include only Malaysian states
+        code (int): Whether to return full name or state code
         
     Returns:
-        List[str]: List of state names
+        List[str]: List of state names (codes = 0) or codes (codes = 1)
     """
-    states = [
-        "Johor",
-        "Kedah",
-        "Kelantan",
-        "Melaka",
-        "Negeri Sembilan",
-        "Pahang",
-        "Perak",
-        "Perlis",
-        "Pulau Pinang",
-        "Sabah",
-        "Sarawak",
-        "Selangor",
-        "Terengganu",
-        "W.P. Kuala Lumpur",
-        "W.P. Labuan",
-        "W.P. Putrajaya",
-    ]
-    return states if my == 0 else ['Malaysia'] + states
+    states = {
+        "Johor": "JHR",
+        "Kedah": "KDH",
+        "Kelantan": "KTN",
+        "Melaka": "MLK",
+        "Negeri Sembilan": "NSN",
+        "Pahang": "PHG",
+        "Perak": "PRK",
+        "Perlis": "PLS",
+        "Pulau Pinang": "PNG",
+        "Sabah": "SBH",
+        "Sarawak": "SWK",
+        "Selangor": "SGR",
+        "Terengganu": "TRG",
+        "W.P. Kuala Lumpur": "KUL",
+        "W.P. Labuan": "LBN",
+        "W.P. Putrajaya": "PJY",
+    }
+    if codes == 0:
+        return list(states.keys()) if my == 0 else ['Malaysia'] + list(states.keys())
+    return list(states.values()) if my == 0 else ['MYS'] + list(states.values())
 
 
 def capitalize_sentence(sentence):
