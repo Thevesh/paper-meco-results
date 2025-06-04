@@ -1219,21 +1219,29 @@ date,election,state,seat,type,lineage
 2013-05-05,GE-13,Selangor,P.112 Kuala Langat,federal,[P.112]
 2018-05-09,GE-14,Selangor,P.112 Kuala Langat,federal,[P.112]
 2022-11-19,GE-15,Selangor,P.112 Kuala Langat,federal,[P.112]
-1959-05-20,GE-01,Selangor,P.094 Sepang,federal,[P.113]
-1964-04-25,GE-02,Selangor,P.076 Sepang,federal,[P.113]
-1969-05-10,GE-03,Selangor,P.076 Sepang,federal,[P.113]
-1974-08-24,GE-04,Selangor,P.083 Sepang,federal,[P.113]
-1978-07-08,GE-05,Selangor,P.083 Sepang,federal,[P.113]
-1982-04-22,GE-06,Selangor,P.083 Sepang,federal,[P.113]
-1986-08-02,GE-07,Selangor,P.095 Sepang,federal,[P.113]
-1990-10-20,GE-08,Selangor,P.095 Sepang,federal,[P.113]
-1995-04-24,GE-09,Selangor,P.102 Sepang,federal,[P.113]
-1999-11-29,GE-10,Selangor,P.102 Sepang,federal,[P.113]
+1955-07-25,GE-00,Selangor,P.021 Langat,federal,"[P.101,P.113,P.125]"
+1959-05-20,GE-01,Selangor,P.093 Langat,federal,[P.101]
+1964-04-25,GE-02,Selangor,P.069 Langat,federal,[P.101]
+1969-05-10,GE-03,Selangor,P.069 Langat,federal,[P.101]
+1959-05-20,GE-01,Selangor,P.094 Sepang,federal,"[P.113,P.125]"
+1964-04-25,GE-02,Selangor,P.076 Sepang,federal,"[P.113,P.125]"
+1969-05-10,GE-03,Selangor,P.076 Sepang,federal,"[P.113,P.125]"
+1974-08-24,GE-04,Selangor,P.083 Sepang,federal,"[P.113,P.125]"
+1978-07-08,GE-05,Selangor,P.083 Sepang,federal,"[P.113,P.125]"
+1982-04-22,GE-06,Selangor,P.083 Sepang,federal,"[P.113,P.125]"
+1986-08-02,GE-07,Selangor,P.095 Sepang,federal,"[P.113,P.125]"
+1990-10-20,GE-08,Selangor,P.095 Sepang,federal,"[P.113,P.125]"
+1995-04-24,GE-09,Selangor,P.102 Sepang,federal,"[P.113,P.125]"  
+1999-11-29,GE-10,Selangor,P.102 Sepang,federal,"[P.113,P.125]"
 2004-03-21,GE-11,Selangor,P.113 Sepang,federal,[P.113]
 2008-03-08,GE-12,Selangor,P.113 Sepang,federal,[P.113]
 2013-05-05,GE-13,Selangor,P.113 Sepang,federal,[P.113]
 2018-05-09,GE-14,Selangor,P.113 Sepang,federal,[P.113]
 2022-11-19,GE-15,Selangor,P.113 Sepang,federal,[P.113]
+1955-07-25,GE-00,Selangor,P.017 Kuala Lumpur Barat,federal,"[P.114,P.121,P.122]"
+1959-05-20,GE-01,Selangor,P.085 Batu,federal,[P.114]
+1964-04-25,GE-02,Selangor,P.066 Batu,federal,[P.114]
+1969-05-10,GE-03,Selangor,P.066 Batu,federal,[P.114]
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.084 Kepong,federal,[P.114]
 1978-07-08,GE-05,W.P. Kuala Lumpur,P.084 Kepong,federal,[P.114]
 1982-04-22,GE-06,W.P. Kuala Lumpur,P.084 Kepong,federal,[P.114]
@@ -1292,6 +1300,12 @@ date,election,state,seat,type,lineage
 2013-05-05,GE-13,W.P. Kuala Lumpur,P.120 Bukit Bintang,federal,[P.120]
 2018-05-09,GE-14,W.P. Kuala Lumpur,P.120 Bukit Bintang,federal,[P.120]
 2022-11-19,GE-15,W.P. Kuala Lumpur,P.120 Bukit Bintang,federal,[P.120]
+1959-05-20,GE-01,Selangor,P.086 Bungsar,federal,"[P.121,P.122]"
+1964-04-25,GE-02,Selangor,P.071 Bungsar,federal,"[P.121,P.122]"
+1969-05-10,GE-03,Selangor,P.071 Bungsar,federal,"[P.121,P.122]"
+1974-08-24,GE-04,W.P. Kuala Lumpur,P.086 Damansara,federal,"[P.121,P.122]"
+1978-07-08,GE-05,W.P. Kuala Lumpur,P.086 Damansara,federal,"[P.121,P.122]"
+1982-04-22,GE-06,W.P. Kuala Lumpur,P.086 Damansara,federal,"[P.121,P.122]"
 1986-08-02,GE-07,W.P. Kuala Lumpur,P.100 Lembah Pantai,federal,[P.121]
 1990-10-20,GE-08,W.P. Kuala Lumpur,P.100 Lembah Pantai,federal,[P.121]
 1995-04-24,GE-09,W.P. Kuala Lumpur,P.109 Lembah Pantai,federal,[P.121]
