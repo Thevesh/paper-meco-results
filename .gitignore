@@ -8,6 +8,7 @@ src-data-external*
 api*
 src-geo/*
 aws/*
+*local*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
