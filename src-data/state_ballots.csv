@@ -10443,7 +10443,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2004-03-21,SE-11,Pulau Pinang,N.34 Paya Terubong,2,Yeoh Soon Hin,16724,DAP,18,8380,46.16571176729837,lost
 2004-03-21,SE-11,Pulau Pinang,N.35 Batu Uban,1,Ong Ping Cheow,3000,PKR,11,3070,22.616767349344336,lost
 2004-03-21,SE-11,Pulau Pinang,N.35 Batu Uban,2,Goh Kheng Sneah,16726,BN,25,10504,77.38323265065567,won
-2004-03-21,SE-11,Pulau Pinang,N.36 Pantai Jerejak,1,Syed Mohamad Nazli Bin Sved Ahmad,16727,PKR,11,3021,25.333333333333336,lost
+2004-03-21,SE-11,Pulau Pinang,N.36 Pantai Jerejak,1,Syed Mohamad Nazli Bin Syed Ahmad,16727,PKR,11,3021,25.333333333333336,lost
 2004-03-21,SE-11,Pulau Pinang,N.36 Pantai Jerejak,2,Wong Mun Hoe,16728,BN,25,8904,74.66666666666667,won
 2004-03-21,SE-11,Pulau Pinang,N.37 Batu Maung,1,Mansor Bin Musa,16729,BN,25,10386,70.73004630890766,won
 2004-03-21,SE-11,Pulau Pinang,N.37 Batu Maung,2,Lim Eng Nam,16730,PKR,11,4298,29.269953691092343,lost
@@ -16715,7 +16715,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2004-03-21,SE-11,Selangor,N.30 Kinrara,1,Teoh Lib Peng,16956,DAP,18,4894,34.81539446539091,lost
 2004-03-21,SE-11,Selangor,N.30 Kinrara,2,Kow Cheong Wei,16957,BN,25,9163,65.18460553460909,won
 2004-03-21,SE-11,Selangor,N.31 Subang Jaya,1,Lee Hwa Beng,3439,BN,25,0,,won_uncontested
-2004-03-21,SE-11,Selangor,N.32 Seri Setia,1,Seripah Noli Binti Sved Hussin,2439,BN,25,16911,74.56020457651779,won
+2004-03-21,SE-11,Selangor,N.32 Seri Setia,1,Seripah Noli Binti Syed Hussin,2439,BN,25,16911,74.56020457651779,won
 2004-03-21,SE-11,Selangor,N.32 Seri Setia,2,Mastura Binti Hj Muhammad,16960,PAS,3,5770,25.43979542348221,lost
 2004-03-21,SE-11,Selangor,N.33 Taman Medan,1,Kamarul Jaman Bin Seeni Mohideen,16961,BEBAS,1,641,2.3929518049800276,lost_deposit
 2004-03-21,SE-11,Selangor,N.33 Taman Medan,2,Ab Wahab Bin Ibrahim,16962,BN,25,18191,67.90980699593086,won
