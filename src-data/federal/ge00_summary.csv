@@ -1,6 +1,6 @@
 state,parlimen,voters_total,ballots_issued,ballots_not_returned,votes_rejected
-Pulau Pinang,P.001 Wellesley South,24320,19460,0,240
-Pulau Pinang,P.002 Wellesley North,28190,0,0,0
+Pulau Pinang,P.002 Wellesley South,24320,19460,0,240
+Pulau Pinang,P.001 Wellesley North,28190,0,0,0
 Pulau Pinang,P.003 George Town,19935,10495,0,163
 Pulau Pinang,P.004 Penang Island,27281,18136,0,346
 Melaka,P.005 Malacca Central,25511,20727,0,429
@@ -11,7 +11,7 @@ Perak,P.009 Larut and Matang,30454,24891,0,833
 Perak,P.010 Dindings,16512,13663,0,326
 Perak,P.011 Sungei Perak Ulu,28206,23924,0,449
 Perak,P.012 Sungei Perak Hilir,25677,22904,0,363
-Perak,P.013 Teluk Anson,18131,14881,0,555
+Perak,P.013 Telok Anson,18131,14881,0,555
 Perak,P.014 Ipoh and Menglembu,12948,10720,0,1069
 Perak,P.015 Kinta Utara,12304,10563,0,260
 Perak,P.016 Kinta Selatan,16216,14158,0,184
@@ -22,7 +22,7 @@ Selangor,P.020 Kuala Selangor,21410,17816,0,425
 Selangor,P.021 Langat,10834,9471,0,255
 Selangor,P.022 Selangor Barat,13847,12043,0,238
 Selangor,P.023 Selangor Tengah,9465,8374,0,172
-Negeri Sembilan,P.024 Negri Sembilan Utama,26502,23668,0,435
+Negeri Sembilan,P.024 Negri Sembilan Utara,26502,23668,0,435
 Negeri Sembilan,P.025 Negri Sembilan Selatan,18651,16015,0,326
 Negeri Sembilan,P.026 Seremban,12979,10850,0,142
 Pahang,P.027 Ulu Pahang,22812,18437,0,452
@@ -30,7 +30,7 @@ Pahang,P.028 Semantan,19849,16373,0,280
 Pahang,P.029 Pahang Timor,22291,18536,0,439
 Johor,P.030 Johore Timor,14155,11729,0,326
 Johor,P.031 Johore Bahru,15042,11675,0,128
-Johor,P.032 Johore Selantan,29090,24372,0,473
+Johor,P.032 Johore Selatan,29090,24372,0,473
 Johor,P.033 Johore Tengah,11737,8419,0,251
 Johor,P.034 Batu Pahat,27323,21978,0,293
 Johor,P.035 Muar Selatan,34321,28013,0,325
@@ -41,13 +41,13 @@ Kedah,P.039 Kota Star,34043,30149,0,624
 Kedah,P.040 Kedah Utara,33966,29144,0,713
 Kedah,P.041 Kedah Tengah,37176,33050,0,542
 Kedah,P.042 Sungei Muda,27426,23924,0,459
-Kedah,P.043 Kedah Selantan,25917,22995,0,382
+Kedah,P.043 Kedah Selatan,25917,22995,0,382
 Kelantan,P.044 Kelantan Selatan,39084,33657,0,1136
 Kelantan,P.045 Kelantan Timor,46221,38799,0,1011
 Kelantan,P.046 Pasir Mas,34779,29449,0,979
 Kelantan,P.047 Kelantan Utara,42510,36060,0,1337
 Kelantan,P.048 Kelantan Tengah,43149,34270,0,1003
-Terengganu,P.049 Terengganu Utara,32482,26166,0,1259
-Terengganu,P.050 Terengganu Tengah,33719,24851,0,1067
-Terengganu,P.051 Terengganu Selatan,23831,19663,0,690
+Terengganu,P.049 Trengganu Utara,32482,26166,0,1259
+Terengganu,P.050 Trengganu Tengah,33719,24851,0,1067
+Terengganu,P.051 Trengganu Selatan,23831,19663,0,690
 Perlis,P.052 Perlis,30936,27173,0,590

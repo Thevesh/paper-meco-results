@@ -1,7 +1,7 @@
 state,parlimen,ballot_order,name,candidate_uid,party,party_uid,votes
-Pulau Pinang,P.001 Wellesley South,1,Tay Hooi Soo,1,PERIKATAN,2,15697
-Pulau Pinang,P.001 Wellesley South,2,Haji Zabidi Bin Haji Ali,2,PAS,3,3523
-Pulau Pinang,P.002 Wellesley North,1,Hashim Awang,3,PERIKATAN,2,0
+Pulau Pinang,P.002 Wellesley South,1,Tay Hooi Soo,1,PERIKATAN,2,15697
+Pulau Pinang,P.002 Wellesley South,2,Haji Zabidi Bin Haji Ali,2,PAS,3,3523
+Pulau Pinang,P.001 Wellesley North,1,Hashim Awang,3,PERIKATAN,2,0
 Pulau Pinang,P.003 George Town,1,Chee Swee Ee,4,PERIKATAN,2,7253
 Pulau Pinang,P.003 George Town,2,Ooi Thiam Siew,5,BEBAS,1,2650
 Pulau Pinang,P.003 George Town,3,Cheah Phee Aik,6,BEBAS,1,429
@@ -30,8 +30,8 @@ Perak,P.011 Sungei Perak Ulu,3,Syed Nordin Wafa,28,NAP,5,2099
 Perak,P.012 Sungei Perak Hilir,1,Abdul Aziz Bin Haji Mat Jabar,29,PERIKATAN,2,17483
 Perak,P.012 Sungei Perak Hilir,2,Meor Ahmad Bin Meor Yusof,30,NAP,5,4794
 Perak,P.012 Sungei Perak Hilir,3,Mohd Daham Bin Khatib,31,BEBAS,1,264
-Perak,P.013 Teluk Anson,1,Bahaman Bin Samsudin,32,PERIKATAN,2,10514
-Perak,P.013 Teluk Anson,2,Haji Hassan Adli Bin Haji Arshad,33,PAS,3,3812
+Perak,P.013 Telok Anson,1,Bahaman Bin Samsudin,32,PERIKATAN,2,10514
+Perak,P.013 Telok Anson,2,Haji Hassan Adli Bin Haji Arshad,33,PAS,3,3812
 Perak,P.014 Ipoh and Menglembu,1,Leong Yew Koh,34,PERIKATAN,2,7421
 Perak,P.014 Ipoh and Menglembu,2,Loh Ah Kee,35,NAP,5,983
 Perak,P.014 Ipoh and Menglembu,3,D. R. Seenivasagam,36,PPP,4,808
@@ -62,9 +62,9 @@ Selangor,P.022 Selangor Barat,2,Mohamed Rashid Bin Ahmad,60,BEBAS,1,3092
 Selangor,P.023 Selangor Tengah,1,Lee Eng Teh,61,PERIKATAN,2,5652
 Selangor,P.023 Selangor Tengah,2,Zulfikli Mohamed,62,PAS,3,1711
 Selangor,P.023 Selangor Tengah,3,Atan Chik Bin Lengkeng,63,BEBAS,1,839
-Negeri Sembilan,P.024 Negri Sembilan Utama,1,Mohd. Idrid Bin Mat Sil,64,PERIKATAN,2,21155
-Negeri Sembilan,P.024 Negri Sembilan Utama,2,Dato Ujang Bin Menuang,65,BEBAS,1,1572
-Negeri Sembilan,P.024 Negri Sembilan Utama,3,Noordin Bin Haji Abdul Samad,66,BEBAS,1,506
+Negeri Sembilan,P.024 Negri Sembilan Utara,1,Mohd. Idrid Bin Mat Sil,64,PERIKATAN,2,21155
+Negeri Sembilan,P.024 Negri Sembilan Utara,2,Dato Ujang Bin Menuang,65,BEBAS,1,1572
+Negeri Sembilan,P.024 Negri Sembilan Utara,3,Noordin Bin Haji Abdul Samad,66,BEBAS,1,506
 Negeri Sembilan,P.025 Negri Sembilan Selatan,1,Abdul Jalil Bin Haji Aminudin,67,PERIKATAN,2,12099
 Negeri Sembilan,P.025 Negri Sembilan Selatan,2,Baba Bin Ludek,68,BEBAS,1,3590
 Negeri Sembilan,P.026 Seremban,1,Lim Kee Siong,69,PERIKATAN,2,8402
@@ -80,8 +80,8 @@ Johor,P.030 Johore Timor,2,Jaafar Bin Haji Ali,78,BEBAS,1,350
 Johor,P.030 Johore Timor,3,Haji Abdullah Bin Haji Taib,79,BEBAS,1,253
 Johor,P.031 Johore Bahru,1,Suleiman Bin Dato Abdul Rahman,80,PERIKATAN,2,8745
 Johor,P.031 Johore Bahru,2,Dato Onn Bin Jaafar,81,BEBAS,1,2802
-Johor,P.032 Johore Selantan,1,Dr L. H. Tan,82,PERIKATAN,2,21581
-Johor,P.032 Johore Selantan,2,Kassim Bin Awang Chik,83,BEBAS,1,2318
+Johor,P.032 Johore Selatan,1,Dr L. H. Tan,82,PERIKATAN,2,21581
+Johor,P.032 Johore Selatan,2,Kassim Bin Awang Chik,83,BEBAS,1,2318
 Johor,P.033 Johore Tengah,1,Teo Chze Chong,84,PERIKATAN,2,7100
 Johor,P.033 Johore Tengah,2,Haji Anwar Bin Haji Abdul Malik,85,BEBAS,1,1068
 Johor,P.034 Batu Pahat,1,S. Chelvasingam Macintyre,86,PERIKATAN,2,18968
@@ -103,8 +103,8 @@ Kedah,P.041 Kedah Tengah,1,Md. Khir Bin Johari,101,PERIKATAN,2,31077
 Kedah,P.041 Kedah Tengah,2,Puteh Bin Napa,102,BEBAS,1,1431
 Kedah,P.042 Sungei Muda,1,Tunku Abdul Rahman Putra,103,PERIKATAN,2,22226
 Kedah,P.042 Sungei Muda,2,Syed Jan Aljeffri,104,BEBAS,1,1239
-Kedah,P.043 Kedah Selantan,1,Lim Teng Kwang,105,PERIKATAN,2,21050
-Kedah,P.043 Kedah Selantan,2,M. Saleh Bin Haji Shafie,106,PAS,3,1563
+Kedah,P.043 Kedah Selatan,1,Lim Teng Kwang,105,PERIKATAN,2,21050
+Kedah,P.043 Kedah Selatan,2,M. Saleh Bin Haji Shafie,106,PAS,3,1563
 Kelantan,P.044 Kelantan Selatan,1,Abdul Khalid Bin Awang Osman,107,PERIKATAN,2,21746
 Kelantan,P.044 Kelantan Selatan,2,Dato' Nik Ahmed Kamil Bin Mahmood,108,BEBAS,1,7175
 Kelantan,P.044 Kelantan Selatan,3,Haji Mohamed Noor Bin Haji Yusoff,109,PAS,3,3600
@@ -120,11 +120,11 @@ Kelantan,P.048 Kelantan Tengah,1,Abdul Hamid Bin Mahmud,118,PERIKATAN,2,28422
 Kelantan,P.048 Kelantan Tengah,2,Tengku Annuar Zainal Bin Tengku Zainal Abidin,119,BEBAS,1,2970
 Kelantan,P.048 Kelantan Tengah,3,Dato Nik Mohamed Bin Abdul Rahman,120,BEBAS,1,1154
 Kelantan,P.048 Kelantan Tengah,4,Idris Bin Haji Mohamed,121,BEBAS,1,721
-Terengganu,P.049 Terengganu Utara,1,Ibrahim Fikri Bin Mohamed,122,PERIKATAN,2,22041
-Terengganu,P.049 Terengganu Utara,2,Mohd. Salleh Bin Ahmad,123,BEBAS,1,2866
-Terengganu,P.050 Terengganu Tengah,1,Engku Muhsein Bin Abdul Kadir,124,PERIKATAN,2,19038
-Terengganu,P.050 Terengganu Tengah,2,Sulaiman Bin Ali,125,BEBAS,1,4746
-Terengganu,P.051 Terengganu Selatan,1,Wan Yahya Bin Haji Wan Mohd.,126,PERIKATAN,2,16345
-Terengganu,P.051 Terengganu Selatan,2,Ibrahim Bin Matnoh,127,BEBAS,1,2628
+Terengganu,P.049 Trengganu Utara,1,Ibrahim Fikri Bin Mohamed,122,PERIKATAN,2,22041
+Terengganu,P.049 Trengganu Utara,2,Mohd. Salleh Bin Ahmad,123,BEBAS,1,2866
+Terengganu,P.050 Trengganu Tengah,1,Engku Muhsein Bin Abdul Kadir,124,PERIKATAN,2,19038
+Terengganu,P.050 Trengganu Tengah,2,Sulaiman Bin Ali,125,BEBAS,1,4746
+Terengganu,P.051 Trengganu Selatan,1,Wan Yahya Bin Haji Wan Mohd.,126,PERIKATAN,2,16345
+Terengganu,P.051 Trengganu Selatan,2,Ibrahim Bin Matnoh,127,BEBAS,1,2628
 Perlis,P.052 Perlis,1,Sheikh Ahmad Bin Mohd. Hashim,128,PERIKATAN,2,17769
 Perlis,P.052 Perlis,2,Matt Bin Haji Kassim,129,BEBAS,1,8814

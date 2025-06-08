@@ -255,7 +255,7 @@ Through careful matching and correction, we assigned a single UID to all instanc
 We deliberately avoided assigning UIDs to constituencies. Instead, we rely on the intrinsic uniqueness of the \texttt{date-state-constituency} combination, which guarantees that each contest is uniquely identifiable within its context (since no two constituencies within the same state can have the same name in the same election). A left join on these three fields suffices to generate a lookup table via which additional data can be merged. To aid users in harmonising constituencies across elections, we provide a field called \texttt{area\_name}, which standardises name changes and spelling variations across time. Examples include:
 \begin{align*}
 \text{Temerluh} &\rightarrow \space \text{Temerloh}\\ 
-\text{Teluk Anson} &\rightarrow \space \text{Teluk Intan}\\
+\text{Telok Anson} &\rightarrow \space \text{Teluk Intan}\\
 \text{Bagan Datoh} \rightarrow \space \text{Bagan}&\text{ }\text{Datok} \rightarrow \space \text{Bagan Datuk}
 \end{align*}
 We do not currently implement harmonisation for changes involving boundary adjustments or the creation of new constituencies. For example, although the seat of Bayan Baru in Penang was carved out of Balik Pulau, we do not merge or tag these together because Balik Pulau remains an active seat name today, and such harmonisation would require subjective judgment. Our aim is to provide a flexible foundation that allows users to apply their own harmonisation strategies according to their specific research needs.
