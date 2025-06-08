@@ -620,7 +620,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.029 Machang,Machang,federal
 2018-05-09,GE-14,Kelantan,P.029 Machang,Machang,federal
 2022-11-19,GE-15,Kelantan,P.029 Machang,Machang,federal
-1974-08-24,GE-04,Kelantan,P.022 Nilai Puri,Nilai Puri,federal
+1974-08-24,GE-04,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
 1978-07-08,GE-05,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
 1982-04-22,GE-06,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
 1986-08-02,GE-07,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
@@ -947,7 +947,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pahang,P.081 Jerantut,Jerantut,federal
 2018-05-09,GE-14,Pahang,P.081 Jerantut,Jerantut,federal
 2022-11-19,GE-15,Pahang,P.081 Jerantut,Jerantut,federal
-1999-11-29,GE-10,Pahang,P.077 Jurantut,Jurantut,federal
+1999-11-29,GE-10,Pahang,P.077 Jerantut,Jerantut,federal
 2004-03-21,GE-11,Pahang,P.087 Kuala Krau,Kuala Krau,federal
 2008-03-08,GE-12,Pahang,P.087 Kuala Krau,Kuala Krau,federal
 2013-05-05,GE-13,Pahang,P.087 Kuala Krau,Kuala Krau,federal
@@ -1159,9 +1159,9 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.071 Gopeng,Gopeng,federal
 2018-05-09,GE-14,Perak,P.071 Gopeng,Gopeng,federal
 2022-11-19,GE-15,Perak,P.071 Gopeng,Gopeng,federal
-1974-08-24,GE-04,Perak,P.044 Grik,Grik,federal
-1978-07-08,GE-05,Perak,P.044 Grik,Grik,federal
-1982-04-22,GE-06,Perak,P.044 Grik,Grik,federal
+1974-08-24,GE-04,Perak,P.044 Gerik,Gerik,federal
+1978-07-08,GE-05,Perak,P.044 Gerik,Gerik,federal
+1982-04-22,GE-06,Perak,P.044 Gerik,Gerik,federal
 1959-05-20,GE-01,Perak,P.024 Hilir Perak,Hilir Perak,federal
 1964-04-25,GE-02,Perak,P.044 Hilir Perak,Hilir Perak,federal
 1969-05-10,GE-03,Perak,P.044 Hilir Perak,Hilir Perak,federal
@@ -1462,7 +1462,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pulau Pinang,P.043 Bagan,Bagan,federal
 2018-05-09,GE-14,Pulau Pinang,P.043 Bagan,Bagan,federal
 2022-11-19,GE-15,Pulau Pinang,P.043 Bagan,Bagan,federal
-1974-08-24,GE-04,Pulau Pinang,P.040 Balek Pulau,Balik Pulau,federal
+1974-08-24,GE-04,Pulau Pinang,P.040 Balik Pulau,Balik Pulau,federal
 1978-07-08,GE-05,Pulau Pinang,P.040 Balik Pulau,Balik Pulau,federal
 1982-04-22,GE-06,Pulau Pinang,P.040 Balik Pulau,Balik Pulau,federal
 1986-08-02,GE-07,Pulau Pinang,P.048 Balik Pulau,Balik Pulau,federal
@@ -1902,9 +1902,9 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Sarawak,P.195 Bandar Kuching,Bandar Kuching,federal
 2018-05-09,GE-14,Sarawak,P.195 Bandar Kuching,Bandar Kuching,federal
 2022-11-19,GE-15,Sarawak,P.195 Bandar Kuching,Bandar Kuching,federal
-1969-05-10,GE-03,Sarawak,P.134 Bandar Sibu,Bandar Sibu,federal
-1974-08-24,GE-04,Sarawak,P.144 Bandar Sibu,Bandar Sibu,federal
-1978-07-08,GE-05,Sarawak,P.144 Bandar Sibu,Bandar Sibu,federal
+1969-05-10,GE-03,Sarawak,P.134 Bandar Sibu,Sibu,federal
+1974-08-24,GE-04,Sarawak,P.144 Bandar Sibu,Sibu,federal
+1978-07-08,GE-05,Sarawak,P.144 Sibu,Sibu,federal
 1969-05-10,GE-03,Sarawak,P.143 Baram,Baram,federal
 1974-08-24,GE-04,Sarawak,P.153 Baram,Baram,federal
 1978-07-08,GE-05,Sarawak,P.153 Baram,Baram,federal
@@ -2242,8 +2242,8 @@ date,election,state,seat,area_name,type
 1969-05-10,GE-03,Sarawak,P.140 Ulu Rajang,Ulu Rajang,federal
 1982-04-22,GE-06,Sarawak,P.150 Ulu Rajang,Ulu Rajang,federal
 1986-08-02,GE-07,Sarawak,P.173 Ulu Rajang,Ulu Rajang,federal
-1974-08-24,GE-04,Sarawak,P.150 Ulu Rejang,Ulu Rejang,federal
-1978-07-08,GE-05,Sarawak,P.150 Ulu Rejang,Ulu Rejang,federal
+1974-08-24,GE-04,Sarawak,P.150 Ulu Rajang,Ulu Rajang,federal
+1978-07-08,GE-05,Sarawak,P.150 Ulu Rajang,Ulu Rajang,federal
 2004-03-21,GE-11,Selangor,P.099 Ampang,Ampang,federal
 2008-03-08,GE-12,Selangor,P.099 Ampang,Ampang,federal
 2013-05-05,GE-13,Selangor,P.099 Ampang,Ampang,federal
@@ -5926,9 +5926,9 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Perak,N.20 Gopeng,Gopeng,state
 1978-07-08,SE-05,Perak,N.20 Gopeng,Gopeng,state
 1982-04-22,SE-06,Perak,N.20 Gopeng,Gopeng,state
-1959-05-20,SE-01,Perak,N.17 Grik,Grik,state
-1964-04-25,SE-02,Perak,N.01 Grik,Grik,state
-1969-05-10,SE-03,Perak,N.01 Grik,Grik,state
+1959-05-20,SE-01,Perak,N.17 Grik,Gerik,state
+1964-04-25,SE-02,Perak,N.01 Grik,Gerik,state
+1969-05-10,SE-03,Perak,N.01 Grik,Gerik,state
 1959-05-20,SE-01,Perak,N.04 Gunong Semanggol,Gunong Semanggol,state
 1964-04-25,SE-02,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state
 1969-05-10,SE-03,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state

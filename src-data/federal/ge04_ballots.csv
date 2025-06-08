@@ -34,8 +34,8 @@ Kelantan,P.019 Kota Bharu,1,Tengku Ahmad Rithauddeen Bin Tengku Ismail,592,BN,25
 Kelantan,P.020 Bachok,1,Mohd. Zain Bin Abdullah,594,BN,25,0
 Kelantan,P.021 Rantau Panjang,1,Tuan Guru Haji Zakaria Bin Ismail,863,BN,25,11826
 Kelantan,P.021 Rantau Panjang,2,Abdul Rashid Bin Ahmad,864,BEBAS,1,3341
-Kelantan,P.022 Nilai Puri,1,Datuk Asri,865,BN,25,15736
-Kelantan,P.022 Nilai Puri,2,Eshah Binti Haji Abdullah,866,BEBAS,1,4409
+Kelantan,P.022 Nilam Puri,1,Datuk Asri,865,BN,25,15736
+Kelantan,P.022 Nilam Puri,2,Eshah Binti Haji Abdullah,866,BEBAS,1,4409
 Kelantan,P.023 Tanah Merah,1,Mohamed Bin Yaacob,601,BN,25,0
 Kelantan,P.024 Machang,1,Datuk Haji Abdullah Ahmad,867,BN,25,13183
 Kelantan,P.024 Machang,2,Yusof Haji Nor,868,BEBAS,1,5177
@@ -75,10 +75,10 @@ Pulau Pinang,P.038 Bukit Mertajam,5,Ong Cheng Piaw,892,PSRM,26,1035
 Pulau Pinang,P.039 Nibong Tebal,1,Goh Cheng Teik,893,BN,25,11271
 Pulau Pinang,P.039 Nibong Tebal,2,"K, Ponnudurai",894,DAP,18,5132
 Pulau Pinang,P.039 Nibong Tebal,3,V. Veerappen,252,PEKEMAS,27,3155
-Pulau Pinang,P.040 Balek Pulau,1,Shamsuri Bin Mat Saleh,895,BN,25,14686
-Pulau Pinang,P.040 Balek Pulau,2,Mohideen Abdul Kader,896,PSRM,26,4306
-Pulau Pinang,P.040 Balek Pulau,3,Wan Hussein Bin Wan Mahmood,897,DAP,18,3993
-Pulau Pinang,P.040 Balek Pulau,4,Nor Rashid Bin Pin,898,PEKEMAS,27,998
+Pulau Pinang,P.040 Balik Pulau,1,Shamsuri Bin Mat Saleh,895,BN,25,14686
+Pulau Pinang,P.040 Balik Pulau,2,Mohideen Abdul Kader,896,PSRM,26,4306
+Pulau Pinang,P.040 Balik Pulau,3,Wan Hussein Bin Wan Mahmood,897,DAP,18,3993
+Pulau Pinang,P.040 Balik Pulau,4,Nor Rashid Bin Pin,898,PEKEMAS,27,998
 Pulau Pinang,P.041 Bukit Bendera,1,Datuk Albert Mah,899,BN,25,18186
 Pulau Pinang,P.041 Bukit Bendera,2,Peter Dason,900,DAP,18,9408
 Pulau Pinang,P.041 Bukit Bendera,3,Wong Hoong Yin,901,PEKEMAS,27,2138
@@ -91,7 +91,7 @@ Pulau Pinang,P.043 Jelutong,1,R. Rajasingam,905,BN,25,16112
 Pulau Pinang,P.043 Jelutong,2,Goi Hock Seng,906,DAP,18,10152
 Pulau Pinang,P.043 Jelutong,3,V. David,322,PEKEMAS,27,6955
 Pulau Pinang,P.043 Jelutong,4,Teh Eng Siang,907,PSRM,26,1467
-Perak,P.044 Grik,1,Shamsuddin Bin Din,908,BN,25,0
+Perak,P.044 Gerik,1,Shamsuddin Bin Din,908,BN,25,0
 Perak,P.045 Larut,1,Dato Sri Haji Kamaruddin Bin Haji Mat Isa,909,BN,25,12575
 Perak,P.045 Larut,2,Mohd. Nawawi Bin Haji Mohd. Hassan,910,BEBAS,1,2397
 Perak,P.046 Parit Buntar,1,Sulaiman Haji Taib,623,BN,25,12134
@@ -316,9 +316,9 @@ Sarawak,P.148 Kanowit,1,Leo Moggie @ Munggie A/K Irok,1080,PKS,28,3925
 Sarawak,P.148 Kanowit,2,Thomas Kana,1081,BN,25,3192
 Sarawak,P.149 Kapit,1,Abit A/K Angkin,1082,BN,25,3786
 Sarawak,P.149 Kapit,2,Nueng A/K Kudi,1083,PKS,28,3723
-Sarawak,P.150 Ulu Rejang,1,Sibat Miyut A/K Tagong,1084,PKS,28,3031
-Sarawak,P.150 Ulu Rejang,2,Leonard Linggi Jugah,1085,BN,25,2937
-Sarawak,P.150 Ulu Rejang,3,Manjah A/K Dengah,1086,BEBAS,1,809
+Sarawak,P.150 Ulu Rajang,1,Sibat Miyut A/K Tagong,1084,PKS,28,3031
+Sarawak,P.150 Ulu Rajang,2,Leonard Linggi Jugah,1085,BN,25,2937
+Sarawak,P.150 Ulu Rajang,3,Manjah A/K Dengah,1086,BEBAS,1,809
 Sarawak,P.151 Bintulu,1,Ting Ling Kiew,1087,PKS,28,5657
 Sarawak,P.151 Bintulu,2,Ting Ming Kiong,824,BN,25,5096
 Sarawak,P.152 Miri-Subis,1,Yang Siew Siang,1088,BN,25,8949
