@@ -488,7 +488,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kedah,P.011 Pendang,Pendang,federal
 2018-05-09,GE-14,Kedah,P.011 Pendang,Pendang,federal
 2022-11-19,GE-15,Kedah,P.011 Pendang,Pendang,federal
-1964-04-25,GE-02,Kedah,P.010 Perai,Perai,federal
+1964-04-25,GE-02,Kedah,P.010 Jerai,Perai,federal
 1995-04-24,GE-09,Kedah,P.008 Pokok Sena,Pokok Sena,federal
 1999-11-29,GE-10,Kedah,P.008 Pokok Sena,Pokok Sena,federal
 2004-03-21,GE-11,Kedah,P.008 Pokok Sena,Pokok Sena,federal
@@ -1520,7 +1520,7 @@ date,election,state,seat,area_name,type
 2022-11-19,GE-15,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
 1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,Datok Keramat,federal
 1969-05-10,GE-03,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
-1964-04-25,GE-02,Pulau Pinang,P.037 Datok Keramat,Datok Keramat,federal
+1964-04-25,GE-02,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,George Town,federal
 1974-08-24,GE-04,Pulau Pinang,P.043 Jelutong,Jelutong,federal
 1978-07-08,GE-05,Pulau Pinang,P.043 Jelutong,Jelutong,federal
