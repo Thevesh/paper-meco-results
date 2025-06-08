@@ -101,19 +101,21 @@ def make_seats():
 
     map_change = {
         'en': {
-            'rename': 'was renamed to',
-            'split': 'was split into',
-            'merge': 'was merged with',
+            'rename': ' was renamed to ',
+            'split': ' was split into ',
+            'merge': ' was merged with ',
         },
         'ms': {
-            'rename': 'dinamakan semula kepada',
-            'split': 'dibahagikan kepada',
-            'merge': 'digabungkan dengan',
+            'rename': ' dinamakan semula kepada ',
+            'split': ' dibahagikan kepada ',
+            'merge': ' digabungkan dengan ',
         }
     }
-    ef = pd.read_csv('src-data/lookup_lineage_desc.csv',dtype=str)
-    ef['change_en'] = ef['from'] + ' ' + ef['type'].map(map_change['en']) + ' ' + ef['to'] + ' in the ' + ef['date'].str[:4] + ' redelineation'
-    ef['change_ms'] = ef['from'] + ' ' + ef['type'].map(map_change['ms']) + ' ' + ef['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + ef['date'].str[:4]
+    ef = pd.read_csv('src-data/lookup_seats_lineage_desc.csv',dtype=str).dropna(how='any')
+    ef['change_en'] = ef['from'] + ef['type'].map(map_change['en']) + ef['to'] + ' in the ' + ef['date'].str[:4] + ' redelineation'
+    ef['change_ms'] = ef['from'] + ef['type'].map(map_change['ms']) + ef['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + ef['date'].str[:4]
+    for lang in ['en','ms']:
+        ef.loc[ef.type == 'carve_out',f'change_{lang}'] = map_change[lang]['carve_out_prefix'] + ef[f'change_{lang}']
 
     sf = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
     sf.slug = sf.seat.apply(generate_slug)
