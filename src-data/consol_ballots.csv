@@ -1,7 +1,7 @@
 date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,votes_perc,result
+1955-07-25,GE-00,Pulau Pinang,P.001 Wellesley North,1,Hashim Awang,3,PERIKATAN,2,0,,won_uncontested
 1955-07-25,GE-00,Pulau Pinang,P.002 Wellesley South,1,Tay Hooi Soo,1,PERIKATAN,2,15697,81.67013527575442,won
 1955-07-25,GE-00,Pulau Pinang,P.002 Wellesley South,2,Haji Zabidi Bin Haji Ali,2,PAS,3,3523,18.329864724245578,lost
-1955-07-25,GE-00,Pulau Pinang,P.001 Wellesley North,1,Hashim Awang,3,PERIKATAN,2,0,,won_uncontested
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,1,Chee Swee Ee,4,PERIKATAN,2,7253,70.19938056523422,won
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,2,Ooi Thiam Siew,5,BEBAS,1,2650,25.648470770421987,lost
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,3,Cheah Phee Aik,6,BEBAS,1,429,4.152148664343787,lost_deposit
