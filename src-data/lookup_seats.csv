@@ -4841,8 +4841,8 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Negeri Sembilan,N.34 Gemas,Gemas,state
 2018-05-09,SE-14,Negeri Sembilan,N.34 Gemas,Gemas,state
 2023-08-12,SE-15,Negeri Sembilan,N.34 Gemas,Gemas,state
-1974-08-24,SE-04,Negeri Sembilan,N.22 Gemenceh,Gemenceh,state
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemenceh,Gemenceh,state
+1974-08-24,SE-04,Negeri Sembilan,N.22 Gemencheh,Gemenceh,state
+1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,Gemenceh,state
 1978-07-08,SE-05,Negeri Sembilan,N.22 Gemencheh,Gemencheh,state
 1986-08-02,SE-07,Negeri Sembilan,N.10 Gemencheh,Gemencheh,state
 1990-10-20,SE-08,Negeri Sembilan,N.10 Gemencheh,Gemencheh,state
@@ -5282,8 +5282,8 @@ date,election,state,seat,area_name,type
 1990-10-20,SE-08,Pahang,N.30 Bera,Bera,state
 1995-04-24,SE-09,Pahang,N.35 Bera,Bera,state
 1999-11-29,SE-10,Pahang,N.35 Bera,Bera,state
-1974-08-24,SE-04,Pahang,N.11 Berserah,Berserah,state
-1982-04-22,SE-06,Pahang,N.11 Berserah,Berserah,state
+1974-08-24,SE-04,Pahang,N.11 Beserah,Berserah,state
+1982-04-22,SE-06,Pahang,N.11 Beserah,Berserah,state
 1959-05-20,SE-01,Pahang,N.19 Beserah,Beserah,state
 1964-04-25,SE-02,Pahang,N.11 Beserah,Beserah,state
 1969-05-10,SE-03,Pahang,N.11 Beserah,Beserah,state
@@ -5321,8 +5321,8 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Pahang,N.40 Bukit Ibam,Bukit Ibam,state
 2018-05-09,SE-14,Pahang,N.40 Bukit Ibam,Bukit Ibam,state
 2022-11-19,SE-15,Pahang,N.40 Bukit Ibam,Bukit Ibam,state
-1974-08-24,SE-04,Pahang,N.27 Bukit Isam,Bukit Isam,state
-1982-04-22,SE-06,Pahang,N.27 Bukit Isam,Bukit Isam,state
+1974-08-24,SE-04,Pahang,N.27 Bukit Ibam,Bukit Ibam,state
+1982-04-22,SE-06,Pahang,N.27 Bukit Ibam,Bukit Ibam,state
 1986-08-02,SE-07,Pahang,N.19 Bukit Tajau,Bukit Tajau,state
 1990-10-20,SE-08,Pahang,N.19 Bukit Tajau,Bukit Tajau,state
 1959-05-20,SE-01,Pahang,N.05 Cameron Highlands,Cameron Highlands,state
@@ -7133,8 +7133,8 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Pulau Pinang,N.14 Tanjong Utara,Tanjong Utara,state
 1964-04-25,SE-02,Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,state
 1969-05-10,SE-03,Pulau Pinang,N.18 Tanjong Utara,Tanjong Utara,state
-1974-08-24,SE-04,Pulau Pinang,N.19 Tanjung Bunga,Tanjung Bunga,state
-1982-04-22,SE-06,Pulau Pinang,N.19 Tanjung Bunga,Tanjung Bunga,state
+1974-08-24,SE-04,Pulau Pinang,N.19 Tanjong Bunga,Tanjung Bunga,state
+1982-04-22,SE-06,Pulau Pinang,N.19 Tanjong Bunga,Tanjung Bunga,state
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,Tasek Gelugor,state
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,Tasek Gelugor,state
 1982-04-22,SE-06,Pulau Pinang,N.03 Tasek Gelugor,Tasek Gelugor,state
@@ -9025,11 +9025,11 @@ date,election,state,seat,area_name,type
 1964-04-25,SE-02,Selangor,N.14 Salak,Salak,state
 1969-05-10,SE-03,Selangor,N.14 Salak,Salak,state
 1995-04-24,SE-09,Selangor,N.43 Sejangkang,Sejangkang,state
-1974-08-24,SE-04,Selangor,N.05 Sekincan,Sekincan,state
-1982-04-22,SE-06,Selangor,N.05 Sekincan,Sekincan,state
-1986-08-02,SE-07,Selangor,N.05 Sekincan,Sekincan,state
-1990-10-20,SE-08,Selangor,N.05 Sekincan,Sekincan,state
-1999-11-29,SE-10,Selangor,N.05 Sekincan,Sekincan,state
+1974-08-24,SE-04,Selangor,N.05 Sekinchan,Sekinchan,state
+1982-04-22,SE-06,Selangor,N.05 Sekinchan,Sekinchan,state
+1986-08-02,SE-07,Selangor,N.05 Sekinchan,Sekinchan,state
+1990-10-20,SE-08,Selangor,N.05 Sekinchan,Sekinchan,state
+1999-11-29,SE-10,Selangor,N.05 Sekinchan,Sekinchan,state
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,Sekinchan,state
 1995-04-24,SE-09,Selangor,N.05 Sekinchan,Sekinchan,state
 2004-03-21,SE-11,Selangor,N.04 Sekinchan,Sekinchan,state
