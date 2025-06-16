@@ -1,13 +1,13 @@
 state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
-Kedah,N.01 Padang Matsirat,1,Long Bin Saad,13819,PAS,3,2560
-Kedah,N.01 Padang Matsirat,2,Md Hassan Bin Bulat,13820,BN,25,6375
-Kedah,N.01 Padang Matsirat,3,Azizan Bin Abu Bakar,13821,BEBAS,1,95
+Kedah,N.01 Padang Mat Sirat,1,Long Bin Saad,13819,PAS,3,2560
+Kedah,N.01 Padang Mat Sirat,2,Md Hassan Bin Bulat,13820,BN,25,6375
+Kedah,N.01 Padang Mat Sirat,3,Azizan Bin Abu Bakar,13821,BEBAS,1,95
 Kedah,N.02 Kuah,1,Sanusi Bin Junid,851,BN,25,5436
 Kedah,N.02 Kuah,2,Yusof Bin Abdullah,13823,S46,56,1274
 Kedah,N.03 Ayer Hitam,1,Abdul Rahman Bin Ariffin,13824,BN,25,9069
 Kedah,N.03 Ayer Hitam,2,Hashim Bin Osman,8165,PAS,3,7352
-Kedah,N.04 Kota Seputeh,1,Abu Hasan Bin Sharif,13826,BN,25,9483
-Kedah,N.04 Kota Seputeh,2,Abu Kasim Bin Abdullah,5337,PAS,3,6933
+Kedah,N.04 Kota Siputeh,1,Abu Hasan Bin Sharif,13826,BN,25,9483
+Kedah,N.04 Kota Siputeh,2,Abu Kasim Bin Abdullah,5337,PAS,3,6933
 Kedah,N.05 Tunjang,1,Barishah @ Habshah Bt Saad,13828,BN,25,11610
 Kedah,N.05 Tunjang,2,Yusoff B Abdullah,13829,PAS,3,4366
 Kedah,N.06 Jitra,1,Syed Idrus Bin Syed Baharom,13830,S46,56,3726
@@ -52,8 +52,8 @@ Kedah,N.24 Bukit Selambau,2,Saravanan A/L Veliaudayar,13868,BN,25,10165
 Kedah,N.24 Bukit Selambau,3,Harun Bin Mat Isa,13869,PAS,3,2800
 Kedah,N.25 Gurun,1,Beh Heng Seong,9363,BN,25,9741
 Kedah,N.25 Gurun,2,Abdul Majib Bin Mat Isa,12765,S46,56,2976
-Kedah,N.26 Tanjung Dawai,1,Badri Bin Hj Yunus,11602,BN,25,8931
-Kedah,N.26 Tanjung Dawai,2,Mohd Yusof Bin Omar,13873,PAS,3,4356
+Kedah,N.26 Tanjong Dawai,1,Badri Bin Hj Yunus,11602,BN,25,8931
+Kedah,N.26 Tanjong Dawai,2,Mohd Yusof Bin Omar,13873,PAS,3,4356
 Kedah,N.27 Pantai Merdeka,1,Mohamad Isa Bin Mahamud,12780,PAS,3,5421
 Kedah,N.27 Pantai Merdeka,2,Jamaludin Bin Yusof,13875,BN,25,9857
 Kedah,N.27 Pantai Merdeka,3,Lim Pok Long,13876,DAP,18,341

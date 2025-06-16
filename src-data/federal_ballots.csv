@@ -2703,8 +2703,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-10-20,GE-08,Pahang,P.078 Mentekab,2,Dato' Dr Siti Zaharah Sulaiman,2104,BN,25,17147,63.43692193858676,won
 1990-10-20,GE-08,Pahang,P.079 Bentung,1,Woo Chee Wan,1769,DAP,18,10375,31.572380633577797,lost
 1990-10-20,GE-08,Pahang,P.079 Bentung,2,Dato' Lim Ah Lek,2105,BN,25,22486,68.42761936642219,won
-1990-10-20,GE-08,Pahang,P.080 Temerloh,1,Kamarazaman Bin Yacob,2106,S46,56,15358,43.27903962125909,lost
-1990-10-20,GE-08,Pahang,P.080 Temerloh,2,Dato' Sabbaruddin Chik,2107,BN,25,20128,56.72096037874091,won
+1990-10-20,GE-08,Pahang,P.080 Temerluh,1,Kamarazaman Bin Yacob,2106,S46,56,15358,43.27903962125909,lost
+1990-10-20,GE-08,Pahang,P.080 Temerluh,2,Dato' Sabbaruddin Chik,2107,BN,25,20128,56.72096037874091,won
 1990-10-20,GE-08,Pahang,P.081 Rompin,1,Dr. Haji Jamaludin Bin Dato Haji Mohd Jarjis,2108,BN,25,20994,72.74428274428274,won
 1990-10-20,GE-08,Pahang,P.081 Rompin,2,Ustaz Haji Salim @ Haji Ahmad Bin Awg Kalib,2109,PAS,3,7866,27.255717255717254,lost
 1990-10-20,GE-08,Selangor,P.082 Sabak Bernam,1,Haji Mahbud Bin Haji Hashim,2110,BN,25,17715,77.4189319115462,won
@@ -2954,8 +2954,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1995-04-24,GE-09,Kedah,P.005 Jerlun,2,Halim Bin Arshat,1098,PAS,3,14436,44.4896449704142,lost
 1995-04-24,GE-09,Kedah,P.006 Kubang Pasu,1,Ahmad Bin Ma'Alim @ Mohd Alim,2297,PAS,3,7269,22.884397431054023,lost
 1995-04-24,GE-09,Kedah,P.006 Kubang Pasu,2,Mahathir Bin Mohamad,375,BN,25,24495,77.11560256894597,won
-1995-04-24,GE-09,Kedah,P.007 Padang Tarap,1,Affifuddin Bin Haji Omar,1669,BN,25,11571,56.529385900630224,won
-1995-04-24,GE-09,Kedah,P.007 Padang Tarap,2,Mustapha Kamal Bin Shahrom,2298,PAS,3,8898,43.47061409936978,lost
+1995-04-24,GE-09,Kedah,P.007 Padang Terap,1,Affifuddin Bin Haji Omar,1669,BN,25,11571,56.529385900630224,won
+1995-04-24,GE-09,Kedah,P.007 Padang Terap,2,Mustapha Kamal Bin Shahrom,2298,PAS,3,8898,43.47061409936978,lost
 1995-04-24,GE-09,Kedah,P.008 Pokok Sena,1,Wan Mohd. Hanafiah Bin Wan Mohd. Saman,2299,BN,25,25285,55.02480849582173,won
 1995-04-24,GE-09,Kedah,P.008 Pokok Sena,2,Mahfuz Bin Haji Omar,2046,PAS,3,20667,44.97519150417828,lost
 1995-04-24,GE-09,Kedah,P.009 Alor Setar,1,Tunku Sofiah Binti Tunku Md Jewa,2300,S46,56,11278,28.040078565923277,lost
@@ -2981,9 +2981,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1995-04-24,GE-09,Kedah,P.018 Kulim-Bandar Baharu,2,Abdul Kadir Hj Sheikh Fadzir,1117,BN,25,22455,73.3631730266597,won
 1995-04-24,GE-09,Kelantan,P.019 Tumpat,1,Wan Mohd Jamin Bin Wan Mahmood,2313,PAS,3,17682,52.8673084972792,won
 1995-04-24,GE-09,Kelantan,P.019 Tumpat,2,Kamarudin Bin Jaffar,2314,BN,25,15764,47.1326915027208,lost
-1995-04-24,GE-09,Kelantan,P.020 Pangkalan Chepa,1,Mohd Amar Bin Abdullah,2315,PAS,3,20410,68.15373827094534,won
-1995-04-24,GE-09,Kelantan,P.020 Pangkalan Chepa,2,Ismail Bin Mat,1388,BN,25,9316,31.108291314655894,lost
-1995-04-24,GE-09,Kelantan,P.020 Pangkalan Chepa,2,Yusof Bin Mat,2316,AKIM,63,221,0.7379704143987711,lost_deposit
+1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,1,Mohd Amar Bin Abdullah,2315,PAS,3,20410,68.15373827094534,won
+1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,2,Ismail Bin Mat,1388,BN,25,9316,31.108291314655894,lost
+1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,2,Yusof Bin Mat,2316,AKIM,63,221,0.7379704143987711,lost_deposit
 1995-04-24,GE-09,Kelantan,P.021 Kota Bharu,1,Ilani Binti Isahak,2317,S46,56,24096,57.475431733613206,won
 1995-04-24,GE-09,Kelantan,P.021 Kota Bharu,2,Ahmad Rastom Bin Haji Ahmad Maher,2318,BN,25,17828,42.524568266386794,lost
 1995-04-24,GE-09,Kelantan,P.022 Pasir Mas,1,Zainuddin Bin Mohamad Nor,2319,S46,56,19394,54.52040931069381,won
@@ -3097,9 +3097,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1995-04-24,GE-09,Perak,P.071 Lumut,2,Yap Thong @ Yap Yit Thong,2391,BN,25,25291,66.48702647283051,won
 1995-04-24,GE-09,Perak,P.072 Bagan Datok,1,Asha'Ari Bin Marsom,2392,S46,56,2816,13.762095591828755,lost
 1995-04-24,GE-09,Perak,P.072 Bagan Datok,2,Ahmad Zahid Bin Hamidi,2393,BN,25,17646,86.23790440817125,won
-1995-04-24,GE-09,Perak,P.073 Teluk Intan,1,Ong Tin Kim @ Wong Thean Ching,1766,BN,25,21641,67.70217425308932,won
-1995-04-24,GE-09,Perak,P.073 Teluk Intan,2,Hafith Bin Jaafar,2394,PAS,3,2651,8.293445956514939,lost_deposit
-1995-04-24,GE-09,Perak,P.073 Teluk Intan,3,Proso Watma @ Prosothman A/L Appoo,2395,DAP,18,7673,24.004379790395745,lost
+1995-04-24,GE-09,Perak,P.073 Telok Intan,1,Ong Tin Kim @ Wong Thean Ching,1766,BN,25,21641,67.70217425308932,won
+1995-04-24,GE-09,Perak,P.073 Telok Intan,2,Hafith Bin Jaafar,2394,PAS,3,2651,8.293445956514939,lost_deposit
+1995-04-24,GE-09,Perak,P.073 Telok Intan,3,Proso Watma @ Prosothman A/L Appoo,2395,DAP,18,7673,24.004379790395745,lost
 1995-04-24,GE-09,Perak,P.074 Tanjong Malim,1,Wan Mokhtar Bin Wan Endut,2396,S46,56,5088,16.49805447470817,lost
 1995-04-24,GE-09,Perak,P.074 Tanjong Malim,2,Lok Yuen Yow,1768,BN,25,25752,83.50194552529183,won
 1995-04-24,GE-09,Pahang,P.075 Lipis,1,Ahd. Shabery Bin Cheek,2397,S46,56,8394,31.20330099252816,lost
@@ -3123,8 +3123,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1995-04-24,GE-09,Pahang,P.082 Mentekab,3,Mohamed Bin Harun,2409,S46,56,8393,29.113045891290017,lost
 1995-04-24,GE-09,Pahang,P.083 Bentung,1,Leong Chee Meng,2410,DAP,18,7241,21.76369811547594,lost
 1995-04-24,GE-09,Pahang,P.083 Bentung,2,Dato' Lim Ah Lek,2105,BN,25,26030,78.23630188452407,won
-1995-04-24,GE-09,Pahang,P.084 Temerloh,1,Sabbaruddin Chik,1491,BN,25,22078,61.17484067608756,won
-1995-04-24,GE-09,Pahang,P.084 Temerloh,2,Tengku Azlan Ibni Sultan Abu Bakar,2411,S46,56,14012,38.82515932391244,lost
+1995-04-24,GE-09,Pahang,P.084 Temerluh,1,Sabbaruddin Chik,1491,BN,25,22078,61.17484067608756,won
+1995-04-24,GE-09,Pahang,P.084 Temerluh,2,Tengku Azlan Ibni Sultan Abu Bakar,2411,S46,56,14012,38.82515932391244,lost
 1995-04-24,GE-09,Pahang,P.085 Rompin,1,Jamalidin Bin Mohd Jarjis,2412,BN,25,18531,76.45748236167843,won
 1995-04-24,GE-09,Pahang,P.085 Rompin,2,Yahya Bin Haji Awang,1781,PAS,3,5706,23.542517638321574,lost
 1995-04-24,GE-09,Selangor,P.086 Sabak Bernam,1,Dawood Bin Sikandar Ali,2413,S46,56,3526,16.396949404761905,lost

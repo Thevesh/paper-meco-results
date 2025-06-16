@@ -467,7 +467,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Kedah,P.017 Padang Serai,Padang Serai,federal
 2022-11-19,GE-15,Kedah,P.017 Padang Serai,Padang Serai,federal
 2022-12-07,BY-ELECTION,Kedah,P.017 Padang Serai,Padang Serai,federal
-1995-04-24,GE-09,Kedah,P.007 Padang Tarap,Padang Tarap,federal
+1995-04-24,GE-09,Kedah,P.007 Padang Terap,Padang Tarap,federal
 1974-08-24,GE-04,Kedah,P.005 Padang Terap,Padang Terap,federal
 1978-07-08,GE-05,Kedah,P.005 Padang Terap,Padang Terap,federal
 1982-04-22,GE-06,Kedah,P.005 Padang Terap,Padang Terap,federal
@@ -625,7 +625,7 @@ date,election,state,seat,area_name,type
 1982-04-22,GE-06,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
 1986-08-02,GE-07,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
 1990-10-20,GE-08,Kelantan,P.022 Nilam Puri,Nilam Puri,federal
-1995-04-24,GE-09,Kelantan,P.020 Pangkalan Chepa,Pangkalan Chepa,federal
+1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,Pangkalan Chepa,federal
 1955-07-25,GE-00,Kelantan,P.046 Pasir Mas,Pasir Mas,federal
 1974-08-24,GE-04,Kelantan,P.018 Pasir Mas,Pasir Mas,federal
 1978-07-08,GE-05,Kelantan,P.018 Pasir Mas,Pasir Mas,federal
@@ -1054,14 +1054,14 @@ date,election,state,seat,area_name,type
 1974-08-24,GE-04,Pahang,P.072 Temerloh,Temerloh,federal
 1978-07-08,GE-05,Pahang,P.072 Temerloh,Temerloh,federal
 1982-04-22,GE-06,Pahang,P.072 Temerloh,Temerloh,federal
-1990-10-20,GE-08,Pahang,P.080 Temerloh,Temerloh,federal
-1995-04-24,GE-09,Pahang,P.084 Temerloh,Temerloh,federal
 2004-03-21,GE-11,Pahang,P.088 Temerloh,Temerloh,federal
 2008-03-08,GE-12,Pahang,P.088 Temerloh,Temerloh,federal
 2013-05-05,GE-13,Pahang,P.088 Temerloh,Temerloh,federal
 2018-05-09,GE-14,Pahang,P.088 Temerloh,Temerloh,federal
 2022-11-19,GE-15,Pahang,P.088 Temerloh,Temerloh,federal
 1986-08-02,GE-07,Pahang,P.080 Temerluh,Temerloh,federal
+1990-10-20,GE-08,Pahang,P.080 Temerluh,Temerloh,federal
+1995-04-24,GE-09,Pahang,P.084 Temerluh,Temerloh,federal
 1999-11-29,GE-10,Pahang,P.084 Temerluh,Temerloh,federal
 1955-07-25,GE-00,Pahang,P.027 Ulu Pahang,Ulu Pahang,federal
 1959-05-20,GE-01,Perak,P.025 Bagan Datoh,Bagan Datuk,federal
@@ -1389,6 +1389,7 @@ date,election,state,seat,area_name,type
 2022-11-19,GE-15,Perak,P.072 Tapah,Tapah,federal
 1986-08-02,GE-07,Perak,P.055 Tasek Chenderoh,Tasek Chenderoh,federal
 1990-10-20,GE-08,Perak,P.055 Tasek Chenderoh,Tasek Chenderoh,federal
+1955-07-25,GE-00,Perak,P.013 Telok Anson,Teluk Intan,federal
 1959-05-20,GE-01,Perak,P.026 Telok Anson,Teluk Intan,federal
 1964-04-25,GE-02,Perak,P.056 Telok Anson,Teluk Intan,federal
 1969-05-10,GE-03,Perak,P.056 Telok Anson,Teluk Intan,federal
@@ -1397,10 +1398,9 @@ date,election,state,seat,area_name,type
 1982-04-22,GE-06,Perak,P.062 Telok Anson,Teluk Intan,federal
 1986-08-02,GE-07,Perak,P.070 Telok Intan,Teluk Intan,federal
 1990-10-20,GE-08,Perak,P.070 Telok Intan,Teluk Intan,federal
+1995-04-24,GE-09,Perak,P.073 Telok Intan,Teluk Intan,federal
 1999-11-29,GE-10,Perak,P.073 Telok Intan,Teluk Intan,federal
 2004-03-21,GE-11,Perak,P.076 Telok Intan,Teluk Intan,federal
-1955-07-25,GE-00,Perak,P.013 Telok Anson,Teluk Intan,federal
-1995-04-24,GE-09,Perak,P.073 Teluk Intan,Teluk Intan,federal
 2008-03-08,GE-12,Perak,P.076 Telok Intan,Teluk Intan,federal
 2013-05-05,GE-13,Perak,P.076 Telok Intan,Teluk Intan,federal
 2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,Teluk Intan,federal
@@ -1519,8 +1519,8 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
 2022-11-19,GE-15,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
 1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,Datok Keramat,federal
-1969-05-10,GE-03,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1964-04-25,GE-02,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
+1969-05-10,GE-03,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,George Town,federal
 1974-08-24,GE-04,Pulau Pinang,P.043 Jelutong,Jelutong,federal
 1978-07-08,GE-05,Pulau Pinang,P.043 Jelutong,Jelutong,federal
@@ -2481,15 +2481,15 @@ date,election,state,seat,area_name,type
 1974-08-24,GE-04,Selangor,P.074 Tanjong Karang,Tanjong Karang,federal
 1978-07-08,GE-05,Selangor,P.074 Tanjong Karang,Tanjong Karang,federal
 1982-04-22,GE-06,Selangor,P.074 Tanjong Karang,Tanjong Karang,federal
+1986-08-02,GE-07,Selangor,P.083 Tanjong Karang,Tanjong Karang,federal
+1990-10-20,GE-08,Selangor,P.083 Tanjong Karang,Tanjong Karang,federal
+1995-04-24,GE-09,Selangor,P.087 Tanjong Karang,Tanjong Karang,federal
+1999-11-29,GE-10,Selangor,P.087 Tanjong Karang,Tanjong Karang,federal
 2004-03-21,GE-11,Selangor,P.095 Tanjong Karang,Tanjong Karang,federal
 2008-03-08,GE-12,Selangor,P.095 Tanjong Karang,Tanjong Karang,federal
 2013-05-05,GE-13,Selangor,P.095 Tanjong Karang,Tanjong Karang,federal
 2018-05-09,GE-14,Selangor,P.095 Tanjong Karang,Tanjong Karang,federal
 2022-11-19,GE-15,Selangor,P.095 Tanjong Karang,Tanjong Karang,federal
-1986-08-02,GE-07,Selangor,P.083 Tanjong Karang,Tanjong Karang,federal
-1990-10-20,GE-08,Selangor,P.083 Tanjong Karang,Tanjong Karang,federal
-1995-04-24,GE-09,Selangor,P.087 Tanjong Karang,Tanjong Karang,federal
-1999-11-29,GE-10,Selangor,P.087 Tanjong Karang,Tanjong Karang,federal
 1974-08-24,GE-04,Selangor,P.078 Ulu Langat,Hulu Langat,federal
 1978-07-08,GE-05,Selangor,P.078 Ulu Langat,Hulu Langat,federal
 1982-04-22,GE-06,Selangor,P.078 Ulu Langat,Hulu Langat,federal
@@ -3006,8 +3006,8 @@ date,election,state,seat,area_name,type
 2018-05-09,SE-14,Johor,N.29 Mahkota,Mahkota,state
 2022-03-12,SE-15,Johor,N.29 Mahkota,Mahkota,state
 2024-09-28,BY-ELECTION,Johor,N.29 Mahkota,Mahkota,state
-1999-11-29,SE-10,Johor,N.12 Mengkiboi,Mengkiboi,state
 1995-04-24,SE-09,Johor,N.12 Mengkibol,Mengkibol,state
+1999-11-29,SE-10,Johor,N.12 Mengkibol,Mengkibol,state
 2004-03-21,SE-11,Johor,N.28 Mengkibol,Mengkibol,state
 2008-03-08,SE-12,Johor,N.28 Mengkibol,Mengkibol,state
 2013-05-05,SE-13,Johor,N.28 Mengkibol,Mengkibol,state
@@ -3565,7 +3565,7 @@ date,election,state,seat,area_name,type
 2023-08-12,SE-15,Kedah,N.13 Kota Darul Aman,Kota Darul Aman,state
 1986-08-02,SE-07,Kedah,N.10 Kota Darulaman,Kota Darulaman,state
 1990-10-20,SE-08,Kedah,N.10 Kota Darulaman,Kota Darulaman,state
-1995-04-24,SE-09,Kedah,N.04 Kota Seputeh,Kota Seputeh,state
+1995-04-24,SE-09,Kedah,N.04 Kota Siputeh,Kota Siputeh,state
 1999-11-29,SE-10,Kedah,N.04 Kota Siputeh,Kota Siputeh,state
 2004-03-21,SE-11,Kedah,N.03 Kota Siputeh,Kota Siputeh,state
 2008-03-08,SE-12,Kedah,N.03 Kota Siputeh,Kota Siputeh,state
@@ -3689,8 +3689,8 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Kedah,N.08 Padang,Padang,state
 1964-04-25,SE-02,Kedah,N.12 Padang,Padang,state
 1969-05-10,SE-03,Kedah,N.12 Padang,Padang,state
-1995-04-24,SE-09,Kedah,N.01 Padang Matsirat,Padang Matsirat,state
-1999-11-29,SE-10,Kedah,N.01 Padang Matsirat,Padang Matsirat,state
+1995-04-24,SE-09,Kedah,N.01 Padang Mat Sirat,Padang Mat Sirat,state
+1999-11-29,SE-10,Kedah,N.01 Padang Mat Sirat,Padang Mat Sirat,state
 1959-05-20,SE-01,Kedah,N.12 Padang Terap,Padang Terap,state
 1964-04-25,SE-02,Kedah,N.02 Padang Terap,Padang Terap,state
 1969-05-10,SE-03,Kedah,N.02 Padang Terap,Padang Terap,state
@@ -3783,6 +3783,7 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Kedah,N.18 Sungei Patani Luar,Sungei Patani Luar,state
 1964-04-25,SE-02,Kedah,N.20 Sungei Patani Luar,Sungei Patani Luar,state
 1969-05-10,SE-03,Kedah,N.20 Sungei Patani Luar,Sungei Patani Luar,state
+1995-04-24,SE-09,Kedah,N.26 Tanjong Dawai,Tanjong Dawai,state
 1986-08-02,SE-07,Kedah,N.18 Tanjong Dawai,Tanjong Dawai,state
 1990-10-20,SE-08,Kedah,N.18 Tanjong Dawai,Tanjong Dawai,state
 1999-11-29,SE-10,Kedah,N.26 Tanjong Dawai,Tanjong Dawai,state
@@ -3793,7 +3794,6 @@ date,election,state,seat,area_name,type
 2023-08-12,SE-15,Kedah,N.26 Tanjong Dawai,Tanjong Dawai,state
 1995-04-24,SE-09,Kedah,N.11 Tanjong Seri,Tanjong Seri,state
 1999-11-29,SE-10,Kedah,N.11 Tanjong Seri,Tanjong Seri,state
-1995-04-24,SE-09,Kedah,N.26 Tanjung Dawai,Tanjung Dawai,state
 1974-08-24,SE-04,Kedah,N.21 Tikam Batu,Tikam Batu,state
 1978-07-08,SE-05,Kedah,N.21 Tikam Batu,Tikam Batu,state
 1982-04-22,SE-06,Kedah,N.21 Tikam Batu,Tikam Batu,state
@@ -4011,12 +4011,12 @@ date,election,state,seat,area_name,type
 1986-08-02,SE-07,Kelantan,N.30 Jeli,Jeli,state
 1990-10-20,SE-08,Kelantan,N.30 Jeli,Jeli,state
 1995-04-24,SE-09,Kelantan,N.23 Kadok,Kadok,state
+1999-11-29,SE-10,Kelantan,N.23 Kadok,Kadok,state
 2004-03-21,SE-11,Kelantan,N.24 Kadok,Kadok,state
 2008-03-08,SE-12,Kelantan,N.24 Kadok,Kadok,state
 2013-05-05,SE-13,Kelantan,N.24 Kadok,Kadok,state
 2018-05-09,SE-14,Kelantan,N.24 Kadok,Kadok,state
 2023-08-12,SE-15,Kelantan,N.24 Kadok,Kadok,state
-1999-11-29,SE-10,Kelantan,N.23 Kedok,Kedok,state
 1995-04-24,SE-09,Kelantan,N.02 Kelaboran,Kelaboran,state
 1999-11-29,SE-10,Kelantan,N.02 Kelaboran,Kelaboran,state
 2004-03-21,SE-11,Kelantan,N.02 Kelaboran,Kelaboran,state
@@ -4132,6 +4132,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Kelantan,N.36 Manek Urai,Manek Urai,state
 1982-04-22,SE-06,Kelantan,N.36 Manek Urai,Manek Urai,state
 1986-08-02,SE-07,Kelantan,N.36 Manek Urai,Manek Urai,state
+1990-10-20,SE-08,Kelantan,N.36 Manek Urai,Manek Urai,state
 1995-04-24,SE-09,Kelantan,N.40 Manek Urai,Manek Urai,state
 1999-11-29,SE-10,Kelantan,N.40 Manek Urai,Manek Urai,state
 2004-03-21,SE-11,Kelantan,N.41 Manek Urai,Manek Urai,state
@@ -4140,7 +4141,6 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Kelantan,N.41 Manek Urai,Manek Urai,state
 2018-05-09,SE-14,Kelantan,N.41 Manek Urai,Manek Urai,state
 2023-08-12,SE-15,Kelantan,N.41 Manek Urai,Manek Urai,state
-1990-10-20,SE-08,Kelantan,N.36 Manik Urai,Manik Urai,state
 1995-04-24,SE-09,Kelantan,N.22 Melor,Melor,state
 1999-11-29,SE-10,Kelantan,N.22 Melor,Melor,state
 2004-03-21,SE-11,Kelantan,N.23 Melor,Melor,state
@@ -4219,13 +4219,13 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Kelantan,N.07 Pasir Puteh Utara,Pasir Puteh Utara,state
 1964-04-25,SE-02,Kelantan,N.22 Pasir Puteh Utara,Pasir Puteh Utara,state
 1969-05-10,SE-03,Kelantan,N.22 Pasir Puteh Utara,Pasir Puteh Utara,state
+1995-04-24,SE-09,Kelantan,N.17 Pasir Tumboh,Pasir Tumboh,state
 1999-11-29,SE-10,Kelantan,N.17 Pasir Tumboh,Pasir Tumboh,state
 2004-03-21,SE-11,Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,state
 2008-03-08,SE-12,Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,state
 2013-05-05,SE-13,Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,state
 2018-05-09,SE-14,Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,state
 2023-08-12,SE-15,Kelantan,N.18 Pasir Tumboh,Pasir Tumboh,state
-1995-04-24,SE-09,Kelantan,N.17 Pasir Tumbuh,Pasir Tumbuh,state
 1995-04-24,SE-09,Kelantan,N.01 Pengkalan Kubor,Pengkalan Kubor,state
 1999-11-29,SE-10,Kelantan,N.01 Pengkalan Kubor,Pengkalan Kubor,state
 2004-03-21,SE-11,Kelantan,N.01 Pengkalan Kubor,Pengkalan Kubor,state
@@ -4249,7 +4249,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Kelantan,N.21 Peringat,Peringat,state
 1982-04-22,SE-06,Kelantan,N.21 Peringat,Peringat,state
 1986-08-02,SE-07,Kelantan,N.18 Peringat,Peringat,state
-1990-10-20,SE-08,Kelantan,N.18 Peringkat,Peringkat,state
+1990-10-20,SE-08,Kelantan,N.18 Peringat,Peringat,state
 1974-08-24,SE-04,Kelantan,N.14 Perupok,Perupok,state
 1978-07-08,SE-05,Kelantan,N.14 Perupok,Perupok,state
 1982-04-22,SE-06,Kelantan,N.14 Perupok,Perupok,state
@@ -4353,7 +4353,7 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Kelantan,N.20 Tawang,Tawang,state
 2018-05-09,SE-14,Kelantan,N.20 Tawang,Tawang,state
 2023-08-12,SE-15,Kelantan,N.20 Tawang,Tawang,state
-1995-04-24,SE-09,Kelantan,N.11 Tedong,Tedong,state
+1995-04-24,SE-09,Kelantan,N.11 Tendong,Tedong,state
 1974-08-24,SE-04,Kelantan,N.11 Telipok,Telipok,state
 1978-07-08,SE-05,Kelantan,N.11 Telipok,Telipok,state
 1982-04-22,SE-06,Kelantan,N.11 Telipot,Telipot,state
@@ -4402,11 +4402,11 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Kelantan,N.02 Ulu Kelantan Timor,Ulu Kelantan Timor,state
 1964-04-25,SE-02,Kelantan,N.29 Ulu Kelantan Timor,Ulu Kelantan Timor,state
 1969-05-10,SE-03,Kelantan,N.29 Ulu Kelantan Timor,Ulu Kelantan Timor,state
-1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,Wakaf Baharu,state
 1974-08-24,SE-04,Kelantan,N.03 Wakaf Bharu,Wakaf Bharu,state
 1978-07-08,SE-05,Kelantan,N.03 Wakaf Bharu,Wakaf Bharu,state
 1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,Wakaf Bharu,state
-1990-10-20,SE-08,Kelantan,N.03 Wakaf Bharu,Wakaf Bharu,state
+1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,Wakaf Bharu,state
+1990-10-20,SE-08,Kelantan,N.03 Wakaf Baharu,Wakaf Bharu,state
 1995-04-24,SE-09,Kelantan,N.10 Wakaf Bharu,Wakaf Bharu,state
 1999-11-29,SE-10,Kelantan,N.10 Wakaf Bharu,Wakaf Bharu,state
 2004-03-21,SE-11,Kelantan,N.04 Wakaf Bharu,Wakaf Bharu,state
@@ -5574,7 +5574,7 @@ date,election,state,seat,area_name,type
 2018-05-09,SE-14,Pahang,N.36 Pelangai,Pelangai,state
 2022-11-19,SE-15,Pahang,N.36 Pelangai,Pelangai,state
 2023-10-07,BY-ELECTION,Pahang,N.36 Pelangai,Pelangai,state
-1995-04-24,SE-09,Pahang,N.31 Pelangi,Pelangi,state
+1995-04-24,SE-09,Pahang,N.31 Pelangai,Pelangai,state
 1995-04-24,SE-09,Pahang,N.17 Penur,Penur,state
 1999-11-29,SE-10,Pahang,N.17 Penur,Penur,state
 1986-08-02,SE-07,Pahang,N.17 Peramu,Peramu,state
@@ -5747,7 +5747,7 @@ date,election,state,seat,area_name,type
 2018-05-09,SE-14,Perak,N.10 Alor Pongsu,Alor Pongsu,state
 2022-11-19,SE-15,Perak,N.10 Alor Pongsu,Alor Pongsu,state
 1986-08-02,SE-07,Perak,N.12 Asam Kumbang,Asam Kumbang,state
-1990-10-20,SE-08,Perak,N.12 Assam Kumbang,Assam Kumbang,state
+1990-10-20,SE-08,Perak,N.12 Asam Kumbang,Asam Kumbang,state
 2018-05-09,SE-14,Perak,N.38 Astaka,Astaka,state
 2022-11-19,SE-15,Perak,N.38 Astaka,Astaka,state
 1995-04-24,SE-09,Perak,N.15 Aulong,Aulong,state
@@ -5936,6 +5936,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state
 1982-04-22,SE-06,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state
 1986-08-02,SE-07,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state
+1990-10-20,SE-08,Perak,N.08 Gunong Semanggol,Gunong Semanggol,state
 1995-04-24,SE-09,Perak,N.09 Gunong Semanggol,Gunong Semanggol,state
 1999-11-29,SE-10,Perak,N.09 Gunong Semanggol,Gunong Semanggol,state
 2004-03-21,SE-11,Perak,N.11 Gunong Semanggol,Gunong Semanggol,state
@@ -5946,7 +5947,6 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Perak,N.21 Guntong,Guntong,state
 1978-07-08,SE-05,Perak,N.21 Guntong,Guntong,state
 1982-04-22,SE-06,Perak,N.21 Guntong,Guntong,state
-1990-10-20,SE-08,Perak,N.08 Gunung Semanggol,Gunung Semanggol,state
 1995-04-24,SE-09,Perak,N.21 Hulu Kinta,Hulu Kinta,state
 1999-11-29,SE-10,Perak,N.21 Hulu Kinta,Hulu Kinta,state
 2004-03-21,SE-11,Perak,N.24 Hulu Kinta,Hulu Kinta,state
@@ -6082,7 +6082,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Perak,N.24 Kuala Pari,Kuala Pari,state
 1982-04-22,SE-06,Perak,N.24 Kuala Pari,Kuala Pari,state
 1995-04-24,SE-09,Perak,N.10 Kuala Sapetang,Kuala Sapetang,state
-1999-11-29,SE-10,Perak,N.10 Kuala Sepatang,Kuala Sepatang,state
+1999-11-29,SE-10,Perak,N.10 Kuala Sapetang,Kuala Sepatang,state
 2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
 2008-03-08,SE-12,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
 2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
@@ -6248,6 +6248,7 @@ date,election,state,seat,area_name,type
 1964-04-25,SE-02,Perak,N.23 Pekan Lama,Pekan Lama,state
 1969-05-10,SE-03,Perak,N.23 Pekan Lama,Pekan Lama,state
 1986-08-02,SE-07,Perak,N.27 Pengkalan Baharu,Pengkalan Baharu,state
+1990-10-20,SE-08,Perak,N.27 Pengkalan Baharu,Pengkalan Baharu,state
 1995-04-24,SE-09,Perak,N.31 Pengkalan Baharu,Pengkalan Baharu,state
 1999-11-29,SE-10,Perak,N.31 Pengkalan Baharu,Pengkalan Baharu,state
 2004-03-21,SE-11,Perak,N.36 Pengkalan Baharu,Pengkalan Baharu,state
@@ -6261,7 +6262,6 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,state
 1978-07-08,SE-05,Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,state
 1982-04-22,SE-06,Perak,N.25 Pengkalan Bharu,Pengkalan Bharu,state
-1990-10-20,SE-08,Perak,N.27 Pengkalan Bharu,Pengkalan Bharu,state
 1995-04-24,SE-09,Perak,N.01 Pengkalan Hulu,Pengkalan Hulu,state
 1999-11-29,SE-10,Perak,N.01 Pengkalan Hulu,Pengkalan Hulu,state
 2004-03-21,SE-11,Perak,N.01 Pengkalan Hulu,Pengkalan Hulu,state
@@ -6403,7 +6403,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Perak,N.29 Tanjong Tualang,Tanjong Tualang,state
 1982-04-22,SE-06,Perak,N.29 Tanjong Tualang,Tanjong Tualang,state
 1986-08-02,SE-07,Perak,N.34 Tanjong Tualang,Tanjong Tualang,state
-1990-10-20,SE-08,Perak,N.34 Tanjung Tualang,Tanjung Tualang,state
+1990-10-20,SE-08,Perak,N.34 Tanjong Tualang,Tanjong Tualang,state
 1959-05-20,SE-01,Perak,N.06 Tapah,Tapah,state
 1964-04-25,SE-02,Perak,N.40 Tapah,Tapah,state
 1969-05-10,SE-03,Perak,N.40 Tapah,Tapah,state
@@ -6732,15 +6732,15 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Pulau Pinang,N.23 Balik Pulau,Balik Pulau,state
 1964-04-25,SE-02,Pulau Pinang,N.14 Balik Pulau,Balik Pulau,state
 1969-05-10,SE-03,Pulau Pinang,N.14 Balik Pulau,Balik Pulau,state
-1995-04-24,SE-09,Pulau Pinang,N.27 Batu Lancang,Batu Lancang,state
-1999-11-29,SE-10,Pulau Pinang,N.27 Batu Lancang,Batu Lancang,state
+1986-08-02,SE-07,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
+1990-10-20,SE-08,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
+1995-04-24,SE-09,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
+1999-11-29,SE-10,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
 2004-03-21,SE-11,Pulau Pinang,N.31 Batu Lancang,Batu Lancang,state
 2008-03-08,SE-12,Pulau Pinang,N.31 Batu Lancang,Batu Lancang,state
 2013-05-05,SE-13,Pulau Pinang,N.31 Batu Lancang,Batu Lancang,state
 2018-05-09,SE-14,Pulau Pinang,N.31 Batu Lancang,Batu Lancang,state
 2023-08-12,SE-15,Pulau Pinang,N.31 Batu Lancang,Batu Lancang,state
-1986-08-02,SE-07,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
-1990-10-20,SE-08,Pulau Pinang,N.27 Batu Lanchang,Batu Lanchang,state
 2004-03-21,SE-11,Pulau Pinang,N.37 Batu Maung,Batu Maung,state
 2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,Batu Maung,state
 2013-05-05,SE-13,Pulau Pinang,N.37 Batu Maung,Batu Maung,state
@@ -6835,7 +6835,7 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Pulau Pinang,N.29 Datok Keramat,Datok Keramat,state
 2018-05-09,SE-14,Pulau Pinang,N.29 Datok Keramat,Datok Keramat,state
 2023-08-12,SE-15,Pulau Pinang,N.29 Datok Keramat,Datok Keramat,state
-1995-04-24,SE-09,Pulau Pinang,N.25 Datuk Keramat,Datuk Keramat,state
+1995-04-24,SE-09,Pulau Pinang,N.25 Datok Keramat,Datok Keramat,state
 1959-05-20,SE-01,Pulau Pinang,N.13 Dhoby Ghaut,Dhoby Ghaut,state
 1964-04-25,SE-02,Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,state
 1969-05-10,SE-03,Pulau Pinang,N.09 Dhoby Ghaut,Dhoby Ghaut,state
@@ -6854,13 +6854,13 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Pulau Pinang,N.21 Jelutong,Jelutong,state
 1964-04-25,SE-02,Pulau Pinang,N.12 Jelutong,Jelutong,state
 1969-05-10,SE-03,Pulau Pinang,N.12 Jelutong,Jelutong,state
-1999-11-29,SE-10,Pulau Pinang,N.24 Kampong Dalam,Kampong Dalam,state
 1974-08-24,SE-04,Pulau Pinang,N.23 Kampong Kolam,Kampong Kolam,state
 1978-07-08,SE-05,Pulau Pinang,N.23 Kampong Kolam,Kampong Kolam,state
 1982-04-22,SE-06,Pulau Pinang,N.23 Kampong Kolam,Kampong Kolam,state
 1986-08-02,SE-07,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
 1990-10-20,SE-08,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
 1995-04-24,SE-09,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
+1999-11-29,SE-10,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
 1959-05-20,SE-01,Pulau Pinang,N.04 Kepala Batas,Kepala Batas,state
 1986-08-02,SE-07,Pulau Pinang,N.21 Kebun Bunga,Kebun Bunga,state
 1990-10-20,SE-08,Pulau Pinang,N.21 Kebun Bunga,Kebun Bunga,state
@@ -6891,7 +6891,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,Machang Bubok,state
 1982-04-22,SE-06,Pulau Pinang,N.12 Machang Bubok,Machang Bubok,state
 1986-08-02,SE-07,Pulau Pinang,N.14 Machang Bubok,Machang Bubok,state
-1990-10-20,SE-08,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
+1990-10-20,SE-08,Pulau Pinang,N.14 Machang Bubok,Machang Bubok,state
 1995-04-24,SE-09,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
 1999-11-29,SE-10,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
 2004-03-21,SE-11,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
@@ -6899,7 +6899,7 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
 2018-05-09,SE-14,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
 2023-08-12,SE-15,Pulau Pinang,N.14 Machang Bubuk,Machang Bubuk,state
-1990-10-20,SE-08,Pulau Pinang,N.08 Mak Madin,Mak Madin,state
+1990-10-20,SE-08,Pulau Pinang,N.08 Mak Mandin,Mak Mandin,state
 1986-08-02,SE-07,Pulau Pinang,N.08 Mak Mandin,Mak Mandin,state
 1959-05-20,SE-01,Pulau Pinang,N.03 Muda,Muda,state
 1964-04-25,SE-02,Pulau Pinang,N.22 Muda,Muda,state
@@ -8978,6 +8978,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Selangor,N.10 Permatang,Permatang,state
 1982-04-22,SE-06,Selangor,N.10 Permatang,Permatang,state
 1986-08-02,SE-07,Selangor,N.11 Permatang,Permatang,state
+1990-10-20,SE-08,Selangor,N.11 Permatang,Permatang,state
 1995-04-24,SE-09,Selangor,N.10 Permatang,Permatang,state
 1999-11-29,SE-10,Selangor,N.10 Permatang,Permatang,state
 2004-03-21,SE-11,Selangor,N.09 Permatang,Permatang,state
@@ -8985,7 +8986,6 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Selangor,N.09 Permatang,Permatang,state
 2018-05-09,SE-14,Selangor,N.09 Permatang,Permatang,state
 2023-08-12,SE-15,Selangor,N.09 Permatang,Permatang,state
-1990-10-20,SE-08,Selangor,N.11 Permatang Pasir,Permatang Pasir,state
 1974-08-24,SE-04,Selangor,N.25 Petaling Jaya,Petaling Jaya,state
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,Petaling Jaya,state
 1982-04-22,SE-06,Selangor,N.25 Petaling Jaya,Petaling Jaya,state
@@ -9024,7 +9024,6 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Selangor,N.04 Salak,Salak,state
 1964-04-25,SE-02,Selangor,N.14 Salak,Salak,state
 1969-05-10,SE-03,Selangor,N.14 Salak,Salak,state
-1995-04-24,SE-09,Selangor,N.43 Sejangkang,Sejangkang,state
 1974-08-24,SE-04,Selangor,N.05 Sekinchan,Sekinchan,state
 1982-04-22,SE-06,Selangor,N.05 Sekinchan,Sekinchan,state
 1986-08-02,SE-07,Selangor,N.05 Sekinchan,Sekinchan,state
@@ -9119,6 +9118,7 @@ date,election,state,seat,area_name,type
 2023-08-12,SE-15,Selangor,N.32 Seri Setia,Seri Setia,state
 1986-08-02,SE-07,Selangor,N.33 Shahbandar Raya,Shahbandar Raya,state
 1990-10-20,SE-08,Selangor,N.33 Shahbandar Raya,Shahbandar Raya,state
+1995-04-24,SE-09,Selangor,N.43 Sijangkang,Sijangkang,state
 1999-11-29,SE-10,Selangor,N.43 Sijangkang,Sijangkang,state
 2004-03-21,SE-11,Selangor,N.51 Sijangkang,Sijangkang,state
 2008-03-08,SE-12,Selangor,N.51 Sijangkang,Sijangkang,state
@@ -9244,7 +9244,7 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Selangor,N.23 Telok Datoh,Telok Datoh,state
 1964-04-25,SE-02,Selangor,N.21 Telok Datoh,Telok Datoh,state
 1969-05-10,SE-03,Selangor,N.21 Telok Datoh,Telok Datoh,state
-1995-04-24,SE-09,Selangor,N.44 Teluk Datok,Teluk Datok,state
+1995-04-24,SE-09,Selangor,N.44 Teluk Datuk,Teluk Datuk,state
 1999-11-29,SE-10,Selangor,N.44 Teluk Datuk,Teluk Datuk,state
 2004-03-21,SE-11,Selangor,N.52 Teluk Datuk,Teluk Datuk,state
 2008-03-08,SE-12,Selangor,N.52 Teluk Datuk,Teluk Datuk,state
@@ -9593,13 +9593,13 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Terengganu,N.06 Permaisuri,Permaisuri,state
 2018-05-09,SE-14,Terengganu,N.06 Permaisuri,Permaisuri,state
 2023-08-12,SE-15,Terengganu,N.06 Permaisuri,Permaisuri,state
+1995-04-24,SE-09,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 1999-11-29,SE-10,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 2004-03-21,SE-11,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 2008-03-08,SE-12,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 2013-05-05,SE-13,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 2018-05-09,SE-14,Terengganu,N.26 Rantau Abang,Rantau Abang,state
 2023-08-12,SE-15,Terengganu,N.26 Rantau Abang,Rantau Abang,state
-1995-04-24,SE-09,Terengganu,N.26 Rantau Panjang,Rantau Panjang,state
 1986-08-02,SE-07,Terengganu,N.19 Ru Rendang,Ru Rendang,state
 1990-10-20,SE-08,Terengganu,N.19 Ru Rendang,Ru Rendang,state
 1995-04-24,SE-09,Terengganu,N.19 Ru Rendang,Ru Rendang,state
