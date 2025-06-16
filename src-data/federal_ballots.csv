@@ -2064,7 +2064,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1982-04-22,GE-06,Sarawak,P.138 Batang Lupar,1,Senada Henry Benard,1630,BEBAS,1,926,6.888343375734583,lost_deposit
 1982-04-22,GE-06,Sarawak,P.138 Batang Lupar,2,Wellington Rufus Nanang,1631,BN,25,5944,44.216320761734735,lost
 1982-04-22,GE-06,Sarawak,P.138 Batang Lupar,3,Edwen Anak Tangkon,767,BEBAS,1,6573,48.895335862530686,won
-1982-04-22,GE-06,Sarawak,P.139 Lubok Anyu,1,Andrew Janggi Muyang,1632,BN,25,0,,won_uncontested
+1982-04-22,GE-06,Sarawak,P.139 Lubok Antu,1,Andrew Janggi Muyang,1632,BN,25,0,,won_uncontested
 1982-04-22,GE-06,Sarawak,P.140 Betong,1,Datuk Alfred Jabu Ak Numpang,1633,BN,25,6178,56.80397204854726,won
 1982-04-22,GE-06,Sarawak,P.140 Betong,2,David Umpie @ Kalom,1634,BEBAS,1,4698,43.19602795145274,lost
 1982-04-22,GE-06,Sarawak,P.141 Saratok,1,Dunstan Endawie Ak. Enchana,1635,BN,25,4722,41.287050800034976,lost
@@ -2500,7 +2500,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1986-08-02,GE-07,Sarawak,P.164 Saratok,1,John Antau Ak Linggang,1946,BEBAS,1,5639,44.5242795104619,lost
 1986-08-02,GE-07,Sarawak,P.164 Saratok,2,Datuk Peter Tinggom Annak Kamarau,1947,BN,25,6367,50.272404263718904,won
 1986-08-02,GE-07,Sarawak,P.164 Saratok,3,Jahiri B. Jais,1948,PLUS,53,659,5.2033162258191865,lost_deposit
-1986-08-02,GE-07,Sarawak,P.165 Parloh,1,Abang Abu Bakar B Datu Bandar Abang Hj. Mustapha,1638,BN,25,0,,won_uncontested
+1986-08-02,GE-07,Sarawak,P.165 Paloh,1,Abang Abu Bakar B Datu Bandar Abang Hj. Mustapha,1638,BN,25,0,,won_uncontested
 1986-08-02,GE-07,Sarawak,P.166 Sarikei,1,Law Hieng Ding,1640,BN,25,10589,51.2561111380028,won
 1986-08-02,GE-07,Sarawak,P.166 Sarikei,2,Chong Siew Chiang,1352,DAP,18,10070,48.74388886199719,lost
 1986-08-02,GE-07,Sarawak,P.167 Sibu,1,Tieu Sung Seng @ Tiu Siing Seng,1949,BN,25,18841,50.317807926503576,won
