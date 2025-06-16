@@ -26,7 +26,7 @@ Kelantan,P.024 Pasir Puteh,32842,25348,0,669
 Kelantan,P.025 Kok Lanas,32990,25546,0,472
 Kelantan,P.026 Tanah Merah,33837,26990,0,599
 Kelantan,P.027 Machang,27430,21306,0,483
-Kelantan,P.028 Kuala Kerai,29684,23127,0,557
+Kelantan,P.028 Kuala Krai,29684,23127,0,557
 Kelantan,P.029 Gua Musang,23977,18250,0,493
 Terengganu,P.030 Besut,32749,26074,0,547
 Terengganu,P.031 Setiu,29793,24162,0,606
@@ -67,7 +67,7 @@ Perak,P.065 Kampar,41374,28424,0,657
 Perak,P.066 Tapah,34743,23628,0,761
 Perak,P.067 Pasir Salak,36547,24849,0,897
 Perak,P.068 Lumut,49202,33008,0,532
-Perak,P.069 Bagan Datoh,33965,22838,0,882
+Perak,P.069 Bagan Datok,33965,22838,0,882
 Perak,P.070 Telok Intan,46847,31231,0,697
 Perak,P.071 Tanjong Malim,42959,29836,0,684
 Pahang,P.072 Lipis,35385,23293,0,906
@@ -76,12 +76,12 @@ Pahang,P.074 Jerantut,33131,23807,0,806
 Pahang,P.075 Kuantan,54595,36448,0,832
 Pahang,P.076 Pekan,34017,22748,0,694
 Pahang,P.077 Maran,38133,29018,0,737
-Pahang,P.078 Mentakab,32402,23196,0,945
+Pahang,P.078 Mentekab,32402,23196,0,945
 Pahang,P.079 Bentung,39270,29091,0,718
 Pahang,P.080 Temerluh,39089,28639,0,930
 Pahang,P.081 Rompin,31373,21508,0,529
 Selangor,P.082 Sabak Bernam,31529,20644,0,756
-Selangor,P.083 Tanjung Karang,31785,20158,0,888
+Selangor,P.083 Tanjong Karang,31785,20158,0,888
 Selangor,P.084 Hulu Selangor,42826,29979,0,1497
 Selangor,P.085 Kuala Selangor,32510,23469,0,1099
 Selangor,P.086 Kapar,43928,30592,0,957
@@ -89,7 +89,7 @@ Selangor,P.087 Selayang,77737,52160,0,2270
 Selangor,P.088 Ampang Jaya,69849,44590,0,1911
 Selangor,P.089 Hulu Langat,55558,39651,0,934
 Selangor,P.090 Petaling Jaya,80403,54360,0,801
-Selangor,P.091 Pucung,81005,61052,0,1198
+Selangor,P.091 Puchong,81005,61052,0,1198
 Selangor,P.092 Shah Alam,60360,42021,0,1428
 Selangor,P.093 Klang,74964,53026,0,925
 Selangor,P.094 Kuala Langat,41565,31007,0,1118

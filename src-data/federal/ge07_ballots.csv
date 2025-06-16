@@ -56,8 +56,8 @@ Kelantan,P.026 Tanah Merah,1,Hashim Bin Safin @ Shafain,1701,BN,25,14969
 Kelantan,P.026 Tanah Merah,2,Abu Bakar Bin A. Rashid,1702,PAS,3,11422
 Kelantan,P.027 Machang,1,Mohd. Kassim @ Yahya Bin Ahmed,1403,BN,25,11110
 Kelantan,P.027 Machang,2,Haji Wan Ismail Bin Wan Ahmed,871,PAS,3,9713
-Kelantan,P.028 Kuala Kerai,1,Mohamed Bin Isa,1703,BN,25,12240
-Kelantan,P.028 Kuala Kerai,2,Khalid Bin Abd. Samad,1704,PAS,3,10330
+Kelantan,P.028 Kuala Krai,1,Mohamed Bin Isa,1703,BN,25,12240
+Kelantan,P.028 Kuala Krai,2,Khalid Bin Abd. Samad,1704,PAS,3,10330
 Kelantan,P.029 Gua Musang,1,Tengku Razaleigh Bin Tengku Mohd. Hamzah,872,BN,25,12538
 Kelantan,P.029 Gua Musang,2,Abd. Rahim Bin Wan Abdullah,1705,PAS,3,5219
 Terengganu,P.030 Besut,1,Abd. Latif Bin Mohamad,1706,PAS,3,10287
@@ -153,8 +153,8 @@ Perak,P.067 Pasir Salak,2,Megat Junid Bin Megat Ayob,1467,BN,25,17951
 Perak,P.068 Lumut,1,Jaganathan A/L Narianasamy,1761,DAP,18,14284
 Perak,P.068 Lumut,2,Ng Cheng Kuai,1464,BN,25,15792
 Perak,P.068 Lumut,3,Haji Mohd. Nadzir Bin Mohd. Jamin,1762,PAS,3,2400
-Perak,P.069 Bagan Datoh,1,Ariffin Bin Ngah,1763,PAS,3,7054
-Perak,P.069 Bagan Datoh,2,Mohamed Bin Jamrah,1764,BN,25,14902
+Perak,P.069 Bagan Datok,1,Ariffin Bin Ngah,1763,PAS,3,7054
+Perak,P.069 Bagan Datok,2,Mohamed Bin Jamrah,1764,BN,25,14902
 Perak,P.070 Telok Intan,1,Nadzri Bin Bahaudin,1765,PAS,3,1673
 Perak,P.070 Telok Intan,2,Mohd. Fadlan Yahaya,919,DAP,18,13709
 Perak,P.070 Telok Intan,3,Ong Tin Kim @ Wong Thean Ching,1766,BN,25,15152
@@ -176,8 +176,8 @@ Pahang,P.076 Pekan,1,Dato Sri Hj. Mohd Najib Bin Tun Hj. Abd. Razak,1216,BN,25,1
 Pahang,P.076 Pekan,2,Ali Bin Abdullah @ Lee Kin Hong,1775,PAS,3,5623
 Pahang,P.077 Maran,1,Haji Mohd Alwi Bin Haji Abdul Hamid,1486,PAS,3,7623
 Pahang,P.077 Maran,2,Muhamad Bin Abdullah,1776,BN,25,20658
-Pahang,P.078 Mentakab,1,Mohamed Rusdi Bin Arif,1217,PAS,3,6980
-Pahang,P.078 Mentakab,2,Siti Zaharah Bt Sulaiman,1777,BN,25,15271
+Pahang,P.078 Mentekab,1,Mohamed Rusdi Bin Arif,1217,PAS,3,6980
+Pahang,P.078 Mentekab,2,Siti Zaharah Bt Sulaiman,1777,BN,25,15271
 Pahang,P.079 Bentung,1,Chan Siang Sun,237,BN,25,16777
 Pahang,P.079 Bentung,2,Lip Ah Kow @ Lip Tuck Chee,1482,DAP,18,10055
 Pahang,P.079 Bentung,3,Mat Shum Bin Hj. Sidek,1778,PAS,3,1541
@@ -187,8 +187,8 @@ Pahang,P.081 Rompin,1,Mohamed Amin Bin Haji Daud,1488,BN,25,16118
 Pahang,P.081 Rompin,2,Yahya Bin Haji Awang,1781,PAS,3,4861
 Selangor,P.082 Sabak Bernam,1,Majudim @ A. Razak Bin Dawami,1782,PAS,3,5078
 Selangor,P.082 Sabak Bernam,2,Hassim @ Husin Bin Haji Taib,1783,BN,25,14810
-Selangor,P.083 Tanjung Karang,1,Mohd Fadzin Bin Taslimin,1784,PAS,3,5910
-Selangor,P.083 Tanjung Karang,2,Dato'S Kamaruzaman Bin Ahmad,1785,BN,25,13360
+Selangor,P.083 Tanjong Karang,1,Mohd Fadzin Bin Taslimin,1784,PAS,3,5910
+Selangor,P.083 Tanjong Karang,2,Dato'S Kamaruzaman Bin Ahmad,1785,BN,25,13360
 Selangor,P.084 Hulu Selangor,1,S.S. Subramaniam,985,BN,25,19201
 Selangor,P.084 Hulu Selangor,2,Mohamed Arif Bin Dato' Haji Kamaruddin,1496,SDP,33,9281
 Selangor,P.085 Kuala Selangor,1,Abu Hassan Bin Omar,1225,BN,25,17523
@@ -205,10 +205,10 @@ Selangor,P.089 Hulu Langat,3,Ahamad Kamari Bin Md. Kamari,1794,SDP,33,3208
 Selangor,P.090 Petaling Jaya,1,Wong Sai Hou,1795,SDP,33,2454
 Selangor,P.090 Petaling Jaya,2,Dr. Eng Seng Chai @ Ng Sing Sai,1796,DAP,18,29929
 Selangor,P.090 Petaling Jaya,3,Lee Phon Yong,1797,BN,25,21176
-Selangor,P.091 Pucung,1,Yeoh Poh San @ Yang Po San,1511,SDP,33,1684
-Selangor,P.091 Pucung,2,David S/O Vethamuthu,1524,DAP,18,35145
-Selangor,P.091 Pucung,3,Asri Bin Janang,1798,PAS,3,2409
-Selangor,P.091 Pucung,4,Lui Thai Heng @ Lew Sung Hing,1799,BN,25,20616
+Selangor,P.091 Puchong,1,Yeoh Poh San @ Yang Po San,1511,SDP,33,1684
+Selangor,P.091 Puchong,2,David S/O Vethamuthu,1524,DAP,18,35145
+Selangor,P.091 Puchong,3,Asri Bin Janang,1798,PAS,3,2409
+Selangor,P.091 Puchong,4,Lui Thai Heng @ Lew Sung Hing,1799,BN,25,20616
 Selangor,P.092 Shah Alam,1,Hajah Rahmah Binti Osman,1800,BN,25,32714
 Selangor,P.092 Shah Alam,2,Mustafar Bin Ab. Kadir,1801,PAS,3,7879
 Selangor,P.093 Klang,1,Gabriel Lee,1802,SDP,33,519
