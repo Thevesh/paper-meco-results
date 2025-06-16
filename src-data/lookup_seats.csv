@@ -7225,6 +7225,7 @@ date,election,state,seat,area_name,type
 1967-04-08,SE-01,Sabah,N.02 Bengkoka-Banggi,Bengkoka-Banggi,state
 1971-10-01,SE-02,Sabah,N.02 Bengkoka-Banggi,Bengkoka-Banggi,state
 1976-05-01,SE-03,Sabah,N.37 Bingkor,Bingkor,state
+1981-03-23,SE-04,Sabah,N.37 Bingkor,Bingkor,state
 1985-04-20,SE-05,Sabah,N.25 Bingkor,Bingkor,state
 1986-05-04,SE-06,Sabah,N.25 Bingkor,Bingkor,state
 1990-07-16,SE-07,Sabah,N.25 Bingkor,Bingkor,state
@@ -7235,7 +7236,6 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-12,Sabah,N.33 Bingkor,Bingkor,state
 2018-05-09,SE-13,Sabah,N.33 Bingkor,Bingkor,state
 2020-09-26,SE-14,Sabah,N.40 Bingkor,Bingkor,state
-1981-03-23,SE-04,Sabah,N.37 Blingkor,Blingkor,state
 1967-04-08,SE-01,Sabah,N.13 Bongawan,Bongawan,state
 1971-10-01,SE-02,Sabah,N.13 Bongawan,Bongawan,state
 1976-05-01,SE-03,Sabah,N.32 Bongawan,Bongawan,state
@@ -7335,6 +7335,7 @@ date,election,state,seat,area_name,type
 1976-05-01,SE-03,Sabah,N.24 Kawang,Kawang,state
 1981-03-23,SE-04,Sabah,N.24 Kawang,Kawang,state
 1985-04-20,SE-05,Sabah,N.32 Kawang,Kawang,state
+1986-05-04,SE-06,Sabah,N.32 Kawang,Kawang,state
 1990-07-16,SE-07,Sabah,N.32 Kawang,Kawang,state
 1994-02-18,SE-08,Sabah,N.32 Kawang,Kawang,state
 1999-03-12,SE-09,Sabah,N.18 Kawang,Kawang,state
@@ -7359,7 +7360,6 @@ date,election,state,seat,area_name,type
 2020-09-26,SE-14,Sabah,N.43 Kemabong,Kemabong,state
 1967-04-08,SE-01,Sabah,N.19 Keningau,Keningau,state
 1971-10-01,SE-02,Sabah,N.19 Keningau,Keningau,state
-1981-03-23,SE-04,Sabah,N.35 Kilas,Kilas,state
 1967-04-08,SE-01,Sabah,N.08 Kiulu,Kiulu,state
 1971-10-01,SE-02,Sabah,N.08 Kiulu,Kiulu,state
 1976-05-01,SE-03,Sabah,N.15 Kiulu,Kiulu,state
@@ -7375,6 +7375,7 @@ date,election,state,seat,area_name,type
 2018-05-09,SE-13,Sabah,N.11 Kiulu,Kiulu,state
 2020-09-26,SE-14,Sabah,N.15 Kiulu,Kiulu,state
 1976-05-01,SE-03,Sabah,N.35 Klias,Klias,state
+1981-03-23,SE-04,Sabah,N.35 Klias,Klias,state
 1985-04-20,SE-05,Sabah,N.36 Klias,Klias,state
 1986-05-04,SE-06,Sabah,N.36 Klias,Klias,state
 1990-07-16,SE-07,Sabah,N.36 Klias,Klias,state
@@ -7451,7 +7452,6 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-12,Sabah,N.29 Kundasang,Kundasang,state
 2018-05-09,SE-13,Sabah,N.29 Kundasang,Kundasang,state
 2020-09-26,SE-14,Sabah,N.36 Kundasang,Kundasang,state
-1986-05-04,SE-06,Sabah,N.32 Kwang,Kwang,state
 1967-04-08,SE-01,Sabah,N.15 Labuan,Labuan,state
 1971-10-01,SE-02,Sabah,N.15 Labuan,Labuan,state
 1976-05-01,SE-03,Sabah,N.34 Labuan,Labuan,state
@@ -7700,16 +7700,16 @@ date,election,state,seat,area_name,type
 2020-09-26,SE-14,Sabah,N.45 Sook,Sook,state
 1967-04-08,SE-01,Sabah,N.06 Sorob,Sorob,state
 1971-10-01,SE-02,Sabah,N.06 Sorob,Sorob,state
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,Sri Tanjong,state
-1994-02-18,SE-08,Sabah,N.44 Sri Tanjong,Sri Tanjong,state
+1985-04-20,SE-05,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
+1986-05-04,SE-06,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
+1994-02-18,SE-08,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
 1999-03-12,SE-09,Sabah,N.48 Sri Tanjong,Sri Tanjong,state
 2004-03-21,SE-10,Sabah,N.57 Sri Tanjong,Sri Tanjong,state
 2008-03-08,SE-11,Sabah,N.57 Sri Tanjong,Sri Tanjong,state
 2013-05-05,SE-12,Sabah,N.57 Sri Tanjong,Sri Tanjong,state
 2018-05-09,SE-13,Sabah,N.57 Sri Tanjong,Sri Tanjong,state
 2020-09-26,SE-14,Sabah,N.69 Sri Tanjong,Sri Tanjong,state
-1985-04-20,SE-05,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
-1986-05-04,SE-06,Sabah,N.44 Sri Tanjung,Sri Tanjung,state
 1967-04-08,SE-01,Sabah,N.25 Sugut,Sugut,state
 1971-10-01,SE-02,Sabah,N.25 Sugut,Sugut,state
 1976-05-01,SE-03,Sabah,N.10 Sugut,Sugut,state
@@ -7744,13 +7744,13 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-12,Sabah,N.52 Sulabayan,Sulabayan,state
 2018-05-09,SE-13,Sabah,N.52 Sulabayan,Sulabayan,state
 2020-09-26,SE-14,Sabah,N.64 Sulabayan,Sulabayan,state
-1990-07-16,SE-07,Sabah,N.11 Sulamam,Sulamam,state
 1967-04-08,SE-01,Sabah,N.07 Sulaman,Sulaman,state
 1971-10-01,SE-02,Sabah,N.07 Sulaman,Sulaman,state
 1976-05-01,SE-03,Sabah,N.13 Sulaman,Sulaman,state
 1981-03-23,SE-04,Sabah,N.13 Sulaman,Sulaman,state
 1985-04-20,SE-05,Sabah,N.11 Sulaman,Sulaman,state
 1986-05-04,SE-06,Sabah,N.11 Sulaman,Sulaman,state
+1990-07-16,SE-07,Sabah,N.11 Sulaman,Sulaman,state
 1994-02-18,SE-08,Sabah,N.11 Sulaman,Sulaman,state
 1999-03-12,SE-09,Sabah,N.10 Sulaman,Sulaman,state
 2004-03-21,SE-10,Sabah,N.10 Sulaman,Sulaman,state
@@ -7796,6 +7796,7 @@ date,election,state,seat,area_name,type
 2020-09-26,SE-14,Sabah,N.14 Tamparuli,Tamparuli,state
 1967-04-08,SE-01,Sabah,N.04 Tandek,Tandek,state
 1971-10-01,SE-02,Sabah,N.04 Tandek,Tandek,state
+1976-05-01,SE-03,Sabah,N.06 Tandek,Tandek,state
 1981-03-23,SE-04,Sabah,N.06 Tandek,Tandek,state
 1985-04-20,SE-05,Sabah,N.05 Tandek,Tandek,state
 1986-05-04,SE-06,Sabah,N.05 Tandek,Tandek,state
@@ -7807,7 +7808,6 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-12,Sabah,N.05 Tandek,Tandek,state
 2018-05-09,SE-13,Sabah,N.05 Tandek,Tandek,state
 2020-09-26,SE-14,Sabah,N.07 Tandek,Tandek,state
-1976-05-01,SE-03,Sabah,N.06 Tandok,Tandok,state
 1967-04-08,SE-01,Sabah,N.10 Tanjong Aru,Tanjong Aru,state
 1971-10-01,SE-02,Sabah,N.10 Tanjong Aru,Tanjong Aru,state
 1976-05-01,SE-03,Sabah,N.21 Tanjong Aru,Tanjong Aru,state
@@ -7827,6 +7827,7 @@ date,election,state,seat,area_name,type
 2020-09-26,SE-14,Sabah,N.04 Tanjong Kapor,Tanjong Kapor,state
 1985-04-20,SE-05,Sabah,N.19 Tanjong Papat,Tanjong Papat,state
 1986-05-04,SE-06,Sabah,N.19 Tanjong Papat,Tanjong Papat,state
+1990-07-16,SE-07,Sabah,N.19 Tanjong Papat,Tanjong Papat,state
 1994-02-18,SE-08,Sabah,N.19 Tanjong Papat,Tanjong Papat,state
 1999-03-12,SE-09,Sabah,N.37 Tanjong Papat,Tanjong Papat,state
 2004-03-21,SE-10,Sabah,N.46 Tanjong Papat,Tanjong Papat,state
@@ -7837,9 +7838,8 @@ date,election,state,seat,area_name,type
 2020-09-26,SE-14,Sabah,N.22 Tanjung Aru,Tanjung Aru,state
 2020-09-26,SE-14,Sabah,N.71 Tanjung Batu,Tanjung Batu,state
 2020-09-26,SE-14,Sabah,N.24 Tanjung Keramat,Tanjung Keramat,state
-1990-07-16,SE-07,Sabah,N.19 Tanjung Papat,Tanjung Papat,state
 2020-09-26,SE-14,Sabah,N.47 Telupid,Telupid,state
-1976-05-01,SE-03,Sabah,N.18 Tembunan,Tembunan,state
+1976-05-01,SE-03,Sabah,N.18 Tambunan,Tambunan,state
 1976-05-01,SE-03,Sabah,N.08 Tempasuk,Tempasuk,state
 1981-03-23,SE-04,Sabah,N.08 Tempasuk,Tempasuk,state
 1985-04-20,SE-05,Sabah,N.07 Tempasuk,Tempasuk,state

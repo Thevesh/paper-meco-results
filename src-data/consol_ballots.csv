@@ -17950,10 +17950,10 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1976-05-01,SE-03,Sabah,N.05 Langkon,1,Michael Madinal,7858,BERJAYA,31,1735,53.898726312519415,won
 1976-05-01,SE-03,Sabah,N.05 Langkon,2,Datuk Haji Idrus Matakim,7859,USNO,15,1268,39.39111525318422,lost
 1976-05-01,SE-03,Sabah,N.05 Langkon,3,Edmuns Gomboh,7860,PEKEMAS,27,216,6.710158434296365,lost_deposit
-1976-05-01,SE-03,Sabah,N.06 Tandok,1,Villson U. Malingka,7861,BERJAYA,31,1437,51.98986975397975,won
-1976-05-01,SE-03,Sabah,N.06 Tandok,2,Haji Omar Majun,7862,USNO,15,1103,39.90593342981187,lost
-1976-05-01,SE-03,Sabah,N.06 Tandok,3,Baudi Bin Unggut,7863,BEBAS,1,159,5.752532561505065,lost_deposit
-1976-05-01,SE-03,Sabah,N.06 Tandok,4,Albert Surubi Bin Adun,1876,PEKEMAS,27,65,2.351664254703328,lost_deposit
+1976-05-01,SE-03,Sabah,N.06 Tandek,1,Villson U. Malingka,7861,BERJAYA,31,1437,51.98986975397975,won
+1976-05-01,SE-03,Sabah,N.06 Tandek,2,Haji Omar Majun,7862,USNO,15,1103,39.90593342981187,lost
+1976-05-01,SE-03,Sabah,N.06 Tandek,3,Baudi Bin Unggut,7863,BEBAS,1,159,5.752532561505065,lost_deposit
+1976-05-01,SE-03,Sabah,N.06 Tandek,4,Albert Surubi Bin Adun,1876,PEKEMAS,27,65,2.351664254703328,lost_deposit
 1976-05-01,SE-03,Sabah,N.07 Usukan,1,Tan Sri Haji Mohammad Said Bin Keruak,1035,USNO,15,3451,67.7862895305441,won
 1976-05-01,SE-03,Sabah,N.07 Usukan,2,Mohd. Yakin Bin Abd. Mumin,1579,BERJAYA,31,961,18.876448634845808,lost
 1976-05-01,SE-03,Sabah,N.07 Usukan,3,Sharif Kuaris,7867,PEKEMAS,27,679,13.337261834610095,lost
@@ -17986,8 +17986,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1976-05-01,SE-03,Sabah,N.17 Ranau,1,Amin Bin Jahali,7894,USNO,15,1995,50.31525851197982,won
 1976-05-01,SE-03,Sabah,N.17 Ranau,2,Sepikit Bin Kabindong,7895,BERJAYA,31,1921,48.44892812105927,lost
 1976-05-01,SE-03,Sabah,N.17 Ranau,3,Mansai Bin Bimbilang,7896,BEBAS,1,49,1.235813366960908,lost_deposit
-1976-05-01,SE-03,Sabah,N.18 Tembunan,1,Joseph Pairin Kitingan,7897,BERJAYA,31,2310,65.86826347305389,won
-1976-05-01,SE-03,Sabah,N.18 Tembunan,2,Ambrose Angkangon,7898,USNO,15,1197,34.13173652694611,lost
+1976-05-01,SE-03,Sabah,N.18 Tambunan,1,Joseph Pairin Kitingan,7897,BERJAYA,31,2310,65.86826347305389,won
+1976-05-01,SE-03,Sabah,N.18 Tambunan,2,Ambrose Angkangon,7898,USNO,15,1197,34.13173652694611,lost
 1976-05-01,SE-03,Sabah,N.19 Likas,1,Wong Yau Ket,7899,BERJAYA,31,4119,75.0409910730552,won
 1976-05-01,SE-03,Sabah,N.19 Likas,2,Chau Tet On,7900,SCA,16,1273,23.191838221898344,lost
 1976-05-01,SE-03,Sabah,N.19 Likas,3,Kok Fung Chong,6037,PEKEMAS,27,97,1.7671707050464565,lost_deposit
@@ -18176,18 +18176,18 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1981-03-23,SE-04,Sabah,N.34 Labuan,1,Mohamed Bin Omar Bledram,1599,USNO,15,2841,40.836567485985334,lost
 1981-03-23,SE-04,Sabah,N.34 Labuan,2,Jamal Nordin,9040,BERJAYA,31,3824,54.96622107230128,won
 1981-03-23,SE-04,Sabah,N.34 Labuan,3,James Mathew Angggang,9041,BEBAS,1,292,4.197211441713383,lost_deposit
-1981-03-23,SE-04,Sabah,N.35 Kilas,1,Sylvester John @ Jintol Sidion,9042,BEBAS,1,350,7.122507122507122,lost_deposit
-1981-03-23,SE-04,Sabah,N.35 Kilas,2,Haji Taufek Bin Haji Asneh,7935,BERJAYA,31,2568,52.258852258852265,won
-1981-03-23,SE-04,Sabah,N.35 Kilas,3,Abdul Rahman Bin Tadin,9044,BEBAS,1,70,1.4245014245014245,lost_deposit
-1981-03-23,SE-04,Sabah,N.35 Kilas,4,Lajim Bin Md. Yusof,3561,BEBAS,1,156,3.1746031746031744,lost_deposit
-1981-03-23,SE-04,Sabah,N.35 Kilas,5,Binsin Bin Haji Aliasmat,9046,USNO,15,1770,36.01953601953602,lost
+1981-03-23,SE-04,Sabah,N.35 Klias,1,Sylvester John @ Jintol Sidion,9042,BEBAS,1,350,7.122507122507122,lost_deposit
+1981-03-23,SE-04,Sabah,N.35 Klias,2,Haji Taufek Bin Haji Asneh,7935,BERJAYA,31,2568,52.258852258852265,won
+1981-03-23,SE-04,Sabah,N.35 Klias,3,Abdul Rahman Bin Tadin,9044,BEBAS,1,70,1.4245014245014245,lost_deposit
+1981-03-23,SE-04,Sabah,N.35 Klias,4,Lajim Bin Md. Yusof,3561,BEBAS,1,156,3.1746031746031744,lost_deposit
+1981-03-23,SE-04,Sabah,N.35 Klias,5,Binsin Bin Haji Aliasmat,9046,USNO,15,1770,36.01953601953602,lost
 1981-03-23,SE-04,Sabah,N.36 Lumadan,1,Anah Binti Tuali,9047,PASOK,43,126,2.71786022433132,lost_deposit
 1981-03-23,SE-04,Sabah,N.36 Lumadan,2,Datuk Haji Mohd. Dun Bin Banir,7937,BERJAYA,31,2300,49.61173425366695,won
 1981-03-23,SE-04,Sabah,N.36 Lumadan,3,Mohd. Yassin Bin Buraw,9049,USNO,15,2123,45.793787748058676,lost
 1981-03-23,SE-04,Sabah,N.36 Lumadan,4,Ramleh Haji Salleh,9050,BEBAS,1,87,1.8766177739430543,lost_deposit
-1981-03-23,SE-04,Sabah,N.37 Blingkor,1,Ayub Bin Aman,7940,BERJAYA,31,3347,65.0408083948698,won
-1981-03-23,SE-04,Sabah,N.37 Blingkor,2,Sairin Karno,9052,USNO,15,1119,21.745044694908668,lost
-1981-03-23,SE-04,Sabah,N.37 Blingkor,3,Uling Anggan @ Thomas,1602,PASOK,43,680,13.21414691022153,lost
+1981-03-23,SE-04,Sabah,N.37 Bingkor,1,Ayub Bin Aman,7940,BERJAYA,31,3347,65.0408083948698,won
+1981-03-23,SE-04,Sabah,N.37 Bingkor,2,Sairin Karno,9052,USNO,15,1119,21.745044694908668,lost
+1981-03-23,SE-04,Sabah,N.37 Bingkor,3,Uling Anggan @ Thomas,1602,PASOK,43,680,13.21414691022153,lost
 1981-03-23,SE-04,Sabah,N.38 Sook,1,Tan Sri Suffian Koroh,9054,BERJAYA,31,3358,64.77623456790124,won
 1981-03-23,SE-04,Sabah,N.38 Sook,2,Liberty Lopog @ Alibi,9055,PASOK,43,1578,30.439814814814813,lost
 1981-03-23,SE-04,Sabah,N.38 Sook,3,Edmund Otigil,9056,BEBAS,1,176,3.3950617283950617,lost_deposit
@@ -18555,9 +18555,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1986-05-04,SE-06,Sabah,N.31 Petagas,2,Fung Chik Tong @ Thomas Fung,11260,SCA,16,1677,22.235481304693717,lost
 1986-05-04,SE-06,Sabah,N.31 Petagas,3,James Andrew Vitales,9030,PBS,48,4935,65.43357199681782,won
 1986-05-04,SE-06,Sabah,N.31 Petagas,4,Ho See Ming @ Peter Ho,11262,PCBS,44,64,0.8485812781755503,lost_deposit
-1986-05-04,SE-06,Sabah,N.32 Kwang,1,Irene Daphne Pritchard @ Ariah Ahmad,11263,PBS,48,3188,54.17162276975361,won
-1986-05-04,SE-06,Sabah,N.32 Kwang,2,Malitim B. Lajami @ Malitin Lajamo,11264,BERJAYA,31,282,4.791843670348343,lost_deposit
-1986-05-04,SE-06,Sabah,N.32 Kwang,3,Nerawi Bin Lampong,11265,USNO,15,2415,41.03653355989805,lost
+1986-05-04,SE-06,Sabah,N.32 Kawang,1,Irene Daphne Pritchard @ Ariah Ahmad,11263,PBS,48,3188,54.17162276975361,won
+1986-05-04,SE-06,Sabah,N.32 Kawang,2,Malitim B. Lajami @ Malitin Lajamo,11264,BERJAYA,31,282,4.791843670348343,lost_deposit
+1986-05-04,SE-06,Sabah,N.32 Kawang,3,Nerawi Bin Lampong,11265,USNO,15,2415,41.03653355989805,lost
 1986-05-04,SE-06,Sabah,N.33 Buang Sayang,1,Amat B. Awang Matnasir,11266,PBS,48,3711,47.36439055520102,lost
 1986-05-04,SE-06,Sabah,N.33 Buang Sayang,2,Hj. Mohammad Noor Bin Hj. Mansoor,11267,BERJAYA,31,4124,52.63560944479898,won
 1986-05-04,SE-06,Sabah,N.34 Bongawan,1,Abd. Karim Bin Abdul Ghani @ Karim Ghani,11268,USNO,15,2715,42.92490118577075,won
@@ -18666,13 +18666,13 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-07-16,SE-07,Sabah,N.10 Tamparuli,3,"Ongkili James Peter, Datuk",1586,PRS,59,748,11.36605379121714,lost_deposit
 1990-07-16,SE-07,Sabah,N.10 Tamparuli,4,Raji Bin Mandaili,12331,AKAR,60,144,2.1881173074000912,lost_deposit
 1990-07-16,SE-07,Sabah,N.10 Tamparuli,5,Jonny Tanggar,12332,BERJAYA,31,80,1.215620726333384,lost_deposit
-1990-07-16,SE-07,Sabah,N.11 Sulamam,1,Hajiji Bin Haji Noor,12333,USNO,15,3575,43.9135241370839,won
-1990-07-16,SE-07,Sabah,N.11 Sulamam,2,Yusof Bin Awang Ludin,12334,BEBAS,1,38,0.4667731236948778,lost_deposit
-1990-07-16,SE-07,Sabah,N.11 Sulamam,3,Aliasgar Bin Basri,12335,BERJAYA,31,538,6.6085247512590595,lost_deposit
-1990-07-16,SE-07,Sabah,N.11 Sulamam,4,Jahid Bin Jahim,12336,PBS,48,3294,40.46185972239283,lost
-1990-07-16,SE-07,Sabah,N.11 Sulamam,5,Shafie Bin Anterak,12337,PRS,59,120,1.4740203906154037,lost_deposit
-1990-07-16,SE-07,Sabah,N.11 Sulamam,6,Kalakau Bin Untol,12338,AKAR,60,565,6.940179339147525,lost_deposit
-1990-07-16,SE-07,Sabah,N.11 Sulamam,7,Hj. Laugau Tarki Bin Hj. Noor,12339,BEBAS,1,11,0.135118535806412,lost_deposit
+1990-07-16,SE-07,Sabah,N.11 Sulaman,1,Hajiji Bin Haji Noor,12333,USNO,15,3575,43.9135241370839,won
+1990-07-16,SE-07,Sabah,N.11 Sulaman,2,Yusof Bin Awang Ludin,12334,BEBAS,1,38,0.4667731236948778,lost_deposit
+1990-07-16,SE-07,Sabah,N.11 Sulaman,3,Aliasgar Bin Basri,12335,BERJAYA,31,538,6.6085247512590595,lost_deposit
+1990-07-16,SE-07,Sabah,N.11 Sulaman,4,Jahid Bin Jahim,12336,PBS,48,3294,40.46185972239283,lost
+1990-07-16,SE-07,Sabah,N.11 Sulaman,5,Shafie Bin Anterak,12337,PRS,59,120,1.4740203906154037,lost_deposit
+1990-07-16,SE-07,Sabah,N.11 Sulaman,6,Kalakau Bin Untol,12338,AKAR,60,565,6.940179339147525,lost_deposit
+1990-07-16,SE-07,Sabah,N.11 Sulaman,7,Hj. Laugau Tarki Bin Hj. Noor,12339,BEBAS,1,11,0.135118535806412,lost_deposit
 1990-07-16,SE-07,Sabah,N.12 Kiulu,1,Gaibin Bin Ronsoi,10131,USNO,15,893,16.23931623931624,lost
 1990-07-16,SE-07,Sabah,N.12 Kiulu,2,Lakuman Bin Gisug,12341,PRS,59,255,4.63720676486634,lost_deposit
 1990-07-16,SE-07,Sabah,N.12 Kiulu,3,Patrick Bin Godomon,12342,BERJAYA,31,552,10.038188761593018,lost_deposit
@@ -18707,10 +18707,10 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-07-16,SE-07,Sabah,N.18 Elopura,2,Tham Nyip Shen,10159,PBS,48,5543,61.78109674543023,won
 1990-07-16,SE-07,Sabah,N.18 Elopura,3,Yap Pak Leong,6077,BERJAYA,31,937,10.443602318323673,lost_deposit
 1990-07-16,SE-07,Sabah,N.18 Elopura,4,Ang Lian Hai,2199,DAP,18,908,10.12037449843959,lost_deposit
-1990-07-16,SE-07,Sabah,N.19 Tanjung Papat,1,Yak Pak Chau,12374,BERJAYA,31,469,5.662199686104068,lost_deposit
-1990-07-16,SE-07,Sabah,N.19 Tanjung Papat,2,Lau Ngan Siew,2542,LDP,58,1302,15.718942412169504,lost
-1990-07-16,SE-07,Sabah,N.19 Tanjung Papat,3,Fung Ket Wing,1308,DAP,18,1882,22.721236267052998,lost
-1990-07-16,SE-07,Sabah,N.19 Tanjung Papat,4,Tan Kit Sher,9012,PBS,48,4630,55.89762163467342,won
+1990-07-16,SE-07,Sabah,N.19 Tanjong Papat,1,Yak Pak Chau,12374,BERJAYA,31,469,5.662199686104068,lost_deposit
+1990-07-16,SE-07,Sabah,N.19 Tanjong Papat,2,Lau Ngan Siew,2542,LDP,58,1302,15.718942412169504,lost
+1990-07-16,SE-07,Sabah,N.19 Tanjong Papat,3,Fung Ket Wing,1308,DAP,18,1882,22.721236267052998,lost
+1990-07-16,SE-07,Sabah,N.19 Tanjong Papat,4,Tan Kit Sher,9012,PBS,48,4630,55.89762163467342,won
 1990-07-16,SE-07,Sabah,N.20 Karamunting,1,Ngui Kon Foh,12378,LDP,58,2165,26.53186274509804,lost
 1990-07-16,SE-07,Sabah,N.20 Karamunting,2,Phang Yau Wing,12379,DAP,18,692,8.480392156862745,lost_deposit
 1990-07-16,SE-07,Sabah,N.20 Karamunting,3,Lau Pui Keong,7917,PBS,48,4879,59.791666666666664,won
@@ -18835,14 +18835,14 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-07-16,SE-07,Sabah,N.43 Merotai,2,Ramlee Bin Rashida,12499,BERJAYA,31,1202,11.256789660985204,lost_deposit
 1990-07-16,SE-07,Sabah,N.43 Merotai,3,Mohd. Said Bin Senang,12500,USNO,15,5372,50.30904663794718,won
 1990-07-16,SE-07,Sabah,N.43 Merotai,4,S. Abas S. Ali,12501,PBS,48,3940,36.898295560966474,lost
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,1,Aziz Abdullah Wong,12502,USNO,15,2667,19.32888824467314,lost
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,2,Wong Sze Phin,12503,BEBAS,1,122,0.884186113929555,lost_deposit
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,3,Hue Min Kong,12504,LDP,58,1251,9.066531381359617,lost_deposit
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,4,Lim Yun Sang @ Micheal Lim,12505,PBS,48,7875,57.07348891143644,won
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,5,Dr. Chang Chan Lap,12506,BERJAYA,31,805,5.834178866502391,lost_deposit
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,6,Cheah Nget Min,12507,BEBAS,1,166,1.2030729091172634,lost_deposit
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,7,Henry John Patrick Lai Nam Yeung,12508,PRS,59,64,0.46383533845484853,lost_deposit
-1990-07-16,SE-07,Sabah,N.44 Sri Tanjong,8,Lee Show Fui,12509,DAP,18,848,6.145818234526743,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,1,Aziz Abdullah Wong,12502,USNO,15,2667,19.32888824467314,lost
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,2,Wong Sze Phin,12503,BEBAS,1,122,0.884186113929555,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,3,Hue Min Kong,12504,LDP,58,1251,9.066531381359617,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,4,Lim Yun Sang @ Micheal Lim,12505,PBS,48,7875,57.07348891143644,won
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,5,Dr. Chang Chan Lap,12506,BERJAYA,31,805,5.834178866502391,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,6,Cheah Nget Min,12507,BEBAS,1,166,1.2030729091172634,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,7,Henry John Patrick Lai Nam Yeung,12508,PRS,59,64,0.46383533845484853,lost_deposit
+1990-07-16,SE-07,Sabah,N.44 Sri Tanjung,8,Lee Show Fui,12509,DAP,18,848,6.145818234526743,lost_deposit
 1990-07-16,SE-07,Sabah,N.45 Lahad Datu,1,Askalani Bin Abdul Rahim,12510,USNO,15,5054,43.768944314540576,won
 1990-07-16,SE-07,Sabah,N.45 Lahad Datu,2,Pang Yee Yun,12511,LDP,58,187,1.6194682601541528,lost_deposit
 1990-07-16,SE-07,Sabah,N.45 Lahad Datu,3,Tutik Bin Garuda,12512,BEBAS,1,831,7.196674460898935,lost_deposit
@@ -18997,9 +18997,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1994-02-18,SE-08,Sabah,N.43 Merotai,2,Abdul Ghapur Hj. Salleh,13541,BN,25,9515,72.66132111492936,won
 1994-02-18,SE-08,Sabah,N.43 Merotai,3,Mohd Said Bin Senang @ Mohd Said Noor,11299,PBS,48,3362,25.673921344024436,lost
 1994-02-18,SE-08,Sabah,N.43 Merotai,4,Mohamad Bin Tingka,2549,PAS,3,164,1.2523864070255823,lost_deposit
-1994-02-18,SE-08,Sabah,N.44 Sri Tanjong,1,Armanus Bin Arshad,13544,PAS,3,197,1.19069205197945,lost_deposit
-1994-02-18,SE-08,Sabah,N.44 Sri Tanjong,2,Lim Yun Sang @ Michael Lim,12505,PBS,48,8637,52.203082502266554,won
-1994-02-18,SE-08,Sabah,N.44 Sri Tanjong,3,Yee Lung Fook Geoffrey,2222,BN,25,7711,46.606225445754,lost
+1994-02-18,SE-08,Sabah,N.44 Sri Tanjung,1,Armanus Bin Arshad,13544,PAS,3,197,1.19069205197945,lost_deposit
+1994-02-18,SE-08,Sabah,N.44 Sri Tanjung,2,Lim Yun Sang @ Michael Lim,12505,PBS,48,8637,52.203082502266554,won
+1994-02-18,SE-08,Sabah,N.44 Sri Tanjung,3,Yee Lung Fook Geoffrey,2222,BN,25,7711,46.606225445754,lost
 1994-02-18,SE-08,Sabah,N.45 Lahad Datu,1,Mohamad Yusof Bin Amat Jamlee,13547,BN,25,7820,51.53891781453899,won
 1994-02-18,SE-08,Sabah,N.45 Lahad Datu,2,Benjamin Bin Usman,13548,BERSEKUTU,49,295,1.9442430633361893,lost_deposit
 1994-02-18,SE-08,Sabah,N.45 Lahad Datu,3,Ismail Bin O.T. Ator,13549,BEBAS,1,382,2.5176300006590653,lost_deposit
@@ -21424,7 +21424,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1991-09-27,SE-06,Sarawak,N.40 Seduan,2,Junit Bin Yunus,11433,PNRS,61,410,3.459331758353021,lost_deposit
 1991-09-27,SE-06,Sarawak,N.40 Seduan,3,Ma Teck Kiong,11434,DAP,18,2765,23.329395882551466,lost
 1991-09-27,SE-06,Sarawak,N.41 Dalat,1,Peter Nari Dina,11435,PBDS,47,2104,21.2075395625441,lost
-1991-09-27,SE-06,Sarawak,N.41 Dalat,2,Edmund Dingun Ak Tandok,11436,BEBAS,1,98,0.9878036488257231,lost_deposit
+1991-09-27,SE-06,Sarawak,N.41 Dalat,2,Edmund Dingun Ak Tandek,11436,BEBAS,1,98,0.9878036488257231,lost_deposit
 1991-09-27,SE-06,Sarawak,N.41 Dalat,3,Datuk Effendi Norwawi,11437,BN,25,7719,77.80465678863018,won
 1991-09-27,SE-06,Sarawak,N.42 Balingian,1,Kadir @ Abdul Kadir B. Yahya,11438,BEBAS,1,418,5.635701766212755,lost_deposit
 1991-09-27,SE-06,Sarawak,N.42 Balingian,2,Abdul Ajis B. Abdul Majeed,10356,BN,25,5742,77.41674531481732,won
