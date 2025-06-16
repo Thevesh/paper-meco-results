@@ -38,8 +38,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1959-05-20,SE-01,Johor,N.14 Gunong Lambak,2,Woo See Tiam,5252,PERIKATAN,2,2525,49.12451361867704,lost
 1959-05-20,SE-01,Johor,N.15 Sri Lalang,1,Cheong Soo Kheng,5253,PERIKATAN,2,2595,52.53036437246964,won
 1959-05-20,SE-01,Johor,N.15 Sri Lalang,2,Mohd. Zain Bin Mohamed,5254,SF,8,2345,47.469635627530366,lost
-1959-05-20,SE-01,Johor,N.16 Bandar Sri Penggaram,1,Wook Bin Ibrahim,5255,NEG,9,1233,21.620199894792215,lost
-1959-05-20,SE-01,Johor,N.16 Bandar Sri Penggaram,2,Tan Peng Khoon,5256,PERIKATAN,2,4470,78.37980010520779,won
+1959-05-20,SE-01,Johor,N.16 Bandar Penggaram,1,Wook Bin Ibrahim,5255,NEG,9,1233,21.620199894792215,lost
+1959-05-20,SE-01,Johor,N.16 Bandar Penggaram,2,Tan Peng Khoon,5256,PERIKATAN,2,4470,78.37980010520779,won
 1959-05-20,SE-01,Johor,N.17 Pontian Kechil,1,Abdullah Bin Mohsin,5257,PERIKATAN,2,0,,won_uncontested
 1959-05-20,SE-01,Johor,N.18 Broleh,1,Abdul Wahid Bin Suleiman,5258,PERIKATAN,2,5384,55.94347464671654,won
 1959-05-20,SE-01,Johor,N.18 Broleh,2,Hj. Ahmad Bin H. Mohd. Paiman,5259,NEG,9,1998,20.76059850374065,lost
@@ -3942,10 +3942,10 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1959-05-20,SE-01,Melaka,N.04 Kota Utara,1,Karim Bakar,215,SF,8,348,31.985294117647058,lost
 1959-05-20,SE-01,Melaka,N.04 Kota Utara,2,Tan Cheng Swee,5480,PERIKATAN,2,145,13.32720588235294,lost
 1959-05-20,SE-01,Melaka,N.04 Kota Utara,3,Dossan Frank Christa,5481,MP,10,595,54.6875,won
-1959-05-20,SE-01,Melaka,N.05 Kota Timur,1,Lim Yeow Koon,5482,PERIKATAN,2,1394,44.40904746734629,won
-1959-05-20,SE-01,Melaka,N.05 Kota Timur,2,Too Yeng Jong,5483,SF,8,315,10.035043007327173,lost_deposit
-1959-05-20,SE-01,Melaka,N.05 Kota Timur,3,De Cruz John Leon,5484,MP,10,1370,43.64447276202612,lost
-1959-05-20,SE-01,Melaka,N.05 Kota Timur,4,Ah Jiok,5485,BEBAS,1,60,1.9114367633004141,lost_deposit
+1959-05-20,SE-01,Melaka,N.05 Kota Timor,1,Lim Yeow Koon,5482,PERIKATAN,2,1394,44.40904746734629,won
+1959-05-20,SE-01,Melaka,N.05 Kota Timor,2,Too Yeng Jong,5483,SF,8,315,10.035043007327173,lost_deposit
+1959-05-20,SE-01,Melaka,N.05 Kota Timor,3,De Cruz John Leon,5484,MP,10,1370,43.64447276202612,lost
+1959-05-20,SE-01,Melaka,N.05 Kota Timor,4,Ah Jiok,5485,BEBAS,1,60,1.9114367633004141,lost_deposit
 1959-05-20,SE-01,Melaka,N.06 Tanjong Kling,1,Abdul Ghafar Bin Baba,11,PERIKATAN,2,3247,86.5405117270789,won
 1959-05-20,SE-01,Melaka,N.06 Tanjong Kling,2,Mohd Nor Bin Noordin,5487,PAS,3,505,13.459488272921108,lost
 1959-05-20,SE-01,Melaka,N.07 Bukit Rambai,1,Hassan Bin Mansor,216,PERIKATAN,2,2295,78.16757493188011,won
@@ -9108,8 +9108,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1959-05-20,SE-01,Perlis,N.03 Mata Ayer,1,Shaikh Ali Ba Junid,5837,BEBAS,1,711,29.115479115479115,lost
 1959-05-20,SE-01,Perlis,N.03 Mata Ayer,2,Mahayuddin Bin Dato' Habib,5838,PERIKATAN,2,1509,61.79361179361179,won
 1959-05-20,SE-01,Perlis,N.03 Mata Ayer,3,Wan Khadzim Bin Wan Din,5839,SF,8,222,9.090909090909092,lost_deposit
-1959-05-20,SE-01,Perlis,N.04 Kangar Town,1,Por Swee Giap,5840,PERIKATAN,2,1156,81.23682361208714,won
-1959-05-20,SE-01,Perlis,N.04 Kangar Town,2,Matt Bin Haji Kassim,129,BEBAS,1,267,18.76317638791286,lost
+1959-05-20,SE-01,Perlis,N.04 Bandar Kangar,1,Por Swee Giap,5840,PERIKATAN,2,1156,81.23682361208714,won
+1959-05-20,SE-01,Perlis,N.04 Bandar Kangar,2,Matt Bin Haji Kassim,129,BEBAS,1,267,18.76317638791286,lost
 1959-05-20,SE-01,Perlis,N.05 Sena,1,Mat Bin Md. Isa,5842,PAS,3,816,33.036437246963565,lost
 1959-05-20,SE-01,Perlis,N.05 Sena,2,Wan Ahmad Bin Haji Wan Kassim,5843,PERIKATAN,2,1654,66.96356275303643,won
 1959-05-20,SE-01,Perlis,N.06 Bintong,1,Shafii Bin Omar,5844,PAS,3,1150,37.12072304712718,lost
@@ -9600,8 +9600,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1959-05-20,SE-01,Pulau Pinang,N.02 Bagan Ajam,4,D. B. Ali,5652,SF,8,197,3.5361694489319686,lost_deposit
 1959-05-20,SE-01,Pulau Pinang,N.03 Muda,1,Haji Ismail Bin Che Chik,5653,PERIKATAN,2,5320,77.20214772892177,won
 1959-05-20,SE-01,Pulau Pinang,N.03 Muda,2,Haji Yusof Rawa,579,PAS,3,1571,22.797852271078217,lost
-1959-05-20,SE-01,Pulau Pinang,N.04 Kapala Batas,1,Haji Ahmad Bin Haji Abdullah,5316,PERIKATAN,2,3969,71.66847237269772,won
-1959-05-20,SE-01,Pulau Pinang,N.04 Kapala Batas,2,Haji Ahmad Bin Abdullah,393,PAS,3,1569,28.33152762730228,lost
+1959-05-20,SE-01,Pulau Pinang,N.04 Kepala Batas,1,Haji Ahmad Bin Haji Abdullah,5316,PERIKATAN,2,3969,71.66847237269772,won
+1959-05-20,SE-01,Pulau Pinang,N.04 Kepala Batas,2,Haji Ahmad Bin Abdullah,393,PAS,3,1569,28.33152762730228,lost
 1959-05-20,SE-01,Pulau Pinang,N.05 Tasek Glugor,1,Hashim Bin Awang,5657,PERIKATAN,2,4326,82.92121909143185,won
 1959-05-20,SE-01,Pulau Pinang,N.05 Tasek Glugor,2,Oh Theam Poh,5658,BEBAS,1,891,17.07878090856814,lost
 1959-05-20,SE-01,Pulau Pinang,N.06 Permatang Pauh,1,Ariffin Bin Shariff,5659,PERIKATAN,2,4614,63.94124168514412,won
@@ -17390,9 +17390,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,2,Husin Bin Jusoh,5937,PAS,3,1528,53.84073291050036,won
 1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,3,Ibrahim Bin Ismail,5938,SF,8,702,24.735729386892178,lost
 1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,4,Mohd. Fauzi Bin Hussain,5939,NEG,9,173,6.095842142353771,lost_deposit
-1959-05-20,SE-01,Terengganu,N.04 Busut Tengah,1,Ismail Bin Yusof,5940,PERIKATAN,2,488,17.960986382039014,lost
-1959-05-20,SE-01,Terengganu,N.04 Busut Tengah,2,Haji Mohamed Bin Ismail,5941,PAS,3,1994,73.38976812661024,won
-1959-05-20,SE-01,Terengganu,N.04 Busut Tengah,3,Omar Bin Ahmad,5288,NEG,9,235,8.649245491350754,lost_deposit
+1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,1,Ismail Bin Yusof,5940,PERIKATAN,2,488,17.960986382039014,lost
+1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,2,Haji Mohamed Bin Ismail,5941,PAS,3,1994,73.38976812661024,won
+1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,3,Omar Bin Ahmad,5288,NEG,9,235,8.649245491350754,lost_deposit
 1959-05-20,SE-01,Terengganu,N.05 Setiu,1,Mohamad Yusoff Bin Hj. Md. Amin,5943,PERIKATAN,2,611,20.158363576377432,lost
 1959-05-20,SE-01,Terengganu,N.05 Setiu,2,Mohd. Daud Bin Abdul Samad,410,PAS,3,1964,64.79709666776643,won
 1959-05-20,SE-01,Terengganu,N.05 Setiu,3,Abdul Ghani Bin Sulong,5945,SF,8,376,12.405146816232266,lost_deposit

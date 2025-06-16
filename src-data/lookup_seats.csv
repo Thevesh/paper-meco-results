@@ -2761,7 +2761,7 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Johor,N.03 Bandar Segamat,Bandar Segamat,state
 1978-07-08,SE-05,Johor,N.03 Bandar Segamat,Bandar Segamat,state
 1982-04-22,SE-06,Johor,N.03 Bandar Segamat,Bandar Segamat,state
-1959-05-20,SE-01,Johor,N.16 Bandar Sri Penggaram,Bandar Sri Penggaram,state
+1959-05-20,SE-01,Johor,N.16 Bandar Penggaram,Bandar Penggaram,state
 1986-08-02,SE-07,Johor,N.26 Bandar Tenggara,Bandar Tenggara,state
 1990-10-20,SE-08,Johor,N.26 Bandar Tenggara,Bandar Tenggara,state
 1959-05-20,SE-01,Johor,N.30 Batu Anam,Batu Anam,state
@@ -4571,7 +4571,7 @@ date,election,state,seat,area_name,type
 1969-05-10,SE-03,Melaka,N.07 Kota Tengah,Kota Tengah,state
 1964-04-25,SE-02,Melaka,N.10 Kota Timor,Kota Timor,state
 1969-05-10,SE-03,Melaka,N.10 Kota Timor,Kota Timor,state
-1959-05-20,SE-01,Melaka,N.05 Kota Timur,Kota Timur,state
+1959-05-20,SE-01,Melaka,N.05 Kota Timor,Kota Timor,state
 1959-05-20,SE-01,Melaka,N.04 Kota Utara,Kota Utara,state
 1964-04-25,SE-02,Melaka,N.09 Kota Utara,Kota Utara,state
 1969-05-10,SE-03,Melaka,N.09 Kota Utara,Kota Utara,state
@@ -6542,7 +6542,7 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Perlis,N.01 Kaki Bukit,Kaki Bukit,state
 1964-04-25,SE-02,Perlis,N.01 Kaki Bukit,Kaki Bukit,state
 1969-05-10,SE-03,Perlis,N.01 Kaki Bukit,Kaki Bukit,state
-1959-05-20,SE-01,Perlis,N.04 Kangar Town,Kangar Town,state
+1959-05-20,SE-01,Perlis,N.04 Bandar Kangar,Bandar Kangar,state
 1959-05-20,SE-01,Perlis,N.10 Kayang,Kayang,state
 1964-04-25,SE-02,Perlis,N.10 Kayang,Kayang,state
 1969-05-10,SE-03,Perlis,N.10 Kayang,Kayang,state
@@ -6861,7 +6861,7 @@ date,election,state,seat,area_name,type
 1986-08-02,SE-07,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
 1990-10-20,SE-08,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
 1995-04-24,SE-09,Pulau Pinang,N.24 Kampong Kolam,Kampong Kolam,state
-1959-05-20,SE-01,Pulau Pinang,N.04 Kapala Batas,Kapala Batas,state
+1959-05-20,SE-01,Pulau Pinang,N.04 Kepala Batas,Kepala Batas,state
 1986-08-02,SE-07,Pulau Pinang,N.21 Kebun Bunga,Kebun Bunga,state
 1990-10-20,SE-08,Pulau Pinang,N.21 Kebun Bunga,Kebun Bunga,state
 1995-04-24,SE-09,Pulau Pinang,N.21 Kebun Bunga,Kebun Bunga,state
@@ -9379,7 +9379,7 @@ date,election,state,seat,area_name,type
 2018-05-09,SE-14,Terengganu,N.10 Buluh Gading,Buluh Gading,state
 2023-08-12,SE-15,Terengganu,N.10 Buluh Gading,Buluh Gading,state
 1964-04-25,SE-02,Terengganu,N.22 Bunjai,Bunjai,state
-1959-05-20,SE-01,Terengganu,N.04 Busut Tengah,Busut Tengah,state
+1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,Besut Tengah,state
 1959-05-20,SE-01,Terengganu,N.23 Chukai,Chukai,state
 1964-04-25,SE-02,Terengganu,N.19 Chukai,Chukai,state
 1969-05-10,SE-03,Terengganu,N.19 Chukai,Chukai,state
