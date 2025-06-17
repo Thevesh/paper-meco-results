@@ -6871,9 +6871,9 @@ date,election,state,seat,area_name,type
 2013-05-05,SE-13,Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,state
 2018-05-09,SE-14,Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,state
 2023-08-12,SE-15,Pulau Pinang,N.24 Kebun Bunga,Kebun Bunga,state
-1959-05-20,SE-01,Pulau Pinang,N.18 Kelawei,Kelawei,state
-1964-04-25,SE-02,Pulau Pinang,N.08 Kelawei,Kelawei,state
-1969-05-10,SE-03,Pulau Pinang,N.08 Kelawei,Kelawei,state
+1959-05-20,SE-01,Pulau Pinang,N.18 Kelawai,Kelawai,state
+1964-04-25,SE-02,Pulau Pinang,N.08 Kelawai,Kelawai,state
+1969-05-10,SE-03,Pulau Pinang,N.08 Kelawai,Kelawai,state
 1964-04-25,SE-02,Pulau Pinang,N.23 Kepala Batas,Kepala Batas,state
 1969-05-10,SE-03,Pulau Pinang,N.23 Kepala Batas,Kepala Batas,state
 2004-03-21,SE-11,Pulau Pinang,N.28 Komtar,Komtar,state
@@ -7887,12 +7887,12 @@ date,election,state,seat,area_name,type
 2011-04-16,SE-10,Sarawak,N.14 Asajaya,Asajaya,state
 2016-05-07,SE-11,Sarawak,N.15 Asajaya,Asajaya,state
 2021-12-18,SE-12,Sarawak,N.15 Asajaya,Asajaya,state
-1996-09-07,SE-07,Sarawak,N.62 Ba`kelalan,Ba`kelalan,state
-2001-09-27,SE-08,Sarawak,N.62 Ba`kelalan,Ba`kelalan,state
-2006-05-20,SE-09,Sarawak,N.70 Ba`kelalan,Ba`kelalan,state
-2011-04-16,SE-10,Sarawak,N.70 Ba`kelalan,Ba`kelalan,state
-2016-05-07,SE-11,Sarawak,N.81 Ba`kelalan,Ba`kelalan,state
-2021-12-18,SE-12,Sarawak,N.81 Ba`kelalan,Ba`kelalan,state
+1996-09-07,SE-07,Sarawak,N.62 Ba'kelalan,Ba'kelalan,state
+2001-09-27,SE-08,Sarawak,N.62 Ba'kelalan,Ba'kelalan,state
+2006-05-20,SE-09,Sarawak,N.70 Ba'kelalan,Ba'kelalan,state
+2011-04-16,SE-10,Sarawak,N.70 Ba'kelalan,Ba'kelalan,state
+2016-05-07,SE-11,Sarawak,N.81 Ba'kelalan,Ba'kelalan,state
+2021-12-18,SE-12,Sarawak,N.81 Ba'kelalan,Ba'kelalan,state
 2006-05-20,SE-09,Sarawak,N.25 Balai Ringin,Balai Ringin,state
 2011-04-16,SE-10,Sarawak,N.25 Balai Ringin,Balai Ringin,state
 2016-05-07,SE-11,Sarawak,N.30 Balai Ringin,Balai Ringin,state
@@ -8111,8 +8111,11 @@ date,election,state,seat,area_name,type
 2016-05-07,SE-11,Sarawak,N.60 Kakus,Kakus,state
 2021-12-18,SE-12,Sarawak,N.60 Kakus,Kakus,state
 1969-05-10,SE-01,Sarawak,N.21 Kalaka,Kalaka,state
+1974-08-24,SE-02,Sarawak,N.21 Kalaka,Kalaka,state
 1979-09-15,SE-03,Sarawak,N.21 Kalaka,Kalaka,state
+1983-12-28,SE-04,Sarawak,N.21 Kalaka,Kalaka,state
 1987-04-15,SE-05,Sarawak,N.21 Kalaka,Kalaka,state
+1991-09-27,SE-06,Sarawak,N.26 Kalaka,Kalaka,state
 1996-09-07,SE-07,Sarawak,N.28 Kalaka,Kalaka,state
 2001-09-27,SE-08,Sarawak,N.28 Kalaka,Kalaka,state
 2006-05-20,SE-09,Sarawak,N.33 Kalaka,Kalaka,state
@@ -8135,10 +8138,7 @@ date,election,state,seat,area_name,type
 2011-04-16,SE-10,Sarawak,N.19 Kedup,Kedup,state
 2016-05-07,SE-11,Sarawak,N.22 Kedup,Kedup,state
 2021-12-18,SE-12,Sarawak,N.22 Kedup,Kedup,state
-1974-08-24,SE-02,Sarawak,N.21 Kelaka,Kelaka,state
-1983-12-28,SE-04,Sarawak,N.21 Kelaka,Kelaka,state
-1991-09-27,SE-06,Sarawak,N.26 Kelaka,Kelaka,state
-1969-05-10,SE-01,Sarawak,N.42 Kemana,Kemana,state
+1969-05-10,SE-01,Sarawak,N.42 Kemena,Kemena,state
 1974-08-24,SE-02,Sarawak,N.42 Kemena,Kemena,state
 1979-09-15,SE-03,Sarawak,N.42 Kemena,Kemena,state
 1983-12-28,SE-04,Sarawak,N.42 Kemena,Kemena,state
@@ -8171,13 +8171,13 @@ date,election,state,seat,area_name,type
 2011-04-16,SE-10,Sarawak,N.34 Krian,Krian,state
 2016-05-07,SE-11,Sarawak,N.39 Krian,Krian,state
 2021-12-18,SE-12,Sarawak,N.39 Krian,Krian,state
+1969-05-10,SE-01,Sarawak,N.23 Kuala Rajang,Kuala Rajang,state
 1974-08-24,SE-02,Sarawak,N.23 Kuala Rajang,Kuala Rajang,state
 1979-09-15,SE-03,Sarawak,N.23 Kuala Rajang,Kuala Rajang,state
 1983-12-28,SE-04,Sarawak,N.23 Kuala Rajang,Kuala Rajang,state
 1987-04-15,SE-05,Sarawak,N.23 Kuala Rajang,Kuala Rajang,state
 2016-05-07,SE-11,Sarawak,N.41 Kuala Rajang,Kuala Rajang,state
 2021-12-18,SE-12,Sarawak,N.41 Kuala Rajang,Kuala Rajang,state
-1969-05-10,SE-01,Sarawak,N.23 Kuala-Rajang,Kuala-Rajang,state
 1969-05-10,SE-01,Sarawak,N.03 Kuching Barat,Kuching Barat,state
 1974-08-24,SE-02,Sarawak,N.03 Kuching Barat,Kuching Barat,state
 1969-05-10,SE-01,Sarawak,N.04 Kuching Timor,Kuching Timor,state
@@ -8225,7 +8225,7 @@ date,election,state,seat,area_name,type
 2016-05-07,SE-11,Sarawak,N.28 Lingga,Lingga,state
 2021-12-18,SE-12,Sarawak,N.28 Lingga,Lingga,state
 1969-05-10,SE-01,Sarawak,N.15 Lingga-Sebuyau,Lingga-Sebuyau,state
-1974-08-24,SE-02,Sarawak,N.15 Lingga-Sebuyu,Lingga-Sebuyu,state
+1974-08-24,SE-02,Sarawak,N.15 Lingga-Sebuyau,Lingga-Sebuyau,state
 1969-05-10,SE-01,Sarawak,N.01 Lundu,Lundu,state
 1974-08-24,SE-02,Sarawak,N.01 Lundu,Lundu,state
 1979-09-15,SE-03,Sarawak,N.01 Lundu,Lundu,state
@@ -8260,14 +8260,14 @@ date,election,state,seat,area_name,type
 2011-04-16,SE-10,Sarawak,N.66 Marudi,Marudi,state
 2016-05-07,SE-11,Sarawak,N.76 Marudi,Marudi,state
 2021-12-18,SE-12,Sarawak,N.76 Marudi,Marudi,state
-1991-09-27,SE-06,Sarawak,N.30 Matu Daro,Matu Daro,state
-1996-09-07,SE-07,Sarawak,N.32 Matu Daro,Matu Daro,state
-2001-09-27,SE-08,Sarawak,N.32 Matu Daro,Matu Daro,state
-1979-09-15,SE-03,Sarawak,N.24 Matu-Daro,Matu-Daro,state
-1983-12-28,SE-04,Sarawak,N.24 Matu-Daro,Matu-Daro,state
 1969-05-10,SE-01,Sarawak,N.25 Matu-Daro,Matu-Daro,state
 1974-08-24,SE-02,Sarawak,N.25 Matu-Daro,Matu-Daro,state
+1979-09-15,SE-03,Sarawak,N.24 Matu-Daro,Matu-Daro,state
+1983-12-28,SE-04,Sarawak,N.24 Matu-Daro,Matu-Daro,state
 1987-04-15,SE-05,Sarawak,N.24 Matu-Daro,Matu-Daro,state
+1991-09-27,SE-06,Sarawak,N.30 Matu-Daro,Matu Daro,state
+1996-09-07,SE-07,Sarawak,N.32 Matu Daro,Matu Daro,state
+2001-09-27,SE-08,Sarawak,N.32 Matu Daro,Matu Daro,state
 1969-05-10,SE-01,Sarawak,N.34 Meluan,Meluan,state
 1974-08-24,SE-02,Sarawak,N.34 Meluan,Meluan,state
 1979-09-15,SE-03,Sarawak,N.34 Meluan,Meluan,state
@@ -8481,7 +8481,6 @@ date,election,state,seat,area_name,type
 1983-12-28,SE-04,Sarawak,N.13 Semera,Semera,state
 1987-04-15,SE-05,Sarawak,N.13 Semera,Semera,state
 1991-09-27,SE-06,Sarawak,N.16 Semera,Semera,state
-1974-08-24,SE-02,Sarawak,N.16 Seminggang,Seminggang,state
 2006-05-20,SE-09,Sarawak,N.36 Semop,Semop,state
 2011-04-16,SE-10,Sarawak,N.36 Semop,Semop,state
 2016-05-07,SE-11,Sarawak,N.42 Semop,Semop,state
@@ -8502,6 +8501,7 @@ date,election,state,seat,area_name,type
 1969-05-10,SE-01,Sarawak,N.27 Sibu Tengah,Sibu Tengah,state
 1974-08-24,SE-02,Sarawak,N.27 Sibu Tengah,Sibu Tengah,state
 1969-05-10,SE-01,Sarawak,N.16 Simanggang,Simanggang,state
+1974-08-24,SE-02,Sarawak,N.16 Simanggang,Simanggang,state
 1991-09-27,SE-06,Sarawak,N.21 Simanggang,Simanggang,state
 1996-09-07,SE-07,Sarawak,N.23 Simanggang,Simanggang,state
 2001-09-27,SE-08,Sarawak,N.23 Simanggang,Simanggang,state
@@ -8540,14 +8540,14 @@ date,election,state,seat,area_name,type
 2021-12-18,SE-12,Sarawak,N.59 Tamin,Tamin,state
 2016-05-07,SE-11,Sarawak,N.68 Tanjong Batu,Tanjong Batu,state
 2021-12-18,SE-12,Sarawak,N.68 Tanjong Batu,Tanjong Batu,state
+1991-09-27,SE-06,Sarawak,N.01 Tanjong Datu,Tanjong Datu,state
 1996-09-07,SE-07,Sarawak,N.01 Tanjong Datu,Tanjong Datu,state
 2001-09-27,SE-08,Sarawak,N.01 Tanjong Datu,Tanjong Datu,state
+2006-05-20,SE-09,Sarawak,N.03 Tanjong Datu,Tanjong Datu,state
+2011-04-16,SE-10,Sarawak,N.03 Tanjong Datu,Tanjong Datu,state
 2016-05-07,SE-11,Sarawak,N.03 Tanjong Datu,Tanjong Datu,state
 2017-02-18,BY-ELECTION,Sarawak,N.03 Tanjong Datu,Tanjong Datu,state
 2021-12-18,SE-12,Sarawak,N.03 Tanjong Datu,Tanjong Datu,state
-1991-09-27,SE-06,Sarawak,N.01 Tanjung Datu,Tanjung Datu,state
-2006-05-20,SE-09,Sarawak,N.03 Tanjung Datu,Tanjung Datu,state
-2011-04-16,SE-10,Sarawak,N.03 Tanjung Datu,Tanjung Datu,state
 1969-05-10,SE-01,Sarawak,N.11 Tarat,Tarat,state
 1974-08-24,SE-02,Sarawak,N.11 Tarat,Tarat,state
 1979-09-15,SE-03,Sarawak,N.11 Tarat,Tarat,state

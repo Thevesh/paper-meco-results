@@ -1,8 +1,8 @@
 state,dun,ballot_order,name,candidate_uid,party,party_uid,votes
-Sarawak,N.01 Tanjung Datu,1,Datuk Ramsay Noel Jitam,11318,BN,25,5088
-Sarawak,N.01 Tanjung Datu,2,Aton Ak Kajit,11319,PNRS,61,133
-Sarawak,N.01 Tanjung Datu,3,Ahmed B. Abg. Ali,11320,BEBAS,1,268
-Sarawak,N.01 Tanjung Datu,4,Sidi Munan,6102,PBDS,47,4294
+Sarawak,N.01 Tanjong Datu,1,Datuk Ramsay Noel Jitam,11318,BN,25,5088
+Sarawak,N.01 Tanjong Datu,2,Aton Ak Kajit,11319,PNRS,61,133
+Sarawak,N.01 Tanjong Datu,3,Ahmed B. Abg. Ali,11320,BEBAS,1,268
+Sarawak,N.01 Tanjong Datu,4,Sidi Munan,6102,PBDS,47,4294
 Sarawak,N.02 Tasik Biru,1,Abdul Karim Hj. Ayub,11322,BEBAS,1,673
 Sarawak,N.02 Tasik Biru,2,Aloysius Dom Nagok,1329,PNRS,61,215
 Sarawak,N.02 Tasik Biru,3,Dr. Patau Rubis,3240,BN,25,7759
@@ -74,9 +74,9 @@ Sarawak,N.23 Batang Ai,2,Mikai Ak Mandau,10325,BN,25,2475
 Sarawak,N.24 Saribas,1,Wahbi Bin Junaidi,11390,BN,25,0
 Sarawak,N.25 Layar,1,Datuk Amar Alfred Jabu Ak Numpang,1633,BN,25,4847
 Sarawak,N.25 Layar,2,Frank Apau,11392,PBDS,47,2361
-Sarawak,N.26 Kelaka,1,Haji Senawi,11393,PNRS,61,163
-Sarawak,N.26 Kelaka,2,Abdul Wahab Bin Aziz,10332,BN,25,8067
-Sarawak,N.26 Kelaka,3,Mohd. Nasar Bin Badron @ Mohd. Nasir Bin Badron,11395,PERMAS,55,1389
+Sarawak,N.26 Kalaka,1,Haji Senawi,11393,PNRS,61,163
+Sarawak,N.26 Kalaka,2,Abdul Wahab Bin Aziz,10332,BN,25,8067
+Sarawak,N.26 Kalaka,3,Mohd. Nasar Bin Badron @ Mohd. Nasir Bin Badron,11395,PERMAS,55,1389
 Sarawak,N.27 Krian,1,Datuk Edmund Langgu Ak Saga,11396,PBDS,47,2866
 Sarawak,N.27 Krian,2,Jonathan Mawar Endek,11397,PNRS,61,159
 Sarawak,N.27 Krian,3,Peter Nyarok Ak Entrie,10335,BN,25,3898
@@ -87,10 +87,10 @@ Sarawak,N.29 Serdeng,2,Awg. Hj. Ahmad,11402,PERMAS,55,1569
 Sarawak,N.29 Serdeng,3,Abu Seman Mat,11403,BEBAS,1,690
 Sarawak,N.29 Serdeng,4,Ali Hassan Jajol,2251,PNRS,61,37
 Sarawak,N.29 Serdeng,5,Yusof B. Basri,11405,DAP,18,58
-Sarawak,N.30 Matu Daro,1,Yusuf Abdul Rahman,2899,PERMAS,55,1077
-Sarawak,N.30 Matu Daro,2,Cikgu Isnawi Bin Sirat,11407,PNRS,61,85
-Sarawak,N.30 Matu Daro,3,Wahab Haji Dolah,11408,BN,25,4572
-Sarawak,N.30 Matu Daro,4,Bujang B. Bakar,9110,DAP,18,437
+Sarawak,N.30 Matu-Daro,1,Yusuf Abdul Rahman,2899,PERMAS,55,1077
+Sarawak,N.30 Matu-Daro,2,Cikgu Isnawi Bin Sirat,11407,PNRS,61,85
+Sarawak,N.30 Matu-Daro,3,Wahab Haji Dolah,11408,BN,25,4572
+Sarawak,N.30 Matu-Daro,4,Bujang B. Bakar,9110,DAP,18,437
 Sarawak,N.31 Meradong,1,Sim Lai Ann,11410,PBDS,47,3463
 Sarawak,N.31 Meradong,2,Wailem B. Mohd. Sidek Kumung,11411,PNRS,61,211
 Sarawak,N.31 Meradong,3,Thomas Hii King Hiong,11412,BN,25,5368
