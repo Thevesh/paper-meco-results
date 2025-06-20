@@ -14,6 +14,9 @@ states = get_states(my=1)
 def compile_ballots():
     """Compile ballot data from various election sources."""
     df = pd.DataFrame()
+    raw = pd.read_csv('src-data/raw_ballots.csv')
+    raw.date = pd.to_datetime(raw.date).dt.date.astype(str)
+
     for s in states + ["PRK"]:
         if "W.P." in s:
             continue
@@ -24,24 +27,12 @@ def compile_ballots():
         name = "GE" if s == "Malaysia" else "BY-ELECTION" if s == "PRK" else "SE"
 
         for e in range(blim, ulim):
-            filename = (
-                f"ge{e:02d}_ballots.csv"
-                if election_type == "federal"
-                else (
-                    "prk_ballots.csv"
-                    if election_type == "prk"
-                    else f"{s.lower().replace(' ','')}_se{e:02d}_ballots.csv"
-                )
-            )
-            tf = pd.read_csv(f"src-data/{election_type}/{filename}").rename(
-                columns={"parlimen": "seat", "dun": "seat"}
-            )
-
-            col_ori = [x for x in tf.columns if x not in ["date", "election"]]
-            tf["election"] = f"{name}-{e:02d}" if election_type != "prk" else name
+            election_name = f"{name}-{e:02d}" if election_type != "prk" else name
+            tf = raw[raw.election == election_name].copy()
+            if election_type == 'state':
+                tf = tf[tf.state == s].reset_index(drop=True)
             if election_type != "prk":
                 tf["date"] = DATES[s][str(e)]
-            tf = tf[["date", "election"] + col_ori]
 
             # Generate total valid votes for each seat
             # Then derive percentage of votes for each candidate
@@ -77,6 +68,7 @@ def compile_ballots():
     assert len(df.drop_duplicates(subset=["date", "election", "state", "seat"])) == len(
         df[df.result.str.contains("won")]
     ), "Number of winners and contests does not match!"
+    df.date = pd.to_datetime(df.date).dt.date
     write_csv_parquet("src-data/consol_ballots", df=df)
     types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
     for k, v in types.items():
@@ -86,6 +78,9 @@ def compile_ballots():
 def compile_summary():
     """Compile summary data from various election sources."""
     df = pd.DataFrame()
+    raw = pd.read_csv('src-data/raw_stats.csv')
+    raw.date = pd.to_datetime(raw.date).dt.date.astype(str)
+
     for s in states + ["PRK"]:
         if "W.P." in s:
             continue
@@ -96,24 +91,12 @@ def compile_summary():
         name = "GE" if s == "Malaysia" else "BY-ELECTION" if s == "PRK" else "SE"
 
         for e in range(blim, ulim):
-            filename = (
-                f"ge{e:02d}_summary.csv"
-                if election_type == "federal"
-                else (
-                    "prk_summary.csv"
-                    if election_type == "prk"
-                    else f"{s.lower().replace(' ','')}_se{e:02d}_summary.csv"
-                )
-            )
-            tf = pd.read_csv(f"src-data/{election_type}/{filename}").rename(
-                columns={"parlimen": "seat", "dun": "seat"}
-            )
-
-            col_ori = [x for x in tf.columns if x not in ["date", "election"]]
-            tf["election"] = f"{name}-{e:02d}" if election_type != "prk" else name
+            election_name = f"{name}-{e:02d}" if election_type != "prk" else name
+            tf = raw[raw.election == election_name].copy()
+            if election_type == 'state':
+                tf = tf[tf.state == s].reset_index(drop=True)
             if election_type != "prk":
                 tf["date"] = DATES[s][str(e)]
-            tf = tf[["date", "election"] + col_ori]
 
             df = (
                 tf.copy()
@@ -157,6 +140,7 @@ def compile_summary():
     )
     df["ballots_not_returned_perc"] = df.ballots_not_returned / df.ballots_issued * 100
 
+    df.date = pd.to_datetime(df.date).dt.date
     write_csv_parquet("src-data/consol_summary", df=df)
     types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
     for k, v in types.items():
@@ -196,3 +180,4 @@ if __name__ == "__main__":
     compile_summary()
     print("\nValidating:")
     validate()
+    print('')
