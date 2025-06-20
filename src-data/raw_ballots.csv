@@ -1635,7 +1635,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1978-07-08,GE-05,Sabah,P.119 Tuaran,1,Datuk James Ongkili,1301,BN,25,8166
 1978-07-08,GE-05,Sabah,P.119 Tuaran,2,M.A. Rahman,1037,PUSAKA,36,3591
 1978-07-08,GE-05,Sabah,P.120 Kinabalu,1,Mark Koding,1302,BEBAS,1,7649
-1978-07-08,GE-05,Sabah,P.120 Kinabalu,1,Datuk Haji Abd. Ghani Gilong,1038,BN,25,4396
+1978-07-08,GE-05,Sabah,P.120 Kinabalu,2,Datuk Haji Abd. Ghani Gilong,1038,BN,25,4396
 1978-07-08,GE-05,Sabah,P.121 Gaya,1,William Lye,1303,BN,25,11218
 1978-07-08,GE-05,Sabah,P.121 Gaya,2,Chin Nyuk Fatt,1304,BEBAS,1,7902
 1978-07-08,GE-05,Sabah,P.121 Gaya,3,Musa Bin Datuk Haji Taulani,1305,SEDAR,37,624
@@ -2983,7 +2983,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1995-04-24,GE-09,Kelantan,P.019 Tumpat,2,Kamarudin Bin Jaffar,2314,BN,25,15764
 1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,1,Mohd Amar Bin Abdullah,2315,PAS,3,20410
 1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,2,Ismail Bin Mat,1388,BN,25,9316
-1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,2,Yusof Bin Mat,2316,AKIM,63,221
+1995-04-24,GE-09,Kelantan,P.020 Pengkalan Chepa,3,Yusof Bin Mat,2316,AKIM,63,221
 1995-04-24,GE-09,Kelantan,P.021 Kota Bharu,1,Ilani Binti Isahak,2317,S46,56,24096
 1995-04-24,GE-09,Kelantan,P.021 Kota Bharu,2,Ahmad Rastom Bin Haji Ahmad Maher,2318,BN,25,17828
 1995-04-24,GE-09,Kelantan,P.022 Pasir Mas,1,Zainuddin Bin Mohamad Nor,2319,S46,56,19394
@@ -3150,7 +3150,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1995-04-24,GE-09,Selangor,P.095 PJ Selatan,3,Lim Siang Chai,2428,BN,25,26646
 1995-04-24,GE-09,Selangor,P.096 Serdang,1,Yap Pian Hon,2429,BN,25,32757
 1995-04-24,GE-09,Selangor,P.096 Serdang,2,Lee Ban Chen,2170,DAP,18,23320
-1995-04-24,GE-09,Selangor,P.096 Serdang,2,Mohd. Radzi Bin Hj. Hussein,1685,PAS,3,2983
+1995-04-24,GE-09,Selangor,P.096 Serdang,3,Mohd. Radzi Bin Hj. Hussein,1685,PAS,3,2983
 1995-04-24,GE-09,Selangor,P.097 Subang,1,Dato' M. Mahalingam A/L Muthukrishnan,2430,BN,25,37247
 1995-04-24,GE-09,Selangor,P.097 Subang,2,Usulludin Bin Jamil,2431,S46,56,11484
 1995-04-24,GE-09,Selangor,P.098 Shah Alam,1,Hussein Bin Ahmad,401,S46,56,10251
@@ -11759,7 +11759,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1959-05-20,SE-01,Negeri Sembilan,N.01 Kuala Klawang,2,Omar Bin Ahmad,5288,PAS,3,1191
 1959-05-20,SE-01,Negeri Sembilan,N.02 Pertang,1,Aminuddin Bin Abdul Manaf,5577,BEBAS,1,1305
 1959-05-20,SE-01,Negeri Sembilan,N.02 Pertang,2,Ibrahim Bin Haji Mansor,5578,PERIKATAN,2,1060
-1959-05-20,SE-01,Negeri Sembilan,N.02 Pertang,2,Ahmad Bin Haji Yaacob,5579,PAS,3,288
+1959-05-20,SE-01,Negeri Sembilan,N.02 Pertang,3,Ahmad Bin Haji Yaacob,5579,PAS,3,288
 1959-05-20,SE-01,Negeri Sembilan,N.03 Bahau,1,Thong Hiang Kim,5580,PERIKATAN,2,1529
 1959-05-20,SE-01,Negeri Sembilan,N.03 Bahau,2,Chai Yau Foh,5581,SF,8,1282
 1959-05-20,SE-01,Negeri Sembilan,N.03 Bahau,3,Harun Bin Yusof,416,PAS,3,247
@@ -16637,7 +16637,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1964-04-25,SE-02,Pulau Pinang,N.12 Jelutong,3,Tan Hock Hin,6749,SF,8,4999
 1964-04-25,SE-02,Pulau Pinang,N.13 Glugor,1,Chan Chee Voon,6750,PDB,13,658
 1964-04-25,SE-02,Pulau Pinang,N.13 Glugor,2,Tan Phock Kin,256,SF,8,3345
-1964-04-25,SE-02,Pulau Pinang,N.13 Glugor,2,Aziz Ibrahim,5709,PERIKATAN,2,4487
+1964-04-25,SE-02,Pulau Pinang,N.13 Glugor,3,Aziz Ibrahim,5709,PERIKATAN,2,4487
 1964-04-25,SE-02,Pulau Pinang,N.14 Balik Pulau,1,Mohamed Dalal Bin Haji Suboh,6753,PDB,13,416
 1964-04-25,SE-02,Pulau Pinang,N.14 Balik Pulau,2,Abubakar Hashim,6754,SF,8,2353
 1964-04-25,SE-02,Pulau Pinang,N.14 Balik Pulau,3,Haji Ahmad Md. Taib,6755,PERIKATAN,2,3149
@@ -24428,13 +24428,13 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,4,Wan Derahim Bin Wan Mohd.,7024,PAS,3,1073
 1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,1,Nik Ismail,7025,PAS,3,1512
 1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,2,Che' Ismail Bin Abdul Rahman,7026,PN,12,185
-1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,2,Dato' Ibrahim Fikri,7027,PERIKATAN,2,2835
+1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,3,Dato' Ibrahim Fikri,7027,PERIKATAN,2,2835
 1964-04-25,SE-02,Terengganu,N.08 Jeram,1,Che' Hashim Bin Yusof,7028,PN,12,279
 1964-04-25,SE-02,Terengganu,N.08 Jeram,2,Abdul Rashid Bin Muhammad,7029,PERIKATAN,2,2715
-1964-04-25,SE-02,Terengganu,N.08 Jeram,2,Mohd. Nor Bin Ali,7030,PAS,3,1287
+1964-04-25,SE-02,Terengganu,N.08 Jeram,3,Mohd. Nor Bin Ali,7030,PAS,3,1287
 1964-04-25,SE-02,Terengganu,N.09 Langkap,1,Abdul Rashid Bin Hussin,5959,PN,12,393
 1964-04-25,SE-02,Terengganu,N.09 Langkap,2,Abdul Rahman Bin Long,5957,PERIKATAN,2,2200
-1964-04-25,SE-02,Terengganu,N.09 Langkap,2,Ismail Bin Abbas,5958,PAS,3,1629
+1964-04-25,SE-02,Terengganu,N.09 Langkap,3,Ismail Bin Abbas,5958,PAS,3,1629
 1964-04-25,SE-02,Terengganu,N.10 Bandar,1,Tan Eng Ann,5972,PERIKATAN,2,2703
 1964-04-25,SE-02,Terengganu,N.10 Bandar,2,Abd. Rahman Bin Mohamed Salleh,5392,PAS,3,1290
 1964-04-25,SE-02,Terengganu,N.11 Ladang,1,Wan Daud Bin Haji Wan Ahmad,5976,PERIKATAN,2,2096
@@ -25369,6 +25369,11 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2023-08-12,SE-15,Terengganu,N.31 Cukai,2,Haji Hanafiah Mat,9715,PAS,3,18394
 2023-08-12,SE-15,Terengganu,N.32 Air Putih,1,Mohd Hafiz,4582,PAS,3,21664
 2023-08-12,SE-15,Terengganu,N.32 Air Putih,2,Dr. Mohd Zaki Bin Salleh,2350,BN,25,11336
+1988-03-05,BY-ELECTION,Johor,N.31 Tanjong Puteri,1,Datuk Haji Mohd Yunos Haji Sulaiman,5820,BN,25,10181
+1988-03-05,BY-ELECTION,Johor,N.31 Tanjong Puteri,2,Abdul Razak,1089,PRM,57,10150
+1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,1,Shahrir Abdul Samad,1367,BEBAS,1,23581
+1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,2,Mas'ud Abdul Rahman,19356,BN,25,10968
+1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,3,A. Razak Ahmad,1089,PRM,57,2260
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,1,Haji Pi,23678,AKIM,63,92
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,2,Anwar Ibrahim,1426,PKR,11,31195
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,3,Datuk Arif Shah Bin Omar Shah,16672,BN,25,15524
