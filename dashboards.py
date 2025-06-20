@@ -16,6 +16,7 @@ PATH = "src-data/dashboards"
 nm = pd.read_csv("src-data/lookup_candidates.csv").drop_duplicates(
     subset=["candidate_uid"], keep="last"
 )
+nm.name = nm.name.fillna(nm.name_dirty)
 MAP_NAME = dict(zip(nm.candidate_uid, nm.name))
 
 
