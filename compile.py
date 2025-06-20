@@ -68,7 +68,6 @@ def compile_ballots():
     assert len(df.drop_duplicates(subset=["date", "election", "state", "seat"])) == len(
         df[df.result.str.contains("won")]
     ), "Number of winners and contests does not match!"
-    df.date = pd.to_datetime(df.date).dt.date
     write_csv_parquet("src-data/consol_ballots", df=df)
     types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
     for k, v in types.items():
@@ -140,7 +139,6 @@ def compile_summary():
     )
     df["ballots_not_returned_perc"] = df.ballots_not_returned / df.ballots_issued * 100
 
-    df.date = pd.to_datetime(df.date).dt.date
     write_csv_parquet("src-data/consol_summary", df=df)
     types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
     for k, v in types.items():

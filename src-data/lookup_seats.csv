@@ -46,6 +46,7 @@ date,election,state,seat,area_name,type
 1978-07-08,GE-05,Johor,P.114 Johor Bahru,Johor Bahru,federal
 1982-04-22,GE-06,Johor,P.114 Johor Bahru,Johor Bahru,federal
 1986-08-02,GE-07,Johor,P.130 Johor Bahru,Johor Bahru,federal
+1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,Johor Bahru,federal
 1990-10-20,GE-08,Johor,P.130 Johor Bahru,Johor Bahru,federal
 1995-04-24,GE-09,Johor,P.141 Johor Bahru,Johor Bahru,federal
 1999-11-29,GE-10,Johor,P.141 Johor Bahru,Johor Bahru,federal
@@ -3312,6 +3313,7 @@ date,election,state,seat,area_name,type
 1978-07-08,SE-05,Johor,N.32 Tanjong Petri,Tanjong Petri,state
 1982-04-22,SE-06,Johor,N.32 Tanjong Petri,Tanjong Petri,state
 1986-08-02,SE-07,Johor,N.31 Tanjong Puteri,Tanjong Puteri,state
+1988-03-05,BY-ELECTION,Johor,N.31 Tanjong Puteri,Tanjong Puteri,state
 1990-10-20,SE-08,Johor,N.31 Tanjong Puteri,Tanjong Puteri,state
 1995-04-24,SE-09,Johor,N.33 Tanjong Puteri,Tanjong Puteri,state
 1999-11-29,SE-10,Johor,N.33 Tanjong Puteri,Tanjong Puteri,state
