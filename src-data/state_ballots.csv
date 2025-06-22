@@ -14849,8 +14849,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2006-05-20,SE-09,Sarawak,N.05 Demak Laut,2,Saidan @ Massudin Bin Sahini,16318,PKR,11,1489,22.61886677806471,lost
 2006-05-20,SE-09,Sarawak,N.06 Tupong,1,Daud Bin Abdul Rahman,16664,BN,25,6885,74.85322896281801,won
 2006-05-20,SE-09,Sarawak,N.06 Tupong,2,Ramlee Bin Mahtar,16665,PKR,11,2313,25.146771037182,lost
-2006-05-20,SE-09,Sarawak,N.07 Semariang,1,Wan Zainal Abidin Bin Wan Senusi,16247,PKR,11,2877,34.906576073768505,lost
-2006-05-20,SE-09,Sarawak,N.07 Semariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,5365,65.0934239262315,won
+2006-05-20,SE-09,Sarawak,N.07 Samariang,1,Wan Zainal Abidin Bin Wan Senusi,16247,PKR,11,2877,34.906576073768505,lost
+2006-05-20,SE-09,Sarawak,N.07 Samariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,5365,65.0934239262315,won
 2006-05-20,SE-09,Sarawak,N.08 Satok,1,Mohamad Bin Jolhi,3940,PKR,11,1424,25.221395678356355,lost
 2006-05-20,SE-09,Sarawak,N.08 Satok,2,Dato Sri Abg Abd Rahman Zohari Bin Abg Openg,16114,BN,25,4222,74.77860432164364,won
 2006-05-20,SE-09,Sarawak,N.09 Padungan,1,Ng Kim Ho,16327,PKR,11,8002,54.857064509494755,won
@@ -14987,8 +14987,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,1,Abdul Rahman Bin Ismail,10271,BN,25,5501,70.48046124279308,won
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,2,Said Bin Mohidin,16653,BEBAS,1,2272,29.10954516335682,lost
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,3,Ali Bin Abdullah,19338,BEBAS,1,32,0.4099935938500961,lost_deposit
-2006-05-20,SE-09,Sarawak,N.69 Bukit Danau,1,Christopher Sawan Anak Jiram,16749,SNAP,19,1699,36.459227467811154,lost
-2006-05-20,SE-09,Sarawak,N.69 Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,2961,63.54077253218884,won
+2006-05-20,SE-09,Sarawak,N.69 Batu Danau,1,Christopher Sawan Anak Jiram,16749,SNAP,19,1699,36.459227467811154,lost
+2006-05-20,SE-09,Sarawak,N.69 Batu Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,2961,63.54077253218884,won
 2006-05-20,SE-09,Sarawak,N.70 Ba'kelalan,1,Baru Bian,4340,SNAP,19,1589,43.4984943881741,lost
 2006-05-20,SE-09,Sarawak,N.70 Ba'kelalan,2,Balang Rining,16751,BN,25,2064,56.5015056118259,won
 2006-05-20,SE-09,Sarawak,N.71 Bukit Sari,1,Tengah Bin Ali Hassin,16312,BN,25,5596,93.03408146300914,won
@@ -15011,8 +15011,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2011-04-16,SE-10,Sarawak,N.05 Demak Laut,2,Ali Hossen Bin Abang,16763,PKR,11,1770,24.273176083379045,lost
 2011-04-16,SE-10,Sarawak,N.06 Tupong,1,Baharuddin @ Din Shah Bin Mokhsen,16764,PKR,11,3753,31.127146056232895,lost
 2011-04-16,SE-10,Sarawak,N.06 Tupong,2,Daud Bin Abdul Rahman,16664,BN,25,8304,68.87285394376711,won
-2011-04-16,SE-10,Sarawak,N.07 Semariang,1,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,8008,75.65422768068021,won
-2011-04-16,SE-10,Sarawak,N.07 Semariang,2,Zulrusdi Bin Mohamad Hol,3163,PKR,11,2577,24.345772319319792,lost
+2011-04-16,SE-10,Sarawak,N.07 Samariang,1,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,8008,75.65422768068021,won
+2011-04-16,SE-10,Sarawak,N.07 Samariang,2,Zulrusdi Bin Mohamad Hol,3163,PKR,11,2577,24.345772319319792,lost
 2011-04-16,SE-10,Sarawak,N.08 Satok,1,Ahmad Nazib Bin Johari,4301,PKR,11,1891,28.729869340625953,lost
 2011-04-16,SE-10,Sarawak,N.08 Satok,2,Abg Abd Rahman Zohari Bin Abg Openg,16114,BN,25,4691,71.27013065937405,won
 2011-04-16,SE-10,Sarawak,N.09 Padungan,1,Sim Kiang Chiok,16766,BN,25,4073,24.731313376647034,lost
@@ -15200,9 +15200,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,2,Abdul Rahman Bin Ismail,10271,BN,25,6835,73.02350427350427,won
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,3,Ladis Bin Pandin,16881,BEBAS,1,353,3.7713675213675213,lost_deposit
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,4,Leong Kwang Yew,16882,DAP,18,1774,18.95299145299145,lost
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,1,Lau Liak Koi,3979,PKR,11,1348,26.14936954413191,lost
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,3667,71.13482056256062,won
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,3,Lawrence Cosmas Sunang Anak Simpang,16883,SNAP,19,140,2.7158098933074686,lost_deposit
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,1,Lau Liak Koi,3979,PKR,11,1348,26.14936954413191,lost
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,3667,71.13482056256062,won
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,3,Lawrence Cosmas Sunang Anak Simpang,16883,SNAP,19,140,2.7158098933074686,lost_deposit
 2011-04-16,SE-10,Sarawak,N.70 Ba'kelalan,1,Willie Liau,16884,BN,25,2032,44.787304386158254,lost
 2011-04-16,SE-10,Sarawak,N.70 Ba'kelalan,2,Baru Bian,4340,PKR,11,2505,55.212695613841746,won
 2011-04-16,SE-10,Sarawak,N.71 Bukit Sari,1,Tengah B. Ali Hassin,16312,BN,25,6018,86.30431664993546,won

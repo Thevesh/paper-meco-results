@@ -21785,8 +21785,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2006-05-20,SE-09,Sarawak,N.05 Demak Laut,2,Saidan @ Massudin Bin Sahini,16318,PKR,11,1489
 2006-05-20,SE-09,Sarawak,N.06 Tupong,1,Daud Bin Abdul Rahman,16664,BN,25,6885
 2006-05-20,SE-09,Sarawak,N.06 Tupong,2,Ramlee Bin Mahtar,16665,PKR,11,2313
-2006-05-20,SE-09,Sarawak,N.07 Semariang,1,Wan Zainal Abidin Bin Wan Senusi,16247,PKR,11,2877
-2006-05-20,SE-09,Sarawak,N.07 Semariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,5365
+2006-05-20,SE-09,Sarawak,N.07 Samariang,1,Wan Zainal Abidin Bin Wan Senusi,16247,PKR,11,2877
+2006-05-20,SE-09,Sarawak,N.07 Samariang,2,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,5365
 2006-05-20,SE-09,Sarawak,N.08 Satok,1,Mohamad Bin Jolhi,3940,PKR,11,1424
 2006-05-20,SE-09,Sarawak,N.08 Satok,2,Dato Sri Abg Abd Rahman Zohari Bin Abg Openg,16114,BN,25,4222
 2006-05-20,SE-09,Sarawak,N.09 Padungan,1,Ng Kim Ho,16327,PKR,11,8002
@@ -21923,8 +21923,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,1,Abdul Rahman Bin Ismail,10271,BN,25,5501
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,2,Said Bin Mohidin,16653,BEBAS,1,2272
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,3,Ali Bin Abdullah,19338,BEBAS,1,32
-2006-05-20,SE-09,Sarawak,N.69 Bukit Danau,1,Christopher Sawan Anak Jiram,16749,SNAP,19,1699
-2006-05-20,SE-09,Sarawak,N.69 Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,2961
+2006-05-20,SE-09,Sarawak,N.69 Batu Danau,1,Christopher Sawan Anak Jiram,16749,SNAP,19,1699
+2006-05-20,SE-09,Sarawak,N.69 Batu Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,2961
 2006-05-20,SE-09,Sarawak,N.70 Ba'kelalan,1,Baru Bian,4340,SNAP,19,1589
 2006-05-20,SE-09,Sarawak,N.70 Ba'kelalan,2,Balang Rining,16751,BN,25,2064
 2006-05-20,SE-09,Sarawak,N.71 Bukit Sari,1,Tengah Bin Ali Hassin,16312,BN,25,5596
@@ -21947,8 +21947,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2011-04-16,SE-10,Sarawak,N.05 Demak Laut,2,Ali Hossen Bin Abang,16763,PKR,11,1770
 2011-04-16,SE-10,Sarawak,N.06 Tupong,1,Baharuddin @ Din Shah Bin Mokhsen,16764,PKR,11,3753
 2011-04-16,SE-10,Sarawak,N.06 Tupong,2,Daud Bin Abdul Rahman,16664,BN,25,8304
-2011-04-16,SE-10,Sarawak,N.07 Semariang,1,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,8008
-2011-04-16,SE-10,Sarawak,N.07 Semariang,2,Zulrusdi Bin Mohamad Hol,3163,PKR,11,2577
+2011-04-16,SE-10,Sarawak,N.07 Samariang,1,Sharifah Hasidah Bt Sayeed Aman Ghazali,16666,BN,25,8008
+2011-04-16,SE-10,Sarawak,N.07 Samariang,2,Zulrusdi Bin Mohamad Hol,3163,PKR,11,2577
 2011-04-16,SE-10,Sarawak,N.08 Satok,1,Ahmad Nazib Bin Johari,4301,PKR,11,1891
 2011-04-16,SE-10,Sarawak,N.08 Satok,2,Abg Abd Rahman Zohari Bin Abg Openg,16114,BN,25,4691
 2011-04-16,SE-10,Sarawak,N.09 Padungan,1,Sim Kiang Chiok,16766,BN,25,4073
@@ -22136,9 +22136,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,2,Abdul Rahman Bin Ismail,10271,BN,25,6835
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,3,Ladis Bin Pandin,16881,BEBAS,1,353
 2011-04-16,SE-10,Sarawak,N.68 Bukit Kota,4,Leong Kwang Yew,16882,DAP,18,1774
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,1,Lau Liak Koi,3979,PKR,11,1348
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,3667
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,3,Lawrence Cosmas Sunang Anak Simpang,16883,SNAP,19,140
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,1,Lau Liak Koi,3979,PKR,11,1348
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,2,Palu @ Paulus Palu Anak Gumbang,16750,BN,25,3667
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,3,Lawrence Cosmas Sunang Anak Simpang,16883,SNAP,19,140
 2011-04-16,SE-10,Sarawak,N.70 Ba'kelalan,1,Willie Liau,16884,BN,25,2032
 2011-04-16,SE-10,Sarawak,N.70 Ba'kelalan,2,Baru Bian,4340,PKR,11,2505
 2011-04-16,SE-10,Sarawak,N.71 Bukit Sari,1,Tengah B. Ali Hassin,16312,BN,25,6018

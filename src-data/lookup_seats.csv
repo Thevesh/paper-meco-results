@@ -7935,6 +7935,8 @@ date,election,state,seat,area_name,type
 2016-05-07,SE-11,Sarawak,N.34 Batang Ai,Batang Ai,state
 2021-12-18,SE-12,Sarawak,N.34 Batang Ai,Batang Ai,state
 2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,Batang Ai,state
+2006-05-20,SE-09,Sarawak,N.69 Batu Danau,Batu Danau,state
+2011-04-16,SE-10,Sarawak,N.69 Batu Danau,Batu Danau,state
 2016-05-07,SE-11,Sarawak,N.80 Batu Danau,Batu Danau,state
 2021-12-18,SE-12,Sarawak,N.80 Batu Danau,Batu Danau,state
 1969-05-10,SE-01,Sarawak,N.09 Batu Kawah,Batu Kawah,state
@@ -8021,8 +8023,6 @@ date,election,state,seat,area_name,type
 2011-04-16,SE-10,Sarawak,N.26 Bukit Begunan,Bukit Begunan,state
 2016-05-07,SE-11,Sarawak,N.31 Bukit Begunan,Bukit Begunan,state
 2021-12-18,SE-12,Sarawak,N.31 Bukit Begunan,Bukit Begunan,state
-2006-05-20,SE-09,Sarawak,N.69 Bukit Danau,Bukit Danau,state
-2011-04-16,SE-10,Sarawak,N.69 Bukit Danau,Bukit Danau,state
 2016-05-07,SE-11,Sarawak,N.63 Bukit Goram,Bukit Goram,state
 2021-12-18,SE-12,Sarawak,N.63 Bukit Goram,Bukit Goram,state
 2006-05-20,SE-09,Sarawak,N.68 Bukit Kota,Bukit Kota,state
@@ -8430,6 +8430,8 @@ date,election,state,seat,area_name,type
 2021-12-18,SE-12,Sarawak,N.70 Samalaju,Samalaju,state
 1996-09-07,SE-07,Sarawak,N.07 Samariang,Samariang,state
 2001-09-27,SE-08,Sarawak,N.07 Samariang,Samariang,state
+2006-05-20,SE-09,Sarawak,N.07 Samariang,Samariang,state
+2011-04-16,SE-10,Sarawak,N.07 Samariang,Samariang,state
 2016-05-07,SE-11,Sarawak,N.07 Samariang,Samariang,state
 2021-12-18,SE-12,Sarawak,N.07 Samariang,Samariang,state
 1969-05-10,SE-01,Sarawak,N.19 Saribas,Saribas,state
@@ -8475,8 +8477,6 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-02,Sarawak,N.06 Sekama,Sekama,state
 1969-05-10,SE-01,Sarawak,N.05 Semariang,Semariang,state
 1974-08-24,SE-02,Sarawak,N.05 Semariang,Semariang,state
-2006-05-20,SE-09,Sarawak,N.07 Semariang,Semariang,state
-2011-04-16,SE-10,Sarawak,N.07 Semariang,Semariang,state
 1969-05-10,SE-01,Sarawak,N.13 Semera,Semera,state
 1974-08-24,SE-02,Sarawak,N.13 Semera,Semera,state
 1979-09-15,SE-03,Sarawak,N.13 Semera,Semera,state
