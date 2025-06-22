@@ -4257,7 +4257,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Kelantan,N.07 Panchor,23716,20187,80,209
 2013-05-05,SE-13,Kelantan,N.08 Tanjong Mas,27514,22512,61,198
 2013-05-05,SE-13,Kelantan,N.09 Kota Lama,28248,22399,52,275
-2013-05-05,SE-13,Kelantan,N.10 Bunut Payung,25506,21366,75,189
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,25506,21366,75,189
 2013-05-05,SE-13,Kelantan,N.11 Tendong,21281,18148,65,267
 2013-05-05,SE-13,Kelantan,N.12 Pengkalan Pasir,27327,22454,95,278
 2013-05-05,SE-13,Kelantan,N.13 Chetok,23357,19566,91,304
@@ -6150,7 +6150,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-11,Perak,N.10 Alor Pongsu,15567,11238,13,417
 2004-03-21,SE-11,Perak,N.11 Gunong Semanggol,16045,12021,35,220
 2004-03-21,SE-11,Perak,N.12 Selinsing,16133,11820,12,221
-2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,18351,13312,24,443
+2004-03-21,SE-11,Perak,N.13 Kuala Sapetang,18351,13312,24,443
 2004-03-21,SE-11,Perak,N.14 Changkat Jering,24143,17497,8,321
 2004-03-21,SE-11,Perak,N.15 Trong,11386,7833,25,152
 2004-03-21,SE-11,Perak,N.16 Kamunting,20382,14770,419,295
@@ -6209,7 +6209,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Perak,N.10 Alor Pongsu,15144,11481,15,391
 2008-03-08,SE-12,Perak,N.11 Gunong Semanggol,15763,12440,307,285
 2008-03-08,SE-12,Perak,N.12 Selinsing,16204,12314,262,301
-2008-03-08,SE-12,Perak,N.13 Kuala Sepetang,19699,14496,30,460
+2008-03-08,SE-12,Perak,N.13 Kuala Sapetang,19699,14496,30,460
 2008-03-08,SE-12,Perak,N.14 Changkat Jering,24864,18114,60,334
 2008-03-08,SE-12,Perak,N.15 Trong,10908,7690,9,173
 2008-03-08,SE-12,Perak,N.16 Kamunting,21675,16179,426,358
@@ -6233,7 +6233,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Perak,N.34 Bukit Chandan,14211,10518,334,178
 2008-03-08,SE-12,Perak,N.35 Manong,14114,10256,63,160
 2008-03-08,SE-12,Perak,N.36 Pengkalan Baharu,15262,11108,38,334
-2008-03-08,SE-12,Perak,N.37 Pasir Remis,28011,19712,58,354
+2008-03-08,SE-12,Perak,N.37 Pantai Remis,28011,19712,58,354
 2008-03-08,SE-12,Perak,N.38 Belanja,14470,11154,66,206
 2008-03-08,SE-12,Perak,N.39 Bota,14389,11338,37,257
 2008-03-08,SE-12,Perak,N.40 Malim Nawar,23276,14647,43,364
@@ -6268,7 +6268,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Perak,N.10 Alor Pongsu,17666,14841,21,339
 2013-05-05,SE-13,Perak,N.11 Gunong Semanggol,18287,15624,26,224
 2013-05-05,SE-13,Perak,N.12 Selinsing,18839,15919,18,280
-2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,25119,21673,31,420
+2013-05-05,SE-13,Perak,N.13 Kuala Sapetang,25119,21673,31,420
 2013-05-05,SE-13,Perak,N.14 Changkat Jering,33095,28264,79,281
 2013-05-05,SE-13,Perak,N.15 Trong,13043,11081,16,163
 2013-05-05,SE-13,Perak,N.16 Kamunting,27348,22999,106,212
@@ -8962,14 +8962,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-11,Selangor,N.35 Kampung Tunku,30877,20616,0,270
 2004-03-21,SE-11,Selangor,N.36 Damansara Utama,45058,31830,23,374
 2004-03-21,SE-11,Selangor,N.37 Bukit Lanjan,20104,14907,12,314
-2004-03-21,SE-11,Selangor,N.38 Paya Jaraa,24616,18352,23,241
+2004-03-21,SE-11,Selangor,N.38 Paya Jaras,24616,18352,23,241
 2004-03-21,SE-11,Selangor,N.39 Kota Damansara,24019,18697,538,406
 2004-03-21,SE-11,Selangor,N.40 Kota Anggerik,34198,26032,207,320
 2004-03-21,SE-11,Selangor,N.41 Batu Tiga,34972,26305,7,353
 2004-03-21,SE-11,Selangor,N.42 Meru,26737,19904,4,299
 2004-03-21,SE-11,Selangor,N.43 Sementa,25803,18694,0,387
 2004-03-21,SE-11,Selangor,N.44 Sungai Pinang,24514,17744,2,387
-2004-03-21,SE-11,Selangor,N.45 Selat Kelang,27131,19447,3,343
+2004-03-21,SE-11,Selangor,N.45 Selat Klang,27131,19447,3,343
 2004-03-21,SE-11,Selangor,N.46 Pelabuhan Klang,25871,17955,4,564
 2004-03-21,SE-11,Selangor,N.47 Pandamaran,25123,18147,6,364
 2004-03-21,SE-11,Selangor,N.48 Kota Alam Shah,23068,16173,50,248
@@ -9018,14 +9018,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,30183,21537,14,234
 2008-03-08,SE-12,Selangor,N.36 Damansara Utama,46435,33757,26,324
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,25550,19420,26,299
-2008-03-08,SE-12,Selangor,N.38 Paya Jaraa,29163,22883,54,429
+2008-03-08,SE-12,Selangor,N.38 Paya Jaras,29163,22883,54,429
 2008-03-08,SE-12,Selangor,N.39 Kota Damansara,29701,23566,346,603
 2008-03-08,SE-12,Selangor,N.40 Kota Anggerik,38442,29830,171,383
 2008-03-08,SE-12,Selangor,N.41 Batu Tiga,36892,28526,39,346
 2008-03-08,SE-12,Selangor,N.42 Meru,29745,24515,37,339
 2008-03-08,SE-12,Selangor,N.43 Sementa,0,0,0,0
 2008-03-08,SE-12,Selangor,N.44 Sungai Pinang,24189,18695,16,328
-2008-03-08,SE-12,Selangor,N.45 Selat Kelang,28908,21787,38,334
+2008-03-08,SE-12,Selangor,N.45 Selat Klang,28908,21787,38,334
 2008-03-08,SE-12,Selangor,N.46 Pelabuhan Klang,28456,21475,23,485
 2008-03-08,SE-12,Selangor,N.47 Pandamaran,25192,20034,19,319
 2008-03-08,SE-12,Selangor,N.48 Kota Alam Shah,24168,18471,46,211

@@ -3896,9 +3896,9 @@ date,election,state,seat,area_name,type
 1999-11-29,SE-10,Kelantan,N.09 Bunut Payong,Bunut Payong,state
 2004-03-21,SE-11,Kelantan,N.10 Bunut Payong,Bunut Payong,state
 2008-03-08,SE-12,Kelantan,N.10 Bunut Payong,Bunut Payong,state
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,Bunut Payong,state
 2018-05-09,SE-14,Kelantan,N.10 Bunut Payong,Bunut Payong,state
 2023-08-12,SE-15,Kelantan,N.10 Bunut Payong,Bunut Payong,state
-2013-05-05,SE-13,Kelantan,N.10 Bunut Payung,Bunut Payung,state
 1995-04-24,SE-09,Kelantan,N.05 Chempaka,Chempaka,state
 1999-11-29,SE-10,Kelantan,N.05 Chempaka,Chempaka,state
 2004-03-21,SE-11,Kelantan,N.06 Chempaka,Chempaka,state
@@ -6085,9 +6085,9 @@ date,election,state,seat,area_name,type
 1982-04-22,SE-06,Perak,N.24 Kuala Pari,Kuala Pari,state
 1995-04-24,SE-09,Perak,N.10 Kuala Sapetang,Kuala Sapetang,state
 1999-11-29,SE-10,Perak,N.10 Kuala Sapetang,Kuala Sepatang,state
-2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
-2008-03-08,SE-12,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
-2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
+2004-03-21,SE-11,Perak,N.13 Kuala Sapetang,Kuala Sepetang,state
+2008-03-08,SE-12,Perak,N.13 Kuala Sapetang,Kuala Sepetang,state
+2013-05-05,SE-13,Perak,N.13 Kuala Sapetang,Kuala Sepetang,state
 2018-05-09,SE-14,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
 2022-11-19,SE-15,Perak,N.13 Kuala Sepetang,Kuala Sepetang,state
 2004-03-21,SE-11,Perak,N.06 Kubu Gajah,Kubu Gajah,state
@@ -6201,6 +6201,7 @@ date,election,state,seat,area_name,type
 1995-04-24,SE-09,Perak,N.32 Pantai Remis,Pantai Remis,state
 1999-11-29,SE-10,Perak,N.32 Pantai Remis,Pantai Remis,state
 2004-03-21,SE-11,Perak,N.37 Pantai Remis,Pantai Remis,state
+2008-03-08,SE-12,Perak,N.37 Pantai Remis,Pantai Remis,state
 2013-05-05,SE-13,Perak,N.37 Pantai Remis,Pantai Remis,state
 2018-05-09,SE-14,Perak,N.37 Pantai Remis,Pantai Remis,state
 2022-11-19,SE-15,Perak,N.37 Pantai Remis,Pantai Remis,state
@@ -6242,7 +6243,6 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Perak,N.23 Pasir Puteh,Pasir Puteh,state
 1978-07-08,SE-05,Perak,N.23 Pasir Puteh,Pasir Puteh,state
 1982-04-22,SE-06,Perak,N.23 Pasir Puteh,Pasir Puteh,state
-2008-03-08,SE-12,Perak,N.37 Pasir Remis,Pasir Remis,state
 1959-05-20,SE-01,Perak,N.32 Pekan Bharu,Pekan Bharu,state
 1964-04-25,SE-02,Perak,N.24 Pekan Bharu,Pekan Bharu,state
 1969-05-10,SE-03,Perak,N.24 Pekan Bharu,Pekan Bharu,state
@@ -8957,12 +8957,12 @@ date,election,state,seat,area_name,type
 1959-05-20,SE-01,Selangor,N.03 Pantai,Pantai,state
 1964-04-25,SE-02,Selangor,N.13 Pantai,Pantai,state
 1969-05-10,SE-03,Selangor,N.13 Pantai,Pantai,state
-2004-03-21,SE-11,Selangor,N.38 Paya Jaraa,Paya Jaraa,state
-2008-03-08,SE-12,Selangor,N.38 Paya Jaraa,Paya Jaraa,state
 1986-08-02,SE-07,Selangor,N.18 Paya Jaras,Paya Jaras,state
 1990-10-20,SE-08,Selangor,N.18 Paya Jaras,Paya Jaras,state
 1995-04-24,SE-09,Selangor,N.15 Paya Jaras,Paya Jaras,state
 1999-11-29,SE-10,Selangor,N.15 Paya Jaras,Paya Jaras,state
+2004-03-21,SE-11,Selangor,N.38 Paya Jaras,Paya Jaras,state
+2008-03-08,SE-12,Selangor,N.38 Paya Jaras,Paya Jaras,state
 2013-05-05,SE-13,Selangor,N.38 Paya Jaras,Paya Jaras,state
 2018-05-09,SE-14,Selangor,N.38 Paya Jaras,Paya Jaras,state
 2023-08-12,SE-15,Selangor,N.38 Paya Jaras,Paya Jaras,state
@@ -9041,12 +9041,12 @@ date,election,state,seat,area_name,type
 1974-08-24,SE-04,Selangor,N.21 Selat Kelang,Selat Kelang,state
 1978-07-08,SE-05,Selangor,N.21 Selat Kelang,Selat Kelang,state
 1982-04-22,SE-06,Selangor,N.21 Selat Kelang,Selat Kelang,state
-2004-03-21,SE-11,Selangor,N.45 Selat Kelang,Selat Kelang,state
-2008-03-08,SE-12,Selangor,N.45 Selat Kelang,Selat Kelang,state
 1986-08-02,SE-07,Selangor,N.15 Selat Klang,Selat Klang,state
 1990-10-20,SE-08,Selangor,N.15 Selat Klang,Selat Klang,state
 1995-04-24,SE-09,Selangor,N.40 Selat Klang,Selat Klang,state
 1999-11-29,SE-10,Selangor,N.40 Selat Klang,Selat Klang,state
+2004-03-21,SE-11,Selangor,N.45 Selat Klang,Selat Klang,state
+2008-03-08,SE-12,Selangor,N.45 Selat Klang,Selat Klang,state
 2013-05-05,SE-13,Selangor,N.45 Selat Klang,Selat Klang,state
 2018-05-09,SE-14,Selangor,N.44 Selat Klang,Selat Klang,state
 2023-08-12,SE-15,Selangor,N.44 Selat Klang,Selat Klang,state

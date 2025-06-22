@@ -10552,8 +10552,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2013-05-05,SE-13,Kelantan,N.09 Kota Lama,1,Tan Ken Ten,8317,BN,25,7651
 2013-05-05,SE-13,Kelantan,N.09 Kota Lama,2,Mohd Zakiman Bin Abu Bakar,4015,BEBAS,1,152
 2013-05-05,SE-13,Kelantan,N.09 Kota Lama,3,Dato Hj Anuar Tan,8397,PAS,3,14269
-2013-05-05,SE-13,Kelantan,N.10 Bunut Payung,1,Ustaz Mohd. Fakhrurazi,8398,BN,25,7655
-2013-05-05,SE-13,Kelantan,N.10 Bunut Payung,2,Dr Ramli,8399,PAS,3,13447
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,1,Ustaz Mohd. Fakhrurazi,8398,BN,25,7655
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,2,Dr Ramli,8399,PAS,3,13447
 2013-05-05,SE-13,Kelantan,N.11 Tendong,1,Rozi Muhamad,8400,PAS,3,9397
 2013-05-05,SE-13,Kelantan,N.11 Tendong,2,Datuk Hj Hanafi Hj Mamat,8401,BN,25,8419
 2013-05-05,SE-13,Kelantan,N.12 Pengkalan Pasir,1,Hj. Hanifa Ahmad,8322,PAS,3,13398
@@ -15280,9 +15280,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2004-03-21,SE-11,Perak,N.11 Gunong Semanggol,2,Abd Muhaimin Bin Abd Rahman Nazri,11873,BN,25,5930
 2004-03-21,SE-11,Perak,N.12 Selinsing,1,Ahmad Bin Awang,2945,PAS,3,4711
 2004-03-21,SE-11,Perak,N.12 Selinsing,2,Zaili Bin Cha,11874,BN,25,6876
-2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,1,Chuah Tiong San,11577,DAP,18,2443
-2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,2,See Tean Seng,11875,BN,25,6544
-2004-03-21,SE-11,Perak,N.13 Kuala Sepetang,3,Abdul Latip Bin Arifin,11876,PKR,11,3858
+2004-03-21,SE-11,Perak,N.13 Kuala Sapetang,1,Chuah Tiong San,11577,DAP,18,2443
+2004-03-21,SE-11,Perak,N.13 Kuala Sapetang,2,See Tean Seng,11875,BN,25,6544
+2004-03-21,SE-11,Perak,N.13 Kuala Sapetang,3,Abdul Latip Bin Arifin,11876,PKR,11,3858
 2004-03-21,SE-11,Perak,N.14 Changkat Jering,1,Mohammad Nordin Bin Jaafar,11877,PAS,3,6202
 2004-03-21,SE-11,Perak,N.14 Changkat Jering,2,Mat Isa Bin Ismail,11878,BN,25,10966
 2004-03-21,SE-11,Perak,N.15 Trong,1,Rosli Bin Husin,11879,BN,25,5338
@@ -15407,8 +15407,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2008-03-08,SE-12,Perak,N.11 Gunong Semanggol,2,Ramli Bin Tusin,11963,PAS,3,6959
 2008-03-08,SE-12,Perak,N.12 Selinsing,1,Dato' Zali Bin Cha,11964,BN,25,5602
 2008-03-08,SE-12,Perak,N.12 Selinsing,2,Hj. Husin Bin Hj. Din,11965,PAS,3,6149
-2008-03-08,SE-12,Perak,N.13 Kuala Sepetang,1,See Tean Seng,11875,BN,25,6721
-2008-03-08,SE-12,Perak,N.13 Kuala Sepetang,2,Tai Sing Ng,11918,PKR,11,7285
+2008-03-08,SE-12,Perak,N.13 Kuala Sapetang,1,See Tean Seng,11875,BN,25,6721
+2008-03-08,SE-12,Perak,N.13 Kuala Sapetang,2,Tai Sing Ng,11918,PKR,11,7285
 2008-03-08,SE-12,Perak,N.14 Changkat Jering,1,Dato' Mat Isa Bin Ismail,11966,BN,25,8309
 2008-03-08,SE-12,Perak,N.14 Changkat Jering,2,Kapten (B) Mohd Osman Bin Mohd Jailu,11967,PKR,11,9411
 2008-03-08,SE-12,Perak,N.15 Trong,1,Ustaz Norazli Bin Musa,11968,PAS,3,3296
@@ -15457,8 +15457,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2008-03-08,SE-12,Perak,N.35 Manong,2,Ramly Bin Zahari,11752,BN,25,5391
 2008-03-08,SE-12,Perak,N.36 Pengkalan Baharu,1,Ust Abu Bakar,11996,PAS,3,5361
 2008-03-08,SE-12,Perak,N.36 Pengkalan Baharu,2,Dato' Hamdi,11997,BN,25,5375
-2008-03-08,SE-12,Perak,N.37 Pasir Remis,1,Nga Kor Meng (Nga Kor Ming),3700,DAP,18,12188
-2008-03-08,SE-12,Perak,N.37 Pasir Remis,2,Ooi Jing Ting,11999,BN,25,7112
+2008-03-08,SE-12,Perak,N.37 Pantai Remis,1,Nga Kor Meng (Nga Kor Ming),3700,DAP,18,12188
+2008-03-08,SE-12,Perak,N.37 Pantai Remis,2,Ooi Jing Ting,11999,BN,25,7112
 2008-03-08,SE-12,Perak,N.38 Belanja,1,Dato' Mohd Zaim Bin Abu Hasan,4092,BN,25,6596
 2008-03-08,SE-12,Perak,N.38 Belanja,2,Ustaz Muhd. Ismi Bin Mat Taib,3332,PAS,3,4286
 2008-03-08,SE-12,Perak,N.39 Bota,1,Dato' Nasarudin Hashim,12002,BN,25,6556
@@ -15529,9 +15529,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2013-05-05,SE-13,Perak,N.11 Gunong Semanggol,3,Zulkarnain Bin Ismail,12050,BN,25,6949
 2013-05-05,SE-13,Perak,N.12 Selinsing,1,Sharudin Bin Ahmad,12051,BN,25,7406
 2013-05-05,SE-13,Perak,N.12 Selinsing,2,Hj. Husin Bin Din,12052,PAS,3,8215
-2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,1,Zainal Abidin Hj Abd Rahman,12053,BERJASA,34,430
-2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,2,Loh Swee Eng,12054,BN,25,10017
-2013-05-05,SE-13,Perak,N.13 Kuala Sepetang,3,Chua Yee Ling,12055,PKR,11,10775
+2013-05-05,SE-13,Perak,N.13 Kuala Sapetang,1,Zainal Abidin Hj Abd Rahman,12053,BERJASA,34,430
+2013-05-05,SE-13,Perak,N.13 Kuala Sapetang,2,Loh Swee Eng,12054,BN,25,10017
+2013-05-05,SE-13,Perak,N.13 Kuala Sapetang,3,Chua Yee Ling,12055,PKR,11,10775
 2013-05-05,SE-13,Perak,N.14 Changkat Jering,1,Dato' Seri Nizar,3328,PAS,3,14495
 2013-05-05,SE-13,Perak,N.14 Changkat Jering,2,Datuk Hj Rosli Bin Husin,12057,BN,25,13325
 2013-05-05,SE-13,Perak,N.14 Changkat Jering,3,Zulkefli Bin Ibrahim,12058,BEBAS,1,84
@@ -23665,8 +23665,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2004-03-21,SE-11,Selangor,N.36 Damansara Utama,2,Yim Chee Pool,17952,DAP,18,12309
 2004-03-21,SE-11,Selangor,N.37 Bukit Lanjan,1,Yong Dai Ying,17953,BN,25,11460
 2004-03-21,SE-11,Selangor,N.37 Bukit Lanjan,2,Panneerselvan A/L Varathan,17954,PKR,11,3121
-2004-03-21,SE-11,Selangor,N.38 Paya Jaraa,1,Badrul Amin Bin Bahron,17955,PKR,11,7122
-2004-03-21,SE-11,Selangor,N.38 Paya Jaraa,2,Muhammad Bushro Bin Mat Johor,17956,BN,25,10966
+2004-03-21,SE-11,Selangor,N.38 Paya Jaras,1,Badrul Amin Bin Bahron,17955,PKR,11,7122
+2004-03-21,SE-11,Selangor,N.38 Paya Jaras,2,Muhammad Bushro Bin Mat Johor,17956,BN,25,10966
 2004-03-21,SE-11,Selangor,N.39 Kota Damansara,1,Mohamad Ariff Bin Md Yusof,17957,PAS,3,4827
 2004-03-21,SE-11,Selangor,N.39 Kota Damansara,2,Mohd Mokhtar Bin Haii Ahmad Dahlan,17958,BN,25,12926
 2004-03-21,SE-11,Selangor,N.40 Kota Anggerik,1,Annette Syed Mohamed @ Animah Annette Ferrar,17959,PKR,11,8652
@@ -23679,8 +23679,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2004-03-21,SE-11,Selangor,N.43 Sementa,2,Abdul Rahman Bin Ibrahim,3611,PKR,11,5311
 2004-03-21,SE-11,Selangor,N.44 Sungai Pinang,1,Teng Chang Khim,2688,DAP,18,10484
 2004-03-21,SE-11,Selangor,N.44 Sungai Pinang,2,Khoh Siew Kim,17963,BN,25,6871
-2004-03-21,SE-11,Selangor,N.45 Selat Kelang,1,Norliza Binti Ahmad,17964,BN,25,12593
-2004-03-21,SE-11,Selangor,N.45 Selat Kelang,2,Halimah Ali,5215,PAS,3,6508
+2004-03-21,SE-11,Selangor,N.45 Selat Klang,1,Norliza Binti Ahmad,17964,BN,25,12593
+2004-03-21,SE-11,Selangor,N.45 Selat Klang,2,Halimah Ali,5215,PAS,3,6508
 2004-03-21,SE-11,Selangor,N.46 Pelabuhan Klang,1,Dato' Zainal Bin Md Deros,17966,BN,25,12312
 2004-03-21,SE-11,Selangor,N.46 Pelabuhan Klang,2,Krishnasamy A/L Punusamy,17967,PKR,11,5075
 2004-03-21,SE-11,Selangor,N.47 Pandamaran,1,Dato' Teh Kim Poo,17968,BN,25,9104
@@ -23783,8 +23783,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2008-03-08,SE-12,Selangor,N.36 Damansara Utama,2,Dr Cheah Wing Yin,18050,DAP,18,24881
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,1,Datin Paduka Yong Dai Ying,18051,BN,25,6970
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,2,Elizabeth Wong,18052,PKR,11,12125
-2008-03-08,SE-12,Selangor,N.38 Paya Jaraa,1,Mohd Khairuddin,18053,PAS,3,10879
-2008-03-08,SE-12,Selangor,N.38 Paya Jaraa,2,Dato' Ir Muhammad Bushro Bin Mat Johor,18054,BN,25,11521
+2008-03-08,SE-12,Selangor,N.38 Paya Jaras,1,Mohd Khairuddin,18053,PAS,3,10879
+2008-03-08,SE-12,Selangor,N.38 Paya Jaras,2,Dato' Ir Muhammad Bushro Bin Mat Johor,18054,BN,25,11521
 2008-03-08,SE-12,Selangor,N.39 Kota Damansara,1,Dr Nasir Hashim,18055,PKR,11,11846
 2008-03-08,SE-12,Selangor,N.39 Kota Damansara,2,Dato' Hj Zein Isma Bin Hj Ismail,18056,BN,25,10771
 2008-03-08,SE-12,Selangor,N.40 Kota Anggerik,1,Hj. Yaakob Sapari,18057,PKR,11,15738
@@ -23796,8 +23796,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2008-03-08,SE-12,Selangor,N.43 Sementa,1,Abd Rahman Bin Palil,18062,BN,25,0
 2008-03-08,SE-12,Selangor,N.44 Sungai Pinang,1,Teng Chang Khim,2688,DAP,18,12856
 2008-03-08,SE-12,Selangor,N.44 Sungai Pinang,2,Song Kee Chai,18063,BN,25,5495
-2008-03-08,SE-12,Selangor,N.45 Selat Kelang,1,Norliza Binti Ahmad,17964,BN,25,9978
-2008-03-08,SE-12,Selangor,N.45 Selat Kelang,2,Dr Halimah Ali,5215,PAS,3,11437
+2008-03-08,SE-12,Selangor,N.45 Selat Klang,1,Norliza Binti Ahmad,17964,BN,25,9978
+2008-03-08,SE-12,Selangor,N.45 Selat Klang,2,Dr Halimah Ali,5215,PAS,3,11437
 2008-03-08,SE-12,Selangor,N.46 Pelabuhan Klang,1,Nazir Bin Mansor,18064,BEBAS,1,580
 2008-03-08,SE-12,Selangor,N.46 Pelabuhan Klang,2,Badrul Hisham,18065,PKR,11,12397
 2008-03-08,SE-12,Selangor,N.46 Pelabuhan Klang,3,Roselinda Binti Abd. Jamil,18066,BN,25,7990
