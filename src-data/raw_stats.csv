@@ -2879,7 +2879,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Johor,N.03 Bandar Segamat,25156,19717,0,440
 1982-04-22,SE-06,Johor,N.04 Bukit Serampang,16117,12758,0,393
 1982-04-22,SE-06,Johor,N.05 Bekok,18583,14106,0,520
-1982-04-22,SE-06,Johor,N.06 Bandar Kluang,36134,28146,0,668
+1982-04-22,SE-06,Johor,N.06 Bandar Keluang,36134,28146,0,668
 1982-04-22,SE-06,Johor,N.07 Endau,11954,8709,0,409
 1982-04-22,SE-06,Johor,N.08 Mersing,12499,0,0,0
 1982-04-22,SE-06,Johor,N.09 Tangkak,17152,12873,0,288
@@ -3446,7 +3446,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Kedah,N.08 Pengkalan Kundor,21604,15650,0,700
 1978-07-08,SE-05,Kedah,N.09 Alor Merah,18403,13477,0,494
 1978-07-08,SE-05,Kedah,N.10 Bandar Alor Setar,28952,20857,0,589
-1978-07-08,SE-05,Kedah,N.11 Langgar Limbong,15606,13028,0,411
+1978-07-08,SE-05,Kedah,N.11 Langgar-Limbong,15606,13028,0,411
 1978-07-08,SE-05,Kedah,N.12 Bukit Raya,15745,12815,0,430
 1978-07-08,SE-05,Kedah,N.13 Sik,10110,7974,0,386
 1978-07-08,SE-05,Kedah,N.14 Pendang,17495,14162,0,491
@@ -3923,7 +3923,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1974-08-24,SE-04,Kelantan,N.35 Gua Musang,0,0,0,0
 1974-08-24,SE-04,Kelantan,N.36 Manek Urai,4855,3454,0,87
 1978-07-08,SE-05,Kelantan,N.01 Simpangan,10155,7367,0,176
-1978-07-08,SE-05,Kelantan,N.02 Sungai Pinang,11405,8027,0,172
+1978-07-08,SE-05,Kelantan,N.02 Sungei Pinang,11405,8027,0,172
 1978-07-08,SE-05,Kelantan,N.03 Wakaf Bharu,11958,8905,0,169
 1978-07-08,SE-05,Kelantan,N.04 Semut Api,9585,7057,0,185
 1978-07-08,SE-05,Kelantan,N.05 Kemumin,8837,6343,0,148
@@ -3931,7 +3931,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Kelantan,N.07 Tendong,10632,8079,0,148
 1978-07-08,SE-05,Kelantan,N.08 Meranti,9247,6760,0,105
 1978-07-08,SE-05,Kelantan,N.09 Bandar Pasir Mas,10356,7333,0,101
-1978-07-08,SE-05,Kelantan,N.10 Sungai Keladi,14001,8832,0,136
+1978-07-08,SE-05,Kelantan,N.10 Sungei Keladi,14001,8832,0,136
 1978-07-08,SE-05,Kelantan,N.11 Telipok,11006,7341,0,98
 1978-07-08,SE-05,Kelantan,N.12 Kubang Kerian,11277,8338,0,186
 1978-07-08,SE-05,Kelantan,N.13 Tawang,10781,8502,0,200
@@ -3948,7 +3948,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Kelantan,N.24 Gual Ipoh,7245,5893,0,56
 1978-07-08,SE-05,Kelantan,N.25 Pulai Chondong,8032,6611,0,36
 1978-07-08,SE-05,Kelantan,N.26 Bandar Machang,10688,8377,0,54
-1978-07-08,SE-05,Kelantan,N.27 Sungai Rasau,5979,4819,0,33
+1978-07-08,SE-05,Kelantan,N.27 Sungei Rasau,5979,4819,0,33
 1978-07-08,SE-05,Kelantan,N.28 Selising,10519,8207,0,108
 1978-07-08,SE-05,Kelantan,N.29 Bandar Pasir Puteh,8782,6608,0,124
 1978-07-08,SE-05,Kelantan,N.30 Cherang Ruku,8673,6795,0,126
@@ -3958,7 +3958,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Kelantan,N.34 Jeli,5868,4862,0,33
 1978-07-08,SE-05,Kelantan,N.35 Gua Musang,8015,5261,0,80
 1978-07-08,SE-05,Kelantan,N.36 Manek Urai,5179,3802,0,48
-1982-04-22,SE-06,Kelantan,N.01 Sampingan,12713,9616,0,232
+1982-04-22,SE-06,Kelantan,N.01 Simpangan,12713,9616,0,232
 1982-04-22,SE-06,Kelantan,N.02 Sungei Pinang,13241,9978,0,288
 1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,14548,11632,0,345
 1982-04-22,SE-06,Kelantan,N.04 Semut Api,13375,10612,0,245
@@ -3968,7 +3968,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Kelantan,N.08 Meranti,11035,8701,0,164
 1982-04-22,SE-06,Kelantan,N.09 Bandar Pasir Mas,13449,9941,0,97
 1982-04-22,SE-06,Kelantan,N.10 Sungei Keladi,18714,13697,0,192
-1982-04-22,SE-06,Kelantan,N.11 Telipot,16017,11876,0,162
+1982-04-22,SE-06,Kelantan,N.11 Telipok,16017,11876,0,162
 1982-04-22,SE-06,Kelantan,N.12 Kubang Kerian,15507,12045,0,169
 1982-04-22,SE-06,Kelantan,N.13 Tawang,13272,11286,0,265
 1982-04-22,SE-06,Kelantan,N.14 Perupok,11359,9394,0,212
@@ -3986,7 +3986,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Kelantan,N.26 Bandar Machang,12743,10404,0,199
 1982-04-22,SE-06,Kelantan,N.27 Sungei Rasau,7433,6150,0,87
 1982-04-22,SE-06,Kelantan,N.28 Selising,12320,0,0,0
-1982-04-22,SE-06,Kelantan,N.29 Bandar Pasir Putih,10601,8157,0,97
+1982-04-22,SE-06,Kelantan,N.29 Bandar Pasir Puteh,10601,8157,0,97
 1982-04-22,SE-06,Kelantan,N.30 Cherang Ruku,11163,9393,0,112
 1982-04-22,SE-06,Kelantan,N.31 Temangan,7256,6382,0,95
 1982-04-22,SE-06,Kelantan,N.32 Guchil,8887,7481,0,156
@@ -4492,7 +4492,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Melaka,N.07 Nyalas,9249,7238,0,154
 1982-04-22,SE-06,Melaka,N.08 Ayer Panas,10282,7846,0,270
 1982-04-22,SE-06,Melaka,N.09 Serkam,9210,7015,0,166
-1982-04-22,SE-06,Melaka,N.10 Sungai Rambai,8239,6222,0,208
+1982-04-22,SE-06,Melaka,N.10 Sungei Rambai,8239,6222,0,208
 1982-04-22,SE-06,Melaka,N.11 Tanjong Minyak,12318,0,0,0
 1982-04-22,SE-06,Melaka,N.12 Ayer Keroh,12769,9964,0,199
 1982-04-22,SE-06,Melaka,N.13 Ayer Molek,9243,0,0,0
@@ -4839,9 +4839,9 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Negeri Sembilan,N.08 Rantau,6848,5417,0,170
 1978-07-08,SE-05,Negeri Sembilan,N.09 Rasah,12415,9666,0,785
 1978-07-08,SE-05,Negeri Sembilan,N.10 Rahang,17298,13201,0,624
-1978-07-08,SE-05,Negeri Sembilan,N.11 Sungei Ujong,16206,11998,0,655
+1978-07-08,SE-05,Negeri Sembilan,N.11 Sungai Ujong,16206,11998,0,655
 1978-07-08,SE-05,Negeri Sembilan,N.12 Terentang,7005,5426,0,314
-1978-07-08,SE-05,Negeri Sembilan,N.13 Sri Menanti,6207,4889,0,280
+1978-07-08,SE-05,Negeri Sembilan,N.13 Seri Menanti,6207,4889,0,280
 1978-07-08,SE-05,Negeri Sembilan,N.14 Ulu Muar,6585,5096,0,252
 1978-07-08,SE-05,Negeri Sembilan,N.15 Pilah,10453,8163,0,343
 1978-07-08,SE-05,Negeri Sembilan,N.16 Johol,6513,5282,0,309
@@ -5307,7 +5307,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Pahang,N.24 Kuala Pahang,5045,3876,0,239
 1978-07-08,SE-05,Pahang,N.25 Chini,5156,3698,0,228
 1978-07-08,SE-05,Pahang,N.26 Bandar Pekan,6343,4635,0,199
-1978-07-08,SE-05,Pahang,N.27 Bukit,4628,2788,0,245
+1978-07-08,SE-05,Pahang,N.27 Bukit Ibam,4628,2788,0,245
 1978-07-08,SE-05,Pahang,N.28 Rompin,5647,3984,0,304
 1978-07-08,SE-05,Pahang,N.29 Mentakab,11413,8394,0,580
 1978-07-08,SE-05,Pahang,N.30 Bandar Temerloh,7966,5886,0,480
@@ -6743,7 +6743,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Pulau Pinang,N.04 Bagan Ajam,12020,9638,0,530
 1978-07-08,SE-05,Pulau Pinang,N.05 Bagan Jermal,18282,14360,0,541
 1978-07-08,SE-05,Pulau Pinang,N.06 Bagan Dalam,17123,13622,0,489
-1978-07-08,SE-05,Pulau Pinang,N.07 Sungei Dua,8258,6735,0,353
+1978-07-08,SE-05,Pulau Pinang,N.07 Sungai Dua,8258,6735,0,353
 1978-07-08,SE-05,Pulau Pinang,N.08 Kubang Semang,9813,8149,0,437
 1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,9445,7363,0,416
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,12063,9615,0,404
@@ -6751,7 +6751,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,10968,9031,0,400
 1978-07-08,SE-05,Pulau Pinang,N.13 Bukit Tambun,8451,6918,0,354
 1978-07-08,SE-05,Pulau Pinang,N.14 Sungai Bakap,9980,7900,0,452
-1978-07-08,SE-05,Pulau Pinang,N.15 Sungei Acheh,12036,9190,0,208
+1978-07-08,SE-05,Pulau Pinang,N.15 Sungai Acheh,12036,9190,0,208
 1978-07-08,SE-05,Pulau Pinang,N.16 Telok Bahang,11843,8946,0,459
 1978-07-08,SE-05,Pulau Pinang,N.17 Sungai Nibong,16612,12470,0,481
 1978-07-08,SE-05,Pulau Pinang,N.18 Bayan Lepas,13721,10706,0,360
@@ -6789,7 +6789,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Pulau Pinang,N.23 Kampong Kolam,19485,14880,0,319
 1982-04-22,SE-06,Pulau Pinang,N.24 Pengkalan Kota,22478,18115,0,305
 1982-04-22,SE-06,Pulau Pinang,N.25 Datok Keramat,20091,14804,0,265
-1982-04-22,SE-06,Pulau Pinang,N.26 Sungai Pinang,24645,18881,0,441
+1982-04-22,SE-06,Pulau Pinang,N.26 Sungei Pinang,24645,18881,0,441
 1982-04-22,SE-06,Pulau Pinang,N.27 Bukit Gelugor,26357,20082,0,277
 1986-08-02,SE-07,Pulau Pinang,N.01 Penaga,8900,6738,0,252
 1986-08-02,SE-07,Pulau Pinang,N.02 Bertam,13390,9883,0,301
@@ -8686,7 +8686,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,10354,7382,0,486
 1978-07-08,SE-05,Selangor,N.06 Sungai Burong,10725,7728,0,512
 1978-07-08,SE-05,Selangor,N.07 Kalumpang,11974,9215,0,596
-1978-07-08,SE-05,Selangor,N.08 Kuala Kubu Baru,11928,8804,0,4955
+1978-07-08,SE-05,Selangor,N.08 Kuala Kubu Bharu,11928,8804,0,4955
 1978-07-08,SE-05,Selangor,N.09 Batang Kali,10842,8478,0,499
 1978-07-08,SE-05,Selangor,N.10 Permatang,11619,8639,0,591
 1978-07-08,SE-05,Selangor,N.11 Asam Jawa,10935,8245,0,533
@@ -8695,8 +8695,8 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Selangor,N.14 Gombak,32550,23432,0,1332
 1978-07-08,SE-05,Selangor,N.15 Ampang,33509,24924,0,789
 1978-07-08,SE-05,Selangor,N.16 Dusun Tua,11207,8208,0,543
-1978-07-08,SE-05,Selangor,N.17 Kajang,15708,12374,0,362
-1978-07-08,SE-05,Selangor,N.18 Semenyih,10787,8461,0,458
+1978-07-08,SE-05,Selangor,N.18 Kajang,15708,12374,0,362
+1978-07-08,SE-05,Selangor,N.17 Semenyih,10787,8461,0,458
 1978-07-08,SE-05,Selangor,N.19 Kapar,10880,8747,0,303
 1978-07-08,SE-05,Selangor,N.20 Sementa,13516,9745,0,671
 1978-07-08,SE-05,Selangor,N.21 Selat Kelang,25583,19470,0,818
@@ -8728,8 +8728,8 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Selangor,N.14 Gombak,43989,30090,0,1337
 1982-04-22,SE-06,Selangor,N.15 Ampang,50229,34852,0,1148
 1982-04-22,SE-06,Selangor,N.16 Dusun Tua,12547,9728,0,244
-1982-04-22,SE-06,Selangor,N.17 Kajang,19114,14761,0,214
-1982-04-22,SE-06,Selangor,N.18 Semenyih,13342,10155,0,307
+1982-04-22,SE-06,Selangor,N.18 Kajang,19114,14761,0,214
+1982-04-22,SE-06,Selangor,N.17 Semenyih,13342,10155,0,307
 1982-04-22,SE-06,Selangor,N.19 Kapar,13271,10465,0,318
 1982-04-22,SE-06,Selangor,N.20 Sementa,16965,12475,0,213
 1982-04-22,SE-06,Selangor,N.21 Selat Kelang,30877,23761,0,757
