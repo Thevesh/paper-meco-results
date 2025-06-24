@@ -49,7 +49,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2010-11-04,BY-ELECTION,Kelantan,N.45 Galas,2,Dr. Zul,19241,PAS,3,4134,43.70902939310636,lost
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,1,Haji Ansari Bin Abdullah,2050,PKR,11,3414,22.433959784465767,lost
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,2,Yong Teck Lee,3118,SAPP,66,2031,13.346037587067947,lost
-2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,3,Tsen Thau Lin,19243,BN,25,9773,64.22000262846629,won
+2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,3,Tsen Thau Lin,4280,BN,25,9773,64.22000262846629,won
 2011-01-30,BY-ELECTION,Johor,N.05 Tenang,1,Cikgu Mala,6315,PAS,3,2992,30.87400681044268,lost
 2011-01-30,BY-ELECTION,Johor,N.05 Tenang,2,Mohd Azahar Bin Ibrahim,6317,BN,25,6699,69.12599318955732,won
 2011-03-06,BY-ELECTION,Pahang,N.28 Kerdau,1,Syed Ibrahim,1316,BN,25,5060,68.41535965386696,won
@@ -120,7 +120,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2019-04-13,BY-ELECTION,Negeri Sembilan,N.27 Rantau,2,Malar Rajaram,19282,BEBAS,1,83,0.5046819895415299,lost_deposit
 2019-04-13,BY-ELECTION,Negeri Sembilan,N.27 Rantau,3,Hj Mohd Nor,19283,BEBAS,1,79,0.480359965949167,lost_deposit
 2019-04-13,BY-ELECTION,Negeri Sembilan,N.27 Rantau,4,Dr. Streram Sinnasamy,19284,PH,73,5887,35.79593822206007,lost
-2019-05-11,BY-ELECTION,Sabah,P.186 Sandakan,1,Hj. Hamzah Hj. Abdullah,19285,BEBAS,1,788,3.648992822412595,lost_deposit
+2019-05-11,BY-ELECTION,Sabah,P.186 Sandakan,1,Hj. Hamzah Hj. Abdullah,2056,BEBAS,1,788,3.648992822412595,lost_deposit
 2019-05-11,BY-ELECTION,Sabah,P.186 Sandakan,2,Sulaiman Bin Abdul Samat,19286,BEBAS,1,126,0.5834683954619124,lost_deposit
 2019-05-11,BY-ELECTION,Sabah,P.186 Sandakan,3,Vivian Wong Shir Yee,5517,DAP,18,16012,74.14679323917574,won
 2019-05-11,BY-ELECTION,Sabah,P.186 Sandakan,4,Chia Siew Yung,19287,BEBAS,1,178,0.8242648761287336,lost_deposit

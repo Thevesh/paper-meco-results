@@ -133,7 +133,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 132,Oon Beng Hong,Oon Beng Hong,F,Chinese,1903
 133,Tan Cheng Bee,Tan Cheng Bee,M,Chinese,1909
 134,Peritam Singh,Peritam Singh,M,Other,1935
-135,Haji Yusof Bin Haji Abdullah,Yusof Bin Abdullah,M,Malay,1922
+135,Haji Yusof Bin Haji Abdullah,Yusof bin Abdullah Ar-Rawi (Yusof Rawa),M,Malay,1922-05-08
 136,Haji Ahmad Bin Saaid,Ahmad Bin Saaid,M,Malay,1917
 137,Haji Abdul Hamid Bin Ishak,Abdul Hamid Bin Ishak,M,Malay,1908
 138,Kang Eng Wah,Kang Eng Wah,M,Chinese,1925
@@ -1213,24 +1213,24 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1212,Abdullah Bin Haji Ahmad,Abdullah bin Ahmad,M,Malay,
 1213,Haji Musa Bin Haji Mohd. Yatim,,M,Malay,
 1214,Dr Lim Liong Seek @ Dr Ling Liong Sik,,U,U,
-1215,Loh Kim Heng,,U,U,
-1216,Seow Hun Khim @ Seow Hung Chuan,,U,U,
-1217,Lee Jong Ki @ Li Jong Ki,,U,U,
-1218,S.D. Shaik Adam,,U,U,
+1215,Loh Kim Heng,Loh Kim Heng,M,Chinese,
+1216,Seow Hun Khim @ Seow Hung Chuan,Seow Hun Khim @ Seow Hung Chuan,M,Chinese,
+1217,Lee Jong Ki @ Li Jong Ki,Lee Jong Ki @ Li Jong Ki,M,Chinese,
+1218,S.D. Shaik Adam,S.D. Shaik Adam,M,Malay,
 1219,Mustapha Bin Hussein,,M,Malay,
-1220,Khoo Soo Kheng,,U,U,
-1221,Desa Bin Saat,,M,Malay,
-1222,Shanmugam S/O Nadasan,,U,U,
-1223,Haji Hanafiah Bin Ahmad,,M,Malay,
+1220,Khoo Soo Kheng,Khoo Soo Kheng,M,Chinese,
+1221,Desa Bin Saat,Desa Bin Saat,M,Malay,
+1222,Shanmugam S/O Nadasan,Shanmugam A/L Nadasan,M,Indian,
+1223,Haji Hanafiah Bin Ahmad,Haji Hanafiah Bin Ahmad,M,Malay,
 1224,Mohideen Abdul Kader S/O Mohd Yusof Rawther,,U,U,
-1225,Hussein Bin Derani,,M,Malay,
+1225,Hussein Bin Derani,Hussein Bin Derani,M,Malay,
 1226,Peter Dason S/O Muthu Jaha Dason @ Peter Paul Dason,,U,U,
-1227,H'Ng Heong Yong @ H'Ng Hung Yong,,U,U,
-1228,Wong Hoon Keat,,U,U,
-1229,Ooi Oon Seng,,U,U,
-1230,Hoo Ke Ping @ Hoo Khi Ping,,U,U,
+1227,H'Ng Heong Yong @ H'Ng Hung Yong,H'ng Heong Yong @ H'ng Hung Yong,M,Chinese,
+1228,Wong Hoon Keat,Wong Hoong Keat,M,Chinese,1947-01-31
+1229,Ooi Oon Seng,Ooi Oon Seng,M,Chinese,
+1230,Hoo Ke Ping @ Hoo Khi Ping,Hoo Ke Ping @ Hoo Khi Ping,M,Chinese,
 1231,Karpal Singh A/L Ram Singh,,M,Other,
-1232,Lee Him,,U,U,
+1232,Lee Him,Lee Him,M,Chinese,
 1233,Yeap Gim Guan,,U,U,
 1234,Mohamad Tajol Rosli Bin Mohd. Ghazali,Mohd Tajol Rosli Bin Mohd Ghazali,M,Malay,1946-11-06
 1235,Mohamad Bin Haji Junid,,M,Malay,
@@ -1268,7 +1268,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1267,Zainal Abidin Bin Adnan,,M,Malay,
 1268,Abdul Latif Nasain,,U,U,
 1269,Au How Cheong @ Haw Hew Kheong,,U,U,
-1270,Mohamad Bin Ngah,,M,Malay,
+1270,Mohamad Bin Ngah,Mohamad Bin Ngah,M,Malay,
 1271,Mak Hon Kam @ Mak Hoon Ting,,U,U,
 1272,Zakaria Bin A. Manaf,,M,Malay,
 1273,Abdullah Bin Basiran,,M,Malay,
@@ -1408,7 +1408,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1407,Liew Kong Khai,Liew Kong Khai,M,Chinese,
 1408,Ibrahim Kamaruddin,Ibrahim bin Kamaruddin,M,Malay,
 1409,Hiew Kim Siong,Hiew Kim Siong,M,Chinese,
-1410,Aloysius Dom Nagok,,M,U,
+1410,Aloysius Dom Nagok,Aloysius Dom Nagok,M,Bumi Sarawak,
 1411,Siyium Ak. Mutit,,U,U,
 1412,Ong Guan Cheng,,U,U,
 1413,Alli Kawi,,U,U,
@@ -1462,14 +1462,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1461,Doktor Mahatir Bin Mohamad,,M,Malay,
 1462,Haji Yusof Rawa Bin Haji Abdullah,,M,Malay,
 1463,Tan Sri Syed Ahmad Bin Syed Mahmud Shahabudin,,M,Malay,
-1464,Dato' Sudin Bin Wahab,,M,Malay,
-1465,Wong Kok Wah,,U,U,
-1466,Dato' Haji Mohammad Abu Bakar Bin Rautin Ibrahim,,M,Malay,
-1467,Ahmad Bin Din,,M,Malay,
-1468,George John A/L K. M. George,,M,U,
+1464,Dato' Sudin Bin Wahab,Sudin bin Wahab,M,Malay,
+1465,Wong Kok Wah,Wong Kok Wah,M,Chinese,
+1466,Dato' Haji Mohammad Abu Bakar Bin Rautin Ibrahim,Mohd Abu Bakar Bin Rautin Ibrahim,M,Malay,
+1467,Ahmad Bin Din,Ahmad Bin Din,M,Malay,
+1468,George John A/L K. M. George,George John A/L K. M. George,M,Indian,
 1469,Haji Ahmad Bin Awang,Ahmad bin Awang,M,Malay,
 1470,Dato' Haji Abu Bakar Bin Omar,,M,Malay,
-1471,Haji Mustapha Ahmad,,U,U,
+1471,Haji Mustapha Ahmad,Mustapha Ahmad,M,Malay,
 1472,Ali Alias Fadzil Bin Md. Noor,,M,Malay,
 1473,Haji Hashim Bin Endut,,M,Malay,
 1474,Haji Seroji Bin Haji Neron,,M,Malay,
@@ -1523,19 +1523,19 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1522,Ismail @ Mansor Said,,U,U,
 1523,Khoo Soo Hoe,Khoo Soo Hoe,M,Chinese,1940-11-14
 1524,Mohamad Bin Sabu,Mohamad bin Sabu,M,Malay,1954-10-14
-1525,Goh Sign Khoon,,U,U,
-1526,Raja Ahmed Bin Raja Shahabudin,,M,Malay,
+1525,Goh Sign Khoon,Goh Sign Khoon,M,Chinese,
+1526,Raja Ahmed Bin Raja Shahabudin,Raja Ahmed Bin Raja Shahabudin,M,Malay,
 1527,Dr Ling Liong Sik,,U,U,
-1528,Tan Ah Huat,,U,U,
+1528,Tan Ah Huat,Tan Ah Huat,M,Chinese,
 1529,Haji Zabidi Bin Hj. Ali,,M,Malay,
 1530,Anwar Bin Ibrahim,Anwar Bin Ibrahim,M,Malay,1947-08-10
 1531,Goh Cheng Teik @ Goh Keat Lim,,U,U,
-1532,Tan Yam Soon,,U,U,
+1532,Tan Yam Soon,Tan Yam Soon,M,Chinese,
 1533,Kassim @ Osman Ahmad,,U,U,
 1534,Samsury Bin Md. Saleh,,M,Malay,
-1535,Tan Koon Teik,,U,U,
+1535,Tan Koon Teik,Tan Koon Teik,M,Chinese,
 1536,Dr Koh Tsu Koon,Koh Tsu Koon,M,Chinese,1949-08-26
-1537,Ooi Ean Kwong,,U,U,
+1537,Ooi Ean Kwong,Ooi Ean Kwong,M,Chinese,
 1538,Ibrahim Bin Ariffin,,M,Malay,
 1539,Mohd. Tajol Rosli Bin Mohd. Ghazali,Mohd Tajol Rosli Bin Mohd Ghazali,M,Malay,1946-11-06
 1540,Ahmad Bin Yusoh,,M,Malay,
@@ -1846,29 +1846,29 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1845,Abd. Rahim Bin Wan Abdullah,Wan Abdul Rahim bin Wan Abdullah,M,Malay,1952-02-24
 1846,Abd. Latif Bin Mohamad,Abd. Latif Bin Mohamad,M,Malay,
 1847,Dato' Haji Zakaria Bin Haji Abdul Rahman,,M,Malay,
-1848,Yusoff Bin Hj. Md. Nor,,M,Malay,
+1848,Yusoff Bin Hj. Md. Nor,Mohamed Yusof bin Mohamed Noor,M,Malay,
 1849,Ibrahim Azmi Bin Hasan,,M,Malay,
 1850,Abu Bakar Bin Chik,Abu Bakar Bin Chik,M,Malay,
 1851,Zubir Bin Embong,Zubir bin Embong,M,Malay,
 1852,Abdul Hadi Bin Haji Awang,Abdul Hadi bin Awang,M,Malay,1947-10-20
-1853,Abdul Rahman Bin Bakar,,M,Malay,
+1853,Abdul Rahman Bin Bakar,Abdul Rahman Bin Bakar,M,Malay,
 1854,Ramli Bin Jusoh,Ramli Bin Jusoh,M,Malay,
 1855,Mohamed @ Harun Bin Jusoh,Mohamed bin Jusoh (Harun),M,Malay,
 1856,Hj. Ahmad Hasan Salahuddin Bin Hj. Mohd Khalil,,M,Malay,
-1857,Mohammed Yussof Bin Abdul Latib @ Abdul Latiff,,M,Malay,
-1858,Chaw Chek Sam @ Chaw Kau Chai,,U,U,
+1857,Mohammed Yussof Bin Abdul Latib @ Abdul Latiff,Mohammed Yussof Bin Abdul Latib @ Abdul Latiff,M,Malay,
+1858,Chaw Chek Sam @ Chaw Kau Chai,Chaw Chek Sam,M,Chinese,
 1859,Teoh Teik Huat,Teoh Teik Huat,M,Chinese,1947
-1860,Tan Chong Keng,,U,U,
-1861,Tan Chin Seang,,U,U,
+1860,Tan Chong Keng,Tan Chong Keng,M,Chinese,
+1861,Tan Chin Seang,Tan Chin Seang,M,Chinese,
 1862,Shanmugam S/O Nadason,,U,U,
 1863,Dr. Goh Cheng Teik,,U,U,
-1864,Koh Ah Toung @ Kamal Koh Bin Abdullah,,M,Malay,
-1865,Khor Ngak Seng @ Khor Gark Kim,,U,U,
+1864,Koh Ah Toung @ Kamal Koh Bin Abdullah,Koh Ah Toung @ Kamal Koh Bin Abdullah,M,Chinese,
+1865,Khor Ngak Seng @ Khor Gark Kim,Khor Ngak Seng @ Khor Gark Kim,M,Chinese,
 1866,Goi Hock Seng @ Gooi Hock Seng,,U,U,
 1867,Koh Tsu Koon,,U,U,
 1868,Lim Boo Chang,Lim Boo Chang,M,Chinese,1955-11-26
 1869,Lim Kah Pin,,U,U,
-1870,Mohamad Subky Bin Haji Abdul Raof,,M,Malay,
+1870,Mohamad Subky Bin Haji Abdul Raof,Mohamad Subky Bin Abdul Raof,M,Malay,
 1871,Mohideen Abdul Kader S/O Mohd. Yusoff Rawther,,U,U,
 1872,Mohd Rus Bin Jaafar,,M,Malay,
 1873,Mohamad Tajol Rosli Bin Mohd Ghazli,Mohd Tajol Rosli Bin Mohd Ghazali,M,Malay,1946-11-06
@@ -1897,7 +1897,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 1896,Ooi Foh Sing,,U,U,
 1897,Abd. Aziz Bin Ishak,,M,Malay,
 1898,Lim Kheng Heang @ Lim Keng Yaik,Lim Keng Yaik,M,Chinese,1939-04-08
-1899,Hassan Bin Mohamed,,M,Malay,
+1899,Hassan Bin Mohamed,Hassan Bin Mohamed,M,Malay,
 1900,Gong Ngie Hea,,U,U,
 1901,Nasruddin Bin Alang Saidin,Nasruddin Bin Alang Saidin,M,Malay,1949
 1902,Mohamah Nor Bin Mansor,,M,Malay,
@@ -2054,7 +2054,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2053,Suini Gaban @ Geoffry,,U,U,
 2054,Kasitah B. Gaddam,,U,U,
 2055,Metah Bin Asang @ Michael Asang,,M,Malay,
-2056,Hamza Bin A. Abdullah @ Hamzah,,M,Malay,
+2056,Hamza Bin A. Abdullah @ Hamzah,Hamzah bin Abdullah,M,Malay,1954-06-04
 2057,Tham Chee Nam @ Andrew Tham,,U,U,
 2058,Nahalan Bin Damsal,,M,Malay,
 2059,Ismail Bin Talip @ Ismail Bin Taib,,M,Malay,
@@ -2218,7 +2218,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2217,Dato Abdul Manan Bin Othman,,M,Malay,
 2218,Adenan B. Abd. Rahman,Adenan bin Abd. Rahman,M,Malay,
 2219,Haji Abdul Hadi Bin Haji Awang,,M,Malay,
-2220,Wan Deraman Bin Wan Nik,,M,Malay,
+2220,Wan Deraman Bin Wan Nik,Wan Deraman Bin Wan Nik,M,Malay,
 2221,Haji Abdul Rahman Bakar,,U,U,
 2222,Haji Harun Bin Taib,Harun bin Taib,M,Malay,1943-11-20
 2223,Dato' Alias Ali,,U,U,
@@ -2226,24 +2226,24 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2225,Haji Mustafa Bin Ali,,M,Malay,
 2226,Dato' Ismail Bin Said,,M,Malay,
 2227,Ahmad Shabery Bin Haji Cheek,Ahmad Shabery bin Cheek,M,Malay,1958-12-10
-2228,Ahmad B. Awang,,U,U,
+2228,Ahmad B. Awang,Ahmad Bin Awang,M,Malay,
 2229,Datuk Abdullah Haji Ahmad Badwi,,U,U,
-2230,Haji Mohd Shariff Bin Haji Omar,,M,Malay,
-2231,Hj. Shuaib Bin Jaafar,,M,Malay,
+2230,Haji Mohd Shariff Bin Haji Omar,Mohd Shariff Bin Omar,M,Malay,
+2231,Hj. Shuaib Bin Jaafar,Shuaib Bin Jaafar,M,Malay,
 2232,Lim Hock Seng,Lim Hock Seng,M,Chinese,1948-06-14
 2233,Dr Sak Cheng Lum,Sak Cheng Lum,M,Chinese,1944-04-25
 2234,Mahfuz Bin Hj. Omar,Mahfuz Bin Omar,M,Malay,1957-08-25
 2235,Dr. Tan Chong Keng,,U,U,
-2236,Datuk Dominic Puthu Cheary,,U,U,
-2237,Dr. N. G. Basharan,,U,U,
-2238,David Choong Ewe Leong,,U,U,
+2236,Datuk Dominic Puthu Cheary,Dominic Joseph Puthucheary	,M,Indian,
+2237,Dr. N. G. Basharan,N. G. Baskaran,M,Indian,
+2238,David Choong Ewe Leong,David Choong Ewe Leong,M,Chinese,
 2239,Gooi Hock Seng,,U,U,
-2240,Boey Weng Keat,,U,U,
+2240,Boey Weng Keat,Boey Weng Keat,M,Chinese,
 2241,Datuk Ooi Ean Kwong,,U,U,
 2242,Khor Gark Kim,,U,U,
 2243,Ahmad Nor,,U,U,
-2244,Dr. Sanusi Othman,,U,U,
-2245,Mohd Farid Ariffin,,U,U,
+2244,Dr. Sanusi Othman,Sanusi bin Othman,M,Malay,
+2245,Mohd Farid Ariffin,Mohd Farid bin Ariffin,M,Malay,
 2246,Mohd Tajol Rosli Ghazali,Mohd Tajol Rosli Bin Mohd Ghazali,M,Malay,1946-11-06
 2247,Roslan Mohd Latif,,U,U,
 2248,Haji Mohd Zihin Bin Haji Mohd Hassan,,M,Malay,
@@ -2507,7 +2507,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2506,Saad @ Md. Zain Bin Hamzah,Saad @ Md. Zain Bin Hamzah,M,Malay,
 2507,Radzi Bin Ahmad,,M,Malay,
 2508,Abu Bakar Bin Taib,,M,Malay,
-2509,Hanafi Bin Ramli,,M,Malay,
+2509,Hanafi Bin Ramli,Hanafi bin Ramli,M,Malay,1943-12-06
 2510,Ahmad Bin Ma'Alim @ Mohd Alim,,M,Malay,
 2511,Mahathir Bin Mohamad,,M,Malay,
 2512,Affifuddin Bin Haji Omar,,M,Malay,
@@ -2531,7 +2531,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2530,Abdul Kadir Hj Sheikh Fadzir,,U,U,
 2531,Wan Mohd Jamin Bin Wan Mahmood,,M,Malay,
 2532,Kamarudin Bin Jaffar,Kamarudin Bin Jaffar,M,Malay,1952-11-03
-2533,Mohd Amar Bin Abdullah,Nik Mohd. Amar bin Nik Abdullah,M,Malay,
+2533,Mohd Amar Bin Abdullah,Mohd Amar Bin Abdullah (Nik Amar),M,Malay,1959-07-29
 2534,Ismail Bin Mat,Ismail Bin Mat,M,Malay,
 2535,Yusof Bin Mat,Yusof Bin Mat,M,Malay,
 2536,Ilani Binti Isahak,,F,Malay,
@@ -2562,29 +2562,29 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2561,Ibrahim Bin Hasan @ Ibrahim Azmi,,M,Malay,
 2562,Abu Bakar Bin Daud,Abu Bakar bin Daud,M,Malay,1936
 2563,Abdul Manan Bin Othman,,M,Malay,
-2564,Abdul Rahman Bin Othman,,M,Malay,
+2564,Abdul Rahman Bin Othman,Abdul Rahman Bin Othman,M,Malay,
 2565,Harun Bin Taib,,M,Malay,
 2566,Haji Mustafa Bin Muda,Mustafa Bin Muda,M,Malay,
 2567,Mokatar Rudin Bin Wan Yusof @ Haji Mokhtaruddin Bin Wan Yusof,Mokhtaruddin bin Wan Yusof,M,Malay,
 2568,Ramli Bin Taib,Ramli Bin Taib,M,Malay,
 2569,Alias Bin Abdul Rahman,Alias Bin Abdul Rahman,M,Malay,
-2570,Naser Bin Mohd. Razi,,M,Malay,
+2570,Naser Bin Mohd. Razi,Naser Bin Mohd. Razi,M,Malay,
 2571,Ibrahim Bin Saad,,M,Malay,
-2572,Mohd Salleh Bin Man,,M,Malay,
+2572,Mohd Salleh Bin Man,Mohd Salleh Bin Man,M,Malay,
 2573,Yeoh Koon Chooi,,U,U,
-2574,Mazani Bin Abdullah,,M,Malay,
+2574,Mazani Bin Abdullah,Mazani Bin Abdullah,M,Malay,
 2575,Anwar B. Ibrahim,,U,U,
-2576,Hj. A. Rahman Bin Manap,,M,Malay,
+2576,Hj. A. Rahman Bin Manap,A. Rahman Bin Manap,M,Malay,
 2577,Dr Tan Chong Keng,,U,U,
-2578,Balasundaram A/L Kanagaratnam,,M,U,
+2578,Balasundaram A/L Kanagaratnam,Balasundaram A/L Kanagaratnam,M,Indian,
 2579,Gooi Hock Seng @ Goi Hock Seng,,U,U,
 2580,Chia Kwang Chye,Chia Kwang Chye,M,Chinese,1952-07-09
-2581,Lim Cheak Kow,,U,U,
-2582,Rhina Bbhar @ Rani Raj Pal,,U,U,
+2581,Lim Cheak Kow,Lim Cheak Kow,M,Chinese,
+2582,Rhina Bbhar @ Rani Raj Pal,Rhina Bbhar @ Rani Raj Pal,F,Indian,
 2583,Lakhbir Singh A/L Sadu Singh,,M,Other,
 2584,Wong Kam Hoong,,U,U,
-2585,Nungsari Bin Ahmad Radhi,,M,Malay,
-2586,Yajya Bin Jali,,M,Malay,
+2585,Nungsari Bin Ahmad Radhi,Nungsari Bin Ahmad Radhi,M,Malay,
+2586,Yajya Bin Jali,Yahya bin Jali,M,Malay,
 2587,Mohamad Tajol Rosli Bin Mohd Ghazali,Mohd Tajol Rosli Bin Mohd Ghazali,M,Malay,1946-11-06
 2588,Roslan Bin Mohd Latif,,M,Malay,
 2589,Mohd Zihim Bin Mohd Hassan,,M,Malay,
@@ -2755,7 +2755,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2754,Johnity @ Maximus Bin Ongkili,,M,Malay,
 2755,Gapari Bin Katingan @ Geoffrey Kitingan,Jeffrey G. Kitingan,M,Bumi Sabah,1947-10-22
 2756,Jomilon Mojuntin @ Datuk Conrad Mojuntin,,U,U,
-2757,Md Salleh Md Said,,U,U,
+2757,Md Salleh Md Said,Md Salleh Md Said (Salleh Said Keruak),M,Malay,1957-07-10
 2758,Timbun B. Laganan @ Herbert Timbun Laganan,,U,U,
 2759,Yunof B. Meringking,,U,U,
 2760,Manggoh Arow @ Monggoh Orow,,U,U,
@@ -2786,7 +2786,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2785,Raman Bin Kardi @ Marjok,,M,Malay,
 2786,Nasir Bin Uddin,,M,Malay,
 2787,Chong Ket Wah @ Chong Ket Fah,Edmund Chong Ket Wah @ Chong Ket Fah,M,Chinese,1956-04-09
-2788,Lau Ngan Siew,,U,U,
+2788,Lau Ngan Siew,Lau Ngan Siew,M,Chinese,1943-07-06
 2789,Juhar Bin Mahiruddin,,M,Malay,
 2790,Abdul Malek Chua,Abdul Malek Chua,M,Bumi Sabah,1951
 2791,Abdullah Minun B. Sahirun,,U,U,
@@ -2912,7 +2912,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2911,Cikgu Shukrimun Bin Shamsudin,Shukrimun Bin Shamsudin,M,Malay,
 2912,Dr. Syed Azman Bin Syed Ahmad,Syed Azman Bin Syed Ahmad,M,Malay,
 2913,Dato' Abu Bakar Bin Daud,Abu Bakar Bin Daud,M,Malay,
-2914,Dato' Haji Muda Bin Mamat,,M,Malay,
+2914,Dato' Haji Muda Bin Mamat,Muda Bin Mamat,M,Malay,
 2915,Tuan Guru Hj. Abdul Hadi Bin Awang,,M,Malay,
 2916,Othman Bin Daud,Othman Bin Daud,M,Malay,
 2917,Haji Muhyidin Bin Haji Abdul Rashid,Muhyidin Bin Abdul Rashid,M,Malay,
@@ -2921,21 +2921,21 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 2920,Haji Abd. Rahman Bin Yusof,Abd. Rahman Bin Yusof,M,Malay,
 2921,Dato' Wan Zaki Bin Wan Muda,Wan Zaki Bin Wan Muda,M,Malay,
 2922,Dato' Seri Abdullah Haji Ahmad Badawi,Abdullah bin Ahmad Badawi,M,Malay,1939-11-26
-2923,Abd. Khalid Bin Rasid,,M,Malay,
+2923,Abd. Khalid Bin Rasid,Abd. Khalid Bin Rasid,M,Malay,
 2924,Dato' Seri Mohd. Shariff Haji Omar,,U,U,
-2925,Haji Rosli,,M,Malay,
+2925,Haji Rosli,Ahmad Rosli bin Ayob,M,Malay,
 2926,Tan Tiao Kuen,,U,U,
 2927,Dr. Wan Azizah Wan Ismail,Wan Azizah Binti Wan Ismail,F,Malay,1952-12-03
-2928,Dr. Ibrahim Saad,,M,Malay,
+2928,Dr. Ibrahim Saad,Ibrahim bin Saad,M,Malay,
 2929,Chong Eng,Chong Eng,F,Chinese,1957-07-06
-2930,Dr Kang Chin Seng,,U,U,
-2931,Haji Abdul Rahman Bin Haji Manap,,M,Malay,
+2930,Dr Kang Chin Seng,Kang Chin Seng,M,Chinese,
+2931,Haji Abdul Rahman Bin Haji Manap,Abdul Rahman Bin Manap,M,Malay,
 2932,Goh Kheng Huat,Goh Kheng Huat,M,Chinese,1963-07-23
 2933,Chow Kon Yeow,Chow Kon Yeow,M,Chinese,1958-11-14
 2934,Cheang Chee Gooi,Cheang Chee Gooi,M,Chinese,1949-11-16
-2935,Lee Kah Choon,,U,U,
+2935,Lee Kah Choon,Lee Kah Choon,M,Chinese,
 2936,Zulkifli Mohd. Noor,,U,U,
-2937,Dato Mohd. Zain B. Hj. Omar,,U,U,
+2937,Dato Mohd. Zain B. Hj. Omar,Mohd. Zain Bin Omar,M,Malay,
 2938,Khansiyah @ Khamsiah Binti Yeop,,F,Malay,
 2939,Zulkalpely @ Zulkifli Abu,,U,U,
 2940,Dato' Raja Ahmad Zainuddin Bin Raja Haji Omar,Raja Ahmad Zainuddin Bin Raja Omar,M,Malay,1956
@@ -3147,9 +3147,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3146,Datuk Railey Bin Hj. Jeffrey,,M,Malay,
 3147,Datuk Mohd. Shafie Apdal,Mohd Shafie bin Apdal,M,Malay,1957-10-20
 3148,Abdul Rahim @ Aburahim,Abdul Rahim @ Aburahim,M,Malay,
-3149,Kong Hong Ming,,U,U,
+3149,Kong Hong Ming,Kong Hong Ming,M,Chinese,1953-03-06
 3150,Datuk Hj. Majin Ajing,,U,U,
-3151,Shim Paw Fatt,,U,U,
+3151,Shim Paw Fatt,Shim Paw Fatt,M,Chinese,1949-09-24
 3152,Dr. Patau Ak Rubis,,U,U,
 3153,Tekhee @ Dr. Tiki Ak Lafe,,U,U,
 3154,Hajjah Rohani Binti Haji Abdul Karim,,F,Malay,
@@ -3189,7 +3189,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3188,Leo Moggie Ak Irok @ Moggie @ Datuk Amar Leo Moggie,,U,U,
 3189,Tadong Ak Tambi,,U,U,
 3190,Datuk Dr. Leo Michael Toyad,,U,U,
-3191,Yusuf Abdul Rahman,,U,U,
+3191,Yusuf Abdul Rahman,Yusuf Abdul Rahman,M,Bumi Sarawak,1956-06-03
 3192,Ricky Bernard Betti,,U,U,
 3193,Joseph Mauh Anak Ikeh,,U,U,
 3194,Nor Azman Bin Abdullah @ Baginda Ak Minda,,M,Malay,
@@ -3269,11 +3269,11 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3268,Dr Zulkifli Ahmad,Zulkifli bin Ahmad,M,Malay,
 3269,Nasharudin Mat Isa,,U,U,
 3270,Prof Datuk Dr. Abdullah Mohd Zin,Abdullah bin Mohd Zin,M,Malay,
-3271,Mohd Yusof Majid,,U,U,
+3271,Mohd Yusof Majid,Mohd Yusof bin Majid,M,Malay,
 3272,Che Ghani Che Ambak,,U,U,
 3273,Mohd Shukrimun Shamsudin,,U,U,
 3274,Che Azmi Abd Rahman,Che Azmi bin Abd Rahman,M,Malay,
-3275,Razali Ismail,,U,U,
+3275,Razali Ismail,Razali Bin Ismail,M,Malay,
 3276,Dr Syed Azam Syed Ahmad,,U,U,
 3277,Datuk Seri Abdul Hadi Awang,,U,U,
 3278,Datuk Abdul Rahman Bakar,,U,U,
@@ -3288,19 +3288,19 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3287,Datuk Seri Mohd Shariff Omar,,U,U,
 3288,Mujahid Yusof Rawa,Mujahid Bin Yusof,M,Malay,1964-10-25
 3289,Lim Chien Aun,,U,U,
-3290,Datuk Pirdaus Ismail,,U,U,
+3290,Datuk Pirdaus Ismail,Pirdaus Bin Ismail,M,Malay,
 3291,Datin Seri Dr Wan Azizah Wan Ismail,,U,U,
-3292,Ma Kok Ben,,U,U,
+3292,Ma Kok Ben,Ma Kok Ben,M,Chinese,
 3293,Huan Cheng Guan,,U,U,
 3294,Tanasekharan A/L Audherapady,,M,U,
 3295,Law Choo Kian,,U,U,
-3296,Datuk Zainal Abidin Osman,,U,U,
-3297,Zulkifli Mohd Noor,,U,U,
-3298,Ooi Swee Hing,,U,U,
-3299,Gooi Seong Kin,,U,U,
+3296,Datuk Zainal Abidin Osman,Zainal Abidin Osman,M,Malay,
+3297,Zulkifli Mohd Noor,Zulkifli bin Mohd Noor,M,Malay,
+3298,Ooi Swee Hing,Ooi Swee Hing,M,Chinese,
+3299,Gooi Seong Kin,Gooi Seong Kin,M,Chinese,
 3300,Ong Peng Cheow,,U,U,
 3301,Datuk Dr Hilmi Yahaya,Hilmi bin Yahaya,M,Malay,1948-03-06
-3302,Dr Rohana Ariffin,,U,U,
+3302,Dr Rohana Ariffin,Rohana binti Ariffin,F,Malay,
 3303,Ramli Tusin,,U,U,
 3304,Datuk Dr Wan Hashim Wan Teh,,U,U,
 3305,Datil Khamsiyah Yeop,,U,U,
@@ -3383,7 +3383,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3382,Raja Kamaruddin Raja Abdul Wahid,,U,U,
 3383,Mohd Daud Taripeh,,U,U,
 3384,Datuk Chan Kong Choy,,U,U,
-3385,Koh Swe Yong,,U,U,
+3385,Koh Swe Yong,Koh Swe Yong,M,Chinese,
 3386,Dr Raman Ismail,,U,U,
 3387,Dr Mohd Hatta Md Ramli,,U,U,
 3388,Dr Rozaidah Talib,,U,U,
@@ -3490,7 +3490,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3489,Salleh Farmin,,U,U,
 3490,Datuk Dr Adham Baba,,U,U,
 3491,Datuk Syed Hamid Albar,,U,U,
-3492,Datuk Azalina Othman Said,,U,U,
+3492,Datuk Azalina Othman Said,Azalina binti Othman Said,F,Malay,1963-12-31
 3493,Yaakob Mohd Yusof,,U,U,
 3494,Ling Ban San @ Teng Boon Soon,,U,U,
 3495,Datuk Mohamed Khaled Nordin,,U,U,
@@ -3535,10 +3535,10 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3534,Ruhimin Adzim,,U,U,
 3535,Karim Adam,,U,U,
 3536,Japiril Suhaimin,,U,U,
-3537,Raimi Unggi,,U,U,
+3537,Raimi Unggi,Raime bin Unggi,M,Malay,1970-03-08
 3538,Datuk Laimun Laikin,,U,U,
 3539,Bernard S.Maraat,,U,U,
-3540,Razali Suffian Koroh,,U,U,
+3540,Razali Suffian Koroh,Samson Suffian Koroh (Razali),M,Malay,1968-09-19
 3541,Matin Tomy@Tommy,,U,U,
 3542,Rajmunni Sabu,,U,U,
 3543,Juslie Ajirol,,U,U,
@@ -3654,14 +3654,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3653,Che Musa,Che Musa bin Che Omar,M,Malay,
 3654,Zulkefli Bin Mohamed,Zulkefli Bin Mohamed,M,Malay,
 3655,Abdullah Bin Md Zin,,M,Malay,
-3656,Mohd Pauzi Bin Muda,,M,Malay,
+3656,Mohd Pauzi Bin Muda,Mohd Pauzi bin Muda,M,Malay,
 3657,Mohd Jidin Bin Shafee,Mohd Jidin bin Shafee,M,Malay,1956-04-04
 3658,Shukrimun Bin Shamsudin,,M,Malay,
 3659,Mohd Nasir B. Tan Ibrahim Fikri,Mohamed Nasir bin Ibrahim Fikri,M,Malay,
 3660,Mohamad Sabu,Mohamad bin Sabu,M,Malay,1954-10-14
 3661,Maimun Binti Yusuf,Maimun Binti Yusuf,F,Malay,
-3662,Razali Bin Ismail,Razali Bin Ismail,M,Malay,
-3663,Ahmad Ramzi Bin Mohamad Zubir,,M,Malay,
+3662,Razali Bin Ismail,,M,Malay,
+3663,Ahmad Ramzi Bin Mohamad Zubir,Ahmad Ramzi Bin Mohamad Zubir,M,Malay,
 3664,Abdul Hadi Bin Awang,,M,Malay,
 3665,Kamaruzaman Bin Abdullah,Kamaruzaman Bin Abdullah,M,Malay,
 3666,Mohd Nor Bin Othman,Mohd Nor Bin Othman,M,Malay,1952-05-14
@@ -3669,26 +3669,26 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3668,Ahmad Shabery Cheek,,U,U,
 3669,Fariz Musa,Fariz bin Musa,M,Malay,1970-03-01
 3670,Abdullah Bin Ahmad Badawi,,M,Malay,
-3671,Subri Arshad,,U,U,
+3671,Subri Arshad,Subri bin Md Arshad,M,Malay,
 3672,Cik Gu Ismail Salleh,Ismail bin Salleh,M,Malay,1963-09-20
-3673,Nor Mohamed Yakcop,,U,U,
+3673,Nor Mohamed Yakcop,Nor Mohamed bin Yakcop,M,Malay,1947-08-24
 3674,Song Choy Leng,,U,U,
 3675,Pirdaus Bin Ismail,,M,Malay,
 3676,Wan Azizah,,U,U,
-3677,Ong Tang Chuan,,U,U,
+3677,Ong Tang Chuan,Ong Tang Chuan,M,Chinese,
 3678,P. Ramasamy,,U,U,
-3679,Tan Tee Beng,,U,U,
+3679,Tan Tee Beng,Tan Tee Beng,M,Chinese,
 3680,Zainal Abidin Osman,,U,U,
 3681,Liew Chin Tong,Liew Chin Tong,M,Chinese,1977-11-27
-3682,Khaw Veon Szu,,U,U,
-3683,Thor Teong Gee,,U,U,
-3684,Badrul Zaman,,U,U,
-3685,Ooi Chuan Aun,,U,U,
+3682,Khaw Veon Szu,Khaw Veon Szu,M,Chinese,
+3683,Thor Teong Gee,Thor Teong Gee,M,Chinese,
+3684,Badrul Zaman,Badrul Zaman,M,Malay,
+3685,Ooi Chuan Aun,Ooi Chuan Aun,M,Chinese,
 3686,Koay Kar Huah,,U,U,
 3687,Ooi Siew Kim,,U,U,
 3688,Zahrain Mohamed Hashim,,U,U,
-3689,Norraesah Mohamad,,U,U,
-3690,Yusmadi Yusoff,,U,U,
+3689,Norraesah Mohamad,Norraesah binti Mohamad,F,Malay,
+3690,Yusmadi Yusoff,Yusmadi bin Yusoff,M,Malay,
 3691,Mohd Noor,,U,U,
 3692,Ibrahim Zakaria,,U,U,
 3693,Shamsul Anuar Nasarah,,U,U,
@@ -3718,7 +3718,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3717,Lee Chee Leong,Lee Chee Leong,M,Chinese,1957-10-22
 3718,Lee Boon Chye,,U,U,
 3719,Ling Hee Leong,,U,U,
-3720,M. Saravanan,,U,U,
+3720,M. Saravanan,Saravanan a/l Murugan,M,Indian,1968-02-04
 3721,S. T. Tan,,U,U,
 3722,Mustaffa Kamil Ayub,,U,U,
 3723,Tajuddin Abdul Rahman,,U,U,
@@ -3758,7 +3758,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3757,Dzulkefly Ahmad,,U,U,
 3758,Jahaya Bin Ibrahim,,M,Malay,
 3759,Lee Li Yew,,U,U,
-3760,William Leong Jee Keen,,U,U,
+3760,William Leong Jee Keen,William Leong Jee Keen,M,Chinese,1957-01-27
 3761,Azmin Ali,Mohamed Azmin Bin Ali,M,Malay,1964-08-25
 3762,Said Anuar Said Ahmad,,U,U,
 3763,Azman Bin Wahid,,M,Malay,
@@ -3922,7 +3922,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3921,Chung Kwong Wing,Chung Kwong Wing,M,Chinese,
 3922,Fong Vun Fui,,U,U,
 3923,Chong Chui Lin,Chong Chui Lin @ Shanty,F,Chinese,1951
-3924,Liew Vui Keong,,U,U,
+3924,Liew Vui Keong,Liew Vui Keong,M,Chinese,1960-01-18
 3925,Dasim @ Ricky Bin Jikah,Dasim @ Ricky bin Jikah,M,Malay,
 3926,Ahmad Bin Abdul,,M,Malay,
 3927,Salleh Kalbi,,U,U,
@@ -3969,7 +3969,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 3968,Lim Chin Chuang,,U,U,
 3969,Muhammad Leo Michael Toyad,,U,U,
 3970,Hai Bin Merawin @ Bonaventure,,M,Malay,
-3971,George Anak Lagong,,U,U,
+3971,George Anak Lagong,George Anak Lagong,M,Bumi Sarawak,1960
 3972,Tiong King Sing,,U,U,
 3973,Lim Su Kien,,U,U,
 3974,Ahmad Lai Bin Bujang,Ahmad Lai Bin Bujang,M,Malay,1949-11-26
@@ -4030,44 +4030,44 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4029,Idris Jusoh,,U,U,
 4030,Riduan Mohamad Nor,Riduan bin Mohamad Nor,M,Malay,1971-06-01
 4031,Che Mohamad Zulkifly Bin Jusoh,,M,Malay,
-4032,Omar Sidek,,U,U,
+4032,Omar Sidek,Omar bin Sidek,M,Malay,
 4033,Khairuddin Takiri,Mohd Khairuddin bin Aman Razali,M,Malay,1963-12-09
 4034,Mohd Zubir Bin Embong,Mohd Zubir bin Embong,M,Malay,1964-06-19
 4035,Raja Bahrin,Raja Kamarul Bahrin Shah bin Raja Ahmad Baharuddin Ismail Shah,M,Malay,1955-01-14
-4036,Yahya Bin Khatib Mohamad,,M,Malay,
+4036,Yahya Bin Khatib Mohamad,Yahya Bin Khatib Mohamad,M,Malay,
 4037,Jailani Johari,Jailani Bin Johari,M,Malay,1965-08-02
 4038,Rosli Mat Hassan,,U,U,
 4039,Wan Hassan Mohd Ramli,Wan Hassan bin Mohd Ramli,M,Malay,
 4040,Mazlan Bin Harun,Mazlan Bin Harun,M,Malay,
 4041,Kamarudin Chik,Kamarudin bin Chik,M,Malay,
-4042,Reezal Merican B Naina Merican,,U,U,
-4043,Afnan Hamimi B. Taib Azamudden,,U,U,
+4042,Reezal Merican B Naina Merican,Reezal Merican Bin Naina Merican,M,Malay,1972-07-29
+4043,Afnan Hamimi B. Taib Azamudden,Afnan Hamimi Bin Taib Azamudden,M,Malay,1981
 4044,Mohd Shariff Bin Omar,,M,Malay,
 4045,Shabudin Yahaya,Shabudin Yahaya,M,Malay,1965-11-12
-4046,Abdul Rahman Maidin,,U,U,
+4046,Abdul Rahman Maidin,Abdul Rahman bin Maidin,M,Malay,
 4047,Lim Kim Chu,,U,U,
 4048,David Chua Teik Siang,,U,U,
-4049,Mazlan Ismail,,U,U,
+4049,Mazlan Ismail,Mazlan bin Ismail,M,Malay,
 4050,Anwar Ibrahim,,U,U,
-4051,Zawawi,,U,U,
-4052,Gui Guat Lye,,U,U,
-4053,Sim Chee Keong,,U,U,
+4051,Zawawi,Abdullah Zawawi bin Samsudin,M,Malay,
+4052,Gui Guat Lye,Gui Guat Lye,M,Chinese,
+4053,Sim Chee Keong,Sim Chee Keong,M,Chinese,
 4054,Gobalakrishnan A/L Narayanasamy,,M,Indian,
 4055,Kasthuriraani Patto,Kasthuriraani Patto,F,Indian,1979-08-09
 4056,Huan Cheng Guan @ Huan,,U,Chinese,
 4057,Mohan Apparoo,,U,Indian,
-4058,Teng Kok Pheng,,U,Chinese,
+4058,Teng Kok Pheng,Teng Kok Pheng,M,Chinese,
 4059,Mansor Othman,Mansor bin Othman,M,Malay,1950-03-12
 4060,Zairil Khir Johari,Zairil Khir Johari,M,Malay,1982-10-17
-4061,Teh Leong Meng,,U,Chinese,
-4062,Ng Wei Aik,,U,Chinese,
-4063,Ng Song Kheng,,U,Chinese,
+4061,Teh Leong Meng,Teh Leong Meng,M,Chinese,
+4062,Ng Wei Aik,Ng Wei Aik,M,Chinese,1977-12-20
+4063,Ng Song Kheng,Ng Song Kheng,M,Chinese,
 4064,Ng Fook On,Ng Fook On,M,Chinese,1960-03-28
 4065,Teh Beng Yeam,,U,Chinese,
 4066,Sim Tze Tzin,Sim Tze Tzin,M,Chinese,1976-02-06
 4067,Tang Heap Seng,,U,Chinese,
 4068,Hilmi Yahaya,Hilmi bin Yahaya,M,Malay,1948-03-06
-4069,Muhammad Bakhtiar Bin Wan Chik,,M,Malay,
+4069,Muhammad Bakhtiar Bin Wan Chik,Muhammad Bakhtiar Bin Wan Chik,M,Malay,1965-05-22
 4070,Norhayati Binti Kasim,,F,Malay,
 4071,Hasbullah Osman,,U,U,
 4072,Razman Zakaria,,U,U,
@@ -4195,7 +4195,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4194,Radzali A. Ghani,Radzali bin Abdul Ghani,M,Malay,
 4195,A.K Kumaravel,,U,U,
 4196,Vs Mogan,,U,U,
-4197,Mas Ermieyati,,U,U,
+4197,Mas Ermieyati,Mas Ermieyati binti Samsudin,F,Malay,1976-11-13
 4198,Nasaie Ismail,,U,U,
 4199,Damian (Baba) Yeo,,U,U,
 4200,Koh Nai Kwong,,U,U,
@@ -4264,7 +4264,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4263,Yazid Bin Sahjinan,,M,Malay,
 4264,Ewon Ebin,Ewon Ebin,M,Bumi Sabah,1954-06-26
 4265,Julianah Binti Situn @ Widya Julia,,F,Malay,
-4266,Stephen Sandor,,U,U,
+4266,Stephen Sandor,Stephen Sandor,M,Bumi Sabah,1954-04-24
 4267,Jimmy Jawatah,,U,U,
 4268,Masdin Bin Tumas,,M,Malay,
 4269,Hasmin Azroy Abdullah,,U,U,
@@ -4278,7 +4278,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4277,Mohd Serman,,U,U,
 4278,Rosnah Binti Unsari,,F,Malay,
 4279,Hamzah Bin Abdullah,,M,Malay,
-4280,Linda Tsen Thau Lin,,U,U,
+4280,Linda Tsen Thau Lin,Linda Tsen Thau Lin,F,Chinese,1956-07-29
 4281,Saiful Bahari Rashada Bin Ahmad,,M,Malay,
 4282,Stephen Wong Tien Fatt,Stephen Wong Tien Fatt,M,Chinese,1954-10-02
 4283,Abdullah Bin Abdul Sani,Abdullah bin Abdul Sani,M,Malay,1959-08-27
@@ -4288,12 +4288,12 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4287,Dumi Bin Pg. Masdal,Dumi bin Pg. Masdal,M,Malay,1956-03-05
 4288,Zamree @ Mohd Suffian B Abdul Habi,,U,U,
 4289,Badaruddin Tun Mustapha,,U,U,
-4290,Mary Yap Kain Ching,,U,U,
-4291,Mohd Bin Manuke,,M,Malay,
-4292,Malvine Reyes,,U,U,
+4290,Mary Yap Kain Ching,Mary Yap Kain Ching,F,Chinese,1951-03-10
+4291,Mohd Bin Manuke,Mohd bin Manuke,M,Malay,1960-05-22
+4292,Malvine Reyes,Malvine Reyes,M,Bumi Sabah,
 4293,Freddie Japat Anak Simol,,U,U,
 4294,Usman Madeaming,,U,U,
-4295,Yahya Bin Zainal,,M,Malay,
+4295,Yahya Bin Zainal,Yahya bin Zainal,M,Malay,1952-10-30
 4296,Siamsir Bin Borhan,,M,Malay,
 4297,Nogeh Anak Gumbek,,U,U,
 4298,Mordi Bimol,,U,U,
@@ -4303,7 +4303,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4302,Tan Kai,,U,U,
 4303,Julian Tan Kok Ping,,U,U,
 4304,Soo Lina,,U,U,
-4305,Rubiah Wang,Rubiah Binti Wang,F,Malay,
+4305,Rubiah Wang,Rubiah Binti Wang,F,Malay,1968-03-16
 4306,Abang Ahmad,,U,U,
 4307,Willie Mongin,,U,U,
 4308,Dripin Anak Sakoi,,U,U,
@@ -4323,7 +4323,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4322,Andy Wong Hong Yu,,U,U,
 4323,Ellison Ludan,,U,U,
 4324,Thomas Laja Anak Besi,,U,U,
-4325,Alice Lau Kiong Yieng,,U,U,
+4325,Alice Lau Kiong Yieng,Alice Lau Kiong Yieng,F,Chinese,1981-07-30
 4326,Vincent Lau Lee Ming,,U,U,
 4327,Oscar Ling Chai Yew,Oscar Ling Chai Yew,M,Chinese,1977-10-09
 4328,Sylvester Ajah Subah,,U,U,
@@ -4368,11 +4368,11 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4367,Tarmizi Sulaiman,,U,U,
 4368,Azli Che Uda,,U,U,
 4369,Ahmad Fauzi,Ahmad Fauzi Ramli,M,Malay,
-4370,Sharir Long,,U,U,
+4370,Sharir Long,Sharir Bin Long,M,Malay,1954-12-10
 4371,Shahanim Binti Mohamad Yusoff,,F,Malay,
 4372,P. Sritharan,,U,U,
 4373,Hassan Bin Saad,,M,Malay,
-4374,Mohd Taufik Bin Hj Yaacob,,M,Malay,
+4374,Mohd Taufik Bin Hj Yaacob,Mohd Taufik Bin Yaacob,M,Malay,1969-04-24
 4375,Karupaiya Mutusami,,U,U,
 4376,Muhamad Sobri Bin Osman,,M,Malay,
 4377,Leong Yong Kong,,U,U,
@@ -4406,14 +4406,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4405,Abdullah Bin Hussein,Abdullah Bin Hussein,M,Malay,
 4406,Abe Nor,Mohd. Nor bin Hussin,M,Malay,
 4407,Wan Nazari,Wan Nazari bin Wan Jusoh,M,Malay,
-4408,Zukirnain Abdul Kadir,,U,U,
-4409,Mohd Faudzi Bin Musa,,M,Malay,
+4408,Zukirnain Abdul Kadir,Shaharizukirnain bin Abdul Kadir,M,Malay,1969-11-22
+4409,Mohd Faudzi Bin Musa,Mohd Faudzi Bin Musa,M,Malay,
 4410,Abdullah Bin Mohamed,Abdullah Bin Mohamed,M,Malay,
 4411,Tengku Asmadi,Tengku Asmadi Tengku Mohamad,M,Malay,
 4412,Amzad Hashim,Ahmad Amzad bin Mohamed @ Hashim,M,Malay,1970-01-15
 4413,Wan Nawawi Bin Wan Ismail,Wan Nawawi Bin Wan Ismail,M,Malay,
 4414,Zarawi Bin Sulong,Zarawi bin Sulong,M,Malay,
-4415,Mohamad Nor Bin Endot,,M,Malay,
+4415,Mohamad Nor Bin Endot,Mohamad Nor Bin Endot,M,Malay,
 4416,Razali Idris,Razali Bin Idris (Tok Li),M,Malay,1966-07-15
 4417,Rosol Bin Wahid,Rosol Bin Wahid,M,Malay,
 4418,Muhyidin Abdul Rashid,,U,U,
@@ -4421,31 +4421,31 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4420,Abdul Rahman Yusof,Abdul Rahman bin Yusof,M,Malay,
 4421,Alias Abdul Hamid,Che Alias bin Hamid,M,Malay,
 4422,Mohd Huzaifah Md. Suhaimi,Mohd Huzaifah bin Md. Suhaimi,M,Malay,
-4423,Zaidi Bin Zakaria,,M,Malay,
-4424,Siti Mastura Muhammad,,U,U,
-4425,Marzuki Bin Yahya,,M,Malay,
-4426,Rizal Hafiz Bin Ruslan,,M,Malay,
+4423,Zaidi Bin Zakaria,Zaidi Bin Zakaria,M,Malay,
+4424,Siti Mastura Muhammad,Siti Mastura binti Muhammad,F,Malay,1989-08-27
+4425,Marzuki Bin Yahya,Marzuki Bin Yahya,M,Malay,1970-09-04
+4426,Rizal Hafiz Bin Ruslan,Rizal Hafiz Bin Ruslan,M,Malay,
 4427,Koay Xing Boon,,U,U,
 4428,Lee Beng Seng,,U,U,
-4429,Mohd Zaidi Mohd Said,,U,U,
+4429,Mohd Zaidi Mohd Said,Mohd Zaidi bin Mohd Said,M,Malay,
 4430,Ooi Khar Giap,Ooi Khar Giap,M,Chinese,1967-04-16
 4431,Jay Kumar,,U,U,
-4432,Shaik Hussein Bin Mydin,,M,Malay,
-4433,Mohd Helmi Bin Harun,,M,Malay,
+4432,Shaik Hussein Bin Mydin,Shaik Hussein Bin Mydin,M,Malay,
+4433,Mohd Helmi Bin Harun,Mohd Helmi Bin Harun,M,Malay,
 4434,Wong Hon Wai,Wong Hon Wai,M,Chinese,1973-03-01
-4435,Tan Gin Theam,,U,U,
-4436,Andy Yong Kim Seng,,U,U,
+4435,Tan Gin Theam,Tan Gin Theam,M,Chinese,
+4436,Andy Yong Kim Seng,Andy Yong Kim Seng,M,Chinese,
 4437,Ng Siew Lai,Ng Siew Lai,F,Chinese,1961-07-22
 4438,Baljit Singh,Baljit Singh A/L Jigiri Singh,M,Indian,1966-06-23
 4439,Sanisvara Netrayer A/L Rajaji,Sanisvara Nethaji Rayer Rajaji Rayer,M,Indian,1971-06-11
-4440,Tan Sim Bee,,U,U,
+4440,Tan Sim Bee,Tan Sim Bee,M,Chinese,
 4441,Low Joo Hiap,,U,U,
 4442,Ramkarpal Singh A/L Karpal Singh,Ramkarpal Singh a/l Karpal Singh,M,Indian,1976-04-09
 4443,Lai Xue Ching,,U,U,
 4444,David Yim Boon Leong,,U,U,
 4445,Chuah Seng Guan,,U,U,
 4446,Iszuree Bin Ibrahim,,M,Malay,
-4447,Muhammad Imran Bin Muhammad Sa'Ad,,M,Malay,
+4447,Muhammad Imran Bin Muhammad Sa'Ad,Muhammad Imran bin Muhammad Saad,M,Malay,
 4448,Dahalan,,U,U,
 4449,Ibrahim Hanafiah,,U,U,
 4450,Amirul Fairuzzeen,,U,U,
@@ -4564,7 +4564,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4563,Xavier Jayakumar,Xavier Jayakumar A/L Arulanandam,M,Indian,1953-01-20
 4564,Shahril Hamdan,Shahril Sufian bin Hamdan,M,Malay,1985-10-29
 4565,Yahya Baba,,U,U,
-4566,Sabirin Marsono,,U,U,
+4566,Sabirin Marsono,Sabirin Bin Marsono,M,Malay,1967-08-08
 4567,Marsum Bin Paing,,M,Malay,
 4568,Ong Siang Liang,,U,U,
 4569,V M Panjamothy,,U,U,
@@ -4702,7 +4702,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4701,Rubin Bin Balang,Rubin bin Balang,M,Malay,1963-03-01
 4702,Noorita Sual,Noorita binti Sual,F,Malay,1980-04-28
 4703,Laimoi @ Yuslinah Binti Laikim,,F,Malay,
-4704,Raymond Bin Ahuar,,M,Malay,
+4704,Raymond Bin Ahuar,Raymond bin Ahuar,M,Malay,1985-08-15
 4705,Maidin Bin Atak @ Maidin Osman,,M,Malay,
 4706,Arthur Joseph Kurup,Arthur Joseph Kurup,M,Bumi Sabah,1982-08-04
 4707,Engah Bin Sintan,,M,Malay,
@@ -4750,8 +4750,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4749,Robert Lawson Chuat,,U,U,
 4750,Subeng Anak Mula,,U,U,
 4751,Yusuf Bin Abdul Wahab,,M,Malay,
-4752,Fadillah Sabali,,U,U,
-4753,Hud Andri,,U,U,
+4752,Fadillah Sabali,Mohamad Fadillah Bin Sabali,M,Malay,
+4753,Hud Andri,Andri Zulkarnaen bin Hamden (Hud Andri),M,Bumi Sarawak,1972-08-24
 4754,Ahmad Johnie Bin Zawawi,,M,Malay,
 4755,Wong Chin King,,U,U,
 4756,Huang Tiong Sii,Huang Tiong Sii,M,Chinese,1969-03-18
@@ -4825,7 +4825,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4824,Maiza,,U,U,
 4825,Dato' Latifah,,U,U,
 4826,Ahmad Tarmizi Sulaiman,,U,U,
-4827,Dato' Shaiful Hazizy,,U,U,
+4827,Dato' Shaiful Hazizy,Shaiful Hazizy Bin Zainol Abidin (Tok Pon),M,Malay,1976-05-28
 4828,Mohd Nazri,,U,U,
 4829,Datuk Mosin Razak,,U,U,
 4830,Dr. Taufiq Bin Dato' Johari,,M,Malay,
@@ -4900,7 +4900,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4899,Pok Zahari,Zahari bin Kechik,M,Malay,1960-01-17
 4900,Norwahida Patuan,Norwahida binti Patuan,F,Malay,
 4901,Md Radzi,Md Radzi bin Wahab,M,Malay,
-4902,Ustaz Latiff,,M,Malay,
+4902,Ustaz Latiff,Ustaz Latiff,M,Malay,1971-07-07
 4903,Zuki,Mohd Zulkepli bin Omar,M,Malay,
 4904,Norashikin,Norashikin binti Che Umar,F,Malay,
 4905,Syam Ghaz,Mohamad Hisyamuddin bin Ghazali,M,Malay,
@@ -4911,21 +4911,21 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4910,Dato' Ir. Wan Nazari,,U,U,
 4911,Ustaz Aziz,Abd Rahman @ Abd Aziz Abas,M,Malay,
 4912,Datuk Haji Nawi Mohamad,Nawi bin Mohamad,M,Malay,1963-05-16
-4913,Abdul Rahman Bin Mat Yasin,,M,Malay,
+4913,Abdul Rahman Bin Mat Yasin,Abdul Rahman Bin Mat Yasin,M,Malay,
 4914,Ustaz Zukirnain Abd Kadir,,M,Malay,
-4915,Wan Adnan,,U,U,
+4915,Wan Adnan,Wan Adnan bin Wan Ali,M,Malay,
 4916,Dato' Dr. Haji Alias Razak,Alias bin Razak,M,Malay,1959-06-21
 4917,Ust. Dato' Dr. Khairuddin Takiri,,U,U,
 4918,Azaha,Azahar bin Wahid,M,Malay,
 4919,Dato' Seri Suhaimi Hashim,Suhaimi bin Hashim,M,Malay,
-4920,Mohamad Abu Bakar Bin Muda,,M,Malay,
+4920,Mohamad Abu Bakar Bin Muda,Mohamad Abu Bakar Bin Muda,M,Malay,
 4921,Dato' Cikgu Zubir,,U,U,
 4922,Dato' Raja Bahrin,,U,U,
 4923,Datuk Haji Amzad Hashim,Ahmad Amzad bin Mohamed @ Hashim,M,Malay,1970-01-15
 4924,Tuan Guru Haji Abdul Hadi Awang,,U,U,
-4925,Jasmira Othman,,U,U,
+4925,Jasmira Othman,Jasmira bin Othman,M,Malay,
 4926,Dr.Zarawi Bin Sulong,Zarawi Bin Sulong,M,Malay,
-4927,Ustaz Azhar,Azhar Bin Salleh,M,Malay,1967-01-07
+4927,Ustaz Azhar,Azhar Bin Abdul Shukur,M,Malay,1965
 4928,Cikgu Rozi,Rozi bin Mamat,M,Malay,
 4929,Khadri,Mohd Khadri bin Abdullah,M,Malay,
 4930,Dato Rosol Wahid,,U,U,
@@ -4939,43 +4939,43 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4938,Ustaz Che Alias Hamid,,M,Malay,
 4939,Dato' Seri Hj Ahmad Bin Said,Ahmad Bin Said,M,Malay,1957-02-15
 4940,Hasuni Bin Sudin,Hasuni Bin Sudin,M,Malay,
-4941,Ustaz Hamidi Abu Hassan,,M,Malay,
+4941,Ustaz Hamidi Abu Hassan,Hamidi bin Abu Hassan,M,Malay,
 4942,Dr Ustazah Mastura,,F,Malay,
-4943,Danial Abdul Majeed,,U,U,
+4943,Danial Abdul Majeed,Danial bin Abdul Majeed,M,Malay,
 4944,Dato' Sri Reezal Merican Bin Naina Merican,,M,Malay,
-4945,Akmal Azhar,,U,U,
-4946,Razak Ridzuan,,U,U,
-4947,Dr. Abdul Halim,,U,U,
-4948,Muhamad Yusoff Bin Mohd Noor (Yb Chop),,M,Malay,
-4949,Datuk Wan Saiful Wan Jan,,U,U,
+4945,Akmal Azhar,Mohd Akmal bin Azhar,M,Malay,
+4946,Razak Ridzuan,Razak bin Ridzuan,M,Malay,
+4947,Dr. Abdul Halim,Abdul Halim bin Sirjung,M,Malay,
+4948,Muhamad Yusoff Bin Mohd Noor (Yb Chop),Muhamad Yusoff Bin Mohd Noor (Yb Chop),M,Malay,1963-03-30
+4949,Datuk Wan Saiful Wan Jan,Wan Saifulruddin bin Wan Jan,M,Malay,1976-06-21
 4950,Tan Chuan Hong,,U,U,
 4951,Alan Oh,,U,U,
 4952,Hafiz,,U,U,
 4953,Datuk Zaidi,,U,U,
-4954,Ust Fawwaz Md Jan,,U,U,
-4955,Cikgu Nasir,,U,U,
+4954,Ust Fawwaz Md Jan,Muhammad Fawwaz bin Mohamad Jan,M,Malay,
+4955,Cikgu Nasir,Mohamad Nasir bin Osman,M,Malay,
 4956,Steven Sim Chee Keong,,U,U,
-4957,Ah Pang,,U,U,
+4957,Ah Pang,Tan Yang Pang,M,Chinese,
 4958,Steven Koh,Koh Tien Yew (Steven Koh),M,Chinese,1981-01-09
 4959,Lee Ah Leong,,U,U,
 4960,Tan Lee Huat,,U,U,
 4961,Wong Chia Zhen,Wong Chia Zhen,M,Chinese,1985-03-29
 4962,Ong Chin Wen,,U,U,
-4963,Fadhlina Binti Sidek,,F,Malay,
+4963,Fadhlina Binti Sidek,Fadhlina Binti Sidek,F,Malay,
 4964,Dato' Mansor Bin Othman,,M,Malay,
-4965,Datuk Seri Thanenthiran,,U,U,
-4966,Syerleena Abdul Rashid,,U,U,
+4965,Datuk Seri Thanenthiran,Thanenthiran A/L Ramankutty,M,Indian,
+4966,Syerleena Abdul Rashid,Syerleena binti Abdul Rashid,F,Malay,1980-08-31
 4967,Teh Yee Cheu,Teh Yee Cheu,M,Chinese,1958-07-02
 4968,Hng Chee Wey,Hng Chee Wey,M,Chinese,1977-04-29
-4969,Richie Huan Xin Yun,,U,U,
-4970,Razalif Zain,,U,U,
-4971,Lim Hui Ying,,U,U,
-4972,Tan Kim Nee,,U,U,
-4973,Ah Leng,,U,U,
+4969,Richie Huan Xin Yun,Richie Huan Xin Yun,M,Chinese,
+4970,Razalif Zain,Razalif bin Zain,M,Malay,
+4971,Lim Hui Ying,Lim Hui Ying,F,Chinese,1963
+4972,Tan Kim Nee,Tan Kim Nee,M,Chinese,
+4973,Ah Leng,H'ng Khoon Leng,M,Chinese,
 4974,Sanisvara Nethaji Rayer (Rsn Rayer),Sanisvara Nethaji Rayer Rajaji Rayer,M,Indian,1971-06-11
-4975,Yacoob Bin Noor,,M,Malay,
-4976,Datuk Loganathan A/L Thoraisamy,Loganathan Thoraisamy ,M,Indian,1963-12-27
-4977,Lim Huat Poh (Martin),,U,U,
+4975,Yacoob Bin Noor,Yacoob Bin Noor,M,Malay,
+4976,Datuk Loganathan A/L Thoraisamy,Loganathan A/L Thoraisamy ,M,Indian,1963-12-27
+4977,Lim Huat Poh (Martin),Lim Huat Poh (Martin),M,Chinese,
 4978,P. Thinagaranabhan,,U,U,
 4979,Ramkarpal Singh,Ramkarpal Singh a/l Karpal Singh,M,Indian,1976-04-09
 4980,Wong Chin Chong,,U,U,
@@ -4984,11 +4984,11 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 4983,Ravinder Singh,Ravinder Singh A/L Mall Singh,M,Indian,1942-10-29
 4984,Kan Chee Yuen,,U,U,
 4985,Oh Tong Keong,Oh Tong Keong,M,Chinese,1968-06-24
-4986,Datuk Shah Headan Bin Ayoob Shah,,M,Malay,
-4987,Dato' Sri Johnny (Dsj),,U,U,
-4988,Harris Idaham Rashid,,U,U,
-4989,Dato Sri Sabaruddin Bin Ahmad,,M,Malay,
-4990,Fazli Mohammad,,U,U,
+4986,Datuk Shah Headan Bin Ayoob Shah,Shah Headan Bin Ayoob Shah,M,Malay,
+4987,Dato' Sri Johnny (Dsj),Johnny Ch'ng Ewe Gee,M,Chinese,
+4988,Harris Idaham Rashid,Muhammad Harris Idaham bin Abdul Rashid,M,Malay,
+4989,Dato Sri Sabaruddin Bin Ahmad,Sabaruddin Bin Ahmad,M,Malay,
+4990,Fazli Mohammad,Fazli bin Mohammad,M,Malay,
 4991,Dr Asyraf Wajdi Dusuki,Asyraf Wajdi Dusuki,M,Malay,1976-05-14
 4992,Fathul Huzir Ayob,,U,U,
 4993,Dr Shamsul Anuar Nasarah,,U,U,
@@ -5055,7 +5055,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5054,Saraswathy Kandasami,,U,U,
 5055,Datuk Haji Muhammad Yadzan Bin Haji Mohammad,,M,Malay,
 5056,Mohamed Akbar B. Yasin,,U,U,
-5057,Datuk Seri M. Saravanan,,U,U,
+5057,Datuk Seri M. Saravanan,Saravanan a/l Murugan,M,Indian,1968-02-04
 5058,M. Kathiravan,,U,U,
 5059,Mior Haidir,,U,U,
 5060,Zairol Hizam Bin Zakaria,,M,Malay,
@@ -5428,15 +5428,15 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5427,Dayang Rusimah @ Raynie Binti Datuk Hj. Mohd. Din,Dayang Rusimah @ Raynie binti Datuk Hj. Mohd. Din,F,Malay,1980-06-08
 5428,Ruddy Bin Awah,,M,Malay,
 5429,Petronella Usun,,U,U,
-5430,Rashid Bin Abdul Harun,Rashid bin Abdul Harun,M,Malay,1966
-5431,Verdon Bin Bahanda,,M,Malay,
+5430,Rashid Bin Abdul Harun,Rashid bin Abdul Harun,M,Malay,1966-04-23
+5431,Verdon Bin Bahanda,Verdon bin Bahanda,M,Bumi Sabah,1973-05-15
 5432,Thonny Chee,,U,U,
 5433,Mohd Azmi Bin Hj Zulkiflee,,M,Malay,
 5434,Shahrizal Denci,,U,U,
 5435,Norman Bin Tulang (Tas),,M,Malay,
 5436,Jilid @ Zainuddin Bin Kuminding,,M,Malay,
 5437,Dr.Maximus@Johnity Ongkili,,U,U,
-5438,Datuk Wetrom Bahanda,,U,U,
+5438,Datuk Wetrom Bahanda,Wetrom Bahanda,M,Bumi Sabah,1971-05-25
 5439,Madeli @ Modily Bin Bangali,,M,Malay,
 5440,Datuk Seri Panglima Abd Rahman Bin Dahlan.,,M,Malay,
 5441,Madius Tangau,,U,U,
@@ -5485,14 +5485,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5484,Azizul Julirin,,U,U,
 5485,Markos Siton,,U,U,
 5486,Ewon Bin Ebin,,M,Malay,
-5487,Grelydia Gillod,,U,U,
+5487,Grelydia Gillod,Grelydia Gillod,F,Bumi Sabah,1990-06-25
 5488,Rasinin Bin Koutis @ Kautis,Rasinin bin Koutis @ Kautis,M,Malay,1962-09-24
 5489,Datuk Seri Panglima Dr.Jeffrey G.Kitingan,,U,U,
 5490,Datuk Jake Nointin,,U,U,
-5491,Jamawi Bin Ja'Afar,,M,Malay,
-5492,Riduan Bin Rubin,,M,Malay,
-5493,Ukim Buandi,,U,U,
-5494,Peggy Chaw Zhi Ting,,U,U,
+5491,Jamawi Bin Ja'Afar,Jamawi bin Jaafar,M,Malay,1974-01-08
+5492,Riduan Bin Rubin,Riduan bin Rubin,M,Malay,1987-05-27
+5493,Ukim Buandi,Ukim Buandi,M,Bumi Sabah,1957-10-16
+5494,Peggy Chaw Zhi Ting,Peggy Chaw Zhi Ting,F,Chinese,1999-06-16
 5495,Jamani Bin Derimin,,M,Malay,
 5496,Siti Noorhasmahwatty Osman,,U,U,
 5497,Jekerison Kilan,,U,U,
@@ -5510,13 +5510,13 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5509,Liau Fui Fui,Liau Fui Fui,F,Chinese,1983-02-24
 5510,Ir. Hj. Othman Hj. Ahmad,,U,U,
 5511,Boni Yusuf Juanico Abdullah,,U,U,
-5512,Alias Bin Sani,,M,Malay,
+5512,Alias Bin Sani,Alias bin Sani,M,Malay,1968-12-17
 5513,Khairul Firdaus Akbar Khan,Khairul Firdaus Akbar Khan,M,Malay,1983-07-26
 5514,Peter Hii,,U,U,
 5515,Syeikh Lokeman,,U,U,
 5516,Lau Chi Keong @ Thomas Lau,,U,U,
 5517,Vivian Wong Shir Yee,Vivian Wong Shir Yee,F,Chinese,1989-03-27
-5518,Alex Thien,,U,U,
+5518,Alex Thien,Alex Thien,M,Chinese,1991-11-10
 5519,Hajjah Lita Tan Binti Abdullah,,F,Malay,
 5520,Mazliwati Binti Abdul Malek,Mazliwati binti Abdul Malek,F,Malay,1973-07-09
 5521,Bung Moktar Bin Radin,,M,Malay,
@@ -5527,14 +5527,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5526,Nixon Bin Abdul Habi,,M,Malay,
 5527,Ab Rajik Ab Hamid,,U,U,
 5528,Kc Chen Ket Chuin,,U,U,
-5529,Dato' Chin Chee Syn,,U,U,
+5529,Dato' Chin Chee Syn,Chin Chee Syn,M,Chinese,1971-01-01
 5530,Mohd Salleh Bacho,,U,U,
 5531,Herman Bin Amdas,,M,Malay,
-5532,Lo Su Fui,,U,U,
+5532,Lo Su Fui,Lo Su Fui,M,Chinese,1981-04-14
 5533,Dr Nur Aini Abd Rahman (Md),,U,U,
 5534,Andi Muhammad Suryady Bin Bandy,Andi Muhammad Suryady bin Bandy,M,Malay,1981-06-29
 5535,Dato Muhamad,,U,U,
-5536,Noraini Abd Ghapur,,U,U,
+5536,Noraini Abd Ghapur,Noraini Abd Ghapur,F,Malay,
 5537,Ryan Sim Min Leong,,U,U,
 5538,Lidang Disen,,U,U,
 5539,Mordi Anak Bimol,,U,U,
@@ -5771,7 +5771,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 5770,Ghazali Bin Bachik @ Bachi,,M,Malay,
 5771,Abdullah Bin Haji Sudin,,M,Malay,
 5772,Muhamad @ Abdul Jamil Bin Sulaiman,,M,Malay,
-5773,Syed Zain Bin Idrus,,M,Malay,
+5773,Syed Zain Bin Idrus,Syed Zain bin Idrus,M,Malay,
 5774,Krishna Nair Raman,,U,U,
 5775,Lau Tong,,U,U,
 5776,Ali Bin Ibrahim,,M,Malay,
@@ -6313,7 +6313,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 6312,Datuk Md Othman Bin Hj Yusof,,M,Malay,
 6313,Norshida Binti Ibrahim,,F,Malay,
 6314,Dr Lee Hong Tee,,U,U,
-6315,Cikgu Mala,,U,U,
+6315,Cikgu Mala,Normala binti Sudirman (Cikgu Mala),F,Malay,1973-06-06
 6316,Datuk Hj Ayub Bin Rahmat,,M,Malay,
 6317,Mohd Azahar Bin Ibrahim,,M,Malay,
 6318,Hj Md Zin Bin Hj Johar,,M,Malay,
@@ -6707,9 +6707,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 6706,Zaiful Bakri @ Epul,,U,U,
 6707,Dato' Jefridin Atan,,U,U,
 6708,Ng Hore Jin,,U,U,
-6709,Shaik Osman Bin Ibrahim,,M,Malay,
-6710,Haji Laidin Bin Haji Abd. Manan,,M,Malay,
-6711,Dr. Cheah Toon Lok,,U,U,
+6709,Shaik Osman Bin Ibrahim,Shaik Osman Bin Ibrahim,M,Malay,
+6710,Haji Laidin Bin Haji Abd. Manan,Laidin Bin Abd. Manan,M,Malay,
+6711,Dr. Cheah Toon Lok,Cheah Toon Lok,M,Chinese,1897
 6712,K. Karunakaran Nair,,U,U,
 6713,Tunku Burhanudin Bin Tunku Yahya,,M,Malay,
 6714,Lebai Abdullah Bin Jusoh,,M,Malay,
@@ -6762,7 +6762,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 6761,Muhamad Bin Haji Ismail,,M,Malay,
 6762,Yahaya Bin Haji Jalil,,M,Malay,
 6763,Haji Shafie Bin Mohd. Arof,,M,Malay,
-6764,Tan Hai Loon,,U,U,
+6764,Tan Hai Loon,,M,Chinese,
 6765,Lim Chin Ghee,,U,U,
 6766,Ong Ah Yong @ Ong Chow Song,,U,U,
 6767,Wan Said Bin Wan Saad,,M,Malay,
@@ -6870,7 +6870,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 6869,Haji Jamaludin Bin Lebai Bakar,,M,Malay,
 6870,Chea Kim Hoe @ Cheah Chong Chiew,,U,U,
 6871,C. Shanmugiah A/L Chelliah,,M,U,
-6872,Tuan Haji Ahmad Bin Haji Abdullah,,M,Malay,
+6872,Tuan Haji Ahmad Bin Haji Abdullah,Ahmad bin Abdullah (Kedah),M,Malay,
 6873,Abd. Aziz Bin Ali,,M,Malay,
 6874,Hamzah Bin Abdul Latif,,M,Malay,
 6875,Haji Safirol Bin Haji Hashim,,M,Malay,
@@ -6904,7 +6904,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 6903,Ustaz Ghazali Najib,,M,Malay,
 6904,Haji Othman Bin Bakar,,M,Malay,
 6905,Syed Nahar Bin Syed Sheh Shahabuddin,,M,Malay,
-6906,Yusuf Bin Abd. Rahman,,M,Malay,
+6906,Yusuf Bin Abd. Rahman,Yusuf bin Abdul Rahman,M,Malay,
 6907,Abu Kasim Bin L. Abdullah,,M,Malay,
 6908,Mohamad @ Md. Salleh Bin Yaacob,,M,Malay,
 6909,Osman @ Md. Daun Bin Aroff,,M,Malay,
@@ -7074,7 +7074,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7073,Salleh Bin Musa,,M,Malay,
 7074,Hamlan Bin Din,,M,Malay,
 7075,Mohd Hadzir Bin Mohd Jaafar @ Jaafar,,M,Malay,
-7076,Saravanan A/L Veliaudayar,,M,U,
+7076,Saravanan A/L Veliaudayar,Saravanan A/L Veliaudayar,M,Indian,1947
 7077,Harun Bin Mat Isa,,M,Malay,
 7078,Abdul Majib Bin Mat Isa,,M,Malay,
 7079,Badri Bin Hj Yunus,,M,Malay,
@@ -7144,7 +7144,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7143,Cik Gu Mahazir,,U,U,
 7144,Dr. Hamdan Bin Mohamed Khalib,,M,Malay,
 7145,Kalaichelvan,,U,U,
-7146,Dato' V. Saravanan,,U,U,
+7146,Dato' V. Saravanan,Saravanan A/L Veliaudayar,M,Indian,1947
 7147,Ahmad Rashid,,U,U,
 7148,Ustaz Mohd Yusof Bin Omar,,M,Malay,
 7149,Hajjah Rosnah Majid,,U,U,
@@ -7207,7 +7207,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7206,Ust. Mohd Isa Shafie,,U,U,
 7207,Penghulu Ismail Harun,,U,U,
 7208,Cikgu Yahya Abdullah,,U,U,
-7209,Dato V Saravanan,,U,U,
+7209,Dato V Saravanan,Saravanan A/L Veliaudayar,M,Indian,1947
 7210,Mustafa Khalid Bin Hanafi,,M,Malay,
 7211,Arzmi Bin Hamid,,M,Malay,
 7212,Dr Hamdan Mohamed Khalib,,U,U,
@@ -7221,7 +7221,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7220,Ustaz Suhaimi Bin Ahmad,,M,Malay,
 7221,Dato Abd Aziz Sheikh Fadzir,,U,U,
 7222,Cikgu Md. Zuki Bin Yusof,,M,Malay,
-7223,Ustazah Siti Ashah Binti Ghazali,,F,Malay,
+7223,Ustazah Siti Ashah Binti Ghazali,Siti Ashah Binti Ghazali,F,Malay,1962-10-03
 7224,Dato' Hj. Mohd. Hadzir Bin Hj. Ismail,Mohd Hadzir Bin Ismail,M,Malay,
 7225,S. Ganesan,,U,U,
 7226,Tang Fuie Wah,,U,U,
@@ -7282,10 +7282,10 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7281,Datuk Ismail Bin Abu Bakar,,M,Malay,
 7282,Cikgu Md. Zuki,,U,U,
 7283,Dato' Mohd Firdaus,,U,U,
-7284,Ustazah Aishah,,F,Malay,
+7284,Ustazah Aishah,Siti Ashah Binti Ghazali,F,Malay,1962-10-03
 7285,Radzhi Salleh,,U,U,
 7286,S. Ananthan,,U,U,
-7287,Anuar Ramli,,U,U,
+7287,Anuar Ramli,Khairul Anuar Bin Ramli,M,Malay,1981-09-22
 7288,Lim Lee Choo,,U,U,
 7289,Ust Yaakub Hussin,,U,U,
 7290,Abdul Aziz Bin Majid,,M,Malay,
@@ -7361,7 +7361,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7360,Bee Sieong Heng,,U,U,
 7361,Ooi Beng Kooi,,U,U,
 7362,Zamil Bin Ibrahim,,M,Malay,
-7363,Dr Robert Ling,,U,U,
+7363,Dr Robert Ling,Robert Ling Kui Ee,M,Chinese,1972-07-21
 7364,Datuk Azmi Che Husain,,U,U,
 7365,Ustaz Mahmud Yaakob,,M,Malay,
 7366,Cikgu Johari Bin Abdullah,,M,Malay,
@@ -7370,7 +7370,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7369,Cikgu Md.Zuki Bin Yusof,,M,Malay,
 7370,Mohd Khairul Azhar Bin Abdullah,,M,Malay,
 7371,Marlia Binti Abd Latiff,,F,Malay,
-7372,Ustazah Siti Ashah,,F,Malay,
+7372,Ustazah Siti Ashah,Siti Ashah Binti Ghazali,F,Malay,1962-10-03
 7373,Cikgu Azman,,U,U,
 7374,R. Vasanthi,,U,U,
 7375,Preba,,U,U,
@@ -7443,7 +7443,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7442,Mohd. Nazri Bin Abu Hassan,,M,Malay,
 7443,Muhammad Sanusi Md Nor,,U,U,
 7444,Dato' Jaspal Singh,,U,Other,
-7445,Summugam A/L Rengasamy,,M,U,
+7445,Summugam A/L Rengasamy,Summugam A/L Rengasamy,M,Indian,1960-04-10
 7446,Dr. Mohd Ali Bin Sulaiman,,M,Malay,
 7447,Mejar Anuar Bin Abdul Hamid (B),,M,Malay,
 7448,Tuan Haji Annuar Bin Ahmad,,M,Malay,
@@ -7453,20 +7453,20 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7452,Dato Ali Bin Yahaya,,M,Malay,
 7453,Ustaz Othman Che Mee,,M,Malay,
 7454,Ko Hung Weng,,U,U,
-7455,Cik Gu Hashim,,U,U,
-7456,Tan Kok Seong,,U,U,
-7457,Nur Hidayah Foo,,U,U,
+7455,Cik Gu Hashim,Mohd Hashim Saaludin,M,U,
+7456,Tan Kok Seong,Tan Kok Seong,M,U,
+7457,Nur Hidayah Foo,Nur Hidayah Foo Abdullah,F,U,
 7458,Cikgu Abd Nasir,,U,U,
 7459,Abd Rahim Kechik,,U,U,
 7460,Mohd Noor Bin Mohd Amin (Haji Noq),,M,Malay,
 7461,Dato' Us Najmi Hj Ahmad,,U,U,
 7462,Cikgu Johari,,U,U,
 7463,Dato' Harun Aziz,,U,U,
-7464,Mejar (B) Mansor,,U,U,
+7464,Mejar (B) Mansor,Mansor Bin Zakaria,M,Malay,1969-04-08
 7465,Mohamad Sofee Razak,,U,U,
 7466,Dato Khairul,,U,U,
 7467,Asmadi Abu Talib,,U,U,
-7468,Dato' Ustazah Siti Ashah Binti Ghazali,,F,Malay,
+7468,Dato' Ustazah Siti Ashah Binti Ghazali,Siti Ashah Binti Ghazali,F,Malay,1962-10-03
 7469,Cikgu Razak,,U,U,
 7470,Haji Ahmad Taufiq,,U,U,
 7471,M. Thuraisingam,,U,U,
@@ -7517,12 +7517,12 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7516,Haji Ahmad Sulaiman,Ahmad Bin Sulaiman,M,Malay,1960-04-14
 7517,Dato' Muhamad Khizri Bin Abu Kassim,Muhamad Khizri Bin Abu Kassim,M,Malay,1978-07-26
 7518,Muhammad Sanusi Bin Md Nor,,M,Malay,
-7519,Ustaz Azizan Bin Hamzah,Azizan Bin Hamzah (Ustaz Azizan),M,Malay,1955-12-10
+7519,Ustaz Azizan Bin Hamzah,Azizan Bin Hamzah ,M,Malay,1955-12-10
 7520,Dinesh A/L Muniandy,Dinesh A/L Muniandy,M,Indian,1993-06-30
 7521,Summugam Rengasamy,Summugam A/L Rengasamy,M,Indian,1960-04-10
-7522,Dato' Shaiful Hazizy (Tok Pon),Shaiful Hazizy Bin Zainol Abidin,M,Malay,1976-05-28
+7522,Dato' Shaiful Hazizy (Tok Pon),Shaiful Hazizy Bin Zainol Abidin (Tok Pon),M,Malay,1976-05-28
 7523,Ustaz Sharir Long,Sharir Bin Long,M,Malay,1954-12-10
-7524,Kak Wan Mohalina,Wan Mohalina Binti Wan Mohammad (Kak Wan Mohalina),F,Malay,1969-08-25
+7524,Kak Wan Mohalina,Wan Mohalina Binti Wan Mohammad,F,Malay,1969-08-25
 7525,Adam Loh,Loh Wei Chai (Adam Loh Wei Chai),M,Chinese,1987-12-11
 7526,Raymond Tai Kuang Tee,Tai Kuang Tee (Raymond Tai Kuang Tee),M,Chinese,1979-06-27
 7527,Juliana Abdul Ghani,Juliana Binti Abdul Ghani,F,Malay,1975-01-06
@@ -7531,22 +7531,22 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7530,Dato' Ishak Bin Mat,Ishak Bin Mat,M,Malay,1962-05-27
 7531,Suhaimi Hamzah,Muhammad Suhaimi Bin Hamzah (Cikgu Mi),M,Malay,1981-01-15
 7532,Dato' Najmi Bin Haji Ahmad,Najmi Bin Hj Ahmad,M,Malay,1951-03-05
-7533,Mej (B) Mansor Bin Zakaria,Mansor Bin Zakaria (Mejar (B) Mansor Zakaria),M,Malay,1969-04-08
+7533,Mej (B) Mansor Bin Zakaria,Mansor Bin Zakaria,M,Malay,1969-04-08
 7534,Suriati Binti Che Mid,Suriati Binti Che Mid,F,Malay,1979-12-04
 7535,Dato' Chegu Madi,Asmadi Bin Abu Talib (Chegu Madi),M,Malay,1969-02-09
-7536,Dato' Ustazah Siti Ashah,Siti Ashah Binti Ghazali (Ustazah Siti Ashah),F,Malay,1962-10-03
-7537,Cikgu Shamsul,Shamsul Anuar Bin Abdullah (Cikgu Shamsul),M,Malay,1960-05-14
+7536,Dato' Ustazah Siti Ashah,Siti Ashah Binti Ghazali,F,Malay,1962-10-03
+7537,Cikgu Shamsul,Shamsul Anuar Bin Abdullah,M,Malay,1960-05-14
 7538,Khairul Anuar Bin Ramli,Khairul Anuar Bin Ramli,M,Malay,1981-09-22
 7539,Rajendaran A/L Nadarajan,Rajendaran A/L Nadarajan,M,Indian,1961-08-14
 7540,Pannir Selvam A/L S Suppiah,Pannir Selvam A/L S Suppiah,M,Indian,1967-06-09
 7541,Ari,Arichindarem A/L Sinappayen (Ari),M,Indian,1960-07-01
 7542,Awang Teh,Teh Lean Ong (Awang Teh),M,Chinese,1976-10-07
-7543,Prof. Dr. Suffian Haji Yusoff,Mohd Suffian Bin Yusoff (Dr Mohd Suffian Yusoff),M,Malay,1969-06-29
+7543,Prof. Dr. Suffian Haji Yusoff,Mohd Suffian Bin Yusoff,M,Malay,1969-06-29
 7544,Nuraini Binti Yusoff (Noni),Nuraini Binti Yusoff (Noni),F,Malay,1988-08-04
-7545,Tuan H. Mohd. Yusoff Bangs,,U,U,
+7545,Tuan H. Mohd. Yusoff Bangs,Mohd Yusoff Bangs,M,Malay,
 7546,Wong Yeow Wye,,U,U,
-7547,Wan Yaacob Bin Wan Ahmad,,M,Malay,
-7548,Mohd. Bin Latiff,,M,Malay,
+7547,Wan Yaacob Bin Wan Ahmad,Wan Yaacob Bin Wan Ahmad,M,Malay,
+7548,Mohd. Bin Latiff,Mohd Bin Latiff,M,Malay,
 7549,Khaidir Khatib,,U,U,
 7550,Mohd. Ali Bin Abdullah,,M,Malay,
 7551,John William Lind,,U,U,
@@ -7563,7 +7563,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7562,Che Mamat Bin Ali,,M,Malay,
 7563,Mohd. (Mat) Daud Bin A. Jamil,,M,Malay,
 7564,Haji Wan Yusoff Bin Wan Ali,,M,Malay,
-7565,Yusoff Bin Ab. Latiff,,M,Malay,
+7565,Yusoff Bin Ab. Latiff,Yusoff Bin Ab. Latiff,M,Malay,
 7566,Wan Ja'Afar Bin Haji Mahmood,,M,Malay,
 7567,Hussin Bin Yunus,,M,Malay,
 7568,Abdul Ghani Bin Mohamed,,M,Malay,
@@ -7761,7 +7761,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 7760,Mohd. Norddin Bin Haji Ahmad (Din To' Kenali),,M,Malay,
 7761,Ustaz Nor,,M,Malay,
 7762,Zarawi Bin Mohammad,Zarawi Bin Mohammad,M,Malay,
-7763,Ismail Bin Awang,,M,Malay,
+7763,Ismail Bin Awang,Ismail bin Awang,M,Malay,
 7764,Abd. Ghani Bin Kundor,,M,Malay,
 7765,Hjai Mustapha Bin Haji Othman,,M,Malay,
 7766,Ibrahim Biin Ali,,U,U,
@@ -8066,7 +8066,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8065,Haji Omar Mohamed,,U,U,
 8066,Wan Rahman Bin W Salleh,,M,Malay,
 8067,Noordin Bin Yaakub,,M,Malay,
-8068,Ahmad Bin Yakob @ Ustaz Mat To' Guru Kob,,M,Malay,
+8068,Ahmad Bin Yakob @ Ustaz Mat To' Guru Kob,Ahmad Bin Yakob (Ustaz Mad),M,Malay,1950-02-01
 8069,Saupi Bin Daud,,M,Malay,
 8070,Ruhani Bt Mamat,,U,U,
 8071,Yusof Bin Isa,,M,Malay,
@@ -8222,17 +8222,17 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8221,Mohamad Saufi Deraman,,U,U,
 8222,Datuk Haji Di,,U,U,
 8223,Datuk Wan Johani,,U,U,
-8224,Zaki Haji Ibrahim,,U,U,
-8225,Ustaz Mat,,M,Malay,
+8224,Zaki Haji Ibrahim,Mohd Zaki Ibrahim,M,Malay,1967
+8225,Ustaz Mat,Ahmad Bin Yakob (Ustaz Mad),M,Malay,1950-02-01
 8226,Hj Noor Tok Gawa,,U,U,
 8227,Hj Ramli Abu Bakar,,U,U,
 8228,Rosdi Aziz,,U,U,
 8229,Che Rosli Bin Hassan,,M,Malay,
 8230,Tuan Guru Dato' Haji Nik Aziz,,U,U,
 8231,Hajjah Ruhani Binti Mamat,,F,Malay,
-8232,Nik Amar Nik Abdullah,,U,U,
+8232,Nik Amar Nik Abdullah,Mohd Amar Bin Abdullah (Nik Amar),M,Malay,1959-07-29
 8233,Hj. Zulkifli Bin Hj. Dollah,,M,Malay,
-8234,Rohani Binti Ibrahim,,F,Malay,
+8234,Rohani Binti Ibrahim,Rohani Binti Ibrahim (Kak Ani),F,Malay,1965-02-09
 8235,Mansor Adabi Hassan,,U,U,
 8236,Dato Anuar Tan,,U,U,
 8237,Sekh Ruzi,,U,U,
@@ -8304,15 +8304,15 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8303,Hassan Bin Berahim,,M,Malay,
 8304,Noor Zahid Bin Omar (Datuk Haji Di),,M,Malay,
 8305,Wan Hanapi Bin Wan Yaacob (Wan Napi),,M,Malay,
-8306,Ahmad Bin Yakob (Ustaz Mat),,M,Malay,
+8306,Ahmad Bin Yakob (Ustaz Mat),Ahmad Bin Yakob (Ustaz Mad),M,Malay,1952-02-01
 8307,Haji Noor,,U,U,
 8308,Hj Mohd Rosdi,,U,U,
 8309,Che Abdullah Bin Mat Nawi (Hj Che Lah),,M,Malay,
 8310,Wan Ubaidah Binti Omar,,F,Malay,
 8311,Datuk Dr. Nik Mohd Zain,,U,U,
 8312,Tuan Guru Dato' Haji Nik Abdul Aziz,,U,U,
-8313,Mohd Amar Bin Abdullah (Nik Amar),,M,Malay,
-8314,Rohani Binti Ibrahim (Kak Ani),,F,Malay,
+8313,Mohd Amar Bin Abdullah (Nik Amar),Mohd Amar Bin Abdullah (Nik Amar),M,Malay,1959-07-29
+8314,Rohani Binti Ibrahim (Kak Ani),Rohani Binti Ibrahim (Kak Ani),F,Malay,1965-02-09
 8315,Khazuni,,U,U,
 8316,Dato' Anuar Tan,,U,U,
 8317,Tan Ken Ten,,U,U,
@@ -8356,7 +8356,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8355,Zainuddin Bin Ag Hamat (Cik Gu Din),,M,Malay,
 8356,Datuk Kamarudin Bin Md Nor,,M,Malay,
 8357,Wan Hassan,,U,U,
-8358,Tuan Mustaffa Tuan Mat,see 4024,U,U,
+8358,Mustaffa,,U,U,
 8359,Dr Nik Mazian,,U,U,
 8360,Mohd Asri Bin Mejah (Dr. Asri),,M,Malay,
 8361,Dr. Fadzli Dato' Hassan,,U,U,
@@ -8384,7 +8384,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8383,Prof. Madya Saharun,,U,U,
 8384,Wan Napi,,U,U,
 8385,Zaki Hj Ibrahim,,U,U,
-8386,Ustaz Mad,,M,Malay,
+8386,Ustaz Mad,Ahmad Bin Yakob (Ustaz Mad),M,Malay,1952-02-01
 8387,Kak Chik,,U,U,
 8388,Dato' Hj Che Lah Mat Nawi,,U,U,
 8389,Datuk Rosdi,,U,U,
@@ -8460,14 +8460,14 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8459,Dato' Rosdi,,U,U,
 8460,Cikgu Hashim,,U,U,
 8461,Cikgu Nan,Mohd Adanan Bin Hassan (Cikgu Nan),M,Malay,1955-08-02
-8462,Dato' Ust Mad,,U,U,
+8462,Dato' Ust Mad,Ahmad Bin Yakob (Ustaz Mad),M,Malay,1950-02-01
 8463,Wan Jo,,U,U,
 8464,Hj. Wan Sanusi,,U,U,
 8465,Abe K,,U,U,
-8466,Haji Rusli Abdullah,,U,U,
+8466,Haji Rusli Abdullah,Mohd Rusli Bin Abdullah,M,Malay,1971-03-02
 8467,Nik Azmi,,U,U,
 8468,Azuan,,U,U,
-8469,Dr Izani,,U,U,
+8469,Dr Izani,Izani bin Husin,M,Malay,1963-01-24
 8470,Fareez,,U,U,
 8471,Ustaz Fathan,,M,Malay,
 8472,Zarina Eusope,,U,U,
@@ -8573,7 +8573,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8572,Dr. Izani,Izani Bin Husin,M,Malay,1963-01-24
 8573,Haris Hussin,Haris Bin Hussin,M,Malay,1975-10-28
 8574,Nik Normi,Nik Normi Binti Nik Ayub,F,Malay,1973-04-24
-8575,Nik Bahrum,Nik Asma'Bahrum Bin Nik Abdullah,M,Malay,1972-08-22
+8575,Nik Bahrum,Nik Asma' Bahrum Bin Nik Abdullah,M,Malay,1972-08-22
 8576,Tok Gawa Hj. Him / Abe Li Tok Gawa,Ibrahim Bin Sulong (Abe Li Tok Gawa),M,Malay,1953-06-06
 8577,Syed Mohd Alidustur Bin Syed Mohd Zain,Syed Mohd Alidustur Bin Syed Mohd Zain,M,Malay,1973-03-02
 8578,Zinda Khalil,Zinda Khalil Sastro Bin Hassan,M,Malay,1976-04-30
@@ -8937,7 +8937,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 8936,Datuk Mohd Ali Mohd Rustam,,U,U,
 8937,Khoo Heng Peng,,U,U,
 8938,Loo Kin,,U,U,
-8939,Chong Tat Cheong,,U,U,
+8939,Chong Tat Cheong,,M,Chinese,1954-04-10
 8940,Yew Kok Kee,,U,U,
 8941,Wong Soo Tang,,U,U,
 8942,Abdul Jani Bin Abas,,M,Malay,
@@ -9324,7 +9324,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9323,Chai Yau Foh,,U,U,
 9324,Harun Bin Yusof,,M,Malay,
 9325,Ho Hong Yeow,,U,U,
-9326,Lee Khan Heng,,U,U,
+9326,Lee Khan Heng,Lee Khan Heng,U,U,
 9327,Haji Mohamad Khatib Bin Mohamad Nor,,M,Malay,
 9328,Mustapha Bin Mohamad,,M,Malay,
 9329,Abdul Samad Bin Idris,,M,Malay,
@@ -9332,7 +9332,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9331,Raja Harun Bin Raja Tachik,,M,Malay,
 9332,Abu Kasim Bin Saad,,M,Malay,
 9333,Gan Eng Kwee,,U,U,
-9334,A. Ghani Bin A. Samad,,M,Malay,
+9334,A. Ghani Bin A. Samad,A. Ghani Bin A. Samad,M,Malay,
 9335,Ariffin Bin Ali,,M,Malay,
 9336,Abdul Aziz Bin Haji Mohd. Yunus,,M,Malay,
 9337,Mohamed Idis Bin Matsil,,M,Malay,
@@ -9360,7 +9360,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9359,Chong Se Hock,,U,U,
 9360,Abdul Manap Bin Hussin,,M,Malay,
 9361,Fong Yew Wong,,U,U,
-9362,Tan Kim Geok,,U,U,
+9362,Tan Kim Geok,Tan Kim Geok,M,Chinese,
 9363,Deraji Bin Yassin,,M,Malay,
 9364,Mohd. Amin Bin Rashid,,M,Malay,
 9365,Ismail Bin Tamin,,M,Malay,
@@ -9511,8 +9511,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9510,Hamzah Bin Yatim,,M,Malay,
 9511,Yap Ah Peng @ Yap Aun Ping,,U,U,
 9512,Yap Kat Boon,,U,U,
-9513,A. S. Maniam,,U,U,
-9514,A. Ponniah,,U,U,
+9513,A. S. Maniam,A. S. Maniam,M,Indian,
+9514,A. Ponniah,A. Ponniah,M,Indian,
 9515,Leong Che Ho,,U,U,
 9516,J. Nadchatiram,J. Nadchatiram,M,Indian,
 9517,Azhari Bin Hamzah,,M,Malay,
@@ -9684,8 +9684,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9683,Hj. Jorji Harun,,U,U,
 9684,M.Krishnasamy,,U,U,
 9685,Abdul Rahim B Abd. Rahman,,U,U,
-9686,Lim Yong @ Lim Chen,,U,U,
-9687,Siow Chee Chin,,U,U,
+9686,Lim Yong @ Lim Chen,Lim Yong @ Lim Chen,M,Chinese,
+9687,Siow Chee Chin,Siow Chee Chin,U,U,
 9688,Shanmsul Bahari @ Ramli Bin Mat,,M,Malay,
 9689,Ibrahim Bin Che' Mat,,M,Malay,
 9690,Abd Kadir Bin Kassim,,M,Malay,
@@ -9769,7 +9769,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9768,Kapt. (B) Hj Rusli Bin Idris,,M,Malay,
 9769,Dato' Darus Salim Bin Bulin,,M,Malay,
 9770,Nordin Bin Ismail,,M,Malay,
-9771,Norhayati Binti Omar,,F,Malay,
+9771,Norhayati Binti Omar,Norhayti Binti Omar,F,Malay,
 9772,Mohamad Noor Bin Abdul Rahman,,M,Malay,
 9773,Haji Ibrahim Bin Jahaya,,M,Malay,
 9774,Peter Lai Yit Fee,,U,U,
@@ -9840,8 +9840,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9839,Mohd Kamil Bin Abd Aziz,,M,Malay,
 9840,Zakaria Bin Khalim,,M,Malay,
 9841,Kok Chan Wah,,U,U,
-9842,Siow Chen Pin,,U,U,
-9843,How Wee Shiong,,U,U,
+9842,Siow Chen Pin,Siow Chen Pin,M,Chinese,1965
+9843,How Wee Shiong,How Wee Shiong,M,Chinese,1981
 9844,Halim Bin A. Aziz,,M,Malay,
 9845,Dato' Razak Mansor,,U,U,
 9846,Kateran Bin Marman,,M,Malay,
@@ -9892,7 +9892,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9891,Zakaria Khalim,,U,U,
 9892,Veerapan A/L Superamaniam,Veerapan A/L Superamaniam,M,Indian,1975-03-30
 9893,Yap Seong Fook,,U,U,
-9894,Siow Foo Wen,,U,U,
+9894,Siow Foo Wen,Siow Foo Wen,M,Chinese,1965
 9895,Datuk Jalaluddin Bin Alias,Jalaluddin bin Alias,M,Malay,1963-09-05
 9896,Muhamad Syamwill Mertadza,,U,U,
 9897,Nor Anif Bin Selamat,,M,Malay,
@@ -9959,8 +9959,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 9958,Karip Bin Mohd Salleh,,M,Malay,
 9959,Cikgu Mohd Nor Bin Yassin,,M,Malay,
 9960,Tuan Haji Fadzil Bin A Bakar,,M,Malay,
-9961,Seet Tee Gee,,U,U,
-9962,Jamalus Bin Mansor,,M,Malay,
+9961,Seet Tee Gee,Seet Tee Gee,M,Chinese,
+9962,Jamalus Bin Mansor,Jamalus Bin Mansor,M,Malay,1946
 9963,Noor Azmi Bin Yusof,,M,Malay,
 9964,Osman Dusa,,U,U,
 9965,Hamran Bin Abu Hasan,,M,Malay,
@@ -11459,7 +11459,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 11458,Lim Tong Kwai,,U,U,
 11459,Haji Mahfud Bin Haji Anwar,,M,Malay,
 11460,Abdul Wahab Bin Abu Bakar,,M,Malay,
-11461,Kalimuthu A/L Ranggayah,,M,U,
+11461,Kalimuthu A/L Ranggayah,Kalimuthu a/l Ranggayah,M,Indian,1946-07-09
 11462,S. Raja Segran,,U,U,
 11463,Ting Chek Ming,,U,U,
 11464,C. Sc. Sellapan,,U,U,
@@ -11588,7 +11588,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 11587,Meor Osman Bin Imam Pinawa @ Panjang Mohd. Hanapiah,,M,Malay,
 11588,Tai Chee Chai @ Tai Teck Choo,,U,U,
 11589,Abu Bakar Bin Sudin,,M,Malay,
-11590,Chen Tiam Seong,,U,U,
+11590,Chen Tiam Seong,,M,Chinese,1953-04-25
 11591,Mohamed Yusof Bin Ariffin,,M,Malay,
 11592,Quah Soo Keat @ Quah Soo Leck,,U,U,
 11593,Paramjik Singh S/O Tara Singh,,U,Other,
@@ -11629,7 +11629,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 11628,Mohamed Pakri @ Mohamed Nazri B. Haji Abdul Rahim,Mohamed Nazri Bin Haji Abdul Rahim,M,Malay,1942-01-19
 11629,Ahmad Bin Zainuddin,,M,Malay,
 11630,Haji Mokhtar B. Ngah Ibrahim,,U,U,
-11631,Hu Chan You,,U,U,
+11631,Hu Chan You,Hu Chan You,M,Chinese,1958-08-10
 11632,Raja Segaran A/L Samy Nathan Raja Manikam A/L T.S. Pellai,,M,U,
 11633,Sidek Bin Mohd. Noor,,M,Malay,
 11634,Tan Kay Hearn @ Tan Chee Yan,,U,U,
@@ -11684,7 +11684,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 11683,Dato' Abd. Malik,,U,U,
 11684,Haji Hamdi Bin Haji Abu Bakar,,M,Malay,
 11685,Ngo Tick Wong,,U,U,
-11686,Wong Chong Sang,,U,U,
+11686,Wong Chong Sang,Wong Chong Sang,M,Chinese,1962-06-17
 11687,Dato' Hj. Hisan Bin Ibrahim,,M,Malay,
 11688,Mustapha Bin Hakim,,M,Malay,
 11689,Dr. Ho Wai Cheong,,U,U,
@@ -12067,7 +12067,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 12066,Ir Hj Mazlan Yop Lan,,U,U,
 12067,Dato Haji Mohd Zolkafly Bin Haji Harun,,M,Malay,
 12068,Liew Yew Aw,,U,U,
-12069,Kalimuthu,,U,U,
+12069,Kalimuthu,Kalimuthu a/l Sinnu,M,Indian,1959-10-18
 12070,Loh Sze Yee,,U,U,
 12071,Hj Asmuni Awi,Asmuni Bin Awi,M,Malay,1962-11-16
 12072,Mohamad Ziad Bin Dato' Hj Mohd. Zainal,,M,Malay,
@@ -12800,7 +12800,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 12799,Shariff Bin Moh. Isa,,M,Malay,
 12800,D. B. Ali,,U,U,
 12801,Haji Ismail Bin Che Chik,,M,Malay,
-12802,Haji Ahmad Bin Haji Abdullah,,M,Malay,
+12802,Haji Ahmad Bin Haji Abdullah,Ahmad bin Abdullah (Kepala Batas),M,Malay,
 12803,Hashim Bin Awang,,M,Malay,
 12804,Oh Theam Poh,,U,U,
 12805,Ariffin Bin Shariff,,M,Malay,
@@ -12814,8 +12814,8 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 12813,Haji Mohamed Hasan Bin Ahmad,,M,Malay,
 12814,J. G. V. Parambil,,U,U,
 12815,Jaswant Singh,,U,Other,
-12816,Choong Han Leong,,U,U,
-12817,Wong Choong Woh,,U,U,
+12816,Choong Han Leong,Choong Han Leong,M,Chinese,
+12817,Wong Choong Woh,Wong Choong Woh,M,Chinese,
 12818,Sam Ah Chow,,U,U,
 12819,Mohamed Ismail Bin Che Din,,M,Malay,
 12820,Yuen Fook Cheong,,U,U,
@@ -13318,7 +13318,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13317,Tan Hun Wooi,,U,U,
 13318,Dato' Koay Kar Huah,,U,U,
 13319,Koay Teng Hai,,U,U,
-13320,Yeoh Soon Hin,,U,U,
+13320,Yeoh Soon Hin,Yeoh Soon Hin,M,Chinese,1976-09-20
 13321,Ong Ping Cheow,,U,U,
 13322,Goh Kheng Sneah,,U,U,
 13323,Syed Mohamad Nazli Bin Syed Ahmad,,M,Malay,
@@ -13344,7 +13344,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13343,Teh Lay Cheng,,U,U,
 13344,Pk. Subbaiyah,,U,U,
 13345,A. Tanasekharan,,U,U,
-13346,Datuk Arif Shah Bin Omar Shah,,M,Malay,
+13346,Datuk Arif Shah Bin Omar Shah,Arif Shah Bin Omar Shah,M,Malay,
 13347,Ramli Bulat,,U,U,
 13348,Ahmad Sahar Shuib,,U,U,
 13349,Mohd. Hamdan Abd. Rahman,,U,U,
@@ -13471,7 +13471,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13470,Abu Bakar Sidekh Bin Zainul Abidin,,M,Malay,
 13471,Hj Ahmad Rafaei Bin Dato Ir A Rashid,,M,Malay,
 13472,Ustaz Muhammad Fauzi Bin Yusoff,,M,Malay,
-13473,Suhaimi Bin Sabudin,,M,Malay,
+13473,Suhaimi Bin Sabudin,Suhaimi Bin Sabudin,M,Malay,
 13474,Hjh Dr Norlela Ariffin,,U,U,
 13475,Ustaz Muhammad Fawwaz Bin Mohamad Jan,,M,Malay,
 13476,Heng Lee Lee,Heng Lee Lee,F,Chinese,1979-09-27
@@ -13797,7 +13797,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13796,Ayub Bin Aman,Ayub bin Aman,M,Malay,
 13797,Justine R. Sedomon,,U,U,
 13798,Juri Bin Gahun,,M,Malay,
-13799,Datuk Hj. Suffian Koroh,,U,U,
+13799,Datuk Hj. Suffian Koroh,Suffian Koroh (Stephen),M,Bumi Sabah,1930
 13800,R.M. Jasni,,U,U,
 13801,Anjik,,U,U,
 13802,Abu Bakar Bin O.K.K. Anik,,M,Malay,
@@ -13841,7 +13841,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13840,Almalek Bin Abdul Hamid,Almalek bin Abdul Hamid,M,Malay,
 13841,Dason Gaban,,U,U,
 13842,Zulkiflie Majun @ Maralang,,U,U,
-13843,Masingkan Bin Masampun @ Shingkan,,M,Malay,
+13843,Masingkan Bin Masampun @ Shingkan,Masingkan bin Masampun @ Shingkan,M,Malay,1941-09-20
 13844,Yahya Lempong,,U,U,
 13845,Tan Sri Haji Mohammad Said Keruak,,U,U,
 13846,Naratine Bin Sagidon,,M,Malay,
@@ -13932,7 +13932,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 13931,Edmund Otigil,,U,U,
 13932,Yunus Bin Kimin,,M,Malay,
 13933,Dullah Bin Kandihong,,M,Malay,
-13934,Eric Koroh,,U,U,
+13934,Eric Koroh,Eric Koroh,M,Malay,
 13935,Adut Bin Sigoh @ Joe Bin Said Besar,Adut bin Sigoh @ Joe bin Said Besar,M,Malay,
 13936,Asing Ampagang,,U,U,
 13937,Mohamad Sunoch Marso,,U,U,
@@ -14275,7 +14275,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14274,Sampaladon Bin Sudiki,,M,Malay,
 14275,Jumit Bin Panau,,M,Malay,
 14276,Mukamad Bin Abdullah,,M,Malay,
-14277,Hj. Musbah Bin Hj. Janli,,M,Malay,
+14277,Hj. Musbah Bin Hj. Janli,Hj. Musbah bin Hj. Janli,M,Malay,1960-11-24
 14278,Pendikar Bin Hj. Mulia,,M,Malay,
 14279,Hj. Mohammad Noor B. Hj. Mansor,,U,U,
 14280,Melin Bin Laut,,M,Malay,
@@ -14300,7 +14300,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14299,Lakuman Bin Gisug,,M,Malay,
 14300,Patrick Bin Godomon,,M,Malay,
 14301,Mickey Bin Salleh,,M,Malay,
-14302,Masidi Bin Manjun,,M,Malay,
+14302,Masidi Bin Manjun,Masidi bin Manjun @ Masdi,M,Malay,1951-06-01
 14303,Japiril Bin Suhaimin,,M,Malay,
 14304,Samat Bin Dimok,Samat bin Dimok,M,Bumi Sabah,
 14305,Mynoor Bin Ginggor,,M,Malay,
@@ -14709,7 +14709,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14708,Sabagang @ Handry Bin Rumpit,,M,Malay,
 14709,Maidom @ Paul Bin Pansai,,M,Malay,
 14710,Saijan Bin Samit,,M,Malay,
-14711,Japlin Bin Akim @ Abd Hamid,,M,Malay,
+14711,Japlin Bin Akim @ Abd Hamid,Japlin bin Akim @ Abd Hamid,M,Malay,1966-02-03
 14712,Jahid @ Noordin Bin Jahim,,M,Malay,
 14713,Hannis Bin Gibung,,M,Malay,
 14714,Rosnah @ Rose Binti Onek,,F,Malay,
@@ -14932,7 +14932,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14931,Raymond Tan Shu Kiah,,U,U,
 14932,Anthony Teo,,U,U,
 14933,Mustapa Bin Datu Tambuyong,,M,Malay,
-14934,Masiung Banah,,U,U,
+14934,Masiung Banah,Masiung Banah,M,Bumi Sabah,1972-05-19
 14935,Jusing Sabran,,U,U,
 14936,Duin Bintarang @ Noor Bintarang,,U,U,
 14937,Abdul Razak Bin Hj. Jamil,,M,Malay,
@@ -14940,7 +14940,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14939,Awang @ Pg. Roslan Bin Mansah @ Pg. Mansah,,M,Malay,
 14940,Abdulgani Kosui,,U,U,
 14941,Jahran Bin Gani,,M,Malay,
-14942,Saddi Haji Abdul Rahman,,U,U,
+14942,Saddi Haji Abdul Rahman,Saddi Haji Abdul Rahman,M,Malay,1959-09-02
 14943,Imran Bin Ibrahim,,M,Malay,
 14944,Jakariah Bin Janit,,M,Malay,
 14945,Jamal Bin Sulai,,M,Malay,
@@ -14979,9 +14979,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 14978,Chin Chung Kui @ William Chin,,U,U,
 14979,Johnes @ Onis Bin Piut,,M,Malay,
 14980,Awang Latip Bin Abdul Salam,,M,Malay,
-14981,Maklin Bin Masiau,,M,Malay,
+14981,Maklin Bin Masiau,Maklin bin Masiau,M,Malay,1972-06-19
 14982,Datuk Bolkiah Bin Hj Ismail,,M,Malay,
-14983,Dausieh Binti Queck @ Paraman,,F,Malay,
+14983,Dausieh Binti Queck @ Paraman,Dausieh binti Queck @ Paraman,F,Malay,
 14984,Richard Bin Jiun,,M,Malay,
 14985,Marunsai Bin Dawai,,M,Malay,
 14986,Jelani Bin Hamdan,,M,Malay,
@@ -15094,7 +15094,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 15093,Rusayidi Bin Abdullah,,M,Malay,
 15094,Datuk Bobbey Suan,,U,U,
 15095,George Eram @ George Iram,,U,U,
-15096,Datuk James Bin Ratib,,M,Malay,
+15096,Datuk James Bin Ratib,James bin Ratib,M,Malay,1967-10-08
 15097,Pagrios @ Petrus Bin Zabang,,M,Malay,
 15098,Datu Kamaruddin Bin Datu Mustapha,,M,Malay,
 15099,Masiawan Kunching,,U,U,
@@ -15309,7 +15309,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 15308,Poon Ming Fung @ Frankie,,U,U,
 15309,Jufazli Shi Ahmad,,U,U,
 15310,Datuk Masiung Banah,,U,U,
-15311,Norfaizah Chua,,U,U,
+15311,Norfaizah Chua,Norfaizah Chua,F,Bumi Sabah,1963-08-10
 15312,Jumaidin Lakalla,,U,U,
 15313,James Aik,,U,U,
 15314,Muariffidin Bin Abdul Malek,,M,Malay,
@@ -16209,7 +16209,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 16208,Jonathan Sabai Ak. Ajing,,U,U,
 16209,Peter Gani Ak Kiai,,U,U,
 16210,Joseph Ak Jenggot,,U,U,
-16211,James Jemot Ak. Maseng,,U,U,
+16211,James Jemot Ak. Maseng,James Jemut Anak Masing,M,Bumi Sarawak,1949-03-05
 16212,Stanley Ajang Batok,Stanley Ajang Batok,M,Bumi Sarawak,1953-12-03
 16213,Nyipa Kilah @ Nipah Batok,,U,U,
 16214,Mohamad Julaihi Bin Haji Mohamad Hanaffie,,M,Malay,
@@ -16264,7 +16264,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 16263,Abdul Wahab Bin Aziz,Abdul Wahab bin Aziz,M,Malay,1947-08-08
 16264,Datuk A. Yusuf Puteh,,U,U,
 16265,Peter Nyarok Ak. Entrie,,U,U,
-16266,Hamden B. Ahmad,,U,U,
+16266,Hamden B. Ahmad,Hamden Bin Ahmad,M,Malay,1948-09-03
 16267,Wahab Bin Hjai Dolah,,M,Malay,
 16268,Tun Abdul-Rahman B Ya'Akub @ Tun Datik Patinggi Haji Abdul-Rahman Ya'Akub,Abdul Rahman bin Ya'akub,M,Malay,1928-01-03
 16269,Hii King Hiong @ Thomas Hii King Hiong,,U,U,
@@ -16494,7 +16494,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 16493,Douglas Limbai Anak Guran,,U,U,
 16494,Tan Sri Datuk Amar Dr. Wong Soon Kai,,U,U,
 16495,Soon Choon Teck,,U,U,
-16496,Goh Chung Siong,,U,U,
+16496,Goh Chung Siong,Goh Chung Siong,M,Chinese,1951-05-12
 16497,Awang Bemee Bin Awang Ali Basah,,M,Malay,
 16498,Sim Eng Hua,,U,U,
 16499,Abdul Ajis Abdul Majeed,,U,U,
@@ -17216,10 +17216,10 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 17215,Puso Bin Bujang,,M,Malay,
 17216,Robert Segie,,U,U,
 17217,Joseph Jinggut,,U,U,
-17218,Nicholas Kudi Anak Jantai,,U,U,
-17219,Kenneth Usang George,,U,U,
-17220,Sukarno Layau,,U,U,
-17221,Koh Anak Kumbong,,U,U,
+17218,Nicholas Kudi Anak Jantai,Nicholas Kudi Anak Jantai Masing,M,Bumi Sarawak,
+17219,Kenneth Usang George,Kenneth Usang George Lagong,M,Bumi Sarawak,
+17220,Sukarno Layau,Irwan Iskandar Sukarno Bin Abdullah,M,Malay,
+17221,Koh Anak Kumbong,Koh Anak Kumbong,M,Bumi Sarawak,
 17222,Henry Usat Bit,,U,U,
 17223,Siki Balarik,,U,U,
 17224,Kennedy Chukpai Ugon,,U,U,
@@ -17445,7 +17445,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 17444,Aman Khan,,U,U,
 17445,Kamarudzaman,,U,U,
 17446,Kapid Bin Majid,,M,Malay,
-17447,Che Onn Bin Ismail,,M,Malay,
+17447,Che Onn Bin Ismail,Che Onn bin Ismail,M,Malay,1938-05-09
 17448,A. V. Kathiah,,U,U,
 17449,Abd. Aziz Ismail,Abdul Aziz bin Ismail,M,Malay,
 17450,Gan Ching Yen,,U,U,
@@ -17977,7 +17977,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 17976,Krisnasamy A/L Thevarayan,,M,U,
 17977,Ahmad Yunus Bin Hairi,,M,Malay,
 17978,Ang Leng Kiat,,U,U,
-17979,Hasnul B. Baharuddin,,U,U,
+17979,Hasnul B. Baharuddin,Hasnul Bin Baharuddin,M,Malay,1967-10-04
 17980,Hasiman Bin Sidom,,M,Malay,
 17981,Karim Bin Mansor,,M,Malay,
 17982,Suhaimi Bin Mohd Ghazali,Suhaimi bin Mohd Ghazali,M,Malay,1968-02-29
@@ -18188,13 +18188,13 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 18187,Cikgu Zurihan Yusop,,U,U,
 18188,Loh Chee Heng,,U,U,
 18189,Jimmy Tan Cheng Chai,,U,U,
-18190,Hj Hasnul Bin Baharuddin,,M,Malay,
+18190,Hj Hasnul Bin Baharuddin,Hasnul Bin Baharuddin,M,Malay,1967-10-04
 18191,Haji Hasiman Bin Sidom,,M,Malay,
 18192,Muventen A/L Munusamy,,M,U,
 18193,Ir. Haji. Mohd Haslin Hassan,,U,U,
 18194,Nisman Bin Yusof,,M,Malay,
 18195,Shahrum Bin Mohd Sharif,,M,Malay,
-18196,Borhan Aman Shah,,U,U,
+18196,Borhan Aman Shah,Borhan Bin Aman Shah,M,Malay,1962-05-14
 18197,Azmi Bin Othman,,M,Malay,
 18198,Lai Nyuk Lan,,U,U,
 18199,Zakaria Bin Mohd Mukhtar,,M,Malay,
@@ -18334,9 +18334,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 18333,Philip Tan Choon Swee,,U,U,
 18334,Dr Mohd Sallehuddin Hafiz,,U,U,
 18335,Hajjah Rozana,,U,U,
-18336,Haji Hasnul Bin Baharuddin,,M,Malay,
+18336,Haji Hasnul Bin Baharuddin,Hasnul Bin Baharuddin,M,Malay,1967-10-04
 18337,Ir. Mohd Haslin Bin Hassan,,M,Malay,
-18338,Haji Borhan Bin Aman Shah,,M,Malay,
+18338,Haji Borhan Bin Aman Shah,Borhan Bin Aman Shah,M,Malay,1962-05-14
 18339,Dato Dr Karim Mansor,,U,U,
 18340,Adhif Syan Bin Abdullah,,M,Malay,
 18341,Yusmi Haniff Bin Ariffin,,M,Malay,
@@ -18524,7 +18524,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 18523,Bidin Bin Yusof,,M,Malay,
 18524,Mohamed Bin Othman,,M,Malay,
 18525,Mohd. Amin Bin Mahmood,,M,Malay,
-18526,Sulong Bin Mahmood,,M,Malay,
+18526,Sulong Bin Mahmood,Sulong bin Mahmood,M,Malay,1932
 18527,Engku Chik Bin Mat,,M,Malay,
 18528,Ahmad Haji Mahmood,,U,U,
 18529,T. Shahadan Majid,,U,U,
@@ -18656,7 +18656,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 18655,Mazlan @ Mahmud Bin Embong,,M,Malay,
 18656,Mohamed Ali Bin Omar,,M,Malay,
 18657,Embong Bin Ngah,,M,Malay,
-18658,Yasin @ Ismail Awang,,U,U,
+18658,Yasin @ Ismail Awang,Yasin bin Awang (Ismail),M,Malay,
 18659,Harun @ Abd. Rahman Bin Mohamad,,M,Malay,
 18660,Ustaz Kassim Bin Ahmad,,M,Malay,
 18661,Ishak Bin Salleh,,M,Malay,
@@ -18781,7 +18781,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 18780,Muhammad Nor Bin Mustapha,,M,Malay,
 18781,Draman @ Muda Bin Abdullah,,M,Malay,
 18782,Aziz @ Ibrahim Bin Awang,,M,Malay,
-18783,Yahaya Bin Ali,,M,Malay,
+18783,Yahaya Bin Ali,Yahaya bin Ali,M,Malay,1959
 18784,Syed Omar Bin Mohammad @ Engku Bijaya Sura,,M,Malay,
 18785,Mohd. Zahid Bin Mohd. Shah,,M,Malay,
 18786,Mohamad @ A. Bakar Bin Ali,,M,Malay,
@@ -19213,7 +19213,7 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 19212,Haji Hanafiah Mat,Hanafiah Bin Mat,M,Malay,1960-12-17
 19213,Mohd Hafiz,Mohd Hafiz Bin Adam,M,Malay,1977-09-20
 19214,Dr. Mohd Zaki Bin Salleh,Mohd Zaki Bin Salleh,M,Malay,1969-06-17
-19215,Haji Pi,,U,U,
+19215,Haji Pi,Hanafi bin Mamat,M,Malay,
 19216,Dato' Wan Ahmad Farid,Wan Ahmad Farid bin Wan Salleh,M,Malay,
 19217,Azharudin,Azharudin bin Mamat @ Adam,M,Malay,
 19218,R. Loganathan,R. Loganathan,M,Indian,1966
@@ -19255,9 +19255,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 19254,Hj. Sharif,,U,U,
 19255,Ustaz Nazri Bin Haji Ahmad,,M,Malay,
 19256,Dato' Hasan Bin Arifin,,M,Malay,
-19257,Salleh Bin Isahak,,M,Malay,
+19257,Salleh Bin Isahak,Salleh Bin Isahak,M,Malay,
 19258,Dr Wan Azizah Wan Ismail,,U,U,
-19259,Azman Shah,,U,U,
+19259,Azman Shah,Azman Shah bin Othman,M,Malay,
 19260,Dr. Najihatussalehah Ahmad,Najihatussalehah binti Ahmad,F,Malay,1966-11-15
 19261,Datin Mastura Yazid,,U,U,
 19262,Dr Ahmad Termizi Ramli,,U,U,
@@ -19280,9 +19280,9 @@ candidate_uid,name_dirty,name,sex,ethnicity,dob
 19279,Zakaria Bin Haji Hanafi,,M,Malay,
 19280,Aiman Zainali,,U,U,
 19281,Nik Aziz,,U,U,
-19282,Malar Rajaram,,U,U,
-19283,Hj Mohd Nor,,U,U,
-19284,Dr. Streram Sinnasamy,,U,U,
+19282,Malar Rajaram,Malar Rajaram,F,Indian,1968
+19283,Hj Mohd Nor,Mohd Nor Yassin,M,Malay,
+19284,Dr. Streram Sinnasamy,Streram Sinnasamy,M,Indian,
 19285,Hj. Hamzah Hj. Abdullah,,U,U,
 19286,Sulaiman Bin Abdul Samat,Sulaiman bin Abdul Samat,M,Malay,
 19287,Chia Siew Yung,,U,U,

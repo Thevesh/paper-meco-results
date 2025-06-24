@@ -16,7 +16,8 @@ PATH = "src-data/dashboards"
 nm = pd.read_csv("src-data/lookup_candidates.csv").drop_duplicates(
     subset=["candidate_uid"], keep="last"
 )
-nm.name = nm.name.fillna(nm.name_dirty)
+nm.name = nm.name.fillna(nm.name_dirty).str.replace('A/L','a/l').str.replace('A/P','a/p').str.replace(' Anak ',' anak ')
+nm.loc[nm.ethnicity.isin(['Malay','Bumi Sabah','Bumi Sarawak']),'name'] = nm.name.str.replace(' Bin ',' bin ').str.replace(' Binti ',' binti ')
 MAP_NAME = dict(zip(nm.candidate_uid, nm.name))
 
 
