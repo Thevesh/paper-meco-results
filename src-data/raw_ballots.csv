@@ -1492,9 +1492,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1978-07-08,GE-05,Perak,P.062 Telok Anson,3,Mohamad Bin Ngah,1270,PAS,3,1168
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,1,Mak Hon Kam @ Mak Hoon Ting,995,BN,25,15805
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,2,Zakaria Bin A. Manaf,1272,DAP,18,7374
-1978-07-08,GE-05,Perak,P.064 Bagan Datuk,1,Haji Hassan Adli Bin Haji Arshad,33,BN,25,16894
-1978-07-08,GE-05,Perak,P.064 Bagan Datuk,2,Abdullah Bin Basiran,1273,PAS,3,2600
-1978-07-08,GE-05,Perak,P.064 Bagan Datuk,3,Thee Ah Kow @ Thee You Min,1274,DAP,18,2527
+1978-07-08,GE-05,Perak,P.064 Bagan Datok,1,Haji Hassan Adli Bin Haji Arshad,33,BN,25,16894
+1978-07-08,GE-05,Perak,P.064 Bagan Datok,2,Abdullah Bin Basiran,1273,PAS,3,2600
+1978-07-08,GE-05,Perak,P.064 Bagan Datok,3,Thee Ah Kow @ Thee You Min,1274,DAP,18,2527
 1978-07-08,GE-05,Pahang,P.065 Lipis,1,Tan Sri Muhammad Ghazali Shafie,1000,BN,25,14778
 1978-07-08,GE-05,Pahang,P.065 Lipis,2,Kasim Bin Yahya,1275,PAS,3,3199
 1978-07-08,GE-05,Pahang,P.065 Lipis,3,Wan Abdul Rahman Bin Wan Ibrahim,1276,BEBAS,1,3160
@@ -1534,9 +1534,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1978-07-08,GE-05,Selangor,P.078 Ulu Langat,3,Zainal Abidin Bin Mohd. Sidek,1303,PAS,3,2212
 1978-07-08,GE-05,Selangor,P.078 Ulu Langat,4,Datuk Kampo Radjo,516,PSRM,26,902
 1978-07-08,GE-05,Selangor,P.078 Ulu Langat,5,Kamarulzaman Bin Ibrahim,1304,PEKEMAS,27,706
-1978-07-08,GE-05,Selangor,P.079 Pelabuhan Kelang,1,Tan Sri V. Manickavasagam,243,BN,25,21429
-1978-07-08,GE-05,Selangor,P.079 Pelabuhan Kelang,2,K. Ramasen,1027,DAP,18,10329
-1978-07-08,GE-05,Selangor,P.079 Pelabuhan Kelang,3,Mohd. Zin Bin Ibrahim,1305,PAS,3,4935
+1978-07-08,GE-05,Selangor,P.079 Pelabohan Kelang,1,Tan Sri V. Manickavasagam,243,BN,25,21429
+1978-07-08,GE-05,Selangor,P.079 Pelabohan Kelang,2,K. Ramasen,1027,DAP,18,10329
+1978-07-08,GE-05,Selangor,P.079 Pelabohan Kelang,3,Mohd. Zin Bin Ibrahim,1305,PAS,3,4935
 1978-07-08,GE-05,Selangor,P.080 Shah Alam,1,Lew Sip Hon,707,BN,25,29098
 1978-07-08,GE-05,Selangor,P.080 Shah Alam,2,Liew Fatt Yuen,1079,DAP,18,19434
 1978-07-08,GE-05,Selangor,P.080 Shah Alam,3,J.P. Samuel Raj,1028,PEKEMAS,27,1862
@@ -1788,14 +1788,14 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1982-04-22,GE-06,Terengganu,P.028 Besut,2,Ibrahim Bin Abdul Rahman,139,BN,25,16753
 1982-04-22,GE-06,Terengganu,P.029 Ulu Nerus,1,Mamat Abd. Rahman,1511,BN,25,15446
 1982-04-22,GE-06,Terengganu,P.029 Ulu Nerus,2,Lukman Bin Abdul Kadir,915,PAS,3,8753
-1982-04-22,GE-06,Terengganu,P.030 Ulu Terengganu,1,Ahmad Bin Awang,1512,PAS,3,10329
-1982-04-22,GE-06,Terengganu,P.030 Ulu Terengganu,2,Alias Md. Ali,1204,BN,25,12771
+1982-04-22,GE-06,Terengganu,P.030 Ulu Trengganu,1,Ahmad Bin Awang,1512,PAS,3,10329
+1982-04-22,GE-06,Terengganu,P.030 Ulu Trengganu,2,Alias Md. Ali,1204,BN,25,12771
 1982-04-22,GE-06,Terengganu,P.031 Kuala Nerus,1,Mohamad Bin Mahmud,1514,BEBAS,1,719
 1982-04-22,GE-06,Terengganu,P.031 Kuala Nerus,2,Ibrahim Bin Hassan,1240,BN,25,13325
 1982-04-22,GE-06,Terengganu,P.031 Kuala Nerus,3,Hassan Bin Ali,1515,PAS,3,11957
-1982-04-22,GE-06,Terengganu,P.032 Kuala Terengganu,1,Syed Shafie Bin Tuan Baharu,631,PSRM,26,1231
-1982-04-22,GE-06,Terengganu,P.032 Kuala Terengganu,2,Wan Musa Bin Embong,1516,PAS,3,13078
-1982-04-22,GE-06,Terengganu,P.032 Kuala Terengganu,3,Abdul Maman Bin Othman,1207,BN,25,18545
+1982-04-22,GE-06,Terengganu,P.032 Kuala Trengganu,1,Syed Shafie Bin Tuan Baharu,631,PSRM,26,1231
+1982-04-22,GE-06,Terengganu,P.032 Kuala Trengganu,2,Wan Musa Bin Embong,1516,PAS,3,13078
+1982-04-22,GE-06,Terengganu,P.032 Kuala Trengganu,3,Abdul Maman Bin Othman,1207,BN,25,18545
 1982-04-22,GE-06,Terengganu,P.033 Dungun,1,Awang Bin Jabar,1209,BN,25,13447
 1982-04-22,GE-06,Terengganu,P.033 Dungun,2,Abdul Hamed Bin Embong,1519,PSRM,26,337
 1982-04-22,GE-06,Terengganu,P.033 Dungun,3,Abdul Haji Hj. Awang,1520,PAS,3,10172
@@ -1871,9 +1871,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1982-04-22,GE-06,Perak,P.062 Telok Anson,1,Chan Fu King,680,DAP,18,12643
 1982-04-22,GE-06,Perak,P.062 Telok Anson,2,Haw Hew Kheong @ Au How Cheong,994,BN,25,13475
 1982-04-22,GE-06,Perak,P.062 Telok Anson,3,Shamsudin Bin Tamyis,1580,PAS,3,1265
-1982-04-22,GE-06,Perak,P.063 Tanjung Malim,1,Zakaria Bin Abdul Manaf,1581,DAP,18,6996
-1982-04-22,GE-06,Perak,P.063 Tanjung Malim,2,Mohd. Rus Bin Jaafar,666,PAS,3,2025
-1982-04-22,GE-06,Perak,P.063 Tanjung Malim,3,Mak Hoon Ting @ Mak Hon Kam,995,BN,25,18745
+1982-04-22,GE-06,Perak,P.063 Tanjong Malim,1,Zakaria Bin Abdul Manaf,1581,DAP,18,6996
+1982-04-22,GE-06,Perak,P.063 Tanjong Malim,2,Mohd. Rus Bin Jaafar,666,PAS,3,2025
+1982-04-22,GE-06,Perak,P.063 Tanjong Malim,3,Mak Hoon Ting @ Mak Hon Kam,995,BN,25,18745
 1982-04-22,GE-06,Perak,P.064 Bagan Datok,1,Yahya Bin Haji Zakaria,1583,BN,25,16568
 1982-04-22,GE-06,Perak,P.064 Bagan Datok,2,Mohamad Aris Bin Bakri,1584,PAS,3,7763
 1982-04-22,GE-06,Pahang,P.065 Lipis,1,Zaharin Bin Muhamad,1585,PAS,3,4145
@@ -1952,8 +1952,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1982-04-22,GE-06,Negeri Sembilan,P.091 Seremban,2,"Chen Man Hin, Dennis",720,DAP,18,22413
 1982-04-22,GE-06,Negeri Sembilan,P.092 Kuala Pilah,1,Othman Bin Hamzah,1654,PAS,3,4011
 1982-04-22,GE-06,Negeri Sembilan,P.092 Kuala Pilah,2,Napsiah Bte Omar,1655,BN,25,19206
-1982-04-22,GE-06,Negeri Sembilan,P.093 Teluk Kemang,1,Dato K. Pathmanaban @ K. Pathmanathan S/O Kunjamboo,1057,BN,25,18937
-1982-04-22,GE-06,Negeri Sembilan,P.093 Teluk Kemang,2,Kathiah S/O Vadiveloo @ A.V. Kathaiah,1026,DAP,18,9922
+1982-04-22,GE-06,Negeri Sembilan,P.093 Telok Kemang,1,Dato K. Pathmanaban @ K. Pathmanathan S/O Kunjamboo,1057,BN,25,18937
+1982-04-22,GE-06,Negeri Sembilan,P.093 Telok Kemang,2,Kathiah S/O Vadiveloo @ A.V. Kathaiah,1026,DAP,18,9922
 1982-04-22,GE-06,Negeri Sembilan,P.094 Tampin,1,Azhari B Hamzah,1658,PAS,3,3065
 1982-04-22,GE-06,Negeri Sembilan,P.094 Tampin,2,Loo Ah Man @ Loh Ming Chai,1659,DAP,18,6603
 1982-04-22,GE-06,Negeri Sembilan,P.094 Tampin,3,Mokhtar Bin Hashim,1061,BN,25,27587
@@ -2571,9 +2571,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1990-10-20,GE-08,Kelantan,P.017 Tumpat,3,Dato' Haji Dusuki Ahmad,624,BN,25,12916
 1990-10-20,GE-08,Kelantan,P.018 Pengkalan Chepa,1,Pak Nik Lah,1825,PAS,3,27321
 1990-10-20,GE-08,Kelantan,P.018 Pengkalan Chepa,2,Mohd. Apandi Haji Ali,2185,BN,25,9874
-1990-10-20,GE-08,Kelantan,P.019 Kota Bharu,1,Saifuddin Haji Daud,2186,BEBAS,1,503
-1990-10-20,GE-08,Kelantan,P.019 Kota Bharu,2,Hjh. Ilani Bt. Dato' Hj. Isahak,2187,S46,56,27566
-1990-10-20,GE-08,Kelantan,P.019 Kota Bharu,3,Tengku Rithaudden,617,BN,25,12106
+1990-10-20,GE-08,Kelantan,P.019 Kota Baharu,1,Saifuddin Haji Daud,2186,BEBAS,1,503
+1990-10-20,GE-08,Kelantan,P.019 Kota Baharu,2,Hjh. Ilani Bt. Dato' Hj. Isahak,2187,S46,56,27566
+1990-10-20,GE-08,Kelantan,P.019 Kota Baharu,3,Tengku Rithaudden,617,BN,25,12106
 1990-10-20,GE-08,Kelantan,P.020 Pasir Mas,1,Hanafi Hj. Mamat,2189,BN,25,10776
 1990-10-20,GE-08,Kelantan,P.020 Pasir Mas,2,Haji Ibrahim Ali,1828,S46,56,20066
 1990-10-20,GE-08,Kelantan,P.021 Rantau Panjang,1,Sanusi Daing Mariok,2191,PAS,3,18618
@@ -2797,8 +2797,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 1990-10-20,GE-08,Johor,P.124 Sri Gading,2,Zawawi Hj. Zin,2373,S46,56,7625
 1990-10-20,GE-08,Johor,P.125 Batu Pahat,1,Datin Sh. Rokiah Sh. Cantik,2374,S46,56,17457
 1990-10-20,GE-08,Johor,P.125 Batu Pahat,2,Haji Daud Bin Dato' Haji Taha,1686,BN,25,24922
-1990-10-20,GE-08,Johor,P.126 Sungai Bunut,1,Mohamed Sadek B Mamali,2376,S46,56,10943
-1990-10-20,GE-08,Johor,P.126 Sungai Bunut,2,Hj. Abd. Hamid Bin Hj Abd Rahman,2377,BN,25,23313
+1990-10-20,GE-08,Johor,P.126 Sungai Benut,1,Mohamed Sadek B Mamali,2376,S46,56,10943
+1990-10-20,GE-08,Johor,P.126 Sungai Benut,2,Hj. Abd. Hamid Bin Hj Abd Rahman,2377,BN,25,23313
 1990-10-20,GE-08,Johor,P.127 Senai,1,Ibrahim Bin Hanafia,2378,BEBAS,1,1777
 1990-10-20,GE-08,Johor,P.127 Senai,2,Woon See Chin,2023,BN,25,27697
 1990-10-20,GE-08,Johor,P.127 Senai,3,Liew Kon Chin,2379,DAP,18,19349
@@ -3815,8 +3815,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes
 2004-03-21,GE-11,Kedah,P.007 Padang Terap,2,Datuk Ghazali Ibrahim,3219,BN,25,14776
 2004-03-21,GE-11,Kedah,P.008 Pokok Sena,1,Mahfuz Omar,2234,PAS,3,22440
 2004-03-21,GE-11,Kedah,P.008 Pokok Sena,2,Datuk Abdul Rahman Ibrahim,3221,BN,25,29740
-2004-03-21,GE-11,Kedah,P.009 Alor Setar,1,Datuk Chor Chee Heung,2160,BN,25,28379
-2004-03-21,GE-11,Kedah,P.009 Alor Setar,2,Siti Nor Abdul Hamid,3223,PKR,11,13864
+2004-03-21,GE-11,Kedah,P.009 Alor Star,1,Datuk Chor Chee Heung,2160,BN,25,28379
+2004-03-21,GE-11,Kedah,P.009 Alor Star,2,Siti Nor Abdul Hamid,3223,PKR,11,13864
 2004-03-21,GE-11,Kedah,P.010 Kuala Kedah,1,Mohamed Sabu,1524,PAS,3,26493
 2004-03-21,GE-11,Kedah,P.010 Kuala Kedah,2,Hashim Jahaya,3225,BN,25,36707
 2004-03-21,GE-11,Kedah,P.011 Pendang,1,Md Rozai Shafian,3226,BN,25,24380
