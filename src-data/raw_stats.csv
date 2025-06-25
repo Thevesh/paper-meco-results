@@ -4473,8 +4473,8 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Melaka,N.08 Ayer Panas,8670,6820,0,236
 1978-07-08,SE-05,Melaka,N.09 Serkam,7891,6138,0,230
 1978-07-08,SE-05,Melaka,N.10 Sungei Rambai,7162,5606,0,280
-1978-07-08,SE-05,Melaka,N.11 Tanjong Minyak,0,0,0,0
-1978-07-08,SE-05,Melaka,N.12 Ayer Keroh,0,0,0,0
+1978-07-08,SE-05,Melaka,N.11 Tanjong Minyak,10899,0,0,0
+1978-07-08,SE-05,Melaka,N.12 Ayer Keroh,9779,0,0,0
 1978-07-08,SE-05,Melaka,N.13 Ayer Molek,8254,6417,0,125
 1978-07-08,SE-05,Melaka,N.14 Sungai Udang,8529,6276,0,137
 1978-07-08,SE-05,Melaka,N.15 Bukit Rambai,8720,6512,0,142
@@ -5239,7 +5239,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1969-05-10,SE-03,Pahang,N.12 Ulu Kuantan,8217,6065,0,472
 1969-05-10,SE-03,Pahang,N.13 Kuala Pahang,7732,0,0,0
 1969-05-10,SE-03,Pahang,N.14 Pahang Tua,8408,0,0,0
-1969-05-10,SE-03,Pahang,N.15 Rompin,6504,0,0,0
+1969-05-10,SE-03,Pahang,N.15 Rompin,7504,0,0,0
 1969-05-10,SE-03,Pahang,N.16 Chenor,7156,5101,0,672
 1969-05-10,SE-03,Pahang,N.17 Triang,8066,5528,0,456
 1969-05-10,SE-03,Pahang,N.18 Kuala Semantan,5771,4097,0,291
@@ -6481,12 +6481,12 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1974-08-24,SE-04,Perlis,N.10 Bandar Arau,5086,3650,0,321
 1974-08-24,SE-04,Perlis,N.11 Kurong Anai,5439,3979,0,475
 1974-08-24,SE-04,Perlis,N.12 Sanglang,4915,3974,0,282
-1978-07-08,SE-05,Perlis,N.01 Titi Tinggi,0,0,0,0
+1978-07-08,SE-05,Perlis,N.01 Titi Tinggi,5365,0,0,0
 1978-07-08,SE-05,Perlis,N.02 Chuping,6715,5208,0,319
 1978-07-08,SE-05,Perlis,N.03 Bintong,5726,4618,0,281
 1978-07-08,SE-05,Perlis,N.04 Bandar Kangar,7406,5491,0,245
 1978-07-08,SE-05,Perlis,N.05 Paya,6683,5237,0,248
-1978-07-08,SE-05,Perlis,N.06 Oran,0,0,0,0
+1978-07-08,SE-05,Perlis,N.06 Oran,3730,0,0,0
 1978-07-08,SE-05,Perlis,N.07 Kuala Perlis,5307,4146,0,245
 1978-07-08,SE-05,Perlis,N.08 Kayang,5416,4124,0,209
 1978-07-08,SE-05,Perlis,N.09 Utan Aji,5228,4223,0,193
@@ -8011,7 +8011,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1983-12-28,SE-04,Sarawak,N.29 Igan,7341,4594,0,90
 1983-12-28,SE-04,Sarawak,N.30 Dudong,11269,8064,0,112
 1983-12-28,SE-04,Sarawak,N.31 Balingian,10409,6472,0,207
-1983-12-28,SE-04,Sarawak,N.32 Oya,80990,0,0,0
+1983-12-28,SE-04,Sarawak,N.32 Oya,8090,0,0,0
 1983-12-28,SE-04,Sarawak,N.33 Pakan,5328,4094,0,73
 1983-12-28,SE-04,Sarawak,N.34 Meluan,5802,4239,0,94
 1983-12-28,SE-04,Sarawak,N.35 Machan,6863,5266,0,33
@@ -8832,12 +8832,12 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1995-04-24,SE-09,Selangor,N.01 Sungai Air Tawar,10633,6465,19,265
 1995-04-24,SE-09,Selangor,N.02 Sabak,10645,6751,12,325
 1995-04-24,SE-09,Selangor,N.03 Sungai Besar,13609,9295,41,364
-1995-04-24,SE-09,Selangor,N.04 Sungai Panjang,0,0,0,0
+1995-04-24,SE-09,Selangor,N.04 Sungai Panjang,11950,0,0,0
 1995-04-24,SE-09,Selangor,N.05 Sekinchan,13687,9437,0,747
-1995-04-24,SE-09,Selangor,N.06 Sungai Burong,0,0,0,0
+1995-04-24,SE-09,Selangor,N.06 Sungai Burong,15523,0,0,0
 1995-04-24,SE-09,Selangor,N.07 Hulu Bernam,17106,11756,3,351
-1995-04-24,SE-09,Selangor,N.08 Kuala Kubu Baharu,0,0,0,0
-1995-04-24,SE-09,Selangor,N.09 Batang Kali,0,0,0,0
+1995-04-24,SE-09,Selangor,N.08 Kuala Kubu Baharu,16119,0,0,0
+1995-04-24,SE-09,Selangor,N.09 Batang Kali,18031,0,0,0
 1995-04-24,SE-09,Selangor,N.10 Permatang,18543,13110,57,575
 1995-04-24,SE-09,Selangor,N.11 Ijuk,16282,11163,37,951
 1995-04-24,SE-09,Selangor,N.12 Jeram,14905,11025,18,507
