@@ -83,4 +83,4 @@ If you use this work, please cite it as:
 
 ## Questions / Suggestions
 
-Contributions are not welcome, in order to maintain appropriate provenance for academic credit. However, you are free to open an issue!
+If you want to improve the quality of the underlying data, please fork this repo, then make a pull request for Thevesh's review. However, do consider opening an issue to discuss your desired changes first!
