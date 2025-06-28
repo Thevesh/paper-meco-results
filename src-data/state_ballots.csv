@@ -1947,9 +1947,9 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1990-10-20,SE-08,Kedah,N.27 Kulim,2,Yong Pao Chak,7036,BN,25,13308,72.33394934231981,won
 1990-10-20,SE-08,Kedah,N.28 Bandar Baharu,1,Ustaz Hassan B Abd Razak,7037,PAS,3,4127,29.338167342006116,lost
 1990-10-20,SE-08,Kedah,N.28 Bandar Baharu,2,Hussain Bin Abd Rahman,7038,BN,25,9940,70.66183265799388,won
-1995-04-24,SE-09,Kedah,N.01 Padang Mat Sirat,1,Long Bin Saad,7039,PAS,3,2560,28.349944629014395,lost
-1995-04-24,SE-09,Kedah,N.01 Padang Mat Sirat,2,Md Hassan Bin Bulat,7040,BN,25,6375,70.59800664451828,won
-1995-04-24,SE-09,Kedah,N.01 Padang Mat Sirat,3,Azizan Bin Abu Bakar,7041,BEBAS,1,95,1.052048726467331,lost_deposit
+1995-04-24,SE-09,Kedah,N.01 Padang Matsirat,1,Long Bin Saad,7039,PAS,3,2560,28.349944629014395,lost
+1995-04-24,SE-09,Kedah,N.01 Padang Matsirat,2,Md Hassan Bin Bulat,7040,BN,25,6375,70.59800664451828,won
+1995-04-24,SE-09,Kedah,N.01 Padang Matsirat,3,Azizan Bin Abu Bakar,7041,BEBAS,1,95,1.052048726467331,lost_deposit
 1995-04-24,SE-09,Kedah,N.02 Kuah,1,Sanusi Bin Junid,891,BN,25,5436,81.01341281669151,won
 1995-04-24,SE-09,Kedah,N.02 Kuah,2,Yusof Bin Abdullah,7042,S46,56,1274,18.986587183308494,lost
 1995-04-24,SE-09,Kedah,N.03 Ayer Hitam,1,Abdul Rahman Bin Ariffin,7043,BN,25,9069,55.228061628402656,won
@@ -2025,8 +2025,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1995-04-24,SE-09,Kedah,N.35 Kulim,2,Che' At Bin Ibrahim,7098,S46,56,3144,19.366761118639893,lost
 1995-04-24,SE-09,Kedah,N.36 Bandar Baharu,1,Muhamad Fishol Bin Hj Said,7099,BN,25,10652,72.24143777551713,won
 1995-04-24,SE-09,Kedah,N.36 Bandar Baharu,2,Abdul Raman Bin Abdul Razak @ Hasan Bin Abdul Razak,7100,PAS,3,4093,27.758562224482873,lost
-1999-11-29,SE-10,Kedah,N.01 Padang Mat Sirat,1,Cikgu Sidik Bin Ariffin,7101,PAS,3,4039,40.10127084988086,lost
-1999-11-29,SE-10,Kedah,N.01 Padang Mat Sirat,2,Md. Hasan Bin Bulat,7102,BN,25,6033,59.898729150119145,won
+1999-11-29,SE-10,Kedah,N.01 Padang Matsirat,1,Cikgu Sidik Bin Ariffin,7101,PAS,3,4039,40.10127084988086,lost
+1999-11-29,SE-10,Kedah,N.01 Padang Matsirat,2,Md. Hasan Bin Bulat,7102,BN,25,6033,59.898729150119145,won
 1999-11-29,SE-10,Kedah,N.02 Kuah,1,Haji Che Din B. Arshad,7103,PAS,3,2350,29.448621553884713,lost
 1999-11-29,SE-10,Kedah,N.02 Kuah,2,Sanusi Bin Junid,891,BN,25,5630,70.5513784461153,won
 1999-11-29,SE-10,Kedah,N.03 Ayer Hitam,1,Abdul Rahman Ariffin,7104,BN,25,8414,49.57577185953335,lost
