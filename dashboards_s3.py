@@ -63,7 +63,7 @@ def make_candidates():
 
 def make_seats():
     """Generate seat data files for API."""
-    data = {"data": []}
+    data = {"desc_en": "", "desc_ms": "", "voters_total": 0, "data": [], "barmeter": {}, "pyramid": {"ages":[],"male":[],"female":[]}}
 
     col_api_seat = [
         "election_name",
@@ -111,20 +111,37 @@ def make_seats():
             'merge': ' digabungkan dengan ',
         }
     }
-    ef = pd.read_csv('src-data/lookup_seats_lineage_desc.csv',dtype=str).dropna(how='any')
-    ef['change_en'] = ef['from'] + ef['type'].map(map_change['en']) + ef['to'] + ' in the ' + ef['date'].str[:4] + ' redelineation'
-    ef['change_ms'] = ef['from'] + ef['type'].map(map_change['ms']) + ef['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + ef['date'].str[:4]
+    lf = pd.read_csv('src-data/lookup_seats_lineage_desc.csv',dtype=str).dropna(how='any')
+    lf['change_en'] = lf['from'] + lf['type'].map(map_change['en']) + lf['to'] + ' in the ' + lf['date'].str[:4] + ' redelineation'
+    lf['change_ms'] = lf['from'] + lf['type'].map(map_change['ms']) + lf['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + lf['date'].str[:4]
     # for lang in ['en','ms']:
     #     ef.loc[ef.type == 'carve_out',f'change_{lang}'] = map_change[lang]['carve_out_prefix'] + ef[f'change_{lang}']
 
     sf = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
     sf.slug = sf.seat.apply(generate_slug)
 
+    bf = pd.read_csv('src-data/scrape/voters_ge15_demog.csv')
+    bf = pd.concat([
+        bf,
+        bf.groupby(['state','parlimen']).sum(numeric_only=True).reset_index()
+    ],axis=0,ignore_index=True)
+    # for c in bf.columns[4:]: bf[c] = (bf[c]/bf['total'] * 100).round(1)
+    bf['slug'] = bf.parlimen + ', ' + bf.state
+    bf.loc[~bf.dun.isnull(),'slug'] = bf.dun + ', ' + bf.state
+    bf.slug = bf.slug.apply(generate_slug)
+    bf['desc_en'] = bf.parlimen + ' is a federal constituency in ' + bf.state + ', with ' + bf.total.astype(int).map('{:,}'.format) + ' voters as of GE-15 (2022).'
+    bf['desc_ms'] = bf.parlimen + ' adalah sebuah kawasan persekutuan di ' + bf.state + ', dengan ' + bf.total.astype(int).map('{:,}'.format) + ' pengundi setakat GE-15 (2022).'
+    bf.loc[~bf.dun.isnull(),'desc_en'] = bf.dun + ' is a state constituency in ' + bf.state + ', with ' + bf.total.astype(int).map('{:,}'.format) + ' voters as of GE-15 (2022).'
+    bf.loc[~bf.dun.isnull(),'desc_ms'] = bf.dun + ' adalah sebuah kawasan negeri di ' + bf.state + ', dengan ' + bf.total.astype(int).map('{:,}'.format) + ' pengundi setakat GE-15 (2022).'
+
+    af = pd.read_parquet('src-data/scrape/voters_ge15_pyramid.parquet')
+
     for lineage in lineages:
-        slugs = list(df[df['lineage'].apply(lambda x, l=lineage: l in x)]['slug'])
+        slugs = list(df[df['lineage'].apply(lambda x, l=lineage: l in x)].sort_values(by='date')['slug'])
         if len(slugs) == 0:
             continue
-
+        
+        # Election results
         tf = (
             sf[sf.slug.isin(slugs)]
             .copy()[col_api_seat]
@@ -134,10 +151,36 @@ def make_seats():
         tf = [
             {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
         ]  # proper JSON null
-        tfe = ef[ef.slug == slugs[-1]][['date','change_en','change_ms']].to_dict(orient='records')
 
-        data["data"] = tf + tfe
+        # Lineage
+        tfl = lf[lf.slug == slugs[-1]][['date','change_en','change_ms']].to_dict(orient='records')
+
+        # Demographics
+        tfd = bf[bf.slug == slugs[-1]].iloc[0]
+        barmeter = {"votertype": {}, "sex": {}, "age": {}, "ethnic": {}}
+        for k in barmeter.keys():
+            prefix = k + '_'
+            barmeter[k] = {}
+            for col in bf.columns:
+                if col.startswith(prefix):
+                    barmeter[k][col[len(prefix):]] = int(tfd[col])
+
+        # Pyramid
+        tfa = af[af.slug == slugs[-1]].copy()
+        if len(tfa) == 0:
+            print(f'No pyramid data for {slugs[-1]}')
+        data['pyramid']['ages'] = [x for x in range(18,101)]
+        data['pyramid']['male'] = [int(x) for x in tfa.male.tolist()]
+        data['pyramid']['female'] = [int(x) for x in tfa.female.tolist()]
+
+        # Combine into JSON response
+        data["desc_en"] = tfd['desc_en']
+        data["desc_ms"] = tfd['desc_ms']
+        data["voters_total"] = int(tfd['total'])
+        data["data"] = tf + tfl
         data["data"].sort(key=lambda x: x.get("date", ""), reverse=True)
+        data["barmeter"] = barmeter
+
         with open(f"api/seats/{slugs[-1]}.json", "w", encoding="utf-8") as f:
             j.dump(data, f)
 
