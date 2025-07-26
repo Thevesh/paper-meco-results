@@ -122,17 +122,17 @@ def make_seats():
 
     bf = pd.read_csv('src-data/scrape/voters_ge15_demog.csv')
     bf = pd.concat([
-        bf,
+        bf[~bf.state.str.contains('W.P')],
         bf.groupby(['state','parlimen']).sum(numeric_only=True).reset_index()
     ],axis=0,ignore_index=True)
     # for c in bf.columns[4:]: bf[c] = (bf[c]/bf['total'] * 100).round(1)
     bf['slug'] = bf.parlimen + ', ' + bf.state
     bf.loc[~bf.dun.isnull(),'slug'] = bf.dun + ', ' + bf.state
     bf.slug = bf.slug.apply(generate_slug)
-    bf['desc_en'] = bf.parlimen + ' is a federal constituency in ' + bf.state + ', with ' + bf.total.astype(int).map('{:,}'.format) + ' voters as of GE-15 (2022).'
-    bf['desc_ms'] = bf.parlimen + ' adalah sebuah kawasan persekutuan di ' + bf.state + ', dengan ' + bf.total.astype(int).map('{:,}'.format) + ' pengundi setakat GE-15 (2022).'
-    bf.loc[~bf.dun.isnull(),'desc_en'] = bf.dun + ' is a state constituency in ' + bf.state + ', with ' + bf.total.astype(int).map('{:,}'.format) + ' voters as of GE-15 (2022).'
-    bf.loc[~bf.dun.isnull(),'desc_ms'] = bf.dun + ' adalah sebuah kawasan negeri di ' + bf.state + ', dengan ' + bf.total.astype(int).map('{:,}'.format) + ' pengundi setakat GE-15 (2022).'
+    bf['desc_en'] = bf.apply(lambda x: f"{x.parlimen} is a federal constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).", axis=1)
+    bf['desc_ms'] = bf.apply(lambda x: f"{x.parlimen} adalah sebuah kawasan persekutuan di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).", axis=1)
+    bf.loc[~bf.dun.isnull(), 'desc_en'] = bf.loc[~bf.dun.isnull()].apply(lambda x: f"{x.dun} is a state constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).", axis=1)
+    bf.loc[~bf.dun.isnull(), 'desc_ms'] = bf.loc[~bf.dun.isnull()].apply(lambda x: f"{x.dun} adalah sebuah kawasan negeri di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).", axis=1)
 
     af = pd.read_parquet('src-data/scrape/voters_ge15_pyramid.parquet')
 
@@ -140,7 +140,7 @@ def make_seats():
         slugs = list(df[df['lineage'].apply(lambda x, l=lineage: l in x)].sort_values(by='date')['slug'])
         if len(slugs) == 0:
             continue
-        
+
         # Election results
         tf = (
             sf[sf.slug.isin(slugs)]
@@ -158,7 +158,7 @@ def make_seats():
         # Demographics
         tfd = bf[bf.slug == slugs[-1]].iloc[0]
         barmeter = {"votertype": {}, "sex": {}, "age": {}, "ethnic": {}}
-        for k in barmeter.keys():
+        for k in barmeter:
             prefix = k + '_'
             barmeter[k] = {}
             for col in bf.columns:
@@ -169,7 +169,7 @@ def make_seats():
         tfa = af[af.slug == slugs[-1]].copy()
         if len(tfa) == 0:
             print(f'No pyramid data for {slugs[-1]}')
-        data['pyramid']['ages'] = [x for x in range(18,101)]
+        data['pyramid']['ages'] = list(range(18, 101))
         data['pyramid']['male'] = [int(x) for x in tfa.male.tolist()]
         data['pyramid']['female'] = [int(x) for x in tfa.female.tolist()]
 

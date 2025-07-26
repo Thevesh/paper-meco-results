@@ -8,7 +8,8 @@ disable=
     R0913,  # Too many arguments
     R0917,  # Too many positional arguments
     R1702,  # Too many nested blocks
-    R0912  # Too many branches
+    R0912,  # Too many branches
+    R0915 # Too many statements (60/50)
 
 [FORMAT]
 max-line-length=240
