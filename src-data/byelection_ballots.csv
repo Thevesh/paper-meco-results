@@ -25,11 +25,11 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,13,Vinsen,19229,BEBAS,1,32,0.13230247653698265,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,14,Mejar Hj. Anuar Bin Abdul Hamid,7447,BEBAS,1,528,2.182990862860214,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,15,T Chandrarajan,19231,BEBAS,1,73,0.3018150245999917,lost_deposit
+2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,1,Jawah Anak Gerang,3176,PKR,11,2053,34.446308724832214,lost
+2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,2,Malcom Mussen Lamoh,19234,BN,25,3907,65.55369127516778,won
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,1,Ismail Saffian,4079,BN,25,19071,46.52257702534579,lost
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,2,Ir. Hj. Mohammad Nizar Jamaluddin,3328,PAS,3,21860,53.32617764008489,won
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,3,Kamarul Ramizu,19233,BEBAS,1,62,0.15124533456931671,lost_deposit
-2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,1,Jawah Anak Gerang,3176,PKR,11,2053,34.446308724832214,lost
-2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,2,Malcom Mussen Lamoh,19234,BN,25,3907,65.55369127516778,won
 2009-05-31,BY-ELECTION,Pulau Pinang,N.12 Penanti,1,Mansor Bin Othman,4059,PKR,11,6052,86.5313125536174,won
 2009-05-31,BY-ELECTION,Pulau Pinang,N.12 Penanti,2,Kak Min,19235,BEBAS,1,392,5.60480411781527,lost_deposit
 2009-05-31,BY-ELECTION,Pulau Pinang,N.12 Penanti,3,Nai Khan Ari,19236,BEBAS,1,494,7.063197026022305,lost_deposit
@@ -52,10 +52,10 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,3,Tsen Thau Lin,4280,BN,25,9773,64.22000262846629,won
 2011-01-30,BY-ELECTION,Johor,N.05 Tenang,1,Cikgu Mala,6315,PAS,3,2992,30.87400681044268,lost
 2011-01-30,BY-ELECTION,Johor,N.05 Tenang,2,Mohd Azahar Bin Ibrahim,6317,BN,25,6699,69.12599318955732,won
-2011-03-06,BY-ELECTION,Pahang,N.28 Kerdau,1,Syed Ibrahim,1316,BN,25,5060,68.41535965386696,won
-2011-03-06,BY-ELECTION,Pahang,N.28 Kerdau,2,Hassanuddin Bin Salim,10707,PAS,3,2336,31.584640346133046,lost
 2011-03-06,BY-ELECTION,Melaka,N.27 Merlimau,1,Roslan Bin Ahmad,5339,BN,25,5962,71.99613573239947,won
 2011-03-06,BY-ELECTION,Melaka,N.27 Merlimau,2,Haji Yuhaizad Bin Abdullah,9160,PAS,3,2319,28.00386426760053,lost
+2011-03-06,BY-ELECTION,Pahang,N.28 Kerdau,1,Syed Ibrahim,1316,BN,25,5060,68.41535965386696,won
+2011-03-06,BY-ELECTION,Pahang,N.28 Kerdau,2,Hassanuddin Bin Salim,10707,PAS,3,2336,31.584640346133046,lost
 2013-07-24,BY-ELECTION,Terengganu,N.01 Kuala Besut,1,Tengku Zaihan Bin Che Ku Abd Rahman,19094,BN,25,8288,59.26773455377574,won
 2013-07-24,BY-ELECTION,Terengganu,N.01 Kuala Besut,2,Endot @Azlan Bin Yusof,19245,PAS,3,5696,40.73226544622426,lost
 2013-11-04,BY-ELECTION,Kedah,N.20 Sungai Limau,1,Dr Haji Sohaimi Lazim,19246,BN,25,10985,47.64899800468466,lost

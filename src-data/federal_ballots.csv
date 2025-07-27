@@ -128,265 +128,265 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 1955-07-25,GE-00,Terengganu,P.051 Trengganu Selatan,2,Ibrahim Bin Matnoh,127,BEBAS,1,2628,13.851262320139146,lost
 1955-07-25,GE-00,Perlis,P.052 Perlis,1,Sheikh Ahmad Bin Mohd. Hashim,128,PERIKATAN,2,17769,66.84347139149081,won
 1955-07-25,GE-00,Perlis,P.052 Perlis,2,Matt Bin Haji Kassim,129,BEBAS,1,8814,33.1565286085092,lost
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,1,Abdullah Bin Abass,130,PAS,3,1532,13.500176242509692,lost
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,2,Wee Tiong Ghee,131,BEBAS,1,297,2.61720126894607,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,3,Oon Beng Hong,132,BEBAS,1,3782,33.32745858301022,lost
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,4,Tan Cheng Bee,133,PERIKATAN,2,3945,34.76383503701093,won
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,5,Peritam Singh,134,PPP,4,1792,15.791328868523088,lost
-1959-05-20,GE-01,Pulau Pinang,P.002 Seberang Utara,1,Haji Yusof Bin Haji Abdullah,135,PAS,3,4537,26.248192074052646,lost
-1959-05-20,GE-01,Pulau Pinang,P.002 Seberang Utara,2,Haji Ahmad Bin Saaid,136,PERIKATAN,2,12748,73.75180792594736,won
-1959-05-20,GE-01,Pulau Pinang,P.003 Seberang Tengah,1,Haji Abdul Hamid Bin Ishak,137,PAS,3,3083,15.277502477700693,lost
-1959-05-20,GE-01,Pulau Pinang,P.003 Seberang Tengah,2,Kang Eng Wah,138,BEBAS,1,7910,39.197224975222994,lost
-1959-05-20,GE-01,Pulau Pinang,P.003 Seberang Tengah,3,Ibrahim Bin Abdul Rahman,139,PERIKATAN,2,9187,45.52527254707631,won
-1959-05-20,GE-01,Pulau Pinang,P.004 Seberang Selatan,1,V. Veerapen,140,BEBAS,1,5077,40.6713129856605,won
-1959-05-20,GE-01,Pulau Pinang,P.004 Seberang Selatan,2,Tay Hooi Soo,2,PERIKATAN,2,4313,34.55098934550989,lost
-1959-05-20,GE-01,Pulau Pinang,P.004 Seberang Selatan,3,Haji Mohamed Taib Bin Sudin @ Hj. Md. Jais Bin Sudin,141,PAS,3,3093,24.777697668829607,lost
-1959-05-20,GE-01,Pulau Pinang,P.005 Tanjong,1,Khoo Yat See,142,PPP,4,2107,10.594328238133548,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.005 Tanjong,2,Goh Guan Ho,143,PERIKATAN,2,6448,32.42156074014481,lost
-1959-05-20,GE-01,Pulau Pinang,P.005 Tanjong,3,Tan Phock Kin,144,BEBAS,1,11333,56.98411102172164,won
-1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,1,Lee Thean-Chu,145,PERIKATAN,2,5048,31.9331983805668,lost
-1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,2,Lim Kean Siew,146,BEBAS,1,10474,66.25759109311741,won
-1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,3,C. M. Ramli,147,BEBAS,1,286,1.8092105263157896,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.007 Penang Utara,1,Geh Chong Keat,148,PERIKATAN,2,8739,50.04008245533669,won
-1959-05-20,GE-01,Pulau Pinang,P.007 Penang Utara,2,Shaik Ahmed Bin Shaik Mohamed,149,BEBAS,1,845,4.83852496564361,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.007 Penang Utara,3,Lau Teik Hai,150,BEBAS,1,7880,45.1213925790197,lost
-1959-05-20,GE-01,Pulau Pinang,P.008 Penang Selatan,1,Omar Bin Long,151,PAS,3,2585,11.577391615908276,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.008 Penang Selatan,2,Mansor Bin Sanusi,152,BEBAS,1,359,1.6078466499462558,lost_deposit
-1959-05-20,GE-01,Pulau Pinang,P.008 Penang Selatan,3,David Sabapthy Ramanathan,153,BEBAS,1,9563,42.82963095664636,lost
-1959-05-20,GE-01,Pulau Pinang,P.008 Penang Selatan,4,Ismail Bin Idris,154,PERIKATAN,2,9821,43.9851307774991,won
-1959-05-20,GE-01,Melaka,P.009 Bandar Malacca,1,Tan Kee Gak,155,MP,10,9396,52.68588090164854,won
-1959-05-20,GE-01,Melaka,P.009 Bandar Malacca,2,Wong Koon Yoon,156,PERIKATAN,2,8173,45.82819333856678,lost
-1959-05-20,GE-01,Melaka,P.009 Bandar Malacca,3,Yeoh Ho Huat,157,BEBAS,1,265,1.4859257597846809,lost_deposit
-1959-05-20,GE-01,Melaka,P.010 Malacca Tengah,1,Tan Siew Sin,9,PERIKATAN,2,13635,74.5489338436304,won
-1959-05-20,GE-01,Melaka,P.010 Malacca Tengah,2,Hj. Abd. Majid Bin H. Hussin,158,PAS,3,4655,25.4510661563696,lost
-1959-05-20,GE-01,Melaka,P.011 Malacca Utara,1,Hj. Karim Bin Hj. Dalib,159,PAS,3,4461,24.23007984357178,lost
-1959-05-20,GE-01,Melaka,P.011 Malacca Utara,2,Abdul Ghani Ishak,160,PERIKATAN,2,11078,60.17055021454565,won
-1959-05-20,GE-01,Melaka,P.011 Malacca Utara,3,Karim Bakar,10,BEBAS,1,2872,15.599369941882571,lost
-1959-05-20,GE-01,Melaka,P.012 Malacca Selatan,1,Hassan Bin Mansor,162,PERIKATAN,2,11300,56.13791047742064,won
-1959-05-20,GE-01,Melaka,P.012 Malacca Selatan,2,Chung Cheng Wen,163,BEBAS,1,5812,28.873764220775993,lost
-1959-05-20,GE-01,Melaka,P.012 Malacca Selatan,3,Mohamed Taha Bin Kallu,164,PAS,3,3017,14.988325301803368,lost
-1959-05-20,GE-01,Perak,P.013 Krian Laut,1,Abdul Rauf Bin A. Rahman,165,PERIKATAN,2,8074,51.58775797073669,won
-1959-05-20,GE-01,Perak,P.013 Krian Laut,2,Haji Ahmad Bin H. Hussain,166,PAS,3,7577,48.41224202926331,lost
-1959-05-20,GE-01,Perak,P.014 Krian Darat,1,Ahmad Bin Haji Yusof,167,PERIKATAN,2,7954,58.26252563726927,won
-1959-05-20,GE-01,Perak,P.014 Krian Darat,2,Ustaz Abdul Wahab Bin Hj. Md. Noor,25,PAS,3,5698,41.73747436273074,lost
-1959-05-20,GE-01,Perak,P.015 Batang Padang,1,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16,PERIKATAN,2,6231,54.25809822361547,won
-1959-05-20,GE-01,Perak,P.015 Batang Padang,2,Jaya Ramachandran S/O Suppiah,169,PPP,4,3749,32.645419714385234,lost
-1959-05-20,GE-01,Perak,P.015 Batang Padang,3,Hashim Bin Mahaboob,170,PAS,3,1504,13.096482061999303,lost
-1959-05-20,GE-01,Perak,P.016 Tanjong Malim,1,Lee Seck Fun,171,PERIKATAN,2,8038,62.723371049551304,won
-1959-05-20,GE-01,Perak,P.016 Tanjong Malim,2,Ramanathan Chelvarayan Mannavarayan,172,PPP,4,4777,37.27662895044869,lost
-1959-05-20,GE-01,Perak,P.017 Larut Utara,1,Tajubin Bin Ali @ Alli,173,PERIKATAN,2,11543,69.28571428571428,won
-1959-05-20,GE-01,Perak,P.017 Larut Utara,2,Ibrahim Bin Alla Ditta,174,PAS,3,5117,30.714285714285715,lost
-1959-05-20,GE-01,Perak,P.018 Larut Selatan,1,Dr Lim Swee Aun,175,PERIKATAN,2,11218,54.10697921188443,won
-1959-05-20,GE-01,Perak,P.018 Larut Selatan,2,Yin Choo Han,176,PPP,4,6444,31.080885544783676,lost
-1959-05-20,GE-01,Perak,P.018 Larut Selatan,3,Haji Mohd. Yunus Bin Haji Mohd. Hashim,177,PAS,3,3071,14.812135243331886,lost
-1959-05-20,GE-01,Perak,P.019 Bruas,1,Yeoh Tat Beng,178,BEBAS,1,5967,38.779489179177226,won
-1959-05-20,GE-01,Perak,P.019 Bruas,2,Mohd. Noor Bin Mohammed,179,PERIKATAN,2,5215,33.89224670176122,lost
-1959-05-20,GE-01,Perak,P.019 Bruas,3,Raman S/O Kunji Raman,180,PPP,4,4205,27.328264119061547,lost
-1959-05-20,GE-01,Perak,P.020 Sitiawan,1,Yong Woo Ming,181,PERIKATAN,2,6442,41.6742139992237,won
-1959-05-20,GE-01,Perak,P.020 Sitiawan,2,Too Joon Hing,42,BEBAS,1,6079,39.32591538362013,lost
-1959-05-20,GE-01,Perak,P.020 Sitiawan,3,Hor Huck Lung,182,PPP,4,2937,18.999870617156166,lost
-1959-05-20,GE-01,Perak,P.021 Ulu Perak,1,Md. Nor Bin Md. Dahan,183,PERIKATAN,2,7869,54.928102750244314,won
-1959-05-20,GE-01,Perak,P.021 Ulu Perak,2,Tan Kim Seng,184,BEBAS,1,3780,26.38559262878682,lost
-1959-05-20,GE-01,Perak,P.021 Ulu Perak,3,Haji Abdul Samad Bin Haji Mohammad Noh,185,PAS,3,2677,18.68630462096887,lost
-1959-05-20,GE-01,Perak,P.022 Kuala Kangsar,1,Haji Abdullah Bin Haji Abdul Raof,186,PERIKATAN,2,8367,44.67642033319094,won
-1959-05-20,GE-01,Perak,P.022 Kuala Kangsar,2,Syed Nordin Bin Syed Husein,187,PAS,3,5581,29.800299017513883,lost
-1959-05-20,GE-01,Perak,P.022 Kuala Kangsar,3,Omar Bin Nordin,188,BEBAS,1,4780,25.52328064929517,lost
-1959-05-20,GE-01,Perak,P.023 Parit,1,Hussein Bin Mohd. Noordin,189,PERIKATAN,2,8998,59.96667777407531,won
-1959-05-20,GE-01,Perak,P.023 Parit,2,Haji Osman Bin Haji Bodin,190,PAS,3,6007,40.03332222592469,lost
-1959-05-20,GE-01,Perak,P.024 Hilir Perak,1,Mohd. Abbas @ Mohd. Abas Bin Ahmad,191,PERIKATAN,2,4818,52.99747002529974,won
-1959-05-20,GE-01,Perak,P.024 Hilir Perak,2,Abu Bakar Bin Anjang Wahid,192,PAS,3,4273,47.00252997470025,lost
-1959-05-20,GE-01,Perak,P.025 Bagan Datoh,1,Yahya Bin Haji Ahmad,193,PERIKATAN,2,8078,61.73009322940547,won
-1959-05-20,GE-01,Perak,P.025 Bagan Datoh,2,Haji Azubir Bin Haji Ahmad,194,PAS,3,4425,33.8147638697845,lost
-1959-05-20,GE-01,Perak,P.025 Bagan Datoh,3,Mohd. Yunus Bin Sibi,195,PPP,4,583,4.455142900810026,lost_deposit
-1959-05-20,GE-01,Perak,P.026 Telok Anson,1,Woo Saik Hong,196,PERIKATAN,2,10174,63.81083793276468,won
-1959-05-20,GE-01,Perak,P.026 Telok Anson,2,Tan Poh Aun,197,PPP,4,5770,36.18916206723532,lost
-1959-05-20,GE-01,Perak,P.027 Ipoh,1,Dharma Raja Seenivasagam,36,PPP,4,12242,60.529048207663784,won
-1959-05-20,GE-01,Perak,P.027 Ipoh,2,Dr Chang Hoey Chan,199,PERIKATAN,2,6531,32.291718170580964,lost
-1959-05-20,GE-01,Perak,P.027 Ipoh,3,Yuen Foo Tong @ Yoon Foo Thong,200,BEBAS,1,1452,7.179233621755253,lost_deposit
-1959-05-20,GE-01,Perak,P.028 Menglembu,1,Sri Padhmaraja Seenivasagam,201,PPP,4,14338,65.43147903071235,won
-1959-05-20,GE-01,Perak,P.028 Menglembu,2,Wong Kok Weng,202,PERIKATAN,2,6292,28.713549034819515,lost
-1959-05-20,GE-01,Perak,P.028 Menglembu,3,Mohd. Daham Bin Khatib,31,BEBAS,1,1283,5.854971934468124,lost_deposit
-1959-05-20,GE-01,Perak,P.029 Sungei Siput,1,Veerasamy Thirungana Sambanthan,38,PERIKATAN,2,7317,61.08189331329827,won
-1959-05-20,GE-01,Perak,P.029 Sungei Siput,2,Kasivisvanathan Annamalai @ Annamalai Chettiar S/O Kasivisvanathan,205,PPP,4,4514,37.682611236330246,lost
-1959-05-20,GE-01,Perak,P.029 Sungei Siput,3,Choy Kok Kuan,206,BEBAS,1,148,1.2354954503714835,lost_deposit
-1959-05-20,GE-01,Perak,P.030 Ulu Kinta,1,Chan Swee Ho,207,PPP,4,6996,53.93154486586494,won
-1959-05-20,GE-01,Perak,P.030 Ulu Kinta,2,Chan Kok Cheong,208,PERIKATAN,2,4629,35.6845513413506,lost
-1959-05-20,GE-01,Perak,P.030 Ulu Kinta,3,Yau Hoong Seh,209,BEBAS,1,1347,10.383903792784459,lost_deposit
-1959-05-20,GE-01,Perak,P.031 Batu Gajah,1,Khong Kok Yat,210,PPP,4,8442,55.29573590096286,won
-1959-05-20,GE-01,Perak,P.031 Batu Gajah,2,Yeoh Kian Teik,211,PERIKATAN,2,6503,42.59513984410821,lost
-1959-05-20,GE-01,Perak,P.031 Batu Gajah,3,Thean Moi Tuck,212,BEBAS,1,322,2.1091242549289317,lost_deposit
-1959-05-20,GE-01,Perak,P.032 Kampar,1,Leong Kee Nyean,213,PERIKATAN,2,9765,48.57242339832869,won
-1959-05-20,GE-01,Perak,P.032 Kampar,2,Chan Yoon Onn,214,PPP,4,8512,42.33983286908078,lost
-1959-05-20,GE-01,Perak,P.032 Kampar,3,Othman Bin Mohamed Akib,215,PAS,3,1827,9.08774373259053,lost_deposit
-1959-05-20,GE-01,Selangor,P.033 Batu,1,Ng Ann Teck,216,BEBAS,1,8737,57.68900627269726,won
-1959-05-20,GE-01,Selangor,P.033 Batu,2,Lim Hee Hong,217,PERIKATAN,2,6408,42.310993727302744,lost
-1959-05-20,GE-01,Selangor,P.034 Bungsar,1,Ong Yeow Kay,218,PPP,4,2388,9.95871387464031,lost_deposit
-1959-05-20,GE-01,Selangor,P.034 Bungsar,2,V. David,219,BEBAS,1,9734,40.59385295466867,won
-1959-05-20,GE-01,Selangor,P.034 Bungsar,3,Koh Pooi Kee,220,BEBAS,1,6821,28.445723341256933,lost
-1959-05-20,GE-01,Selangor,P.034 Bungsar,4,Law Joo Kooi,221,PERIKATAN,2,5036,21.001709829434088,lost
-1959-05-20,GE-01,Selangor,P.035 Bukit Bintang,1,Heng Cheng Swee,222,BEBAS,1,270,1.6432353478181487,lost_deposit
-1959-05-20,GE-01,Selangor,P.035 Bukit Bintang,2,Robert K. C. Hoh,223,BEBAS,1,5434,33.07163288905118,lost
-1959-05-20,GE-01,Selangor,P.035 Bukit Bintang,3,Nazar Nong,224,BEBAS,1,4593,27.95325908343984,lost
-1959-05-20,GE-01,Selangor,P.035 Bukit Bintang,4,Cheah Theam Swee,225,PERIKATAN,2,6134,37.33187267969083,won
-1959-05-20,GE-01,Selangor,P.036 Setapak,1,Ahmad Boestamam,226,BEBAS,1,6901,44.353750241018055,won
-1959-05-20,GE-01,Selangor,P.036 Setapak,2,Yap Kim Swee,227,BEBAS,1,3853,24.76380230091908,lost
-1959-05-20,GE-01,Selangor,P.036 Setapak,3,Aisah Ghani,228,PERIKATAN,2,4805,30.882447458062856,lost
-1959-05-20,GE-01,Selangor,P.037 Ulu Selangor,1,Ong Yoke Lin,46,PERIKATAN,2,6537,56.073082861554305,won
-1959-05-20,GE-01,Selangor,P.037 Ulu Selangor,2,Chai Yoke Kin,229,BEBAS,1,5121,43.9269171384457,lost
-1959-05-20,GE-01,Selangor,P.038 Rawang,1,Abdul Karim Bin Haji Kasim,230,PERIKATAN,2,3654,33.91183294663573,lost
-1959-05-20,GE-01,Selangor,P.038 Rawang,2,Borhan,231,BEBAS,1,978,9.076566125290023,lost_deposit
-1959-05-20,GE-01,Selangor,P.038 Rawang,3,Y. P. Liu,232,BEBAS,1,6143,57.011600928074245,won
-1959-05-20,GE-01,Selangor,P.039 Sabak Bernam,1,Syed Hashim Bin Syed Ajam,233,PERIKATAN,2,8003,65.4642126789366,won
-1959-05-20,GE-01,Selangor,P.039 Sabak Bernam,2,Ustaz Haji Abd. Hakim Hilmi,234,PAS,3,4222,34.535787321063395,lost
-1959-05-20,GE-01,Selangor,P.040 Kuala Selangor,1,N. Manickam,235,MP,10,4008,27.792802163511542,lost
-1959-05-20,GE-01,Selangor,P.040 Kuala Selangor,2,Dahari Ali,236,PERIKATAN,2,6197,42.97205464253519,won
-1959-05-20,GE-01,Selangor,P.040 Kuala Selangor,3,Abdullah Bin Mat Junan,237,PAS,3,4216,29.235143193953263,lost
-1959-05-20,GE-01,Selangor,P.041 Langat,1,Haji Zakaria Bin Haji Mohd. Taib,238,PERIKATAN,2,6937,57.41599073001159,won
-1959-05-20,GE-01,Selangor,P.041 Langat,2,Koh Pak Ngee,239,BEBAS,1,5145,42.58400926998841,lost
-1959-05-20,GE-01,Selangor,P.042 Sepang,1,Lim Tuan Siong,240,BEBAS,1,3455,32.37443778110944,lost
-1959-05-20,GE-01,Selangor,P.042 Sepang,2,K. V. Nadarajah,241,PPP,4,2225,20.84895052473763,lost
-1959-05-20,GE-01,Selangor,P.042 Sepang,3,Lee Siok Yew,242,PERIKATAN,2,4992,46.776611694152926,won
-1959-05-20,GE-01,Selangor,P.043 Klang,1,V. Manickavasagam,243,PERIKATAN,2,8394,57.30866389021643,won
-1959-05-20,GE-01,Selangor,P.043 Klang,2,S. S. Nayagam,244,BEBAS,1,6253,42.69133610978357,lost
-1959-05-20,GE-01,Selangor,P.044 Kuala Langat,1,Syed Ibrahim Bin Syed Salim,245,PAS,3,4299,31.17250380683054,lost
-1959-05-20,GE-01,Selangor,P.044 Kuala Langat,2,Aziz Ishak,59,PERIKATAN,2,9492,68.82749619316945,won
-1959-05-20,GE-01,Selangor,P.045 Kapar,1,Hamzah Alang,247,PERIKATAN,2,5335,46.40340958510916,won
-1959-05-20,GE-01,Selangor,P.045 Kapar,2,Ibrahim Bin Haji Nordin,248,PAS,3,2954,25.693659215447507,lost
-1959-05-20,GE-01,Selangor,P.045 Kapar,3,R. Madhavan,249,PPP,4,3208,27.90293119944333,lost
-1959-05-20,GE-01,Selangor,P.046 Damansara,1,Lee Eng Teh,61,PERIKATAN,2,5653,38.51079773826555,lost
-1959-05-20,GE-01,Selangor,P.046 Damansara,2,K. Karam Singh,250,BEBAS,1,9026,61.489202261734455,won
-1959-05-20,GE-01,Negeri Sembilan,P.047 Jelebu-Jempol,1,Che' Ahmad Bin Hj. Yaacob,251,PAS,3,3970,26.058418116179848,lost
-1959-05-20,GE-01,Negeri Sembilan,P.047 Jelebu-Jempol,2,Mohamed Bin Ujang,252,PERIKATAN,2,11265,73.94158188382015,won
-1959-05-20,GE-01,Negeri Sembilan,P.048 Kuala Pilah,1,Bahaman Bin Samsudin,32,PERIKATAN,2,11312,66.3149255481299,won
-1959-05-20,GE-01,Negeri Sembilan,P.048 Kuala Pilah,2,Ismail Bin Chik,253,PAS,3,5746,33.685074451870086,lost
-1959-05-20,GE-01,Negeri Sembilan,P.049 Port Dickson,1,T. Mahima Singh,254,PERIKATAN,2,0,,won_uncontested
-1959-05-20,GE-01,Negeri Sembilan,P.050 Rembau-Tampin,1,Baba Bin Ludek,68,BEBAS,1,4369,31.30553167096589,lost
-1959-05-20,GE-01,Negeri Sembilan,P.050 Rembau-Tampin,2,Haji Redza Bin Haji Mohd. Said,255,PERIKATAN,2,9587,68.69446832903411,won
-1959-05-20,GE-01,Negeri Sembilan,P.051 Seremban Barat,1,C. Rasadurai,256,BEBAS,1,93,0.7621076784397279,lost_deposit
-1959-05-20,GE-01,Negeri Sembilan,P.051 Seremban Barat,2,Sathappan Sathappan,257,BEBAS,1,3949,32.3608948619192,lost
-1959-05-20,GE-01,Negeri Sembilan,P.051 Seremban Barat,3,P. A. R. S. Dawood @ A. S. Dawood,258,PERIKATAN,2,3409,27.93575350323691,lost
-1959-05-20,GE-01,Negeri Sembilan,P.051 Seremban Barat,4,Quek Kai Dong,259,BEBAS,1,4752,38.941243956404165,won
-1959-05-20,GE-01,Negeri Sembilan,P.052 Seremban Timor,1,Robert Singam,260,BEBAS,1,3985,28.07326523423741,lost
-1959-05-20,GE-01,Negeri Sembilan,P.052 Seremban Timor,2,Chin See Yin,261,BEBAS,1,5762,40.59175766114829,won
-1959-05-20,GE-01,Negeri Sembilan,P.052 Seremban Timor,3,Md. Nor Bin Ab. Hamid,262,PAS,3,2387,16.815780204297287,lost
-1959-05-20,GE-01,Negeri Sembilan,P.052 Seremban Timor,4,Tham Tat Ming,263,PERIKATAN,2,2061,14.519196900317013,lost
-1959-05-20,GE-01,Pahang,P.053 Lipis,1,Abdul Hamid Bin Abdullah,264,PAS,3,3818,24.61320268179474,lost
-1959-05-20,GE-01,Pahang,P.053 Lipis,2,Mohd. Sulong Bin Mohd. Ali,71,PERIKATAN,2,11694,75.38679731820525,won
-1959-05-20,GE-01,Pahang,P.054 Raub,1,Hussein Bin Hassan,266,PERIKATAN,2,6764,56.86900958466453,won
-1959-05-20,GE-01,Pahang,P.054 Raub,2,Abu Bakar Bin Mohamed Resat,267,BEBAS,1,5130,43.13099041533546,lost
-1959-05-20,GE-01,Pahang,P.055 Bentong,1,Lim Ong Hang,268,BEBAS,1,5141,37.2968659315148,lost
-1959-05-20,GE-01,Pahang,P.055 Bentong,2,Chan Siang Sun,269,PERIKATAN,2,8643,62.7031340684852,won
-1959-05-20,GE-01,Pahang,P.056 Temerloh,1,Mohd. Yusof Bin Mahmud,270,PERIKATAN,2,8018,54.60736906626711,won
-1959-05-20,GE-01,Pahang,P.056 Temerloh,2,Ishak Bin Haji Mohammad,271,BEBAS,1,6665,45.39263093373289,lost
-1959-05-20,GE-01,Pahang,P.057 Kuantan,1,Haji Hamzah Bin Dahaman,272,PAS,3,2758,23.7472016531772,lost
-1959-05-20,GE-01,Pahang,P.057 Kuantan,2,Abdul Rahman Bin Haji Talib,75,PERIKATAN,2,8856,76.2527983468228,won
-1959-05-20,GE-01,Pahang,P.058 Pekan,1,Dato' Abdul Razak Bin Hussain,73,PERIKATAN,2,8811,77.26236408277796,won
-1959-05-20,GE-01,Pahang,P.058 Pekan,2,Mohamed Ariff Bin Abas,274,PAS,3,2593,22.737635917222025,lost
-1959-05-20,GE-01,Johor,P.059 Johore Timor,1,Che' Gu Ismail Ariff,275,BEBAS,1,1854,20.735935577675875,lost
-1959-05-20,GE-01,Johor,P.059 Johore Timor,2,Dr Ismail Bin Dato' Abdul Rahman,77,PERIKATAN,2,7087,79.26406442232413,won
-1959-05-20,GE-01,Johor,P.060 Johore Tenggara,1,Sayed Fa'Afar Bin Hasan Albar,277,PERIKATAN,2,0,,won_uncontested
-1959-05-20,GE-01,Johor,P.061 Johore Bahru Timor,1,C. C. Yong,278,BEBAS,1,4236,35.279420338136084,lost
-1959-05-20,GE-01,Johor,P.061 Johore Bahru Timor,2,Dato' Haji Mohd. Noah Bin Omar,279,PERIKATAN,2,7771,64.72057966186391,won
-1959-05-20,GE-01,Johor,P.062 Johore Bahru Barat,1,Zahid Karim,280,BEBAS,1,4501,38.19910039887974,lost
-1959-05-20,GE-01,Johor,P.062 Johore Bahru Barat,2,Ahmad Bin Mohamed Shah,281,PERIKATAN,2,7282,61.800899601120264,won
-1959-05-20,GE-01,Johor,P.063 Pontian Selatan,1,Lee Ah Leng,282,BEBAS,1,5648,37.36191043196401,lost
-1959-05-20,GE-01,Johor,P.063 Pontian Selatan,2,Hajah Zain Binti Sulaiman,283,PERIKATAN,2,9469,62.63808956803598,won
-1959-05-20,GE-01,Johor,P.064 Pontian Utara,1,Abdul Jamil Bin Sulaiman,284,PAS,3,1567,9.00212558166255,lost_deposit
-1959-05-20,GE-01,Johor,P.064 Pontian Utara,2,Garieb Raouf,285,BEBAS,1,3990,22.92181306371,lost
-1959-05-20,GE-01,Johor,P.064 Pontian Utara,3,Sardon Bin Haji Jubir,92,PERIKATAN,2,11850,68.07606135462746,won
-1959-05-20,GE-01,Johor,P.065 Kluang Selatan,1,Tan Kai Hee,286,BEBAS,1,4540,34.150744696855725,lost
-1959-05-20,GE-01,Johor,P.065 Kluang Selatan,2,Chan Chong Wen,287,PERIKATAN,2,8754,65.84925530314428,won
-1959-05-20,GE-01,Johor,P.066 Kluang Utara,1,Lee San Choon,288,PERIKATAN,2,5985,56.918687589158345,won
-1959-05-20,GE-01,Johor,P.066 Kluang Utara,2,Wee Lee Fong,289,BEBAS,1,4530,43.081312410841655,lost
-1959-05-20,GE-01,Johor,P.067 Batu Pahat,1,Koh Kim Boon,290,BEBAS,1,3958,26.213656533545265,lost
-1959-05-20,GE-01,Johor,P.067 Batu Pahat,2,Kang Kock Seng,291,PERIKATAN,2,10261,67.9581429233724,won
-1959-05-20,GE-01,Johor,P.067 Batu Pahat,3,Haji Abdullah Bin Haji,292,BEBAS,1,880,5.828200543082324,lost_deposit
-1959-05-20,GE-01,Johor,P.068 Batu Pahat Dalam,1,Haji Daud Bin Haji Abdul Hamid,293,BEBAS,1,3661,21.04748763941589,lost
-1959-05-20,GE-01,Johor,P.068 Batu Pahat Dalam,2,Tan Suan Kok,88,BEBAS,1,4238,24.364723467862483,lost
-1959-05-20,GE-01,Johor,P.068 Batu Pahat Dalam,3,Syed Esa Bin Syed Alwee,294,PERIKATAN,2,9495,54.58778889272162,won
-1959-05-20,GE-01,Johor,P.069 Muar Selatan,1,Raja Hashim Bin Haji Mahmood,295,BEBAS,1,2069,10.680363411108818,lost_deposit
-1959-05-20,GE-01,Johor,P.069 Muar Selatan,2,Suleiman Bin Dato' Abdul Rahman,80,PERIKATAN,2,14795,76.37311583729094,won
-1959-05-20,GE-01,Johor,P.069 Muar Selatan,3,Haji Mohamed Tahir Bin Daing Mengati,297,PAS,3,2508,12.946520751600248,lost
-1959-05-20,GE-01,Johor,P.070 Muar Pantai,1,Mohamad Nor Bin Hamid,91,BEBAS,1,3731,22.097844112769486,lost
-1959-05-20,GE-01,Johor,P.070 Muar Pantai,2,Seah Teng Ngiab,299,PERIKATAN,2,8997,53.28713574982231,won
-1959-05-20,GE-01,Johor,P.070 Muar Pantai,3,Tan Keww Wah,300,PPP,4,2162,12.805022506515042,lost
-1959-05-20,GE-01,Johor,P.070 Muar Pantai,4,Chua Ang Teck,301,BEBAS,1,1994,11.809997630893152,lost_deposit
-1959-05-20,GE-01,Johor,P.071 Muar Utara,1,Ahmad Bin Arshad,302,PERIKATAN,2,12744,83.41951953917655,won
-1959-05-20,GE-01,Johor,P.071 Muar Utara,2,Nasir Bin Abdullah,303,BEBAS,1,2533,16.58048046082346,lost
-1959-05-20,GE-01,Johor,P.072 Muar Dalam,1,Aziz Bin Ishak,304,PERIKATAN,2,11329,74.16208431526577,won
-1959-05-20,GE-01,Johor,P.072 Muar Dalam,2,Ahmad Bin Abu,305,BEBAS,1,3947,25.837915684734224,lost
-1959-05-20,GE-01,Johor,P.073 Segamat Utara,1,Haji Abdullah Bin Haji Mohd. Salleh,306,PERIKATAN,2,6572,52.842325319610836,won
-1959-05-20,GE-01,Johor,P.073 Segamat Utara,2,Syed Mohammad Bin Abdullah Al Kherd,307,PAS,3,917,7.373160730079602,lost_deposit
-1959-05-20,GE-01,Johor,P.073 Segamat Utara,3,Lim Meng See,308,BEBAS,1,4948,39.78451395030956,lost
-1959-05-20,GE-01,Johor,P.074 Segamat Selatan,1,Dato' Teoh Chze Chong,84,PERIKATAN,2,7828,61.686367218282115,won
-1959-05-20,GE-01,Johor,P.074 Segamat Selatan,2,Dr Lim Chin Khean,310,BEBAS,1,4862,38.313632781717885,lost
-1959-05-20,GE-01,Kedah,P.075 Alor Star,1,Lim Joo Kong,311,PERIKATAN,2,10730,62.271487435436136,won
-1959-05-20,GE-01,Kedah,P.075 Alor Star,2,Teoh Ah Thow,312,BEBAS,1,2289,13.28419708664616,lost
-1959-05-20,GE-01,Kedah,P.075 Alor Star,3,Malik Abdul Rahman,313,PAS,3,4212,24.444315477917705,lost
-1959-05-20,GE-01,Kedah,P.076 Kuala Kedah,1,Tunku Abdul Rahman Putra Al-Haj,103,PERIKATAN,2,13032,70.16259287175622,won
-1959-05-20,GE-01,Kedah,P.076 Kuala Kedah,2,Haji Hassan Bin Abdul Rahman,315,PAS,3,5542,29.837407128243782,lost
-1959-05-20,GE-01,Kedah,P.077 Kota Star Utara,1,Haji Abdul Khalid,316,PERIKATAN,2,8942,58.747782668681424,won
-1959-05-20,GE-01,Kedah,P.077 Kota Star Utara,2,Abu Bakar,317,PAS,3,6279,41.252217331318576,lost
-1959-05-20,GE-01,Kedah,P.078 Kota Star Selatan,1,Wan Sulaiman Bin Wan Tam,318,PERIKATAN,2,8369,51.6828259124313,won
-1959-05-20,GE-01,Kedah,P.078 Kota Star Selatan,2,Lebai Othman Bin Haji Yunus,319,PAS,3,7824,48.3171740875687,lost
-1959-05-20,GE-01,Kedah,P.079 Kubang Pasu Barat,1,Haji Abdullah Bin Haji Abbas,99,PAS,3,5630,40.16264802396918,lost
-1959-05-20,GE-01,Kedah,P.079 Kubang Pasu Barat,2,Haji Azahari Bin Haji Ibrahim,320,PERIKATAN,2,8388,59.83735197603082,won
-1959-05-20,GE-01,Kedah,P.080 Jitra-Padang Terap,1,Fatimah Haji Hasim,321,PERIKATAN,2,10981,65.21945714794796,won
-1959-05-20,GE-01,Kedah,P.080 Jitra-Padang Terap,2,Hj. Husin Bin Hj. Salleh,322,PAS,3,5856,34.78054285205203,lost
-1959-05-20,GE-01,Kedah,P.081 Jerai,1,Ismail Yusof,323,PERIKATAN,2,11350,63.93285641863346,won
-1959-05-20,GE-01,Kedah,P.081 Jerai,2,Haji Mahmud Bin Haji Abdullah,324,PAS,3,6403,36.06714358136653,lost
-1959-05-20,GE-01,Kedah,P.082 Kedah Tengah,1,Shariff Babul,325,BEBAS,1,1234,7.2845336481700125,lost_deposit
-1959-05-20,GE-01,Kedah,P.082 Kedah Tengah,2,Haji Hussin Dol,389,PAS,3,4435,26.18063754427391,lost
-1959-05-20,GE-01,Kedah,P.082 Kedah Tengah,3,Mohamed Khir Johari,101,PERIKATAN,2,11271,66.53482880755608,won
-1959-05-20,GE-01,Kedah,P.083 Sungei Patani,1,Samad Osman,328,PERIKATAN,2,9186,61.8211185140319,won
-1959-05-20,GE-01,Kedah,P.083 Sungei Patani,2,Mansor Tobeng,329,BEBAS,1,5673,38.178881485968105,lost
-1959-05-20,GE-01,Kedah,P.084 Baling,1,Wan Basor Ali Bin Wan Salim,330,BEBAS,1,1605,9.30758524704245,lost_deposit
-1959-05-20,GE-01,Kedah,P.084 Baling,2,Harun Bin Abdullah,331,PERIKATAN,2,12118,70.27371839480398,won
-1959-05-20,GE-01,Kedah,P.084 Baling,3,Syed Jan Aljeffri,104,PAS,3,3521,20.41869635815356,lost
-1959-05-20,GE-01,Kedah,P.085 Kulim Utara,1,Shorbaini,332,PAS,3,2533,17.09869042797354,lost
-1959-05-20,GE-01,Kedah,P.085 Kulim Utara,2,Hanafi Bin Mohd Yunus,333,PERIKATAN,2,12281,82.90130957202646,won
-1959-05-20,GE-01,Kedah,P.086 Kulim-Bandar Bahru,1,Tan Tye Shek,334,PERIKATAN,2,11317,69.58740699747894,won
-1959-05-20,GE-01,Kedah,P.086 Kulim-Bandar Bahru,2,Choong An Fong,335,BEBAS,1,4946,30.41259300252106,lost
-1959-05-20,GE-01,Kelantan,P.087 Ulu Kelantan,1,Tengku Indra Petra,116,PERIKATAN,2,8770,50.495163519115614,won
-1959-05-20,GE-01,Kelantan,P.087 Ulu Kelantan,2,Haji Yatim Bin Haji Shamsuddin,337,BEBAS,1,292,1.6812528788576693,lost_deposit
-1959-05-20,GE-01,Kelantan,P.087 Ulu Kelantan,3,Amaluddin Darus,338,PAS,3,8306,47.823583602026716,lost
-1959-05-20,GE-01,Kelantan,P.088 Tanah Merah,1,Othman Abdullah,339,PAS,3,12752,65.30779473522483,won
-1959-05-20,GE-01,Kelantan,P.088 Tanah Merah,2,Ustadz Azhari,340,PERIKATAN,2,6774,34.692205264775176,lost
-1959-05-20,GE-01,Kelantan,P.089 Pasir Puteh,1,Mohammad Asri,112,PAS,3,12284,64.94660040181876,won
-1959-05-20,GE-01,Kelantan,P.089 Pasir Puteh,2,Mat Idris,342,PERIKATAN,2,6630,35.05339959818124,lost
-1959-05-20,GE-01,Kelantan,P.090 Bachok,1,Nik Min Ali,343,PERIKATAN,2,3761,21.94154366723062,lost
-1959-05-20,GE-01,Kelantan,P.090 Bachok,2,Zulkiflee Bin Muhammad,344,PAS,3,13380,78.05845633276938,won
-1959-05-20,GE-01,Kelantan,P.091 Pasir Mas Hilir,1,Nik Man Bin Nik Mohamed,345,PAS,3,12422,79.87397119341564,won
-1959-05-20,GE-01,Kelantan,P.091 Pasir Mas Hilir,2,Che' Omar Bin Hj. Ali,346,PERIKATAN,2,3130,20.12602880658436,lost
-1959-05-20,GE-01,Kelantan,P.092 Pasir Mas Hulu,1,Dato' Raja Hanifah,347,PAS,3,9518,72.78427773954272,won
-1959-05-20,GE-01,Kelantan,P.092 Pasir Mas Hulu,2,Yaacob Bin Awang,348,PERIKATAN,2,3559,27.21572226045729,lost
-1959-05-20,GE-01,Kelantan,P.093 Tumpat,1,Mahmood Juhan,349,PERIKATAN,2,6380,38.36670876180167,lost
-1959-05-20,GE-01,Kelantan,P.093 Tumpat,2,Haji Che' Hassan,350,PAS,3,10249,61.63329123819833,won
-1959-05-20,GE-01,Kelantan,P.094 Kelantan Hilir,1,Hassan Hj. Yaacob,351,PERIKATAN,2,4327,25.809722636444977,lost
-1959-05-20,GE-01,Kelantan,P.094 Kelantan Hilir,2,Wan Mustapha,352,PAS,3,12438,74.19027736355503,won
-1959-05-20,GE-01,Kelantan,P.095 Kota Bharu Hilir,1,Nik Ismail Bin Nik Hussin,353,PERIKATAN,2,6302,39.974627339042186,lost
-1959-05-20,GE-01,Kelantan,P.095 Kota Bharu Hilir,2,Haji Ahmad,354,PAS,3,9463,60.02537266095782,won
-1959-05-20,GE-01,Kelantan,P.096 Kota Bharu Hulu,1,Haji Hussein Rahimi,355,PAS,3,14775,79.761390628374,won
-1959-05-20,GE-01,Kelantan,P.096 Kota Bharu Hulu,2,Che' Ismail Obrahim,356,PERIKATAN,2,3749,20.238609371625998,lost
-1959-05-20,GE-01,Terengganu,P.097 Besut,1,Burhanuddin Bin Mohd. Noor,357,PAS,3,9988,70.31822021965644,won
-1959-05-20,GE-01,Terengganu,P.097 Besut,2,Husain Bin Haji Abdullah,358,PERIKATAN,2,4216,29.681779780343565,lost
-1959-05-20,GE-01,Terengganu,P.098 Kuala Trengganu Utara,1,Wan Abdul Kadir Bin Ismail,359,PERIKATAN,2,6535,45.58136290716329,lost
-1959-05-20,GE-01,Terengganu,P.098 Kuala Trengganu Utara,2,Ibrahim Bin Abdul Kadir,360,BEBAS,1,540,3.766478342749529,lost_deposit
-1959-05-20,GE-01,Terengganu,P.098 Kuala Trengganu Utara,3,Haji Hasan Adli Bin Haji Arshad,33,PAS,3,7262,50.65215875008718,won
-1959-05-20,GE-01,Terengganu,P.099 Kuala Trengganu Selatan,1,Engku Muhsein Bin Abdul Kadir,124,PERIKATAN,2,5374,40.224550898203596,lost
-1959-05-20,GE-01,Terengganu,P.099 Kuala Trengganu Selatan,2,Dato' Onn Bin Jaafar,81,BEBAS,1,7986,59.775449101796404,won
-1959-05-20,GE-01,Terengganu,P.100 Trengganu Tengah,1,Ismail Bin Haji Kassim,363,PERIKATAN,2,4954,34.08090258668135,lost
-1959-05-20,GE-01,Terengganu,P.100 Trengganu Tengah,2,Engku Sayed Mohsin Bin Z' Abidin,364,BEBAS,1,199,1.3690148596587781,lost_deposit
-1959-05-20,GE-01,Terengganu,P.100 Trengganu Tengah,3,Setia Bin Abu Bakar,365,BEBAS,1,758,5.214639515685195,lost_deposit
-1959-05-20,GE-01,Terengganu,P.100 Trengganu Tengah,4,Harun Bin Pilus,366,PAS,3,8625,59.33544303797469,won
-1959-05-20,GE-01,Terengganu,P.101 Dungun,1,Wan Salleh Bin Abdul Kadir,367,BEBAS,1,595,5.408107616796946,lost_deposit
-1959-05-20,GE-01,Terengganu,P.101 Dungun,2,Mohamed Adib Bin Omar,368,PERIKATAN,2,4158,37.793128522086896,lost
-1959-05-20,GE-01,Terengganu,P.101 Dungun,3,Khadijah Binti Mohd. Sidik,369,PAS,3,6249,56.798763861116164,won
-1959-05-20,GE-01,Terengganu,P.102 Kemaman,1,Wan Yahya Bin Haji Wan Mohamed,126,PERIKATAN,2,0,,won_uncontested
-1959-05-20,GE-01,Perlis,P.103 Perlis Utara,1,Othman Bin Abdullah,19345,PERIKATAN,2,9638,62.48298217179903,won
-1959-05-20,GE-01,Perlis,P.103 Perlis Utara,2,Abu Bakar Bin Hamzah,371,PAS,3,5787,37.51701782820097,lost
-1959-05-20,GE-01,Perlis,P.104 Perlis Selatan,1,Abdul Rahman Bin Osman,372,PAS,3,6163,43.46875440823811,lost
-1959-05-20,GE-01,Perlis,P.104 Perlis Selatan,2,Haji Mokhtar Bin Haji Ismail,373,PERIKATAN,2,8015,56.53124559176188,won
+1959-05-20,GE-01,Perlis,P.001 Perlis Utara,1,Othman Bin Abdullah,19345,PERIKATAN,2,9638,62.48298217179903,won
+1959-05-20,GE-01,Perlis,P.001 Perlis Utara,2,Abu Bakar Bin Hamzah,371,PAS,3,5787,37.51701782820097,lost
+1959-05-20,GE-01,Perlis,P.002 Perlis Selatan,1,Abdul Rahman Bin Osman,372,PAS,3,6163,43.46875440823811,lost
+1959-05-20,GE-01,Perlis,P.002 Perlis Selatan,2,Haji Mokhtar Bin Haji Ismail,373,PERIKATAN,2,8015,56.53124559176188,won
+1959-05-20,GE-01,Kedah,P.003 Jitra-Padang Terap,1,Fatimah Haji Hasim,321,PERIKATAN,2,10981,65.21945714794796,won
+1959-05-20,GE-01,Kedah,P.003 Jitra-Padang Terap,2,Hj. Husin Bin Hj. Salleh,322,PAS,3,5856,34.78054285205203,lost
+1959-05-20,GE-01,Kedah,P.004 Kubang Pasu Barat,1,Haji Abdullah Bin Haji Abbas,99,PAS,3,5630,40.16264802396918,lost
+1959-05-20,GE-01,Kedah,P.004 Kubang Pasu Barat,2,Haji Azahari Bin Haji Ibrahim,320,PERIKATAN,2,8388,59.83735197603082,won
+1959-05-20,GE-01,Kedah,P.005 Kota Star Utara,1,Haji Abdul Khalid,316,PERIKATAN,2,8942,58.747782668681424,won
+1959-05-20,GE-01,Kedah,P.005 Kota Star Utara,2,Abu Bakar,317,PAS,3,6279,41.252217331318576,lost
+1959-05-20,GE-01,Kedah,P.006 Alor Star,1,Lim Joo Kong,311,PERIKATAN,2,10730,62.271487435436136,won
+1959-05-20,GE-01,Kedah,P.006 Alor Star,2,Teoh Ah Thow,312,BEBAS,1,2289,13.28419708664616,lost
+1959-05-20,GE-01,Kedah,P.006 Alor Star,3,Malik Abdul Rahman,313,PAS,3,4212,24.444315477917705,lost
+1959-05-20,GE-01,Kedah,P.007 Kuala Kedah,1,Tunku Abdul Rahman Putra Al-Haj,103,PERIKATAN,2,13032,70.16259287175622,won
+1959-05-20,GE-01,Kedah,P.007 Kuala Kedah,2,Haji Hassan Bin Abdul Rahman,315,PAS,3,5542,29.837407128243782,lost
+1959-05-20,GE-01,Kedah,P.008 Kota Star Selatan,1,Wan Sulaiman Bin Wan Tam,318,PERIKATAN,2,8369,51.6828259124313,won
+1959-05-20,GE-01,Kedah,P.008 Kota Star Selatan,2,Lebai Othman Bin Haji Yunus,319,PAS,3,7824,48.3171740875687,lost
+1959-05-20,GE-01,Kedah,P.009 Kedah Tengah,1,Shariff Babul,325,BEBAS,1,1234,7.2845336481700125,lost_deposit
+1959-05-20,GE-01,Kedah,P.009 Kedah Tengah,2,Haji Hussin Dol,389,PAS,3,4435,26.18063754427391,lost
+1959-05-20,GE-01,Kedah,P.009 Kedah Tengah,3,Mohamed Khir Johari,101,PERIKATAN,2,11271,66.53482880755608,won
+1959-05-20,GE-01,Kedah,P.010 Jerai,1,Ismail Yusof,323,PERIKATAN,2,11350,63.93285641863346,won
+1959-05-20,GE-01,Kedah,P.010 Jerai,2,Haji Mahmud Bin Haji Abdullah,324,PAS,3,6403,36.06714358136653,lost
+1959-05-20,GE-01,Kedah,P.011 Baling,1,Wan Basor Ali Bin Wan Salim,330,BEBAS,1,1605,9.30758524704245,lost_deposit
+1959-05-20,GE-01,Kedah,P.011 Baling,2,Harun Bin Abdullah,331,PERIKATAN,2,12118,70.27371839480398,won
+1959-05-20,GE-01,Kedah,P.011 Baling,3,Syed Jan Aljeffri,104,PAS,3,3521,20.41869635815356,lost
+1959-05-20,GE-01,Kedah,P.012 Sungei Patani,1,Samad Osman,328,PERIKATAN,2,9186,61.8211185140319,won
+1959-05-20,GE-01,Kedah,P.012 Sungei Patani,2,Mansor Tobeng,329,BEBAS,1,5673,38.178881485968105,lost
+1959-05-20,GE-01,Kedah,P.013 Kulim Utara,1,Shorbaini,332,PAS,3,2533,17.09869042797354,lost
+1959-05-20,GE-01,Kedah,P.013 Kulim Utara,2,Hanafi Bin Mohd Yunus,333,PERIKATAN,2,12281,82.90130957202646,won
+1959-05-20,GE-01,Kedah,P.014 Kulim-Bandar Bahru,1,Tan Tye Shek,334,PERIKATAN,2,11317,69.58740699747894,won
+1959-05-20,GE-01,Kedah,P.014 Kulim-Bandar Bahru,2,Choong An Fong,335,BEBAS,1,4946,30.41259300252106,lost
+1959-05-20,GE-01,Kelantan,P.015 Tumpat,1,Mahmood Juhan,349,PERIKATAN,2,6380,38.36670876180167,lost
+1959-05-20,GE-01,Kelantan,P.015 Tumpat,2,Haji Che' Hassan,350,PAS,3,10249,61.63329123819833,won
+1959-05-20,GE-01,Kelantan,P.016 Kelantan Hilir,1,Hassan Hj. Yaacob,351,PERIKATAN,2,4327,25.809722636444977,lost
+1959-05-20,GE-01,Kelantan,P.016 Kelantan Hilir,2,Wan Mustapha,352,PAS,3,12438,74.19027736355503,won
+1959-05-20,GE-01,Kelantan,P.017 Pasir Mas Hilir,1,Nik Man Bin Nik Mohamed,345,PAS,3,12422,79.87397119341564,won
+1959-05-20,GE-01,Kelantan,P.017 Pasir Mas Hilir,2,Che' Omar Bin Hj. Ali,346,PERIKATAN,2,3130,20.12602880658436,lost
+1959-05-20,GE-01,Kelantan,P.018 Kota Bharu Hilir,1,Nik Ismail Bin Nik Hussin,353,PERIKATAN,2,6302,39.974627339042186,lost
+1959-05-20,GE-01,Kelantan,P.018 Kota Bharu Hilir,2,Haji Ahmad,354,PAS,3,9463,60.02537266095782,won
+1959-05-20,GE-01,Kelantan,P.019 Bachok,1,Nik Min Ali,343,PERIKATAN,2,3761,21.94154366723062,lost
+1959-05-20,GE-01,Kelantan,P.019 Bachok,2,Zulkiflee Bin Muhammad,344,PAS,3,13380,78.05845633276938,won
+1959-05-20,GE-01,Kelantan,P.020 Kota Bharu Hulu,1,Haji Hussein Rahimi,355,PAS,3,14775,79.761390628374,won
+1959-05-20,GE-01,Kelantan,P.020 Kota Bharu Hulu,2,Che' Ismail Obrahim,356,PERIKATAN,2,3749,20.238609371625998,lost
+1959-05-20,GE-01,Kelantan,P.021 Pasir Mas Hulu,1,Dato' Raja Hanifah,347,PAS,3,9518,72.78427773954272,won
+1959-05-20,GE-01,Kelantan,P.021 Pasir Mas Hulu,2,Yaacob Bin Awang,348,PERIKATAN,2,3559,27.21572226045729,lost
+1959-05-20,GE-01,Kelantan,P.022 Pasir Puteh,1,Mohammad Asri,112,PAS,3,12284,64.94660040181876,won
+1959-05-20,GE-01,Kelantan,P.022 Pasir Puteh,2,Mat Idris,342,PERIKATAN,2,6630,35.05339959818124,lost
+1959-05-20,GE-01,Kelantan,P.023 Tanah Merah,1,Othman Abdullah,339,PAS,3,12752,65.30779473522483,won
+1959-05-20,GE-01,Kelantan,P.023 Tanah Merah,2,Ustadz Azhari,340,PERIKATAN,2,6774,34.692205264775176,lost
+1959-05-20,GE-01,Kelantan,P.024 Ulu Kelantan,1,Tengku Indra Petra,116,PERIKATAN,2,8770,50.495163519115614,won
+1959-05-20,GE-01,Kelantan,P.024 Ulu Kelantan,2,Haji Yatim Bin Haji Shamsuddin,337,BEBAS,1,292,1.6812528788576693,lost_deposit
+1959-05-20,GE-01,Kelantan,P.024 Ulu Kelantan,3,Amaluddin Darus,338,PAS,3,8306,47.823583602026716,lost
+1959-05-20,GE-01,Terengganu,P.025 Besut,1,Burhanuddin Bin Mohd. Noor,357,PAS,3,9988,70.31822021965644,won
+1959-05-20,GE-01,Terengganu,P.025 Besut,2,Husain Bin Haji Abdullah,358,PERIKATAN,2,4216,29.681779780343565,lost
+1959-05-20,GE-01,Terengganu,P.026 Kuala Trengganu Utara,1,Wan Abdul Kadir Bin Ismail,359,PERIKATAN,2,6535,45.58136290716329,lost
+1959-05-20,GE-01,Terengganu,P.026 Kuala Trengganu Utara,2,Ibrahim Bin Abdul Kadir,360,BEBAS,1,540,3.766478342749529,lost_deposit
+1959-05-20,GE-01,Terengganu,P.026 Kuala Trengganu Utara,3,Haji Hasan Adli Bin Haji Arshad,33,PAS,3,7262,50.65215875008718,won
+1959-05-20,GE-01,Terengganu,P.027 Kuala Trengganu Selatan,1,Engku Muhsein Bin Abdul Kadir,124,PERIKATAN,2,5374,40.224550898203596,lost
+1959-05-20,GE-01,Terengganu,P.027 Kuala Trengganu Selatan,2,Dato' Onn Bin Jaafar,81,BEBAS,1,7986,59.775449101796404,won
+1959-05-20,GE-01,Terengganu,P.028 Dungun,1,Wan Salleh Bin Abdul Kadir,367,BEBAS,1,595,5.408107616796946,lost_deposit
+1959-05-20,GE-01,Terengganu,P.028 Dungun,2,Mohamed Adib Bin Omar,368,PERIKATAN,2,4158,37.793128522086896,lost
+1959-05-20,GE-01,Terengganu,P.028 Dungun,3,Khadijah Binti Mohd. Sidik,369,PAS,3,6249,56.798763861116164,won
+1959-05-20,GE-01,Terengganu,P.029 Kemaman,1,Wan Yahya Bin Haji Wan Mohamed,126,PERIKATAN,2,0,,won_uncontested
+1959-05-20,GE-01,Terengganu,P.030 Trengganu Tengah,1,Ismail Bin Haji Kassim,363,PERIKATAN,2,4954,34.08090258668135,lost
+1959-05-20,GE-01,Terengganu,P.030 Trengganu Tengah,2,Engku Sayed Mohsin Bin Z' Abidin,364,BEBAS,1,199,1.3690148596587781,lost_deposit
+1959-05-20,GE-01,Terengganu,P.030 Trengganu Tengah,3,Setia Bin Abu Bakar,365,BEBAS,1,758,5.214639515685195,lost_deposit
+1959-05-20,GE-01,Terengganu,P.030 Trengganu Tengah,4,Harun Bin Pilus,366,PAS,3,8625,59.33544303797469,won
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,1,Abdullah Bin Abass,130,PAS,3,1532,13.500176242509692,lost
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,2,Wee Tiong Ghee,131,BEBAS,1,297,2.61720126894607,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,3,Oon Beng Hong,132,BEBAS,1,3782,33.32745858301022,lost
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,4,Tan Cheng Bee,133,PERIKATAN,2,3945,34.76383503701093,won
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,5,Peritam Singh,134,PPP,4,1792,15.791328868523088,lost
+1959-05-20,GE-01,Pulau Pinang,P.032 Seberang Tengah,1,Haji Abdul Hamid Bin Ishak,137,PAS,3,3083,15.277502477700693,lost
+1959-05-20,GE-01,Pulau Pinang,P.032 Seberang Tengah,2,Kang Eng Wah,138,BEBAS,1,7910,39.197224975222994,lost
+1959-05-20,GE-01,Pulau Pinang,P.032 Seberang Tengah,3,Ibrahim Bin Abdul Rahman,139,PERIKATAN,2,9187,45.52527254707631,won
+1959-05-20,GE-01,Pulau Pinang,P.033 Seberang Selatan,1,V. Veerapen,140,BEBAS,1,5077,40.6713129856605,won
+1959-05-20,GE-01,Pulau Pinang,P.033 Seberang Selatan,2,Tay Hooi Soo,2,PERIKATAN,2,4313,34.55098934550989,lost
+1959-05-20,GE-01,Pulau Pinang,P.033 Seberang Selatan,3,Haji Mohamed Taib Bin Sudin @ Hj. Md. Jais Bin Sudin,141,PAS,3,3093,24.777697668829607,lost
+1959-05-20,GE-01,Pulau Pinang,P.034 Penang Utara,1,Geh Chong Keat,148,PERIKATAN,2,8739,50.04008245533669,won
+1959-05-20,GE-01,Pulau Pinang,P.034 Penang Utara,2,Shaik Ahmed Bin Shaik Mohamed,149,BEBAS,1,845,4.83852496564361,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.034 Penang Utara,3,Lau Teik Hai,150,BEBAS,1,7880,45.1213925790197,lost
+1959-05-20,GE-01,Pulau Pinang,P.035 Penang Selatan,1,Omar Bin Long,151,PAS,3,2585,11.577391615908276,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.035 Penang Selatan,2,Mansor Bin Sanusi,152,BEBAS,1,359,1.6078466499462558,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.035 Penang Selatan,3,David Sabapthy Ramanathan,153,BEBAS,1,9563,42.82963095664636,lost
+1959-05-20,GE-01,Pulau Pinang,P.035 Penang Selatan,4,Ismail Bin Idris,154,PERIKATAN,2,9821,43.9851307774991,won
+1959-05-20,GE-01,Pulau Pinang,P.036 Tanjong,1,Khoo Yat See,142,PPP,4,2107,10.594328238133548,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.036 Tanjong,2,Goh Guan Ho,143,PERIKATAN,2,6448,32.42156074014481,lost
+1959-05-20,GE-01,Pulau Pinang,P.036 Tanjong,3,Tan Phock Kin,144,BEBAS,1,11333,56.98411102172164,won
+1959-05-20,GE-01,Pulau Pinang,P.037 Dato Kramat,1,Lee Thean-Chu,145,PERIKATAN,2,5048,31.9331983805668,lost
+1959-05-20,GE-01,Pulau Pinang,P.037 Dato Kramat,2,Lim Kean Siew,146,BEBAS,1,10474,66.25759109311741,won
+1959-05-20,GE-01,Pulau Pinang,P.037 Dato Kramat,3,C. M. Ramli,147,BEBAS,1,286,1.8092105263157896,lost_deposit
+1959-05-20,GE-01,Pulau Pinang,P.038 Seberang Utara,1,Haji Yusof Bin Haji Abdullah,135,PAS,3,4537,26.248192074052646,lost
+1959-05-20,GE-01,Pulau Pinang,P.038 Seberang Utara,2,Haji Ahmad Bin Saaid,136,PERIKATAN,2,12748,73.75180792594736,won
+1959-05-20,GE-01,Perak,P.039 Ulu Perak,1,Md. Nor Bin Md. Dahan,183,PERIKATAN,2,7869,54.928102750244314,won
+1959-05-20,GE-01,Perak,P.039 Ulu Perak,2,Tan Kim Seng,184,BEBAS,1,3780,26.38559262878682,lost
+1959-05-20,GE-01,Perak,P.039 Ulu Perak,3,Haji Abdul Samad Bin Haji Mohammad Noh,185,PAS,3,2677,18.68630462096887,lost
+1959-05-20,GE-01,Perak,P.040 Larut Utara,1,Tajubin Bin Ali @ Alli,173,PERIKATAN,2,11543,69.28571428571428,won
+1959-05-20,GE-01,Perak,P.040 Larut Utara,2,Ibrahim Bin Alla Ditta,174,PAS,3,5117,30.714285714285715,lost
+1959-05-20,GE-01,Perak,P.041 Krian Laut,1,Abdul Rauf Bin A. Rahman,165,PERIKATAN,2,8074,51.58775797073669,won
+1959-05-20,GE-01,Perak,P.041 Krian Laut,2,Haji Ahmad Bin H. Hussain,166,PAS,3,7577,48.41224202926331,lost
+1959-05-20,GE-01,Perak,P.042 Krian Darat,1,Ahmad Bin Haji Yusof,167,PERIKATAN,2,7954,58.26252563726927,won
+1959-05-20,GE-01,Perak,P.042 Krian Darat,2,Ustaz Abdul Wahab Bin Hj. Md. Noor,25,PAS,3,5698,41.73747436273074,lost
+1959-05-20,GE-01,Perak,P.043 Larut Selatan,1,Dr Lim Swee Aun,175,PERIKATAN,2,11218,54.10697921188443,won
+1959-05-20,GE-01,Perak,P.043 Larut Selatan,2,Yin Choo Han,176,PPP,4,6444,31.080885544783676,lost
+1959-05-20,GE-01,Perak,P.043 Larut Selatan,3,Haji Mohd. Yunus Bin Haji Mohd. Hashim,177,PAS,3,3071,14.812135243331886,lost
+1959-05-20,GE-01,Perak,P.044 Hilir Perak,1,Mohd. Abbas @ Mohd. Abas Bin Ahmad,191,PERIKATAN,2,4818,52.99747002529974,won
+1959-05-20,GE-01,Perak,P.044 Hilir Perak,2,Abu Bakar Bin Anjang Wahid,192,PAS,3,4273,47.00252997470025,lost
+1959-05-20,GE-01,Perak,P.045 Kuala Kangsar,1,Haji Abdullah Bin Haji Abdul Raof,186,PERIKATAN,2,8367,44.67642033319094,won
+1959-05-20,GE-01,Perak,P.045 Kuala Kangsar,2,Syed Nordin Bin Syed Husein,187,PAS,3,5581,29.800299017513883,lost
+1959-05-20,GE-01,Perak,P.045 Kuala Kangsar,3,Omar Bin Nordin,188,BEBAS,1,4780,25.52328064929517,lost
+1959-05-20,GE-01,Perak,P.046 Sungei Siput,1,Veerasamy Thirungana Sambanthan,38,PERIKATAN,2,7317,61.08189331329827,won
+1959-05-20,GE-01,Perak,P.046 Sungei Siput,2,Kasivisvanathan Annamalai @ Annamalai Chettiar S/O Kasivisvanathan,205,PPP,4,4514,37.682611236330246,lost
+1959-05-20,GE-01,Perak,P.046 Sungei Siput,3,Choy Kok Kuan,206,BEBAS,1,148,1.2354954503714835,lost_deposit
+1959-05-20,GE-01,Perak,P.047 Parit,1,Hussein Bin Mohd. Noordin,189,PERIKATAN,2,8998,59.96667777407531,won
+1959-05-20,GE-01,Perak,P.047 Parit,2,Haji Osman Bin Haji Bodin,190,PAS,3,6007,40.03332222592469,lost
+1959-05-20,GE-01,Perak,P.048 Bruas,1,Yeoh Tat Beng,178,BEBAS,1,5967,38.779489179177226,won
+1959-05-20,GE-01,Perak,P.048 Bruas,2,Mohd. Noor Bin Mohammed,179,PERIKATAN,2,5215,33.89224670176122,lost
+1959-05-20,GE-01,Perak,P.048 Bruas,3,Raman S/O Kunji Raman,180,PPP,4,4205,27.328264119061547,lost
+1959-05-20,GE-01,Perak,P.049 Sitiawan,1,Yong Woo Ming,181,PERIKATAN,2,6442,41.6742139992237,won
+1959-05-20,GE-01,Perak,P.049 Sitiawan,2,Too Joon Hing,42,BEBAS,1,6079,39.32591538362013,lost
+1959-05-20,GE-01,Perak,P.049 Sitiawan,3,Hor Huck Lung,182,PPP,4,2937,18.999870617156166,lost
+1959-05-20,GE-01,Perak,P.050 Ipoh,1,Dharma Raja Seenivasagam,36,PPP,4,12242,60.529048207663784,won
+1959-05-20,GE-01,Perak,P.050 Ipoh,2,Dr Chang Hoey Chan,199,PERIKATAN,2,6531,32.291718170580964,lost
+1959-05-20,GE-01,Perak,P.050 Ipoh,3,Yuen Foo Tong @ Yoon Foo Thong,200,BEBAS,1,1452,7.179233621755253,lost_deposit
+1959-05-20,GE-01,Perak,P.051 Menglembu,1,Sri Padhmaraja Seenivasagam,201,PPP,4,14338,65.43147903071235,won
+1959-05-20,GE-01,Perak,P.051 Menglembu,2,Wong Kok Weng,202,PERIKATAN,2,6292,28.713549034819515,lost
+1959-05-20,GE-01,Perak,P.051 Menglembu,3,Mohd. Daham Bin Khatib,31,BEBAS,1,1283,5.854971934468124,lost_deposit
+1959-05-20,GE-01,Perak,P.052 Ulu Kinta,1,Chan Swee Ho,207,PPP,4,6996,53.93154486586494,won
+1959-05-20,GE-01,Perak,P.052 Ulu Kinta,2,Chan Kok Cheong,208,PERIKATAN,2,4629,35.6845513413506,lost
+1959-05-20,GE-01,Perak,P.052 Ulu Kinta,3,Yau Hoong Seh,209,BEBAS,1,1347,10.383903792784459,lost_deposit
+1959-05-20,GE-01,Perak,P.053 Batu Gajah,1,Khong Kok Yat,210,PPP,4,8442,55.29573590096286,won
+1959-05-20,GE-01,Perak,P.053 Batu Gajah,2,Yeoh Kian Teik,211,PERIKATAN,2,6503,42.59513984410821,lost
+1959-05-20,GE-01,Perak,P.053 Batu Gajah,3,Thean Moi Tuck,212,BEBAS,1,322,2.1091242549289317,lost_deposit
+1959-05-20,GE-01,Perak,P.054 Kampar,1,Leong Kee Nyean,213,PERIKATAN,2,9765,48.57242339832869,won
+1959-05-20,GE-01,Perak,P.054 Kampar,2,Chan Yoon Onn,214,PPP,4,8512,42.33983286908078,lost
+1959-05-20,GE-01,Perak,P.054 Kampar,3,Othman Bin Mohamed Akib,215,PAS,3,1827,9.08774373259053,lost_deposit
+1959-05-20,GE-01,Perak,P.055 Tanjong Malim,1,Lee Seck Fun,171,PERIKATAN,2,8038,62.723371049551304,won
+1959-05-20,GE-01,Perak,P.055 Tanjong Malim,2,Ramanathan Chelvarayan Mannavarayan,172,PPP,4,4777,37.27662895044869,lost
+1959-05-20,GE-01,Perak,P.056 Telok Anson,1,Woo Saik Hong,196,PERIKATAN,2,10174,63.81083793276468,won
+1959-05-20,GE-01,Perak,P.056 Telok Anson,2,Tan Poh Aun,197,PPP,4,5770,36.18916206723532,lost
+1959-05-20,GE-01,Perak,P.057 Bagan Datoh,1,Yahya Bin Haji Ahmad,193,PERIKATAN,2,8078,61.73009322940547,won
+1959-05-20,GE-01,Perak,P.057 Bagan Datoh,2,Haji Azubir Bin Haji Ahmad,194,PAS,3,4425,33.8147638697845,lost
+1959-05-20,GE-01,Perak,P.057 Bagan Datoh,3,Mohd. Yunus Bin Sibi,195,PPP,4,583,4.455142900810026,lost_deposit
+1959-05-20,GE-01,Perak,P.058 Batang Padang,1,Abdul Hamid Khan Bin Haji Sakhawat Ali Khan,16,PERIKATAN,2,6231,54.25809822361547,won
+1959-05-20,GE-01,Perak,P.058 Batang Padang,2,Jaya Ramachandran S/O Suppiah,169,PPP,4,3749,32.645419714385234,lost
+1959-05-20,GE-01,Perak,P.058 Batang Padang,3,Hashim Bin Mahaboob,170,PAS,3,1504,13.096482061999303,lost
+1959-05-20,GE-01,Pahang,P.059 Raub,1,Hussein Bin Hassan,266,PERIKATAN,2,6764,56.86900958466453,won
+1959-05-20,GE-01,Pahang,P.059 Raub,2,Abu Bakar Bin Mohamed Resat,267,BEBAS,1,5130,43.13099041533546,lost
+1959-05-20,GE-01,Pahang,P.060 Bentong,1,Lim Ong Hang,268,BEBAS,1,5141,37.2968659315148,lost
+1959-05-20,GE-01,Pahang,P.060 Bentong,2,Chan Siang Sun,269,PERIKATAN,2,8643,62.7031340684852,won
+1959-05-20,GE-01,Pahang,P.061 Kuantan,1,Haji Hamzah Bin Dahaman,272,PAS,3,2758,23.7472016531772,lost
+1959-05-20,GE-01,Pahang,P.061 Kuantan,2,Abdul Rahman Bin Haji Talib,75,PERIKATAN,2,8856,76.2527983468228,won
+1959-05-20,GE-01,Pahang,P.062 Pekan,1,Dato' Abdul Razak Bin Hussain,73,PERIKATAN,2,8811,77.26236408277796,won
+1959-05-20,GE-01,Pahang,P.062 Pekan,2,Mohamed Ariff Bin Abas,274,PAS,3,2593,22.737635917222025,lost
+1959-05-20,GE-01,Pahang,P.063 Temerloh,1,Mohd. Yusof Bin Mahmud,270,PERIKATAN,2,8018,54.60736906626711,won
+1959-05-20,GE-01,Pahang,P.063 Temerloh,2,Ishak Bin Haji Mohammad,271,BEBAS,1,6665,45.39263093373289,lost
+1959-05-20,GE-01,Pahang,P.064 Lipis,1,Abdul Hamid Bin Abdullah,264,PAS,3,3818,24.61320268179474,lost
+1959-05-20,GE-01,Pahang,P.064 Lipis,2,Mohd. Sulong Bin Mohd. Ali,71,PERIKATAN,2,11694,75.38679731820525,won
+1959-05-20,GE-01,Selangor,P.065 Kuala Selangor,1,N. Manickam,235,MP,10,4008,27.792802163511542,lost
+1959-05-20,GE-01,Selangor,P.065 Kuala Selangor,2,Dahari Ali,236,PERIKATAN,2,6197,42.97205464253519,won
+1959-05-20,GE-01,Selangor,P.065 Kuala Selangor,3,Abdullah Bin Mat Junan,237,PAS,3,4216,29.235143193953263,lost
+1959-05-20,GE-01,Selangor,P.066 Batu,1,Ng Ann Teck,216,BEBAS,1,8737,57.68900627269726,won
+1959-05-20,GE-01,Selangor,P.066 Batu,2,Lim Hee Hong,217,PERIKATAN,2,6408,42.310993727302744,lost
+1959-05-20,GE-01,Selangor,P.067 Kapar,1,Hamzah Alang,247,PERIKATAN,2,5335,46.40340958510916,won
+1959-05-20,GE-01,Selangor,P.067 Kapar,2,Ibrahim Bin Haji Nordin,248,PAS,3,2954,25.693659215447507,lost
+1959-05-20,GE-01,Selangor,P.067 Kapar,3,R. Madhavan,249,PPP,4,3208,27.90293119944333,lost
+1959-05-20,GE-01,Selangor,P.068 Rawang,1,Abdul Karim Bin Haji Kasim,230,PERIKATAN,2,3654,33.91183294663573,lost
+1959-05-20,GE-01,Selangor,P.068 Rawang,2,Borhan,231,BEBAS,1,978,9.076566125290023,lost_deposit
+1959-05-20,GE-01,Selangor,P.068 Rawang,3,Y. P. Liu,232,BEBAS,1,6143,57.011600928074245,won
+1959-05-20,GE-01,Selangor,P.069 Langat,1,Haji Zakaria Bin Haji Mohd. Taib,238,PERIKATAN,2,6937,57.41599073001159,won
+1959-05-20,GE-01,Selangor,P.069 Langat,2,Koh Pak Ngee,239,BEBAS,1,5145,42.58400926998841,lost
+1959-05-20,GE-01,Selangor,P.070 Setapak,1,Ahmad Boestamam,226,BEBAS,1,6901,44.353750241018055,won
+1959-05-20,GE-01,Selangor,P.070 Setapak,2,Yap Kim Swee,227,BEBAS,1,3853,24.76380230091908,lost
+1959-05-20,GE-01,Selangor,P.070 Setapak,3,Aisah Ghani,228,PERIKATAN,2,4805,30.882447458062856,lost
+1959-05-20,GE-01,Selangor,P.071 Bungsar,1,Ong Yeow Kay,218,PPP,4,2388,9.95871387464031,lost_deposit
+1959-05-20,GE-01,Selangor,P.071 Bungsar,2,V. David,219,BEBAS,1,9734,40.59385295466867,won
+1959-05-20,GE-01,Selangor,P.071 Bungsar,3,Koh Pooi Kee,220,BEBAS,1,6821,28.445723341256933,lost
+1959-05-20,GE-01,Selangor,P.071 Bungsar,4,Law Joo Kooi,221,PERIKATAN,2,5036,21.001709829434088,lost
+1959-05-20,GE-01,Selangor,P.072 Bukit Bintang,1,Heng Cheng Swee,222,BEBAS,1,270,1.6432353478181487,lost_deposit
+1959-05-20,GE-01,Selangor,P.072 Bukit Bintang,2,Robert K. C. Hoh,223,BEBAS,1,5434,33.07163288905118,lost
+1959-05-20,GE-01,Selangor,P.072 Bukit Bintang,3,Nazar Nong,224,BEBAS,1,4593,27.95325908343984,lost
+1959-05-20,GE-01,Selangor,P.072 Bukit Bintang,4,Cheah Theam Swee,225,PERIKATAN,2,6134,37.33187267969083,won
+1959-05-20,GE-01,Selangor,P.073 Damansara,1,Lee Eng Teh,61,PERIKATAN,2,5653,38.51079773826555,lost
+1959-05-20,GE-01,Selangor,P.073 Damansara,2,K. Karam Singh,250,BEBAS,1,9026,61.489202261734455,won
+1959-05-20,GE-01,Selangor,P.074 Klang,1,V. Manickavasagam,243,PERIKATAN,2,8394,57.30866389021643,won
+1959-05-20,GE-01,Selangor,P.074 Klang,2,S. S. Nayagam,244,BEBAS,1,6253,42.69133610978357,lost
+1959-05-20,GE-01,Selangor,P.075 Kuala Langat,1,Syed Ibrahim Bin Syed Salim,245,PAS,3,4299,31.17250380683054,lost
+1959-05-20,GE-01,Selangor,P.075 Kuala Langat,2,Aziz Ishak,59,PERIKATAN,2,9492,68.82749619316945,won
+1959-05-20,GE-01,Selangor,P.076 Sepang,1,Lim Tuan Siong,240,BEBAS,1,3455,32.37443778110944,lost
+1959-05-20,GE-01,Selangor,P.076 Sepang,2,K. V. Nadarajah,241,PPP,4,2225,20.84895052473763,lost
+1959-05-20,GE-01,Selangor,P.076 Sepang,3,Lee Siok Yew,242,PERIKATAN,2,4992,46.776611694152926,won
+1959-05-20,GE-01,Selangor,P.077 Sabak Bernam,1,Syed Hashim Bin Syed Ajam,233,PERIKATAN,2,8003,65.4642126789366,won
+1959-05-20,GE-01,Selangor,P.077 Sabak Bernam,2,Ustaz Haji Abd. Hakim Hilmi,234,PAS,3,4222,34.535787321063395,lost
+1959-05-20,GE-01,Selangor,P.078 Ulu Selangor,1,Ong Yoke Lin,46,PERIKATAN,2,6537,56.073082861554305,won
+1959-05-20,GE-01,Selangor,P.078 Ulu Selangor,2,Chai Yoke Kin,229,BEBAS,1,5121,43.9269171384457,lost
+1959-05-20,GE-01,Negeri Sembilan,P.079 Kuala Pilah,1,Bahaman Bin Samsudin,32,PERIKATAN,2,11312,66.3149255481299,won
+1959-05-20,GE-01,Negeri Sembilan,P.079 Kuala Pilah,2,Ismail Bin Chik,253,PAS,3,5746,33.685074451870086,lost
+1959-05-20,GE-01,Negeri Sembilan,P.080 Seremban Timor,1,Robert Singam,260,BEBAS,1,3985,28.07326523423741,lost
+1959-05-20,GE-01,Negeri Sembilan,P.080 Seremban Timor,2,Chin See Yin,261,BEBAS,1,5762,40.59175766114829,won
+1959-05-20,GE-01,Negeri Sembilan,P.080 Seremban Timor,3,Md. Nor Bin Ab. Hamid,262,PAS,3,2387,16.815780204297287,lost
+1959-05-20,GE-01,Negeri Sembilan,P.080 Seremban Timor,4,Tham Tat Ming,263,PERIKATAN,2,2061,14.519196900317013,lost
+1959-05-20,GE-01,Negeri Sembilan,P.081 Rembau-Tampin,1,Baba Bin Ludek,68,BEBAS,1,4369,31.30553167096589,lost
+1959-05-20,GE-01,Negeri Sembilan,P.081 Rembau-Tampin,2,Haji Redza Bin Haji Mohd. Said,255,PERIKATAN,2,9587,68.69446832903411,won
+1959-05-20,GE-01,Negeri Sembilan,P.082 Port Dickson,1,T. Mahima Singh,254,PERIKATAN,2,0,,won_uncontested
+1959-05-20,GE-01,Negeri Sembilan,P.083 Jelebu-Jempol,1,Che' Ahmad Bin Hj. Yaacob,251,PAS,3,3970,26.058418116179848,lost
+1959-05-20,GE-01,Negeri Sembilan,P.083 Jelebu-Jempol,2,Mohamed Bin Ujang,252,PERIKATAN,2,11265,73.94158188382015,won
+1959-05-20,GE-01,Negeri Sembilan,P.084 Seremban Barat,1,C. Rasadurai,256,BEBAS,1,93,0.7621076784397279,lost_deposit
+1959-05-20,GE-01,Negeri Sembilan,P.084 Seremban Barat,2,Sathappan Sathappan,257,BEBAS,1,3949,32.3608948619192,lost
+1959-05-20,GE-01,Negeri Sembilan,P.084 Seremban Barat,3,P. A. R. S. Dawood @ A. S. Dawood,258,PERIKATAN,2,3409,27.93575350323691,lost
+1959-05-20,GE-01,Negeri Sembilan,P.084 Seremban Barat,4,Quek Kai Dong,259,BEBAS,1,4752,38.941243956404165,won
+1959-05-20,GE-01,Melaka,P.085 Malacca Tengah,1,Tan Siew Sin,9,PERIKATAN,2,13635,74.5489338436304,won
+1959-05-20,GE-01,Melaka,P.085 Malacca Tengah,2,Hj. Abd. Majid Bin H. Hussin,158,PAS,3,4655,25.4510661563696,lost
+1959-05-20,GE-01,Melaka,P.086 Bandar Malacca,1,Tan Kee Gak,155,MP,10,9396,52.68588090164854,won
+1959-05-20,GE-01,Melaka,P.086 Bandar Malacca,2,Wong Koon Yoon,156,PERIKATAN,2,8173,45.82819333856678,lost
+1959-05-20,GE-01,Melaka,P.086 Bandar Malacca,3,Yeoh Ho Huat,157,BEBAS,1,265,1.4859257597846809,lost_deposit
+1959-05-20,GE-01,Melaka,P.087 Malacca Utara,1,Hj. Karim Bin Hj. Dalib,159,PAS,3,4461,24.23007984357178,lost
+1959-05-20,GE-01,Melaka,P.087 Malacca Utara,2,Abdul Ghani Ishak,160,PERIKATAN,2,11078,60.17055021454565,won
+1959-05-20,GE-01,Melaka,P.087 Malacca Utara,3,Karim Bakar,10,BEBAS,1,2872,15.599369941882571,lost
+1959-05-20,GE-01,Melaka,P.088 Malacca Selatan,1,Hassan Bin Mansor,162,PERIKATAN,2,11300,56.13791047742064,won
+1959-05-20,GE-01,Melaka,P.088 Malacca Selatan,2,Chung Cheng Wen,163,BEBAS,1,5812,28.873764220775993,lost
+1959-05-20,GE-01,Melaka,P.088 Malacca Selatan,3,Mohamed Taha Bin Kallu,164,PAS,3,3017,14.988325301803368,lost
+1959-05-20,GE-01,Johor,P.089 Muar Dalam,1,Aziz Bin Ishak,304,PERIKATAN,2,11329,74.16208431526577,won
+1959-05-20,GE-01,Johor,P.089 Muar Dalam,2,Ahmad Bin Abu,305,BEBAS,1,3947,25.837915684734224,lost
+1959-05-20,GE-01,Johor,P.090 Segamat Selatan,1,Dato' Teoh Chze Chong,84,PERIKATAN,2,7828,61.686367218282115,won
+1959-05-20,GE-01,Johor,P.090 Segamat Selatan,2,Dr Lim Chin Khean,310,BEBAS,1,4862,38.313632781717885,lost
+1959-05-20,GE-01,Johor,P.091 Muar Pantai,1,Mohamad Nor Bin Hamid,91,BEBAS,1,3731,22.097844112769486,lost
+1959-05-20,GE-01,Johor,P.091 Muar Pantai,2,Seah Teng Ngiab,299,PERIKATAN,2,8997,53.28713574982231,won
+1959-05-20,GE-01,Johor,P.091 Muar Pantai,3,Tan Keww Wah,300,PPP,4,2162,12.805022506515042,lost
+1959-05-20,GE-01,Johor,P.091 Muar Pantai,4,Chua Ang Teck,301,BEBAS,1,1994,11.809997630893152,lost_deposit
+1959-05-20,GE-01,Johor,P.092 Muar Selatan,1,Raja Hashim Bin Haji Mahmood,295,BEBAS,1,2069,10.680363411108818,lost_deposit
+1959-05-20,GE-01,Johor,P.092 Muar Selatan,2,Suleiman Bin Dato' Abdul Rahman,80,PERIKATAN,2,14795,76.37311583729094,won
+1959-05-20,GE-01,Johor,P.092 Muar Selatan,3,Haji Mohamed Tahir Bin Daing Mengati,297,PAS,3,2508,12.946520751600248,lost
+1959-05-20,GE-01,Johor,P.093 Batu Pahat,1,Koh Kim Boon,290,BEBAS,1,3958,26.213656533545265,lost
+1959-05-20,GE-01,Johor,P.093 Batu Pahat,2,Kang Kock Seng,291,PERIKATAN,2,10261,67.9581429233724,won
+1959-05-20,GE-01,Johor,P.093 Batu Pahat,3,Haji Abdullah Bin Haji,292,BEBAS,1,880,5.828200543082324,lost_deposit
+1959-05-20,GE-01,Johor,P.094 Batu Pahat Dalam,1,Haji Daud Bin Haji Abdul Hamid,293,BEBAS,1,3661,21.04748763941589,lost
+1959-05-20,GE-01,Johor,P.094 Batu Pahat Dalam,2,Tan Suan Kok,88,BEBAS,1,4238,24.364723467862483,lost
+1959-05-20,GE-01,Johor,P.094 Batu Pahat Dalam,3,Syed Esa Bin Syed Alwee,294,PERIKATAN,2,9495,54.58778889272162,won
+1959-05-20,GE-01,Johor,P.095 Kluang Utara,1,Lee San Choon,288,PERIKATAN,2,5985,56.918687589158345,won
+1959-05-20,GE-01,Johor,P.095 Kluang Utara,2,Wee Lee Fong,289,BEBAS,1,4530,43.081312410841655,lost
+1959-05-20,GE-01,Johor,P.096 Johore Tenggara,1,Sayed Fa'Afar Bin Hasan Albar,277,PERIKATAN,2,0,,won_uncontested
+1959-05-20,GE-01,Johor,P.097 Pontian Utara,1,Abdul Jamil Bin Sulaiman,284,PAS,3,1567,9.00212558166255,lost_deposit
+1959-05-20,GE-01,Johor,P.097 Pontian Utara,2,Garieb Raouf,285,BEBAS,1,3990,22.92181306371,lost
+1959-05-20,GE-01,Johor,P.097 Pontian Utara,3,Sardon Bin Haji Jubir,92,PERIKATAN,2,11850,68.07606135462746,won
+1959-05-20,GE-01,Johor,P.098 Pontian Selatan,1,Lee Ah Leng,282,BEBAS,1,5648,37.36191043196401,lost
+1959-05-20,GE-01,Johor,P.098 Pontian Selatan,2,Hajah Zain Binti Sulaiman,283,PERIKATAN,2,9469,62.63808956803598,won
+1959-05-20,GE-01,Johor,P.099 Kluang Selatan,1,Tan Kai Hee,286,BEBAS,1,4540,34.150744696855725,lost
+1959-05-20,GE-01,Johor,P.099 Kluang Selatan,2,Chan Chong Wen,287,PERIKATAN,2,8754,65.84925530314428,won
+1959-05-20,GE-01,Johor,P.100 Johore Bahru Timor,1,C. C. Yong,278,BEBAS,1,4236,35.279420338136084,lost
+1959-05-20,GE-01,Johor,P.100 Johore Bahru Timor,2,Dato' Haji Mohd. Noah Bin Omar,279,PERIKATAN,2,7771,64.72057966186391,won
+1959-05-20,GE-01,Johor,P.101 Johore Bahru Barat,1,Zahid Karim,280,BEBAS,1,4501,38.19910039887974,lost
+1959-05-20,GE-01,Johor,P.101 Johore Bahru Barat,2,Ahmad Bin Mohamed Shah,281,PERIKATAN,2,7282,61.800899601120264,won
+1959-05-20,GE-01,Johor,P.102 Johore Timor,1,Che' Gu Ismail Ariff,275,BEBAS,1,1854,20.735935577675875,lost
+1959-05-20,GE-01,Johor,P.102 Johore Timor,2,Dr Ismail Bin Dato' Abdul Rahman,77,PERIKATAN,2,7087,79.26406442232413,won
+1959-05-20,GE-01,Johor,P.103 Segamat Utara,1,Haji Abdullah Bin Haji Mohd. Salleh,306,PERIKATAN,2,6572,52.842325319610836,won
+1959-05-20,GE-01,Johor,P.103 Segamat Utara,2,Syed Mohammad Bin Abdullah Al Kherd,307,PAS,3,917,7.373160730079602,lost_deposit
+1959-05-20,GE-01,Johor,P.103 Segamat Utara,3,Lim Meng See,308,BEBAS,1,4948,39.78451395030956,lost
+1959-05-20,GE-01,Johor,P.104 Muar Utara,1,Ahmad Bin Arshad,302,PERIKATAN,2,12744,83.41951953917655,won
+1959-05-20,GE-01,Johor,P.104 Muar Utara,2,Nasir Bin Abdullah,303,BEBAS,1,2533,16.58048046082346,lost
 1964-04-25,GE-02,Perlis,P.001 Perlis Utara,1,Ismail Bin Mohamad,374,PAS,3,6119,32.827253218884124,lost
 1964-04-25,GE-02,Perlis,P.001 Perlis Utara,2,Othman Bin Abdullah,19345,PERIKATAN,2,12521,67.17274678111588,won
 1964-04-25,GE-02,Perlis,P.002 Perlis Selatan,1,Haji Mohktar Bin Haji Ismail,373,PERIKATAN,2,10486,59.122688317546235,won
