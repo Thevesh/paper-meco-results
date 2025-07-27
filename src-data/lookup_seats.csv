@@ -17,7 +17,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Johor,P.145 Bakri,Bakri,federal
 2022-11-19,GE-15,Johor,P.145 Bakri,Bakri,federal
 1955-07-25,GE-00,Johor,P.034 Batu Pahat,Batu Pahat,federal
-1959-05-20,GE-01,Johor,P.067 Batu Pahat,Batu Pahat,federal
+1959-05-20,GE-01,Johor,P.093 Batu Pahat,Batu Pahat,federal
 1964-04-25,GE-02,Johor,P.093 Batu Pahat,Batu Pahat,federal
 1969-05-10,GE-03,Johor,P.093 Batu Pahat,Batu Pahat,federal
 1974-08-24,GE-04,Johor,P.111 Batu Pahat,Batu Pahat,federal
@@ -32,7 +32,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Johor,P.150 Batu Pahat,Batu Pahat,federal
 2018-05-09,GE-14,Johor,P.150 Batu Pahat,Batu Pahat,federal
 2022-11-19,GE-15,Johor,P.150 Batu Pahat,Batu Pahat,federal
-1959-05-20,GE-01,Johor,P.068 Batu Pahat Dalam,Batu Pahat Dalam,federal
+1959-05-20,GE-01,Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,federal
 1964-04-25,GE-02,Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,federal
 1969-05-10,GE-03,Johor,P.094 Batu Pahat Dalam,Batu Pahat Dalam,federal
 1995-04-24,GE-09,Johor,P.143 Gelang Patah,Gelang Patah,federal
@@ -56,21 +56,21 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Johor,P.160 Johor Bahru,Johor Bahru,federal
 2022-11-19,GE-15,Johor,P.160 Johor Bahru,Johor Bahru,federal
 1955-07-25,GE-00,Johor,P.031 Johore Bahru,Johore Bahru,federal
-1959-05-20,GE-01,Johor,P.062 Johore Bahru Barat,Johore Bahru Barat,federal
+1959-05-20,GE-01,Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,federal
 1964-04-25,GE-02,Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,federal
 1969-05-10,GE-03,Johor,P.101 Johore Bahru Barat,Johore Bahru Barat,federal
-1959-05-20,GE-01,Johor,P.061 Johore Bahru Timor,Johore Bahru Timor,federal
+1959-05-20,GE-01,Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,federal
 1964-04-25,GE-02,Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,federal
 1969-05-10,GE-03,Johor,P.100 Johore Bahru Timor,Johore Bahru Timor,federal
 1955-07-25,GE-00,Johor,P.032 Johore Selatan,Johore Selatan,federal
 1955-07-25,GE-00,Johor,P.033 Johore Tengah,Johore Tengah,federal
-1959-05-20,GE-01,Johor,P.060 Johore Tenggara,Johore Tenggara,federal
+1959-05-20,GE-01,Johor,P.096 Johore Tenggara,Johore Tenggara,federal
 1964-04-25,GE-02,Johor,P.096 Johore Tenggara,Johore Tenggara,federal
 1969-05-10,GE-03,Johor,P.096 Johore Tenggara,Johore Tenggara,federal
 1955-07-25,GE-00,Johor,P.030 Johore Timor,Johore Timor,federal
 1964-04-25,GE-02,Johor,P.102 Johore Timor,Johore Timor,federal
 1969-05-10,GE-03,Johor,P.102 Johore Timor,Johore Timor,federal
-1959-05-20,GE-01,Johor,P.059 Johore Timor,Johore Timor,federal
+1959-05-20,GE-01,Johor,P.102 Johore Timor,Johore Timor,federal
 1974-08-24,GE-04,Johor,P.101 Kluang,Kluang,federal
 1978-07-08,GE-05,Johor,P.101 Kluang,Kluang,federal
 1982-04-22,GE-06,Johor,P.101 Kluang,Kluang,federal
@@ -83,10 +83,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Johor,P.152 Kluang,Kluang,federal
 2018-05-09,GE-14,Johor,P.152 Kluang,Kluang,federal
 2022-11-19,GE-15,Johor,P.152 Kluang,Kluang,federal
-1959-05-20,GE-01,Johor,P.065 Kluang Selatan,Kluang Selatan,federal
+1959-05-20,GE-01,Johor,P.099 Kluang Selatan,Kluang Selatan,federal
 1964-04-25,GE-02,Johor,P.099 Kluang Selatan,Kluang Selatan,federal
 1969-05-10,GE-03,Johor,P.099 Kluang Selatan,Kluang Selatan,federal
-1959-05-20,GE-01,Johor,P.066 Kluang Utara,Kluang Utara,federal
+1959-05-20,GE-01,Johor,P.095 Kluang Utara,Kluang Utara,federal
 1964-04-25,GE-02,Johor,P.095 Kluang Utara,Kluang Utara,federal
 1969-05-10,GE-03,Johor,P.095 Kluang Utara,Kluang Utara,federal
 1986-08-02,GE-07,Johor,P.128 Kota Tinggi,Kota Tinggi,federal
@@ -148,18 +148,18 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Johor,P.146 Muar,Muar,federal
 2018-05-09,GE-14,Johor,P.146 Muar,Muar,federal
 2022-11-19,GE-15,Johor,P.146 Muar,Muar,federal
-1959-05-20,GE-01,Johor,P.072 Muar Dalam,Muar Dalam,federal
+1959-05-20,GE-01,Johor,P.089 Muar Dalam,Muar Dalam,federal
 1964-04-25,GE-02,Johor,P.089 Muar Dalam,Muar Dalam,federal
 1969-05-10,GE-03,Johor,P.089 Muar Dalam,Muar Dalam,federal
-1959-05-20,GE-01,Johor,P.070 Muar Pantai,Muar Pantai,federal
+1959-05-20,GE-01,Johor,P.091 Muar Pantai,Muar Pantai,federal
 1964-04-25,GE-02,Johor,P.091 Muar Pantai,Muar Pantai,federal
 1969-05-10,GE-03,Johor,P.091 Muar Pantai,Muar Pantai,federal
 1955-07-25,GE-00,Johor,P.035 Muar Selatan,Muar Selatan,federal
-1959-05-20,GE-01,Johor,P.069 Muar Selatan,Muar Selatan,federal
+1959-05-20,GE-01,Johor,P.092 Muar Selatan,Muar Selatan,federal
 1964-04-25,GE-02,Johor,P.092 Muar Selatan,Muar Selatan,federal
 1969-05-10,GE-03,Johor,P.092 Muar Selatan,Muar Selatan,federal
 1955-07-25,GE-00,Johor,P.036 Muar Utara,Muar Utara,federal
-1959-05-20,GE-01,Johor,P.071 Muar Utara,Muar Utara,federal
+1959-05-20,GE-01,Johor,P.104 Muar Utara,Muar Utara,federal
 1964-04-25,GE-02,Johor,P.104 Muar Utara,Muar Utara,federal
 1969-05-10,GE-03,Johor,P.104 Muar Utara,Muar Utara,federal
 1974-08-24,GE-04,Johor,P.104 Pagoh,Pagoh,federal
@@ -208,10 +208,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Johor,P.164 Pontian,Pontian,federal
 2018-05-09,GE-14,Johor,P.164 Pontian,Pontian,federal
 2022-11-19,GE-15,Johor,P.164 Pontian,Pontian,federal
-1959-05-20,GE-01,Johor,P.063 Pontian Selatan,Pontian Selatan,federal
+1959-05-20,GE-01,Johor,P.098 Pontian Selatan,Pontian Selatan,federal
 1964-04-25,GE-02,Johor,P.098 Pontian Selatan,Pontian Selatan,federal
 1969-05-10,GE-03,Johor,P.098 Pontian Selatan,Pontian Selatan,federal
-1959-05-20,GE-01,Johor,P.064 Pontian Utara,Pontian Utara,federal
+1959-05-20,GE-01,Johor,P.097 Pontian Utara,Pontian Utara,federal
 1964-04-25,GE-02,Johor,P.097 Pontian Utara,Pontian Utara,federal
 1969-05-10,GE-03,Johor,P.097 Pontian Utara,Pontian Utara,federal
 1974-08-24,GE-04,Johor,P.113 Pulai,Pulai,federal
@@ -243,10 +243,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Johor,P.140 Segamat,Segamat,federal
 2018-05-09,GE-14,Johor,P.140 Segamat,Segamat,federal
 2022-11-19,GE-15,Johor,P.140 Segamat,Segamat,federal
-1959-05-20,GE-01,Johor,P.074 Segamat Selatan,Segamat Selatan,federal
+1959-05-20,GE-01,Johor,P.090 Segamat Selatan,Segamat Selatan,federal
 1964-04-25,GE-02,Johor,P.090 Segamat Selatan,Segamat Selatan,federal
 1969-05-10,GE-03,Johor,P.090 Segamat Selatan,Segamat Selatan,federal
-1959-05-20,GE-01,Johor,P.073 Segamat Utara,Segamat Utara,federal
+1959-05-20,GE-01,Johor,P.103 Segamat Utara,Segamat Utara,federal
 1964-04-25,GE-02,Johor,P.103 Segamat Utara,Segamat Utara,federal
 1969-05-10,GE-03,Johor,P.103 Segamat Utara,Segamat Utara,federal
 2004-03-21,GE-11,Johor,P.141 Sekijang,Sekijang,federal
@@ -313,7 +313,7 @@ date,election,state,seat,area_name,type
 1978-07-08,GE-05,Johor,P.102 Tenggaroh,Tenggaroh,federal
 1982-04-22,GE-06,Johor,P.102 Tenggaroh,Tenggaroh,federal
 1955-07-25,GE-00,Kedah,P.038 Alor Star,Alor Setar,federal
-1959-05-20,GE-01,Kedah,P.075 Alor Star,Alor Setar,federal
+1959-05-20,GE-01,Kedah,P.006 Alor Star,Alor Setar,federal
 1964-04-25,GE-02,Kedah,P.006 Alor Star,Alor Setar,federal
 1969-05-10,GE-03,Kedah,P.006 Alor Star,Alor Setar,federal
 1974-08-24,GE-04,Kedah,P.007 Alor Setar,Alor Setar,federal
@@ -328,7 +328,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kedah,P.009 Alor Star,Alor Setar,federal
 2018-05-09,GE-14,Kedah,P.009 Alor Setar,Alor Setar,federal
 2022-11-19,GE-15,Kedah,P.009 Alor Setar,Alor Setar,federal
-1959-05-20,GE-01,Kedah,P.084 Baling,Baling,federal
+1959-05-20,GE-01,Kedah,P.011 Baling,Baling,federal
 1964-04-25,GE-02,Kedah,P.011 Baling,Baling,federal
 1969-05-10,GE-03,Kedah,P.011 Baling,Baling,federal
 1974-08-24,GE-04,Kedah,P.010 Baling,Baling,federal
@@ -343,7 +343,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kedah,P.016 Baling,Baling,federal
 2018-05-09,GE-14,Kedah,P.016 Baling,Baling,federal
 2022-11-19,GE-15,Kedah,P.016 Baling,Baling,federal
-1959-05-20,GE-01,Kedah,P.081 Jerai,Jerai,federal
+1959-05-20,GE-01,Kedah,P.010 Jerai,Jerai,federal
 1969-05-10,GE-03,Kedah,P.010 Jerai,Jerai,federal
 1974-08-24,GE-04,Kedah,P.011 Jerai,Jerai,federal
 1978-07-08,GE-05,Kedah,P.011 Jerai,Jerai,federal
@@ -367,12 +367,12 @@ date,election,state,seat,area_name,type
 1982-04-22,GE-06,Kedah,P.003 Jerlun-Langkawi,Jerlun-Langkawi,federal
 1986-08-02,GE-07,Kedah,P.003 Jerlun-Langkawi,Jerlun-Langkawi,federal
 1990-10-20,GE-08,Kedah,P.003 Jerlun-Langkawi,Jerlun-Langkawi,federal
-1959-05-20,GE-01,Kedah,P.080 Jitra-Padang Terap,Jitra-Padang Terap,federal
+1959-05-20,GE-01,Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,federal
 1964-04-25,GE-02,Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,federal
 1969-05-10,GE-03,Kedah,P.003 Jitra-Padang Terap,Jitra-Padang Terap,federal
 1955-07-25,GE-00,Kedah,P.043 Kedah Selatan,Kedah Selatan,federal
 1955-07-25,GE-00,Kedah,P.041 Kedah Tengah,Kedah Tengah,federal
-1959-05-20,GE-01,Kedah,P.082 Kedah Tengah,Kedah Tengah,federal
+1959-05-20,GE-01,Kedah,P.009 Kedah Tengah,Kedah Tengah,federal
 1964-04-25,GE-02,Kedah,P.009 Kedah Tengah,Kedah Tengah,federal
 1969-05-10,GE-03,Kedah,P.009 Kedah Tengah,Kedah Tengah,federal
 1955-07-25,GE-00,Kedah,P.040 Kedah Utara,Kedah Utara,federal
@@ -382,13 +382,13 @@ date,election,state,seat,area_name,type
 1986-08-02,GE-07,Kedah,P.006 Kota Setar,Kota Setar,federal
 1990-10-20,GE-08,Kedah,P.006 Kota Setar,Kota Setar,federal
 1955-07-25,GE-00,Kedah,P.039 Kota Star,Kota Star,federal
-1959-05-20,GE-01,Kedah,P.078 Kota Star Selatan,Kota Star Selatan,federal
+1959-05-20,GE-01,Kedah,P.008 Kota Star Selatan,Kota Star Selatan,federal
 1964-04-25,GE-02,Kedah,P.008 Kota Star Selatan,Kota Star Selatan,federal
 1969-05-10,GE-03,Kedah,P.008 Kota Star Selatan,Kota Star Selatan,federal
-1959-05-20,GE-01,Kedah,P.077 Kota Star Utara,Kota Star Utara,federal
+1959-05-20,GE-01,Kedah,P.005 Kota Star Utara,Kota Star Utara,federal
 1964-04-25,GE-02,Kedah,P.005 Kota Star Utara,Kota Star Utara,federal
 1969-05-10,GE-03,Kedah,P.005 Kota Star Utara,Kota Star Utara,federal
-1959-05-20,GE-01,Kedah,P.076 Kuala Kedah,Kuala Kedah,federal
+1959-05-20,GE-01,Kedah,P.007 Kuala Kedah,Kuala Kedah,federal
 1964-04-25,GE-02,Kedah,P.007 Kuala Kedah,Kuala Kedah,federal
 1969-05-10,GE-03,Kedah,P.007 Kuala Kedah,Kuala Kedah,federal
 1974-08-24,GE-04,Kedah,P.006 Kuala Kedah,Kuala Kedah,federal
@@ -418,13 +418,13 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kedah,P.006 Kubang Pasu,Kubang Pasu,federal
 2018-05-09,GE-14,Kedah,P.006 Kubang Pasu,Kubang Pasu,federal
 2022-11-19,GE-15,Kedah,P.006 Kubang Pasu,Kubang Pasu,federal
-1959-05-20,GE-01,Kedah,P.079 Kubang Pasu Barat,Kubang Pasu Barat,federal
+1959-05-20,GE-01,Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,federal
 1964-04-25,GE-02,Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,federal
 1969-05-10,GE-03,Kedah,P.004 Kubang Pasu Barat,Kubang Pasu Barat,federal
-1959-05-20,GE-01,Kedah,P.085 Kulim Utara,Kulim Utara,federal
+1959-05-20,GE-01,Kedah,P.013 Kulim Utara,Kulim Utara,federal
 1964-04-25,GE-02,Kedah,P.013 Kulim Utara,Kulim Utara,federal
 1969-05-10,GE-03,Kedah,P.013 Kulim Utara,Kulim Utara,federal
-1959-05-20,GE-01,Kedah,P.086 Kulim-Bandar Bahru,Kulim-Bandar Baharu,federal
+1959-05-20,GE-01,Kedah,P.014 Kulim-Bandar Bahru,Kulim-Bandar Baharu,federal
 1964-04-25,GE-02,Kedah,P.014 Kulim-Bandar Bahru,Kulim-Bandar Baharu,federal
 1969-05-10,GE-03,Kedah,P.014 Kulim-Bandar Bahru,Kulim-Bandar Baharu,federal
 1974-08-24,GE-04,Kedah,P.015 Kulim-Bandar Bahru,Kulim-Bandar Baharu,federal
@@ -519,7 +519,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Kedah,P.015 Sungai Petani,Sungai Petani,federal
 2022-11-19,GE-15,Kedah,P.015 Sungai Petani,Sungai Petani,federal
 1955-07-25,GE-00,Kedah,P.042 Sungei Muda,Sungei Muda,federal
-1959-05-20,GE-01,Kedah,P.083 Sungei Patani,Sungei Patani,federal
+1959-05-20,GE-01,Kedah,P.012 Sungei Patani,Sungei Patani,federal
 1964-04-25,GE-02,Kedah,P.012 Sungei Patani,Sungei Patani,federal
 1969-05-10,GE-03,Kedah,P.012 Sungei Patani,Sungei Patani,federal
 1974-08-24,GE-04,Kedah,P.009 Ulu Muda,Ulu Muda,federal
@@ -527,7 +527,7 @@ date,election,state,seat,area_name,type
 1982-04-22,GE-06,Kedah,P.009 Ulu Muda,Ulu Muda,federal
 1995-04-24,GE-09,Kedah,P.012 Yan,Yan,federal
 1999-11-29,GE-10,Kedah,P.012 Yan,Yan,federal
-1959-05-20,GE-01,Kelantan,P.090 Bachok,Bachok,federal
+1959-05-20,GE-01,Kelantan,P.019 Bachok,Bachok,federal
 1964-04-25,GE-02,Kelantan,P.019 Bachok,Bachok,federal
 1969-05-10,GE-03,Kelantan,P.019 Bachok,Bachok,federal
 1974-08-24,GE-04,Kelantan,P.020 Bachok,Bachok,federal
@@ -558,7 +558,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.030 Jeli,Jeli,federal
 2018-05-09,GE-14,Kelantan,P.030 Jeli,Jeli,federal
 2022-11-19,GE-15,Kelantan,P.030 Jeli,Jeli,federal
-1959-05-20,GE-01,Kelantan,P.094 Kelantan Hilir,Kelantan Hilir,federal
+1959-05-20,GE-01,Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,federal
 1964-04-25,GE-02,Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,federal
 1969-05-10,GE-03,Kelantan,P.016 Kelantan Hilir,Kelantan Hilir,federal
 1955-07-25,GE-00,Kelantan,P.044 Kelantan Selatan,Kelantan Selatan,federal
@@ -584,10 +584,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.021 Kota Bharu,Kota Bharu,federal
 2018-05-09,GE-14,Kelantan,P.021 Kota Bharu,Kota Bharu,federal
 2022-11-19,GE-15,Kelantan,P.021 Kota Bharu,Kota Bharu,federal
-1959-05-20,GE-01,Kelantan,P.095 Kota Bharu Hilir,Kota Bharu Hilir,federal
+1959-05-20,GE-01,Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,federal
 1964-04-25,GE-02,Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,federal
 1969-05-10,GE-03,Kelantan,P.018 Kota Bharu Hilir,Kota Bharu Hilir,federal
-1959-05-20,GE-01,Kelantan,P.096 Kota Bharu Hulu,Kota Bharu Hulu,federal
+1959-05-20,GE-01,Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,federal
 1964-04-25,GE-02,Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,federal
 1969-05-10,GE-03,Kelantan,P.020 Kota Bharu Hulu,Kota Bharu Hulu,federal
 1974-08-24,GE-04,Kelantan,P.026 Kuala Krai,Kuala Krai,federal
@@ -640,13 +640,13 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.022 Pasir Mas,Pasir Mas,federal
 2018-05-09,GE-14,Kelantan,P.022 Pasir Mas,Pasir Mas,federal
 2022-11-19,GE-15,Kelantan,P.022 Pasir Mas,Pasir Mas,federal
-1959-05-20,GE-01,Kelantan,P.091 Pasir Mas Hilir,Pasir Mas Hilir,federal
+1959-05-20,GE-01,Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,federal
 1964-04-25,GE-02,Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,federal
 1969-05-10,GE-03,Kelantan,P.017 Pasir Mas Hilir,Pasir Mas Hilir,federal
-1959-05-20,GE-01,Kelantan,P.092 Pasir Mas Hulu,Pasir Mas Hulu,federal
+1959-05-20,GE-01,Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,federal
 1964-04-25,GE-02,Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,federal
 1969-05-10,GE-03,Kelantan,P.021 Pasir Mas Hulu,Pasir Mas Hulu,federal
-1959-05-20,GE-01,Kelantan,P.089 Pasir Puteh,Pasir Puteh,federal
+1959-05-20,GE-01,Kelantan,P.022 Pasir Puteh,Pasir Puteh,federal
 1964-04-25,GE-02,Kelantan,P.022 Pasir Puteh,Pasir Puteh,federal
 1969-05-10,GE-03,Kelantan,P.022 Pasir Puteh,Pasir Puteh,federal
 1974-08-24,GE-04,Kelantan,P.025 Pasir Puteh,Pasir Puteh,federal
@@ -686,7 +686,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.023 Rantau Panjang,Rantau Panjang,federal
 2018-05-09,GE-14,Kelantan,P.023 Rantau Panjang,Rantau Panjang,federal
 2022-11-19,GE-15,Kelantan,P.023 Rantau Panjang,Rantau Panjang,federal
-1959-05-20,GE-01,Kelantan,P.088 Tanah Merah,Tanah Merah,federal
+1959-05-20,GE-01,Kelantan,P.023 Tanah Merah,Tanah Merah,federal
 1964-04-25,GE-02,Kelantan,P.023 Tanah Merah,Tanah Merah,federal
 1969-05-10,GE-03,Kelantan,P.023 Tanah Merah,Tanah Merah,federal
 1974-08-24,GE-04,Kelantan,P.023 Tanah Merah,Tanah Merah,federal
@@ -701,7 +701,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.027 Tanah Merah,Tanah Merah,federal
 2018-05-09,GE-14,Kelantan,P.027 Tanah Merah,Tanah Merah,federal
 2022-11-19,GE-15,Kelantan,P.027 Tanah Merah,Tanah Merah,federal
-1959-05-20,GE-01,Kelantan,P.093 Tumpat,Tumpat,federal
+1959-05-20,GE-01,Kelantan,P.015 Tumpat,Tumpat,federal
 1964-04-25,GE-02,Kelantan,P.015 Tumpat,Tumpat,federal
 1969-05-10,GE-03,Kelantan,P.015 Tumpat,Tumpat,federal
 1974-08-24,GE-04,Kelantan,P.016 Tumpat,Tumpat,federal
@@ -716,7 +716,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Kelantan,P.019 Tumpat,Tumpat,federal
 2018-05-09,GE-14,Kelantan,P.019 Tumpat,Tumpat,federal
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,Tumpat,federal
-1959-05-20,GE-01,Kelantan,P.087 Ulu Kelantan,Ulu Kelantan,federal
+1959-05-20,GE-01,Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,federal
 1964-04-25,GE-02,Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,federal
 1969-05-10,GE-03,Kelantan,P.024 Ulu Kelantan,Ulu Kelantan,federal
 1974-08-24,GE-04,Kelantan,P.027 Ulu Kelantan,Ulu Kelantan,federal
@@ -734,7 +734,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Melaka,P.135 Alor Gajah,Alor Gajah,federal
 2018-05-09,GE-14,Melaka,P.135 Alor Gajah,Alor Gajah,federal
 2022-11-19,GE-15,Melaka,P.135 Alor Gajah,Alor Gajah,federal
-1959-05-20,GE-01,Melaka,P.009 Bandar Malacca,Bandar Malacca,federal
+1959-05-20,GE-01,Melaka,P.086 Bandar Malacca,Bandar Malacca,federal
 1964-04-25,GE-02,Melaka,P.086 Bandar Malacca,Bandar Malacca,federal
 1969-05-10,GE-03,Melaka,P.086 Bandar Malacca,Bandar Malacca,federal
 1974-08-24,GE-04,Melaka,P.097 Batu Berendam,Batu Berendam,federal
@@ -775,13 +775,13 @@ date,election,state,seat,area_name,type
 2022-11-19,GE-15,Melaka,P.138 Kota Melaka,Kota Melaka,federal
 1955-07-25,GE-00,Melaka,P.005 Malacca Central,Malacca Central,federal
 1955-07-25,GE-00,Melaka,P.006 Malacca Luar,Malacca Luar,federal
-1959-05-20,GE-01,Melaka,P.012 Malacca Selatan,Malacca Selatan,federal
+1959-05-20,GE-01,Melaka,P.088 Malacca Selatan,Malacca Selatan,federal
 1964-04-25,GE-02,Melaka,P.088 Malacca Selatan,Malacca Selatan,federal
 1969-05-10,GE-03,Melaka,P.088 Malacca Selatan,Malacca Selatan,federal
-1959-05-20,GE-01,Melaka,P.010 Malacca Tengah,Malacca Tengah,federal
+1959-05-20,GE-01,Melaka,P.085 Malacca Tengah,Malacca Tengah,federal
 1964-04-25,GE-02,Melaka,P.085 Malacca Tengah,Malacca Tengah,federal
 1969-05-10,GE-03,Melaka,P.085 Malacca Tengah,Malacca Tengah,federal
-1959-05-20,GE-01,Melaka,P.011 Malacca Utara,Malacca Utara,federal
+1959-05-20,GE-01,Melaka,P.087 Malacca Utara,Malacca Utara,federal
 1964-04-25,GE-02,Melaka,P.087 Malacca Utara,Malacca Utara,federal
 1969-05-10,GE-03,Melaka,P.087 Malacca Utara,Malacca Utara,federal
 2004-03-21,GE-11,Melaka,P.134 Masjid Tanah,Masjid Tanah,federal
@@ -811,7 +811,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Negeri Sembilan,P.126 Jelebu,Jelebu,federal
 2018-05-09,GE-14,Negeri Sembilan,P.126 Jelebu,Jelebu,federal
 2022-11-19,GE-15,Negeri Sembilan,P.126 Jelebu,Jelebu,federal
-1959-05-20,GE-01,Negeri Sembilan,P.047 Jelebu-Jempol,Jelebu-Jempol,federal
+1959-05-20,GE-01,Negeri Sembilan,P.083 Jelebu-Jempol,Jelebu-Jempol,federal
 1969-05-10,GE-03,Negeri Sembilan,P.083 Jelebu-Jempol,Jelebu-Jempol,federal
 1986-08-02,GE-07,Negeri Sembilan,P.104 Jempol,Jempol,federal
 1990-10-20,GE-08,Negeri Sembilan,P.104 Jempol,Jempol,federal
@@ -822,7 +822,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Negeri Sembilan,P.127 Jempol,Jempol,federal
 2018-05-09,GE-14,Negeri Sembilan,P.127 Jempol,Jempol,federal
 2022-11-19,GE-15,Negeri Sembilan,P.127 Jempol,Jempol,federal
-1959-05-20,GE-01,Negeri Sembilan,P.048 Kuala Pilah,Kuala Pilah,federal
+1959-05-20,GE-01,Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,federal
 1964-04-25,GE-02,Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,federal
 1969-05-10,GE-03,Negeri Sembilan,P.079 Kuala Pilah,Kuala Pilah,federal
 1974-08-24,GE-04,Negeri Sembilan,P.092 Kuala Pilah,Kuala Pilah,federal
@@ -842,7 +842,7 @@ date,election,state,seat,area_name,type
 1982-04-22,GE-06,Negeri Sembilan,P.090 Mantin,Mantin,federal
 1955-07-25,GE-00,Negeri Sembilan,P.025 Negri Sembilan Selatan,Negri Sembilan Selatan,federal
 1955-07-25,GE-00,Negeri Sembilan,P.024 Negri Sembilan Utara,Negri Sembilan Utara,federal
-1959-05-20,GE-01,Negeri Sembilan,P.049 Port Dickson,Port Dickson,federal
+1959-05-20,GE-01,Negeri Sembilan,P.082 Port Dickson,Port Dickson,federal
 1964-04-25,GE-02,Negeri Sembilan,P.082 Port Dickson,Port Dickson,federal
 1969-05-10,GE-03,Negeri Sembilan,P.082 Port Dickson,Port Dickson,federal
 1974-08-24,GE-04,Negeri Sembilan,P.093 Telok Kemang,Port Dickson,federal
@@ -872,7 +872,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Negeri Sembilan,P.131 Rembau,Rembau,federal
 2018-05-09,GE-14,Negeri Sembilan,P.131 Rembau,Rembau,federal
 2022-11-19,GE-15,Negeri Sembilan,P.131 Rembau,Rembau,federal
-1959-05-20,GE-01,Negeri Sembilan,P.050 Rembau-Tampin,Rembau-Tampin,federal
+1959-05-20,GE-01,Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,federal
 1964-04-25,GE-02,Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,federal
 1969-05-10,GE-03,Negeri Sembilan,P.081 Rembau-Tampin,Rembau-Tampin,federal
 1955-07-25,GE-00,Negeri Sembilan,P.026 Seremban,Seremban,federal
@@ -888,10 +888,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Negeri Sembilan,P.128 Seremban,Seremban,federal
 2018-05-09,GE-14,Negeri Sembilan,P.128 Seremban,Seremban,federal
 2022-11-19,GE-15,Negeri Sembilan,P.128 Seremban,Seremban,federal
-1959-05-20,GE-01,Negeri Sembilan,P.051 Seremban Barat,Seremban Barat,federal
+1959-05-20,GE-01,Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,federal
 1964-04-25,GE-02,Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,federal
 1969-05-10,GE-03,Negeri Sembilan,P.084 Seremban Barat,Seremban Barat,federal
-1959-05-20,GE-01,Negeri Sembilan,P.052 Seremban Timor,Seremban Timor,federal
+1959-05-20,GE-01,Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,federal
 1964-04-25,GE-02,Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,federal
 1969-05-10,GE-03,Negeri Sembilan,P.080 Seremban Timor,Seremban Timor,federal
 1974-08-24,GE-04,Negeri Sembilan,P.094 Tampin,Tampin,federal
@@ -906,7 +906,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Negeri Sembilan,P.133 Tampin,Tampin,federal
 2018-05-09,GE-14,Negeri Sembilan,P.133 Tampin,Tampin,federal
 2022-11-19,GE-15,Negeri Sembilan,P.133 Tampin,Tampin,federal
-1959-05-20,GE-01,Pahang,P.055 Bentong,Bentong,federal
+1959-05-20,GE-01,Pahang,P.060 Bentong,Bentong,federal
 1964-04-25,GE-02,Pahang,P.060 Bentong,Bentong,federal
 1969-05-10,GE-03,Pahang,P.060 Bentong,Bentong,federal
 1974-08-24,GE-04,Pahang,P.070 Bentong,Bentong,federal
@@ -954,7 +954,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pahang,P.087 Kuala Krau,Kuala Krau,federal
 2018-05-09,GE-14,Pahang,P.087 Kuala Krau,Kuala Krau,federal
 2022-11-19,GE-15,Pahang,P.087 Kuala Krau,Kuala Krau,federal
-1959-05-20,GE-01,Pahang,P.057 Kuantan,Kuantan,federal
+1959-05-20,GE-01,Pahang,P.061 Kuantan,Kuantan,federal
 1964-04-25,GE-02,Pahang,P.061 Kuantan,Kuantan,federal
 1969-05-10,GE-03,Pahang,P.061 Kuantan,Kuantan,federal
 1974-08-24,GE-04,Pahang,P.067 Kuantan,Kuantan,federal
@@ -969,7 +969,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pahang,P.083 Kuantan,Kuantan,federal
 2018-05-09,GE-14,Pahang,P.083 Kuantan,Kuantan,federal
 2022-11-19,GE-15,Pahang,P.083 Kuantan,Kuantan,federal
-1959-05-20,GE-01,Pahang,P.053 Lipis,Lipis,federal
+1959-05-20,GE-01,Pahang,P.064 Lipis,Lipis,federal
 1964-04-25,GE-02,Pahang,P.064 Lipis,Lipis,federal
 1969-05-10,GE-03,Pahang,P.064 Lipis,Lipis,federal
 1974-08-24,GE-04,Pahang,P.065 Lipis,Lipis,federal
@@ -1008,7 +1008,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pahang,P.084 Paya Besar,Paya Besar,federal
 2018-05-09,GE-14,Pahang,P.084 Paya Besar,Paya Besar,federal
 2022-11-19,GE-15,Pahang,P.084 Paya Besar,Paya Besar,federal
-1959-05-20,GE-01,Pahang,P.058 Pekan,Pekan,federal
+1959-05-20,GE-01,Pahang,P.062 Pekan,Pekan,federal
 1964-04-25,GE-02,Pahang,P.062 Pekan,Pekan,federal
 1969-05-10,GE-03,Pahang,P.062 Pekan,Pekan,federal
 1974-08-24,GE-04,Pahang,P.071 Pekan,Pekan,federal
@@ -1023,7 +1023,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pahang,P.085 Pekan,Pekan,federal
 2018-05-09,GE-14,Pahang,P.085 Pekan,Pekan,federal
 2022-11-19,GE-15,Pahang,P.085 Pekan,Pekan,federal
-1959-05-20,GE-01,Pahang,P.054 Raub,Raub,federal
+1959-05-20,GE-01,Pahang,P.059 Raub,Raub,federal
 1964-04-25,GE-02,Pahang,P.059 Raub,Raub,federal
 1969-05-10,GE-03,Pahang,P.059 Raub,Raub,federal
 1974-08-24,GE-04,Pahang,P.068 Raub,Raub,federal
@@ -1049,7 +1049,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Pahang,P.091 Rompin,Rompin,federal
 2022-11-19,GE-15,Pahang,P.091 Rompin,Rompin,federal
 1955-07-25,GE-00,Pahang,P.028 Semantan,Semantan,federal
-1959-05-20,GE-01,Pahang,P.056 Temerloh,Temerloh,federal
+1959-05-20,GE-01,Pahang,P.063 Temerloh,Temerloh,federal
 1964-04-25,GE-02,Pahang,P.063 Temerloh,Temerloh,federal
 1969-05-10,GE-03,Pahang,P.063 Temerloh,Temerloh,federal
 1974-08-24,GE-04,Pahang,P.072 Temerloh,Temerloh,federal
@@ -1065,7 +1065,7 @@ date,election,state,seat,area_name,type
 1995-04-24,GE-09,Pahang,P.084 Temerluh,Temerloh,federal
 1999-11-29,GE-10,Pahang,P.084 Temerluh,Temerloh,federal
 1955-07-25,GE-00,Pahang,P.027 Ulu Pahang,Ulu Pahang,federal
-1959-05-20,GE-01,Perak,P.025 Bagan Datoh,Bagan Datuk,federal
+1959-05-20,GE-01,Perak,P.057 Bagan Datoh,Bagan Datuk,federal
 1964-04-25,GE-02,Perak,P.057 Bagan Datoh,Bagan Datuk,federal
 1969-05-10,GE-03,Perak,P.057 Bagan Datoh,Bagan Datuk,federal
 1974-08-24,GE-04,Perak,P.064 Bagan Datok,Bagan Datuk,federal
@@ -1093,13 +1093,13 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Perak,P.058 Bagan Serai,Bagan Serai,federal
 2022-11-19,GE-15,Perak,P.058 Bagan Serai,Bagan Serai,federal
 1955-07-25,GE-00,Perak,P.008 Batang Padang,Batang Padang,federal
-1959-05-20,GE-01,Perak,P.015 Batang Padang,Batang Padang,federal
+1959-05-20,GE-01,Perak,P.058 Batang Padang,Batang Padang,federal
 1964-04-25,GE-02,Perak,P.058 Batang Padang,Batang Padang,federal
 1969-05-10,GE-03,Perak,P.058 Batang Padang,Batang Padang,federal
 1974-08-24,GE-04,Perak,P.059 Batang Padang,Batang Padang,federal
 1978-07-08,GE-05,Perak,P.059 Batang Padang,Batang Padang,federal
 1982-04-22,GE-06,Perak,P.059 Batang Padang,Batang Padang,federal
-1959-05-20,GE-01,Perak,P.031 Batu Gajah,Batu Gajah,federal
+1959-05-20,GE-01,Perak,P.053 Batu Gajah,Batu Gajah,federal
 1964-04-25,GE-02,Perak,P.053 Batu Gajah,Batu Gajah,federal
 1969-05-10,GE-03,Perak,P.053 Batu Gajah,Batu Gajah,federal
 1974-08-24,GE-04,Perak,P.058 Batu Gajah,Batu Gajah,federal
@@ -1126,7 +1126,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.068 Beruas,Beruas,federal
 2018-05-09,GE-14,Perak,P.068 Beruas,Beruas,federal
 2022-11-19,GE-15,Perak,P.068 Beruas,Beruas,federal
-1959-05-20,GE-01,Perak,P.019 Bruas,Bruas,federal
+1959-05-20,GE-01,Perak,P.048 Bruas,Bruas,federal
 1964-04-25,GE-02,Perak,P.048 Bruas,Bruas,federal
 1969-05-10,GE-03,Perak,P.048 Bruas,Bruas,federal
 1986-08-02,GE-07,Perak,P.053 Bukit Gantang,Bukit Gantang,federal
@@ -1163,13 +1163,13 @@ date,election,state,seat,area_name,type
 1974-08-24,GE-04,Perak,P.044 Gerik,Gerik,federal
 1978-07-08,GE-05,Perak,P.044 Gerik,Gerik,federal
 1982-04-22,GE-06,Perak,P.044 Gerik,Gerik,federal
-1959-05-20,GE-01,Perak,P.024 Hilir Perak,Hilir Perak,federal
+1959-05-20,GE-01,Perak,P.044 Hilir Perak,Hilir Perak,federal
 1964-04-25,GE-02,Perak,P.044 Hilir Perak,Hilir Perak,federal
 1969-05-10,GE-03,Perak,P.044 Hilir Perak,Hilir Perak,federal
 1974-08-24,GE-04,Perak,P.061 Hilir Perak,Hilir Perak,federal
 1978-07-08,GE-05,Perak,P.061 Hilir Perak,Hilir Perak,federal
 1982-04-22,GE-06,Perak,P.061 Hilir Perak,Hilir Perak,federal
-1959-05-20,GE-01,Perak,P.027 Ipoh,Ipoh,federal
+1959-05-20,GE-01,Perak,P.050 Ipoh,Ipoh,federal
 1964-04-25,GE-02,Perak,P.050 Ipoh,Ipoh,federal
 1969-05-10,GE-03,Perak,P.050 Ipoh,Ipoh,federal
 1974-08-24,GE-04,Perak,P.054 Ipoh,Ipoh,federal
@@ -1192,7 +1192,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Perak,P.064 Ipoh Timor,Ipoh Timor,federal
 2022-11-19,GE-15,Perak,P.064 Ipoh Timor,Ipoh Timor,federal
 1955-07-25,GE-00,Perak,P.014 Ipoh and Menglembu,Ipoh and Menglembu,federal
-1959-05-20,GE-01,Perak,P.032 Kampar,Kampar,federal
+1959-05-20,GE-01,Perak,P.054 Kampar,Kampar,federal
 1964-04-25,GE-02,Perak,P.054 Kampar,Kampar,federal
 1969-05-10,GE-03,Perak,P.054 Kampar,Kampar,federal
 1986-08-02,GE-07,Perak,P.065 Kampar,Kampar,federal
@@ -1210,13 +1210,13 @@ date,election,state,seat,area_name,type
 1955-07-25,GE-00,Perak,P.016 Kinta Selatan,Kinta Selatan,federal
 1955-07-25,GE-00,Perak,P.015 Kinta Utara,Kinta Utara,federal
 1955-07-25,GE-00,Perak,P.007 Krian,Krian,federal
-1959-05-20,GE-01,Perak,P.014 Krian Darat,Krian Darat,federal
+1959-05-20,GE-01,Perak,P.042 Krian Darat,Krian Darat,federal
 1964-04-25,GE-02,Perak,P.042 Krian Darat,Krian Darat,federal
 1969-05-10,GE-03,Perak,P.042 Krian Darat,Krian Darat,federal
-1959-05-20,GE-01,Perak,P.013 Krian Laut,Krian Laut,federal
+1959-05-20,GE-01,Perak,P.041 Krian Laut,Krian Laut,federal
 1964-04-25,GE-02,Perak,P.041 Krian Laut,Krian Laut,federal
 1969-05-10,GE-03,Perak,P.041 Krian Laut,Krian Laut,federal
-1959-05-20,GE-01,Perak,P.022 Kuala Kangsar,Kuala Kangsar,federal
+1959-05-20,GE-01,Perak,P.045 Kuala Kangsar,Kuala Kangsar,federal
 1964-04-25,GE-02,Perak,P.045 Kuala Kangsar,Kuala Kangsar,federal
 1969-05-10,GE-03,Perak,P.045 Kuala Kangsar,Kuala Kangsar,federal
 1974-08-24,GE-04,Perak,P.052 Kuala Kangsar,Kuala Kangsar,federal
@@ -1244,10 +1244,10 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.056 Larut,Larut,federal
 2018-05-09,GE-14,Perak,P.056 Larut,Larut,federal
 2022-11-19,GE-15,Perak,P.056 Larut,Larut,federal
-1959-05-20,GE-01,Perak,P.018 Larut Selatan,Larut Selatan,federal
+1959-05-20,GE-01,Perak,P.043 Larut Selatan,Larut Selatan,federal
 1964-04-25,GE-02,Perak,P.043 Larut Selatan,Larut Selatan,federal
 1969-05-10,GE-03,Perak,P.043 Larut Selatan,Larut Selatan,federal
-1959-05-20,GE-01,Perak,P.017 Larut Utara,Larut Utara,federal
+1959-05-20,GE-01,Perak,P.040 Larut Utara,Larut Utara,federal
 1964-04-25,GE-02,Perak,P.040 Larut Utara,Larut Utara,federal
 1969-05-10,GE-03,Perak,P.040 Larut Utara,Larut Utara,federal
 1955-07-25,GE-00,Perak,P.009 Larut and Matang,Larut and Matang,federal
@@ -1271,7 +1271,7 @@ date,election,state,seat,area_name,type
 1974-08-24,GE-04,Perak,P.050 Matang,Matang,federal
 1978-07-08,GE-05,Perak,P.050 Matang,Matang,federal
 1982-04-22,GE-06,Perak,P.050 Matang,Matang,federal
-1959-05-20,GE-01,Perak,P.028 Menglembu,Menglembu,federal
+1959-05-20,GE-01,Perak,P.051 Menglembu,Menglembu,federal
 1964-04-25,GE-02,Perak,P.051 Menglembu,Menglembu,federal
 1969-05-10,GE-03,Perak,P.051 Menglembu,Menglembu,federal
 1974-08-24,GE-04,Perak,P.055 Menglembu,Menglembu,federal
@@ -1285,7 +1285,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.061 Padang Rengas,Padang Rengas,federal
 2018-05-09,GE-14,Perak,P.061 Padang Rengas,Padang Rengas,federal
 2022-11-19,GE-15,Perak,P.061 Padang Rengas,Padang Rengas,federal
-1959-05-20,GE-01,Perak,P.023 Parit,Parit,federal
+1959-05-20,GE-01,Perak,P.047 Parit,Parit,federal
 1964-04-25,GE-02,Perak,P.047 Parit,Parit,federal
 1969-05-10,GE-03,Perak,P.047 Parit,Parit,federal
 1974-08-24,GE-04,Perak,P.057 Parit,Parit,federal
@@ -1323,7 +1323,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.073 Pasir Salak,Pasir Salak,federal
 2018-05-09,GE-14,Perak,P.073 Pasir Salak,Pasir Salak,federal
 2022-11-19,GE-15,Perak,P.073 Pasir Salak,Pasir Salak,federal
-1959-05-20,GE-01,Perak,P.020 Sitiawan,Sitiawan,federal
+1959-05-20,GE-01,Perak,P.049 Sitiawan,Sitiawan,federal
 1964-04-25,GE-02,Perak,P.049 Sitiawan,Sitiawan,federal
 1969-05-10,GE-03,Perak,P.049 Sitiawan,Sitiawan,federal
 1974-08-24,GE-04,Perak,P.048 Sungai Siput,Sungai Siput,federal
@@ -1340,7 +1340,7 @@ date,election,state,seat,area_name,type
 2022-11-19,GE-15,Perak,P.062 Sungai Siput,Sungai Siput,federal
 1955-07-25,GE-00,Perak,P.012 Sungei Perak Hilir,Sungei Perak Hilir,federal
 1955-07-25,GE-00,Perak,P.011 Sungei Perak Ulu,Sungei Perak Ulu,federal
-1959-05-20,GE-01,Perak,P.029 Sungei Siput,Sungai Siput,federal
+1959-05-20,GE-01,Perak,P.046 Sungei Siput,Sungai Siput,federal
 1964-04-25,GE-02,Perak,P.046 Sungei Siput,Sungai Siput,federal
 1969-05-10,GE-03,Perak,P.046 Sungei Siput,Sungai Siput,federal
 1974-08-24,GE-04,Perak,P.049 Taiping,Taiping,federal
@@ -1364,7 +1364,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Perak,P.063 Tambun,Tambun,federal
 2018-05-09,GE-14,Perak,P.063 Tambun,Tambun,federal
 2022-11-19,GE-15,Perak,P.063 Tambun,Tambun,federal
-1959-05-20,GE-01,Perak,P.016 Tanjong Malim,Tanjong Malim,federal
+1959-05-20,GE-01,Perak,P.055 Tanjong Malim,Tanjong Malim,federal
 1964-04-25,GE-02,Perak,P.055 Tanjong Malim,Tanjong Malim,federal
 1969-05-10,GE-03,Perak,P.055 Tanjong Malim,Tanjong Malim,federal
 1974-08-24,GE-04,Perak,P.063 Tanjong Malim,Tanjong Malim,federal
@@ -1391,7 +1391,7 @@ date,election,state,seat,area_name,type
 1986-08-02,GE-07,Perak,P.055 Tasek Chenderoh,Tasek Chenderoh,federal
 1990-10-20,GE-08,Perak,P.055 Tasek Chenderoh,Tasek Chenderoh,federal
 1955-07-25,GE-00,Perak,P.013 Telok Anson,Teluk Intan,federal
-1959-05-20,GE-01,Perak,P.026 Telok Anson,Teluk Intan,federal
+1959-05-20,GE-01,Perak,P.056 Telok Anson,Teluk Intan,federal
 1964-04-25,GE-02,Perak,P.056 Telok Anson,Teluk Intan,federal
 1969-05-10,GE-03,Perak,P.056 Telok Anson,Teluk Intan,federal
 1974-08-24,GE-04,Perak,P.062 Telok Anson,Teluk Intan,federal
@@ -1407,10 +1407,10 @@ date,election,state,seat,area_name,type
 2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,Teluk Intan,federal
 2018-05-09,GE-14,Perak,P.076 Teluk Intan,Teluk Intan,federal
 2022-11-19,GE-15,Perak,P.076 Teluk Intan,Teluk Intan,federal
-1959-05-20,GE-01,Perak,P.030 Ulu Kinta,Ulu Kinta,federal
+1959-05-20,GE-01,Perak,P.052 Ulu Kinta,Ulu Kinta,federal
 1964-04-25,GE-02,Perak,P.052 Ulu Kinta,Ulu Kinta,federal
 1969-05-10,GE-03,Perak,P.052 Ulu Kinta,Ulu Kinta,federal
-1959-05-20,GE-01,Perak,P.021 Ulu Perak,Ulu Perak,federal
+1959-05-20,GE-01,Perak,P.039 Ulu Perak,Ulu Perak,federal
 1964-04-25,GE-02,Perak,P.039 Ulu Perak,Ulu Perak,federal
 1969-05-10,GE-03,Perak,P.039 Ulu Perak,Ulu Perak,federal
 1974-08-24,GE-04,Perlis,P.002 Arau,Arau,federal
@@ -1445,13 +1445,13 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Perlis,P.001 Padang Besar,Padang Besar,federal
 2022-11-19,GE-15,Perlis,P.001 Padang Besar,Padang Besar,federal
 1955-07-25,GE-00,Perlis,P.052 Perlis,Perlis,federal
-1959-05-20,GE-01,Perlis,P.104 Perlis Selatan,Perlis Selatan,federal
+1959-05-20,GE-01,Perlis,P.002 Perlis Selatan,Perlis Selatan,federal
 1964-04-25,GE-02,Perlis,P.002 Perlis Selatan,Perlis Selatan,federal
 1969-05-10,GE-03,Perlis,P.002 Perlis Selatan,Perlis Selatan,federal
 1969-05-10,GE-03,Perlis,P.001 Perlis Utara,Perlis Utara,federal
-1959-05-20,GE-01,Perlis,P.103 Perlis Utara,Perlis Utara,federal
+1959-05-20,GE-01,Perlis,P.001 Perlis Utara,Perlis Utara,federal
 1964-04-25,GE-02,Perlis,P.001 Perlis Utara,Perlis Utara,federal
-1959-05-20,GE-01,Pulau Pinang,P.001 Bagan,Bagan,federal
+1959-05-20,GE-01,Pulau Pinang,P.031 Bagan,Bagan,federal
 1964-04-25,GE-02,Pulau Pinang,P.031 Bagan,Bagan,federal
 1969-05-10,GE-03,Pulau Pinang,P.031 Bagan,Bagan,federal
 1986-08-02,GE-07,Pulau Pinang,P.040 Bagan,Bagan,federal
@@ -1519,7 +1519,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
 2018-05-09,GE-14,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
 2022-11-19,GE-15,Pulau Pinang,P.045 Bukit Mertajam,Bukit Mertajam,federal
-1959-05-20,GE-01,Pulau Pinang,P.006 Dato Kramat,Datok Keramat,federal
+1959-05-20,GE-01,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1964-04-25,GE-02,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1969-05-10,GE-03,Pulau Pinang,P.037 Dato Kramat,Datok Keramat,federal
 1955-07-25,GE-00,Pulau Pinang,P.003 George Town,George Town,federal
@@ -1563,10 +1563,10 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Pulau Pinang,P.047 Nibong Tebal,Nibong Tebal,federal
 2022-11-19,GE-15,Pulau Pinang,P.047 Nibong Tebal,Nibong Tebal,federal
 1955-07-25,GE-00,Pulau Pinang,P.004 Penang Island,Penang Island,federal
-1959-05-20,GE-01,Pulau Pinang,P.008 Penang Selatan,Penang Selatan,federal
+1959-05-20,GE-01,Pulau Pinang,P.035 Penang Selatan,Penang Selatan,federal
 1964-04-25,GE-02,Pulau Pinang,P.035 Penang Selatan,Penang Selatan,federal
 1969-05-10,GE-03,Pulau Pinang,P.035 Penang Selatan,Penang Selatan,federal
-1959-05-20,GE-01,Pulau Pinang,P.007 Penang Utara,Penang Utara,federal
+1959-05-20,GE-01,Pulau Pinang,P.034 Penang Utara,Penang Utara,federal
 1964-04-25,GE-02,Pulau Pinang,P.034 Penang Utara,Penang Utara,federal
 1969-05-10,GE-03,Pulau Pinang,P.034 Penang Utara,Penang Utara,federal
 1974-08-24,GE-04,Pulau Pinang,P.037 Permatang Pauh,Permatang Pauh,federal
@@ -1583,16 +1583,16 @@ date,election,state,seat,area_name,type
 2015-05-07,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,federal
 2018-05-09,GE-14,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,federal
 2022-11-19,GE-15,Pulau Pinang,P.044 Permatang Pauh,Permatang Pauh,federal
-1959-05-20,GE-01,Pulau Pinang,P.004 Seberang Selatan,Seberang Selatan,federal
+1959-05-20,GE-01,Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,federal
 1964-04-25,GE-02,Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,federal
 1969-05-10,GE-03,Pulau Pinang,P.033 Seberang Selatan,Seberang Selatan,federal
-1959-05-20,GE-01,Pulau Pinang,P.003 Seberang Tengah,Seberang Tengah,federal
+1959-05-20,GE-01,Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,federal
 1964-04-25,GE-02,Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,federal
 1969-05-10,GE-03,Pulau Pinang,P.032 Seberang Tengah,Seberang Tengah,federal
-1959-05-20,GE-01,Pulau Pinang,P.002 Seberang Utara,Seberang Utara,federal
+1959-05-20,GE-01,Pulau Pinang,P.038 Seberang Utara,Seberang Utara,federal
 1964-04-25,GE-02,Pulau Pinang,P.038 Seberang Utara,Seberang Utara,federal
 1969-05-10,GE-03,Pulau Pinang,P.038 Seberang Utara,Seberang Utara,federal
-1959-05-20,GE-01,Pulau Pinang,P.005 Tanjong,Tanjong,federal
+1959-05-20,GE-01,Pulau Pinang,P.036 Tanjong,Tanjong,federal
 1964-04-25,GE-02,Pulau Pinang,P.036 Tanjong,Tanjong,federal
 1969-05-10,GE-03,Pulau Pinang,P.036 Tanjong,Tanjong,federal
 1974-08-24,GE-04,Pulau Pinang,P.042 Tanjong,Tanjong,federal
@@ -2258,16 +2258,16 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Selangor,P.102 Serdang,Bangi,federal
 2018-05-09,GE-14,Selangor,P.102 Bangi,Bangi,federal
 2022-11-19,GE-15,Selangor,P.102 Bangi,Bangi,federal
-1959-05-20,GE-01,Selangor,P.033 Batu,Batu,federal
+1959-05-20,GE-01,Selangor,P.066 Batu,Batu,federal
 1964-04-25,GE-02,Selangor,P.066 Batu,Batu,federal
 1969-05-10,GE-03,Selangor,P.066 Batu,Batu,federal
-1959-05-20,GE-01,Selangor,P.035 Bukit Bintang,Bukit Bintang,federal
+1959-05-20,GE-01,Selangor,P.072 Bukit Bintang,Bukit Bintang,federal
 1964-04-25,GE-02,Selangor,P.072 Bukit Bintang,Bukit Bintang,federal
 1969-05-10,GE-03,Selangor,P.072 Bukit Bintang,Bukit Bintang,federal
-1959-05-20,GE-01,Selangor,P.034 Bungsar,Bungsar,federal
+1959-05-20,GE-01,Selangor,P.071 Bungsar,Bungsar,federal
 1964-04-25,GE-02,Selangor,P.071 Bungsar,Bungsar,federal
 1969-05-10,GE-03,Selangor,P.071 Bungsar,Bungsar,federal
-1959-05-20,GE-01,Selangor,P.046 Damansara,Damansara,federal
+1959-05-20,GE-01,Selangor,P.073 Damansara,Damansara,federal
 1964-04-25,GE-02,Selangor,P.073 Damansara,Damansara,federal
 1969-05-10,GE-03,Selangor,P.073 Damansara,Damansara,federal
 2008-03-08,GE-12,Selangor,P.106 Petaling Jaya Utara,Damansara,federal
@@ -2300,7 +2300,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Selangor,P.094 Hulu Selangor,Hulu Selangor,federal
 2018-05-09,GE-14,Selangor,P.094 Hulu Selangor,Hulu Selangor,federal
 2022-11-19,GE-15,Selangor,P.094 Hulu Selangor,Hulu Selangor,federal
-1959-05-20,GE-01,Selangor,P.045 Kapar,Kapar,federal
+1959-05-20,GE-01,Selangor,P.067 Kapar,Kapar,federal
 1964-04-25,GE-02,Selangor,P.067 Kapar,Kapar,federal
 1969-05-10,GE-03,Selangor,P.067 Kapar,Kapar,federal
 1986-08-02,GE-07,Selangor,P.086 Kapar,Kapar,federal
@@ -2313,7 +2313,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Selangor,P.109 Kapar,Kapar,federal
 2022-11-19,GE-15,Selangor,P.109 Kapar,Kapar,federal
 2004-03-21,GE-11,Selangor,P.104 Kelana Jaya,Kelana Jaya,federal
-1959-05-20,GE-01,Selangor,P.043 Klang,Klang,federal
+1959-05-20,GE-01,Selangor,P.074 Klang,Klang,federal
 1964-04-25,GE-02,Selangor,P.074 Klang,Klang,federal
 1969-05-10,GE-03,Selangor,P.074 Klang,Klang,federal
 1986-08-02,GE-07,Selangor,P.093 Klang,Klang,federal
@@ -2330,7 +2330,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Selangor,P.111 Kota Raja,Kota Raja,federal
 2018-05-09,GE-14,Selangor,P.111 Kota Raja,Kota Raja,federal
 2022-11-19,GE-15,Selangor,P.111 Kota Raja,Kota Raja,federal
-1959-05-20,GE-01,Selangor,P.044 Kuala Langat,Kuala Langat,federal
+1959-05-20,GE-01,Selangor,P.075 Kuala Langat,Kuala Langat,federal
 1964-04-25,GE-02,Selangor,P.075 Kuala Langat,Kuala Langat,federal
 1969-05-10,GE-03,Selangor,P.075 Kuala Langat,Kuala Langat,federal
 1974-08-24,GE-04,Selangor,P.082 Kuala Langat,Kuala Langat,federal
@@ -2348,7 +2348,7 @@ date,election,state,seat,area_name,type
 1955-07-25,GE-00,Selangor,P.017 Kuala Lumpur Barat,Kuala Lumpur Barat,federal
 1955-07-25,GE-00,Selangor,P.018 Kuala Lumpur Timor,Kuala Lumpur Timor,federal
 1955-07-25,GE-00,Selangor,P.020 Kuala Selangor,Kuala Selangor,federal
-1959-05-20,GE-01,Selangor,P.040 Kuala Selangor,Kuala Selangor,federal
+1959-05-20,GE-01,Selangor,P.065 Kuala Selangor,Kuala Selangor,federal
 1964-04-25,GE-02,Selangor,P.065 Kuala Selangor,Kuala Selangor,federal
 1969-05-10,GE-03,Selangor,P.065 Kuala Selangor,Kuala Selangor,federal
 1974-08-24,GE-04,Selangor,P.076 Kuala Selangor,Kuala Selangor,federal
@@ -2364,7 +2364,7 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Selangor,P.096 Kuala Selangor,Kuala Selangor,federal
 2022-11-19,GE-15,Selangor,P.096 Kuala Selangor,Kuala Selangor,federal
 1955-07-25,GE-00,Selangor,P.021 Langat,Langat,federal
-1959-05-20,GE-01,Selangor,P.041 Langat,Langat,federal
+1959-05-20,GE-01,Selangor,P.069 Langat,Langat,federal
 1964-04-25,GE-02,Selangor,P.069 Langat,Langat,federal
 1969-05-10,GE-03,Selangor,P.069 Langat,Langat,federal
 1995-04-24,GE-09,Selangor,P.095 PJ Selatan,PJ Selatan,federal
@@ -2397,10 +2397,10 @@ date,election,state,seat,area_name,type
 2022-11-19,GE-15,Selangor,P.103 Puchong,Puchong,federal
 1986-08-02,GE-07,Selangor,P.091 Puchong,Pucung,federal
 1990-10-20,GE-08,Selangor,P.091 Puchong,Pucung,federal
-1959-05-20,GE-01,Selangor,P.038 Rawang,Rawang,federal
+1959-05-20,GE-01,Selangor,P.068 Rawang,Rawang,federal
 1964-04-25,GE-02,Selangor,P.068 Rawang,Rawang,federal
 1969-05-10,GE-03,Selangor,P.068 Rawang,Rawang,federal
-1959-05-20,GE-01,Selangor,P.039 Sabak Bernam,Sabak Bernam,federal
+1959-05-20,GE-01,Selangor,P.077 Sabak Bernam,Sabak Bernam,federal
 1964-04-25,GE-02,Selangor,P.077 Sabak Bernam,Sabak Bernam,federal
 1969-05-10,GE-03,Selangor,P.077 Sabak Bernam,Sabak Bernam,federal
 1974-08-24,GE-04,Selangor,P.073 Sabak Bernam,Sabak Bernam,federal
@@ -2429,7 +2429,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Selangor,P.097 Selayang,Selayang,federal
 2018-05-09,GE-14,Selangor,P.097 Selayang,Selayang,federal
 2022-11-19,GE-15,Selangor,P.097 Selayang,Selayang,federal
-1959-05-20,GE-01,Selangor,P.042 Sepang,Sepang,federal
+1959-05-20,GE-01,Selangor,P.076 Sepang,Sepang,federal
 1964-04-25,GE-02,Selangor,P.076 Sepang,Sepang,federal
 1969-05-10,GE-03,Selangor,P.076 Sepang,Sepang,federal
 1974-08-24,GE-04,Selangor,P.083 Sepang,Sepang,federal
@@ -2447,7 +2447,7 @@ date,election,state,seat,area_name,type
 1995-04-24,GE-09,Selangor,P.096 Serdang,Serdang,federal
 1999-11-29,GE-10,Selangor,P.096 Serdang,Serdang,federal
 2004-03-21,GE-11,Selangor,P.102 Serdang,Serdang,federal
-1959-05-20,GE-01,Selangor,P.036 Setapak,Setapak,federal
+1959-05-20,GE-01,Selangor,P.070 Setapak,Setapak,federal
 1964-04-25,GE-02,Selangor,P.070 Setapak,Setapak,federal
 1969-05-10,GE-03,Selangor,P.070 Setapak,Setapak,federal
 1974-08-24,GE-04,Selangor,P.080 Shah Alam,Shah Alam,federal
@@ -2495,13 +2495,13 @@ date,election,state,seat,area_name,type
 1978-07-08,GE-05,Selangor,P.078 Ulu Langat,Hulu Langat,federal
 1982-04-22,GE-06,Selangor,P.078 Ulu Langat,Hulu Langat,federal
 1955-07-25,GE-00,Selangor,P.019 Ulu Selangor,Hulu Selangor,federal
-1959-05-20,GE-01,Selangor,P.037 Ulu Selangor,Hulu Selangor,federal
+1959-05-20,GE-01,Selangor,P.078 Ulu Selangor,Hulu Selangor,federal
 1964-04-25,GE-02,Selangor,P.078 Ulu Selangor,Hulu Selangor,federal
 1969-05-10,GE-03,Selangor,P.078 Ulu Selangor,Hulu Selangor,federal
 1974-08-24,GE-04,Selangor,P.075 Ulu Selangor,Hulu Selangor,federal
 1978-07-08,GE-05,Selangor,P.075 Ulu Selangor,Hulu Selangor,federal
 1982-04-22,GE-06,Selangor,P.075 Ulu Selangor,Hulu Selangor,federal
-1959-05-20,GE-01,Terengganu,P.097 Besut,Besut,federal
+1959-05-20,GE-01,Terengganu,P.025 Besut,Besut,federal
 1964-04-25,GE-02,Terengganu,P.025 Besut,Besut,federal
 1969-05-10,GE-03,Terengganu,P.025 Besut,Besut,federal
 1974-08-24,GE-04,Terengganu,P.028 Besut,Besut,federal
@@ -2516,7 +2516,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Terengganu,P.033 Besut,Besut,federal
 2018-05-09,GE-14,Terengganu,P.033 Besut,Besut,federal
 2022-11-19,GE-15,Terengganu,P.033 Besut,Besut,federal
-1959-05-20,GE-01,Terengganu,P.101 Dungun,Dungun,federal
+1959-05-20,GE-01,Terengganu,P.028 Dungun,Dungun,federal
 1964-04-25,GE-02,Terengganu,P.028 Dungun,Dungun,federal
 1969-05-10,GE-03,Terengganu,P.028 Dungun,Dungun,federal
 1974-08-24,GE-04,Terengganu,P.033 Dungun,Dungun,federal
@@ -2540,7 +2540,7 @@ date,election,state,seat,area_name,type
 2013-05-05,GE-13,Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,federal
 2018-05-09,GE-14,Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,federal
 2022-11-19,GE-15,Terengganu,P.038 Hulu Terengganu,Hulu Terengganu,federal
-1959-05-20,GE-01,Terengganu,P.102 Kemaman,Kemaman,federal
+1959-05-20,GE-01,Terengganu,P.029 Kemaman,Kemaman,federal
 1964-04-25,GE-02,Terengganu,P.029 Kemaman,Kemaman,federal
 1969-05-10,GE-03,Terengganu,P.029 Kemaman,Kemaman,federal
 1974-08-24,GE-04,Terengganu,P.034 Kemaman,Kemaman,federal
@@ -2582,10 +2582,10 @@ date,election,state,seat,area_name,type
 2018-05-09,GE-14,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,federal
 2022-11-19,GE-15,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,federal
 2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,Kuala Terengganu,federal
-1959-05-20,GE-01,Terengganu,P.099 Kuala Trengganu Selatan,Kuala Trengganu Selatan,federal
+1959-05-20,GE-01,Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,federal
 1964-04-25,GE-02,Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,federal
 1969-05-10,GE-03,Terengganu,P.027 Kuala Trengganu Selatan,Kuala Trengganu Selatan,federal
-1959-05-20,GE-01,Terengganu,P.098 Kuala Trengganu Utara,Kuala Trengganu Utara,federal
+1959-05-20,GE-01,Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,federal
 1964-04-25,GE-02,Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,federal
 1969-05-10,GE-03,Terengganu,P.026 Kuala Trengganu Utara,Kuala Trengganu Utara,federal
 1986-08-02,GE-07,Terengganu,P.034 Marang,Marang,federal
@@ -2609,7 +2609,7 @@ date,election,state,seat,area_name,type
 1955-07-25,GE-00,Terengganu,P.051 Trengganu Selatan,Trengganu Selatan,federal
 1955-07-25,GE-00,Terengganu,P.050 Trengganu Tengah,Trengganu Tengah,federal
 1955-07-25,GE-00,Terengganu,P.049 Trengganu Utara,Trengganu Utara,federal
-1959-05-20,GE-01,Terengganu,P.100 Trengganu Tengah,Trengganu Tengah,federal
+1959-05-20,GE-01,Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,federal
 1964-04-25,GE-02,Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,federal
 1969-05-10,GE-03,Terengganu,P.030 Trengganu Tengah,Trengganu Tengah,federal
 1974-08-24,GE-04,Terengganu,P.029 Ulu Nerus,Ulu Nerus,federal
