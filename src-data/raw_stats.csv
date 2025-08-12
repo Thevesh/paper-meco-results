@@ -43,7 +43,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1955-07-25,GE-00,Kedah,P.042 Sungei Muda,27426,23924,0,459
 1955-07-25,GE-00,Kedah,P.043 Kedah Selatan,25917,22995,0,382
 1955-07-25,GE-00,Kelantan,P.044 Kelantan Selatan,39084,33657,0,1136
-1955-07-25,GE-00,Kelantan,P.045 Kelantan Timor,46221,38799,0,1011
+1955-07-25,GE-00,Kelantan,P.045 Kelantan Timor,46221,39159,0,1011
 1955-07-25,GE-00,Kelantan,P.046 Pasir Mas,34779,29449,0,979
 1955-07-25,GE-00,Kelantan,P.047 Kelantan Utara,42510,36060,0,1337
 1955-07-25,GE-00,Kelantan,P.048 Kelantan Tengah,43149,34270,0,1003
@@ -168,7 +168,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1964-04-25,GE-02,Kedah,P.011 Baling,31820,23215,0,1255
 1964-04-25,GE-02,Kedah,P.012 Sungei Patani,27156,20714,0,527
 1964-04-25,GE-02,Kedah,P.013 Kulim Utara,24125,18233,0,1484
-1964-04-25,GE-02,Kedah,P.014 Kulim-Bandar Bahru,30332,22809,0,887
+1964-04-25,GE-02,Kedah,P.014 Kulim-Bandar Bahru,30332,22810,0,887
 1964-04-25,GE-02,Kelantan,P.015 Tumpat,25887,21235,0,931
 1964-04-25,GE-02,Kelantan,P.016 Kelantan Hilir,25451,20172,0,955
 1964-04-25,GE-02,Kelantan,P.017 Pasir Mas Hilir,24644,19244,0,507
@@ -185,15 +185,15 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1964-04-25,GE-02,Terengganu,P.028 Dungun,21119,15290,0,613
 1964-04-25,GE-02,Terengganu,P.029 Kemaman,22013,16556,0,742
 1964-04-25,GE-02,Terengganu,P.030 Trengganu Tengah,25780,20821,0,882
-1964-04-25,GE-02,Pulau Pinang,P.031 Bagan,22805,17116,0,403
+1964-04-25,GE-02,Pulau Pinang,P.031 Bagan,22805,17746,0,403
 1964-04-25,GE-02,Pulau Pinang,P.032 Seberang Tengah,35780,29304,0,943
 1964-04-25,GE-02,Pulau Pinang,P.033 Seberang Selatan,21198,17909,0,703
 1964-04-25,GE-02,Pulau Pinang,P.034 Penang Utara,39131,32650,0,667
-1964-04-25,GE-02,Pulau Pinang,P.035 Penang Selatan,40291,34260,0,848
+1964-04-25,GE-02,Pulau Pinang,P.035 Penang Selatan,40291,34259,0,848
 1964-04-25,GE-02,Pulau Pinang,P.036 Tanjong,34763,29165,0,672
 1964-04-25,GE-02,Pulau Pinang,P.037 Dato Kramat,31327,26701,0,656
 1964-04-25,GE-02,Pulau Pinang,P.038 Seberang Utara,28160,23814,0,1010
-1964-04-25,GE-02,Perak,P.039 Ulu Perak,23172,19165,0,768
+1964-04-25,GE-02,Perak,P.039 Ulu Perak,23172,19525,0,768
 1964-04-25,GE-02,Perak,P.040 Larut Utara,27041,21306,0,836
 1964-04-25,GE-02,Perak,P.041 Krian Laut,25605,20426,0,583
 1964-04-25,GE-02,Perak,P.042 Krian Darat,24737,19349,0,1246
@@ -228,7 +228,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1964-04-25,GE-02,Selangor,P.071 Bungsar,58261,39453,0,1293
 1964-04-25,GE-02,Selangor,P.072 Bukit Bintang,33636,22100,0,676
 1964-04-25,GE-02,Selangor,P.073 Damansara,30056,21797,0,856
-1964-04-25,GE-02,Selangor,P.074 Klang,30158,22084,0,1029
+1964-04-25,GE-02,Selangor,P.074 Klang,30158,22984,0,1029
 1964-04-25,GE-02,Selangor,P.075 Kuala Langat,21105,16918,0,1035
 1964-04-25,GE-02,Selangor,P.076 Sepang,18581,15499,0,632
 1964-04-25,GE-02,Selangor,P.077 Sabak Bernam,22367,16493,0,1431
@@ -3347,10 +3347,10 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Kedah,N.07 Alor Star Pekan,12367,8607,0,136
 1959-05-20,SE-01,Kedah,N.08 Alor Star Luar,13173,9044,0,238
 1959-05-20,SE-01,Kedah,N.09 Langkawi,14022,10762,0,511
-1959-05-20,SE-01,Kedah,N.10 Kota Star Barat,11924,8624,0,505
+1959-05-20,SE-01,Kedah,N.10 Kota Star Barat,11924,8633,0,505
 1959-05-20,SE-01,Kedah,N.11 Kangkong-Bukit Raya,11057,8493,0,255
 1959-05-20,SE-01,Kedah,N.12 Padang,10012,8235,0,407
-1959-05-20,SE-01,Kedah,N.13 Sik-Gurun,11342,8305,0,526
+1959-05-20,SE-01,Kedah,N.13 Sik-Gurun,11342,8332,0,526
 1959-05-20,SE-01,Kedah,N.14 Kota,11330,9240,0,206
 1959-05-20,SE-01,Kedah,N.15 Sala,13098,9307,0,377
 1959-05-20,SE-01,Kedah,N.16 Yan-Merbok,11722,8955,0,457
@@ -4391,7 +4391,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Melaka,N.06 Kota Selatan,6313,4397,0,43
 1959-05-20,SE-01,Melaka,N.07 Kota Tengah,3688,2822,0,29
 1959-05-20,SE-01,Melaka,N.08 Kota Barat,4238,3104,0,51
-1959-05-20,SE-01,Melaka,N.09 Kota Utara,3775,1122,0,34
+1959-05-20,SE-01,Melaka,N.09 Kota Utara,3775,2622,0,34
 1959-05-20,SE-01,Melaka,N.10 Kota Timor,4323,3175,0,36
 1959-05-20,SE-01,Melaka,N.11 Sungei Bharu,6002,4983,0,62
 1959-05-20,SE-01,Melaka,N.12 Ramuan China,3982,3387,0,50
@@ -4753,7 +4753,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Negeri Sembilan,N.18 Pertang,3217,2714,0,61
 1959-05-20,SE-01,Negeri Sembilan,N.19 Bahau,3751,3157,0,99
 1959-05-20,SE-01,Negeri Sembilan,N.20 Rompin,4555,3414,0,111
-1959-05-20,SE-01,Negeri Sembilan,N.21 Jempol,4377,3272,0,61
+1959-05-20,SE-01,Negeri Sembilan,N.21 Jempol,4377,3452,0,61
 1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,5838,4697,0,215
 1959-05-20,SE-01,Negeri Sembilan,N.23 Labu,4067,3455,0,83
 1959-05-20,SE-01,Negeri Sembilan,N.24 Bukit Nanas,4836,3750,0,52
@@ -6642,7 +6642,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Pulau Pinang,N.02 Bagan Ajam,8144,5665,0,94
 1959-05-20,SE-01,Pulau Pinang,N.03 Permatang Pauh,9865,7445,0,229
 1959-05-20,SE-01,Pulau Pinang,N.04 Bukit Mertajam,9003,6120,0,113
-1959-05-20,SE-01,Pulau Pinang,N.05 Alma,7905,5987,0,128
+1959-05-20,SE-01,Pulau Pinang,N.05 Alma,7905,5977,0,128
 1959-05-20,SE-01,Pulau Pinang,N.06 Sungei Bakap,9091,7029,0,95
 1959-05-20,SE-01,Pulau Pinang,N.07 Nibong Tebal,6829,5313,0,92
 1959-05-20,SE-01,Pulau Pinang,N.08 Kelawai,4471,3132,0,48
@@ -6654,7 +6654,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Pulau Pinang,N.14 Balik Pulau,5740,4391,0,58
 1959-05-20,SE-01,Pulau Pinang,N.15 Bayan Lepas,8017,6399,0,184
 1959-05-20,SE-01,Pulau Pinang,N.16 Kota,8712,6255,0,94
-1959-05-20,SE-01,Pulau Pinang,N.17 Tanjong Tengah,10413,6722,0,116
+1959-05-20,SE-01,Pulau Pinang,N.17 Tanjong Tengah,10413,7802,0,116
 1959-05-20,SE-01,Pulau Pinang,N.18 Tanjong Utara,8953,6552,0,61
 1959-05-20,SE-01,Pulau Pinang,N.19 Tanjong Barat,6687,4990,0,65
 1959-05-20,SE-01,Pulau Pinang,N.20 Sungei Pinang,7668,5405,0,69
@@ -9214,7 +9214,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,SE-01,Terengganu,N.07 Kuala Nerus,4921,3745,0,136
 1959-05-20,SE-01,Terengganu,N.08 Jeram,4853,3649,0,161
 1959-05-20,SE-01,Terengganu,N.09 Langkap,4457,3056,0,217
-1959-05-20,SE-01,Terengganu,N.10 Bandar,4547,3052,0,45
+1959-05-20,SE-01,Terengganu,N.10 Bandar,4547,3051,0,45
 1959-05-20,SE-01,Terengganu,N.11 Ladang,5181,3430,0,56
 1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,4793,3019,0,91
 1959-05-20,SE-01,Terengganu,N.13 Batu Burok,4726,2954,0,103

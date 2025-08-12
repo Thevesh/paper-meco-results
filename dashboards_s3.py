@@ -63,7 +63,16 @@ def make_candidates():
 
 def make_seats():
     """Generate seat data files for API."""
-    data = {"desc_en": "", "desc_ms": "", "voters_total": 0, "data": [], "barmeter": {}, "pyramid": {"ages":[],"male":[],"female":[]}}
+    data = {
+        "desc_en": "",
+        "desc_ms": "",
+        "voters_total": 0,
+        "boundaries": {},
+        "lineage": [],
+        "data": [],
+        "barmeter": {},
+        "pyramid": {"ages":[],"male":[],"female":[]}
+    }
 
     col_api_seat = [
         "election_name",
@@ -183,6 +192,107 @@ def make_seats():
 
         with open(f"api/seats/{slugs[-1]}.json", "w", encoding="utf-8") as f:
             j.dump(data, f)
+
+
+def make_seats_boundaries():
+    """
+    Generate data for the boundaries key in the seat JSONs
+    """
+    # read and form consolidated dataframe with latest year
+    df = pd.read_csv('src-data/scrape/lineage_simple.csv').rename(columns={'year':'tileset'})
+    df['year'] = df.tileset.astype(str)
+    cf = df.copy().drop_duplicates(subset=['state','seat'])
+    cf['tileset'] = cf.state.map({'Sabah':'2019','Sarawak':'2015'}).fillna('2018')
+    cf.year = cf.tileset
+    cf.lineage = cf.seat
+    df = pd.concat([df,cf],axis=0,ignore_index=True)
+    df = df.sort_values(by=['state','seat','year'],ascending=[True,True,False]).reset_index(drop=True)
+
+    df.tileset = 'peninsular_' + df.tileset.astype(str) + '_parlimen'
+    df.loc[df.seat.str.startswith('N'),'tileset'] = df.tileset.str.replace('parlimen','dun')
+    for s in ['Sabah','Sarawak']:
+        df.loc[df.state == s,'tileset'] = df.tileset.str.replace('peninsular',s.lower())
+    df['slug'] = df.seat + ', ' + df.state
+    df['slug'] = df.slug.apply(generate_slug)
+    df = df[['slug','state','seat','year','lineage','tileset']]
+
+    bf = pd.read_csv('src-data/scrape/plot_bounds.csv')
+    df = df.merge(bf, on='slug', how='left')
+    df.zoom = df.zoom.round(2) - 0.5
+
+    files = g('api/seats/*.json')
+    files = sorted([x for x in files if 'dropdown' not in x])
+
+    for f in files:
+        data = j.load(open(f,'r',encoding='utf-8'))
+        slug = f.replace('api/seats/','').replace('.json','')
+        tf = df[df.slug == slug].copy()
+        if len(tf) == 0:
+            print(f'{slug} not found')
+            continue
+
+        boundaries = {
+            "center": [],
+            "zoom": 0,
+            "polygons": {}
+        }
+
+        data['boundaries'] = boundaries
+
+        data['boundaries']['center'] = [float(tf.center_lon.values[0]), float(tf.center_lat.values[0])]
+        data['boundaries']['zoom'] = float(tf.zoom.values[0])
+        for _, row in tf.iterrows():
+            year = row['year']
+            tileset = row['tileset']
+            lineage = row['lineage']
+            # lineage may be a comma-separated list, but in this context, it's a single value
+            # If lineage is a string with multiple values, split and strip
+            if isinstance(lineage, str) and ',' in lineage:
+                lineage_list = [x.strip() for x in lineage.split(',')]
+            else:
+                lineage_list = [lineage]
+            data['boundaries']['polygons'][year] = [tileset, lineage_list]
+
+        j.dump(data, open(f,'w',encoding='utf-8'))
+
+
+def make_seats_lineage():
+    """
+    Generate data for the lineage key in the seat JSONs
+    """
+    df = {
+        'p': pd.read_csv('src-data/scrape/lineage_naive_parlimen.csv'),
+        'n': pd.read_csv('src-data/scrape/lineage_naive_dun.csv')
+    }
+    col_final = {
+        'p': ['year','parlimen','area','overlap_pct','n_duns','duns'],
+        'n': ['year','dun','area','overlap_pct','parlimen']
+    }
+    for t in ['p','n']:
+        df[t]['slug'] = df[t].new + ', ' + df[t].state
+        df[t].slug = df[t].slug.apply(generate_slug)
+
+    files = g('api/seats/*.json')
+    files = sorted([x for x in files if 'dropdown' not in x])
+
+    for f in files:
+        data = j.load(open(f,'r',encoding='utf-8'))
+        slug = f.replace('api/seats/','').replace('.json','')
+
+        tf = df[slug[0]][df[slug[0]].slug == slug][col_final[slug[0]]]
+
+        # insert complete lineage
+        seat_type = col_final[slug[0]][1]
+        for y in tf.year.unique():
+            seats = tf[tf.year == y][seat_type].tolist()
+            data['boundaries']['polygons'][f'{y}'][1] = seats
+
+        tf = tf.to_dict(orient='records')
+        tf = [
+            {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
+        ]  # proper JSON null
+        data['lineage'] = tf
+        j.dump(data, open(f,'w',encoding='utf-8'),indent=4)
 
 
 def make_parties():
@@ -486,6 +596,8 @@ if __name__ == "__main__":
     print(f'\nStart: {START.strftime("%Y-%m-%d %H:%M:%S")}')
     make_candidates()
     make_seats()
+    make_seats_boundaries()
+    make_seats_lineage()
     make_parties()
     make_results()
     make_elections()

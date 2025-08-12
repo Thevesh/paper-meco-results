@@ -25,8 +25,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,13,Vinsen,19229,BEBAS,1,32,0.13230247653698265,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,14,Mejar Hj. Anuar Bin Abdul Hamid,7447,BEBAS,1,528,2.182990862860214,lost_deposit
 2009-04-07,BY-ELECTION,Kedah,N.25 Bukit Selambau,15,T Chandrarajan,19231,BEBAS,1,73,0.3018150245999917,lost_deposit
-2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,1,Jawah Anak Gerang,3176,PKR,11,2053,34.446308724832214,lost
-2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,2,Malcom Mussen Lamoh,19234,BN,25,3907,65.55369127516778,won
+2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,1,Jawah Anak Gerang,2463,PKR,11,2053,34.446308724832214,lost
+2009-04-07,BY-ELECTION,Sarawak,N.29 Batang Air,2,Malcom Mussen Lamoh,16808,BN,25,3907,65.55369127516778,won
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,1,Ismail Saffian,4079,BN,25,19071,46.52257702534579,lost
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,2,Ir. Hj. Mohammad Nizar Jamaluddin,3328,PAS,3,21860,53.32617764008489,won
 2009-04-07,BY-ELECTION,Perak,P.059 Bukit Gantang,3,Kamarul Ramizu,19233,BEBAS,1,62,0.15124533456931671,lost_deposit
@@ -46,7 +46,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2010-05-16,BY-ELECTION,Sarawak,P.212 Sibu,2,Narawi Bin Haron,2830,BEBAS,1,232,0.6182709732437907,lost_deposit
 2010-05-16,BY-ELECTION,Sarawak,P.212 Sibu,3,Wong Ho Leng,2143,DAP,18,18845,50.22119177060015,won
 2010-11-04,BY-ELECTION,Kelantan,N.45 Galas,1,Ab Aziz Bin Yusoff,8456,BN,25,5324,56.29097060689363,won
-2010-11-04,BY-ELECTION,Kelantan,N.45 Galas,2,Dr. Zul,19241,PAS,3,4134,43.70902939310636,lost
+2010-11-04,BY-ELECTION,Kelantan,N.45 Galas,2,Dr. Zul,3654,PAS,3,4134,43.70902939310636,lost
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,1,Haji Ansari Bin Abdullah,2050,PKR,11,3414,22.433959784465767,lost
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,2,Yong Teck Lee,3118,SAPP,66,2031,13.346037587067947,lost
 2010-11-04,BY-ELECTION,Sabah,P.185 Batu Sapi,3,Tsen Thau Lin,4280,BN,25,9773,64.22000262846629,won
@@ -64,7 +64,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2014-03-23,BY-ELECTION,Selangor,N.25 Kajang,2,Wan Azizah Wan Ismail,2927,PKR,11,16741,59.570152652741704,won
 2014-03-29,BY-ELECTION,Sarawak,N.51 Balingian,1,Yussibnosh Balo,16990,BN,25,8194,86.46196053603461,won
 2014-03-29,BY-ELECTION,Sarawak,N.51 Balingian,2,Abdul Jalil Bin Bujang,4764,PKR,11,1283,13.53803946396539,lost
-2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,1,Huan Cheng Guan,4056,PCM,67,3583,7.8147833104320705,lost_deposit
+2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,1,Huan Cheng Guan,3293,PCM,67,3583,7.8147833104320705,lost_deposit
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,2,Mohamed Nabi,19248,BEBAS,1,799,1.7426770485724878,lost_deposit
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,3,Ramkarpal Singh,4442,DAP,18,41242,89.95179829440119,won
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,4,Abu Backer Sidek,19249,BEBAS,1,225,0.49074134659425506,lost_deposit
@@ -161,8 +161,8 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2023-08-12,BY-ELECTION,Terengganu,P.036 Kuala Terengganu,2,Azan Ismail,3737,PH,73,21103,23.586149856938484,lost
 2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,1,Dr. Mazri Yahya,4657,PN,12,10330,42.18909536450888,lost
 2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,2,Ir. Ts. Haji Nazri,19306,PH,73,13844,56.540739228098836,won
-2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,3,Jeghanaathan,19307,BEBAS,1,311,1.270165407392281,lost_deposit
-2023-09-09,BY-ELECTION,Johor,P.161 Pulai,1,Samsudin PKPKL,19308,BEBAS,1,528,0.6730144162747123,lost_deposit
+2023-09-09,BY-ELECTION,Johor,N.13 Simpang Jeram,3,Jeghanaathan,6425,BEBAS,1,311,1.270165407392281,lost_deposit
+2023-09-09,BY-ELECTION,Johor,P.161 Pulai,1,Samsudin PKPKL,5287,BEBAS,1,528,0.6730144162747123,lost_deposit
 2023-09-09,BY-ELECTION,Johor,P.161 Pulai,2,Zulkifli Jaafar,19309,PN,12,29642,37.7831313015436,lost
 2023-09-09,BY-ELECTION,Johor,P.161 Pulai,3,Suhaizan Kayat,3474,PH,73,48283,61.543854282181684,won
 2023-10-07,BY-ELECTION,Pahang,N.36 Pelangai,1,Cikgu Kasim,11062,PN,12,4375,37.24672228843862,lost
@@ -170,7 +170,7 @@ date,election,state,seat,ballot_order,name,candidate_uid,party,party_uid,votes,v
 2023-10-07,BY-ELECTION,Pahang,N.36 Pelangai,3,Dato' Amizar Bin Abu Adam,11055,BN,25,7324,62.35314149497702,won
 2023-11-04,BY-ELECTION,Sarawak,N.67 Jepak,1,Chieng Lea Phing,4768,ASPIRASI,90,431,3.945802435228417,lost_deposit
 2023-11-04,BY-ELECTION,Sarawak,N.67 Jepak,2,Iskandar Turkee,19312,GPS,88,9638,88.23583264670877,won
-2023-11-04,BY-ELECTION,Sarawak,N.67 Jepak,3,Stevenson Joseph Sumbang,19313,PBK,76,854,7.818364918062803,lost_deposit
+2023-11-04,BY-ELECTION,Sarawak,N.67 Jepak,3,Stevenson Joseph Sumbang,17227,PBK,76,854,7.818364918062803,lost_deposit
 2023-12-02,BY-ELECTION,Terengganu,P.040 Kemaman,1,Jeneral (B) Tan Sri Raja Mohamed Affandi,19314,BN,25,27778,29.940932999913773,lost
 2023-12-02,BY-ELECTION,Terengganu,P.040 Kemaman,2,Dr. Sam,19134,PAS,3,64998,70.05906700008623,won
 2024-05-11,BY-ELECTION,Selangor,N.06 Kuala Kubu Baharu,1,Khairul Azhari,19316,PN,12,10131,41.40002451881819,lost
