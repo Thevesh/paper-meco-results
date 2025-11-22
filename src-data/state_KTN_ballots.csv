@@ -1,0 +1,1383 @@
+date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ballot,party_uid,party,coalition_uid,coalition,votes,votes_perc,rank,result
+1959-05-20,SE-01,Kelantan,N.01 Tumpat Barat,1,7609,Tuan Guru Haji Daud,PAS,4,PAS,0,ALONE,4208,78.33209233060313,1,won
+1959-05-20,SE-01,Kelantan,N.01 Tumpat Barat,2,7610,Othman Bin Mohd. Uddin,PERIKATAN,1,UMNO,1,PERIKATAN,1017,18.93149664929263,2,lost
+1959-05-20,SE-01,Kelantan,N.01 Tumpat Barat,3,7611,Ibrahim Tunggal,BEBAS,0,BEBAS,0,ALONE,147,2.7364110201042444,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.02 Tumpat Tengah,1,7612,Mustapha Awang,PAS,4,PAS,0,ALONE,2253,39.101006594932315,1,won
+1959-05-20,SE-01,Kelantan,N.02 Tumpat Tengah,2,7613,Foo Chow Yong,PERIKATAN,3,MCA,1,PERIKATAN,2200,38.18118708781673,2,lost
+1959-05-20,SE-01,Kelantan,N.02 Tumpat Tengah,3,7614,Yahya Bin Abdullah,NEG,7,NEG,0,ALONE,968,16.79972231863936,3,lost
+1959-05-20,SE-01,Kelantan,N.02 Tumpat Tengah,4,7615,C. W. Sook,SF,5,LPM,2,SF,341,5.918083998611593,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.03 Tumpat Timor,1,7616,Che Ishak Mustapha,PAS,4,PAS,0,ALONE,3469,55.744817612084205,1,won
+1959-05-20,SE-01,Kelantan,N.03 Tumpat Timor,2,7617,Haji Wan Idris,PERIKATAN,1,UMNO,1,PERIKATAN,2754,44.255182387915795,2,lost
+1959-05-20,SE-01,Kelantan,N.04 Kuala Kelantan,1,7618,Haji Abdul Karim Bin Haji Abdul Malek,NEG,7,NEG,0,ALONE,1072,20.391858474415063,3,lost
+1959-05-20,SE-01,Kelantan,N.04 Kuala Kelantan,2,7619,Nik Hassan Bin Nik Hussain,PERIKATAN,1,UMNO,1,PERIKATAN,1405,26.72626973559064,2,lost
+1959-05-20,SE-01,Kelantan,N.04 Kuala Kelantan,3,7620,Wan Yusoff Bin Wan Ya'Acob,PAS,4,PAS,0,ALONE,2780,52.88187178999429,1,won
+1959-05-20,SE-01,Kelantan,N.05 Kota Bharu Utara,1,7621,Haji Wan Dollah,SF,10,PR,2,SF,169,2.8556944913822235,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.05 Kota Bharu Utara,2,7622,Abdullah Ahmad,PAS,4,PAS,0,ALONE,3426,57.89117945251774,1,won
+1959-05-20,SE-01,Kelantan,N.05 Kota Bharu Utara,3,7623,Halimah Binti Idris,PERIKATAN,1,UMNO,1,PERIKATAN,1061,17.928354173707334,3,lost
+1959-05-20,SE-01,Kelantan,N.05 Kota Bharu Utara,4,7624,Yusoff Bashah,NEG,7,NEG,0,ALONE,1262,21.324771882392703,2,lost
+1959-05-20,SE-01,Kelantan,N.06 Kota Bharu Pantai,1,1825,Nik Abdullah Haji Arshad,PAS,4,PAS,0,ALONE,4437,70.57420073166853,1,won
+1959-05-20,SE-01,Kelantan,N.06 Kota Bharu Pantai,2,7626,Abu Bakar Mohd. Al-Ahmadi,PERIKATAN,1,UMNO,1,PERIKATAN,1222,19.436933354541118,2,lost
+1959-05-20,SE-01,Kelantan,N.06 Kota Bharu Pantai,3,19395,Mohamed Bin Haji Abdullah,NEG,7,NEG,0,ALONE,421,6.696357563225703,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.06 Kota Bharu Pantai,4,7627,Che Wil,SF,10,PR,2,SF,207,3.2925083505646575,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.07 Meranti,1,345,Nik Man,PAS,4,PAS,0,ALONE,4989,93.61981610058172,1,won
+1959-05-20,SE-01,Kelantan,N.07 Meranti,2,7598,Yusof Bin Mat Akib,PERIKATAN,1,UMNO,1,PERIKATAN,340,6.380183899418277,2,lost_deposit
+1959-05-20,SE-01,Kelantan,N.08 Tendong,1,7592,Mat Noor Yusoff,SF,10,PR,2,SF,251,4.283276450511946,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.08 Tendong,2,7593,Tuan Guru Haji Che Hassan,PAS,4,PAS,0,ALONE,4075,69.53924914675767,1,won
+1959-05-20,SE-01,Kelantan,N.08 Tendong,3,7594,Imam Abdullah Tempoyak,BEBAS,0,BEBAS,0,ALONE,238,4.061433447098977,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.08 Tendong,4,7595,Che Gu Haji Harun,BEBAS,0,BEBAS,0,ALONE,222,3.78839590443686,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.08 Tendong,5,7596,Mohd. Zain Bin Harun,PERIKATAN,1,UMNO,1,PERIKATAN,1074,18.327645051194537,2,lost
+1959-05-20,SE-01,Kelantan,N.09 Bandar Pasir Mas,1,616,Che Hassan Bin Haji Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,1715,31.427524280740332,2,lost
+1959-05-20,SE-01,Kelantan,N.09 Bandar Pasir Mas,2,7600,Datok Lankamin,NEG,7,NEG,0,ALONE,85,1.557632398753894,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.09 Bandar Pasir Mas,3,7667,Che Gu Omar,PAS,4,PAS,0,ALONE,3657,67.01484332050576,1,won
+1959-05-20,SE-01,Kelantan,N.10 Bandar Hilir,1,120,N. Mohamed Bin Ab. Rahman,SF,10,PR,2,SF,369,7.021883920076117,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.10 Bandar Hilir,2,7629,Haji Nik Mohd. Adeeb,PAS,4,PAS,0,ALONE,1745,33.206470028544246,2,lost
+1959-05-20,SE-01,Kelantan,N.10 Bandar Hilir,3,7630,N. Mahmood Bin Hj. Ab. Majid,BEBAS,0,BEBAS,0,ALONE,15,0.285442435775452,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.10 Bandar Hilir,4,7631,Che Mohamed Bin Awang,NEG,7,NEG,0,ALONE,99,1.8839200761179828,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.10 Bandar Hilir,5,7632,Wee Khoon Hock,PERIKATAN,3,MCA,1,PERIKATAN,3027,57.6022835394862,1,won
+1959-05-20,SE-01,Kelantan,N.11 Bandar Hulu,1,7670,Muda Bin Haji Yusoff,PAS,4,PAS,0,ALONE,3249,58.890701468189235,1,won
+1959-05-20,SE-01,Kelantan,N.11 Bandar Hulu,2,7634,Abdul Hamid Bin Hj. Ya'Acob,PERIKATAN,1,UMNO,1,PERIKATAN,1977,35.83469276780859,2,lost
+1959-05-20,SE-01,Kelantan,N.11 Bandar Hulu,3,121,Idris Bin Haji Mohamed,BEBAS,0,BEBAS,0,ALONE,87,1.5769439912996193,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.11 Bandar Hulu,4,7635,Hasnah Binti Ja'Afar,NEG,7,NEG,0,ALONE,204,3.6976617727025554,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.12 Kota Bharu Tengah,1,7636,Salleh Bin Daud,NEG,7,NEG,0,ALONE,401,6.593225912528773,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.12 Kota Bharu Tengah,2,112,Mohd. Asri Bin Haji Muda,PAS,4,PAS,0,ALONE,4357,71.63761920420914,1,won
+1959-05-20,SE-01,Kelantan,N.12 Kota Bharu Tengah,3,7637,Hassan Bin Haji Ya'Acob,PERIKATAN,1,UMNO,1,PERIKATAN,1206,19.829003617231177,2,lost
+1959-05-20,SE-01,Kelantan,N.12 Kota Bharu Tengah,4,7638,Mohd. Noor Bin Omar,SF,10,PR,2,SF,118,1.9401512660309108,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.13 Bachok Utara,1,7580,Shafei Bin Ahmad,PAS,4,PAS,0,ALONE,5557,78.61083604470222,1,won
+1959-05-20,SE-01,Kelantan,N.13 Bachok Utara,2,7581,Jaafar Bin Mohamad,PERIKATAN,1,UMNO,1,PERIKATAN,1290,18.24869146979771,2,lost
+1959-05-20,SE-01,Kelantan,N.13 Bachok Utara,3,7582,Haji Nik Mohd. Salleh Bin Haji Wan Musa,NEG,7,NEG,0,ALONE,222,3.1404724855000703,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.14 Bachok Tengah,1,7583,Nik Mat Haji Hassan,SF,10,PR,2,SF,162,2.6461940542306435,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.14 Bachok Tengah,2,7584,Mohd. Amin Bin Haji Yaakub,PAS,4,PAS,0,ALONE,4533,74.04442992486115,1,won
+1959-05-20,SE-01,Kelantan,N.14 Bachok Tengah,3,7585,Mohamed Yusoff Bin Yahya,NEG,7,NEG,0,ALONE,405,6.615485135576608,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.14 Bachok Tengah,4,7586,Cha Wel,PERIKATAN,1,UMNO,1,PERIKATAN,1022,16.69389088533159,2,lost
+1959-05-20,SE-01,Kelantan,N.15 Bachok Selatan,1,7587,Haji Othman Bin Haji Ismail,PAS,4,PAS,0,ALONE,4498,75.87719298245614,1,won
+1959-05-20,SE-01,Kelantan,N.15 Bachok Selatan,2,7588,Ismail Bin Haji Ahmad,PERIKATAN,1,UMNO,1,PERIKATAN,1220,20.58029689608637,2,lost
+1959-05-20,SE-01,Kelantan,N.15 Bachok Selatan,3,7589,Nik Ab. Majid Bin Nik Ab. Rahman,SF,10,PR,2,SF,105,1.771255060728745,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.15 Bachok Selatan,4,7590,Othman Adam,BEBAS,0,BEBAS,0,ALONE,65,1.0964912280701753,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.15 Bachok Selatan,5,115,Haji Mokhtar Bin Haji Ahmad,NEG,7,NEG,0,ALONE,40,0.6747638326585695,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.16 Kota Bharu Timor,1,7639,Ismail Bin Daud,NEG,7,NEG,0,ALONE,229,3.3357611070648217,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.16 Kota Bharu Timor,2,7676,Saiufi Idris,PAS,4,PAS,0,ALONE,5103,74.33357611070647,1,won
+1959-05-20,SE-01,Kelantan,N.16 Kota Bharu Timor,3,7641,Tuan Man Bin Tuan Salleh,SF,10,PR,2,SF,134,1.9519300801165331,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.16 Kota Bharu Timor,4,1192,Che Gu Mat Bin H. Ali,PERIKATAN,1,UMNO,1,PERIKATAN,1399,20.378732702112163,2,lost
+1959-05-20,SE-01,Kelantan,N.17 Kota Bharu Barat,1,7643,Haji Zaid,PERIKATAN,1,UMNO,1,PERIKATAN,920,12.879742405151898,2,lost
+1959-05-20,SE-01,Kelantan,N.17 Kota Bharu Barat,2,7644,H. Osman Bin Saman,NEG,7,NEG,0,ALONE,439,6.145877082458351,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.17 Kota Bharu Barat,3,7645,Ustaz Wan Ismail,SF,10,PR,2,SF,358,5.01189976200476,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.17 Kota Bharu Barat,4,7646,Ab. Rahman Bin Awang Sulong,PAS,4,PAS,0,ALONE,5426,75.962480750385,1,won
+1959-05-20,SE-01,Kelantan,N.18 Kota Bharu Selatan,1,110,Nik Hassan Bin Nik Yahya,PERIKATAN,1,UMNO,1,PERIKATAN,1334,19.53147877013177,2,lost
+1959-05-20,SE-01,Kelantan,N.18 Kota Bharu Selatan,2,7648,Haji Ab. Majid Bin H. Ibrahim,BEBAS,0,BEBAS,0,ALONE,100,1.4641288433382138,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.18 Kota Bharu Selatan,3,7649,Che Gu Deraman,NEG,7,NEG,0,ALONE,49,0.7174231332357247,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.18 Kota Bharu Selatan,4,7650,Che Gu Noor,SF,10,PR,2,SF,306,4.480234260614934,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.18 Kota Bharu Selatan,5,7651,Haji Ishak Lotfi,PAS,4,PAS,0,ALONE,5041,73.80673499267935,1,won
+1959-05-20,SE-01,Kelantan,N.19 Rantau Panjang,1,7606,Gelap Pak Well,NEG,7,NEG,0,ALONE,66,1.7241379310344827,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.19 Rantau Panjang,2,7607,Abdul Rahman Hj. Daud,PAS,4,PAS,0,ALONE,2521,65.85684430512016,1,won
+1959-05-20,SE-01,Kelantan,N.19 Rantau Panjang,3,7608,Nik Yusoff Bin Nik Lodin,PERIKATAN,1,UMNO,1,PERIKATAN,1241,32.419017763845346,2,lost
+1959-05-20,SE-01,Kelantan,N.20 Lemal,1,7684,Tuan Guru Haji Haron,PAS,4,PAS,0,ALONE,3367,74.9221183800623,1,won
+1959-05-20,SE-01,Kelantan,N.20 Lemal,2,7603,Omar Bin Haji Ahmad,PERIKATAN,1,UMNO,1,PERIKATAN,1070,23.809523809523807,2,lost
+1959-05-20,SE-01,Kelantan,N.20 Lemal,3,7604,Mat S. O.,SF,10,PR,2,SF,57,1.268357810413885,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.21 Tok Uban,1,7686,Ustaz Abdullah,PAS,4,PAS,0,ALONE,4389,78.76884422110552,1,won
+1959-05-20,SE-01,Kelantan,N.21 Tok Uban,2,348,Ya'Acob Bin Awang,PERIKATAN,1,UMNO,1,PERIKATAN,1183,21.231155778894472,2,lost
+1959-05-20,SE-01,Kelantan,N.22 Pasir Puteh Utara,1,7570,Tengku Mohamed Bin Sultan Mohamed Iv,PAS,4,PAS,0,ALONE,4666,72.09517923362175,1,won
+1959-05-20,SE-01,Kelantan,N.22 Pasir Puteh Utara,2,7571,Mohamed Bin Che Moh,SF,10,PR,2,SF,106,1.6378244746600743,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.22 Pasir Puteh Utara,3,7572,Hassan Bin Yaacob,NEG,7,NEG,0,ALONE,426,6.582200247218789,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.22 Pasir Puteh Utara,4,7573,Wan Isma' Binti Hj. Ab. Kadir,PERIKATAN,1,UMNO,1,PERIKATAN,1274,19.684796044499382,2,lost
+1959-05-20,SE-01,Kelantan,N.23 Pasir Puteh Tengah,1,7574,Abdullah Bin Haji Mohamed,SF,10,PR,2,SF,218,3.4014666874707444,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.23 Pasir Puteh Tengah,2,625,Wan Sulaiman Bin H. Ibrahim,PAS,4,PAS,0,ALONE,3365,52.50429084100484,1,won
+1959-05-20,SE-01,Kelantan,N.23 Pasir Puteh Tengah,3,7576,Haji Abdul Rahman Bin Haji Yusoff,PERIKATAN,1,UMNO,1,PERIKATAN,2826,44.09424247152442,2,lost
+1959-05-20,SE-01,Kelantan,N.24 Pasir Puteh Tenggara,1,7577,Ghazali Bin  Yusof,PERIKATAN,1,UMNO,1,PERIKATAN,2207,30.320098914686085,2,lost
+1959-05-20,SE-01,Kelantan,N.24 Pasir Puteh Tenggara,2,7578,Haji Alias Bin Ismail Alias Alias Bin Awang,SF,10,PR,2,SF,204,2.8025827723588406,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.24 Pasir Puteh Tenggara,3,7579,Ab. Rahman Bin Mohd. Salleh,PAS,4,PAS,0,ALONE,4868,66.87731831295508,1,won
+1959-05-20,SE-01,Kelantan,N.25 Machang Utara,1,7558,Haji Mohamed Bin Nasir,PAS,4,PAS,0,ALONE,4466,56.3248833396393,1,won
+1959-05-20,SE-01,Kelantan,N.25 Machang Utara,2,7559,Ibrahim Bin Mohamed,PERIKATAN,1,UMNO,1,PERIKATAN,2834,35.742212132677516,2,lost
+1959-05-20,SE-01,Kelantan,N.25 Machang Utara,3,7560,Mohamed Taib Bin Haji Ibrahim,NEG,7,NEG,0,ALONE,629,7.9329045276831875,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.26 Tanah Merah Timor,1,7561,Othman Bin Ahmad,PERIKATAN,1,UMNO,1,PERIKATAN,2094,32.54079254079254,2,lost
+1959-05-20,SE-01,Kelantan,N.26 Tanah Merah Timor,2,7562,Che Mamat Bin Ali,SF,10,PR,2,SF,177,2.7505827505827507,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.26 Tanah Merah Timor,3,7563,Mohd. (Mat) Daud Bin A. Jamil,PAS,4,PAS,0,ALONE,3184,49.47940947940948,1,won
+1959-05-20,SE-01,Kelantan,N.26 Tanah Merah Timor,4,7564,Haji Wan Yusoff Bin Wan Ali,NEG,7,NEG,0,ALONE,980,15.229215229215228,3,lost
+1959-05-20,SE-01,Kelantan,N.27 Tanah Merah Barat,1,7565,Yusoff Bin Ab. Latiff,PAS,4,PAS,0,ALONE,3345,57.36580346424284,1,won
+1959-05-20,SE-01,Kelantan,N.27 Tanah Merah Barat,2,7566,Wan Ja'Afar Bin Haji Mahmood,NEG,7,NEG,0,ALONE,712,12.210598525124336,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.27 Tanah Merah Barat,3,7567,Hussin Bin Yunus,BEBAS,0,BEBAS,0,ALONE,865,14.834505230663694,2,lost
+1959-05-20,SE-01,Kelantan,N.27 Tanah Merah Barat,4,7568,Abdul Ghani Bin Mohamed,PERIKATAN,1,UMNO,1,PERIKATAN,765,13.119533527696792,3,lost
+1959-05-20,SE-01,Kelantan,N.27 Tanah Merah Barat,5,7569,Said Bin Awang,SF,10,PR,2,SF,144,2.4695592522723375,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.28 Machang Selatan,1,109,Haji Mohamed Noor Bin Haji,PAS,4,PAS,0,ALONE,4434,57.99869195552648,1,won
+1959-05-20,SE-01,Kelantan,N.28 Machang Selatan,2,7555,Mohd. Salleh Bin H. Hussin,PERIKATAN,1,UMNO,1,PERIKATAN,2655,34.72858077174624,2,lost
+1959-05-20,SE-01,Kelantan,N.28 Machang Selatan,3,7556,Mohd. Ghazali Bin Haji Noh,NEG,7,NEG,0,ALONE,315,4.120340091563113,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.28 Machang Selatan,4,7557,Ismail Bin Omar,SF,10,PR,2,SF,241,3.1523871811641597,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.29 Ulu Kelantan Timor,1,7550,Mohd. Ali Bin Abdullah,PERIKATAN,1,UMNO,1,PERIKATAN,3051,51.346348030966006,1,won
+1959-05-20,SE-01,Kelantan,N.29 Ulu Kelantan Timor,2,7551,John William Lind,SF,5,LPM,2,SF,305,5.132951868057893,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.29 Ulu Kelantan Timor,3,7552,Hj. Nik Jafaar Bin Nik Soh,BEBAS,0,BEBAS,0,ALONE,608,10.232245035341636,3,lost_deposit
+1959-05-20,SE-01,Kelantan,N.29 Ulu Kelantan Timor,4,912,Wan Ismail Bin Wan Ahmad,PAS,4,PAS,0,ALONE,1978,33.288455065634466,2,lost
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,1,7545,Tuan H. Mohd. Yusoff Bangs,BEBAS,0,BEBAS,0,ALONE,853,21.578547938274728,3,lost
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,2,7546,Wong Yeow Wye,PERIKATAN,3,MCA,1,PERIKATAN,1126,28.484695168226665,2,lost
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,3,7547,Wan Yaacob Bin Wan Ahmad,NEG,7,NEG,0,ALONE,347,8.77814318239312,4,lost_deposit
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,4,419,Hussein Bin Sulaiman,SF,10,PR,2,SF,99,2.5044270174550975,5,lost_deposit
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,5,7548,Mohd. Bin Latiff,BEBAS,0,BEBAS,0,ALONE,56,1.4166455856311662,6,lost_deposit
+1959-05-20,SE-01,Kelantan,N.30 Ulu Kelantan Barat,6,628,Khaidir Khatib,PAS,4,PAS,0,ALONE,1472,37.23754110801923,1,won
+1964-04-25,SE-02,Kelantan,N.01 Tumpat Barat,1,7609,Haji Daud Bin Yusof,PAS,4,PAS,0,ALONE,4084,66.67755102040816,1,won
+1964-04-25,SE-02,Kelantan,N.01 Tumpat Barat,2,7653,Mohamed Bin Musa,PERIKATAN,1,UMNO,1,PERIKATAN,2041,33.32244897959183,2,lost
+1964-04-25,SE-02,Kelantan,N.02 Tumpat Tengah,1,7654,Mahmood Bin Mat Amin,PERIKATAN,1,UMNO,1,PERIKATAN,4217,58.85554780181438,1,won
+1964-04-25,SE-02,Kelantan,N.02 Tumpat Tengah,2,7655,Abdul Rahman Bin Haji Harun,PAS,4,PAS,0,ALONE,2948,41.144452198185625,2,lost
+1964-04-25,SE-02,Kelantan,N.03 Tumpat Timor,1,7656,Omar Bin Awang Kechik,PERIKATAN,1,UMNO,1,PERIKATAN,3786,54.71889001300766,1,won
+1964-04-25,SE-02,Kelantan,N.03 Tumpat Timor,2,7616,Ishak Bin Mustapha,PAS,4,PAS,0,ALONE,3133,45.28110998699234,2,lost
+1964-04-25,SE-02,Kelantan,N.04 Kuala Kelantan,1,7620,Wan Yusoff Bin Wan Ya'Akub,PAS,4,PAS,0,ALONE,3071,55.84651754864522,1,won
+1964-04-25,SE-02,Kelantan,N.04 Kuala Kelantan,2,7659,Abdul Majid Bin Abu Bakar,PERIKATAN,1,UMNO,1,PERIKATAN,2428,44.15348245135479,2,lost
+1964-04-25,SE-02,Kelantan,N.05 Kota Bharu Utara,1,7660,Yusoff Bin Othman,PERIKATAN,1,UMNO,1,PERIKATAN,1893,27.363399826539464,2,lost
+1964-04-25,SE-02,Kelantan,N.05 Kota Bharu Utara,2,7622,Abdullah Bin Ahmad,PAS,4,PAS,0,ALONE,5025,72.63660017346054,1,won
+1964-04-25,SE-02,Kelantan,N.06 Kota Bharu Pantai,1,1825,Nik Abdullah Bin Haji Arshad,PAS,4,PAS,0,ALONE,4631,68.55662472242783,1,won
+1964-04-25,SE-02,Kelantan,N.06 Kota Bharu Pantai,2,7663,Nik Hassan Bin Ibrahim,PERIKATAN,1,UMNO,1,PERIKATAN,2124,31.443375277572166,2,lost
+1964-04-25,SE-02,Kelantan,N.07 Meranti,1,345,Nik Man Bin Nik Mohamed,PAS,4,PAS,0,ALONE,5198,92.32682060390763,1,won
+1964-04-25,SE-02,Kelantan,N.07 Meranti,2,7664,Wan Mohamad Zain Bin Haji Wan Sulaiman,PERIKATAN,1,UMNO,1,PERIKATAN,432,7.673179396092363,2,lost_deposit
+1964-04-25,SE-02,Kelantan,N.08 Tendong,1,7593,Haji Che' Hassan Bin Haji Ismail,PAS,4,PAS,0,ALONE,4416,66.29635189911424,1,won
+1964-04-25,SE-02,Kelantan,N.08 Tendong,2,7666,Ja'Afar Bin Idris @ Ja'Afar Bin Derpah,PERIKATAN,1,UMNO,1,PERIKATAN,2245,33.70364810088575,2,lost
+1964-04-25,SE-02,Kelantan,N.09 Bandar Pasir Mas,1,7667,Haji Omar Bin Awang,PAS,4,PAS,0,ALONE,3776,59.33375235700817,1,won
+1964-04-25,SE-02,Kelantan,N.09 Bandar Pasir Mas,2,7668,Abdullah Bin Che' Him,PERIKATAN,1,UMNO,1,PERIKATAN,2588,40.666247642991834,2,lost
+1964-04-25,SE-02,Kelantan,N.10 Bandar Hilir,1,7613,Foo Chow Yong,PERIKATAN,3,MCA,1,PERIKATAN,4657,67.78748180494905,1,won
+1964-04-25,SE-02,Kelantan,N.10 Bandar Hilir,2,7669,T. Jaffar Bin T. Ahmad,PAS,4,PAS,0,ALONE,2213,32.21251819505095,2,lost
+1964-04-25,SE-02,Kelantan,N.11 Bandar Hulu,1,7670,Haji Che Muda Bin Haji Yusooff,PAS,4,PAS,0,ALONE,4096,49.61841308298001,2,lost
+1964-04-25,SE-02,Kelantan,N.11 Bandar Hulu,2,7671,Ibrahim Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,4159,50.38158691701998,1,won
+1964-04-25,SE-02,Kelantan,N.12 Kota Bharu Tengah,1,112,Mohd. Asri Bin Haji Muda,PAS,4,PAS,0,ALONE,4724,65.50194120909595,1,won
+1964-04-25,SE-02,Kelantan,N.12 Kota Bharu Tengah,2,7559,Haji Ibrahim Bin Mohamed,PERIKATAN,1,UMNO,1,PERIKATAN,2488,34.498058790904054,2,lost
+1964-04-25,SE-02,Kelantan,N.13 Bachok Utara,1,7673,Ismail Bin Yahya,PERIKATAN,1,UMNO,1,PERIKATAN,2811,38.26572284236319,2,lost
+1964-04-25,SE-02,Kelantan,N.13 Bachok Utara,2,7580,Shafei Bin Ahmad,PAS,4,PAS,0,ALONE,4535,61.73427715763681,1,won
+1964-04-25,SE-02,Kelantan,N.14 Bachok Tengah,1,7674,Che Yusoff Bin Salleh,PERIKATAN,1,UMNO,1,PERIKATAN,2459,36.33811142308261,2,lost
+1964-04-25,SE-02,Kelantan,N.14 Bachok Tengah,2,7584,Mohd. Amin Bin Haji Yaakub,PAS,4,PAS,0,ALONE,4308,63.66188857691739,1,won
+1964-04-25,SE-02,Kelantan,N.15 Bachok Selatan,1,619,Mohd. Zain Bin Abdullah,PERIKATAN,1,UMNO,1,PERIKATAN,2905,43.58589647411853,2,lost
+1964-04-25,SE-02,Kelantan,N.15 Bachok Selatan,2,7587,Haji Othman Bin Haji Ismail,PAS,4,PAS,0,ALONE,3760,56.414103525881465,1,won
+1964-04-25,SE-02,Kelantan,N.16 Kota Bharu Timor,1,7675,Wan Azizi @ Wan Aziz Bin Haji Wan Omar,PERIKATAN,1,UMNO,1,PERIKATAN,2859,37.60852407261247,2,lost
+1964-04-25,SE-02,Kelantan,N.16 Kota Bharu Timor,2,7676,Saufi Bin Idris,PAS,4,PAS,0,ALONE,4743,62.39147592738753,1,won
+1964-04-25,SE-02,Kelantan,N.17 Kota Bharu Barat,1,7677,Ahmad Bin Yusoff,PERIKATAN,1,UMNO,1,PERIKATAN,1713,22.84,2,lost
+1964-04-25,SE-02,Kelantan,N.17 Kota Bharu Barat,2,7646,Ab. Rahman Bin Ag. Sulong,PAS,4,PAS,0,ALONE,5787,77.16,1,won
+1964-04-25,SE-02,Kelantan,N.18 Kota Bharu Selatan,1,7679,Meor Abdullah Bin Meor Ahmad,PERIKATAN,1,UMNO,1,PERIKATAN,3405,40.72479368496592,2,lost
+1964-04-25,SE-02,Kelantan,N.18 Kota Bharu Selatan,2,7651,Haji Ishak Lotfi Bin Omar,PAS,4,PAS,0,ALONE,4956,59.27520631503409,1,won
+1964-04-25,SE-02,Kelantan,N.19 Rantau Panjang,1,7681,Ahmad Bin Yatim,PAS,4,PAS,0,ALONE,2857,61.920242739488515,1,won
+1964-04-25,SE-02,Kelantan,N.19 Rantau Panjang,2,7682,Wan Mahmood Bin Wan Konok,PERIKATAN,1,UMNO,1,PERIKATAN,1757,38.079757260511485,2,lost
+1964-04-25,SE-02,Kelantan,N.20 Lemal,1,7683,Mohd. Zain Bin Haji Awang,PERIKATAN,1,UMNO,1,PERIKATAN,1626,33.05549908517991,2,lost
+1964-04-25,SE-02,Kelantan,N.20 Lemal,2,7684,Hj. Haron Bin Hj. Sulong,PAS,4,PAS,0,ALONE,3293,66.94450091482008,1,won
+1964-04-25,SE-02,Kelantan,N.21 Tok Uban,1,7685,Hamzah Bin Haji Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,2008,35.327234342012666,2,lost
+1964-04-25,SE-02,Kelantan,N.21 Tok Uban,2,7686,Abdullah Bin Haji Yusoff,PAS,4,PAS,0,ALONE,3676,64.67276565798733,1,won
+1964-04-25,SE-02,Kelantan,N.22 Pasir Puteh Utara,1,7687,Wan Muhammad Bin Wan Abu Bakar,PERIKATAN,1,UMNO,1,PERIKATAN,2912,41.68336673346693,2,lost
+1964-04-25,SE-02,Kelantan,N.22 Pasir Puteh Utara,2,7688,Abdul Kadir Bin Mat Saad,PAS,4,PAS,0,ALONE,4074,58.31663326653307,1,won
+1964-04-25,SE-02,Kelantan,N.23 Pasir Puteh Tengah,1,7689,Haji Mohammad Bin Hj. Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,3959,53.083936712255294,1,won
+1964-04-25,SE-02,Kelantan,N.23 Pasir Puteh Tengah,2,625,Wan Sulaiman Bin Haji Ibrahim,PAS,4,PAS,0,ALONE,3499,46.916063287744706,2,lost
+1964-04-25,SE-02,Kelantan,N.24 Pasir Puteh Tenggara,1,7690,Raja Mahmud Bin Raja Mamat,PERIKATAN,1,UMNO,1,PERIKATAN,3501,46.114330874604846,2,lost
+1964-04-25,SE-02,Kelantan,N.24 Pasir Puteh Tenggara,2,7579,Ab. Rahman Bin Mohd. Salleh,PAS,4,PAS,0,ALONE,4091,53.885669125395154,1,won
+1964-04-25,SE-02,Kelantan,N.25 Machang Utara,1,7691,Mohyiddin Bin Che' Tengah @ Che' Kadir Bin Alhaji Che' Tengah,PERIKATAN,1,UMNO,1,PERIKATAN,4283,50.78856871813115,1,won
+1964-04-25,SE-02,Kelantan,N.25 Machang Utara,2,7558,Haji Mohamed Bin Nasir,PAS,4,PAS,0,ALONE,4150,49.21143128186885,2,lost
+1964-04-25,SE-02,Kelantan,N.26 Tanah Merah Timor,1,7692,Che' Omar Bin Muhamad @ Mamat,PAS,4,PAS,0,ALONE,4418,52.30878522377457,1,won
+1964-04-25,SE-02,Kelantan,N.26 Tanah Merah Timor,2,7693,Ismail Bin Abd. Samad,PERIKATAN,1,UMNO,1,PERIKATAN,4028,47.69121477622543,2,lost
+1964-04-25,SE-02,Kelantan,N.27 Tanah Merah Barat,1,7694,Mohd. Zin Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,3273,46.56423388817755,2,lost
+1964-04-25,SE-02,Kelantan,N.27 Tanah Merah Barat,2,7695,Che Yusoff Bin Abdul Latiff,PAS,4,PAS,0,ALONE,3756,53.435766111822446,1,won
+1964-04-25,SE-02,Kelantan,N.28 Machang Selatan,1,7696,Yaacob Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,4587,50.58447287163652,1,won
+1964-04-25,SE-02,Kelantan,N.28 Machang Selatan,2,109,Haji Mohd. Noor Bin Haji Yusoff,PAS,4,PAS,0,ALONE,4481,49.41552712836347,2,lost
+1964-04-25,SE-02,Kelantan,N.29 Ulu Kelantan Timor,1,7698,Yusoff Bin Haji Mohamed Salleh,PERIKATAN,1,UMNO,1,PERIKATAN,5253,64.20975430876422,1,won
+1964-04-25,SE-02,Kelantan,N.29 Ulu Kelantan Timor,2,912,Haji Wan Ismail Bin Wan Ahamad,PAS,4,PAS,0,ALONE,2928,35.79024569123579,2,lost
+1964-04-25,SE-02,Kelantan,N.30 Ulu Kelantan Barat,1,628,Khaidir Bin Khatib,PAS,4,PAS,0,ALONE,1871,38.553472079126315,2,lost
+1964-04-25,SE-02,Kelantan,N.30 Ulu Kelantan Barat,2,7639,Ismail Bin Daud,PERIKATAN,1,UMNO,1,PERIKATAN,2982,61.446527920873685,1,won
+1969-05-10,SE-03,Kelantan,N.01 Tumpat Barat,1,7700,Wan Salleh Bin Haji W. Sulaiman @ Wan Abdullah Bin Haji W. Sulaiman,PAS,4,PAS,0,ALONE,3805,56.09612265959015,1,won
+1969-05-10,SE-03,Kelantan,N.01 Tumpat Barat,2,7701,Che Abdul Rahman Bin Che Omar @ Che Derahaman Bin Che Omar,PERIKATAN,1,UMNO,1,PERIKATAN,2978,43.90387734040985,2,lost
+1969-05-10,SE-03,Kelantan,N.02 Tumpat Tengah,1,7702,Che Lat Bin Kassim,PERIKATAN,1,UMNO,1,PERIKATAN,5114,65.52210121716848,1,won
+1969-05-10,SE-03,Kelantan,N.02 Tumpat Tengah,2,7703,Awang Bin Samat,PAS,4,PAS,0,ALONE,2691,34.47789878283152,2,lost
+1969-05-10,SE-03,Kelantan,N.03 Tumpat Timor,1,7656,Omar Bin Awang Kechik,PERIKATAN,1,UMNO,1,PERIKATAN,4660,56.94732983013565,1,won
+1969-05-10,SE-03,Kelantan,N.03 Tumpat Timor,2,7616,Ishak Bin Mustapha,PAS,4,PAS,0,ALONE,3523,43.052670169864356,2,lost
+1969-05-10,SE-03,Kelantan,N.04 Kuala Kelantan,1,7818,Wan Mamat Bin Wan Yusof,PAS,4,PAS,0,ALONE,3108,50.08863819500403,1,won
+1969-05-10,SE-03,Kelantan,N.04 Kuala Kelantan,2,897,Tengku Noor Asiah Binti Tengku Ahmed,PERIKATAN,1,UMNO,1,PERIKATAN,3097,49.91136180499597,2,lost
+1969-05-10,SE-03,Kelantan,N.05 Kota Bharu Utara,1,7622,Abdullah Bin Ahmad,PAS,4,PAS,0,ALONE,5441,66.84275184275185,1,won
+1969-05-10,SE-03,Kelantan,N.05 Kota Bharu Utara,2,7705,Tengku Abdul Kadir Bin Tengku Chik,PERIKATAN,1,UMNO,1,PERIKATAN,2699,33.15724815724816,2,lost
+1969-05-10,SE-03,Kelantan,N.06 Kota Bharu Pantai,1,1825,Abdullah Bin Haji Arshad,PAS,4,PAS,0,ALONE,4893,63.34800621439669,1,won
+1969-05-10,SE-03,Kelantan,N.06 Kota Bharu Pantai,2,7706,Haji Mohamed Bin Idris,PERIKATAN,1,UMNO,1,PERIKATAN,2831,36.65199378560332,2,lost
+1969-05-10,SE-03,Kelantan,N.07 Meranti,1,345,Nik Man Bin Nik Mohamed,PAS,4,PAS,0,ALONE,4556,83.78080176535491,1,won
+1969-05-10,SE-03,Kelantan,N.07 Meranti,2,7707,Mohd. Jantan Bin Mohd. Amin,PERIKATAN,1,UMNO,1,PERIKATAN,882,16.21919823464509,2,lost
+1969-05-10,SE-03,Kelantan,N.08 Tendong,1,7558,Haji Mohamed Bin Nasir,PAS,4,PAS,0,ALONE,3878,55.305191100969765,1,won
+1969-05-10,SE-03,Kelantan,N.08 Tendong,2,7708,Haji Mohamad Nor Bin Haji Abdullah,PERIKATAN,1,UMNO,1,PERIKATAN,3134,44.694808899030235,2,lost
+1969-05-10,SE-03,Kelantan,N.09 Bandar Pasir Mas,1,7667,Haji Omar Bin Awang,PAS,4,PAS,0,ALONE,3841,53.406562847608456,1,won
+1969-05-10,SE-03,Kelantan,N.09 Bandar Pasir Mas,2,7686,Abdullah Bin Haji Yusoff,PERIKATAN,1,UMNO,1,PERIKATAN,3351,46.593437152391544,2,lost
+1969-05-10,SE-03,Kelantan,N.10 Bandar Hilir,1,7613,Foo Chow Yong A/L Foo Hong Sang,PERIKATAN,3,MCA,1,PERIKATAN,4641,64.44938203027357,1,won
+1969-05-10,SE-03,Kelantan,N.10 Bandar Hilir,2,7710,Nik Mat Bin Nik Din,PAS,4,PAS,0,ALONE,2490,34.57853075961672,2,lost
+1969-05-10,SE-03,Kelantan,N.10 Bandar Hilir,3,7711,Zakaria Bin Yusof,BEBAS,0,BEBAS,0,ALONE,70,0.972087210109707,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.11 Bandar Hulu,1,7572,Hassan Bin Yaacob,PAS,4,PAS,0,ALONE,5043,51.05801356687253,1,won
+1969-05-10,SE-03,Kelantan,N.11 Bandar Hulu,2,7671,Ibrahim Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,4834,48.94198643312747,2,lost
+1969-05-10,SE-03,Kelantan,N.12 Kota Bharu Tengah,1,112,Mohd. Asri Bin Haji Muda,PAS,4,PAS,0,ALONE,4917,58.85098743267505,1,won
+1969-05-10,SE-03,Kelantan,N.12 Kota Bharu Tengah,2,7712,Haji Md. Nor Bin Haji Daud,PERIKATAN,1,UMNO,1,PERIKATAN,3308,39.59305804907241,2,lost
+1969-05-10,SE-03,Kelantan,N.12 Kota Bharu Tengah,3,352,Dato' Wan Mustapha Bin Haji Ali,BEBAS,0,BEBAS,0,ALONE,130,1.5559545182525434,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.13 Bachok Utara,1,7714,Mohd. Nor Bin Yusoff,PAS,4,PAS,0,ALONE,4660,54.085422469823584,1,won
+1969-05-10,SE-03,Kelantan,N.13 Bachok Utara,2,7715,Ismail Bin Haji Mamat,PERIKATAN,1,UMNO,1,PERIKATAN,3956,45.914577530176416,2,lost
+1969-05-10,SE-03,Kelantan,N.14 Bachok Tengah,1,7584,Mohd. Amin Bin Haji Yaakub,PAS,4,PAS,0,ALONE,4205,56.73232595790609,1,won
+1969-05-10,SE-03,Kelantan,N.14 Bachok Tengah,2,7716,Haji Mohd. Amin Bin Haji Othman,PERIKATAN,1,UMNO,1,PERIKATAN,3207,43.2676740420939,2,lost
+1969-05-10,SE-03,Kelantan,N.15 Bachok Selatan,1,7717,Mohd. Bin Haji Yacob,PAS,4,PAS,0,ALONE,3669,49.661613427179205,1,won
+1969-05-10,SE-03,Kelantan,N.15 Bachok Selatan,2,619,Mohd. Zain Bin Abdullah,PERIKATAN,1,UMNO,1,PERIKATAN,3584,48.51109907958852,2,lost
+1969-05-10,SE-03,Kelantan,N.15 Bachok Selatan,3,7718,Datin Zainun Binti Ismail,BEBAS,0,BEBAS,0,ALONE,135,1.8272874932322685,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.16 Kota Bharu Timor,1,618,Wan Hashim Bin Haji Wan Ahmad,PAS,4,PAS,0,ALONE,4573,56.73697270471464,1,won
+1969-05-10,SE-03,Kelantan,N.16 Kota Bharu Timor,2,7676,Saufi Bin Idris,PERIKATAN,1,UMNO,1,PERIKATAN,3487,43.26302729528536,2,lost
+1969-05-10,SE-03,Kelantan,N.17 Kota Bharu Barat,1,7646,Ab. Rahman Bin Awang Sulong,PAS,4,PAS,0,ALONE,5294,67.2766552293811,1,won
+1969-05-10,SE-03,Kelantan,N.17 Kota Bharu Barat,2,7719,Abdul Aziz Bin Haji Hamzah,PERIKATAN,1,UMNO,1,PERIKATAN,2575,32.72334477061889,2,lost
+1969-05-10,SE-03,Kelantan,N.18 Kota Bharu Selatan,1,7651,Haji Ishak Lotfi Bin Omar,PAS,4,PAS,0,ALONE,4912,55.26552655265527,1,won
+1969-05-10,SE-03,Kelantan,N.18 Kota Bharu Selatan,2,7720,Hajah Wan Aminah Binti Mohd. Botok,PERIKATAN,1,UMNO,1,PERIKATAN,3976,44.73447344734473,2,lost
+1969-05-10,SE-03,Kelantan,N.19 Rantau Panjang,1,1496,Husein Bin Ahmad,PERIKATAN,1,UMNO,1,PERIKATAN,2914,58.17528448792174,1,won
+1969-05-10,SE-03,Kelantan,N.19 Rantau Panjang,2,7721,Mohd. Nawawi Bin Ahmad,PAS,4,PAS,0,ALONE,2095,41.82471551207826,2,lost
+1969-05-10,SE-03,Kelantan,N.20 Lemal,1,7684,Haji Haron Bin Haji Sulong,PAS,4,PAS,0,ALONE,3378,62.916744272676475,1,won
+1969-05-10,SE-03,Kelantan,N.20 Lemal,2,7683,Mohd. Zain Bin Haji Awang,PERIKATAN,1,UMNO,1,PERIKATAN,1991,37.083255727323525,2,lost
+1969-05-10,SE-03,Kelantan,N.21 Tok Uban,1,403,Wan Hassan Bin Wan Daud,PAS,4,PAS,0,ALONE,3579,57.59575152880593,1,won
+1969-05-10,SE-03,Kelantan,N.21 Tok Uban,2,7723,Mat Yusof Bin Muhamad,PERIKATAN,1,UMNO,1,PERIKATAN,2635,42.40424847119408,2,lost
+1969-05-10,SE-03,Kelantan,N.22 Pasir Puteh Utara,1,7688,Abdul Kadir Bin Mat Sa'Ad,PAS,4,PAS,0,ALONE,4310,53.37461300309597,1,won
+1969-05-10,SE-03,Kelantan,N.22 Pasir Puteh Utara,2,7725,Zakaria Bin Haji Taib,PERIKATAN,1,UMNO,1,PERIKATAN,3614,44.755417956656345,2,lost
+1969-05-10,SE-03,Kelantan,N.22 Pasir Puteh Utara,3,7726,Mohd. Bin Hussain,BEBAS,0,BEBAS,0,ALONE,151,1.8699690402476778,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.23 Pasir Puteh Tengah,1,7689,Haji Mohammad Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,4272,49.576418707206685,1,won
+1969-05-10,SE-03,Kelantan,N.23 Pasir Puteh Tengah,2,625,Wan Sulaiman Bin Haji Ibrahim,PAS,4,PAS,0,ALONE,4257,49.40234420331902,2,lost
+1969-05-10,SE-03,Kelantan,N.23 Pasir Puteh Tengah,3,7728,Jaafar Bin Haji Mohd. Zin @ Mohamad,BEBAS,0,BEBAS,0,ALONE,88,1.021237089474295,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.24 Pasir Puteh Tenggara,1,7729,Mohamed Bin Idris,PERIKATAN,1,UMNO,1,PERIKATAN,4417,49.875790424570916,1,won
+1969-05-10,SE-03,Kelantan,N.24 Pasir Puteh Tenggara,2,7579,Ab. Rahman Bin Mohd. Zalleh,PAS,4,PAS,0,ALONE,4320,48.78048780487805,2,lost
+1969-05-10,SE-03,Kelantan,N.24 Pasir Puteh Tenggara,3,7731,Nasir Bin Awang,BEBAS,0,BEBAS,0,ALONE,119,1.343721770551039,3,lost_deposit
+1969-05-10,SE-03,Kelantan,N.25 Machang Utara,1,7691,Mohyiddin @ Che Kadir Bin Alhaj Che Tengah,PERIKATAN,1,UMNO,1,PERIKATAN,4890,52.467811158798284,1,won
+1969-05-10,SE-03,Kelantan,N.25 Machang Utara,2,7733,Wan Abdullah Bin Wan Ahmad,PAS,4,PAS,0,ALONE,4430,47.532188841201716,2,lost
+1969-05-10,SE-03,Kelantan,N.26 Tanah Merah Timor,1,7692,Che Omar Bin Muhamad @ Mamat,PAS,4,PAS,0,ALONE,5040,50.339592489013185,1,won
+1969-05-10,SE-03,Kelantan,N.26 Tanah Merah Timor,2,7735,Tuan Kechik Bin Tuan Salleh,PERIKATAN,1,UMNO,1,PERIKATAN,4972,49.660407510986815,2,lost
+1969-05-10,SE-03,Kelantan,N.27 Tanah Merah Barat,1,7736,Haji Nik Abdullah Bin Haji Nik Daud,PERIKATAN,1,UMNO,1,PERIKATAN,4479,51.54200230149597,1,won
+1969-05-10,SE-03,Kelantan,N.27 Tanah Merah Barat,2,7737,Haji Zainal Abidin Bin Haji Yacob,PAS,4,PAS,0,ALONE,4211,48.45799769850403,2,lost
+1969-05-10,SE-03,Kelantan,N.28 Machang Selatan,1,7696,Ya'Acob Bin Ismail,PERIKATAN,1,UMNO,1,PERIKATAN,5092,51.54367850997065,1,won
+1969-05-10,SE-03,Kelantan,N.28 Machang Selatan,2,109,Haji Mohd. Noor Bin Haji Yusoff,PAS,4,PAS,0,ALONE,4787,48.45632149002935,2,lost
+1969-05-10,SE-03,Kelantan,N.29 Ulu Kelantan Timor,1,7698,Yusoff Bin Haji Mohamed Salleh,PERIKATAN,1,UMNO,1,PERIKATAN,6366,56.019007391763466,1,won
+1969-05-10,SE-03,Kelantan,N.29 Ulu Kelantan Timor,2,338,Amaluddin Bin Darus,PAS,4,PAS,0,ALONE,4998,43.980992608236534,2,lost
+1969-05-10,SE-03,Kelantan,N.30 Ulu Kelantan Barat,1,913,Tengku Razaleigh Bin Tengku Mohd. Hamzah,PERIKATAN,1,UMNO,1,PERIKATAN,4061,63.572323105823415,1,won
+1969-05-10,SE-03,Kelantan,N.30 Ulu Kelantan Barat,2,7740,Hussin Bin Abdullah,PAS,4,PAS,0,ALONE,2327,36.42767689417658,2,lost
+1974-08-24,SE-04,Kelantan,N.01 Simpangan,1,7740,Hussin Bin Abdullah,BN,4,PAS,3,BN,4521,67.12694877505568,1,won
+1974-08-24,SE-04,Kelantan,N.01 Simpangan,2,7741,Tahir Bin Abdul Aziz,BEBAS,0,BEBAS,0,ALONE,2214,32.87305122494432,2,lost
+1974-08-24,SE-04,Kelantan,N.02 Sungei Pinang,1,7702,Che Lat Bin Kassim,BN,1,UMNO,3,BN,5873,74.93939007273191,1,won
+1974-08-24,SE-04,Kelantan,N.02 Sungei Pinang,2,898,Hassan Ishak,BEBAS,0,BEBAS,0,ALONE,1964,25.060609927268086,2,lost
+1974-08-24,SE-04,Kelantan,N.03 Wakaf Bharu,1,7656,Omar Bin Awang Kechik,BN,1,UMNO,3,BN,5761,69.55209465169625,1,won
+1974-08-24,SE-04,Kelantan,N.03 Wakaf Bharu,2,7617,Haji Wan Idris,BEBAS,0,BEBAS,0,ALONE,2522,30.447905348303756,2,lost
+1974-08-24,SE-04,Kelantan,N.04 Semut Api,1,7818,Wan Mat,BN,4,PAS,3,BN,3663,62.000677048070415,1,won
+1974-08-24,SE-04,Kelantan,N.04 Semut Api,2,7743,Nik Mohd. Ziz,PSRM,24,PSRM,0,ALONE,1232,20.85308056872038,2,lost
+1974-08-24,SE-04,Kelantan,N.04 Semut Api,3,7744,Chikgu Ibrahim Bin Abdullah,BEBAS,0,BEBAS,0,ALONE,1013,17.14624238320921,3,lost
+1974-08-24,SE-04,Kelantan,N.05 Kemumin,1,7745,Ustaz Lah Bin Baung,BN,4,PAS,3,BN,3672,67.08074534161491,1,won
+1974-08-24,SE-04,Kelantan,N.05 Kemumin,2,900,Umar Bin Ibrahim,BEBAS,0,BEBAS,0,ALONE,1552,28.352210449397152,2,lost
+1974-08-24,SE-04,Kelantan,N.05 Kemumin,3,7746,Abdullah Bin Jaafar,PSRM,24,PSRM,0,ALONE,250,4.567044208987943,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.06 Sering,1,1825,Pak Nik Lah,BN,4,PAS,3,BN,4818,79.20433996383363,1,won
+1974-08-24,SE-04,Kelantan,N.06 Sering,2,7747,Che Hasan,BEBAS,0,BEBAS,0,ALONE,1265,20.795660036166367,2,lost
+1974-08-24,SE-04,Kelantan,N.07 Tendong,1,7558,Datuk Haji Mohamad Nasir,BN,4,PAS,3,BN,5708,81.54285714285714,1,won
+1974-08-24,SE-04,Kelantan,N.07 Tendong,2,7749,Abdul Aziz Abdullah,BEBAS,0,BEBAS,0,ALONE,658,9.4,2,lost_deposit
+1974-08-24,SE-04,Kelantan,N.07 Tendong,3,7750,Yusoff Bin Ismail,PSRM,24,PSRM,0,ALONE,634,9.057142857142857,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.08 Meranti,1,345,Datuk Nikman,BN,4,PAS,3,BN,4448,77.16863289382373,1,won
+1974-08-24,SE-04,Kelantan,N.08 Meranti,2,8322,Hanifa Bin Ahmad,BEBAS,0,BEBAS,0,ALONE,1316,22.831367106176266,2,lost
+1974-08-24,SE-04,Kelantan,N.09 Bandar Pasir Mas,1,7753,Hashim Bin Haji Omar,BN,4,PAS,3,BN,4498,70.92399873856827,1,won
+1974-08-24,SE-04,Kelantan,N.09 Bandar Pasir Mas,2,7754,Tengku Iskandar Bin Tengku Ahmad,BEBAS,0,BEBAS,0,ALONE,1844,29.076001261431728,2,lost
+1974-08-24,SE-04,Kelantan,N.10 Sungei Keladi,1,7613,Foo Chow Yong,BN,3,MCA,3,BN,6452,74.53789279112755,1,won
+1974-08-24,SE-04,Kelantan,N.10 Sungei Keladi,2,7755,Abdul Majid Bin Ahmad,BEBAS,0,BEBAS,0,ALONE,2204,25.46210720887246,2,lost
+1974-08-24,SE-04,Kelantan,N.11 Telipok,1,7572,Hassan Bin Yaacob @ Che Hassan Bin Che Kop,BN,4,PAS,3,BN,5010,75.16879219804952,1,won
+1974-08-24,SE-04,Kelantan,N.11 Telipok,2,7757,Ismail Bin Che Abdullah,BEBAS,0,BEBAS,0,ALONE,800,12.003000750187546,2,lost_deposit
+1974-08-24,SE-04,Kelantan,N.11 Telipok,3,7758,Mustapa Bin Muhamad,BEBAS,0,BEBAS,0,ALONE,464,6.961740435108778,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.11 Telipok,4,7759,Yahya Bin Harun,BEBAS,0,BEBAS,0,ALONE,391,5.866466616654164,4,lost_deposit
+1974-08-24,SE-04,Kelantan,N.12 Kubang Kerian,1,424,Salahuddin Bin Abdullah,BN,4,PAS,3,BN,5595,71.57477293079187,1,won
+1974-08-24,SE-04,Kelantan,N.12 Kubang Kerian,2,7760,Mohd. Norddin Bin Haji Ahmad (Din To' Kenali),BEBAS,0,BEBAS,0,ALONE,2222,28.425227069208137,2,lost
+1974-08-24,SE-04,Kelantan,N.13 Tawang,1,7714,Ustaz Nor,BN,4,PAS,3,BN,6087,83.52085620197585,1,won
+1974-08-24,SE-04,Kelantan,N.13 Tawang,2,7762,Zarawi Bin Mohammad,BEBAS,0,BEBAS,0,ALONE,578,7.930845225027443,2,lost_deposit
+1974-08-24,SE-04,Kelantan,N.13 Tawang,3,1489,Ismail Bin Awang,PSRM,24,PSRM,0,ALONE,353,4.843578485181119,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.13 Tawang,4,7764,Abd. Ghani Bin Kundor,BEBAS,0,BEBAS,0,ALONE,270,3.704720087815587,4,lost_deposit
+1974-08-24,SE-04,Kelantan,N.14 Perupok,1,7765,Hjai Mustapha Bin Haji Othman,BN,4,PAS,3,BN,5196,84.73581213307241,1,won
+1974-08-24,SE-04,Kelantan,N.14 Perupok,2,7766,Ibrahim Biin Ali,PSRM,24,PSRM,0,ALONE,936,15.264187866927593,2,lost
+1974-08-24,SE-04,Kelantan,N.15 Jelawat,1,7717,Ustaz Mohd. Haji Yacob,BN,1,UMNO,3,BN,6056,89.55930198166223,1,won
+1974-08-24,SE-04,Kelantan,N.15 Jelawat,2,7768,Abdul Hadi Bin Haji Che Jaafar,PSRM,24,PSRM,0,ALONE,706,10.44069801833777,2,lost_deposit
+1974-08-24,SE-04,Kelantan,N.16 Gual Periok,1,1496,Chikgu Hussin Bin Ahmad,BN,1,UMNO,3,BN,3677,83.96894268097739,1,won
+1974-08-24,SE-04,Kelantan,N.16 Gual Periok,2,7770,Abd. Hamid Bin Abd. Razak,BEBAS,0,BEBAS,0,ALONE,702,16.031057319022608,2,lost
+1974-08-24,SE-04,Kelantan,N.17 Lemal,1,7684,Haji Harun Bin Haji Sulong,BN,4,PAS,3,BN,3707,78.82202849245162,1,won
+1974-08-24,SE-04,Kelantan,N.17 Lemal,2,7772,Muhammad Fakharuddin,BEBAS,0,BEBAS,0,ALONE,724,15.394429087816288,2,lost
+1974-08-24,SE-04,Kelantan,N.17 Lemal,3,7773,Haji Abd. Rahman,BEBAS,0,BEBAS,0,ALONE,272,5.783542419732086,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.18 Tok Uban,1,7774,Che Musa Bin Muhammad,BN,4,PAS,3,BN,3452,61.786289600859135,1,won
+1974-08-24,SE-04,Kelantan,N.18 Tok Uban,2,403,Wan Hassan Bin Wan Daud,BEBAS,0,BEBAS,0,ALONE,1154,20.655092178270987,2,lost
+1974-08-24,SE-04,Kelantan,N.18 Tok Uban,3,7775,Abdullah Bin Che Wan,BEBAS,0,BEBAS,0,ALONE,981,17.558618220869874,3,lost
+1974-08-24,SE-04,Kelantan,N.19 Salor,1,7646,Pak Su Man,BN,4,PAS,3,BN,5624,81.36574074074075,1,won
+1974-08-24,SE-04,Kelantan,N.19 Salor,2,7711,Zakaria Bin Yusoff,BEBAS,0,BEBAS,0,ALONE,1288,18.63425925925926,2,lost
+1974-08-24,SE-04,Kelantan,N.20 Ketereh,1,7651,Datuk Haji Ishak Lofti,BN,4,PAS,3,BN,4150,60.823684596218676,1,won
+1974-08-24,SE-04,Kelantan,N.20 Ketereh,2,7779,Muhammad Shah Bin Awang,BEBAS,0,BEBAS,0,ALONE,2402,35.204455518100545,2,lost
+1974-08-24,SE-04,Kelantan,N.20 Ketereh,3,7780,Hamzah Bin Abu Bakar,PSRM,24,PSRM,0,ALONE,271,3.9718598856807854,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.21 Peringat,1,7844,Chikgu Hamid,BN,4,PAS,3,BN,4567,77.04116059379217,1,won
+1974-08-24,SE-04,Kelantan,N.21 Peringat,2,7782,Mohamed Yusof Bin Bedol,BEBAS,0,BEBAS,0,ALONE,1361,22.958839406207826,2,lost
+1974-08-24,SE-04,Kelantan,N.22 Bukit Panau,1,7692,Haji Omar Bin Mamat,BN,4,PAS,3,BN,4969,82.37732095490716,1,won
+1974-08-24,SE-04,Kelantan,N.22 Bukit Panau,2,7784,Yusoff Bin Abdul Latiff,BEBAS,0,BEBAS,0,ALONE,442,7.327586206896551,2,lost_deposit
+1974-08-24,SE-04,Kelantan,N.22 Bukit Panau,3,7785,Haji Hussin,BEBAS,24,PSRM,0,ALONE,432,7.161803713527852,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.22 Bukit Panau,4,7786,Shahidin Bin Haji Abd. Rahman,BEBAS,0,BEBAS,0,ALONE,189,3.1332891246684347,4,lost_deposit
+1974-08-24,SE-04,Kelantan,N.23 Lanas,1,7787,Ustaz Abd. Samat Bin Haji Drahman,BN,1,UMNO,3,BN,2470,59.30372148859544,1,won
+1974-08-24,SE-04,Kelantan,N.23 Lanas,2,7737,Hjai Zainal Abidin Bin Haji Yacob,BEBAS,0,BEBAS,0,ALONE,1457,34.98199279711885,2,lost
+1974-08-24,SE-04,Kelantan,N.23 Lanas,3,7789,Mat Haji Hussin,BEBAS,24,PSRM,0,ALONE,238,5.714285714285714,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.24 Gual Ipoh,1,7851,Chikgu Mustafa,BN,1,UMNO,3,BN,4405,80.36854588578727,1,won
+1974-08-24,SE-04,Kelantan,N.24 Gual Ipoh,2,2205,Shafii Bin Haji Abdul Rahman,BEBAS,0,BEBAS,0,ALONE,1076,19.631454114212733,2,lost
+1974-08-24,SE-04,Kelantan,N.25 Pulai Chondong,1,7908,Chikgu Lah,BN,1,UMNO,3,BN,4587,76.69286072563116,1,won
+1974-08-24,SE-04,Kelantan,N.25 Pulai Chondong,2,7792,Abdul Shukor Bin Haji Yaakob,BEBAS,0,BEBAS,0,ALONE,1394,23.307139274368836,2,lost
+1974-08-24,SE-04,Kelantan,N.26 Bandar Machang,1,7559,Ibrahim Bin Mohamad,BN,1,UMNO,3,BN,4760,62.64806528033693,1,won
+1974-08-24,SE-04,Kelantan,N.26 Bandar Machang,2,7794,Pak Cu Din,BEBAS,0,BEBAS,0,ALONE,2838,37.35193471966307,2,lost
+1974-08-24,SE-04,Kelantan,N.27 Sungei Rasau,1,1824,Wan Ismail,BN,4,PAS,3,BN,3205,70.98560354374308,1,won
+1974-08-24,SE-04,Kelantan,N.27 Sungei Rasau,2,7796,Mohamad Chetong,BEBAS,0,BEBAS,0,ALONE,808,17.895902547065337,2,lost
+1974-08-24,SE-04,Kelantan,N.27 Sungei Rasau,3,7797,Chikgu Li,BEBAS,0,BEBAS,0,ALONE,259,5.736434108527131,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.27 Sungei Rasau,4,7798,Mohd. Zain Bin Abd. Samad,BEBAS,24,PSRM,0,ALONE,243,5.382059800664452,4,lost_deposit
+1974-08-24,SE-04,Kelantan,N.28 Selising,1,7688,Ustaz Haji Abd. Kadir,BN,4,PAS,3,BN,3893,51.36561551655892,1,won
+1974-08-24,SE-04,Kelantan,N.28 Selising,2,7800,Ustaz Man,BEBAS,0,BEBAS,0,ALONE,3686,48.63438448344109,2,lost
+1974-08-24,SE-04,Kelantan,N.29 Bandar Pasir Puteh,1,7690,Raja Mahmud Bin Raja Mamat,BN,1,UMNO,3,BN,4450,72.20509492130456,1,won
+1974-08-24,SE-04,Kelantan,N.29 Bandar Pasir Puteh,2,910,Chikgu Musa Saleh,BEBAS,0,BEBAS,0,ALONE,1432,23.235437287035534,2,lost
+1974-08-24,SE-04,Kelantan,N.29 Bandar Pasir Puteh,3,7802,Ustaz Abdullah Bin Hjai Mohamad,BEBAS,24,PSRM,0,ALONE,281,4.559467791659906,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.30 Cherang Ruku,1,1835,Wan Omar Bin Wan Majid,BN,1,UMNO,3,BN,5519,86.8450039339103,1,won
+1974-08-24,SE-04,Kelantan,N.30 Cherang Ruku,2,7803,Tengku Abd. Razak,BEBAS,0,BEBAS,0,ALONE,836,13.154996066089694,2,lost
+1974-08-24,SE-04,Kelantan,N.31 Temangan,1,1199,Dr. Nik Hussain,BN,4,PAS,3,BN,3727,79.87569652807544,1,won
+1974-08-24,SE-04,Kelantan,N.31 Temangan,2,7804,Abd. Hana Bin Abd. Salam,BEBAS,0,BEBAS,0,ALONE,939,20.12430347192456,2,lost
+1974-08-24,SE-04,Kelantan,N.32 Guchil,1,7805,Mohammad Awang,BN,4,PAS,3,BN,2853,68.69732723332531,1,won
+1974-08-24,SE-04,Kelantan,N.32 Guchil,2,7806,Hajah Mahmuzah Ismail Ali,BEBAS,0,BEBAS,0,ALONE,681,16.39778473392728,2,lost
+1974-08-24,SE-04,Kelantan,N.32 Guchil,3,7807,Ahd. Rahman Bin Haji Yahya,PSRM,24,PSRM,0,ALONE,619,14.904888032747413,3,lost
+1974-08-24,SE-04,Kelantan,N.33 Pahi,1,7874,Abdul Aziz Bin Talib,BN,1,UMNO,3,BN,2928,76.58906617839392,1,won
+1974-08-24,SE-04,Kelantan,N.33 Pahi,2,19386,Hassan Bin Mohamed,PSRM,24,PSRM,0,ALONE,518,13.549568401778709,2,lost
+1974-08-24,SE-04,Kelantan,N.33 Pahi,3,7808,Kerani Samad,BEBAS,0,BEBAS,0,ALONE,377,9.86136541982736,3,lost_deposit
+1974-08-24,SE-04,Kelantan,N.34 Jeli,1,7809,Nik Mustaffa @ Jek,BN,4,PAS,3,BN,3374,78.72141857209519,1,won
+1974-08-24,SE-04,Kelantan,N.34 Jeli,2,7810,Daud Yatimee Bin Ahmad,BEBAS,0,BEBAS,0,ALONE,912,21.278581427904804,2,lost
+1974-08-24,SE-04,Kelantan,N.35 Gua Musang,1,7811,Abdul Ghani Bin Abu Bakar,BN,1,UMNO,3,BN,0,,1,won_uncontested
+1974-08-24,SE-04,Kelantan,N.36 Manek Urai,1,419,Hussein Sulaiman,BN,1,UMNO,3,BN,2411,71.6067716067716,1,won
+1974-08-24,SE-04,Kelantan,N.36 Manek Urai,2,7813,Wan Abdullah Bin Wan Su,BEBAS,0,BEBAS,0,ALONE,956,28.39322839322839,2,lost
+1978-03-11,SE-05,Kelantan,N.01 Simpangan,1,7741,Tahir Bin Abdul Aziz,BERJASA,37,BERJASA,0,ALONE,5087,70.7412042831317,1,won
+1978-03-11,SE-05,Kelantan,N.01 Simpangan,2,7814,Nik Abdul Rahman Bin Nik Mohamed,PAS,4,PAS,0,ALONE,2104,29.258795716868306,2,lost
+1978-03-11,SE-05,Kelantan,N.02 Sungei Pinang,1,7815,Che Hassan Bin Che Ishak,PAS,4,PAS,0,ALONE,2832,36.053469127943984,2,lost
+1978-03-11,SE-05,Kelantan,N.02 Sungei Pinang,2,7702,Che Lat Bin Kassim,BN,1,UMNO,3,BN,5023,63.946530872056016,1,won
+1978-03-11,SE-05,Kelantan,N.03 Wakaf Bharu,1,1489,Ismail Bin Awang,PAS,4,PAS,0,ALONE,2925,33.482142857142854,2,lost
+1978-03-11,SE-05,Kelantan,N.03 Wakaf Bharu,2,7656,Omar Bin Awang Kechik,BN,1,UMNO,3,BN,5811,66.51785714285714,1,won
+1978-03-11,SE-05,Kelantan,N.04 Semut Api,1,4888,Sapeia Bin Nik Yusof,BEBAS,0,BEBAS,0,ALONE,339,4.933061699650756,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.04 Semut Api,2,7710,Nik Mat Bin Nik Din,BERJASA,37,BERJASA,0,ALONE,983,14.30442374854482,3,lost
+1978-03-11,SE-05,Kelantan,N.04 Semut Api,3,7817,Mohamed Bin Hussin,BN,1,UMNO,3,BN,2813,40.93422584400466,1,won
+1978-03-11,SE-05,Kelantan,N.04 Semut Api,4,7818,Wan Mamat Bin Wan Yusoff,PAS,4,PAS,0,ALONE,2737,39.82828870779977,2,lost
+1978-03-11,SE-05,Kelantan,N.05 Kemumin,1,7819,Haji Daud Bin Ibrahim,PAS,4,PAS,0,ALONE,2198,35.48022598870057,2,lost
+1978-03-11,SE-05,Kelantan,N.05 Kemumin,2,900,Omar @ Omar Bin Ibrahim,BERJASA,37,BERJASA,0,ALONE,3997,64.51977401129943,1,won
+1978-03-11,SE-05,Kelantan,N.06 Sering,1,7821,Che Ismail Bin Che Abdullah,BERJASA,37,BERJASA,0,ALONE,3544,49.4143892916899,2,lost
+1978-03-11,SE-05,Kelantan,N.06 Sering,2,1825,Abdullah Bin Haji Arshad,PAS,4,PAS,0,ALONE,3628,50.58561070831009,1,won
+1978-03-11,SE-05,Kelantan,N.07 Tendong,1,8383,Saharun Ibrahim,PAS,4,PAS,0,ALONE,1751,22.07792207792208,2,lost
+1978-03-11,SE-05,Kelantan,N.07 Tendong,2,7558,Haji Mohamed Bin Nasir,BERJASA,37,BERJASA,0,ALONE,6180,77.92207792207793,1,won
+1978-03-11,SE-05,Kelantan,N.08 Meranti,1,7823,Zaid Bin Fadzil,PAS,4,PAS,0,ALONE,2853,42.87002253944402,2,lost
+1978-03-11,SE-05,Kelantan,N.08 Meranti,2,8322,Nanifa Bin Ahmad,BERJASA,37,BERJASA,0,ALONE,3802,57.12997746055597,1,won
+1978-03-11,SE-05,Kelantan,N.09 Bandar Pasir Mas,1,7668,Abdullah Bin Che Him,BN,1,UMNO,3,BN,3252,44.966814159292035,1,won
+1978-03-11,SE-05,Kelantan,N.09 Bandar Pasir Mas,2,7753,Hashim Bin Haji Omar,PAS,4,PAS,0,ALONE,1647,22.773783185840706,3,lost
+1978-03-11,SE-05,Kelantan,N.09 Bandar Pasir Mas,3,7754,Tengku Iskandar Bin Tengku Ahmad,BERJASA,37,BERJASA,0,ALONE,2333,32.25940265486726,2,lost
+1978-03-11,SE-05,Kelantan,N.10 Sungei Keladi,1,7826,Nik Mohd Kamil Bin Nik Abdullah,PAS,4,PAS,0,ALONE,2261,26.000459981600738,2,lost
+1978-03-11,SE-05,Kelantan,N.10 Sungei Keladi,2,7613,Foo Chow Yong,BN,3,MCA,3,BN,6435,73.99954001839927,1,won
+1978-03-11,SE-05,Kelantan,N.11 Telipok,1,7572,Hassan Bin Ya'Acob,BERJASA,37,BERJASA,0,ALONE,1918,26.480740024851578,2,lost
+1978-03-11,SE-05,Kelantan,N.11 Telipok,2,2537,Ahmad Rastom Bin Haji Ahmad Maher,BN,1,UMNO,3,BN,3949,54.521607068894106,1,won
+1978-03-11,SE-05,Kelantan,N.11 Telipok,3,352,Datuk Wan Mustapha Bin Haji Ali,PAS,4,PAS,0,ALONE,1376,18.997652906254313,3,lost
+1978-03-11,SE-05,Kelantan,N.12 Kubang Kerian,1,7829,Nik Bahari Shah Bin Jusoh,BERJASA,37,BERJASA,0,ALONE,5252,64.42590775269872,1,won
+1978-03-11,SE-05,Kelantan,N.12 Kubang Kerian,2,424,Salahuddin Bin Abdullah,PAS,4,PAS,0,ALONE,2900,35.57409224730127,2,lost
+1978-03-11,SE-05,Kelantan,N.13 Tawang,1,7830,Mohd. Daud Bin Mohd. Ali,BERJASA,37,BERJASA,0,ALONE,4733,57.01035894965069,1,won
+1978-03-11,SE-05,Kelantan,N.13 Tawang,2,619,Mohd Zain Bin Abdullah,PAS,4,PAS,0,ALONE,3569,42.98964105034931,2,lost
+1978-03-11,SE-05,Kelantan,N.14 Perupok,1,7832,Omar Bin Mohammed,PAS,4,PAS,0,ALONE,2847,42.53062443979683,2,lost
+1978-03-11,SE-05,Kelantan,N.14 Perupok,2,7833,Haji Wan Mohamed Bin Wan Ahmad,BERJASA,37,BERJASA,0,ALONE,3847,57.46937556020316,1,won
+1978-03-11,SE-05,Kelantan,N.15 Jelawat,1,7834,Mohamad Bin Haji Hassan,BN,1,UMNO,3,BN,4261,55.10863942058975,1,won
+1978-03-11,SE-05,Kelantan,N.15 Jelawat,2,7717,Mohd. Bin Haji Yacob,PAS,4,PAS,0,ALONE,3471,44.89136057941025,2,lost
+1978-03-11,SE-05,Kelantan,N.16 Gual Periok,1,7835,Hamzah Bin Awang Hamat,PAS,4,PAS,0,ALONE,1978,41.66842216136507,2,lost
+1978-03-11,SE-05,Kelantan,N.16 Gual Periok,2,1496,Husein Bin Ahmad,BN,1,UMNO,3,BN,2769,58.33157783863493,1,won
+1978-03-11,SE-05,Kelantan,N.17 Lemal,1,7836,Noor Mohamed Bin Mohamed Din,BERJASA,37,BERJASA,0,ALONE,3409,65.60816012317167,1,won
+1978-03-11,SE-05,Kelantan,N.17 Lemal,2,1830,Mohd Yusof Bin Haji Abdullah,PAS,4,PAS,0,ALONE,1787,34.39183987682833,2,lost
+1978-03-11,SE-05,Kelantan,N.18 Tok Uban,1,7838,Abdullah Bin Che Man,BEBAS,0,BEBAS,0,ALONE,1631,26.589501141180307,2,lost
+1978-03-11,SE-05,Kelantan,N.18 Tok Uban,2,7774,Musa Bin Muhammad,PAS,4,PAS,0,ALONE,1487,24.241930224975548,3,lost
+1978-03-11,SE-05,Kelantan,N.18 Tok Uban,3,7810,Daud @ Daud Yatimee Bin Ahmad,BERJASA,37,BERJASA,0,ALONE,3016,49.168568633844146,1,won
+1978-03-11,SE-05,Kelantan,N.19 Salor,1,7841,Mohamad Surian,BERJASA,37,BERJASA,0,ALONE,5150,62.83552952659834,1,won
+1978-03-11,SE-05,Kelantan,N.19 Salor,2,410,Hassan Bin Haji Mohamed,PAS,4,PAS,0,ALONE,3046,37.164470473401664,2,lost
+1978-03-11,SE-05,Kelantan,N.20 Ketereh,1,7842,Ariffin Bin Mahmood,BN,1,UMNO,3,BN,5123,66.16298592276895,1,won
+1978-03-11,SE-05,Kelantan,N.20 Ketereh,2,7843,Haji Abdullah Bin Haji Hassan,PAS,4,PAS,0,ALONE,2620,33.837014077231046,2,lost
+1978-03-11,SE-05,Kelantan,N.21 Peringat,1,7844,Mohd Amin @ Abdul Hamid Bin Salleh,PAS,4,PAS,0,ALONE,2390,34.408292542470484,2,lost
+1978-03-11,SE-05,Kelantan,N.21 Peringat,2,618,Wan Hashim Bin Haji Wan Ahmad,BERJASA,37,BERJASA,0,ALONE,4556,65.59170745752951,1,won
+1978-03-11,SE-05,Kelantan,N.22 Bukit Panau,1,3243,Ab. Halim Bin Ab. Rahman,PAS,4,PAS,0,ALONE,2375,34.58066394874781,2,lost
+1978-03-11,SE-05,Kelantan,N.22 Bukit Panau,2,7846,Ab. Latif Bin Haji Ab. Rahman,BN,1,UMNO,3,BN,3936,57.309260337798484,1,won
+1978-03-11,SE-05,Kelantan,N.22 Bukit Panau,3,7786,Shahidin Bin Haji Ab. Rahman,BERJASA,37,BERJASA,0,ALONE,557,8.110075713453698,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.23 Lanas,1,7848,Abdullah Bin Che Hassan,PAS,4,PAS,0,ALONE,2059,44.98579855800743,2,lost
+1978-03-11,SE-05,Kelantan,N.23 Lanas,2,627,Mohamed Bin Ya'Acob,BN,1,UMNO,3,BN,2247,49.09329254970505,1,won
+1978-03-11,SE-05,Kelantan,N.23 Lanas,3,19392,Mohamed Bin Hussin,BEBAS,0,BEBAS,0,ALONE,105,2.2940790911077125,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.23 Lanas,4,7849,Ahmad Bin Haji Awang Besar,BERJASA,37,BERJASA,0,ALONE,166,3.626829801179812,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.24 Gual Ipoh,1,7850,Mohd. Jaih Bin Mat Piah,PAS,4,PAS,0,ALONE,881,15.09336988178859,3,lost
+1978-03-11,SE-05,Kelantan,N.24 Gual Ipoh,2,7851,Mustafa Bin Yaakub,BN,1,UMNO,3,BN,3859,66.11272914168237,1,won
+1978-03-11,SE-05,Kelantan,N.24 Gual Ipoh,3,2205,Shafii Bin Haji Abdul Rahman,BERJASA,37,BERJASA,0,ALONE,1097,18.793900976529038,2,lost
+1978-03-11,SE-05,Kelantan,N.25 Pulai Chondong,1,7852,Haji Hamzah Bin Haji Salleh,BEBAS,0,BEBAS,0,ALONE,642,9.76425855513308,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.25 Pulai Chondong,2,1198,Yahya Bin Othman,PAS,4,PAS,0,ALONE,1665,25.323193916349812,2,lost
+1978-03-11,SE-05,Kelantan,N.25 Pulai Chondong,3,7908,Abdullah Bin Haji Mohamed,BN,1,UMNO,3,BN,4268,64.91254752851711,1,won
+1978-03-11,SE-05,Kelantan,N.26 Bandar Machang,1,912,Haji Wan Ismail Bin Wan Ahmad,BEBAS,0,BEBAS,0,ALONE,499,5.995434338579839,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.26 Bandar Machang,2,7854,Wan Mahyudin Bin Haji Wan Abu Bakar,PAS,4,PAS,0,ALONE,1632,19.60831430974408,3,lost
+1978-03-11,SE-05,Kelantan,N.26 Bandar Machang,3,7855,Tuan Ismail Bin Tuan Mat,BERJASA,37,BERJASA,0,ALONE,2359,28.34314550042052,2,lost
+1978-03-11,SE-05,Kelantan,N.26 Bandar Machang,4,7559,Ibrahim Bin Mohamed,BN,1,UMNO,3,BN,3833,46.05310585125555,1,won
+1978-03-11,SE-05,Kelantan,N.27 Sungei Rasau,1,7856,Mohamad Bin Jusoh,BEBAS,0,BEBAS,0,ALONE,486,10.154617634768073,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.27 Sungei Rasau,2,7857,Raja Husain Bin Raja Salleh,PAS,4,PAS,0,ALONE,1499,31.320518178019224,2,lost
+1978-03-11,SE-05,Kelantan,N.27 Sungei Rasau,3,7622,Abdullah Bin Ahmad,BERJASA,37,BERJASA,0,ALONE,224,4.680317592979524,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.27 Sungei Rasau,4,7858,Yahya Bin Haji Yusoff,BN,1,UMNO,3,BN,2577,53.84454659423318,1,won
+1978-03-11,SE-05,Kelantan,N.28 Selising,1,7859,Mahmud Bin Hussin,BEBAS,0,BEBAS,0,ALONE,353,4.358562785529077,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.28 Selising,2,7860,Setapa Bin Abd. Rahman,BERJASA,37,BERJASA,0,ALONE,474,5.852574391900235,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.28 Selising,3,7861,Mohamad Nor Bin Ab. Majid,PAS,4,PAS,0,ALONE,2343,28.92949746882331,2,lost
+1978-03-11,SE-05,Kelantan,N.28 Selising,4,7687,Wan Mohamed Bin Wan Abu Bakar,BN,1,UMNO,3,BN,4929,60.85936535374737,1,won
+1978-03-11,SE-05,Kelantan,N.29 Bandar Pasir Puteh,1,7690,Raja Mahmud Bin Raja Mamat,BN,1,UMNO,3,BN,3751,57.85009253547193,1,won
+1978-03-11,SE-05,Kelantan,N.29 Bandar Pasir Puteh,2,910,Cikgu Musa Bin Salleh,BEBAS,0,BEBAS,0,ALONE,545,8.405305367057373,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.29 Bandar Pasir Puteh,3,1824,Haji Wan Ismail Bin Ibrahim,PAS,4,PAS,0,ALONE,1960,30.228254164096235,2,lost
+1978-03-11,SE-05,Kelantan,N.29 Bandar Pasir Puteh,4,7865,Abd. Razak Bin Ag. Kechik,BERJASA,37,BERJASA,0,ALONE,228,3.51634793337446,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.30 Cherang Ruku,1,1835,Wan Omar Bin Wan Majid,BN,1,UMNO,3,BN,3484,52.241715399610136,1,won
+1978-03-11,SE-05,Kelantan,N.30 Cherang Ruku,2,7866,Mat Nor Bin Mamat,PAS,4,PAS,0,ALONE,3121,46.79862048283101,2,lost
+1978-03-11,SE-05,Kelantan,N.30 Cherang Ruku,3,7867,Mohamed Nawi Bin Awang,BEBAS,0,BEBAS,0,ALONE,64,0.9596641175588543,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.31 Temangan,1,3062,Ab. Ghani Bin Abd. Rahman,PAS,4,PAS,0,ALONE,1527,30.929714401458376,2,lost
+1978-03-11,SE-05,Kelantan,N.31 Temangan,2,7869,Abd. Kadir Bin Awang,BEBAS,0,BEBAS,0,ALONE,45,0.9114847073121329,4,lost_deposit
+1978-03-11,SE-05,Kelantan,N.31 Temangan,3,7870,Salleh Bin Che Harun,BN,1,UMNO,3,BN,2701,54.709337654446024,1,won
+1978-03-11,SE-05,Kelantan,N.31 Temangan,4,7871,Ahmad Tabarani Bin Harun,BERJASA,37,BERJASA,0,ALONE,664,13.44946323678347,3,lost
+1978-03-11,SE-05,Kelantan,N.32 Guchil,1,7872,Mat Hussin Bin Hassan Ful,BERJASA,37,BERJASA,0,ALONE,713,14.910079464659137,3,lost
+1978-03-11,SE-05,Kelantan,N.32 Guchil,2,7805,Mohammad Bin Awang,PAS,4,PAS,0,ALONE,1475,30.844834797156,2,lost
+1978-03-11,SE-05,Kelantan,N.32 Guchil,3,1842,Mohamed Bin Isa,BN,1,UMNO,3,BN,2594,54.24508573818486,1,won
+1978-03-11,SE-05,Kelantan,N.33 Pahi,1,623,Tengku Zaid Bin Tengku Ahmad,PAS,4,PAS,0,ALONE,1246,29.29696684693158,2,lost
+1978-03-11,SE-05,Kelantan,N.33 Pahi,2,7874,Ab. Aziz Talib,BN,1,UMNO,3,BN,3007,70.70303315306842,1,won
+1978-03-11,SE-05,Kelantan,N.34 Jeli,1,7787,Ab. Samat Bin Hj. Drahman,BN,1,UMNO,3,BN,2549,52.78525574653137,1,won
+1978-03-11,SE-05,Kelantan,N.34 Jeli,2,7876,Che Mahmood Bin Mohd. Ali,BERJASA,37,BERJASA,0,ALONE,391,8.096914475046594,3,lost_deposit
+1978-03-11,SE-05,Kelantan,N.34 Jeli,3,628,Khaider Bin Khatib,PAS,4,PAS,0,ALONE,1889,39.11782977842203,2,lost
+1978-03-11,SE-05,Kelantan,N.35 Gua Musang,1,7878,Hj. Che Yusoff Bin Che Noh,PAS,4,PAS,0,ALONE,1509,29.12565141864505,2,lost
+1978-03-11,SE-05,Kelantan,N.35 Gua Musang,2,7811,Abdul Ghani Bin Abu Bakar,BN,1,UMNO,3,BN,3672,70.87434858135495,1,won
+1978-03-11,SE-05,Kelantan,N.36 Manek Urai,1,7813,Wan Abdullah Bin Wan Su,PAS,4,PAS,0,ALONE,1926,51.305274374001065,1,won
+1978-03-11,SE-05,Kelantan,N.36 Manek Urai,2,419,Hussein Bin Sulaiman,BN,1,UMNO,3,BN,1828,48.694725625998935,2,lost
+1982-04-22,SE-06,Kelantan,N.01 Simpangan,1,7814,Nik Abdul Rahman Bin Nik Mohamed,PAS,4,PAS,0,ALONE,4410,46.994884910485936,2,lost
+1982-04-22,SE-06,Kelantan,N.01 Simpangan,2,7741,Tahir Bin Abdul Aziz,BN,1,UMNO,3,BN,4974,53.005115089514064,1,won
+1982-04-22,SE-06,Kelantan,N.02 Sungei Pinang,1,7879,Muhamad Bin Abdul Rahman,PAS,4,PAS,0,ALONE,4449,45.913312693498455,2,lost
+1982-04-22,SE-06,Kelantan,N.02 Sungei Pinang,2,897,Tengku Noor Aziah Binti Tengku Ahmed,BN,1,UMNO,3,BN,4932,50.89783281733746,1,won
+1982-04-22,SE-06,Kelantan,N.02 Sungei Pinang,3,7881,Mohamed Bin Samat,BEBAS,0,BEBAS,0,ALONE,309,3.188854489164087,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,1,7882,Ramli Bin Abu Bakar,PAS,4,PAS,0,ALONE,4961,43.95322051918136,2,lost
+1982-04-22,SE-06,Kelantan,N.03 Wakaf Bharu,2,7656,Omar Bin Awang Kechik,BN,1,UMNO,3,BN,6326,56.04677948081864,1,won
+1982-04-22,SE-06,Kelantan,N.04 Semut Api,1,7818,Wan Mamat Bin Wan Yusoff,PAS,4,PAS,0,ALONE,6528,62.96903636539019,1,won
+1982-04-22,SE-06,Kelantan,N.04 Semut Api,2,7883,Nik Abdul Aziz Haji Nik Hussin,BN,1,UMNO,3,BN,3839,37.03096363460982,2,lost
+1982-04-22,SE-06,Kelantan,N.05 Kemumin,1,7815,Che Hassan Bin Che Ishak,PAS,4,PAS,0,ALONE,0,,1,won_uncontested
+1982-04-22,SE-06,Kelantan,N.06 Sering,1,7884,Ab. Hamid Bin Ahmad,BN,1,UMNO,3,BN,3983,42.237539766702014,2,lost
+1982-04-22,SE-06,Kelantan,N.06 Sering,2,7885,Daud Bin Ibrahim,PAS,4,PAS,0,ALONE,5447,57.762460233297986,1,won
+1982-04-22,SE-06,Kelantan,N.07 Tendong,1,903,Haji Zakaria Bin Ismail,PAS,4,PAS,0,ALONE,4337,42.762768684677575,2,lost
+1982-04-22,SE-06,Kelantan,N.07 Tendong,2,7886,Abd. Ghani Bin Hj. Mahmood,BN,1,UMNO,3,BN,5805,57.237231315322425,1,won
+1982-04-22,SE-06,Kelantan,N.08 Meranti,1,8322,Hanifa Bin Ahmad,BN,1,UMNO,3,BN,3300,38.655265315684666,2,lost
+1982-04-22,SE-06,Kelantan,N.08 Meranti,2,345,Nik Man Bin Nik Mohamed,PAS,4,PAS,0,ALONE,5237,61.34473468431534,1,won
+1982-04-22,SE-06,Kelantan,N.09 Bandar Pasir Mas,1,7753,Hashim Bin Haji Omar,PAS,4,PAS,0,ALONE,4175,42.41162129215766,2,lost
+1982-04-22,SE-06,Kelantan,N.09 Bandar Pasir Mas,2,7887,Mohd. Hassan Bin Che Wail @ Hassan Bin Ismail,BN,1,UMNO,3,BN,5669,57.58837870784234,1,won
+1982-04-22,SE-06,Kelantan,N.10 Sungei Keladi,1,1492,Kang Sam Chuan,DAP,23,DAP,0,ALONE,765,5.664568678267309,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.10 Sungei Keladi,2,7613,Foo Chow Yong,BN,3,MCA,3,BN,7652,56.66049611255091,1,won
+1982-04-22,SE-06,Kelantan,N.10 Sungei Keladi,3,3243,Ab. Halim Bin Ab. Rahman,PAS,4,PAS,0,ALONE,5088,37.67493520918179,2,lost
+1982-04-22,SE-06,Kelantan,N.11 Telipok,1,2537,Ahmad Rastom Bin Haji Ahmad Maher,BN,1,UMNO,3,BN,6462,55.164760116100396,1,won
+1982-04-22,SE-06,Kelantan,N.11 Telipok,2,7888,Mohd. Nassim Bin Daro' Haji Ahmad Maher,PAS,4,PAS,0,ALONE,4896,41.796141369301694,2,lost
+1982-04-22,SE-06,Kelantan,N.11 Telipok,3,7889,Ya'Acob Bin Abdullah,DAP,23,DAP,0,ALONE,356,3.039098514597917,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.12 Kubang Kerian,1,112,Mohd. Asri Bin Haji Muda,PAS,4,PAS,0,ALONE,6395,53.8480970023577,1,won
+1982-04-22,SE-06,Kelantan,N.12 Kubang Kerian,2,7890,Muhamad @ Mohamad Rasidi Bin Hjai Abdullah,BN,1,UMNO,3,BN,5481,46.1519029976423,2,lost
+1982-04-22,SE-06,Kelantan,N.13 Tawang,1,7891,Idris Bin Ahmad,PAS,4,PAS,0,ALONE,5784,52.48162598675257,1,won
+1982-04-22,SE-06,Kelantan,N.13 Tawang,2,7892,Hassan Bin Abdullah,BN,1,UMNO,3,BN,5237,47.51837401324744,2,lost
+1982-04-22,SE-06,Kelantan,N.14 Perupok,1,7893,Mamat Bin Awang @ Mohd. Nor B. Awang,PAS,4,PAS,0,ALONE,4943,53.83358745371378,1,won
+1982-04-22,SE-06,Kelantan,N.14 Perupok,2,7894,Abdul Fattah Bin Haji Idris,BN,1,UMNO,3,BN,4239,46.16641254628621,2,lost
+1982-04-22,SE-06,Kelantan,N.15 Jelawat,1,7834,Mohamad Bin Haji Hassan,BN,1,UMNO,3,BN,5184,49.385538725350095,1,won
+1982-04-22,SE-06,Kelantan,N.15 Jelawat,2,7895,Shaary Bin Haji Awang,PAS,4,PAS,0,ALONE,4984,47.480232447365914,2,lost
+1982-04-22,SE-06,Kelantan,N.15 Jelawat,3,619,Mohd. Zain Bin Abdullah,BEBAS,0,BEBAS,0,ALONE,329,3.1342288272839856,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.16 Gual Periok,1,7896,Zakaria Bin Botok,BN,1,UMNO,3,BN,3660,50.98913346336027,1,won
+1982-04-22,SE-06,Kelantan,N.16 Gual Periok,2,7897,Mohd. Saari Bin Awang Ali,PAS,4,PAS,0,ALONE,3518,49.01086653663973,2,lost
+1982-04-22,SE-06,Kelantan,N.17 Lemal,1,7836,Moor Mohamed Bin Mohamed Sin,BN,1,UMNO,3,BN,3380,48.1618694784839,2,lost
+1982-04-22,SE-06,Kelantan,N.17 Lemal,2,2887,Abdul Fatah Bin Haji Heron,PAS,4,PAS,0,ALONE,3638,51.8381305215161,1,won
+1982-04-22,SE-06,Kelantan,N.18 Tok Uban,1,7810,Daud @ Daud Yatimee Bin Ahmad,BN,1,UMNO,3,BN,3977,50.17030402422101,1,won
+1982-04-22,SE-06,Kelantan,N.18 Tok Uban,2,3062,Ab. Ghani Bin Ab. Rahman,PAS,4,PAS,0,ALONE,3950,49.82969597577898,2,lost
+1982-04-22,SE-06,Kelantan,N.19 Salor,1,7901,Muhamad Tahar Jalaadin Bin Husin,BEBAS,0,BEBAS,0,ALONE,5030,47.64159878764917,2,lost
+1982-04-22,SE-06,Kelantan,N.19 Salor,2,1193,Mustapha Bin Ibrahim,PAS,4,PAS,0,ALONE,5528,52.35840121235083,1,won
+1982-04-22,SE-06,Kelantan,N.20 Ketereh,1,7903,Che Wil Bin Che Ali,PAS,4,PAS,0,ALONE,4257,44.67415258684017,2,lost
+1982-04-22,SE-06,Kelantan,N.20 Ketereh,2,7842,Ariffin Bin Mahmood,BN,1,UMNO,3,BN,5272,55.32584741315982,1,won
+1982-04-22,SE-06,Kelantan,N.21 Peringat,1,618,Wan Hashim Bin Haji Wan Ahmad,BN,1,UMNO,3,BN,4859,52.91875408407755,1,won
+1982-04-22,SE-06,Kelantan,N.21 Peringat,2,1832,Wan Daud Bin Wan Jusoh,PAS,4,PAS,0,ALONE,4323,47.08124591592246,2,lost
+1982-04-22,SE-06,Kelantan,N.22 Bukit Panau,1,7846,Ab/. Latif Bin Haji Ad. Rahman,BN,1,UMNO,3,BN,5064,53.40082252451756,1,won
+1982-04-22,SE-06,Kelantan,N.22 Bukit Panau,2,7818,Ibrahim @ Wan Yusoff Bin Haji Wan Mamat,PAS,4,PAS,0,ALONE,4419,46.59917747548244,2,lost
+1982-04-22,SE-06,Kelantan,N.23 Lanas,1,627,Mohamed Bin Ya'Acob,BN,1,UMNO,3,BN,4847,54.886196353753824,1,won
+1982-04-22,SE-06,Kelantan,N.23 Lanas,2,7848,Abdullah Bin Che Hassan,PAS,4,PAS,0,ALONE,3984,45.113803646246176,2,lost
+1982-04-22,SE-06,Kelantan,N.24 Gual Ipoh,1,7906,Haji Othman Bin Haji Hassan,PAS,4,PAS,0,ALONE,2697,36.245128342964655,2,lost
+1982-04-22,SE-06,Kelantan,N.24 Gual Ipoh,2,7851,Mustafa Bin Yaakub,BN,1,UMNO,3,BN,4744,63.75487165703535,1,won
+1982-04-22,SE-06,Kelantan,N.25 Pulai Chondong,1,7907,Arshad Bin Mamat,PAS,4,PAS,0,ALONE,3304,42.654273173250715,2,lost
+1982-04-22,SE-06,Kelantan,N.25 Pulai Chondong,2,7908,Abdullah Bin Hj. Mohamed,BN,1,UMNO,3,BN,4442,57.345726826749285,1,won
+1982-04-22,SE-06,Kelantan,N.26 Bandar Machang,1,7559,Ibrahim Bin Mohamed,BN,1,UMNO,3,BN,5278,51.71974522292994,1,won
+1982-04-22,SE-06,Kelantan,N.26 Bandar Machang,2,7909,Abdul Manan Bin Mohamed,PAS,4,PAS,0,ALONE,4927,48.28025477707006,2,lost
+1982-04-22,SE-06,Kelantan,N.27 Sungei Rasau,1,7910,Nawawi Bin Hj. Muhammad,PAS,4,PAS,0,ALONE,2553,42.10786739238001,2,lost
+1982-04-22,SE-06,Kelantan,N.27 Sungei Rasau,2,7858,Yahya Bin Hj. Yusof,BN,1,UMNO,3,BN,3510,57.89213260761999,1,won
+1982-04-22,SE-06,Kelantan,N.28 Selising,1,1837,Abd. Rahman Bin Haji Ahmad,PAS,4,PAS,0,ALONE,0,,1,won_uncontested
+1982-04-22,SE-06,Kelantan,N.29 Bandar Pasir Puteh,1,7913,Mustaffa Bin Hussain,PAS,4,PAS,0,ALONE,3340,41.43920595533499,2,lost
+1982-04-22,SE-06,Kelantan,N.29 Bandar Pasir Puteh,2,7914,Mohd. Noor Bin Mohamed,BEBAS,0,BEBAS,0,ALONE,153,1.8982630272952856,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.29 Bandar Pasir Puteh,3,7690,Raja Mahmud Bin Raja Mamat,BN,1,UMNO,3,BN,4567,56.66253101736972,1,won
+1982-04-22,SE-06,Kelantan,N.30 Cherang Ruku,1,7915,Mat Jelani @ Mohammed Jelani Bin Jaafar,BN,1,UMNO,3,BN,5106,55.01562331645297,1,won
+1982-04-22,SE-06,Kelantan,N.30 Cherang Ruku,2,7916,Mat Noor Bin Mamat,PAS,4,PAS,0,ALONE,4175,44.98437668354703,2,lost
+1982-04-22,SE-06,Kelantan,N.31 Temangan,1,7870,Salleh Bin Che Harun,BN,1,UMNO,3,BN,3732,59.360585334817884,1,won
+1982-04-22,SE-06,Kelantan,N.31 Temangan,2,7917,Mohd. Noor Bin Haji Yaakub,PAS,4,PAS,0,ALONE,2555,40.63941466518212,2,lost
+1982-04-22,SE-06,Kelantan,N.32 Guchil,1,7918,Wan Hasan Bin Wan Yusof,PAS,4,PAS,0,ALONE,3596,49.092150170648466,2,lost
+1982-04-22,SE-06,Kelantan,N.32 Guchil,2,1842,Mohamed Bin Isa,BN,1,UMNO,3,BN,3729,50.907849829351534,1,won
+1982-04-22,SE-06,Kelantan,N.33 Pahi,1,7874,Ab. Aziz Bin Talib,BN,1,UMNO,3,BN,3710,59.32203389830508,1,won
+1982-04-22,SE-06,Kelantan,N.33 Pahi,2,7920,Lee Pong Hin @ Lee Khoon Heng,BEBAS,0,BEBAS,0,ALONE,191,3.0540454109370003,3,lost_deposit
+1982-04-22,SE-06,Kelantan,N.33 Pahi,3,1200,Mohd. Zahari Bin Awang,PAS,4,PAS,0,ALONE,2353,37.62392069075792,2,lost
+1982-04-22,SE-06,Kelantan,N.34 Jeli,1,7921,Haji Zainal Bin Awang,PAS,4,PAS,0,ALONE,3286,44.87232008739588,2,lost
+1982-04-22,SE-06,Kelantan,N.34 Jeli,2,7787,Ab. Samat Bin Haji Drahman,BN,1,UMNO,3,BN,4037,55.12767991260412,1,won
+1982-04-22,SE-06,Kelantan,N.35 Gua Musang,1,7811,Abdul Ghani Bin Abu Bakar,BN,1,UMNO,3,BN,6936,68.36191602602011,1,won
+1982-04-22,SE-06,Kelantan,N.35 Gua Musang,2,2196,Buniyamin Bin Yaakob,PAS,4,PAS,0,ALONE,3210,31.638083973979892,2,lost
+1982-04-22,SE-06,Kelantan,N.36 Manek Urai,1,7923,Ariffin Bin Said,BN,1,UMNO,3,BN,4584,56.41151858232833,1,won
+1982-04-22,SE-06,Kelantan,N.36 Manek Urai,2,7813,Wan Abdullah Bin Wan Su,PAS,4,PAS,0,ALONE,3542,43.58848141767167,2,lost
+1986-08-02,SE-07,Kelantan,N.01 Geting,1,1489,Ismail Bin Awang,PAS,4,PAS,18,HAK,4665,47.51960884180503,2,lost
+1986-08-02,SE-07,Kelantan,N.01 Geting,2,3242,Mat Nawawi Bin Mat Jusoh,BN,1,UMNO,3,BN,5152,52.48039115819497,1,won
+1986-08-02,SE-07,Kelantan,N.02 Sungai Pinang,1,7925,Mansor Bin Salleh,BN,1,UMNO,3,BN,5195,53.41902313624679,1,won
+1986-08-02,SE-07,Kelantan,N.02 Sungai Pinang,2,7818,Wan Mamat Bin Wan Yusoff,PAS,4,PAS,18,HAK,4530,46.580976863753214,2,lost
+1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,1,1194,Hussein Bin Mahmood,BN,1,UMNO,3,BN,6146,51.405152224824356,1,won
+1986-08-02,SE-07,Kelantan,N.03 Wakaf Baharu,2,7882,Ramli Bin Abu Bakar,PAS,4,PAS,18,HAK,5810,48.594847775175644,2,lost
+1986-08-02,SE-07,Kelantan,N.04 Semut Api,1,614,Haji Nik Ab. Aziz Bin Nik Mat,PAS,4,PAS,18,HAK,6233,60.35634743875279,1,won
+1986-08-02,SE-07,Kelantan,N.04 Semut Api,2,7927,Hafsah Bt Osman,BN,1,UMNO,3,BN,4094,39.643652561247215,2,lost
+1986-08-02,SE-07,Kelantan,N.05 Kemumin,1,7928,Mohd Zain Bin Mat Daud,BN,1,UMNO,3,BN,5045,46.06885215962013,2,lost
+1986-08-02,SE-07,Kelantan,N.05 Kemumin,2,7819,Hj. Daud Bin Ibrahim,PAS,4,PAS,18,HAK,5906,53.93114784037988,1,won
+1986-08-02,SE-07,Kelantan,N.06 Banggol,1,7930,Dato' Haji Ariffin Bin Salleh,BN,1,UMNO,3,BN,3920,42.57167680278019,2,lost
+1986-08-02,SE-07,Kelantan,N.06 Banggol,2,3243,Ab. Halim Bin Ab. Rahman,PAS,4,PAS,18,HAK,5288,57.42832319721981,1,won
+1986-08-02,SE-07,Kelantan,N.07 Padang Garong,1,7931,Lim Ton Keng @ Lim Jit Keng,BN,3,MCA,3,BN,6729,52.268137331054845,1,won
+1986-08-02,SE-07,Kelantan,N.07 Padang Garong,2,7932,Kam Sam Chuan,DAP,23,DAP,0,ALONE,1372,10.657138418517944,3,lost_deposit
+1986-08-02,SE-07,Kelantan,N.07 Padang Garong,3,7933,Hj. Mohd Saldi Bin Hj. Ibrahim,PAS,4,PAS,18,HAK,4773,37.07472425042722,2,lost
+1986-08-02,SE-07,Kelantan,N.08 Bunut Payong,1,2537,Ahmad Rastom B. Haji Ahmad Maher,BN,1,UMNO,3,BN,6291,55.78611332801277,1,won
+1986-08-02,SE-07,Kelantan,N.08 Bunut Payong,2,7889,Ya'Acob Bin Abdullah,DAP,23,DAP,0,ALONE,449,3.9815553782034225,3,lost_deposit
+1986-08-02,SE-07,Kelantan,N.08 Bunut Payong,3,7935,Wan Hassan Bin Wan Othman,PAS,4,PAS,18,HAK,4537,40.23233129378381,2,lost
+1986-08-02,SE-07,Kelantan,N.09 Lundang,1,7996,Wardi Bin Haji Ahmad,PAS,4,PAS,18,HAK,5984,53.74045801526718,1,won
+1986-08-02,SE-07,Kelantan,N.09 Lundang,2,7937,Wan Ahmad Bin Wan Ismail,BN,1,UMNO,3,BN,5151,46.25954198473283,2,lost
+1986-08-02,SE-07,Kelantan,N.10 Tendong,1,7938,Ismail Bin Che Mat,BN,1,UMNO,3,BN,5589,61.74326115775519,1,won
+1986-08-02,SE-07,Kelantan,N.10 Tendong,2,7939,Ab. Kadir Bin Hassan,PAS,4,PAS,18,HAK,3463,38.25673884224481,2,lost
+1986-08-02,SE-07,Kelantan,N.11 Pengkalan Pasir,1,7887,Mohd. Hassan Bin Che Wail @ Hassan Bin Ismail,BN,1,UMNO,3,BN,5743,60.95955843328734,1,won
+1986-08-02,SE-07,Kelantan,N.11 Pengkalan Pasir,2,2884,Ismail Bin Noh,PAS,4,PAS,18,HAK,3678,39.040441566712666,2,lost
+1986-08-02,SE-07,Kelantan,N.12 Meranti,1,7941,Mohamed Noor Bin Awang,PAS,4,PAS,18,HAK,4385,49.03276305490328,2,lost
+1986-08-02,SE-07,Kelantan,N.12 Meranti,2,7823,Zaid Bin Fadzil,BN,1,UMNO,3,BN,4558,50.96723694509673,1,won
+1986-08-02,SE-07,Kelantan,N.13 Gual Periok,1,7942,Daud Bin Hj. Ab. Raof,PAS,4,PAS,18,HAK,3955,46.34946677604594,2,lost
+1986-08-02,SE-07,Kelantan,N.13 Gual Periok,2,7943,Abdul Rahman Bin Awang,BN,1,UMNO,3,BN,4578,53.650533223954056,1,won
+1986-08-02,SE-07,Kelantan,N.14 Bukit Tuku,1,7896,Zakaria Bin Botok,BN,1,UMNO,3,BN,4218,52.30654761904761,1,won
+1986-08-02,SE-07,Kelantan,N.14 Bukit Tuku,2,2887,Abdul Fatah Bin Haji Haron,PAS,4,PAS,18,HAK,3846,47.69345238095239,2,lost
+1986-08-02,SE-07,Kelantan,N.15 Chetok,1,410,Hassan Bin Haji Mohamed,BN,1,UMNO,3,BN,4329,53.1361237265251,1,won
+1986-08-02,SE-07,Kelantan,N.15 Chetok,2,7945,Mustapha Bin Taib,PAS,4,PAS,18,HAK,3818,46.863876273474894,2,lost
+1986-08-02,SE-07,Kelantan,N.16 Salor,1,7946,Ibrahim Bin Isa,PAS,4,PAS,18,HAK,3939,44.70548178413347,2,lost
+1986-08-02,SE-07,Kelantan,N.16 Salor,2,8250,Siti Jeliha @ Zaleha Binti Hussin,BN,1,UMNO,3,BN,4872,55.29451821586653,1,won
+1986-08-02,SE-07,Kelantan,N.17 Mulong,1,1193,Mustapha Bin Ibrahim,PAS,4,PAS,18,HAK,3815,52.853976170684405,1,won
+1986-08-02,SE-07,Kelantan,N.17 Mulong,2,1491,Wan Ibrahim Bin Wan Abdullah @ Ibrahim Bin Abdullah,BN,1,UMNO,3,BN,3403,47.146023829315595,2,lost
+1986-08-02,SE-07,Kelantan,N.18 Peringat,1,1832,Daud Bin Jusoh @ Yusof,PAS,4,PAS,18,HAK,4419,49.2422554045019,2,lost
+1986-08-02,SE-07,Kelantan,N.18 Peringat,2,2194,Annuar Bin Hj. Musa,BN,1,UMNO,3,BN,4555,50.75774459549811,1,won
+1986-08-02,SE-07,Kelantan,N.19 Tawang,1,7834,Mohamad Bin Haji Hassan,BN,1,UMNO,3,BN,5409,48.950226244343895,2,lost
+1986-08-02,SE-07,Kelantan,N.19 Tawang,2,7891,Idris Bin Ahmad,PAS,4,PAS,18,HAK,5641,51.04977375565611,1,won
+1986-08-02,SE-07,Kelantan,N.20 Perupok,1,7832,Omar Bin Mohammed,PAS,4,PAS,18,HAK,5166,50.64705882352941,1,won
+1986-08-02,SE-07,Kelantan,N.20 Perupok,2,7893,Mamat Bin Awang @ Mohd. Nor Bin Awang,BN,1,UMNO,3,BN,5034,49.35294117647059,2,lost
+1986-08-02,SE-07,Kelantan,N.21 Jelawat,1,7952,Ahmad Shahibuddin B. Hj. Mohd. Nor,BN,1,UMNO,3,BN,6208,55.00620237462343,1,won
+1986-08-02,SE-07,Kelantan,N.21 Jelawat,2,7895,Shaary Bin Haji Awang,PAS,4,PAS,18,HAK,5078,44.99379762537657,2,lost
+1986-08-02,SE-07,Kelantan,N.22 Cherang Ruku,1,7915,Mat Jelani @ Mohammed Jelani Bin Jaafar,BN,1,UMNO,3,BN,4436,58.60747787026027,1,won
+1986-08-02,SE-07,Kelantan,N.22 Cherang Ruku,2,7953,Sulaiman Bin Ahmad,PAS,4,PAS,18,HAK,3133,41.39252212973973,2,lost
+1986-08-02,SE-07,Kelantan,N.23 Limbongan,1,7690,Raja Mahmud Bin Raja Mamat,BN,1,UMNO,3,BN,5187,56.78782570615284,1,won
+1986-08-02,SE-07,Kelantan,N.23 Limbongan,2,7954,Wan Yusoff Bin Haji Abdul Rahman,PAS,4,PAS,18,HAK,3947,43.21217429384717,2,lost
+1986-08-02,SE-07,Kelantan,N.24 Gaal,1,7955,Daud Bin Yusoff,BN,1,UMNO,3,BN,4103,52.75813295615276,1,won
+1986-08-02,SE-07,Kelantan,N.24 Gaal,2,910,Musa Bin Saleh,PAS,4,PAS,18,HAK,3674,47.24186704384724,2,lost
+1986-08-02,SE-07,Kelantan,N.25 Selising,1,7687,Wan Muhammad Bin Wan Abu Bakar,BN,1,UMNO,3,BN,4609,51.34231926033196,1,won
+1986-08-02,SE-07,Kelantan,N.25 Selising,2,7957,Che Bisi Bin Hassan,PAS,4,PAS,18,HAK,4368,48.65768073966804,2,lost
+1986-08-02,SE-07,Kelantan,N.26 Ketereh,1,7842,Airffin Bin Mahmood,BN,1,UMNO,3,BN,5126,57.82942238267148,1,won
+1986-08-02,SE-07,Kelantan,N.26 Ketereh,2,7959,Che Ismail Bin Che Ali,PAS,4,PAS,18,HAK,3738,42.17057761732852,2,lost
+1986-08-02,SE-07,Kelantan,N.27 Pulai Chondong,1,7960,Mustapha Bin Yahya,PAS,4,PAS,18,HAK,2807,39.78174603174603,2,lost
+1986-08-02,SE-07,Kelantan,N.27 Pulai Chondong,2,7908,"Abdullah Bin Hj, Mohamed",BN,1,UMNO,3,BN,4249,60.21825396825397,1,won
+1986-08-02,SE-07,Kelantan,N.28 Bukit Panau,1,7846,Ab. Latif Bin Hj. Ab. Rahman,BN,1,UMNO,3,BN,5504,55.663430420711975,1,won
+1986-08-02,SE-07,Kelantan,N.28 Bukit Panau,2,7963,Mat Yusoff Bin Mat Sah,PAS,4,PAS,18,HAK,4384,44.336569579288025,2,lost
+1986-08-02,SE-07,Kelantan,N.29 Panglima Bayu,1,627,Mohamed Bin Yaacob,BN,1,UMNO,3,BN,5074,58.30843484256493,1,won
+1986-08-02,SE-07,Kelantan,N.29 Panglima Bayu,2,1195,Hanafi Bin Haji Daud,PAS,4,PAS,18,HAK,3628,41.69156515743507,2,lost
+1986-08-02,SE-07,Kelantan,N.30 Jeli,1,7787,"Ab. Samat Bin Hj, Drahman",BN,1,UMNO,3,BN,4167,55.44172432144758,1,won
+1986-08-02,SE-07,Kelantan,N.30 Jeli,2,7737,Haji Zainal Abidin Bin Haji Yacob,PAS,4,PAS,18,HAK,3349,44.55827567855242,2,lost
+1986-08-02,SE-07,Kelantan,N.31 Gual Ipoh,1,7965,Stapa B. Awang Ali,PAS,4,PAS,18,HAK,2277,37.10886571056062,2,lost
+1986-08-02,SE-07,Kelantan,N.31 Gual Ipoh,2,7851,Mustafa Bin Yaakub,BN,1,UMNO,3,BN,3859,62.89113428943938,1,won
+1986-08-02,SE-07,Kelantan,N.32 Labok,1,7966,Mohamed Omar @ Mamuhuabah Bin Gul Muhamad,BN,1,UMNO,3,BN,3321,42.327300535304616,2,lost
+1986-08-02,SE-07,Kelantan,N.32 Labok,2,7967,Husin Bin Omar,PAS,4,PAS,18,HAK,4525,57.672699464695384,1,won
+1986-08-02,SE-07,Kelantan,N.33 Banggol Judah,1,1198,Yahya Bin Seman @ Haji Othman,PAS,4,PAS,18,HAK,3058,46.72268907563025,2,lost
+1986-08-02,SE-07,Kelantan,N.33 Banggol Judah,2,7715,Ismail Bin Mamat,BN,1,UMNO,3,BN,3487,53.27731092436975,1,won
+1986-08-02,SE-07,Kelantan,N.34 Temangan,1,7870,Haji Salleh Bin Che Harun,BN,1,UMNO,3,BN,4872,63.64467668190726,1,won
+1986-08-02,SE-07,Kelantan,N.34 Temangan,2,7971,Ismail Bin Sulaiman,PAS,4,PAS,18,HAK,2783,36.35532331809274,2,lost
+1986-08-02,SE-07,Kelantan,N.35 Guchil,1,7918,Wan Hasan Bin Wan Yusof,PAS,4,PAS,18,HAK,4078,52.101699246199054,1,won
+1986-08-02,SE-07,Kelantan,N.35 Guchil,2,7972,Lai Kim Siong,BN,1,UMNO,3,BN,3749,47.898300753800946,2,lost
+1986-08-02,SE-07,Kelantan,N.36 Manek Urai,1,7973,Ismail Yaacob,PAS,4,PAS,18,HAK,3650,54.42886966895317,1,won
+1986-08-02,SE-07,Kelantan,N.36 Manek Urai,2,2555,Wan Zaid Bin Wan Abdullah,BN,1,UMNO,3,BN,3056,45.571130331046824,2,lost
+1986-08-02,SE-07,Kelantan,N.37 Dabong,1,8217,Mohamad Rozali Bin Isohak,BN,1,UMNO,3,BN,3410,57.993197278911566,1,won
+1986-08-02,SE-07,Kelantan,N.37 Dabong,2,7975,Mamat Bin Abdullah @ Ab. Razak,PAS,4,PAS,18,HAK,2470,42.00680272108844,2,lost
+1986-08-02,SE-07,Kelantan,N.38 Paloh,1,7923,Dato'S Haji Ariffin Bin Said,BN,1,UMNO,3,BN,5329,76.15032866533295,1,won
+1986-08-02,SE-07,Kelantan,N.38 Paloh,2,7977,Mokhtar Bin Saleh,PAS,4,PAS,18,HAK,1669,23.849671334667047,2,lost
+1986-08-02,SE-07,Kelantan,N.39 Galas,1,7978,Zakaria Bin Hasan,BN,1,UMNO,3,BN,3420,72.75047862156988,1,won
+1986-08-02,SE-07,Kelantan,N.39 Galas,2,19365,Ibrahim Bin Abdullah,PAS,4,PAS,18,HAK,1281,27.24952137843012,2,lost
+1990-10-20,SE-08,Kelantan,N.01 Geting,1,345,Dato' Nik Man,S46,60,S46,4,APU,6728,55.931498877712194,1,won
+1990-10-20,SE-08,Kelantan,N.01 Geting,2,3242,Cikgu Mat Nawi,BN,1,UMNO,3,BN,5301,44.068501122287806,2,lost
+1990-10-20,SE-08,Kelantan,N.02 Sungai Pinang,1,4380,Nordin Bin Salleh,S46,60,S46,4,APU,7458,63.31607097376687,1,won
+1990-10-20,SE-08,Kelantan,N.02 Sungai Pinang,2,7981,Hj. Muhamad Abdullah,BEBAS,0,BEBAS,0,ALONE,43,0.36505645640546736,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.02 Sungai Pinang,3,7925,Mansor Bin Salleh,BN,1,UMNO,3,BN,4278,36.31887256982766,2,lost
+1990-10-20,SE-08,Kelantan,N.03 Wakaf Baharu,1,7982,Jaffar Bin Che Awang,BEBAS,0,BEBAS,0,ALONE,143,1.0150482680295285,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.03 Wakaf Baharu,2,7882,Hj. Ramli Bin Hj Abu Bakar,PAS,4,PAS,4,APU,9985,70.87592277115276,1,won
+1990-10-20,SE-08,Kelantan,N.03 Wakaf Baharu,3,1194,Hj. Hussien Bin Mahmood,BN,1,UMNO,3,BN,3960,28.109028960817717,2,lost
+1990-10-20,SE-08,Kelantan,N.04 Semut Api,1,614,Tuan Guru Hj Nik Abdul Aziz Bin Nik Mat,PAS,4,PAS,4,APU,9504,79.10112359550561,1,won
+1990-10-20,SE-08,Kelantan,N.04 Semut Api,2,7818,Hj Wan Mat,BN,1,UMNO,3,BN,2511,20.89887640449438,2,lost
+1990-10-20,SE-08,Kelantan,N.05 Kemumin,1,7819,Cik Gu Haji Daud,PAS,4,PAS,4,APU,9310,65.51724137931035,1,won
+1990-10-20,SE-08,Kelantan,N.05 Kemumin,2,7988,Abang Pin,BN,1,UMNO,3,BN,4900,34.48275862068966,2,lost
+1990-10-20,SE-08,Kelantan,N.06 Banggol,1,19381,Ismail Bin Idris,BEBAS,0,BEBAS,0,ALONE,83,0.7683762266246992,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.06 Banggol,2,7989,Manaf Bin Daud,BN,1,UMNO,3,BN,2322,21.49601925569339,2,lost
+1990-10-20,SE-08,Kelantan,N.06 Banggol,3,3243,Ustaz Halim,PAS,4,PAS,4,APU,8397,77.7356045176819,1,won
+1990-10-20,SE-08,Kelantan,N.07 Padang Garong,1,7991,Dr.Lim Kok Tee,DAP,23,DAP,5,GR,2156,15.29186467125328,3,lost
+1990-10-20,SE-08,Kelantan,N.07 Padang Garong,2,618,Wan Hashim Ahmad,BERJASA,37,BERJASA,4,APU,7341,52.06752251932761,1,won
+1990-10-20,SE-08,Kelantan,N.07 Padang Garong,3,7931,Lim Jit Keng,BN,3,MCA,3,BN,4602,32.6406128094191,2,lost
+1990-10-20,SE-08,Kelantan,N.08 Bunut Payong,1,2537,Dato Ahmad Rastom,BN,1,UMNO,3,BN,4402,34.13461538461539,2,lost
+1990-10-20,SE-08,Kelantan,N.08 Bunut Payong,2,7995,Dato' Halim Bin Mohamed,PAS,4,PAS,4,APU,8494,65.86538461538461,1,won
+1990-10-20,SE-08,Kelantan,N.09 Lundang,1,7996,Haji Mawardi Haji Ahmad,PAS,4,PAS,4,APU,9354,71.69464244653943,1,won
+1990-10-20,SE-08,Kelantan,N.09 Lundang,2,7997,Wan Muhammad Wan Ismail,BEBAS,0,BEBAS,0,ALONE,210,1.6095654173373188,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.09 Lundang,3,7998,Cikgu Haji Arifin Othman,BN,1,UMNO,3,BN,3483,26.69579213612325,2,lost
+1990-10-20,SE-08,Kelantan,N.10 Tendong,1,7999,Hj Zainuddin @ Fadhil Bin Haji Mohamed Nor,S46,60,S46,4,APU,6607,63.24909056098028,1,won
+1990-10-20,SE-08,Kelantan,N.10 Tendong,2,7938,Ismail Che Mat,BN,1,UMNO,3,BN,3839,36.75090943901972,2,lost
+1990-10-20,SE-08,Kelantan,N.11 Pengkalan Pasir,1,8001,Haji Hassan Abdullah,PAS,4,PAS,4,APU,6872,62.993858282152345,1,won
+1990-10-20,SE-08,Kelantan,N.11 Pengkalan Pasir,2,7887,Che Gu Haji Hassan Pa'Su Mail,BN,1,UMNO,3,BN,4037,37.006141717847655,2,lost
+1990-10-20,SE-08,Kelantan,N.12 Meranti,1,8003,Razali B Hj. Ismail,BN,1,UMNO,3,BN,3209,32.2674710910005,2,lost
+1990-10-20,SE-08,Kelantan,N.12 Meranti,2,903,Haji Zakaria Bin Ismail,PAS,4,PAS,4,APU,6736,67.7325289089995,1,won
+1990-10-20,SE-08,Kelantan,N.13 Gual Periok,1,7943,Haji Abdul Rahman Bin Awang,BN,1,UMNO,3,BN,3974,37.94156960091655,2,lost
+1990-10-20,SE-08,Kelantan,N.13 Gual Periok,2,8005,Nik Mustapha Bin Nik Loding,S46,60,S46,4,APU,6500,62.05843039908344,1,won
+1990-10-20,SE-08,Kelantan,N.14 Bukit Tuku,1,8006,Ustaz Haji Hussin Bin Ibrahim,PAS,4,PAS,4,APU,6336,59.89223934209282,1,won
+1990-10-20,SE-08,Kelantan,N.14 Bukit Tuku,2,4870,Encik Mohd Zain Bin Ismail,BN,1,UMNO,3,BN,4243,40.10776065790718,2,lost
+1990-10-20,SE-08,Kelantan,N.15 Chetok,1,8008,Cikgu Abdul Rahman B Haji Ismail,BEBAS,0,BEBAS,0,ALONE,210,2.2816166883963493,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.15 Chetok,2,410,Hj. Hassan Bin Mohamed,BN,1,UMNO,3,BN,3352,36.418948283355064,2,lost
+1990-10-20,SE-08,Kelantan,N.15 Chetok,3,8010,Ustaz Ab. Rahman Musa,PAS,4,PAS,4,APU,5642,61.29943502824858,1,won
+1990-10-20,SE-08,Kelantan,N.16 Salor,1,8092,Haji Ahmad Rusli Haji Ibrahim,S46,60,S46,4,APU,6956,64.65284877776745,1,won
+1990-10-20,SE-08,Kelantan,N.16 Salor,2,8250,Ustazah Zaleha Bt Hussin,BN,1,UMNO,3,BN,3666,34.07379868017474,2,lost
+1990-10-20,SE-08,Kelantan,N.16 Salor,3,7711,Haji Zakaria Bin Yussof,BEBAS,0,BEBAS,0,ALONE,137,1.273352542057812,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.17 Mulong,1,8014,Dr. Kamaruddin,BEBAS,0,BEBAS,0,ALONE,196,2.218198279764599,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.17 Mulong,2,8015,Cik Gu Kob,BN,1,UMNO,3,BN,2846,32.209144409234945,2,lost
+1990-10-20,SE-08,Kelantan,N.17 Mulong,3,8263,Mohamed Shukri Bin Hj Ab Rahman,PAS,4,PAS,4,APU,5794,65.57265731100046,1,won
+1990-10-20,SE-08,Kelantan,N.18 Peringat,1,8017,Cik Gu Haji Din,BN,1,UMNO,3,BN,4193,35.39591423265237,2,lost
+1990-10-20,SE-08,Kelantan,N.18 Peringat,2,1832,Ustaz Haji Daud,PAS,4,PAS,4,APU,7413,62.57808542968091,1,won
+1990-10-20,SE-08,Kelantan,N.18 Peringat,3,8019,Md. Bukhari Abdullah,BEBAS,0,BEBAS,0,ALONE,240,2.0260003376667233,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.19 Tawang,1,7891,Ustaz Hj. Idris B Hj Ahmad,PAS,4,PAS,4,APU,8808,70.83802477078976,1,won
+1990-10-20,SE-08,Kelantan,N.19 Tawang,2,8021,Cik Gu Zainal,BN,1,UMNO,3,BN,3626,29.16197522921023,2,lost
+1990-10-20,SE-08,Kelantan,N.20 Perupok,1,8022,Cik Gu Hj. Nor,BN,1,UMNO,3,BN,4179,36.6578947368421,2,lost
+1990-10-20,SE-08,Kelantan,N.20 Perupok,2,7832,Hj Omar Mohammed,PAS,4,PAS,4,APU,7221,63.3421052631579,1,won
+1990-10-20,SE-08,Kelantan,N.21 Jelawat,1,8024,Haji Mohd Daud Bin Jaafar,S46,60,S46,4,APU,8334,63.208191126279864,1,won
+1990-10-20,SE-08,Kelantan,N.21 Jelawat,2,7952,Cik Gu Din,BN,1,UMNO,3,BN,4724,35.828593098217674,2,lost
+1990-10-20,SE-08,Kelantan,N.21 Jelawat,3,8026,Haji Yusoff B Salleh,BEBAS,0,BEBAS,0,ALONE,127,0.963215775502465,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.22 Cherang Ruku,1,19376,Ustaz Man,PAS,4,PAS,4,APU,5124,58.10182560380996,1,won
+1990-10-20,SE-08,Kelantan,N.22 Cherang Ruku,2,8027,Pak Mud,BEBAS,0,BEBAS,0,ALONE,155,1.757568885361152,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.22 Cherang Ruku,3,7915,Mohammed Jelani B Jaafar,BN,1,UMNO,3,BN,3540,40.14060551082889,2,lost
+1990-10-20,SE-08,Kelantan,N.23 Limbongan,1,8029,Cikgu Hj. Agil,BN,1,UMNO,3,BN,3359,31.715607591351148,2,lost
+1990-10-20,SE-08,Kelantan,N.23 Limbongan,2,8030,Afandi Hassan,BEBAS,0,BEBAS,0,ALONE,141,1.3313190444717213,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.23 Limbongan,3,1197,Haji Wan Mohd Najib,S46,60,S46,4,APU,7091,66.95307336417713,1,won
+1990-10-20,SE-08,Kelantan,N.24 Gaal,1,7955,Cikgu Daud Yusoff,BN,1,UMNO,3,BN,2764,31.6863464404448,2,lost
+1990-10-20,SE-08,Kelantan,N.24 Gaal,2,7796,Mohamad Cik Tong,BEBAS,0,BEBAS,0,ALONE,122,1.3986013986013985,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.24 Gaal,3,3649,Ustaz Muhammad Husain,PAS,4,PAS,4,APU,5837,66.9150521609538,1,won
+1990-10-20,SE-08,Kelantan,N.25 Selising,1,8034,Nik Hassan,BEBAS,0,BEBAS,0,ALONE,93,0.9395837542937968,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.25 Selising,2,7957,Cik Gu Bisi,PAS,4,PAS,4,APU,6855,69.25641543746211,1,won
+1990-10-20,SE-08,Kelantan,N.25 Selising,3,8036,Cikgu Hajjah Wan Esah,BN,1,UMNO,3,BN,2950,29.80400080824409,2,lost
+1990-10-20,SE-08,Kelantan,N.26 Ketereh,1,8037,Zailani,BEBAS,0,BEBAS,0,ALONE,111,1.007533811382409,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.26 Ketereh,2,8038,Cikgu Haji Mat Haji Yusoff,PAS,4,PAS,4,APU,6916,62.775710265952625,1,won
+1990-10-20,SE-08,Kelantan,N.26 Ketereh,3,8039,Penggawa Haji Ariffin,BN,1,UMNO,3,BN,3990,36.21675592266497,2,lost
+1990-10-20,SE-08,Kelantan,N.27 Pulai Chondong,1,8040,Kapt. (B) Mohamad Noor Bin Ahmad,S46,60,S46,4,APU,5083,67.0934530095037,1,won
+1990-10-20,SE-08,Kelantan,N.27 Pulai Chondong,2,7908,Abdullah Bin Hj. Mohamed,BN,1,UMNO,3,BN,2493,32.9065469904963,2,lost
+1990-10-20,SE-08,Kelantan,N.28 Bukit Panau,1,7846,Ustaz Ab. Latif,BN,1,UMNO,3,BN,4322,36.09487222315016,2,lost
+1990-10-20,SE-08,Kelantan,N.28 Bukit Panau,2,8042,Hanafi Bin Hamat,BEBAS,0,BEBAS,0,ALONE,148,1.236011357942208,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.28 Bukit Panau,3,7963,Mat Yusoff Bin Mat Sah,PAS,4,PAS,4,APU,7504,62.669116418907635,1,won
+1990-10-20,SE-08,Kelantan,N.29 Panglima Bayu,1,2205,Shafi'I Bin Haji Abdul Rahman,BEBAS,0,BEBAS,0,ALONE,87,0.8357348703170028,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.29 Panglima Bayu,2,2553,Zianon Abidin Bin Ali,S46,60,S46,4,APU,6622,63.611911623439,1,won
+1990-10-20,SE-08,Kelantan,N.29 Panglima Bayu,3,627,Tan Sri Dato' Haji Mohamed Bin Ya'Acob,BN,1,UMNO,3,BN,3701,35.552353506243996,2,lost
+1990-10-20,SE-08,Kelantan,N.30 Jeli,1,8045,Abang Soh,PAS,4,PAS,4,APU,6495,67.2429858163371,1,won
+1990-10-20,SE-08,Kelantan,N.30 Jeli,2,7787,Ab. Samat Bin Hj. Drahman,BN,1,UMNO,3,BN,3103,32.12547882803603,2,lost
+1990-10-20,SE-08,Kelantan,N.30 Jeli,3,8046,Abdullah Sani Bin Ismail,BEBAS,0,BEBAS,0,ALONE,61,0.6315353556268765,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.31 Gual Ipoh,1,8047,Mat Zin Bin Abdul Rahman,BEBAS,0,BEBAS,0,ALONE,72,0.9970918155380142,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.31 Gual Ipoh,2,7851,Che Gu Mustafa B Yaakob,BN,1,UMNO,3,BN,2931,40.589945990859995,2,lost
+1990-10-20,SE-08,Kelantan,N.31 Gual Ipoh,3,8049,Tengku Alang Bin T. Sulong,S46,60,S46,4,APU,4218,58.41296219360199,1,won
+1990-10-20,SE-08,Kelantan,N.32 Labok,1,8050,Haji Safii,BN,1,UMNO,3,BN,2447,27.962518569306365,2,lost
+1990-10-20,SE-08,Kelantan,N.32 Labok,2,8051,Wan Zahidi Hj Wan Ismail,BEBAS,0,BEBAS,0,ALONE,108,1.234144669180665,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.32 Labok,3,7967,Haji Wan Husin,PAS,4,PAS,4,APU,6196,70.80333676151297,1,won
+1990-10-20,SE-08,Kelantan,N.33 Banggol Judah,1,7715,Ismail Mamat,BN,1,UMNO,3,BN,3078,36.80497429152218,2,lost
+1990-10-20,SE-08,Kelantan,N.33 Banggol Judah,2,1198,Ustaz Ya,PAS,4,PAS,4,APU,5198,62.154729164175535,1,won
+1990-10-20,SE-08,Kelantan,N.33 Banggol Judah,3,8055,Alias Bin Jusoh,BEBAS,0,BEBAS,0,ALONE,87,1.0402965443022838,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.34 Temangan,1,7870,Cikgu Leh,BN,1,UMNO,3,BN,3039,35.14513704174858,2,lost
+1990-10-20,SE-08,Kelantan,N.34 Temangan,2,8057,Hajah Kelthum Binti Haji Ahmed,S46,60,S46,4,APU,5608,64.85486295825142,1,won
+1990-10-20,SE-08,Kelantan,N.35 Guchil,1,1842,Mohamed Bin Isa,BN,1,UMNO,3,BN,3275,34.121692019170666,2,lost
+1990-10-20,SE-08,Kelantan,N.35 Guchil,2,7918,Wan Hasan Bin Wan Yusof,PAS,4,PAS,4,APU,6323,65.87830798082935,1,won
+1990-10-20,SE-08,Kelantan,N.36 Manek Urai,1,8058,Zakaria Bin Awang,BEBAS,0,BEBAS,0,ALONE,111,1.3146985668601208,3,lost_deposit
+1990-10-20,SE-08,Kelantan,N.36 Manek Urai,2,2555,Hj. Wan Zaid,BN,1,UMNO,3,BN,2362,27.975837972284733,2,lost
+1990-10-20,SE-08,Kelantan,N.36 Manek Urai,3,7973,Ismail Bin Yaacob,PAS,4,PAS,4,APU,5970,70.70946346085515,1,won
+1990-10-20,SE-08,Kelantan,N.37 Dabong,1,8217,Haji Rozali Isohak,S46,60,S46,4,APU,5922,81.42444658325313,1,won
+1990-10-20,SE-08,Kelantan,N.37 Dabong,2,8061,Haji Hamad Bin Mat Jaih,BN,1,UMNO,3,BN,1351,18.575553416746875,2,lost
+1990-10-20,SE-08,Kelantan,N.38 Paloh,1,7923,Dato' Haji Ariffin Bin Said,BN,1,UMNO,3,BN,2737,24.5580978017048,2,lost
+1990-10-20,SE-08,Kelantan,N.38 Paloh,2,8063,Nozula Mat Diah,S46,60,S46,4,APU,8408,75.4419021982952,1,won
+1990-10-20,SE-08,Kelantan,N.39 Galas,1,7978,Haji Zakaria Bin Haji Hassan,BN,1,UMNO,3,BN,1760,28.273092369477908,2,lost
+1990-10-20,SE-08,Kelantan,N.39 Galas,2,8065,Haji Omar Mohamed,S46,60,S46,4,APU,4465,71.72690763052209,1,won
+1995-04-24,SE-09,Kelantan,N.01 Pengkalan Kubor,1,3242,Mat Nawawi Bin Mat Jusoh,BN,1,UMNO,3,BN,6086,55.968364907117895,1,won
+1995-04-24,SE-09,Kelantan,N.01 Pengkalan Kubor,2,8066,Wan Rahman Bin W Salleh,S46,60,S46,4,APU,4788,44.031635092882105,2,lost
+1995-04-24,SE-09,Kelantan,N.02 Kelaboran,1,7925,Mansor Bin Salleh,BN,1,UMNO,3,BN,5328,46.01036269430052,2,lost
+1995-04-24,SE-09,Kelantan,N.02 Kelaboran,2,8067,Noordin Bin Yaakub,S46,60,S46,4,APU,6252,53.989637305699475,1,won
+1995-04-24,SE-09,Kelantan,N.03 Pasir Pekan,1,8068,Ahmad Bin Yakob @ Ustaz Mat To' Guru Kob,PAS,4,PAS,4,APU,6980,62.2047945815881,1,won
+1995-04-24,SE-09,Kelantan,N.03 Pasir Pekan,2,2894,Saupi Bin Daud,BN,1,UMNO,3,BN,4241,37.7952054184119,2,lost
+1995-04-24,SE-09,Kelantan,N.04 Kijang,1,3243,Ab. Halim Bin Ab. Rahman,PAS,4,PAS,4,APU,6865,72.8691221738669,1,won
+1995-04-24,SE-09,Kelantan,N.04 Kijang,2,8070,Ruhani Bt Mamat,BN,1,UMNO,3,BN,2556,27.13087782613311,2,lost
+1995-04-24,SE-09,Kelantan,N.05 Chempaka,1,614,Nik Abdul Aziz Bin Nik Mat,PAS,4,PAS,4,APU,7851,72.79554937413074,1,won
+1995-04-24,SE-09,Kelantan,N.05 Chempaka,2,8071,Yusof Bin Isa,BN,1,UMNO,3,BN,2934,27.204450625869264,2,lost
+1995-04-24,SE-09,Kelantan,N.06 Panchor,1,8072,Mohd Yusoff Bin Ludin @ Tok Imam Sof,PAS,4,PAS,4,APU,6499,64.64736894459365,1,won
+1995-04-24,SE-09,Kelantan,N.06 Panchor,2,8073,Hamdi Bin Omar,BN,1,UMNO,3,BN,3448,34.298219436983985,2,lost
+1995-04-24,SE-09,Kelantan,N.06 Panchor,3,2535,Yusof Bin Mat,AKIM,67,AKIM,0,ALONE,106,1.0544116184223615,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.07 Tanjong Mas,1,1845,Abd. Rahim Bin Wan Abdullah,PAS,4,PAS,4,APU,9213,68.25455623055268,1,won
+1995-04-24,SE-09,Kelantan,N.07 Tanjong Mas,2,3635,Datuk Haji Mohamed Fatmi Bin Che Che Salleh,BN,1,UMNO,3,BN,4228,31.323158986516518,2,lost
+1995-04-24,SE-09,Kelantan,N.07 Tanjong Mas,3,8075,Ramli Bin Sulaiman,AKIM,67,AKIM,0,ALONE,57,0.42228478293080457,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.08 Kota Lama,1,8076,Foo Chee Lian @ Foo Chee Tow,BEBAS,0,BEBAS,0,ALONE,214,1.3115959794067173,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.08 Kota Lama,2,8077,Leong Su Siang,BN,3,MCA,3,BN,8837,54.161559205687674,1,won
+1995-04-24,SE-09,Kelantan,N.08 Kota Lama,3,909,Mohd Yusoff @ Yusof Bin Haji Mohd. Nor,BERJASA,37,BERJASA,4,APU,7161,43.88943368472665,2,lost
+1995-04-24,SE-09,Kelantan,N.08 Kota Lama,4,8079,Mohd Din Bin Nizamdin,AKIM,67,AKIM,0,ALONE,104,0.6374111301789654,4,lost_deposit
+1995-04-24,SE-09,Kelantan,N.09 Bunut Payong,1,7995,Halim Bin Mohamed,PAS,4,PAS,4,APU,7414,60.09077646295996,1,won
+1995-04-24,SE-09,Kelantan,N.09 Bunut Payong,2,8081,Zahari Bin Ab Wahab,BN,1,UMNO,3,BN,4924,39.90922353704004,2,lost
+1995-04-24,SE-09,Kelantan,N.10 Wakaf Bharu,1,7882,Ramli Bin Abu Bakar,PAS,4,PAS,4,APU,7077,54.53914919852034,1,won
+1995-04-24,SE-09,Kelantan,N.10 Wakaf Bharu,2,8082,Nordin Bin Saleh,BN,1,UMNO,3,BN,5800,44.69790382244143,2,lost
+1995-04-24,SE-09,Kelantan,N.10 Wakaf Bharu,3,8083,Othman Bin Latif,AKIM,67,AKIM,0,ALONE,99,0.7629469790382244,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.11 Tendong,1,8084,Hussin Bin Ahmad,S46,60,S46,4,APU,5755,52.68699075345601,1,won
+1995-04-24,SE-09,Kelantan,N.11 Tendong,2,8085,Mohd Yaman Bin Muhamad,BN,1,UMNO,3,BN,5168,47.31300924654399,2,lost
+1995-04-24,SE-09,Kelantan,N.12 Pengkalan Pasir,1,8001,Che Hassan Bin Abdullah,PAS,4,PAS,4,APU,6529,54.308767260023295,1,won
+1995-04-24,SE-09,Kelantan,N.12 Pengkalan Pasir,2,7887,Mohd Hassan @ Hassan B. Che Wail @ Ismail,BN,1,UMNO,3,BN,5493,45.69123273997671,2,lost
+1995-04-24,SE-09,Kelantan,N.13 Meranti,1,8088,Mohd Nassuruddin Bin Haji Daud,PAS,4,PAS,4,APU,5060,62.90402784684237,1,won
+1995-04-24,SE-09,Kelantan,N.13 Meranti,2,627,Mohamed Bin Yaacob,BN,1,UMNO,3,BN,2984,37.09597215315763,2,lost
+1995-04-24,SE-09,Kelantan,N.14 Gual Periok,1,8005,Nik Mustapha Bin Nik Loding,S46,60,S46,4,APU,6135,56.79503795593409,1,won
+1995-04-24,SE-09,Kelantan,N.14 Gual Periok,2,7943,Abdul Rahman Bin Awang,BN,1,UMNO,3,BN,4667,43.204962044065915,2,lost
+1995-04-24,SE-09,Kelantan,N.15 Bukit Tuku,1,1830,Mohd Yusof Bin Abdullah,PAS,4,PAS,4,APU,5336,56.0739806641446,1,won
+1995-04-24,SE-09,Kelantan,N.15 Bukit Tuku,2,8090,Hassan Bin Ahmad,BN,1,UMNO,3,BN,3595,37.77847835224885,2,lost
+1995-04-24,SE-09,Kelantan,N.15 Bukit Tuku,3,8091,Ramli Bin Awang,BEBAS,0,BEBAS,0,ALONE,585,6.147540983606557,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.16 Salor,1,8092,Ahmad Rusli Bin Iberahim,S46,60,S46,4,APU,6076,58.72801082543978,1,won
+1995-04-24,SE-09,Kelantan,N.16 Salor,2,8250,Siti Jeliha @ Zaleha Bte Hussun,BN,1,UMNO,3,BN,4197,40.56640247438624,2,lost
+1995-04-24,SE-09,Kelantan,N.16 Salor,3,8094,Che Man @ Ab Rahman Bin Ibrahim,AKIM,67,AKIM,0,ALONE,73,0.7055867001739803,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.17 Pasir Tumboh,1,1832,Daud Bin Jusoh,PAS,4,PAS,4,APU,6129,66.00258453586044,1,won
+1995-04-24,SE-09,Kelantan,N.17 Pasir Tumboh,2,7945,Mustapha Bin Taib,BN,1,UMNO,3,BN,3157,33.997415464139564,2,lost
+1995-04-24,SE-09,Kelantan,N.18 Kenali,1,8255,Mohd Bin Daud @ Ustaz Mat Iraqi,PAS,4,PAS,4,APU,9375,70.46752856283824,1,won
+1995-04-24,SE-09,Kelantan,N.18 Kenali,2,7998,Arifin Bin Othman,BN,1,UMNO,3,BN,3929,29.532471437161757,2,lost
+1995-04-24,SE-09,Kelantan,N.19 Tawang,1,8098,Haji Hassan Bin Mohamood,PAS,4,PAS,4,APU,7191,59.706077715044835,1,won
+1995-04-24,SE-09,Kelantan,N.19 Tawang,2,8099,Che Razali Bin Ibrahim,BN,1,UMNO,3,BN,4746,39.40551311856526,2,lost
+1995-04-24,SE-09,Kelantan,N.19 Tawang,3,8100,Raja Harun Bin R. Ismail,AKIM,67,AKIM,0,ALONE,107,0.8884091663899036,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.20 Perupok,1,7832,Omar Bin Mohammed,PAS,4,PAS,4,APU,6953,57.35852169608976,1,won
+1995-04-24,SE-09,Kelantan,N.20 Perupok,2,8101,Ab. Kadir @ Mohd. Khadir Bin Hassan,BN,1,UMNO,3,BN,5169,42.64147830391025,2,lost
+1995-04-24,SE-09,Kelantan,N.21 Jelawat,1,8024,Haji Mohd Daud Bin Ja'Afar,S46,60,S46,4,APU,7623,54.900972272236224,1,won
+1995-04-24,SE-09,Kelantan,N.21 Jelawat,2,7952,Haji Ahmad Shahibuddin Bin Mohd Nor,BN,1,UMNO,3,BN,6262,45.099027727763776,2,lost
+1995-04-24,SE-09,Kelantan,N.22 Melor,1,8104,Zainal Abidin Bin Ab. Kadir,BN,1,UMNO,3,BN,5486,51.027811366384526,1,won
+1995-04-24,SE-09,Kelantan,N.22 Melor,2,8105,Khairuldden Bin Haji Mat Adam,S46,60,S46,4,APU,5155,47.949027997395596,2,lost
+1995-04-24,SE-09,Kelantan,N.22 Melor,3,8106,Tuan Mohamad Bin Tuan Soh,AKIM,67,AKIM,0,ALONE,110,1.0231606362198866,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.23 Kadok,1,8107,Mohd Soberi Bin Shafii,BN,1,UMNO,3,BN,4165,42.65669807455961,2,lost
+1995-04-24,SE-09,Kelantan,N.23 Kadok,2,8263,Shamsudin @ Mohamed Shukri Bin Ab Rahman,PAS,4,PAS,4,APU,5506,56.39082343301926,1,won
+1995-04-24,SE-09,Kelantan,N.23 Kadok,3,8109,Ahmad Zailani Bin Abdul Wahab,AKIM,67,AKIM,0,ALONE,93,0.9524784924211389,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.24 Ketereh,1,7842,Ariffin Bin Mahmood,BN,1,UMNO,3,BN,6270,56.11742593752796,1,won
+1995-04-24,SE-09,Kelantan,N.24 Ketereh,2,8110,Md Ashari Bin Mamat,PAS,4,PAS,4,APU,4853,43.4350666786002,2,lost
+1995-04-24,SE-09,Kelantan,N.24 Ketereh,3,8111,Jondi Bin Abd. Rahim,AKIM,67,AKIM,0,ALONE,50,0.4475073838718339,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.25 Chetok,1,1195,Hanafi Bin Haji Daud,PAS,4,PAS,4,APU,4834,51.83914209115281,1,won
+1995-04-24,SE-09,Kelantan,N.25 Chetok,2,8112,Che Kamarul Wzaman Bin He Haron,BN,1,UMNO,3,BN,4491,48.16085790884719,2,lost
+1995-04-24,SE-09,Kelantan,N.26 Bukit Panau,1,7963,Mat Yusoff Bin Mat Sah,PAS,4,PAS,4,APU,6420,54.05860559110812,1,won
+1995-04-24,SE-09,Kelantan,N.26 Bukit Panau,2,8113,Mohamad Suparadi Bin Md. Noor,BN,1,UMNO,3,BN,5456,45.94139440889188,2,lost
+1995-04-24,SE-09,Kelantan,N.27 Gual Ipoh,1,8049,Tengku Alang Bin T. Sulong,S46,60,S46,4,APU,4582,50.641025641025635,1,won
+1995-04-24,SE-09,Kelantan,N.27 Gual Ipoh,2,8114,Hassan Bin Yusof,BN,1,UMNO,3,BN,4466,49.358974358974365,2,lost
+1995-04-24,SE-09,Kelantan,N.28 Selising,1,7957,Che Bisi Bin Hassan,PAS,4,PAS,4,APU,5767,56.246952111577095,1,won
+1995-04-24,SE-09,Kelantan,N.28 Selising,2,8115,Che Age Bin Awang,BN,1,UMNO,3,BN,4420,43.10933385350629,2,lost
+1995-04-24,SE-09,Kelantan,N.28 Selising,3,8034,Nik Hassan Bin Nik Ya,AKIM,67,AKIM,0,ALONE,66,0.6437140349166098,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.29 Limbongan,1,8117,Samat Bin Mamat,S46,60,S46,4,APU,6710,58.0801523413832,1,won
+1995-04-24,SE-09,Kelantan,N.29 Limbongan,2,1197,Wan Ahmad Najid @ Wan Mohd Najib Bin Wan Mohamed,BN,1,UMNO,3,BN,4737,41.00233705531031,2,lost
+1995-04-24,SE-09,Kelantan,N.29 Limbongan,3,8119,Amanullah Bin Ab Kudus,AKIM,67,AKIM,0,ALONE,106,0.9175106033065005,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.30 Semerak,1,7953,Sulaiman Bin Ahmad,PAS,4,PAS,4,APU,4784,50.86115245587922,1,won
+1995-04-24,SE-09,Kelantan,N.30 Semerak,2,1489,Ismail Bin Awang,BN,1,UMNO,3,BN,4536,48.224537529236656,2,lost
+1995-04-24,SE-09,Kelantan,N.30 Semerak,3,910,Musa Bin Saleh,AKIM,67,AKIM,0,ALONE,86,0.9143100148841165,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.31 Gaal,1,2896,Alwi Bin Jusoh,PAS,4,PAS,4,APU,5168,57.004191484667984,1,won
+1995-04-24,SE-09,Kelantan,N.31 Gaal,2,8121,Ismail Bin Muhamad,BN,1,UMNO,3,BN,3844,42.40017648356497,2,lost
+1995-04-24,SE-09,Kelantan,N.31 Gaal,3,8122,Abdullah Sani Bin Musa,AKIM,67,AKIM,0,ALONE,54,0.5956320317670417,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.32 Pulai Chondong,1,8040,Mohamad Noor Bin Ahmad,S46,60,S46,4,APU,5415,57.79699007364714,1,won
+1995-04-24,SE-09,Kelantan,N.32 Pulai Chondong,2,2207,Ahmad Shukri @ Nooruddin B Hj Hassan,BN,1,UMNO,3,BN,3954,42.20300992635286,2,lost
+1995-04-24,SE-09,Kelantan,N.33 Banggol Judah,1,1198,Yahya Bin Saman @ Haji Othman,PAS,4,PAS,4,APU,5921,56.33682207421503,1,won
+1995-04-24,SE-09,Kelantan,N.33 Banggol Judah,2,8126,Yaakub Bin Muhamad,BN,1,UMNO,3,BN,4589,43.66317792578497,2,lost
+1995-04-24,SE-09,Kelantan,N.34 Kemuning,1,8127,Haji Hassan Bin Haji Muhamad,PAS,4,PAS,4,APU,4759,50.541631265930334,1,won
+1995-04-24,SE-09,Kelantan,N.34 Kemuning,2,7715,Ismail Bin Mamat,BN,1,UMNO,3,BN,4657,49.458368734069666,2,lost
+1995-04-24,SE-09,Kelantan,N.35 Kemahang,1,8128,Mohd Adhan Bin Kechik,BN,1,UMNO,3,BN,5421,51.865671641791046,1,won
+1995-04-24,SE-09,Kelantan,N.35 Kemahang,2,8347,Nik Kemaruzaman Bin Sulong,S46,60,S46,4,APU,5031,48.134328358208954,2,lost
+1995-04-24,SE-09,Kelantan,N.36 Air Lanas,1,8543,Abdullah B Ya'Kub @ Tok Imam Lah,PAS,4,PAS,4,APU,4540,52.358436166532115,1,won
+1995-04-24,SE-09,Kelantan,N.36 Air Lanas,2,8131,Mustafa Bin Musa,BN,1,UMNO,3,BN,4131,47.641563833467885,2,lost
+1995-04-24,SE-09,Kelantan,N.37 Pergau,1,8132,Abdul Aziz Bin Derashid,BN,1,UMNO,3,BN,3690,51.86226282501757,1,won
+1995-04-24,SE-09,Kelantan,N.37 Pergau,2,8133,Yusof Bin Yaakub,PAS,4,PAS,4,APU,3425,48.13773717498243,2,lost
+1995-04-24,SE-09,Kelantan,N.38 Guchil,1,3266,Mohamed Razali Bin Haji Che Mamat,BN,1,UMNO,3,BN,4809,53.19101869262249,1,won
+1995-04-24,SE-09,Kelantan,N.38 Guchil,2,8135,Wan Hassan Bin Wan Yusof,PAS,4,PAS,4,APU,4232,46.8089813073775,2,lost
+1995-04-24,SE-09,Kelantan,N.39 Mengkebang,1,8136,Mek Som Binti Mohamed,S46,60,S46,4,APU,6231,60.12737624240086,1,won
+1995-04-24,SE-09,Kelantan,N.39 Mengkebang,2,4888,Haji Nik Sapeia Bin Nik Yusof,BN,1,UMNO,3,BN,4132,39.87262375759915,2,lost
+1995-04-24,SE-09,Kelantan,N.40 Manek Urai,1,7973,Ismail Bin Yaacob @ Pak Su Will,PAS,4,PAS,4,APU,4691,62.107771746325966,1,won
+1995-04-24,SE-09,Kelantan,N.40 Manek Urai,2,19382,Ahmad Bin Yusoff,BN,1,UMNO,3,BN,2862,37.892228253674034,2,lost
+1995-04-24,SE-09,Kelantan,N.41 Dabong,1,8217,Mohamad Rozali Bin Isohak,S46,60,S46,4,APU,3170,58.14380044020543,1,won
+1995-04-24,SE-09,Kelantan,N.41 Dabong,2,8139,Arifin Bin Said,BN,1,UMNO,3,BN,2282,41.85619955979457,2,lost
+1995-04-24,SE-09,Kelantan,N.42 Paloh,1,8063,Nozula Bin Mat Diah,S46,60,S46,4,APU,5422,70.6725755995829,1,won
+1995-04-24,SE-09,Kelantan,N.42 Paloh,2,8141,Mohd. Akram Khan Bin Awang Shaikh,BN,1,UMNO,3,BN,2171,28.29770594369134,2,lost
+1995-04-24,SE-09,Kelantan,N.42 Paloh,3,8142,Mohamad Bin Yusof,AKIM,67,AKIM,0,ALONE,79,1.029718456725756,3,lost_deposit
+1995-04-24,SE-09,Kelantan,N.43 Galas,1,8065,Omar Bin Mohamed,S46,60,S46,4,APU,4056,54.633620689655174,1,won
+1995-04-24,SE-09,Kelantan,N.43 Galas,2,7978,Zakaria Bin Hasan,BN,1,UMNO,3,BN,3163,42.60506465517241,2,lost
+1995-04-24,SE-09,Kelantan,N.43 Galas,3,2557,Nik Ismail Bin Hj. Wan Idris @ Pak Nik Weil,AKIM,67,AKIM,0,ALONE,205,2.7613146551724137,3,lost_deposit
+1999-11-29,SE-10,Kelantan,N.01 Pengkalan Kubor,1,3242,Mat Nawawi Bin Mat Jusoh @ Cikgu Hj Mat Nawi,BN,1,UMNO,3,BN,4683,39.69316833361587,2,lost
+1999-11-29,SE-10,Kelantan,N.01 Pengkalan Kubor,2,8146,Tok Imam Wan Husain,PAS,4,PAS,6,BA,7115,60.30683166638413,1,won
+1999-11-29,SE-10,Kelantan,N.02 Kelaboran,1,8067,Cik Gu Hj. Noordin,PAS,4,PAS,6,BA,7619,62.563639349646905,1,won
+1999-11-29,SE-10,Kelantan,N.02 Kelaboran,2,7925,Mansor Bin Salleh,BN,1,UMNO,3,BN,4559,37.436360650353095,2,lost
+1999-11-29,SE-10,Kelantan,N.03 Pasir Pekan,1,8148,Muhammad Bin Sulaiman @ Tok Gawa Mat,BN,1,UMNO,3,BN,3458,29.1888241748966,2,lost
+1999-11-29,SE-10,Kelantan,N.03 Pasir Pekan,2,8068,Ahmad Bin Yakob @ Ustaz Mat To' Guru Kob,PAS,4,PAS,6,BA,8389,70.8111758251034,1,won
+1999-11-29,SE-10,Kelantan,N.04 Kijang,1,3243,Ustaz Ab. Halim,PAS,4,PAS,6,BA,7352,74.32268499797816,1,won
+1999-11-29,SE-10,Kelantan,N.04 Kijang,2,3244,Dr Nik Zain,BN,1,UMNO,3,BN,2540,25.67731500202183,2,lost
+1999-11-29,SE-10,Kelantan,N.05 Chempaka,1,8151,Ropli Bin Ishak,BN,1,UMNO,3,BN,2302,21.020911332298418,2,lost
+1999-11-29,SE-10,Kelantan,N.05 Chempaka,2,614,Tuan Guru Da To' Hj. Nik Abdul Aziz B Nik Mat,PAS,4,PAS,6,BA,8649,78.97908866770157,1,won
+1999-11-29,SE-10,Kelantan,N.06 Panchor,1,8072,Mohd Yusoff Bin Ludin @ Tok Imam Soh,PAS,4,PAS,6,BA,7443,71.05489260143199,1,won
+1999-11-29,SE-10,Kelantan,N.06 Panchor,2,7988,Mohd Ariffin Bin Abdul Hamid @ Abang Pin,BN,1,UMNO,3,BN,3032,28.94510739856802,2,lost
+1999-11-29,SE-10,Kelantan,N.07 Tanjong Mas,1,1845,Abd. Rahim Bin Wan Abdullah @ Cikgu Rahim,PAS,4,PAS,6,BA,10843,75.44006122590969,1,won
+1999-11-29,SE-10,Kelantan,N.07 Tanjong Mas,2,8156,Haji Zamri Bin Haji Ramli,BN,1,UMNO,3,BN,3530,24.55993877409031,2,lost
+1999-11-29,SE-10,Kelantan,N.08 Kota Lama,1,8157,Tan Teng Loon @ Anuar Tan B. Abdullah @ Anuar Tan,PAS,4,PAS,6,BA,8470,51.34889360412246,1,won
+1999-11-29,SE-10,Kelantan,N.08 Kota Lama,2,8077,Leong Su Siang,BN,3,MCA,3,BN,8025,48.65110639587754,2,lost
+1999-11-29,SE-10,Kelantan,N.09 Bunut Payong,1,2537,Dato' Haji Ahmad Rastom,BN,1,UMNO,3,BN,3824,29.000455028060063,2,lost
+1999-11-29,SE-10,Kelantan,N.09 Bunut Payong,2,4014,Takiyuddin Hassan,PAS,4,PAS,6,BA,9362,70.99954497193993,1,won
+1999-11-29,SE-10,Kelantan,N.10 Wakaf Bharu,1,7882,Hj. Ramli Bin Abu Bakar,PAS,4,PAS,6,BA,8502,59.099124148477685,1,won
+1999-11-29,SE-10,Kelantan,N.10 Wakaf Bharu,2,4402,Ramzi Bin Haji Ab Rahman,BN,1,UMNO,3,BN,5884,40.900875851522315,2,lost
+1999-11-29,SE-10,Kelantan,N.11 Tendong,1,8162,Cik Gu Haji Wan Othman,PAS,4,PAS,6,BA,6930,58.44155844155844,1,won
+1999-11-29,SE-10,Kelantan,N.11 Tendong,2,2538,Zainuddin Bin Mohamad Nor @ Haji Zainuddin @ Fathil Bin Haji Mohamad Nor,BN,1,UMNO,3,BN,4928,41.55844155844156,2,lost
+1999-11-29,SE-10,Kelantan,N.12 Pengkalan Pasir,1,8001,Hj. Hassan Abdullah,PAS,4,PAS,6,BA,7877,61.099906919019546,1,won
+1999-11-29,SE-10,Kelantan,N.12 Pengkalan Pasir,2,8165,Dato Hj. Abdul Rahim Bin Hj. Abdul Rahman,BN,1,UMNO,3,BN,5015,38.900093080980454,2,lost
+1999-11-29,SE-10,Kelantan,N.13 Meranti,1,7823,Zaid Bin Fadzil,BN,1,UMNO,3,BN,2965,33.135896289673674,2,lost
+1999-11-29,SE-10,Kelantan,N.13 Meranti,2,8088,Mohd. Nassuruddin Bin Haji Daud,PAS,4,PAS,6,BA,5983,66.86410371032633,1,won
+1999-11-29,SE-10,Kelantan,N.14 Gual Periok,1,8005,Nik Mustapha Bin Nik Loding,BN,1,UMNO,3,BN,4202,36.34948096885813,2,lost
+1999-11-29,SE-10,Kelantan,N.14 Gual Periok,2,8167,Abdullah Bin Ab. Razak,PAS,4,PAS,6,BA,7358,63.65051903114187,1,won
+1999-11-29,SE-10,Kelantan,N.15 Bukit Tuku,1,4870,Mohd. Zain Bin Ismail,BN,1,UMNO,3,BN,3833,37.77098935750887,2,lost
+1999-11-29,SE-10,Kelantan,N.15 Bukit Tuku,2,1830,Mohd. Yusof Bin Abdullah,PAS,4,PAS,6,BA,6315,62.22901064249113,1,won
+1999-11-29,SE-10,Kelantan,N.16 Salor,1,8092,Ahmad Rosli Bin Iberahim,BN,1,UMNO,3,BN,3543,31.959227854952193,2,lost
+1999-11-29,SE-10,Kelantan,N.16 Salor,2,8171,Buni Amin Bin Hamzah,PAS,4,PAS,6,BA,7543,68.04077214504781,1,won
+1999-11-29,SE-10,Kelantan,N.17 Pasir Tumboh,1,4018,Hj Baihaki Atiqullah,PAS,4,PAS,6,BA,7042,71.1816435863742,1,won
+1999-11-29,SE-10,Kelantan,N.17 Pasir Tumboh,2,8173,Tuan Mohamad Hashim Bin Tuan Yaacob,BN,1,UMNO,3,BN,2851,28.818356413625796,2,lost
+1999-11-29,SE-10,Kelantan,N.18 Kenali,1,8174,Mohd Fauzi Bin Ismail,BN,1,UMNO,3,BN,2859,21.700189753320682,2,lost
+1999-11-29,SE-10,Kelantan,N.18 Kenali,2,8255,Mohamed Bin Daud @ Ustaz Mohamed Iraq,PAS,4,PAS,6,BA,10316,78.29981024667931,1,won
+1999-11-29,SE-10,Kelantan,N.19 Tawang,1,8176,Hj. Mohd Zain B. Hj. Yasin,BN,1,UMNO,3,BN,4421,35.092871884426096,2,lost
+1999-11-29,SE-10,Kelantan,N.19 Tawang,2,8098,Hassan B. Mohammod @ Ustaz Hassan Mahmood,PAS,4,PAS,6,BA,8177,64.9071281155739,1,won
+1999-11-29,SE-10,Kelantan,N.20 Perupok,1,8178,Hj. Makhtar,BN,1,UMNO,3,BN,4670,37.13422391857507,2,lost
+1999-11-29,SE-10,Kelantan,N.20 Perupok,2,7832,Omar B. Mohamed,PAS,4,PAS,6,BA,7906,62.86577608142494,1,won
+1999-11-29,SE-10,Kelantan,N.21 Jelawat,1,7952,Ahmad Shahibuddin B. Hj. Mohd. Nor @ Cik Gu Din,BN,1,UMNO,3,BN,5522,38.77264429153209,2,lost
+1999-11-29,SE-10,Kelantan,N.21 Jelawat,2,7895,Shaary Bin Haji Awang @ Imam Shaari,PAS,4,PAS,6,BA,8720,61.22735570846791,1,won
+1999-11-29,SE-10,Kelantan,N.22 Melor,1,4393,Wan Ismail Bin Wan Jusoh,PAS,4,PAS,6,BA,6847,59.10228744065602,1,won
+1999-11-29,SE-10,Kelantan,N.22 Melor,2,8104,Datuk Zainal Abidin B. Hj. Ab. Kadir,BN,1,UMNO,3,BN,4738,40.89771255934398,2,lost
+1999-11-29,SE-10,Kelantan,N.23 Kadok,1,8183,Riffin Said,BN,1,UMNO,3,BN,3551,34.51258625716785,2,lost
+1999-11-29,SE-10,Kelantan,N.23 Kadok,2,8263,Shamsudin @ Mohamed Shukri Bin Ab. Rahman @ Imam Haji Shukri,PAS,4,PAS,6,BA,6738,65.48741374283215,1,won
+1999-11-29,SE-10,Kelantan,N.24 Ketereh,1,8110,Md. Ashari Bin Mamat,PAS,4,PAS,6,BA,6776,53.5525171895993,1,won
+1999-11-29,SE-10,Kelantan,N.24 Ketereh,2,3257,Md. Alwi B. Che Mat,BN,1,UMNO,3,BN,5877,46.4474828104007,2,lost
+1999-11-29,SE-10,Kelantan,N.25 Chetok,1,1195,Hanafi Haji Daud,PAS,4,PAS,6,BA,5885,59.15761962203459,1,won
+1999-11-29,SE-10,Kelantan,N.25 Chetok,2,8112,Che Kamarul Wzaman Bin Che Haron @ Che Kamal,BN,1,UMNO,3,BN,4063,40.84238037796542,2,lost
+1999-11-29,SE-10,Kelantan,N.26 Bukit Panau,1,8189,Muhamat B Sulaiman (Abang Mat),BN,1,UMNO,3,BN,5106,38.83775766334525,2,lost
+1999-11-29,SE-10,Kelantan,N.26 Bukit Panau,2,7963,Ustaz Soh (Mat Yusoff Bin Mat Sah),PAS,4,PAS,6,BA,8041,61.16224233665475,1,won
+1999-11-29,SE-10,Kelantan,N.27 Gual Ipoh,1,8191,Muhamad Kamil Bin Harun @ Pak Su Kamil,PAS,4,PAS,6,BA,5200,54.759898904802014,1,won
+1999-11-29,SE-10,Kelantan,N.27 Gual Ipoh,2,8049,Tengku Alang,BN,1,UMNO,3,BN,4296,45.24010109519798,2,lost
+1999-11-29,SE-10,Kelantan,N.28 Selising,1,8430,Ust. Drs. Saipul Bahrin,PAS,4,PAS,6,BA,6816,61.04245029554003,1,won
+1999-11-29,SE-10,Kelantan,N.28 Selising,2,8194,Abdul Rahman B. Yasin @ Cikgu Man Yasin,BN,1,UMNO,3,BN,4350,38.957549704459964,2,lost
+1999-11-29,SE-10,Kelantan,N.29 Limbongan,1,8025,Zainuddin B. Awang Hamat @ Cikgu Din,PAS,4,PAS,6,BA,7829,65.24166666666666,1,won
+1999-11-29,SE-10,Kelantan,N.29 Limbongan,2,8117,Samat B. Mamat,BN,1,UMNO,3,BN,4171,34.75833333333333,2,lost
+1999-11-29,SE-10,Kelantan,N.30 Semerak,1,8197,Cikgu Hj. Hussin,PAS,4,PAS,6,BA,6118,56.85345228138649,1,won
+1999-11-29,SE-10,Kelantan,N.30 Semerak,2,7915,Mohammed Jelani B. Jaafar @ Ustaz Mohd Jailani Jaafar,BN,1,UMNO,3,BN,4643,43.14654771861351,2,lost
+1999-11-29,SE-10,Kelantan,N.31 Gaal,1,8199,Dr. Asri,AKIM,67,AKIM,0,ALONE,72,0.7629543287061566,3,lost_deposit
+1999-11-29,SE-10,Kelantan,N.31 Gaal,2,8359,Dr. Nik Mazlan,PAS,4,PAS,6,BA,5720,60.61248278054466,1,won
+1999-11-29,SE-10,Kelantan,N.31 Gaal,3,8201,Ab. Rahman B. Yaacob,BN,1,UMNO,3,BN,3645,38.62456289074918,2,lost
+1999-11-29,SE-10,Kelantan,N.32 Pulai Chondong,1,8202,Arifin Bin Mamat @ Cikgu Ripin,BN,1,UMNO,3,BN,4265,39.31600294985251,2,lost
+1999-11-29,SE-10,Kelantan,N.32 Pulai Chondong,2,4399,Hj. Zulkifli Mamat,PAS,4,PAS,6,BA,6583,60.6839970501475,1,won
+1999-11-29,SE-10,Kelantan,N.33 Banggol Judah,1,8204,Zakaria Bin Yaacob @ Cikgu Ya,PAS,4,PAS,6,BA,6893,62.71494859430443,1,won
+1999-11-29,SE-10,Kelantan,N.33 Banggol Judah,2,2551,Muhammad Bin Hamzah @ Dato' Mat Hamzah,BN,1,UMNO,3,BN,4098,37.28505140569557,2,lost
+1999-11-29,SE-10,Kelantan,N.34 Kemuning,1,7715,Ismail Mamat,BN,1,UMNO,3,BN,4744,42.81974907482625,2,lost
+1999-11-29,SE-10,Kelantan,N.34 Kemuning,2,8127,Hj Hassan Bin Hj Muhamad,PAS,4,PAS,6,BA,6335,57.180250925173745,1,won
+1999-11-29,SE-10,Kelantan,N.35 Kemahang,1,8207,Md. Anizam Bin Ab Rahman @ Mej (B) Nizam,PAS,4,PAS,6,BA,6251,52.64443321542866,1,won
+1999-11-29,SE-10,Kelantan,N.35 Kemahang,2,8128,Mohd Adhan Bin Kechik,BN,1,UMNO,3,BN,5623,47.35556678457134,2,lost
+1999-11-29,SE-10,Kelantan,N.36 Air Lanas,1,8543,Abdullah Bin Ya' Kub @ Ust. Lah,PAS,4,PAS,6,BA,5634,55.584056827150754,1,won
+1999-11-29,SE-10,Kelantan,N.36 Air Lanas,2,8350,Zainon Abdin Bin Ali,BN,1,UMNO,3,BN,4502,44.415943172849246,2,lost
+1999-11-29,SE-10,Kelantan,N.37 Pergau,1,7975,Mamat Bin Abdullah @ Ustaz Ab. Razak Bin Abdullah,PAS,4,PAS,6,BA,4195,52.040689740726954,1,won
+1999-11-29,SE-10,Kelantan,N.37 Pergau,2,8132,Abdul Aziz Bin Derashid,BN,1,UMNO,3,BN,3866,47.95931025927304,2,lost
+1999-11-29,SE-10,Kelantan,N.38 Guchil,1,8291,Ustaz Zulkifli Bin Yacob,PAS,4,PAS,6,BA,5100,53.285968028419184,1,won
+1999-11-29,SE-10,Kelantan,N.38 Guchil,2,3266,Cik Gu Mat Razali,BN,1,UMNO,3,BN,4471,46.714031971580816,2,lost
+1999-11-29,SE-10,Kelantan,N.39 Mengkebang,1,8213,Hajjah Kelthum Bt Mohamed,BN,1,UMNO,3,BN,4754,42.40478101864241,2,lost
+1999-11-29,SE-10,Kelantan,N.39 Mengkebang,2,2209,Haji Ibrahim Madinah,PAS,4,PAS,6,BA,6457,57.5952189813576,1,won
+1999-11-29,SE-10,Kelantan,N.40 Manek Urai,1,7973,Ismail Bin Yaacob,PAS,4,PAS,6,BA,5066,58.811237520315764,1,won
+1999-11-29,SE-10,Kelantan,N.40 Manek Urai,2,2555,Datuk Wan Zaid,BN,1,UMNO,3,BN,3548,41.18876247968423,2,lost
+1999-11-29,SE-10,Kelantan,N.41 Dabong,1,8216,Rapar @ Abdul Ghafar B. Yusoff @ Cikgu Ghafar,PAS,4,PAS,6,BA,3167,55.04953937076308,1,won
+1999-11-29,SE-10,Kelantan,N.41 Dabong,2,8217,Dato Rozali Bin Isohak,BN,1,UMNO,3,BN,2586,44.95046062923692,2,lost
+1999-11-29,SE-10,Kelantan,N.42 Paloh,1,8218,Nik Abdul Aziz B. Nik Hassan,PKR,72,PKN,6,BA,3350,40.196784257259424,2,lost
+1999-11-29,SE-10,Kelantan,N.42 Paloh,2,8063,Nozula B. Haji Mat Diah,BN,1,UMNO,3,BN,4984,59.803215742740576,1,won
+1999-11-29,SE-10,Kelantan,N.43 Galas,1,8220,Zulkifli Bin Mohamad,PKR,72,PKN,6,BA,3072,36.53663177925785,2,lost
+1999-11-29,SE-10,Kelantan,N.43 Galas,2,8221,Mohamad Saufi Deraman,BN,1,UMNO,3,BN,5336,63.463368220742154,1,won
+2004-03-21,SE-11,Kelantan,N.01 Pengkalan Kubor,1,8222,Datuk Haji Di,BN,1,UMNO,3,BN,6638,52.84190415538927,1,won
+2004-03-21,SE-11,Kelantan,N.01 Pengkalan Kubor,2,8146,Tok Imam Wan Husain,PAS,4,PAS,6,BA,5924,47.158095844610735,2,lost
+2004-03-21,SE-11,Kelantan,N.02 Kelaboran,1,4379,Datuk Wan Johani,BN,1,UMNO,3,BN,6220,47.36882187190618,2,lost
+2004-03-21,SE-11,Kelantan,N.02 Kelaboran,2,8224,Zaki Haji Ibrahim,PAS,4,PAS,6,BA,6911,52.63117812809382,1,won
+2004-03-21,SE-11,Kelantan,N.03 Pasir Pekan,1,8068,Ustaz Mat,PAS,4,PAS,6,BA,8855,57.35475095537276,1,won
+2004-03-21,SE-11,Kelantan,N.03 Pasir Pekan,2,8226,Hj Noor Tok Gawa,BN,1,UMNO,3,BN,6584,42.64524904462724,2,lost
+2004-03-21,SE-11,Kelantan,N.04 Wakaf Bharu,1,7882,Hj Ramli Abu Bakar,PAS,4,PAS,6,BA,5874,44.65561806294664,2,lost
+2004-03-21,SE-11,Kelantan,N.04 Wakaf Bharu,2,8228,Rosdi Aziz,BN,1,UMNO,3,BN,7280,55.34438193705336,1,won
+2004-03-21,SE-11,Kelantan,N.05 Kijang,1,8229,Che Rosli Bin Hassan,BN,1,UMNO,3,BN,4034,36.84018264840183,2,lost
+2004-03-21,SE-11,Kelantan,N.05 Kijang,2,2889,Husam Musa,PAS,4,PAS,6,BA,6916,63.15981735159817,1,won
+2004-03-21,SE-11,Kelantan,N.06 Chempaka,1,614,Tuan Guru Dato' Haji Nik Aziz,PAS,4,PAS,6,BA,7889,65.2846739490235,1,won
+2004-03-21,SE-11,Kelantan,N.06 Chempaka,2,8070,Hajjah Ruhani Binti Mamat,BN,1,UMNO,3,BN,4195,34.7153260509765,2,lost
+2004-03-21,SE-11,Kelantan,N.07 Panchor,1,2533,Nik Amar Nik Abdullah,PAS,4,PAS,6,BA,7123,58.57248581531124,1,won
+2004-03-21,SE-11,Kelantan,N.07 Panchor,2,8233,Hj. Zulkifli Bin Hj. Dollah,BN,1,UMNO,3,BN,5038,41.42751418468876,2,lost
+2004-03-21,SE-11,Kelantan,N.08 Tanjong Mas,1,8234,Rohani Binti Ibrahim,PKR,75,PKR,6,BA,8015,60.53168189713768,1,won
+2004-03-21,SE-11,Kelantan,N.08 Tanjong Mas,2,8235,Mansor Adabi Hassan,BN,1,UMNO,3,BN,5226,39.46831810286232,2,lost
+2004-03-21,SE-11,Kelantan,N.09 Kota Lama,1,8077,Leong Su Siang,BN,3,MCA,3,BN,9120,49.90697165371566,2,lost
+2004-03-21,SE-11,Kelantan,N.09 Kota Lama,2,8157,Dato Anuar Tan,PAS,4,PAS,6,BA,9154,50.09302834628434,1,won
+2004-03-21,SE-11,Kelantan,N.10 Bunut Payong,1,4014,Takiyuddin Hassan,PAS,4,PAS,6,BA,8340,56.5462065224761,1,won
+2004-03-21,SE-11,Kelantan,N.10 Bunut Payong,2,8237,Sekh Ruzi,BN,1,UMNO,3,BN,6409,43.4537934775239,2,lost
+2004-03-21,SE-11,Kelantan,N.11 Tendong,1,8238,Haji Fauzi,BN,1,UMNO,3,BN,6852,53.05458768873403,1,won
+2004-03-21,SE-11,Kelantan,N.11 Tendong,2,8162,Cik Gu Hj Wan Othman,PAS,4,PAS,6,BA,6063,46.94541231126597,2,lost
+2004-03-21,SE-11,Kelantan,N.12 Pengkalan Pasir,1,8240,Hj Wan Aziz,PAS,4,PAS,6,BA,7168,50.19607843137255,1,won
+2004-03-21,SE-11,Kelantan,N.12 Pengkalan Pasir,2,2189,Hj. Hanafi Bin Hj. Mamat,BN,1,UMNO,3,BN,7112,49.80392156862745,2,lost
+2004-03-21,SE-11,Kelantan,N.13 Chetok,1,7945,Ustaz Mustapha Taib,BN,1,UMNO,3,BN,6458,48.09353589514448,2,lost
+2004-03-21,SE-11,Kelantan,N.13 Chetok,2,8243,Hj. Halim,PAS,4,PAS,6,BA,6970,51.90646410485552,1,won
+2004-03-21,SE-11,Kelantan,N.14 Meranti,1,8244,Ab Halim,BN,1,UMNO,3,BN,3990,39.56370847793753,2,lost
+2004-03-21,SE-11,Kelantan,N.14 Meranti,2,8088,Ust. Hj. Nassuruddin Hj. Daud,PAS,4,PAS,6,BA,6095,60.43629152206247,1,won
+2004-03-21,SE-11,Kelantan,N.15 Gual Periok,1,8246,Dato Shaari Mat Hussain,BN,1,UMNO,3,BN,6275,55.24740271174503,1,won
+2004-03-21,SE-11,Kelantan,N.15 Gual Periok,2,8167,Ustaz Lah Razak,PAS,4,PAS,6,BA,5083,44.752597288254975,2,lost
+2004-03-21,SE-11,Kelantan,N.16 Bukit Tuku,1,8006,Hussin Bin Ibrahim (Ustaz Tapah) Haji Hussin Lubok,PAS,4,PAS,6,BA,3625,44.65385562946538,2,lost
+2004-03-21,SE-11,Kelantan,N.16 Bukit Tuku,2,4870,Mohd Zain,BN,1,UMNO,3,BN,4493,55.34614437053461,1,won
+2004-03-21,SE-11,Kelantan,N.17 Salor,1,8250,Ustazah Zaleha,BN,1,UMNO,3,BN,5508,45.337064778994154,2,lost
+2004-03-21,SE-11,Kelantan,N.17 Salor,2,8171,Hj Buni Amin Hamzah,PAS,4,PAS,6,BA,6641,54.662935221005846,1,won
+2004-03-21,SE-11,Kelantan,N.18 Pasir Tumboh,1,4018,Ust. Baihaki,PAS,4,PAS,6,BA,6332,58.20387903299936,1,won
+2004-03-21,SE-11,Kelantan,N.18 Pasir Tumboh,2,8253,Nik Ab. Rahman Bin Nik Taib,BN,1,UMNO,3,BN,4547,41.79612096700065,2,lost
+2004-03-21,SE-11,Kelantan,N.19 Demit,1,8254,Dato' Muhammad Bin Abdul Ghani,BN,1,UMNO,3,BN,5551,38.66137345034127,2,lost
+2004-03-21,SE-11,Kelantan,N.19 Demit,2,8255,Mohamed Daud Iraqi,PAS,4,PAS,6,BA,8807,61.33862654965873,1,won
+2004-03-21,SE-11,Kelantan,N.20 Tawang,1,8098,Ustaz Hassan,PAS,4,PAS,6,BA,8478,55.5642941407786,1,won
+2004-03-21,SE-11,Kelantan,N.20 Tawang,2,4392,Mohd Zulkifli Bin Haji Zakaria,BN,1,UMNO,3,BN,6780,44.43570585922139,2,lost
+2004-03-21,SE-11,Kelantan,N.21 Perupok,1,7832,Dato' Haji Omar,PAS,4,PAS,6,BA,7958,53.509951586874664,1,won
+2004-03-21,SE-11,Kelantan,N.21 Perupok,2,8257,Muhamad Bin Ab. Rahman,BN,1,UMNO,3,BN,6914,46.490048413125336,2,lost
+2004-03-21,SE-11,Kelantan,N.22 Jelawat,1,8258,Dato' Ilias,BN,1,UMNO,3,BN,8212,53.63464176082555,1,won
+2004-03-21,SE-11,Kelantan,N.22 Jelawat,2,7895,Imam Shaary,PAS,4,PAS,6,BA,7099,46.36535823917445,2,lost
+2004-03-21,SE-11,Kelantan,N.23 Melor,1,4393,Tok Wan Ismail,PAS,4,PAS,6,BA,6563,49.20527815264658,2,lost
+2004-03-21,SE-11,Kelantan,N.23 Melor,2,8261,Cikgu Azmi Ishak,BN,1,UMNO,3,BN,6775,50.79472184735343,1,won
+2004-03-21,SE-11,Kelantan,N.24 Kadok,1,8262,Cikgu Hj. Sharifuddin,BN,1,UMNO,3,BN,4590,46.40582347588717,2,lost
+2004-03-21,SE-11,Kelantan,N.24 Kadok,2,8263,Imam Shukri,PAS,4,PAS,6,BA,5301,53.59417652411283,1,won
+2004-03-21,SE-11,Kelantan,N.25 Kok Lanas,1,8110,Hj. Shaari,PAS,4,PAS,6,BA,5663,39.95907423087779,2,lost
+2004-03-21,SE-11,Kelantan,N.25 Kok Lanas,2,2194,Dato' Haji Annuar B. Hj. Musa,BN,1,UMNO,3,BN,8509,60.04092576912221,1,won
+2004-03-21,SE-11,Kelantan,N.26 Bukit Panau,1,8266,Abdul Fatah Bin Haji Mahmood,PAS,4,PAS,6,BA,6926,51.586474005660655,1,won
+2004-03-21,SE-11,Kelantan,N.26 Bukit Panau,2,8267,Ustaz Baharudin,BN,1,UMNO,3,BN,6500,48.41352599433934,2,lost
+2004-03-21,SE-11,Kelantan,N.27 Gual Ipoh,1,8268,Cikgu Wan Yusoff,PAS,4,PAS,6,BA,4033,43.9228926159878,2,lost
+2004-03-21,SE-11,Kelantan,N.27 Gual Ipoh,2,1838,Datuk Hj Hashim Safin,BN,1,UMNO,3,BN,5149,56.077107384012194,1,won
+2004-03-21,SE-11,Kelantan,N.28 Kemahang,1,8207,Mej (B) Nizam,PAS,4,PAS,6,BA,3901,52.36241610738255,1,won
+2004-03-21,SE-11,Kelantan,N.28 Kemahang,2,8271,Nuainun @ Shuhainie Binti Deraman,BN,1,UMNO,3,BN,3549,47.63758389261745,2,lost
+2004-03-21,SE-11,Kelantan,N.29 Selising,1,8430,Ust. Saipul Bahrin,PAS,4,PAS,6,BA,5492,49.163011368722586,2,lost
+2004-03-21,SE-11,Kelantan,N.29 Selising,2,3648,Amran Mat Nor,BN,1,UMNO,3,BN,5679,50.836988631277414,1,won
+2004-03-21,SE-11,Kelantan,N.30 Limbongan,1,8273,Hj. Zainal Abedin Mohamad,BN,1,UMNO,3,BN,6444,47.613418058223736,2,lost
+2004-03-21,SE-11,Kelantan,N.30 Limbongan,2,8025,Zainuddin Bin Ag. Hamat,PAS,4,PAS,6,BA,7090,52.386581941776264,1,won
+2004-03-21,SE-11,Kelantan,N.31 Semerak,1,2197,Kamarudin Md Nor,BN,1,UMNO,3,BN,6095,53.04151074754155,1,won
+2004-03-21,SE-11,Kelantan,N.31 Semerak,2,8197,Cikgu Haji Hussin,PAS,4,PAS,6,BA,5396,46.95848925245845,2,lost
+2004-03-21,SE-11,Kelantan,N.32 Gaal,1,4024,Tuan Mustaffa Bin Tuan Mat,BN,1,UMNO,3,BN,4926,49.78271854471956,2,lost
+2004-03-21,SE-11,Kelantan,N.32 Gaal,2,8359,Dr. Nik Mazian,PAS,4,PAS,6,BA,4969,50.21728145528045,1,won
+2004-03-21,SE-11,Kelantan,N.33 Pulai Chondong,1,7990,Ustaz Halim Ismail,BN,1,UMNO,3,BN,5761,49.54846478025286,2,lost
+2004-03-21,SE-11,Kelantan,N.33 Pulai Chondong,2,4399,Zulkifli Bin Mamat,PAS,4,PAS,6,BA,5866,50.45153521974714,1,won
+2004-03-21,SE-11,Kelantan,N.34 Temangan,1,7715,Datuk Ismail Mamat,BN,1,UMNO,3,BN,5525,49.66292134831461,2,lost
+2004-03-21,SE-11,Kelantan,N.34 Temangan,2,8127,Hj Hassan Muhamad,PAS,4,PAS,6,BA,5600,50.337078651685395,1,won
+2004-03-21,SE-11,Kelantan,N.35 Kemuning,1,8282,Dato' Wan Mohamad Zin Bin Mat Amin,BN,1,UMNO,3,BN,6076,49.99177225604739,2,lost
+2004-03-21,SE-11,Kelantan,N.35 Kemuning,2,8204,Zakaria Bin Yaacob,PAS,4,PAS,6,BA,6078,50.0082277439526,1,won
+2004-03-21,SE-11,Kelantan,N.36 Bukit Bunga,1,8128,Mohd Adhan Bin Kechik,BN,1,UMNO,3,BN,6397,64.43392425463335,1,won
+2004-03-21,SE-11,Kelantan,N.36 Bukit Bunga,2,8440,Haji Sufely,PAS,4,PAS,6,BA,3531,35.56607574536664,2,lost
+2004-03-21,SE-11,Kelantan,N.37 Air Lanas,1,2552,Mustapa Bin Muhamed,BN,1,UMNO,3,BN,5118,54.2333368655293,1,won
+2004-03-21,SE-11,Kelantan,N.37 Air Lanas,2,8543,Abdullah Bin Ya'Kub,PAS,4,PAS,6,BA,4319,45.766663134470704,2,lost
+2004-03-21,SE-11,Kelantan,N.38 Kuala Balah,1,8287,Hj Abdul Rashid Jais,PAS,4,PAS,6,BA,2726,37.646733876536395,2,lost
+2004-03-21,SE-11,Kelantan,N.38 Kuala Balah,2,8132,Abdul Aziz Bin Derashid,BN,1,UMNO,3,BN,4515,62.35326612346361,1,won
+2004-03-21,SE-11,Kelantan,N.39 Mengkebang,1,8288,Haji Azizzuddin,BN,1,UMNO,3,BN,5315,51.53189839053714,1,won
+2004-03-21,SE-11,Kelantan,N.39 Mengkebang,2,4403,Ustaz Abdul Latiff,PAS,4,PAS,6,BA,4999,48.46810160946286,2,lost
+2004-03-21,SE-11,Kelantan,N.40 Guchil,1,8290,Mohd Zaki Bin Haji Kassim,BEBAS,0,BEBAS,0,ALONE,51,0.45001323568340246,3,lost_deposit
+2004-03-21,SE-11,Kelantan,N.40 Guchil,2,8291,Zulkafli Bin Yacob,PAS,4,PAS,6,BA,5136,45.31897996999912,2,lost
+2004-03-21,SE-11,Kelantan,N.40 Guchil,3,8371,Shamshul Ikhwan Bin Ashari Azmi,BN,1,UMNO,3,BN,6146,54.23100679431748,1,won
+2004-03-21,SE-11,Kelantan,N.41 Manek Urai,1,8293,Zamzuri Mat Lazim,PAS,4,PAS,6,BA,4309,49.694383577442046,2,lost
+2004-03-21,SE-11,Kelantan,N.41 Manek Urai,2,4903,Mohamed Zulkepli Bin Omar,BN,1,UMNO,3,BN,4362,50.305616422557954,1,won
+2004-03-21,SE-11,Kelantan,N.42 Dabong,1,4402,Dato Ramzi Bin Ab Rahman,BN,1,UMNO,3,BN,3466,59.369647139431315,1,won
+2004-03-21,SE-11,Kelantan,N.42 Dabong,2,8296,Cik Gu Abdul Ghafar,PAS,4,PAS,6,BA,2372,40.630352860568685,2,lost
+2004-03-21,SE-11,Kelantan,N.43 Nenggiri,1,8297,Mat Yusoff Bin Abdul Ghani,BN,1,UMNO,3,BN,4516,71.15172522451552,1,won
+2004-03-21,SE-11,Kelantan,N.43 Nenggiri,2,8298,Cikgu Hj. Zain,PKR,75,PKR,6,BA,1831,28.848274775484477,2,lost
+2004-03-21,SE-11,Kelantan,N.44 Paloh,1,8299,Norazman Mat Amin,PKR,75,PKR,6,BA,2364,31.07255520504732,2,lost
+2004-03-21,SE-11,Kelantan,N.44 Paloh,2,8063,Nozula,BN,1,UMNO,3,BN,5244,68.92744479495269,1,won
+2004-03-21,SE-11,Kelantan,N.45 Galas,1,8221,Mohamad Saufi Hj Deraman,BN,1,UMNO,3,BN,4184,63.021539388462124,1,won
+2004-03-21,SE-11,Kelantan,N.45 Galas,2,8302,Chek Hashim,PAS,4,PAS,6,BA,2455,36.97846061153788,2,lost
+2008-03-08,SE-12,Kelantan,N.01 Pengkalan Kubor,1,8303,Hassan Bin Berahim,PKR,75,PKR,7,PR,7543,49.67074937442381,2,lost
+2008-03-08,SE-12,Kelantan,N.01 Pengkalan Kubor,2,8222,Noor Zahid Bin Omar (Datuk Haji Di),BN,1,UMNO,3,BN,7643,50.329250625576194,1,won
+2008-03-08,SE-12,Kelantan,N.02 Kelaboran,1,8384,Wan Hanapi Bin Wan Yaacob (Wan Napi),BN,1,UMNO,3,BN,6444,42.675496688741724,2,lost
+2008-03-08,SE-12,Kelantan,N.02 Kelaboran,2,8224,Zaki Haji Ibrahim,PAS,4,PAS,7,PR,8656,57.324503311258276,1,won
+2008-03-08,SE-12,Kelantan,N.03 Pasir Pekan,1,8068,Ahmad Bin Yakob (Ustaz Mat),PAS,4,PAS,7,PR,11106,62.75994575045208,1,won
+2008-03-08,SE-12,Kelantan,N.03 Pasir Pekan,2,8226,Haji Noor,BN,1,UMNO,3,BN,6590,37.240054249547924,2,lost
+2008-03-08,SE-12,Kelantan,N.04 Wakaf Bharu,1,8228,Hj Mohd Rosdi,BN,1,UMNO,3,BN,7745,47.95665634674923,2,lost
+2008-03-08,SE-12,Kelantan,N.04 Wakaf Bharu,2,4381,Che Abdullah Bin Mat Nawi (Hj Che Lah),PAS,4,PAS,7,PR,8405,52.04334365325077,1,won
+2008-03-08,SE-12,Kelantan,N.05 Kijang,1,8390,Wan Ubaidah Binti Omar,PAS,4,PAS,7,PR,0,,1,won_uncontested
+2008-03-08,SE-12,Kelantan,N.06 Chempaka,1,3244,Datuk Dr. Nik Mohd Zain,BN,1,UMNO,3,BN,5265,35.624873130793695,2,lost
+2008-03-08,SE-12,Kelantan,N.06 Chempaka,2,614,Tuan Guru Dato' Haji Nik Abdul Aziz,PAS,4,PAS,7,PR,9514,64.37512686920631,1,won
+2008-03-08,SE-12,Kelantan,N.07 Panchor,1,2533,Mohd Amar Bin Abdullah (Nik Amar),PAS,4,PAS,7,PR,9148,61.56538125042063,1,won
+2008-03-08,SE-12,Kelantan,N.07 Panchor,2,4013,Dali Bin Husin,BN,1,UMNO,3,BN,5711,38.43461874957938,2,lost
+2008-03-08,SE-12,Kelantan,N.08 Tanjong Mas,1,8234,Rohani Binti Ibrahim (Kak Ani),PAS,4,PAS,7,PR,11095,69.00733922129618,1,won
+2008-03-08,SE-12,Kelantan,N.08 Tanjong Mas,2,8315,Khazuni,BN,1,UMNO,3,BN,4983,30.99266077870382,2,lost
+2008-03-08,SE-12,Kelantan,N.09 Kota Lama,1,8157,Dato' Anuar Tan,PAS,4,PAS,7,PR,12867,62.68024162120032,1,won
+2008-03-08,SE-12,Kelantan,N.09 Kota Lama,2,8317,Tan Ken Ten,BN,3,MCA,3,BN,7661,37.31975837879969,2,lost
+2008-03-08,SE-12,Kelantan,N.10 Bunut Payong,1,4014,Dato' Haji Takiyuddin,PAS,4,PAS,7,PR,10360,63.25172476952194,1,won
+2008-03-08,SE-12,Kelantan,N.10 Bunut Payong,2,4861,Hj Rosmadi,BN,1,UMNO,3,BN,6019,36.74827523047805,2,lost
+2008-03-08,SE-12,Kelantan,N.11 Tendong,1,8238,Haji Fauzi,BN,1,UMNO,3,BN,6448,44.307015735587164,2,lost
+2008-03-08,SE-12,Kelantan,N.11 Tendong,2,8320,Ustaz Haji Muhammad,PAS,4,PAS,7,PR,8105,55.692984264412836,1,won
+2008-03-08,SE-12,Kelantan,N.12 Pengkalan Pasir,1,2189,Haji Hanafi Bin Mamat,BN,1,UMNO,3,BN,8029,43.62164511572313,2,lost
+2008-03-08,SE-12,Kelantan,N.12 Pengkalan Pasir,2,8322,Hj. Hanifa Ahmad,PAS,4,PAS,7,PR,10377,56.378354884276874,1,won
+2008-03-08,SE-12,Kelantan,N.13 Chetok,1,8243,Ustaz Abdul Halim,PAS,4,PAS,7,PR,9107,58.58852290272773,1,won
+2008-03-08,SE-12,Kelantan,N.13 Chetok,2,8165,Dato' Hj Abdul Rahim Bin Hj Abdul Rahman,BN,1,UMNO,3,BN,6437,41.41147709727226,2,lost
+2008-03-08,SE-12,Kelantan,N.14 Meranti,1,2540,Abe Lah Mat Yasim,BN,1,UMNO,3,BN,4102,36.1760296322427,2,lost
+2008-03-08,SE-12,Kelantan,N.14 Meranti,2,8088,Ustaz Hj. Nassuruddin Hj. Daud,PAS,4,PAS,7,PR,7237,63.8239703677573,1,won
+2008-03-08,SE-12,Kelantan,N.15 Gual Periok,1,8246,Dato' Shaari Bin Mat Hussain,BN,1,UMNO,3,BN,6182,46.67774086378738,2,lost
+2008-03-08,SE-12,Kelantan,N.15 Gual Periok,2,8328,Ustaz Mat Cikgu Awang,PAS,4,PAS,7,PR,6915,52.21232256115977,1,won
+2008-03-08,SE-12,Kelantan,N.15 Gual Periok,3,8329,Mohammad Zulkifli Bin Abd. Rashid (Che Bob),BEBAS,0,BEBAS,0,ALONE,147,1.1099365750528543,3,lost_deposit
+2008-03-08,SE-12,Kelantan,N.16 Bukit Tuku,1,4870,Mohd Zain,BN,1,UMNO,3,BN,4884,47.76995305164319,2,lost
+2008-03-08,SE-12,Kelantan,N.16 Bukit Tuku,2,2887,Abdul Fatah Bin Haron (Abe Tah),PAS,4,PAS,7,PR,5340,52.230046948356815,1,won
+2008-03-08,SE-12,Kelantan,N.17 Salor,1,7715,Ismail Bin Mamat (Cikgu Wil),BN,1,UMNO,3,BN,5097,37.9636526143304,2,lost
+2008-03-08,SE-12,Kelantan,N.17 Salor,2,2889,Dato' Husam,PAS,4,PAS,7,PR,8329,62.0363473856696,1,won
+2008-03-08,SE-12,Kelantan,N.18 Pasir Tumboh,1,4018,Ust. Baihaki,PAS,4,PAS,7,PR,7779,63.998354586589876,1,won
+2008-03-08,SE-12,Kelantan,N.18 Pasir Tumboh,2,4019,Anuar Hj Safian,BN,1,UMNO,3,BN,4376,36.001645413410124,2,lost
+2008-03-08,SE-12,Kelantan,N.19 Demit,1,2892,Ustaz Mad Mustafa,PAS,4,PAS,7,PR,11547,63.115605356654825,1,won
+2008-03-08,SE-12,Kelantan,N.19 Demit,2,8254,Muhammad Bin Abdul Ghani,BN,1,UMNO,3,BN,6748,36.884394643345175,2,lost
+2008-03-08,SE-12,Kelantan,N.20 Tawang,1,8098,Ust Hj Hassan,PAS,4,PAS,7,PR,11068,58.691271608866266,1,won
+2008-03-08,SE-12,Kelantan,N.20 Tawang,2,8337,Ibrahim Bin Mat Din (Dato' Him),BN,1,UMNO,3,BN,7790,41.308728391133734,2,lost
+2008-03-08,SE-12,Kelantan,N.21 Perupok,1,3255,Dato' Awang Adek Hussin,BN,1,UMNO,3,BN,8235,46.42051860202932,2,lost
+2008-03-08,SE-12,Kelantan,N.21 Perupok,2,7832,Dato' Hj. Omar Mohammed,PAS,4,PAS,7,PR,9505,53.57948139797068,1,won
+2008-03-08,SE-12,Kelantan,N.22 Jelawat,1,8258,Dato' Dr . Ilias Bin Husain,BN,1,UMNO,3,BN,8505,46.6436327739388,2,lost
+2008-03-08,SE-12,Kelantan,N.22 Jelawat,2,8341,Abdul Azziz Bin Kadir (Cikgu Aziz),PAS,4,PAS,7,PR,9729,53.35636722606121,1,won
+2008-03-08,SE-12,Kelantan,N.23 Melor,1,4393,Ustaz Wan Ismail,PAS,4,PAS,7,PR,8390,55.328409390662095,1,won
+2008-03-08,SE-12,Kelantan,N.23 Melor,2,8261,Cikgu Azmi Ishak,BN,1,UMNO,3,BN,6774,44.671590609337905,2,lost
+2008-03-08,SE-12,Kelantan,N.24 Kadok,1,8342,Hj Azami,PAS,4,PAS,7,PR,6972,57.42525327403014,1,won
+2008-03-08,SE-12,Kelantan,N.24 Kadok,2,8343,Roslan Bin Ab Hamid (Abe Lan),BN,1,UMNO,3,BN,5169,42.57474672596985,2,lost
+2008-03-08,SE-12,Kelantan,N.25 Kok Lanas,1,3257,Md Alwi Bin Che Ahmad (Datuk Hj Alwi),BN,1,UMNO,3,BN,8319,51.805953418856646,1,won
+2008-03-08,SE-12,Kelantan,N.25 Kok Lanas,2,8092,Ahmad Rusli Bin Ibrahim (Dato' Li),PAS,4,PAS,7,PR,7739,48.194046581143354,2,lost
+2008-03-08,SE-12,Kelantan,N.26 Bukit Panau,1,8266,Abdul Fattah,PAS,4,PAS,7,PR,10129,63.01088646967341,1,won
+2008-03-08,SE-12,Kelantan,N.26 Bukit Panau,2,8347,Cikgu Nik Kemaruzaman,BN,1,UMNO,3,BN,5946,36.9891135303266,2,lost
+2008-03-08,SE-12,Kelantan,N.27 Gual Ipoh,1,8268,Wan Yusoff Bin W Mustafa (Cikgu Wan),PAS,4,PAS,7,PR,6073,57.9318897262234,1,won
+2008-03-08,SE-12,Kelantan,N.27 Gual Ipoh,2,1838,Datuk Hashim Safin,BN,1,UMNO,3,BN,4410,42.0681102737766,2,lost
+2008-03-08,SE-12,Kelantan,N.28 Kemahang,1,8350,Zainon Abdin Bin Ali (Zainon),BN,1,UMNO,3,BN,3549,39.30232558139535,2,lost
+2008-03-08,SE-12,Kelantan,N.28 Kemahang,2,8207,Md Anizam Bin Ab Rahman (Mej (B) Nizam),PAS,4,PAS,7,PR,5481,60.69767441860465,1,won
+2008-03-08,SE-12,Kelantan,N.29 Selising,1,8430,Saipul Bahrin Bin Mohamad (Ustaz Saiful),PAS,4,PAS,7,PR,6737,53.084863288944916,1,won
+2008-03-08,SE-12,Kelantan,N.29 Selising,2,8353,Cikgu Haji Hashim,BN,1,UMNO,3,BN,5954,46.91513671105508,2,lost
+2008-03-08,SE-12,Kelantan,N.30 Limbongan,1,8354,Ustaz Che Min,BN,1,UMNO,3,BN,6989,44.769713663442445,2,lost
+2008-03-08,SE-12,Kelantan,N.30 Limbongan,2,8025,Zainuddin Bin Ag Hamat (Cik Gu Din),PAS,4,PAS,7,PR,8622,55.230286336557555,1,won
+2008-03-08,SE-12,Kelantan,N.31 Semerak,1,2197,Datuk Kamarudin Bin Md Nor,BN,1,UMNO,3,BN,6112,46.817311374952126,2,lost
+2008-03-08,SE-12,Kelantan,N.31 Semerak,2,8357,Wan Hassan,PAS,4,PAS,7,PR,6943,53.18268862504787,1,won
+2008-03-08,SE-12,Kelantan,N.32 Gaal,1,4024,Tuan Mustaffa Tuan Mat,BN,1,UMNO,3,BN,5618,48.60282031317588,2,lost
+2008-03-08,SE-12,Kelantan,N.32 Gaal,2,8359,Dr Nik Mazian,PAS,4,PAS,7,PR,5941,51.397179686824124,1,won
+2008-03-08,SE-12,Kelantan,N.33 Pulai Chondong,1,4399,Zulkifli Mamat,PAS,4,PAS,7,PR,7205,55.96116504854369,1,won
+2008-03-08,SE-12,Kelantan,N.33 Pulai Chondong,2,8199,Mohd Asri Bin Mejah (Dr. Asri),BN,1,UMNO,3,BN,5670,44.038834951456316,2,lost
+2008-03-08,SE-12,Kelantan,N.34 Temangan,1,8361,Dr. Fadzli Dato' Hassan,PAS,4,PAS,7,PR,7120,54.76501807553266,1,won
+2008-03-08,SE-12,Kelantan,N.34 Temangan,2,8362,Rahimah Binti Hj Mahamad (Kak Mah),BN,1,UMNO,3,BN,5881,45.23498192446735,2,lost
+2008-03-08,SE-12,Kelantan,N.35 Kemuning,1,4026,Ahmad Jazlan Bin Yaakub (Haji Lan),BN,1,UMNO,3,BN,7087,46.964877402253144,2,lost
+2008-03-08,SE-12,Kelantan,N.35 Kemuning,2,8364,Wan Ahmad Lutfi Bin Hj W Sulaiman (Ustaz Pi),PAS,4,PAS,7,PR,8003,53.035122597746856,1,won
+2008-03-08,SE-12,Kelantan,N.36 Bukit Bunga,1,8440,Haji Sufely Abd Razak,PAS,4,PAS,7,PR,5383,48.434407054165916,2,lost
+2008-03-08,SE-12,Kelantan,N.36 Bukit Bunga,2,8128,Mohd Adhan Bin Kechik,BN,1,UMNO,3,BN,5731,51.565592945834084,1,won
+2008-03-08,SE-12,Kelantan,N.37 Air Lanas,1,8366,Dr. Azmi,BN,1,UMNO,3,BN,4895,46.24468587623996,2,lost
+2008-03-08,SE-12,Kelantan,N.37 Air Lanas,2,8543,Abdullah Bin Ya'Kub (Ust Lah),PAS,4,PAS,7,PR,5690,53.75531412376004,1,won
+2008-03-08,SE-12,Kelantan,N.38 Kuala Balah,1,8132,Abdul Aziz Bin Derashid (Abe Jit),BN,1,UMNO,3,BN,4772,58.45889991424721,1,won
+2008-03-08,SE-12,Kelantan,N.38 Kuala Balah,2,8369,Mat Sulaiman,PKR,75,PKR,7,PR,3391,41.54110008575279,2,lost
+2008-03-08,SE-12,Kelantan,N.39 Mengkebang,1,8288,Haji Azizzuddin,BN,1,UMNO,3,BN,5104,42.14350590372389,2,lost
+2008-03-08,SE-12,Kelantan,N.39 Mengkebang,2,4902,Abdul Latif Bin Abdul Rahman (Ustaz Latiff),PAS,4,PAS,7,PR,7007,57.85649409627611,1,won
+2008-03-08,SE-12,Kelantan,N.40 Guchil,1,8371,Shamshul Ikhwan Bin Ashari Azmi (Dr Sham),BN,1,UMNO,3,BN,5784,46.02164226607257,2,lost
+2008-03-08,SE-12,Kelantan,N.40 Guchil,2,8372,Tuan Zamri Ariff,PKR,75,PKR,7,PR,6784,53.97835773392744,1,won
+2008-03-08,SE-12,Kelantan,N.41 Manek Urai,1,4903,Mohamed Zulkepli Bin Omar (Zuki),BN,1,UMNO,3,BN,4394,43.333333333333336,2,lost
+2008-03-08,SE-12,Kelantan,N.41 Manek Urai,2,7973,Ismail Bin Yaacob (Pak Su Wil),PAS,4,PAS,7,PR,5746,56.666666666666664,1,won
+2008-03-08,SE-12,Kelantan,N.42 Dabong,1,4402,Dato' Ramzi Bin Ab Rahman,BN,1,UMNO,3,BN,3354,46.19834710743802,2,lost
+2008-03-08,SE-12,Kelantan,N.42 Dabong,2,8376,Arifabillah @ Mohd Asri Bin Ibrahim (Abe Arif),PAS,4,PAS,7,PR,3906,53.80165289256198,1,won
+2008-03-08,SE-12,Kelantan,N.43 Nenggiri,1,8297,Mat Yusoff Bin Abdul Ghani (Yusof),BN,1,UMNO,3,BN,4543,64.937106918239,1,won
+2008-03-08,SE-12,Kelantan,N.43 Nenggiri,2,8378,Mohd Zuki Bin Ibrahim (Pak Ki),PKR,75,PKR,7,PR,2453,35.062893081761004,2,lost
+2008-03-08,SE-12,Kelantan,N.44 Paloh,1,8063,Dato' Nozula,BN,1,UMNO,3,BN,5697,66.5459642565121,1,won
+2008-03-08,SE-12,Kelantan,N.44 Paloh,2,8380,Reizal,PKR,75,PKR,7,PR,2864,33.45403574348791,2,lost
+2008-03-08,SE-12,Kelantan,N.45 Galas,1,8302,Chek Hashim,PAS,4,PAS,7,PR,4399,53.9622178606477,1,won
+2008-03-08,SE-12,Kelantan,N.45 Galas,2,8221,Mohamad Saufi Bin Deraman (Abe P),BN,1,UMNO,3,BN,3753,46.03778213935231,2,lost
+2013-05-05,SE-13,Kelantan,N.01 Pengkalan Kubor,1,4864,Izat Bukhary,BEBAS,0,BEBAS,0,ALONE,65,0.3480216308829041,3,lost_deposit
+2013-05-05,SE-13,Kelantan,N.01 Pengkalan Kubor,2,8222,Dato Haji Di,BN,1,UMNO,3,BN,10174,54.473416501579486,1,won
+2013-05-05,SE-13,Kelantan,N.01 Pengkalan Kubor,3,8383,Prof. Madya Saharun,PKR,75,PKR,7,PR,8438,45.17856186753762,2,lost
+2013-05-05,SE-13,Kelantan,N.02 Kelaboran,1,8384,Wan Napi,BN,1,UMNO,3,BN,7995,44.188360139280384,2,lost
+2013-05-05,SE-13,Kelantan,N.02 Kelaboran,2,8224,Zaki Hj Ibrahim,PAS,4,PAS,7,PR,10098,55.81163986071962,1,won
+2013-05-05,SE-13,Kelantan,N.03 Pasir Pekan,1,8068,Ustaz Mad,PAS,4,PAS,7,PR,14204,62.3967668248111,1,won
+2013-05-05,SE-13,Kelantan,N.03 Pasir Pekan,2,8387,Kak Chik,BN,1,UMNO,3,BN,8560,37.60323317518889,2,lost
+2013-05-05,SE-13,Kelantan,N.04 Wakaf Bharu,1,4381,Dato' Hj Che Lah Mat Nawi,PAS,4,PAS,7,PR,11515,52.217485942318156,1,won
+2013-05-05,SE-13,Kelantan,N.04 Wakaf Bharu,2,8228,Datuk Rosdi,BN,1,UMNO,3,BN,10537,47.782514057681844,2,lost
+2013-05-05,SE-13,Kelantan,N.05 Kijang,1,8390,Kak Ubai,PAS,4,PAS,7,PR,10632,65.95124371937224,1,won
+2013-05-05,SE-13,Kelantan,N.05 Kijang,2,4382,Hj. Zaluzi,BN,1,UMNO,3,BN,5489,34.04875628062775,2,lost
+2013-05-05,SE-13,Kelantan,N.06 Chempaka,1,8392,Tok Gawo Man,BN,1,UMNO,3,BN,5810,32.06401766004415,2,lost
+2013-05-05,SE-13,Kelantan,N.06 Chempaka,2,614,Tuan Guru Dato' Haji Nik Abdul Aziz,PAS,4,PAS,7,PR,12310,67.93598233995584,1,won
+2013-05-05,SE-13,Kelantan,N.07 Panchor,1,2533,Dato' Nik Amar,PAS,4,PAS,7,PR,12467,62.65453814453714,1,won
+2013-05-05,SE-13,Kelantan,N.07 Panchor,2,8229,Che Rosli,BN,1,UMNO,3,BN,7431,37.34546185546286,2,lost
+2013-05-05,SE-13,Kelantan,N.08 Tanjong Mas,1,8395,Kanidy Omar,BN,1,UMNO,3,BN,6866,30.85426684042601,2,lost
+2013-05-05,SE-13,Kelantan,N.08 Tanjong Mas,2,8234,Kak Ani,PAS,4,PAS,7,PR,15387,69.14573315957398,1,won
+2013-05-05,SE-13,Kelantan,N.09 Kota Lama,1,8317,Tan Ken Ten,BN,3,MCA,3,BN,7651,34.663827473722364,2,lost
+2013-05-05,SE-13,Kelantan,N.09 Kota Lama,2,4015,Mohd Zakiman Bin Abu Bakar,BEBAS,0,BEBAS,0,ALONE,152,0.6886553098948894,3,lost_deposit
+2013-05-05,SE-13,Kelantan,N.09 Kota Lama,3,8157,Dato Hj Anuar Tan,PAS,4,PAS,7,PR,14269,64.64751721638274,1,won
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,1,8398,Ustaz Mohd. Fakhrurazi,BN,1,UMNO,3,BN,7655,36.276182352383664,2,lost
+2013-05-05,SE-13,Kelantan,N.10 Bunut Payong,2,8480,Dr Ramli,PAS,4,PAS,7,PR,13447,63.72381764761634,1,won
+2013-05-05,SE-13,Kelantan,N.11 Tendong,1,8400,Rozi Muhamad,PAS,4,PAS,7,PR,9397,52.74472384373596,1,won
+2013-05-05,SE-13,Kelantan,N.11 Tendong,2,2189,Datuk Hj Hanafi Hj Mamat,BN,1,UMNO,3,BN,8419,47.25527615626403,2,lost
+2013-05-05,SE-13,Kelantan,N.12 Pengkalan Pasir,1,8322,Hj. Hanifa Ahmad,PAS,4,PAS,7,PR,13398,60.6765997916761,1,won
+2013-05-05,SE-13,Kelantan,N.12 Pengkalan Pasir,2,8402,Ust Tuan Anuwa,BN,1,UMNO,3,BN,8683,39.3234002083239,2,lost
+2013-05-05,SE-13,Kelantan,N.13 Chetok,1,8243,Abdul Halim Bin Abdul Rahman,PAS,4,PAS,7,PR,10578,55.17709039695373,1,won
+2013-05-05,SE-13,Kelantan,N.13 Chetok,2,8404,Aimi Hj. Jusoh,BN,1,UMNO,3,BN,8593,44.82290960304627,2,lost
+2013-05-05,SE-13,Kelantan,N.14 Meranti,1,3638,Ustaz Afandi,BN,1,UMNO,3,BN,4589,35.00114407749218,2,lost
+2013-05-05,SE-13,Kelantan,N.14 Meranti,2,8088,Us Dato' Hj Nassuruddin Hj Daud,PAS,4,PAS,7,PR,8522,64.99885592250781,1,won
+2013-05-05,SE-13,Kelantan,N.15 Gual Periok,1,8328,Ustaz Mat Cikgu Awang,PAS,4,PAS,7,PR,8224,51.94214615044527,1,won
+2013-05-05,SE-13,Kelantan,N.15 Gual Periok,2,8246,Dato Shaari,BN,1,UMNO,3,BN,7609,48.057853849554725,2,lost
+2013-05-05,SE-13,Kelantan,N.16 Bukit Tuku,1,4870,Datuk Zain,BN,1,UMNO,3,BN,5690,46.414878864507706,2,lost
+2013-05-05,SE-13,Kelantan,N.16 Bukit Tuku,2,8408,Abd. Rasul,PAS,4,PAS,7,PR,6569,53.58512113549229,1,won
+2013-05-05,SE-13,Kelantan,N.17 Salor,1,8409,Datuk Noordin,BN,1,UMNO,3,BN,6548,39.02497169080398,2,lost
+2013-05-05,SE-13,Kelantan,N.17 Salor,2,2889,Dato Husam,PAS,4,PAS,7,PR,10231,60.97502830919602,1,won
+2013-05-05,SE-13,Kelantan,N.18 Pasir Tumboh,1,8411,Ustaz Hj. Syamsul Al-Hafiz,BN,1,UMNO,3,BN,5471,35.42705432882212,2,lost
+2013-05-05,SE-13,Kelantan,N.18 Pasir Tumboh,2,8412,Ust. Man,PAS,4,PAS,7,PR,9972,64.57294567117788,1,won
+2013-05-05,SE-13,Kelantan,N.19 Demit,1,4850,Hajjah Mumtaz,PAS,4,PAS,7,PR,15302,69.48190528084275,1,won
+2013-05-05,SE-13,Kelantan,N.19 Demit,2,8414,Wan Mohd Nazi Bin Wan Hamat,BN,1,UMNO,3,BN,6721,30.518094719157247,2,lost
+2013-05-05,SE-13,Kelantan,N.20 Tawang,1,4880,Haji Zain,BN,1,UMNO,3,BN,10451,43.52044640626301,2,lost
+2013-05-05,SE-13,Kelantan,N.20 Tawang,2,8098,Ustaz Hassan,PAS,4,PAS,7,PR,13563,56.47955359373699,1,won
+2013-05-05,SE-13,Kelantan,N.21 Perupok,1,8415,Dato' Muhammad Zaidi Bin Sidek,BN,1,UMNO,3,BN,10882,46.800275245140206,2,lost
+2013-05-05,SE-13,Kelantan,N.21 Perupok,2,8416,Haji Huzaimy,PAS,4,PAS,7,PR,12370,53.1997247548598,1,won
+2013-05-05,SE-13,Kelantan,N.22 Jelawat,1,8258,Dato Dr Ilias Bin Husain,BN,1,UMNO,3,BN,11620,49.7815097249593,2,lost
+2013-05-05,SE-13,Kelantan,N.22 Jelawat,2,8341,Cikgu Aziz,PAS,4,PAS,7,PR,11722,50.21849027504069,1,won
+2013-05-05,SE-13,Kelantan,N.23 Melor,1,8419,Cikgu Man,BN,1,UMNO,3,BN,8101,43.34171526403082,2,lost
+2013-05-05,SE-13,Kelantan,N.23 Melor,2,8420,Dr. Yusnan,PAS,4,PAS,7,PR,10590,56.658284735969175,1,won
+2013-05-05,SE-13,Kelantan,N.24 Kadok,1,8342,Hj. Azami,PAS,4,PAS,7,PR,8753,60.7467555000347,1,won
+2013-05-05,SE-13,Kelantan,N.24 Kadok,2,8422,Hj. Basri,BN,1,UMNO,3,BN,5656,39.2532444999653,2,lost
+2013-05-05,SE-13,Kelantan,N.25 Kok Lanas,1,8423,Ustaz Nik,PAS,4,PAS,7,PR,9871,49.57561147104615,2,lost
+2013-05-05,SE-13,Kelantan,N.25 Kok Lanas,2,3257,Datuk Hj. Alwi,BN,1,UMNO,3,BN,10040,50.42438852895385,1,won
+2013-05-05,SE-13,Kelantan,N.26 Bukit Panau,1,8266,Dato' Hj Abdul Fattah,PAS,4,PAS,7,PR,13292,58.185956925232006,1,won
+2013-05-05,SE-13,Kelantan,N.26 Bukit Panau,2,8267,Ustaz Haji Baharudin,BN,1,UMNO,3,BN,9552,41.814043074767994,2,lost
+2013-05-05,SE-13,Kelantan,N.27 Gual Ipoh,1,4885,Cikgu Bakri,BN,1,UMNO,3,BN,7689,55.02361528553027,1,won
+2013-05-05,SE-13,Kelantan,N.27 Gual Ipoh,2,8268,Cikgu Wan Yusoff,PAS,4,PAS,7,PR,6285,44.97638471446973,2,lost
+2013-05-05,SE-13,Kelantan,N.28 Kemahang,1,8518,Cikgu Dayang,BN,1,UMNO,3,BN,5517,44.242181234963915,2,lost
+2013-05-05,SE-13,Kelantan,N.28 Kemahang,2,8207,Mej (B) Dato Hj Nizam,PAS,4,PAS,7,PR,6953,55.757818765036085,1,won
+2013-05-05,SE-13,Kelantan,N.29 Selising,1,8429,Zul Ali,BN,1,UMNO,3,BN,7662,49.95761883027971,1,won
+2013-05-05,SE-13,Kelantan,N.29 Selising,2,4461,Ibrahim Bin Ismail,BEBAS,0,BEBAS,0,ALONE,120,0.7824215948360174,3,lost_deposit
+2013-05-05,SE-13,Kelantan,N.29 Selising,3,8430,Ustaz Saipul,PAS,4,PAS,7,PR,7555,49.25995957488426,2,lost
+2013-05-05,SE-13,Kelantan,N.30 Limbongan,1,8431,Haji Rujhan Salleh,BN,1,UMNO,3,BN,9438,47.384275529671655,2,lost
+2013-05-05,SE-13,Kelantan,N.30 Limbongan,2,8432,Ustaz Nazlan,PAS,4,PAS,7,PR,10480,52.61572447032835,1,won
+2013-05-05,SE-13,Kelantan,N.31 Semerak,1,4891,Cikgu Awi Cikgu Adek,BN,1,UMNO,3,BN,8444,53.09689995598315,1,won
+2013-05-05,SE-13,Kelantan,N.31 Semerak,2,8357,Wan Hassan,PAS,4,PAS,7,PR,7459,46.90310004401685,2,lost
+2013-05-05,SE-13,Kelantan,N.32 Gaal,1,8434,Pak Da Wan,BN,1,UMNO,3,BN,6876,48.92557279066458,2,lost
+2013-05-05,SE-13,Kelantan,N.32 Gaal,2,8435,Cikgu Tuan Lan,PAS,4,PAS,7,PR,7178,51.07442720933542,1,won
+2013-05-05,SE-13,Kelantan,N.33 Pulai Chondong,1,7990,Ustaz Halim,BN,1,UMNO,3,BN,7627,47.158844988561185,2,lost
+2013-05-05,SE-13,Kelantan,N.33 Pulai Chondong,2,4399,Zulkifli Bin Mamat,PAS,4,PAS,7,PR,8546,52.84115501143882,1,won
+2013-05-05,SE-13,Kelantan,N.34 Temangan,1,8436,Cikgu Mie,BN,1,UMNO,3,BN,7173,46.48434968569762,2,lost
+2013-05-05,SE-13,Kelantan,N.34 Temangan,2,8361,Dato' Dr. Mohamed Fadzli Dato' Hassan,PAS,4,PAS,7,PR,8258,53.51565031430238,1,won
+2013-05-05,SE-13,Kelantan,N.35 Kemuning,1,8438,Eriandi,BN,1,UMNO,3,BN,9015,47.288082249265635,2,lost
+2013-05-05,SE-13,Kelantan,N.35 Kemuning,2,8439,Ustaz Li,PAS,4,PAS,7,PR,10049,52.71191775073437,1,won
+2013-05-05,SE-13,Kelantan,N.36 Bukit Bunga,1,8128,Mohd Adhan Bin Kechik,BN,1,UMNO,3,BN,7692,55.53389646956899,1,won
+2013-05-05,SE-13,Kelantan,N.36 Bukit Bunga,2,8440,Abang Li Pak Teh Rojak,PAS,4,PAS,7,PR,6159,44.46610353043102,2,lost
+2013-05-05,SE-13,Kelantan,N.37 Air Lanas,1,2552,Dato' Pa,BN,1,UMNO,3,BN,6605,50.17853073007673,1,won
+2013-05-05,SE-13,Kelantan,N.37 Air Lanas,2,8543,Ustaz Lah,PAS,4,PAS,7,PR,6558,49.82146926992327,2,lost
+2013-05-05,SE-13,Kelantan,N.38 Kuala Balah,1,8443,Ramlan Bin Mat,PKR,75,PKR,7,PR,4097,39.89289191820837,2,lost
+2013-05-05,SE-13,Kelantan,N.38 Kuala Balah,2,8132,Abdul Aziz Bin Derashid,BN,1,UMNO,3,BN,6173,60.10710808179163,1,won
+2013-05-05,SE-13,Kelantan,N.39 Mengkebang,1,8288,Hj. Azizzuddin,BN,1,UMNO,3,BN,7163,46.51902844525263,2,lost
+2013-05-05,SE-13,Kelantan,N.39 Mengkebang,2,4403,Ustaz Latiff,PAS,4,PAS,7,PR,8235,53.48097155474737,1,won
+2013-05-05,SE-13,Kelantan,N.40 Guchil,1,6465,Cikgu Roslan,PKR,75,PKR,7,PR,7803,51.01000196116886,1,won
+2013-05-05,SE-13,Kelantan,N.40 Guchil,2,8445,Bustaman Yaacob,BEBAS,0,BEBAS,0,ALONE,146,0.9544355102307642,3,lost_deposit
+2013-05-05,SE-13,Kelantan,N.40 Guchil,3,8446,Pak Long Che Sin Kampung Batu Balai,BEBAS,0,BEBAS,0,ALONE,37,0.24187749231875533,4,lost_deposit
+2013-05-05,SE-13,Kelantan,N.40 Guchil,4,4888,Datuk Haji Nik Sapeia Bin Nik Yusof,BN,1,UMNO,3,BN,7311,47.79368503628162,2,lost
+2013-05-05,SE-13,Kelantan,N.41 Manek Urai,1,8448,Abe Jalal,BN,1,UMNO,3,BN,6169,44.15575119891203,2,lost
+2013-05-05,SE-13,Kelantan,N.41 Manek Urai,2,8449,Abe Uji,PAS,4,PAS,7,PR,7802,55.84424880108797,1,won
+2013-05-05,SE-13,Kelantan,N.42 Dabong,1,4402,Dato' Ramzi Ab Rahman,BN,1,UMNO,3,BN,4612,51.27292940522512,1,won
+2013-05-05,SE-13,Kelantan,N.42 Dabong,2,8556,Tok Imam Ku Zaki,PAS,4,PAS,7,PR,4383,48.72707059477487,2,lost
+2013-05-05,SE-13,Kelantan,N.43 Nenggiri,1,19379,Abdul Aziz Bin Mohamed,BEBAS,0,BEBAS,0,ALONE,368,3.744784776635799,3,lost_deposit
+2013-05-05,SE-13,Kelantan,N.43 Nenggiri,2,8297,Yusoff,BN,1,UMNO,3,BN,6654,67.71140734710491,1,won
+2013-05-05,SE-13,Kelantan,N.43 Nenggiri,3,8453,Md Azihan,PKR,75,PKR,7,PR,2805,28.543807876259287,2,lost
+2013-05-05,SE-13,Kelantan,N.44 Paloh,1,8454,Amran Ghani,PKR,75,PKR,7,PR,3910,33.256783192991406,2,lost
+2013-05-05,SE-13,Kelantan,N.44 Paloh,2,8063,Dato' La,BN,1,UMNO,3,BN,7847,66.7432168070086,1,won
+2013-05-05,SE-13,Kelantan,N.45 Galas,1,8442,Ustaz Lah,PAS,4,PAS,7,PR,5655,44.84180477361034,2,lost
+2013-05-05,SE-13,Kelantan,N.45 Galas,2,8456,Ab Aziz Yusoff,BN,1,UMNO,3,BN,6956,55.15819522638966,1,won
+2018-05-09,SE-14,Kelantan,N.01 Pengkalan Kubor,1,8457,Ustaz Hj Razi,BN,1,UMNO,3,BN,8563,42.207216088328074,2,lost
+2018-05-09,SE-14,Kelantan,N.01 Pengkalan Kubor,2,8458,Ustaz Lan,PAS,4,PAS,9,GS,10142,49.99014195583596,1,won
+2018-05-09,SE-14,Kelantan,N.01 Pengkalan Kubor,3,8459,Dato' Rosdi,PKR,100,BERSATU,8,PH,1583,7.802641955835962,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.02 Kelaboran,1,4855,Kak Jah,PKR,90,AMANAH,8,PH,1970,9.001599268905643,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.02 Kelaboran,2,8460,Cikgu Hashim,BN,1,UMNO,3,BN,7493,34.238062599954304,2,lost
+2018-05-09,SE-14,Kelantan,N.02 Kelaboran,3,8461,Cikgu Nan,PAS,4,PAS,9,GS,12422,56.76033813114005,1,won
+2018-05-09,SE-14,Kelantan,N.03 Pasir Pekan,1,8068,Dato' Ust Mad,PAS,4,PAS,9,GS,14298,63.875982844889215,1,won
+2018-05-09,SE-14,Kelantan,N.03 Pasir Pekan,2,8463,Wan Jo,PKR,90,AMANAH,8,PH,2140,9.560400285918513,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.03 Pasir Pekan,3,8464,Hj. Wan Sanusi,BN,1,UMNO,3,BN,5946,26.56361686919228,2,lost
+2018-05-09,SE-14,Kelantan,N.04 Wakaf Bharu,1,8465,Abe K,PKR,90,AMANAH,8,PH,1999,9.010186604164788,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.04 Wakaf Bharu,2,8466,Haji Rusli Abdullah,PAS,4,PAS,9,GS,10287,46.36707833769044,1,won
+2018-05-09,SE-14,Kelantan,N.04 Wakaf Bharu,3,8228,Datuk Rosdi,BN,1,UMNO,3,BN,9900,44.62273505814478,2,lost
+2018-05-09,SE-14,Kelantan,N.05 Kijang,1,8467,Nik Azmi,PKR,75,PKR,8,PH,1828,10.685684222832759,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.05 Kijang,2,8468,Azuan,BN,1,UMNO,3,BN,5281,30.870403928216522,2,lost
+2018-05-09,SE-14,Kelantan,N.05 Kijang,3,4012,Dr Izani,PAS,4,PAS,9,GS,9998,58.44391184895073,1,won
+2018-05-09,SE-14,Kelantan,N.06 Chempaka,1,8470,Fareez,BN,1,UMNO,3,BN,7075,35.30086817682866,2,lost
+2018-05-09,SE-14,Kelantan,N.06 Chempaka,2,8471,Ustaz Fathan,PAS,4,PAS,9,GS,10549,52.6344676180022,1,won
+2018-05-09,SE-14,Kelantan,N.06 Chempaka,3,5061,Ustaz Nik Omar,PKR,90,AMANAH,8,PH,2418,12.064664205169144,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.07 Panchor,1,2533,Dato' Nik Amar,PAS,4,PAS,9,GS,13597,60.973094170403584,1,won
+2018-05-09,SE-14,Kelantan,N.07 Panchor,2,8472,Zarina Eusope,BN,1,UMNO,3,BN,6309,28.291479820627803,2,lost
+2018-05-09,SE-14,Kelantan,N.07 Panchor,3,8473,Hazmi Hassan,PKR,90,AMANAH,8,PH,2394,10.73542600896861,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.08 Tanjong Mas,1,8474,Madihah Binti Ab Aziz,BN,1,UMNO,3,BN,4945,20.401848337321564,3,lost
+2018-05-09,SE-14,Kelantan,N.08 Tanjong Mas,2,4860,Dr Hafidzah,PKR,90,AMANAH,8,PH,6139,25.32799735951811,2,lost
+2018-05-09,SE-14,Kelantan,N.08 Tanjong Mas,3,8234,Kak Ani,PAS,4,PAS,9,GS,13154,54.270154303160325,1,won
+2018-05-09,SE-14,Kelantan,N.09 Kota Lama,1,8475,Chua Hock Kuan,BN,3,MCA,3,BN,5502,26.25,3,lost
+2018-05-09,SE-14,Kelantan,N.09 Kota Lama,2,8157,Dato' Anuar Tan,PAS,4,PAS,9,GS,8410,40.12404580152672,1,won
+2018-05-09,SE-14,Kelantan,N.09 Kota Lama,3,8476,Tan Sri Rashid,PKR,100,BERSATU,8,PH,6965,33.229961832061065,2,lost
+2018-05-09,SE-14,Kelantan,N.09 Kota Lama,4,8477,Khairul Nizam,PSM,71,PSM,0,ALONE,54,0.25763358778625955,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.09 Kota Lama,5,4864,Izat Bukhary,BEBAS,0,BEBAS,0,ALONE,29,0.1383587786259542,5,lost_deposit
+2018-05-09,SE-14,Kelantan,N.10 Bunut Payong,1,8478,Datuk Haji Mohamed Hasnan Bin Che Hussin,BN,1,UMNO,3,BN,6294,28.870235310306867,2,lost
+2018-05-09,SE-14,Kelantan,N.10 Bunut Payong,2,8479,Sanusi Bin Hj Othman,PKR,90,AMANAH,8,PH,4586,21.03573230585753,3,lost
+2018-05-09,SE-14,Kelantan,N.10 Bunut Payong,3,8480,Dr.Ramli,PAS,4,PAS,9,GS,10921,50.09403238383561,1,won
+2018-05-09,SE-14,Kelantan,N.11 Tendong,1,1828,Dato' Dr.Ibrahim B. Ali,BEBAS,0,BEBAS,0,ALONE,1479,7.998918334234721,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.11 Tendong,2,8482,Dr Wan Zul,PKR,100,BERSATU,8,PH,1360,7.355327203893997,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.11 Tendong,3,8400,Rozi Muhamad,PAS,4,PAS,9,GS,8951,48.40995132504056,1,won
+2018-05-09,SE-14,Kelantan,N.11 Tendong,4,8483,Dato' Hj Pakya,BN,1,UMNO,3,BN,6700,36.23580313683072,2,lost
+2018-05-09,SE-14,Kelantan,N.12 Pengkalan Pasir,1,8484,Che Johan Bin Che Pa,BN,1,UMNO,3,BN,5545,29.055753510794386,2,lost
+2018-05-09,SE-14,Kelantan,N.12 Pengkalan Pasir,2,8485,Ust.Dr Sha'Rani,PKR,90,AMANAH,8,PH,2570,13.466778453154474,3,lost
+2018-05-09,SE-14,Kelantan,N.12 Pengkalan Pasir,3,8486,Ir.Suharto Bin Mat Nasir,BEBAS,0,BEBAS,0,ALONE,826,4.32823307482708,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.12 Pengkalan Pasir,4,8322,Dato' Hj.Hanifa Ahmad,PAS,4,PAS,9,GS,10143,53.14923496122405,1,won
+2018-05-09,SE-14,Kelantan,N.13 Meranti,1,8488,Che Daud Bin Che Man,BEBAS,0,BEBAS,0,ALONE,512,3.196204507147762,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.13 Meranti,2,8489,Romizu,PKR,90,AMANAH,8,PH,971,6.061551907110307,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.13 Meranti,3,8088,Dato' Us Hj Nassuruddin Hj Daud,PAS,4,PAS,9,GS,10318,64.41101192334104,1,won
+2018-05-09,SE-14,Kelantan,N.13 Meranti,4,8491,Anuar Husin (Jasa),BN,1,UMNO,3,BN,4218,26.3312316624009,2,lost
+2018-05-09,SE-14,Kelantan,N.14 Chetok,1,8492,Tok Imam Li,PKR,90,AMANAH,8,PH,1928,11.546292969217872,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.14 Chetok,2,7978,Zakaria Bin Hasan,BEBAS,0,BEBAS,0,ALONE,25,0.14971852916516948,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.14 Chetok,3,8493,Ustaz Afifi,BN,1,UMNO,3,BN,6044,36.19595161097137,2,lost
+2018-05-09,SE-14,Kelantan,N.14 Chetok,4,8494,Haji Zuraidin Bin Abdullah,PAS,4,PAS,9,GS,8701,52.10803689064558,1,won
+2018-05-09,SE-14,Kelantan,N.15 Gual Periok,1,8495,Cikgu Li,BN,1,UMNO,3,BN,6509,38.95039195739333,2,lost
+2018-05-09,SE-14,Kelantan,N.15 Gual Periok,2,8496,Lawyer Wan,PKR,90,AMANAH,8,PH,1570,9.395009275327629,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.15 Gual Periok,3,8328,Ustaz Mat,PAS,4,PAS,9,GS,8632,51.65459876727903,1,won
+2018-05-09,SE-14,Kelantan,N.16 Apam Putra,1,8497,Akbar,BN,1,UMNO,3,BN,6786,45.233968804159446,2,lost
+2018-05-09,SE-14,Kelantan,N.16 Apam Putra,2,8408,Abd Rasul,PAS,4,PAS,9,GS,7134,47.55365951206506,1,won
+2018-05-09,SE-14,Kelantan,N.16 Apam Putra,3,4905,Syam Ghaz,PKR,90,AMANAH,8,PH,1082,7.212371683775497,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.17 Salor,1,2889,Husam Musa,PKR,90,AMANAH,8,PH,3617,16.931142629780464,3,lost
+2018-05-09,SE-14,Kelantan,N.17 Salor,2,8499,Haji Saiful,PAS,4,PAS,9,GS,11206,52.455179515985584,1,won
+2018-05-09,SE-14,Kelantan,N.17 Salor,3,8409,Datuk Noordin,BN,1,UMNO,3,BN,6540,30.613677854233956,2,lost
+2018-05-09,SE-14,Kelantan,N.18 Pasir Tumboh,1,8500,Cikgu Noor Yazid,PKR,90,AMANAH,8,PH,2759,13.605878291744746,3,lost
+2018-05-09,SE-14,Kelantan,N.18 Pasir Tumboh,2,8412,Ustaz Abd Rahman,PAS,4,PAS,9,GS,12470,61.49521649077818,1,won
+2018-05-09,SE-14,Kelantan,N.18 Pasir Tumboh,3,8502,Bakri Bin Yusoff,BN,1,UMNO,3,BN,5049,24.89890521747707,2,lost
+2018-05-09,SE-14,Kelantan,N.19 Demit,1,8503,Kak Long Nurul Amal,BN,1,UMNO,3,BN,4553,20.90929965556831,2,lost
+2018-05-09,SE-14,Kelantan,N.19 Demit,2,4850,Kak Taz,PAS,4,PAS,9,GS,13621,62.553386911595865,1,won
+2018-05-09,SE-14,Kelantan,N.19 Demit,3,4873,Dr.Wan Ahmad Kamil,PKR,90,AMANAH,8,PH,3601,16.53731343283582,3,lost
+2018-05-09,SE-14,Kelantan,N.20 Tawang,1,8098,Ustaz Hassan,PAS,4,PAS,9,GS,14991,59.0220087405016,1,won
+2018-05-09,SE-14,Kelantan,N.20 Tawang,2,8505,Datuk Mohd Radzuan Bin Abdullah,BN,1,UMNO,3,BN,10408,40.9779912594984,2,lost
+2018-05-09,SE-14,Kelantan,N.21 Pantai Irama,1,8416,Haji Mie,PAS,4,PAS,9,GS,12827,52.09991876523152,1,won
+2018-05-09,SE-14,Kelantan,N.21 Pantai Irama,2,8258,Dato' Dr. Ilias Bin Husain,BN,1,UMNO,3,BN,10348,42.03086921202275,2,lost
+2018-05-09,SE-14,Kelantan,N.21 Pantai Irama,3,8508,Hj Ismail,PKR,90,AMANAH,8,PH,1445,5.869212022745735,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.22 Jelawat,1,8509,Pak Su Wan,BN,1,UMNO,3,BN,9968,41.78403755868544,2,lost
+2018-05-09,SE-14,Kelantan,N.22 Jelawat,2,8341,Cikgu Azziz,PAS,4,PAS,9,GS,12463,52.2426224010731,1,won
+2018-05-09,SE-14,Kelantan,N.22 Jelawat,3,8511,Mohd Fami Zakaria,PKR,100,BERSATU,8,PH,1425,5.973340040241449,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.23 Melor,1,3644,Hj Aziz,PKR,75,PKR,8,PH,2122,12.398480864738533,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.23 Melor,2,8261,Cikgu Haji Azmi,BN,1,UMNO,3,BN,7173,41.91060473269062,2,lost
+2018-05-09,SE-14,Kelantan,N.23 Melor,3,8420,Dr. Yusnan,PAS,4,PAS,9,GS,7820,45.69091440257084,1,won
+2018-05-09,SE-14,Kelantan,N.24 Kadok,1,8514,Ustaz Him,PKR,90,AMANAH,8,PH,1246,9.276354973198332,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.24 Kadok,2,8342,Hj Azami,PAS,4,PAS,9,GS,7025,52.30047647409172,1,won
+2018-05-09,SE-14,Kelantan,N.24 Kadok,3,8515,Azam Ismail,BN,1,UMNO,3,BN,5161,38.423168552709946,2,lost
+2018-05-09,SE-14,Kelantan,N.25 Kok Lanas,1,8423,Ustaz Nik,PAS,4,PAS,9,GS,9799,43.55304680208009,2,lost
+2018-05-09,SE-14,Kelantan,N.25 Kok Lanas,2,8516,Dr. Hanapi,PKR,90,AMANAH,8,PH,1779,7.907018089692876,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.25 Kok Lanas,3,3257,Datuk Alwi,BN,1,UMNO,3,BN,10921,48.539935108227034,1,won
+2018-05-09,SE-14,Kelantan,N.26 Bukit Panau,1,8518,Cikgu Dayang Saniah,BN,1,UMNO,3,BN,10215,36.89856957087126,2,lost
+2018-05-09,SE-14,Kelantan,N.26 Bukit Panau,2,8266,Dato' Abdul Fattah,PAS,4,PAS,9,GS,14506,52.39849732697587,1,won
+2018-05-09,SE-14,Kelantan,N.26 Bukit Panau,3,8520,Lawyer Hisham,PKR,90,AMANAH,8,PH,2963,10.702933102152869,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.27 Gual Ipoh,1,4885,Cikgu Bakri,BN,1,UMNO,3,BN,8509,52.84436715935909,1,won
+2018-05-09,SE-14,Kelantan,N.27 Gual Ipoh,2,8268,Cikgu Wan Yusoff,PAS,4,PAS,9,GS,7094,44.05663892684139,2,lost
+2018-05-09,SE-14,Kelantan,N.27 Gual Ipoh,3,8521,Abe Soba,PKR,90,AMANAH,8,PH,499,3.098993913799528,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.28 Kemahang,1,8522,Wan Rakemi,BN,1,UMNO,3,BN,6338,44.210379464285715,2,lost
+2018-05-09,SE-14,Kelantan,N.28 Kemahang,2,8207,Mej (B) Dato Nizam,PAS,4,PAS,9,GS,7261,50.64871651785714,1,won
+2018-05-09,SE-14,Kelantan,N.28 Kemahang,3,8524,Bahari Bin Mohamad Nor,PKR,100,BERSATU,8,PH,737,5.140904017857143,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.29 Selising,1,8525,Cikgu Ismail,PKR,75,PKR,8,PH,808,4.761904761904762,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.29 Selising,2,8526,Ustaz Tuan Saripudin,PAS,4,PAS,9,GS,9640,56.81282413955682,1,won
+2018-05-09,SE-14,Kelantan,N.29 Selising,3,8429,Zul Ali,BN,1,UMNO,3,BN,6520,38.425271098538424,2,lost
+2018-05-09,SE-14,Kelantan,N.30 Limbongan,1,8432,Ustaz Nazlan,PAS,4,PAS,9,GS,10563,53.05640665025868,1,won
+2018-05-09,SE-14,Kelantan,N.30 Limbongan,2,8527,Cikgu Zarir,PKR,90,AMANAH,8,PH,1921,9.64890250640414,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.30 Limbongan,3,8528,Tok Imam Hanafiah,BN,1,UMNO,3,BN,7425,37.294690843337186,2,lost
+2018-05-09,SE-14,Kelantan,N.31 Semerak,1,4891,Cikgu Awi,BN,1,UMNO,3,BN,7646,45.31231480384022,2,lost
+2018-05-09,SE-14,Kelantan,N.31 Semerak,2,4890,Kapten Wan Marzudi,PKR,100,BERSATU,8,PH,950,5.629963257081902,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.31 Semerak,3,8357,Tok Wan Hassan,PAS,4,PAS,9,GS,8278,49.05772193907787,1,won
+2018-05-09,SE-14,Kelantan,N.32 Gaal,1,8531,Ustaz Rodzi,PAS,4,PAS,9,GS,7533,52.363408869734464,1,won
+2018-05-09,SE-14,Kelantan,N.32 Gaal,2,8532,Dato' Dr. Kaisan,BN,1,UMNO,3,BN,5956,41.40136243570138,2,lost
+2018-05-09,SE-14,Kelantan,N.32 Gaal,3,8533,Abe Man Batu Hitam,PKR,90,AMANAH,8,PH,897,6.235228694564159,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.33 Pulai Chondong,1,19367,Ustaz Azhar,PAS,4,PAS,9,GS,9140,52.26142146492081,1,won
+2018-05-09,SE-14,Kelantan,N.33 Pulai Chondong,2,8534,Cikgu Din,PKR,100,BERSATU,8,PH,1328,7.593344387900966,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.33 Pulai Chondong,3,8535,Hj Ahmad Tarmizi,BN,1,UMNO,3,BN,7021,40.14523414717823,2,lost
+2018-05-09,SE-14,Kelantan,N.34 Temangan,1,8361,Dato' Dr. Fadzli Hassan,PAS,4,PAS,9,GS,8711,52.98984123121845,1,won
+2018-05-09,SE-14,Kelantan,N.34 Temangan,2,8537,Redzuan,PKR,75,PKR,8,PH,914,5.559948902001338,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.34 Temangan,3,8538,Cikgu Adnan,BN,1,UMNO,3,BN,6814,41.45020986678022,2,lost
+2018-05-09,SE-14,Kelantan,N.35 Kemuning,1,8439,Ustaz Li,PAS,4,PAS,9,GS,9969,47.32270008544574,1,won
+2018-05-09,SE-14,Kelantan,N.35 Kemuning,2,8539,Cikgu Kadir,PKR,90,AMANAH,8,PH,2163,10.267729991455425,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.35 Kemuning,3,8438,Eriandi,BN,1,UMNO,3,BN,8934,42.409569923098836,2,lost
+2018-05-09,SE-14,Kelantan,N.36 Bukit Bunga,1,8128,Dato' Adhan Kechik,BN,1,UMNO,3,BN,7068,51.53857372028584,1,won
+2018-05-09,SE-14,Kelantan,N.36 Bukit Bunga,2,8541,Haji Ramzi Bin Mohd Yusoff,PAS,4,PAS,9,GS,5987,43.656117835788244,2,lost
+2018-05-09,SE-14,Kelantan,N.36 Bukit Bunga,3,8542,Asran Bin Alias,PKR,100,BERSATU,8,PH,659,4.805308443925915,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.37 Air Lanas,1,8543,Dato' Ustaz Lah,PAS,4,PAS,9,GS,6884,46.71869697997964,2,lost
+2018-05-09,SE-14,Kelantan,N.37 Air Lanas,2,8544,Dr Aminuddin,PKR,100,BERSATU,8,PH,608,4.126230064472345,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.37 Air Lanas,3,2552,Dato' Pa,BN,1,UMNO,3,BN,7243,49.155072955548015,1,won
+2018-05-09,SE-14,Kelantan,N.38 Kuala Balah,1,8545,Hj. Pendi,PAS,4,PAS,9,GS,4714,45.74034542984669,2,lost
+2018-05-09,SE-14,Kelantan,N.38 Kuala Balah,2,8132,Datuk Aziz,BN,1,UMNO,3,BN,5592,54.2596545701533,1,won
+2018-05-09,SE-14,Kelantan,N.39 Mengkebang,1,8547,Cikgu Wan Azlan,PKR,90,AMANAH,8,PH,829,5.15932287776948,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.39 Mengkebang,2,8548,Tok Ime Mat Min,PAS,4,PAS,9,GS,9295,57.84789644012945,1,won
+2018-05-09,SE-14,Kelantan,N.39 Mengkebang,3,8549,Ustaz Zaki,BN,1,UMNO,3,BN,5944,36.99278068210107,2,lost
+2018-05-09,SE-14,Kelantan,N.40 Guchil,1,8633,Zuber Bin Hassan,BN,1,UMNO,3,BN,5285,34.46589278727012,2,lost
+2018-05-09,SE-14,Kelantan,N.40 Guchil,2,6465,Cikgu Roslan,PKR,75,PKR,8,PH,2362,15.403678100952131,3,lost
+2018-05-09,SE-14,Kelantan,N.40 Guchil,3,8551,Aziz Ahmad,BEBAS,0,BEBAS,0,ALONE,123,0.8021390374331552,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.40 Guchil,4,8552,Hilmi Abdullah,PAS,4,PAS,9,GS,7564,49.328290074344594,1,won
+2018-05-09,SE-14,Kelantan,N.41 Manek Urai,1,8553,Deraman Bin Mamat,BEBAS,0,BEBAS,0,ALONE,41,0.2892416225749559,4,lost_deposit
+2018-05-09,SE-14,Kelantan,N.41 Manek Urai,2,8449,Abe Uji,PAS,4,PAS,9,GS,8683,61.255731922398596,1,won
+2018-05-09,SE-14,Kelantan,N.41 Manek Urai,3,8635,Che Ni Zuki,BN,1,UMNO,3,BN,4948,34.90652557319224,2,lost
+2018-05-09,SE-14,Kelantan,N.41 Manek Urai,4,8555,Ustaz Mat Dahan,PKR,100,BERSATU,8,PH,503,3.5485008818342147,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.42 Dabong,1,8556,Tok Ime Ku Zaki,PAS,4,PAS,9,GS,4778,50.862252501596764,1,won
+2018-05-09,SE-14,Kelantan,N.42 Dabong,2,8557,Mat Awang,BN,1,UMNO,3,BN,4189,44.59229295294869,2,lost
+2018-05-09,SE-14,Kelantan,N.42 Dabong,3,19377,Lawyer Wan,PKR,90,AMANAH,8,PH,427,4.545454545454546,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.43 Nenggiri,1,8456,Ab Aziz,BN,1,UMNO,3,BN,5506,48.55807390422436,1,won
+2018-05-09,SE-14,Kelantan,N.43 Nenggiri,2,8559,Tok Ngulu Pi,PAS,4,PAS,9,GS,5045,44.49245965252668,2,lost
+2018-05-09,SE-14,Kelantan,N.43 Nenggiri,3,8560,Abang Man,PKR,75,PKR,8,PH,788,6.949466443248964,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.44 Paloh,1,19375,Ustaz Man,PAS,4,PAS,9,GS,5535,42.82067151477642,2,lost
+2018-05-09,SE-14,Kelantan,N.44 Paloh,2,8561,Ummi Nor,PKR,75,PKR,8,PH,417,3.2260560111403374,3,lost_deposit
+2018-05-09,SE-14,Kelantan,N.44 Paloh,3,8562,Hj. Amran Bin Arifin,BN,1,UMNO,3,BN,6974,53.95327247408325,1,won
+2018-05-09,SE-14,Kelantan,N.45 Galas,1,8563,Ustaz Mi,PAS,4,PAS,9,GS,5543,35.08894093815281,2,lost
+2018-05-09,SE-14,Kelantan,N.45 Galas,2,8564,Abe Din,BN,1,UMNO,3,BN,7281,46.09102994239412,1,won
+2018-05-09,SE-14,Kelantan,N.45 Galas,3,8565,Nasir,PKR,23,DAP,8,PH,2973,18.82002911945306,3,lost
+2023-08-12,SE-15,Kelantan,N.01 Pengkalan Kubor,1,8566,Datuk Zulkifli Tok Krawat,BN,1,UMNO,3,BN,8003,36.3013698630137,2,lost
+2023-08-12,SE-15,Kelantan,N.01 Pengkalan Kubor,2,8458,Ustaz Lan,PAS,4,PAS,11,PN,14043,63.6986301369863,1,won
+2023-08-12,SE-15,Kelantan,N.02 Kelaboran,1,8461,Cikgu Nan,PAS,4,PAS,11,PN,15890,70.9121742234916,1,won
+2023-08-12,SE-15,Kelantan,N.02 Kelaboran,2,8567,Rosdi Razali (Rr24),BN,1,UMNO,3,BN,6518,29.087825776508392,2,lost
+2023-08-12,SE-15,Kelantan,N.03 Pasir Pekan,1,8568,Zamakh Sari Hj. Him,PH,75,PKR,8,PH,5972,24.124419309230458,2,lost
+2023-08-12,SE-15,Kelantan,N.03 Pasir Pekan,2,8068,Dato' Ustaz Mad,PAS,4,PAS,11,PN,18783,75.87558069076954,1,won
+2023-08-12,SE-15,Kelantan,N.04 Wakaf Bharu,1,8570,Abe Nan,BN,1,UMNO,3,BN,7395,32.268621547322944,2,lost
+2023-08-12,SE-15,Kelantan,N.04 Wakaf Bharu,2,8466,Hj Mohd Rusli,PAS,4,PAS,11,PN,15522,67.73137845267705,1,won
+2023-08-12,SE-15,Kelantan,N.05 Kijang,1,4012,Dr. Izani,PAS,4,PAS,11,PN,14552,75.80745988747655,1,won
+2023-08-12,SE-15,Kelantan,N.05 Kijang,2,8573,Haris Hussin,BN,1,UMNO,3,BN,4644,24.192540112523442,2,lost
+2023-08-12,SE-15,Kelantan,N.06 Chempaka,1,8574,Nik Normi,BN,1,UMNO,3,BN,5504,24.499243300988162,2,lost
+2023-08-12,SE-15,Kelantan,N.06 Chempaka,2,8575,Nik Bahrum,PAS,4,PAS,11,PN,16728,74.45918276506721,1,won
+2023-08-12,SE-15,Kelantan,N.06 Chempaka,3,8576,Tok Gawa Hj. Him / Abe Li Tok Gawa,BEBAS,0,BEBAS,0,ALONE,234,1.0415739339446275,3,lost_deposit
+2023-08-12,SE-15,Kelantan,N.07 Panchor,1,2533,Dato' Nik Amar,PAS,4,PAS,11,PN,18700,70.00074867110878,1,won
+2023-08-12,SE-15,Kelantan,N.07 Panchor,2,8577,Syed Mohd Alidustur Bin Syed Mohd Zain,PH,75,PKR,8,PH,8014,29.99925132889122,2,lost
+2023-08-12,SE-15,Kelantan,N.08 Tanjong Mas,1,8234,Kak Ani,PAS,4,PAS,11,PN,17529,66.2346495371245,1,won
+2023-08-12,SE-15,Kelantan,N.08 Tanjong Mas,2,8578,Zinda Khalil,PH,75,PKR,8,PH,8936,33.765350462875496,2,lost
+2023-08-12,SE-15,Kelantan,N.09 Kota Lama,1,4860,Dr Hafidzah,PH,90,AMANAH,8,PH,9691,49.97679335774328,1,won
+2023-08-12,SE-15,Kelantan,N.09 Kota Lama,2,4864,Izat Bukhary,BEBAS,0,BEBAS,0,ALONE,85,0.43834768707132177,4,lost_deposit
+2023-08-12,SE-15,Kelantan,N.09 Kota Lama,3,4862,Andy Tan @ Awang,PRM,58,PRM,0,ALONE,126,0.6497859831880769,3,lost_deposit
+2023-08-12,SE-15,Kelantan,N.09 Kota Lama,4,8579,Dato' Zamri,PAS,4,PAS,11,PN,9489,48.935072971997315,2,lost
+2023-08-12,SE-15,Kelantan,N.10 Bunut Payong,1,8478,Datuk Mohamed Hasnan Bin Che Hussin,BN,1,UMNO,3,BN,8277,37.34434217650244,2,lost
+2023-08-12,SE-15,Kelantan,N.10 Bunut Payong,2,3645,Shaari,PAS,4,PAS,11,PN,13887,62.65565782349757,1,won
+2023-08-12,SE-15,Kelantan,N.11 Tendong,1,8581,Tok Nan,BEBAS,0,BEBAS,0,ALONE,1086,5.440881763527054,3,lost_deposit
+2023-08-12,SE-15,Kelantan,N.11 Tendong,2,8400,Rozi Muhamad,PAS,4,PAS,11,PN,12360,61.923847695390776,1,won
+2023-08-12,SE-15,Kelantan,N.11 Tendong,3,8582,Abe Hariri,BN,1,UMNO,3,BN,6514,32.635270541082164,2,lost
+2023-08-12,SE-15,Kelantan,N.12 Pengkalan Pasir,1,8583,Hj Rushdan,PH,90,AMANAH,8,PH,5416,29.286757151354564,2,lost
+2023-08-12,SE-15,Kelantan,N.12 Pengkalan Pasir,2,8584,Haji Nasriff Daud Yatimee,PAS,4,PAS,11,PN,13077,70.71324284864544,1,won
+2023-08-12,SE-15,Kelantan,N.13 Meranti,1,8585,Tok Gawa Zahri,BN,1,UMNO,3,BN,4106,23.64390187723137,2,lost
+2023-08-12,SE-15,Kelantan,N.13 Meranti,2,8088,Dato' Us. Hj. Nassuruddin,PAS,4,PAS,11,PN,13260,76.35609812276863,1,won
+2023-08-12,SE-15,Kelantan,N.14 Chetok,1,8494,Haji Zuraidin Abdullah,PAS,4,PAS,11,PN,12202,74.37976226760135,1,won
+2023-08-12,SE-15,Kelantan,N.14 Chetok,2,8588,Ezzat Hanuzi,PH,75,PKR,8,PH,4203,25.62023773239866,2,lost
+2023-08-12,SE-15,Kelantan,N.15 Gual Periok,1,8589,Abe Wa,BN,1,UMNO,3,BN,6448,35.812274368231044,2,lost
+2023-08-12,SE-15,Kelantan,N.15 Gual Periok,2,8590,Kamaruzaman,PAS,4,PAS,11,PN,11557,64.18772563176896,1,won
+2023-08-12,SE-15,Kelantan,N.16 Apam Putra,1,8497,Datuk Akbar,BN,1,UMNO,3,BN,6747,38.88088514954187,2,lost
+2023-08-12,SE-15,Kelantan,N.16 Apam Putra,2,8592,Abe Zam,PAS,4,PAS,11,PN,10606,61.11911485045813,1,won
+2023-08-12,SE-15,Kelantan,N.17 Salor,1,8593,Abe Joe,PAS,4,PAS,11,PN,15893,71.1860610946878,1,won
+2023-08-12,SE-15,Kelantan,N.17 Salor,2,8594,Adik Mad,BN,1,UMNO,3,BN,6433,28.81393890531219,2,lost
+2023-08-12,SE-15,Kelantan,N.18 Pasir Tumboh,1,8412,Ustaz Abd Rahman,PAS,4,PAS,11,PN,17814,76.60617528167197,1,won
+2023-08-12,SE-15,Kelantan,N.18 Pasir Tumboh,2,8595,Aina Sayuty,PH,75,PKR,8,PH,5440,23.39382471832803,2,lost
+2023-08-12,SE-15,Kelantan,N.19 Demit,1,8596,Ustaz Asri,PAS,4,PAS,11,PN,18683,75.39243775473145,1,won
+2023-08-12,SE-15,Kelantan,N.19 Demit,2,8597,Tok Weil,PH,90,AMANAH,8,PH,6098,24.607562245268554,2,lost
+2023-08-12,SE-15,Kelantan,N.20 Tawang,1,8598,Ustaz Harun,PAS,4,PAS,11,PN,21665,79.219686997221,1,won
+2023-08-12,SE-15,Kelantan,N.20 Tawang,2,8599,Che Mat,PH,90,AMANAH,8,PH,5683,20.780313002778996,2,lost
+2023-08-12,SE-15,Kelantan,N.21 Pantai Irama,1,8600,Kak Yah,BN,1,UMNO,3,BN,7330,29.192719741925206,2,lost
+2023-08-12,SE-15,Kelantan,N.21 Pantai Irama,2,8416,Haji Mie,PAS,4,PAS,11,PN,17779,70.80728025807478,1,won
+2023-08-12,SE-15,Kelantan,N.22 Jelawat,1,8601,Dato' Yusri,BN,1,UMNO,3,BN,7277,29.776177421334754,2,lost
+2023-08-12,SE-15,Kelantan,N.22 Jelawat,2,8602,Loyar Zameri,PAS,4,PAS,11,PN,16885,69.0903883137608,1,won
+2023-08-12,SE-15,Kelantan,N.22 Jelawat,3,8603,Baba Zul,BEBAS,0,BEBAS,0,ALONE,277,1.133434264904456,3,lost_deposit
+2023-08-12,SE-15,Kelantan,N.23 Melor,1,8604,Wan Rohimi,PAS,4,PAS,11,PN,12688,70.12656828607749,1,won
+2023-08-12,SE-15,Kelantan,N.23 Melor,2,8261,Cikgu Hj. Azmi,BN,1,UMNO,3,BN,5405,29.87343171392251,2,lost
+2023-08-12,SE-15,Kelantan,N.24 Kadok,1,8606,Ir Azizan Razak,PH,90,AMANAH,8,PH,3165,23.019855989526512,2,lost
+2023-08-12,SE-15,Kelantan,N.24 Kadok,2,8342,Dato' Azami,PAS,4,PAS,11,PN,10584,76.98014401047348,1,won
+2023-08-12,SE-15,Kelantan,N.25 Kok Lanas,1,8608,Ahmad Deraman (Abe Mat Jelira),BN,1,UMNO,3,BN,7259,31.925935699520608,2,lost
+2023-08-12,SE-15,Kelantan,N.25 Kok Lanas,2,8609,Dato' Farid,PAS,100,BERSATU,11,PN,15478,68.07406430047939,1,won
+2023-08-12,SE-15,Kelantan,N.26 Bukit Panau,1,8266,Dato' Abdul Fattah,PAS,4,PAS,11,PN,22582,79.13512755817213,1,won
+2023-08-12,SE-15,Kelantan,N.26 Bukit Panau,2,4907,Dato' Dr. Samsul Adabi,PH,90,AMANAH,8,PH,5954,20.864872441827867,2,lost
+2023-08-12,SE-15,Kelantan,N.27 Gual Ipoh,1,8611,Bahari,PAS,100,BERSATU,11,PN,10320,70.26143790849673,1,won
+2023-08-12,SE-15,Kelantan,N.27 Gual Ipoh,2,8612,Zuhairi (Jeri),BN,1,UMNO,3,BN,4368,29.73856209150327,2,lost
+2023-08-12,SE-15,Kelantan,N.28 Kemahang,1,8613,Mazli (Abe Jek),BN,1,UMNO,3,BN,3064,22.799315425254854,2,lost
+2023-08-12,SE-15,Kelantan,N.28 Kemahang,2,8207,Dato' Mejar(B) Nizam,PAS,4,PAS,11,PN,10375,77.20068457474515,1,won
+2023-08-12,SE-15,Kelantan,N.29 Selising,1,8353,Dato' Cikgu Hashim,BN,1,UMNO,3,BN,5578,30.887646049061413,2,lost
+2023-08-12,SE-15,Kelantan,N.29 Selising,2,8526,Ust Tuan Saripudin,PAS,4,PAS,11,PN,12481,69.11235395093858,1,won
+2023-08-12,SE-15,Kelantan,N.30 Limbongan,1,8617,Ustazah Asilah,PAS,4,PAS,11,PN,15183,73.04435677860099,1,won
+2023-08-12,SE-15,Kelantan,N.30 Limbongan,2,8534,Cikgu Din,PH,75,PKR,8,PH,5603,26.95564322139902,2,lost
+2023-08-12,SE-15,Kelantan,N.31 Semerak,1,8618,Norsham Cikgu Abang,PAS,4,PAS,11,PN,11531,66.90843681095508,1,won
+2023-08-12,SE-15,Kelantan,N.31 Semerak,2,8619,Shela Cikgu Ali Golok,BN,1,UMNO,3,BN,5703,33.09156318904491,2,lost
+2023-08-12,SE-15,Kelantan,N.32 Gaal,1,8531,Ustaz Rodzi,PAS,4,PAS,11,PN,10388,72.64843695363312,1,won
+2023-08-12,SE-15,Kelantan,N.32 Gaal,2,8620,Alif,BN,1,UMNO,3,BN,3911,27.351563046366877,2,lost
+2023-08-12,SE-15,Kelantan,N.33 Pulai Chondong,1,19367,Ustaz Azhar,PAS,4,PAS,11,PN,11636,67.5137800986365,1,won
+2023-08-12,SE-15,Kelantan,N.33 Pulai Chondong,2,8621,Fakhran,BN,1,UMNO,3,BN,5599,32.486219901363505,2,lost
+2023-08-12,SE-15,Kelantan,N.34 Temangan,1,8622,Pak Tua Fauzi,BEBAS,0,BEBAS,0,ALONE,212,1.3568,3,lost_deposit
+2023-08-12,SE-15,Kelantan,N.34 Temangan,2,8539,Cikgu Kadir,PH,90,AMANAH,8,PH,3967,25.3888,2,lost
+2023-08-12,SE-15,Kelantan,N.34 Temangan,3,8361,Dato' Dr. Fadzli Hassan,PAS,4,PAS,11,PN,11446,73.2544,1,won
+2023-08-12,SE-15,Kelantan,N.35 Kemuning,1,8623,Abe Fakarudin,BN,1,UMNO,3,BN,7481,36.229357353867016,2,lost
+2023-08-12,SE-15,Kelantan,N.35 Kemuning,2,8624,Lawyer Zakhran,PAS,4,PAS,11,PN,13168,63.77064264613298,1,won
+2023-08-12,SE-15,Kelantan,N.36 Bukit Bunga,1,8625,Almidi,PAS,100,BERSATU,11,PN,8540,66.05816831683168,1,won
+2023-08-12,SE-15,Kelantan,N.36 Bukit Bunga,2,8128,Dato Adhan,BN,1,UMNO,3,BN,4388,33.94183168316832,2,lost
+2023-08-12,SE-15,Kelantan,N.37 Air Lanas,1,2197,Datuk Kamarudin,PAS,100,BERSATU,11,PN,9535,67.81167769006473,1,won
+2023-08-12,SE-15,Kelantan,N.37 Air Lanas,2,8628,Nh Nasrul Hadi,BN,1,UMNO,3,BN,4526,32.18832230993528,2,lost
+2023-08-12,SE-15,Kelantan,N.38 Kuala Balah,1,8629,Dato ' Hadi,PAS,4,PAS,11,PN,6186,63.309794289223206,1,won
+2023-08-12,SE-15,Kelantan,N.38 Kuala Balah,2,8630,Yamin Anuar,BN,1,UMNO,3,BN,3585,36.690205710776794,2,lost
+2023-08-12,SE-15,Kelantan,N.39 Mengkebang,1,8631,Abe Yie,PH,75,PKR,8,PH,3404,21.361782240351427,2,lost
+2023-08-12,SE-15,Kelantan,N.39 Mengkebang,2,8632,Haji Zubir,PAS,4,PAS,11,PN,12531,78.63821775964858,1,won
+2023-08-12,SE-15,Kelantan,N.40 Guchil,1,8633,Dr Zuber,BN,1,UMNO,3,BN,4532,29.509050657637715,2,lost
+2023-08-12,SE-15,Kelantan,N.40 Guchil,2,8552,Lawyer Mie,PAS,4,PAS,11,PN,10826,70.49094934236228,1,won
+2023-08-12,SE-15,Kelantan,N.41 Manek Urai,1,8449,Abe Uji,PAS,4,PAS,11,PN,10355,78.32829046898638,1,won
+2023-08-12,SE-15,Kelantan,N.41 Manek Urai,2,8635,Che Nie,BN,1,UMNO,3,BN,2865,21.671709531013615,2,lost
+2023-08-12,SE-15,Kelantan,N.42 Dabong,1,8556,Tok Ime Ku Zaki,PAS,4,PAS,11,PN,5772,63.44251483842602,1,won
+2023-08-12,SE-15,Kelantan,N.42 Dabong,2,8636,Abe Firdaus,BN,1,UMNO,3,BN,3326,36.55748516157397,2,lost
+2023-08-12,SE-15,Kelantan,N.43 Nenggiri,1,8456,Ab Aziz Bin Yusoff,BN,1,UMNO,3,BN,5707,46.68684554973822,2,lost
+2023-08-12,SE-15,Kelantan,N.43 Nenggiri,2,4906,Mohd Azizi Abu Naim,PAS,100,BERSATU,11,PN,6517,53.31315445026178,1,won
+2023-08-12,SE-15,Kelantan,N.44 Paloh,1,8246,Dato Shaari,PAS,100,BERSATU,11,PN,7407,58.743754461099215,1,won
+2023-08-12,SE-15,Kelantan,N.44 Paloh,2,8562,Amran Arifin,BN,1,UMNO,3,BN,5202,41.256245538900785,2,lost
+2023-08-12,SE-15,Kelantan,N.45 Galas,1,8639,Ustaz Ji,PAS,4,PAS,11,PN,7405,40.80564280597344,2,lost
+2023-08-12,SE-15,Kelantan,N.45 Galas,2,8564,Abe Din,BN,1,UMNO,3,BN,10742,59.19435719402656,1,won

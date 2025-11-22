@@ -6,14 +6,11 @@ import shutil
 import tarfile
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import timedelta
 from typing import List
 
 import boto3
-import pandas as pd
 from dotenv import load_dotenv
 
-# Load environment variables
 load_dotenv()
 
 # S3 configuration
@@ -27,16 +24,14 @@ s3_client = boto3.client(
 TOKEN_API_S3 = (os.getenv("S3_KEY"), os.getenv("S3_SECRET"))
 
 
-def make_arxiv_tarball(
-    filepath=None, dataviz_path="dataviz/", temp_path="temp_archive"
-):
+def make_arxiv_tarball(filepath=None, dataviz_path="dataviz/", temp_path="temp_archive"):
     """Generate a tarball for arXiv submission.
-    
+
     Args:
         filepath (str): Base path for the files
         dataviz_path (str): Path to data visualization files
         temp_path (str): Path for temporary files
-        
+
     Returns:
         str: Path to the generated tarball
     """
@@ -112,12 +107,12 @@ def make_arxiv_tarball(
 
 def upload_s3(bucket_name=None, source_file_name=None, cloud_file_name=None):
     """Upload a file to S3 bucket.
-    
+
     Args:
         bucket_name (str): Name of the S3 bucket
         source_file_name (str): Path to the source file
         cloud_file_name (str): Name to use in the cloud
-        
+
     Returns:
         str: Status message indicating success or failure
     """
@@ -139,12 +134,12 @@ def upload_s3(bucket_name=None, source_file_name=None, cloud_file_name=None):
 
 def upload_s3_single(bucket_name, source_file_name, cloud_file_name):
     """Upload a single file to S3.
-    
+
     Args:
         bucket_name (str): Name of the S3 bucket
         source_file_name (str): Path to the source file
         cloud_file_name (str): Name to use in the cloud
-        
+
     Returns:
         tuple: (source_file_name, success, message)
     """
@@ -166,12 +161,12 @@ def upload_s3_single(bucket_name, source_file_name, cloud_file_name):
 
 def upload_s3_bulk(bucket_name, files_to_upload, max_workers=50):
     """Upload multiple files to S3 in parallel.
-    
+
     Args:
         bucket_name (str): S3 bucket name
         files_to_upload (list): List of tuples (source_file_name, cloud_file_name)
         max_workers (int): Number of concurrent uploads
-        
+
     Returns:
         list: List of tuples containing failed uploads (source_file, error_message)
     """
@@ -199,31 +194,9 @@ def upload_s3_bulk(bucket_name, files_to_upload, max_workers=50):
     return failed_uploads
 
 
-def read_s3(bucket=None):
-    """Get latest view of S3 bucket contents.
-    
-    Args:
-        bucket (str): Name of the S3 bucket
-        
-    Returns:
-        pd.DataFrame: DataFrame containing bucket contents
-    """
-    base_url = f"https://{bucket}.s3.ap-southeast-1.amazonaws.com/"
-
-    df = pd.read_xml(base_url)
-    df = df.dropna(subset=["Key"])[["Key", "LastModified"]]
-    df.columns = ["key", "modified"]
-    df.modified = pd.to_datetime(df.modified).astype(str).str[:19]
-    df.modified = pd.to_datetime(df.modified) + timedelta(hours=8)
-    df["url"] = base_url + df.key
-    df = df.sort_values(by="modified", ascending=False).reset_index(drop=True)
-
-    return df
-
-
 def write_csv_parquet(filepath, df=None):
     """Write dataframe to both CSV and Parquet formats.
-    
+
     Args:
         filepath (str): Base path for the output files
         df (pd.DataFrame): DataFrame to write
@@ -235,7 +208,7 @@ def write_csv_parquet(filepath, df=None):
 
 def write_parquet(filepath, df=None):
     """Write dataframe to Parquet format.
-    
+
     Args:
         filepath (str): Base path for the output file
         df (pd.DataFrame): DataFrame to write
@@ -246,7 +219,7 @@ def write_parquet(filepath, df=None):
 
 def write_csv(filepath, df=None):
     """Write dataframe to CSV format.
-    
+
     Args:
         filepath (str): Base path for the output file
         df (pd.DataFrame): DataFrame to write
@@ -257,10 +230,10 @@ def write_csv(filepath, df=None):
 
 def generate_slug(x):
     """Generate URL-friendly slug from string.
-    
+
     Args:
         x (str): Input string
-        
+
     Returns:
         str: URL-friendly slug
     """
@@ -271,45 +244,96 @@ def generate_slug(x):
 
 def get_states(my: int = 0, codes: int = 0) -> List[str]:
     """Get list of Malaysian states.
-    
+
     Args:
-        my (int): Whether to include only Malaysian states
-        code (int): Whether to return full name or state code
-        
+        my (int): Whether to include Malaysia (country)
+        code (int): Whether to return full name (0), text code (1), or integer code (2)
     Returns:
-        List[str]: List of state names (codes = 0) or codes (codes = 1)
+        List[str]: List of states as full name, text codes, or integer codes
     """
-    states = {
-        "Johor": "JHR",
-        "Kedah": "KDH",
-        "Kelantan": "KTN",
-        "Melaka": "MLK",
-        "Negeri Sembilan": "NSN",
-        "Pahang": "PHG",
-        "Perak": "PRK",
-        "Perlis": "PLS",
-        "Pulau Pinang": "PNG",
-        "Sabah": "SBH",
-        "Sarawak": "SWK",
-        "Selangor": "SGR",
-        "Terengganu": "TRG",
-        "W.P. Kuala Lumpur": "KUL",
-        "W.P. Labuan": "LBN",
-        "W.P. Putrajaya": "PJY",
+    data = {
+        "Malaysia": ["MYS", 0],
+        "Perlis": ["PLS", 1],
+        "Kedah": ["KDH", 2],
+        "Kelantan": ["KTN", 3],
+        "Terengganu": ["TRG", 4],
+        "Pulau Pinang": ["PNG", 5],
+        "Perak": ["PRK", 6],
+        "Pahang": ["PHG", 7],
+        "Selangor": ["SGR", 8],
+        "W.P. Kuala Lumpur": ["KUL", 9],
+        "W.P. Putrajaya": ["PJY", 10],
+        "Negeri Sembilan": ["NSN", 11],
+        "Melaka": ["MLK", 12],
+        "Johor": ["JHR", 13],
+        "W.P. Labuan": ["LBN", 14],
+        "Sabah": ["SBH", 15],
+        "Sarawak": ["SWK", 16],
     }
+    state_names = list(data.keys())
+    state_codes = [data[x][0] for x in state_names]
+    state_order = [data[x][1] for x in state_names]
     if codes == 0:
-        return list(states.keys()) if my == 0 else ['Malaysia'] + list(states.keys())
-    return list(states.values()) if my == 0 else ['MYS'] + list(states.values())
+        return state_names[1 - my :]
+    if codes == 1:
+        return state_codes[1 - my :]
+    if codes == 2:
+        return state_order[1 - my :]
+    raise ValueError("Invalid code type")
 
 
 def capitalize_sentence(sentence):
     """Capitalize first word and title case remaining words in sentence.
-    
+
     Args:
         sentence (str): Input sentence
-        
+
     Returns:
         str: Properly capitalized sentence
     """
     words = sentence.split()
     return " ".join([words[0].upper()] + [word.title() for word in words[1:]])
+
+
+def compute_summary(
+    df,
+    election=None,
+    exclude_state=None,
+    include_state=None,
+    col_groupby=["coalition", "party"],
+    col_seat="seat",
+):
+    """
+    Compute summary statistics for a given election and (optionally) selected/excluded states.
+
+    Args:
+        df (pandas.DataFrame): DataFrame containing election data. Must have columns: 'election', 'state', 'votes', and all in col_groupby.
+        election (str, optional): Election identifier string. If provided, filters rows to only this election.
+        include_state (list of str, optional): List of state names to include. If provided, retains only these states.
+        exclude_state (list of str, optional): List of state names to exclude. Ignored if null OR if include_state is specified.
+        col_groupby (list of str, optional): Columns to group by. Default is ['coalition', 'party'].
+
+    Returns:
+        pandas.DataFrame: DataFrame with columns: col_groupby, 'votes' (comma formatted), and 'votes_perc' (rounded % of total votes per group).
+    """
+    if election:
+        df = df[df.election == election]
+    if include_state:
+        df = df[df.state.isin(include_state)]
+    elif exclude_state:
+        df = df[~df.state.isin(exclude_state)]
+    df["votes_perc"] = df["votes"] / df["votes"].sum() * 100
+    df["seats"] = 0
+
+    wf = df.sort_values(by="votes", ascending=True).drop_duplicates(subset=col_seat, keep="last")
+    df.loc[df.index.isin(wf.index), "seats"] = 1
+
+    rf = (
+        df[col_groupby + ["votes", "votes_perc", "seats"]]
+        .groupby(col_groupby)
+        .sum()
+        .sort_values(by=[col_groupby[0], "votes"], ascending=False)
+    )
+    rf.votes_perc = rf.votes_perc.round(1)
+    rf["votes"] = rf["votes"].apply(lambda x: f"{x:,}")
+    return rf

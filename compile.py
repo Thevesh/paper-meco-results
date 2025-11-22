@@ -1,181 +1,142 @@
-"""Module for compiling and validating election data."""
+"""
+Script to produce consol_ballots and consol_stats, the two key source datasets.
 
-import json as j
+Steps:
+    1. Read raw ballots files.
+    2a. Generate derived data for each candidate
+        - Vote percentage
+        - Rank
+        - Result
+    2b. Generate derived data for each seat:
+        - Valid votes
+        - N candidates
+        - Majority
+    3. Merge derived data for each seat with raw stats file.
+    4. Compute derived statistics:
+        - Voter turnout
+        - Majority percentage
+        - Rejected votes percentage
+        - Ballots-not-returned percentage
+    5. Validate the data against expected states.
+    6. Save consolidated outputs.
+    7. Generate subsets for federal, each state, and by-elections
+
+Checks:
+    - No invalid states in raw ballots file
+    - No invalid states in raw stats file
+    - N unique contests (date-election-state-seat combo) in same in ballots and stats
+    - No impossible values > 100% in percentages
+    - Compliance with V = I - U - R
+    - All UIDs for candidates, parties, and coalitions are present in respective lookup files
+    - All unique contests are present in seat lookup file
+"""
+
 import pandas as pd
 import numpy as np
 
 from helper import get_states, write_csv_parquet
 
-with open("src-data/lookup_dates.json", encoding="utf-8") as f:
-    DATES = j.load(f)
-states = get_states(my=1)
 
+def main():
+    """
+    Compile and validate election data from raw source files.
+    Created as a function to prevent unsafe imports.
+    """
+    states = get_states()
+    col_group = ["date", "election", "state", "seat"]
 
-def compile_ballots():
-    """Compile ballot data from various election sources."""
-    df = pd.DataFrame()
-    raw = pd.read_csv('src-data/raw_ballots.csv')
-    raw.date = pd.to_datetime(raw.date).dt.date.astype(str)
+    print("\n --------- Compiling ballots ----------\n")
 
-    for s in states + ["PRK"]:
-        if "W.P." in s:
-            continue
+    df = pd.read_csv("src-data/raw_ballots.csv")
+    df.date = pd.to_datetime(df.date).dt.date
+    assert len(df[~df.state.isin(states)]) == 0, "Invalid state in raw ballots file!"
 
-        blim = 0 if s in ["Malaysia", "PRK"] else 1
-        ulim = 1 if s == "PRK" else 13 if s == "Sarawak" else 15 if s == "Sabah" else 16
-        election_type = "federal" if s == "Malaysia" else "prk" if s == "PRK" else "state"
-        name = "GE" if s == "Malaysia" else "BY-ELECTION" if s == "PRK" else "SE"
+    grp = df.groupby(col_group)["votes"]
 
-        for e in range(blim, ulim):
-            election_name = f"{name}-{e:02d}" if election_type != "prk" else name
-            tf = raw[raw.election == election_name].copy()
-            if election_type == 'state':
-                tf = tf[tf.state == s].reset_index(drop=True)
-            if election_type != "prk":
-                tf["date"] = DATES[s][str(e)]
-
-            # Generate total valid votes for each seat
-            # Then derive percentage of votes for each candidate
-            sf = (
-                tf[["date", "seat", "votes"]]
-                .groupby(["date", "seat"])
-                .sum()
-                .reset_index()
-                .rename(columns={"votes": "votes_perc"})
-            )
-            tf = pd.merge(tf, sf, on=["date", "seat"], how="left")
-            tf.votes_perc = tf.votes / tf.votes_perc * 100
-
-            # Classify results
-            tf["result"] = "lost"
-            tf.loc[tf.votes_perc < 12.5, "result"] = "lost_deposit"
-            tf["nameseat"] = tf.name + tf.seat
-            sf = (
-                tf[["date", "nameseat", "seat", "votes"]]
-                .sort_values(by=["seat", "votes"])
-                .drop_duplicates(subset=["date", "seat"], keep="last")
-            )
-            tf.loc[tf.nameseat.isin(sf.nameseat.tolist()), "result"] = "won"
-            tf = tf.drop("nameseat", axis=1)
-            tf.loc[(tf.votes == 0) & (tf.votes_perc != 0), "result"] = "won_uncontested"
-
-            df = (
-                tf.copy()
-                if len(df) == 0
-                else pd.concat([df, tf], axis=0, ignore_index=True)
-            )
-
-    assert len(df.drop_duplicates(subset=["date", "election", "state", "seat"])) == len(
-        df[df.result.str.contains("won")]
-    ), "Number of winners and contests does not match!"
-    write_csv_parquet("src-data/consol_ballots", df=df)
-    types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
-    for k, v in types.items():
-        write_csv_parquet(f"src-data/{v}_ballots", df=df[df.election.str.startswith(k)])
-
-
-def compile_summary():
-    """Compile summary data from various election sources."""
-    df = pd.DataFrame()
-    raw = pd.read_csv('src-data/raw_stats.csv')
-    raw.date = pd.to_datetime(raw.date).dt.date.astype(str)
-
-    for s in states + ["PRK"]:
-        if "W.P." in s:
-            continue
-
-        blim = 0 if s in ["Malaysia", "PRK"] else 1
-        ulim = 1 if s == "PRK" else 13 if s == "Sarawak" else 15 if s == "Sabah" else 16
-        election_type = "federal" if s == "Malaysia" else "prk" if s == "PRK" else "state"
-        name = "GE" if s == "Malaysia" else "BY-ELECTION" if s == "PRK" else "SE"
-
-        for e in range(blim, ulim):
-            election_name = f"{name}-{e:02d}" if election_type != "prk" else name
-            tf = raw[raw.election == election_name].copy()
-            if election_type == 'state':
-                tf = tf[tf.state == s].reset_index(drop=True)
-            if election_type != "prk":
-                tf["date"] = DATES[s][str(e)]
-
-            df = (
-                tf.copy()
-                if len(df) == 0
-                else pd.concat([df, tf], axis=0, ignore_index=True)
-            )
-
-    df["votes_valid"] = df.ballots_issued - df.votes_rejected - df.ballots_not_returned
-
-    # Generate majority
-    wf = pd.read_csv("src-data/consol_ballots.csv")
-    w1 = wf[wf.result.str.contains("won")]
-    w2 = (
-        wf[~wf.result.str.contains("won")]
-        .sort_values(by=["votes"], ascending=False)
-        .drop_duplicates(subset=["date", "election", "state", "seat"], keep="first")
+    df = df.assign(
+        votes_valid=grp.transform("sum"),
+        votes_perc=df["votes"] / grp.transform("sum") * 100,
+        rank=grp.rank(method="min", ascending=False).astype(int),
+        n_candidates=grp.transform("count"),
     )
-    assert len(w1) == len(w2) + len(
-        w1[w1.result.str.contains("uncontested")]
-    ), "Number of winners and losers does not match!"
-    col_keep = ["date", "election", "state", "seat", "votes"]
-    mf = pd.merge(w1[col_keep + ["result"]], w2[col_keep], on=col_keep[:-1], how="left")
-    assert (
-        len(mf[(mf.votes_y.isnull()) & (~mf.result.str.contains("uncontested"))]) == 0
-    ), "Missing runner-up outside uncontested seats!"
-    mf.votes_y = mf.votes_y.fillna(0).astype(int)
-    mf["majority"] = mf.votes_x - mf.votes_y
-    mf.loc[mf.votes_y == 0, "majority"] = 0
-    mf = mf.drop(["votes_x", "votes_y", "result"], axis=1)
+    df["majority"] = grp.transform("max") - grp.transform(
+        lambda g: g.nlargest(2).iloc[-1] if len(g) >= 2 else 0
+    )
 
-    df = pd.merge(df, mf, on=col_keep[:-1], how="left")
-    assert (
-        len(df[df.majority.isnull()]) == 0
-    ), f"Imperfect match between ballots and summary!\n{df[df.majority.isnull()]}"
-    df["voter_turnout"] = df.ballots_issued / df.voters_total * 100
-    df["majority_perc"] = df.majority / df.votes_valid * 100
+    df["result"] = "lost"
+    df.loc[df["votes_perc"] < 12.5, "result"] = "lost_deposit"
+    df.loc[df["rank"] == 1, "result"] = "won"
+    df.loc[df["n_candidates"] == 1, "result"] = "won_uncontested"
+
+    write_csv_parquet(
+        "src-data/consol_ballots", df.drop(["votes_valid", "n_candidates", "majority"], axis=1)
+    )
+
+    print("\n\n --------- Compiling stats ----------\n")
+
+    sf = pd.read_csv("src-data/raw_stats.csv")
+    sf.date = pd.to_datetime(sf.date).dt.date
+    assert len(sf[~sf.state.isin(states)]) == 0, "Invalid state in raw stats file!"
+
+    df = df[
+        ["date", "election", "state", "seat", "votes_valid", "majority", "n_candidates"]
+    ].drop_duplicates()
+    assert len(df) == len(sf), "N ballots not equal to N stats!"
+
+    df = pd.merge(sf, df, on=["date", "election", "state", "seat"], how="left")
+    df["voter_turnout"] = df["ballots_issued"] / df["voters_total"] * 100
+    df["majority_perc"] = df["majority"] / df["votes_valid"] * 100
+    df["votes_rejected_perc"] = (
+        df["votes_rejected"] / (df["ballots_issued"] - df["ballots_not_returned"]) * 100
+    )
+    df["ballots_not_returned_perc"] = df["ballots_not_returned"] / df["ballots_issued"] * 100
     for col in ["voter_turnout", "majority_perc"]:
         df.loc[df.ballots_issued == 0, col] = np.nan
-    df["votes_rejected_perc"] = (
-        df.votes_rejected / (df.ballots_issued - df.ballots_not_returned) * 100
-    )
-    df["ballots_not_returned_perc"] = df.ballots_not_returned / df.ballots_issued * 100
+    for c in ["voter_turnout", "majority_perc", "votes_rejected_perc", "ballots_not_returned_perc"]:
+        assert len(df[df[c] > 100]) == 0, f"{c} has impossible value > 100%"
 
-    write_csv_parquet("src-data/consol_summary", df=df)
-    types = {"GE": "federal", "SE": "state", "BY-ELECTION": "byelection"}
-    for k, v in types.items():
-        write_csv_parquet(f"src-data/{v}_summary", df=df[df.election.str.startswith(k)])
+    write_csv_parquet("src-data/consol_stats", df)
 
+    print("\n\n --------- Validating files ----------\n")
 
-def validate():
-    """Validate the compiled data for consistency."""
-    bf = pd.read_parquet("src-data/consol_ballots.parquet")
-    col_join = ["date", "election", "state", "seat"]
-    bf = (
-        bf[col_join + ["votes"]]
-        .groupby(col_join)
-        .sum()
-        .reset_index()
-        .rename(columns={"votes": "votes_valid"})
-    )
-
-    df = pd.read_parquet("src-data/consol_summary.parquet").rename(
-        columns={"votes_valid": "votes_valid_derived"}
-    )
-    df = pd.merge(df, bf, on=col_join, how="left")
-    df["check"] = df.votes_valid - df.votes_valid_derived
-    df["check_perc"] = df.check.abs() / df.votes_valid * 100
-
+    df["check"] = df.ballots_issued - df.ballots_not_returned - df.votes_rejected - df.votes_valid
     if len(df[df.check != 0]) > 0:
         df = df.sort_values(by=["date", "state", "seat"]).drop("check_perc", axis=1)
         df = df[["check"] + list(df.columns[:-1])]
         df[df.check != 0].to_csv("logs/check.csv", index=False)
         raise ValueError(f"Validation failed for {len(df[df.check != 0])} seats!")
 
+    df = pd.read_parquet("src-data/consol_ballots.parquet")
+    for v in ["candidate", "party", "coalition"]:
+        cf = pd.read_csv(f"src-data/lookup_{v}.csv")
+        assert len(df[df[f"{v}_uid"].isin(cf[f"{v}_uid"])]) == len(
+            df
+        ), f"Missing {v} in lookup file!"
+
+    cf = pd.read_csv("src-data/lookup_seat.csv")
+    cf.date = pd.to_datetime(cf.date).dt.date
+    df = pd.merge(df, cf, on=["date", "election", "state", "seat"], how="left")
+    assert len(df[df.type.isnull()]) == 0, "Missing seat in lookup file!"
+
+    print("Validation passed!")
+
+    print("\n\n --------- Generating subsets ----------\n")
+
+    for v in ["ballots", "stats"]:
+        df = pd.read_parquet(f"src-data/consol_{v}.parquet")
+        write_csv_parquet(f"src-data/federal_{v}", df[df.election.str.startswith("GE-")])
+        write_csv_parquet(f"src-data/byelection_{v}", df[df.election.str.startswith("BY-")])
+
+        for state, state_code in zip(get_states(my=0, codes=0), get_states(my=0, codes=1)):
+            if "W.P." in state:
+                continue
+            write_csv_parquet(
+                f"src-data/state_{state_code}_{v}",
+                df[(df.state == state) & (df.election.str.startswith("SE-"))],
+            )
+
+    print("\n\n --------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
+
 
 if __name__ == "__main__":
-    print("\nCompiling ballots:")
-    compile_ballots()
-    print("\nCompiling summaries:")
-    compile_summary()
-    print("\nValidating:")
-    validate()
-    print('')
+    main()

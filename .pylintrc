@@ -9,7 +9,7 @@ disable=
     R0917,  # Too many positional arguments
     R1702,  # Too many nested blocks
     R0912,  # Too many branches
-    R0915 # Too many statements (60/50)
-
+    R0915,  # Too many statements (60/50)
+    W0102,  # Dangerous default value as argument
 [FORMAT]
-max-line-length=240
+max-line-length=250
