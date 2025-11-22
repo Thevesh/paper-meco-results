@@ -1,9 +1,4 @@
 date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ballot,party_uid,party,coalition_uid,coalition,votes,votes_perc,rank,result
-1988-03-05,BY-ELECTION,Johor,N.31 Tanjong Puteri,1,5820,Datuk Haji Mohd Yunos Haji Sulaiman,BN,1,UMNO,3,BN,10181,50.07623825684915,1,won
-1988-03-05,BY-ELECTION,Johor,N.31 Tanjong Puteri,2,1089,Abdul Razak,PRM,58,PRM,0,ALONE,10150,49.92376174315085,2,lost
-1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,1,1367,Shahrir Abdul Samad,BEBAS,0,BEBAS,0,ALONE,23581,64.06313673286425,1,won
-1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,2,19356,Mas'ud Abdul Rahman,BN,1,UMNO,3,BN,10968,29.797060501507783,2,lost
-1988-08-25,BY-ELECTION,Johor,P.130 Johor Bahru,3,1089,A. Razak Ahmad,PRM,58,PRM,0,ALONE,2260,6.139802765627971,3,lost_deposit
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,1,19215,Haji Pi,AKIM,67,AKIM,0,ALONE,92,0.19653500245668754,3,lost_deposit
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,2,1530,Anwar Ibrahim,PKR,75,PKR,7,PR,31195,66.64031958300399,1,won
 2008-08-26,BY-ELECTION,Pulau Pinang,P.044 Permatang Pauh,3,13346,Datuk Arif Shah Bin Omar Shah,BN,1,UMNO,3,BN,15524,33.16314541453932,2,lost

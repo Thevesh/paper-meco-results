@@ -51,6 +51,10 @@ def main():
     df.date = pd.to_datetime(df.date).dt.date
     assert len(df[~df.state.isin(states)]) == 0, "Invalid state in raw ballots file!"
 
+    df = df[
+        ~((pd.to_datetime(df.date).dt.year == 1988) & (df.election.str.startswith("BY-")))
+    ]  # Remove Johor 1988 by-elections
+
     grp = df.groupby(col_group)["votes"]
 
     df = df.assign(
@@ -77,6 +81,10 @@ def main():
     sf = pd.read_csv("src-data/raw_stats.csv")
     sf.date = pd.to_datetime(sf.date).dt.date
     assert len(sf[~sf.state.isin(states)]) == 0, "Invalid state in raw stats file!"
+
+    sf = sf[
+        ~((pd.to_datetime(sf.date).dt.year == 1988) & (sf.election.str.startswith("BY-")))
+    ]  # Remove Johor 1988 by-elections
 
     df = df[
         ["date", "election", "state", "seat", "votes_valid", "majority", "n_candidates"]
