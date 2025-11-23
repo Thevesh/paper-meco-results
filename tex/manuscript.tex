@@ -18,6 +18,7 @@
 % bibliography-related packages
 \usepackage[superscript]{cite}
 \bibliographystyle{unsrt}
+\usepackage{filecontents}
 
 % lists
 \usepackage{enumitem} 
@@ -111,7 +112,7 @@
 			\Large
 			Thevesh Thevananthan\\[0.15in]  % ← Author name inserted here
 		\end{center}
-		\large 
+		\large
 		Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. We introduce the Malaysian Election Corpus (MECo; \href{https://electiondata.my}{ElectionData.MY}), an open-access panel database covering all federal and state general elections from 1955 to the present, as well as by-elections from 2008 onward. MECo includes candidate- and constituency-level results for nearly 10,000 contests across seven decades, standardised with unique identifiers for candidates, parties, and constituencies. The database also provides summary statistics on electorate size, voter turnout, rejected votes, and unreturned ballots. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
 	\end{minipage}
 \end{center}
@@ -149,8 +150,8 @@ Amidst this paucity of data, global initiatives such as the Constituency-Level E
 
 In this paper, we address this gap by providing the first comprehensive open database of Malaysian election results at the federal and state level -- we intend for this to be a living resource which provides the go-to empirical foundation for research and journalism on Malaysian elections. The database covers \textit{all} general elections since the pre-independence general election in 1955, and 115 by-elections held since 2008. In total, it records \TOTALBALLOTS\space candidates representing \TOTALPARTIES\space political parties in \TOTALCONTESTS\space unique electoral contests from 1955 to 2025. The dataset comprises two main components:
 \begin{enumbul}
-\item \textbf{Ballots}: The final results for each state legislative assembly constituency (DUN) and federal Parliament constituency (Parliament), with the number of votes received by each candidate.
-\item \textbf{Summaries}: The electorate size, ballots issued, unreturned ballots, and votes rejected in each constituency. For each constituency, we also derive the margin of victory (majority), voter turnout rate, vote rejection rate, unreturned ballot rate, and majority as a share of valid votes.
+	\item \textbf{Ballots}: The final results for each state legislative assembly constituency (DUN) and federal Parliament constituency (Parliament), with the number of votes received by each candidate.
+	\item \textbf{Summaries}: The electorate size, ballots issued, unreturned ballots, and votes rejected in each constituency. For each constituency, we also derive the margin of victory (majority), voter turnout rate, vote rejection rate, unreturned ballot rate, and majority as a share of valid votes.
 \end{enumbul}
 
 Furthermore, our database offers three key advantages built on the use of unique identifiers (UIDs). First, we encode a UID for each candidate, thus allowing the tracking of a single individual across time, even if they run under different political parties or change the name which they use in public life; this is especially important in Malaysia, because politicians are not required to use their official name on electoral ballots. Second, we encode a UID for each party, allowing for tracking of party evolution, such as the expansion of the Alliance Party (\textit{Parti Perikatan}) into the National Front (\textit{Barisan Nasional}). Third, we provide a lookup for each unique date-state-constituency combination, allowing for the creation of geospatial lineage and tracking of changes in constituency names. In general, the use of UIDs makes our database highly extensible -- a deliberate choice to help other scholars seamlessly build on our work by creating new lookups, rather than altering core datasets.
@@ -162,9 +163,9 @@ Finally, we note that while our work is the first of its kind for Malaysian elec
 \section*{Methods}
 There are three sources of data we used to construct our database:
 \begin{enumar}
-\item Physical post-election reports\cite{ge00report,ge01report,ge02report,ge03report,ge04report,ge05report,ge06report,ge07report,ge08report,ge09report,ge10report,ge11report,ge12report,ge13report,sabah1967report,sabah1971report,sabah1976report,sabah1981report,sabah1985report,sabah1986report,sabah1990report,sabah1994report,sabah1999report,sarawak1979report,sarawak1983report,sarawak1987report,sarawak1991report,sarawak1996report,sarawak2001report,sarawak2006report,kelantan1978report}.
-\item Gazetted election results published as subsidiary legislation\cite{lompub}.
-\item Digital results published officially by the EC via a dashboard\cite{mysprsemak}.
+	\item Physical post-election reports\cite{ge00report,ge01report,ge02report,ge03report,ge04report,ge05report,ge06report,ge07report,ge08report,ge09report,ge10report,ge11report,ge12report,ge13report,sabah1967report,sabah1971report,sabah1976report,sabah1981report,sabah1985report,sabah1986report,sabah1990report,sabah1994report,sabah1999report,sarawak1979report,sarawak1983report,sarawak1987report,sarawak1991report,sarawak1996report,sarawak2001report,sarawak2006report,kelantan1978report}.
+	\item Gazetted election results published as subsidiary legislation\cite{lompub}.
+	\item Digital results published officially by the EC via a dashboard\cite{mysprsemak}.
 \end{enumar}
 To enable checking and validation, we made images of the post-election reports and PDFs of the gazetted election results (sources 1 and 2) available via this \href{https://kongsi.la/tmECWBT}{anonymous Dropbox link}. We constructed \acronym beginning with federal general elections, then state general elections, and finally by-elections. This is because state legislative assembly constituencies (DUNs) must lie completely within the boundaries of a federal parliamentary constituency (Parliament), so it was sensible to begin with the superset. By-elections coming last is an intuitive choice, since a by-election must follow a general election by definition; validation of by-election data is therefore dependent on having complete federal and state-level results.
 
@@ -182,7 +183,7 @@ To enable checking and validation, we made images of the post-election reports a
 	}
 \end{figure}
 
-For the 3 elections after 8th March 2008 (Figure \ref{fig:federal_coverage}), official results are available digitally via the aforementioned dashboard, in a manner that enabled us to directly scrape the results, albeit with the trial and error generally required for frontend web scraping. Where unavailable (all 13 elections prior to and including the 2008 federal general election), we manually (i.e.\ by hand) digitised the data from the aforementioned post-election reports and gazetted results. We made a deliberate methodological choice to avoid the use of optical character recognition (OCR) and PDF parsing tools after initial experimentation revealed an average error rate of approximately 10\%, primarily due to frequent changes in formatting and layout, even within the same document. We considered this to be unacceptably high for a resource intended to serve as a single source of truth. Moreover, the downstream process of error detection and correction proved to be more time-consuming and error-prone than simply transcribing the data by hand, especially given the relatively manageable size of this data (\TOTALBALLOTS\space ballots across \TOTALCONTESTS\space electoral contests). 
+For the 3 elections after 8th March 2008 (Figure \ref{fig:federal_coverage}), official results are available digitally via the aforementioned dashboard, in a manner that enabled us to directly scrape the results, albeit with the trial and error generally required for frontend web scraping. Where unavailable (all 13 elections prior to and including the 2008 federal general election), we manually (i.e.\ by hand) digitised the data from the aforementioned post-election reports and gazetted results. We made a deliberate methodological choice to avoid the use of optical character recognition (OCR) and PDF parsing tools after initial experimentation revealed an average error rate of approximately 10\%, primarily due to frequent changes in formatting and layout, even within the same document. We considered this to be unacceptably high for a resource intended to serve as a single source of truth. Moreover, the downstream process of error detection and correction proved to be more time-consuming and error-prone than simply transcribing the data by hand, especially given the relatively manageable size of this data (\TOTALBALLOTS\space ballots across \TOTALCONTESTS\space electoral contests).
 
 As a result, all records acquired from physical books or PDFs were transcribed by hand. The Technical Validation section further explains why the way in which Malaysia reports election results made it possible for us to do this with near-total confidence in the accuracy of the final product.
 
@@ -232,10 +233,10 @@ Candidate UIDs were generated through a combination of fuzzy matching and manual
 
 \begin{centering}
 
-Rafidah Aziz\\
-Rafidah Bt. Ab. Aziz\\
-Rafidah Bt. Abdul Aziz\\
-Datuk Seri Rafidah Aziz
+	Rafidah Aziz\\
+	Rafidah Bt. Ab. Aziz\\
+	Rafidah Bt. Abdul Aziz\\
+	Datuk Seri Rafidah Aziz
 
 \end{centering}
 
@@ -243,10 +244,10 @@ Another 8-time Parliamentarian \textbf{Samy Vellu A/L Sangalimuthu} appeared on 
 
 \begin{centering}
 
-S. Samy Vellu\\
-Datuk Seri Samy Vellu\\
-S. Samy Vellu A/L Sangalimuthu\\
-Dato' S. Samy Vellu A/L Sangalimuthu
+	S. Samy Vellu\\
+	Datuk Seri Samy Vellu\\
+	S. Samy Vellu A/L Sangalimuthu\\
+	Dato' S. Samy Vellu A/L Sangalimuthu
 
 \end{centering}
 Through careful matching and correction, we assigned a single UID to all instances of a candidate to support longitudinal analysis.
@@ -254,9 +255,9 @@ Through careful matching and correction, we assigned a single UID to all instanc
 \textbf{Constituencies.}
 We deliberately avoided assigning UIDs to constituencies. Instead, we rely on the intrinsic uniqueness of the \texttt{date-state-constituency} combination, which guarantees that each contest is uniquely identifiable within its context (since no two constituencies within the same state can have the same name in the same election). A left join on these three fields suffices to generate a lookup table via which additional data can be merged. To aid users in harmonising constituencies across elections, we provide a field called \texttt{area\_name}, which standardises name changes and spelling variations across time. Examples include:
 \begin{align*}
-\text{Temerluh} &\rightarrow \space \text{Temerloh}\\ 
-\text{Telok Anson} &\rightarrow \space \text{Teluk Intan}\\
-\text{Bagan Datoh} \rightarrow \space \text{Bagan}&\text{ }\text{Datok} \rightarrow \space \text{Bagan Datuk}
+	\text{Temerluh}                                    & \rightarrow \space \text{Temerloh}                         \\
+	\text{Telok Anson}                                 & \rightarrow \space \text{Teluk Intan}                      \\
+	\text{Bagan Datoh} \rightarrow \space \text{Bagan} & \text{ }\text{Datok} \rightarrow \space \text{Bagan Datuk}
 \end{align*}
 We do not currently implement harmonisation for changes involving boundary adjustments or the creation of new constituencies. For example, although the seat of Bayan Baru in Penang was carved out of Balik Pulau, we do not merge or tag these together because Balik Pulau remains an active seat name today, and such harmonisation would require subjective judgment. Our aim is to provide a flexible foundation that allows users to apply their own harmonisation strategies according to their specific research needs.
 
@@ -264,14 +265,14 @@ We do not currently implement harmonisation for changes involving boundary adjus
 The data records supporting this paper are available through multiple platforms to facilitate access, transparency, and long-term preservation:
 
 \begin{enumbul}
-\item \textbf{Harvard Dataverse}\\
-All primary datasets (Table \ref{tab:data_records}) are published and versioned on Harvard Dataverse at \url{https://doi.org/10.7910/DVN/O4CRXK}. This serves as the canonical archive for replication and reuse.
+	\item \textbf{Harvard Dataverse}\\
+	All primary datasets (Table \ref{tab:data_records}) are published and versioned on Harvard Dataverse at \url{https://doi.org/10.7910/DVN/O4CRXK}. This serves as the canonical archive for replication and reuse.
 
-\item \textbf{GitHub}\\
-The full source code used to process, compile, and validate the data is publicly available under a CC0 license at \url{https://github.com/Thevesh/paper-malaysian-election-corpus}. This repository also contains all files made available on Harvard Dataverse in both CSV and the highly efficient Parquet format, as well as raw source files split by state and election type.
+	\item \textbf{GitHub}\\
+	The full source code used to process, compile, and validate the data is publicly available under a CC0 license at \url{https://github.com/Thevesh/paper-malaysian-election-corpus}. This repository also contains all files made available on Harvard Dataverse in both CSV and the highly efficient Parquet format, as well as raw source files split by state and election type.
 
-\item \textbf{Companion Website}\\
-The data can be interactively explored via \href{https://electiondata.my}{ElectionData.MY}. In addition to making the data accessible to non-technical users, the site is intended to serve as the primary channel for continuous updates and future enhancements to \acronymend.
+	\item \textbf{Companion Website}\\
+	The data can be interactively explored via \href{https://electiondata.my}{ElectionData.MY}. In addition to making the data accessible to non-technical users, the site is intended to serve as the primary channel for continuous updates and future enhancements to \acronymend.
 \end{enumbul}
 
 \begin{table}[H]
@@ -281,24 +282,24 @@ The data can be interactively explored via \href{https://electiondata.my}{Electi
 	\label{tab:data_records}
 	\vspace{0.14in}
 	\begin{tabular}{L{0.29\linewidth}L{0.69\linewidth}}
-	\toprule
-	\textbf{Filename} & \textbf{Description} \\
-	\midrule
-	\texttt{consol\_ballots} & Candidate-level results for all federal and state elections \\
-	\texttt{federal\_ballots} & Subset of \texttt{consol\_ballots} for federal general elections \\
-	\texttt{state\_ballots} & Subset of \texttt{consol\_ballots} for state general elections \\
-	\texttt{byeelection\_ballots} & Subset of \texttt{consol\_ballots} for by-elections \\ \hline
-	\texttt{consol\_summary} & Summary statistics for all federal and state elections \\
-	\texttt{federal\_summary} & Subset of \texttt{consol\_summary} for federal general elections \\
-	\texttt{state\_summary} & Subset of \texttt{consol\_summary} for state general elections \\
-	\texttt{byeelection\_summary} & Subset of \texttt{consol\_summary} for by-elections \\
-	\texttt{lookup\_candidates} & Standardised candidate names \\
-	\texttt{lookup\_parties} & Standardised party names and abbreviations \\
-	\texttt{lookup\_dates} & Election dates, by state and election type \\
-	\texttt{lookup\_seats} & Standardised constituency names \\
-	\hline
-	\texttt{logs/corrections} & Log of manual corrections applied to ballot issued counts to ensure consistency as described in the Technical Validation section \\
-	\bottomrule
+		\toprule
+		\textbf{Filename}             & \textbf{Description}                                                                                                             \\
+		\midrule
+		\texttt{consol\_ballots}      & Candidate-level results for all federal and state elections                                                                      \\
+		\texttt{federal\_ballots}     & Subset of \texttt{consol\_ballots} for federal general elections                                                                 \\
+		\texttt{state\_ballots}       & Subset of \texttt{consol\_ballots} for state general elections                                                                   \\
+		\texttt{byeelection\_ballots} & Subset of \texttt{consol\_ballots} for by-elections                                                                              \\ \hline
+		\texttt{consol\_summary}      & Summary statistics for all federal and state elections                                                                           \\
+		\texttt{federal\_summary}     & Subset of \texttt{consol\_summary} for federal general elections                                                                 \\
+		\texttt{state\_summary}       & Subset of \texttt{consol\_summary} for state general elections                                                                   \\
+		\texttt{byeelection\_summary} & Subset of \texttt{consol\_summary} for by-elections                                                                              \\
+		\texttt{lookup\_candidates}   & Standardised candidate names                                                                                                     \\
+		\texttt{lookup\_parties}      & Standardised party names and abbreviations                                                                                       \\
+		\texttt{lookup\_dates}        & Election dates, by state and election type                                                                                       \\
+		\texttt{lookup\_seats}        & Standardised constituency names                                                                                                  \\
+		\hline
+		\texttt{logs/corrections}     & Log of manual corrections applied to ballot issued counts to ensure consistency as described in the Technical Validation section \\
+		\bottomrule
 	\end{tabular}
 \end{table}
 
@@ -311,22 +312,22 @@ Table \ref{tab:ballots_structure} describes the structure of \texttt{*\_ballots}
 	\label{tab:ballots_structure}
 	\vspace{0.14in}
 	\begin{tabular}{L{0.29\linewidth}L{0.69\linewidth}}
-	\toprule
-	\textbf{Variable} & \textbf{Description} \\
-	\midrule
-	\texttt{date} & Date of the election (YYYY-MM-DD) \\
-	\texttt{election} & Election name (e.g., GE-14, SE-10, BY-ELECTION) \\
-	\texttt{state} & State in which the constituency is located \\
-	\texttt{seat} & Code and full name of the seat (e.g., P.052 Bayan Baru) \\
-	\texttt{ballot\_order} & Order in which the candidate appeared on the ballot \\
-	\texttt{name} & Candidate name as it appeared on the ballot paper \\
-	\texttt{candidate\_uid} & Unique identifier for the candidate \\
-	\texttt{party} & Party name as it appeared on the ballot paper \\
-	\texttt{party\_uid} & Unique identifier for the party \\
-	\texttt{votes} & Number of valid votes received by the candidate \\
-	\texttt{votes\_perc} & Share of valid votes received by the candidate (\%) \\
-	\texttt{result} & Outcome (won, won uncontested, lost, lost deposit) \\
-	\bottomrule
+		\toprule
+		\textbf{Variable}       & \textbf{Description}                                    \\
+		\midrule
+		\texttt{date}           & Date of the election (YYYY-MM-DD)                       \\
+		\texttt{election}       & Election name (e.g., GE-14, SE-10, BY-ELECTION)         \\
+		\texttt{state}          & State in which the constituency is located              \\
+		\texttt{seat}           & Code and full name of the seat (e.g., P.052 Bayan Baru) \\
+		\texttt{ballot\_order}  & Order in which the candidate appeared on the ballot     \\
+		\texttt{name}           & Candidate name as it appeared on the ballot paper       \\
+		\texttt{candidate\_uid} & Unique identifier for the candidate                     \\
+		\texttt{party}          & Party name as it appeared on the ballot paper           \\
+		\texttt{party\_uid}     & Unique identifier for the party                         \\
+		\texttt{votes}          & Number of valid votes received by the candidate         \\
+		\texttt{votes\_perc}    & Share of valid votes received by the candidate (\%)     \\
+		\texttt{result}         & Outcome (won, won uncontested, lost, lost deposit)      \\
+		\bottomrule
 	\end{tabular}
 \end{table}
 
@@ -337,37 +338,37 @@ Table \ref{tab:ballots_structure} describes the structure of \texttt{*\_ballots}
 	\label{tab:summary_structure}
 	\vspace{0.14in}
 	\begin{tabular}{L{0.35\linewidth}L{0.65\linewidth}}
-	\toprule
-	\textbf{Variable} & \textbf{Description} \\
-	\midrule
-	\texttt{date} & Date of the election (YYYY-MM-DD) \\
-	\texttt{election} & Type of election (e.g., GE-14, SE-10, BY-ELECTION) \\
-	\texttt{state} & State in which the constituency is located \\
-	\texttt{seat} & Full name of the seat (e.g., P.049 Tanjong) \\
-	\texttt{voters\_total} & Total number of registered voters \\
-	\texttt{ballots\_issued} & Number of ballots issued \\
-	\texttt{ballots\_not\_returned} & Number of ballots not returned (often postal votes) \\
-	\texttt{votes\_rejected} & Number of rejected (spoiled) votes \\
-	\texttt{votes\_valid} & Number of valid votes \\
-	\texttt{majority} & Margin of victory between the top two candidates \\
-	\texttt{voter\_turnout} & Ballots issued as a share of registered voters (\%) \\
-	\texttt{majority\_perc} & Majority as a share of valid votes (\%) \\
-	\texttt{votes\_rejected\_perc} & Rejected votes as a share of ballots returned (\%) \\
-	\texttt{ballots\_not\_returned\_perc} & Unreturned ballots as a share of ballots issued (\%) \\
-	\bottomrule
+		\toprule
+		\textbf{Variable}                     & \textbf{Description}                                 \\
+		\midrule
+		\texttt{date}                         & Date of the election (YYYY-MM-DD)                    \\
+		\texttt{election}                     & Type of election (e.g., GE-14, SE-10, BY-ELECTION)   \\
+		\texttt{state}                        & State in which the constituency is located           \\
+		\texttt{seat}                         & Full name of the seat (e.g., P.049 Tanjong)          \\
+		\texttt{voters\_total}                & Total number of registered voters                    \\
+		\texttt{ballots\_issued}              & Number of ballots issued                             \\
+		\texttt{ballots\_not\_returned}       & Number of ballots not returned (often postal votes)  \\
+		\texttt{votes\_rejected}              & Number of rejected (spoiled) votes                   \\
+		\texttt{votes\_valid}                 & Number of valid votes                                \\
+		\texttt{majority}                     & Margin of victory between the top two candidates     \\
+		\texttt{voter\_turnout}               & Ballots issued as a share of registered voters (\%)  \\
+		\texttt{majority\_perc}               & Majority as a share of valid votes (\%)              \\
+		\texttt{votes\_rejected\_perc}        & Rejected votes as a share of ballots returned (\%)   \\
+		\texttt{ballots\_not\_returned\_perc} & Unreturned ballots as a share of ballots issued (\%) \\
+		\bottomrule
 	\end{tabular}
 \end{table}
-	
+
 
 \section*{Technical Validation}
-There are four components of the database which require validation: Numerical data, candidate names, party names, and constituency names. 
+There are four components of the database which require validation: Numerical data, candidate names, party names, and constituency names.
 
 For numerical data, the way in which Malaysia reports election results makes a unique form of validation possible. First, we define the following variables:
 \begin{align*}
-	I &= \text{Ballots Issued} \\
-	U &= \text{Unreturned Ballots} \\
-	R &= \text{Votes Rejected} \\
-	V_i &= \text{Valid Votes for Candidate } i
+	I   & = \text{Ballots Issued}               \\
+	U   & = \text{Unreturned Ballots}           \\
+	R   & = \text{Votes Rejected}               \\
+	V_i & = \text{Valid Votes for Candidate } i
 \end{align*}
 For a given contest involving $N$ candidates, the following relationship must hold:
 \begin{align}
@@ -409,13 +410,13 @@ The Malaysian Election Corpus (\acronymend) is designed to support a wide range 
 
 We anticipate that many users will want to extend or adapt the dataset. The standardised schema and use of lookup tables enable seamless enrichment and flexible integration with other datasets. Some valuable examples include:
 \begin{enumbul}
-\item \texttt{lookup\_candidates} can be enriched with data on candidates' demographic characteristics, such as age, gender, ethnic group, and education level.
-\item \texttt{lookup\_parties} can be enriched with data on party affiliations, or even component parties of coalitions. For instance, by adding a \texttt{coalition} field to the lookup, it is possible to assign different UIDs to two candidates representing the same coalition, such that they can be traced to different component parties.
-\item \texttt{lookup\_seats} can be enriched with a \texttt{lineage} field, which might track the geospatial lineage of a constituency, including changes in boundaries over time. However, this will require the user to define how constituency identity is determined.
+	\item \texttt{lookup\_candidates} can be enriched with data on candidates' demographic characteristics, such as age, gender, ethnic group, and education level.
+	\item \texttt{lookup\_parties} can be enriched with data on party affiliations, or even component parties of coalitions. For instance, by adding a \texttt{coalition} field to the lookup, it is possible to assign different UIDs to two candidates representing the same coalition, such that they can be traced to different component parties.
+	\item \texttt{lookup\_seats} can be enriched with a \texttt{lineage} field, which might track the geospatial lineage of a constituency, including changes in boundaries over time. However, this will require the user to define how constituency identity is determined.
 \end{enumbul}
 As a practical reference for users, the \texttt{dashboards.py} script illustrates how to merge the core datasets with lookup tables to create panel data suitable for interactive dashboards and advanced analyses.
 
-Finally, while rigorous validation has been applied (see Technical Validation), this remains a living database and is intended as such. Minor inaccuracies, particularly in the candidate name field, may persist as discussed above. We encourage users to report issues or submit improvements via the GitHub repository, which provides full transparency of changes between releases. 
+Finally, while rigorous validation has been applied (see Technical Validation), this remains a living database and is intended as such. Minor inaccuracies, particularly in the candidate name field, may persist as discussed above. We encourage users to report issues or submit improvements via the GitHub repository, which provides full transparency of changes between releases.
 
 
 \section*{Code Availability}
@@ -423,10 +424,400 @@ Finally, while rigorous validation has been applied (see Technical Validation), 
 All data processing, validation, and compilation was conducted in Python. The full source code is publicly available via \href{https://github.com/Thevesh/paper-malaysian-election-corpus}{GitHub under a CC0 license}. Three key scripts which users should find particularly useful are:
 
 \begin{enumbul}
-\item \texttt{compile.py}, which generates and validates all tabular datasets published on Harvard Dataverse, with the exception of the \texttt{lookup*.csv} files, which were manually curated.
-\item \texttt{dataviz.py}, which generates all visualisations used in this paper.
-\item \texttt{dashboards.py}, which generates the source files for the interactive visualisations available at \href{https://electiondata.my}{ElectionData.MY}.
+	\item \texttt{compile.py}, which generates and validates all tabular datasets published on Harvard Dataverse, with the exception of the \texttt{lookup*.csv} files, which were manually curated.
+	\item \texttt{dataviz.py}, which generates all visualisations used in this paper.
+	\item \texttt{dashboards.py}, which generates the source files for the interactive visualisations available at \href{https://electiondata.my}{ElectionData.MY}.
 \end{enumbul}
+
+\begin{filecontents*}{mybib.bib}
+
+	@misc{mysprsemak,
+		title        = {{MySPR Semak}} ,
+		author       = {Election Commission},
+		year         = {2025},
+		url          = {https://mysprsemak.spr.gov.my/semakan/keputusan/pru},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@misc{lompub,
+		title        = {{Federal Legislation: P.U.(B)}},
+		author       = {Attorney General's Chambers of Malaysia},
+		year         = {2025},
+		url          = {https://lom.agc.gov.my/subsid.php?type=pub},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@misc{clea,
+		title        = {Constituency-Level Elections Archive},
+		author       = {Kollman, Ken and Hicken, Allen and Caramani, Daniele and Backer, David and Lublin, David},
+		year         = {2024},
+		url          = {http://www.electiondataarchive.org},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@article{icoma2023urnout,
+		title={The Global Dataset on Turnout {(GD-Turnout)}},
+		author={i Coma, Ferran Mart{\'\i}nez and Van De Maele, Diego Leiva},
+		journal={Electoral Studies},
+		volume={86},
+		pages={102681},
+		year={2023},
+		publisher={Elsevier}
+	}
+
+	@article{norris2014integrity,
+		title={Measuring electoral integrity around the world: A new dataset},
+		author={Norris, Pippa and Frank, Richard W and i Coma, Ferran Mart{\'\i}nez},
+		journal={PS: Political Science \& Politics},
+		volume={47},
+		number={4},
+		pages={789--798},
+		year={2014},
+		publisher={Cambridge University Press}
+	}
+
+	@misc{undiinfo,
+		title        = {undi.info},
+		author       = {MalaysiaKini},
+		year         = {2025},
+		url          = {\url{https://citethis.link/meco1-undi}},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@misc{ge15sinar,
+		title        = {{GE15 Open Data}},
+		author       = {Sinar Project},
+		year         = {2025},
+		url          = {\url{https://citethis.link/meco1-sinar}},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@misc{tindakgithub,
+		title        = {Historical Election Results},
+		author       = {{Tindak Malaysia}},
+		year         = {2025},
+		howpublished = {\url{https://citethis.link/meco1-tindak}},
+		note         = {Accessed: 2025-05-05}
+	}
+
+	@article{perez2021spanish,
+		title={Spanish electoral archive. {SEA} database},
+		author={P{\'e}rez, Virgilio and Aybar, Cristina and Pav{\'\i}a, Jose M},
+		journal={Scientific Data},
+		volume={8},
+		number={1},
+		pages={193},
+		year={2021},
+		publisher={Nature Publishing Group UK London}
+	}
+
+	@article{baltz2022american,
+		title={{American} election results at the precinct level},
+		author={Baltz, Samuel and Agadjanian, Alexander and Chin, Declan and Curiel, John and DeLuca, Kevin and Dunham, James and Miranda, Jennifer and Phillips, Connor Halloran and Uhlman, Annabel and Wimpy, Cameron and others},
+		journal={Scientific Data},
+		volume={9},
+		number={1},
+		pages={651},
+		year={2022},
+		publisher={Nature Publishing Group UK London}
+	}
+
+	@article{de2023american,
+		title={{American} local government elections database},
+		author={de Benedictis-Kessner, Justin and Lee, Diana Da In and Velez, Yamil R and Warshaw, Christopher},
+		journal={Scientific Data},
+		volume={10},
+		number={1},
+		pages={912},
+		year={2023},
+		publisher={Nature Publishing Group UK London}
+	}
+
+	@article{heddesheimer2025gerda,
+		title={{GERDA}: The {German} Election Database},
+		author={Heddesheimer, Vincent and Hilbig, Hanno and Sichart, Florian and Wiedemann, Andreas},
+		journal={Scientific Data},
+		volume={12},
+		number={1},
+		pages={618},
+		year={2025},
+		publisher={Nature Publishing Group UK London}
+	}
+
+	@article{calderon2025electoral,
+	title={Electoral precinct-level database for {Mexican} municipal elections},
+	author={Calder{\'o}n-Hern{\'a}ndez, Bruno and Larreguy, Horacio and Marshall, John and P{\'e}rez-Castellanos, Jos{\'e} Luis},
+	journal={Scientific Data},
+	volume={12},
+	number={1},
+	pages={582},
+	year={2025},
+	publisher={Nature Publishing Group UK London}
+	}
+
+	@article{jensenius2017studying,
+	title={Studying {Indian} politics with large-scale data: {Indian} election data 1961--today},
+	author={Jensenius, Francesca R and Verniers, Gilles},
+	journal={Studies in Indian Politics},
+	volume={5},
+	number={2},
+	pages={269--275},
+	year={2017},
+	publisher={SAGE Publications Sage India: New Delhi, India}
+	}
+
+	@book{ge00report,
+		title     = {Report on the First Election of Members to the Legislative Council of the Federation of Malaya},
+		author    = {T. E. Smith},
+		year      = {1955},
+		publisher = {Supervisor of Elections},
+	}
+
+	@book{ge01report,
+		title     = {Report on the Parliamentary and State Elections 1959},
+		author    = {Election Commission},
+		year      = {1959},
+		publisher = {Election Commission of the Federation of Malaya},
+	}
+
+	@book{ge02report,
+		title     = {Report on the Parliamentary (Dewan Ra'ayat) and State Legislative Assembly General Elections, 1964 of the States of Malaya},
+		author    = {Election Commission},
+		year      = {1964},
+		publisher = {Election Commission of the Federation of Malaya},
+	}
+	@book{ge03report,
+		title     = {Report on the Parliamentary (Dewan Ra'ayat) and State Legislative Assembly General Elections 1969 of the States of Malaya, Sabah and Sarawak},
+		author    = {Election Commission},
+		year      = {1971},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge04report,
+		title     = {Report on the Parliamentary (Dewan Rakyat) and State Legislative Assembly General Elections 1974 of the States of Malaya and Sarawak},
+		author    = {Election Commission},
+		year      = {1974},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge05report,
+		title     = {Report on the General Elections to the House of Representatives and the State Legislative Assemblies Other Than the State Legislative Assemblies of Kelantan, Sabah and Sarawak 1978},
+		author    = {Election Commission},
+		year      = {1978},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge06report,
+		title     = {Report on the Malaysian General Elections 1982},
+		author    = {Election Commission},
+		year      = {1982},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge07report,
+		title     = {Report on the Malaysian General Elections 1986},
+		author    = {Election Commission},
+		year      = {1986},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge08report,
+		title     = {Report on the Malaysian General Elections 1990},
+		author    = {Election Commission},
+		year      = {1990},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge09report,
+		title     = {Report of the General Election Malaysia 1995},
+		author    = {Election Commission},
+		year      = {1995},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge10report,
+		title     = {Report of the General Election Malaysia 1999},
+		author    = {Election Commission},
+		year      = {1999},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge11report,
+		title     = {Report of the General Election Malaysia 2004},
+		author    = {Election Commission},
+		year      = {2004},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge12report,
+		title     = {Report of the General Election Malaysia 2008},
+		author    = {Election Commission},
+		year      = {2008},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{ge13report,
+		title     = {Report of the General Election Malaysia 2013},
+		author    = {Election Commission},
+		year      = {2013},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1967report,
+		title     = {Report on the State Legislative Assembly General Election 1967 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1967},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1971report,
+		title     = {Report on the State Legislative Assembly General Election 1971 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1971},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1976report,
+		title     = {Report on the State Legislative Assembly General Election 1976 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1976},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{kelantan1978report,
+		title     = {Report on the State Legislative Assembly General Election 1978 of the State of Kelantan},
+		author    = {Election Commission},
+		year      = {1978},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak1979report,
+		title     = {Report on the State Legislative Assembly General Election 1979 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {1979},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1981report,
+		title     = {Report on the State Legislative Assembly General Election 1981 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1981},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak1983report,
+		title     = {Report on the State Legislative Assembly General Election 1983 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {1983},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1985report,
+		title     = {Report on the State Legislative Assembly General Election 1985 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1985},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1986report,
+		title     = {Report on the State Legislative Assembly General Election 1986 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1986},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak1987report,
+		title     = {Report on the State Legislative Assembly General Election 1987 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {1987},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1990report,
+		title     = {Report on the State Legislative Assembly General Election 1990 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1990},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak1991report,
+		title     = {Report on the State Legislative Assembly General Election 1991 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {1991},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1994report,
+		title     = {Report on the State Legislative Assembly General Election 1994 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1994},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak1996report,
+		title     = {Report on the State Legislative Assembly General Election 1996 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {1996},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sabah1999report,
+		title     = {Report on the State Legislative Assembly General Election 1999 of the State of Sabah},
+		author    = {Election Commission},
+		year      = {1999},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak2001report,
+		title     = {Report on the State Legislative Assembly General Election 2001 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {2001},
+		publisher = {Election Commission of Malaysia},
+	}
+
+	@book{sarawak2006report,
+		title     = {Report on the State Legislative Assembly General Election 2006 of the State of Sarawak},
+		author    = {Election Commission},
+		year      = {2006},
+		publisher = {Election Commission of Malaysia},
+	}
+
+
+
+	@book{means1991malaysia,
+		author    = {Gordon P. Means},
+		title     = {Malaysia: The Second Generation},
+		publisher = {Oxford University Press},
+		address   = {Singapore},
+		year      = {1991}
+	}
+
+	@article{yusoff2001sabah,
+		title={Sabah politics under {Pairin}},
+		author={Yusoff, Mohammad Agus},
+		journal={JATI - Journal of Southeast Asian Studies},
+		volume={6},
+		pages={29--48},
+		year={2001}
+	}
+
+	@article{lee2020collapse,
+		title={The Collapse of the State Government in {Sabah}: Back to the Drawing Board},
+		author={Lee, P.O.},
+		journal={ISEAS - Yusof Ishak Institute Commentaries},
+		year={2020},
+		note={Available at: \url{https://citethis.link/meco1-iseas}}
+	}
+
+	@incollection{junid2019battle,
+		title={The battle for {Perak}},
+		author={Junid, Iskandar Dzulkarnain Ahmad},
+		booktitle={Malaysia's 14th General Election and {UMNO}'s Fall},
+		pages={223--239},
+		year={2019},
+		publisher={Routledge}
+	}
+\end{filecontents*}
 
 % this section generates reference
 \begingroup
