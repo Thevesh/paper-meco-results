@@ -109,7 +109,7 @@ def main():
 
     df["check"] = df.ballots_issued - df.ballots_not_returned - df.votes_rejected - df.votes_valid
     if len(df[df.check != 0]) > 0:
-        df = df.sort_values(by=["date", "state", "seat"]).drop("check_perc", axis=1)
+        df = df.sort_values(by=["date", "state", "seat"])
         df = df[["check"] + list(df.columns[:-1])]
         df[df.check != 0].to_csv("logs/check.csv", index=False)
         raise ValueError(f"Validation failed for {len(df[df.check != 0])} seats!")
