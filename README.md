@@ -42,26 +42,22 @@ git clone git@github.com:thevesh/paper-meco-results.git
 cd paper-meco-results
 ```
 
-2. Create and activate a virtual environment:
+2. We recommend using `uv` to manage Python dependencies for this project.
 ```bash
-python3 -m venv .venv
+uv venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv sync
 ```
 
-3. Install dependencies:
+3. Run the main analysis script:
 ```bash
-pip install -r requirements.txt
+python3 compile.py
+python3 dashboards.py
 ```
 
-4. Run the main analysis script:
+4. Generate visualizations:
 ```bash
-python compile.py
-python dashboards.py
-```
-
-5. Generate visualizations:
-```bash
-python dataviz.py
+python3 dataviz.py
 ```
 
 ## Citation
