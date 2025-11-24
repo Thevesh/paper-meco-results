@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](LICENSE)
 
-# Malaysian Election Corpus (MECo): Federal & State-level Election Results since 1955
+# 🇲🇾 Malaysian Election Corpus (MECo): Federal & State-level Election Results since 1955
 
 Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the Malaysian Election Corpus (MECo), an open-access panel database covering all federal and state general elections since 1955, as well as by-elections since 2008. MECo includes candidate- and constituency-level data for 9,704 electoral contests across seven decades, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected votes, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
 
