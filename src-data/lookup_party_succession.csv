@@ -1,0 +1,56 @@
+predecessor_uid,successor_uid,type,year,notes
+009-PR,009-PSRM,replace,1965,PR renamed to PSRM
+021-PETIR,021-DAP,replace,1965,Deregistered PETIR revived as DAP
+022-UPKO,014-USNO,absorb,1967,UPKO absorbed into USNO
+005-LPM,028-PEKEMAS,merge,1968,UDP + part of LPM + others merged to form GERAKAN
+016-UDP,028-PEKEMAS,merge,1968,UDP + part of LPM + others merged to form GERAKAN
+004-PAS,031-KITA,splinter,1972,KITA split off from PAS and GERAKAN
+026-GERAKAN,028-PEKEMAS,splinter,1972,PEKEMAS split off from GERAKAN
+026-GERAKAN,031-KITA,splinter,1972,KITA split off from PAS and GERAKAN
+018-PESAKA,030-PNRS,merge,1973,PESAKA + PBRS-SWK merged to form PBB
+027-PBRS-SWK,030-PNRS,merge,1973,PESAKA + PBRS-SWK merged to form PBB
+002-MIC,035-KIMMA,splinter,1976,KIMMA founded by Indian-Muslim faction of MIC
+004-PAS,036-BERJASA,splinter,1977,BERJASA split off from PAS
+021-DAP,044-SDP,splinter,1978,SDP split off from DAP
+037-PUSAKA,034-BERJAYA,absorb,1982,PUSAKA absorbed into BERJAYA
+004-PAS,048-HAMIM,splinter,1983,HAMIM split off from PAS
+001-UMNO,062-S46,splinter,1989,S46 split off from UMNO
+009-PSRM,009-PRM,replace,1989,PSRM renamed to PRM
+034-BERJAYA,061-PRS-SBH,splinter,1989,PRS-SBH split off from BERJAYA
+047-SCCP,059-LDP,splinter,1989,LDP split off from SCCP
+054-PBS,063-AKAR,splinter,1989,AKAR split off from PBS
+002-MIC,064-IPF,splinter,1990,IPF split off from MIC
+014-USNO,001-UMNO,absorb,1991,USNO absorbed into UMNO
+034-BERJAYA,001-UMNO,absorb,1991,BERJAYA absorbed into UMNO
+054-PBS,067-PBRS-SBH,splinter,1994,PBRS-SBH split off from PBS
+054-PBS,068-SAPP,splinter,1994,SAPP split off from PBS
+004-PAS,070-AKIM,splinter,1995,AKIM split off from PAS
+062-S46,001-UMNO,merge,1996,S46 rejoined UMNO
+063-AKAR,063-AKAR-BERSATU,replace,1996,AKAR renamed to AKAR-BERSATU
+021-DAP,073-MDP,splinter,1998,MDP split off from DAP
+066-PDS,066-UPKO,replace,1999,PDS renamed to UPKO
+063-AKAR-BERSATU,001-UMNO,split,2001,AKAR-BERSATU split into UMNO and eventually PGRS
+015-SNAP,077-SPDP,splinter,2002,SPDP split off from de-registered SNAP
+009-PRM,078-PKR,merge,2003,PRM + PKN merged to form PKR
+075-PKN,078-PKR,merge,2003,PRM PKN merged to form PKR
+006-PPP,006-MYPPP,replace,2004,PPP renamed to MYPPP
+015-SNAP,049-PBDS,splinter,2004,PBDS split off from SNAP
+078-PKR,009-PRM,splinter,2005,PRM revived by a minority faction
+065-BERSEKUTU,065-SPF,replace,2010,Dissolved BERSEKUTU revived as SPF
+069-SETIA,069-BERSAMA,replace,2011,SETIA rebranded as BERSAMA
+070-AKIM,128-PR-SBH,replace,2011,AKIM renamed to KITA
+065-SPF,065-SWP,replace,2012,SPF taken over and rebranded as SWP
+049-PBDS,049-PBDSB,replace,2013,Deregistered PBDS revived as PBDSB
+063-AKAR-BERSATU,087-PGRS,split,2013,AKAR-BERSATU split into UMNO and eventually PGRS
+077-SPDP,098-TERAS,splinter,2014,TERAS split off from SPDP
+046-PPPM,046-AMANAH,replace,2015,PPPM renamed to AMANAH
+072-STAR-SWK,108-STAR-SBH,splinter,2016,STAR-SBH split off from STAR-SWK
+001-UMNO,107-BERSATU,splinter,2017,BERSATU split off from UMNO
+077-SPDP,077-PDP,replace,2017,SPDP rebranded to PDP
+066-UPKO-1,066-UPKO-2,replace,2019,UPKO renamed with acronym preserved
+072-STAR-SWK,071-ASPIRASI,replace,2020,STAR-SWK renamed to ASPIRASI
+107-BERSATU,119-PEJUANG,splinter,2020,PEJUANG split off from BERSATU
+107-BERSATU,120-MUDA,splinter,2020,MUDA split off from BERSATU
+065-SWP,065-PBM,replace,2021,SWP rebranded as PBM
+104-WARISAN,123-KDM,splinter,2022,KDM split off from WARISAN
+099-PSB,077-PDP,absorb,2024,PSB absorbed into PDP
