@@ -16,7 +16,9 @@ __pycache__/
 *$py.class
 *.DS_Store
 
-# confidential data
+# LaTeX files for journal only
+tex/*diff*
+tex/*responses*
 
 # LaTeX generation files
 *eps-converted-to*

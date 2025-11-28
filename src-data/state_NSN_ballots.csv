@@ -14,17 +14,17 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1959-05-20,SE-01,Negeri Sembilan,N.05 Rantau,2,902,Shaikh Mohd. Hamid Bin H. M. Said,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1158,29.953440248318675,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.05 Rantau,3,903,Dato' Mohamed Hanifah Bin Haji Abdul Ghani,PAS,004-PAS,PAS,0,ALONE,1026,26.539058458354887,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.06 Sungei Ujong,1,69,Lim Kee Siong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,1972,41.04058272632674,1,won
-1959-05-20,SE-01,Negeri Sembilan,N.06 Sungei Ujong,2,904,Raja Abdul Razak Bin Raja Hamzah,SF,010-PML,PML,2,SF,1280,26.638917793964623,2,lost
+1959-05-20,SE-01,Negeri Sembilan,N.06 Sungei Ujong,2,904,Raja Abdul Razak Bin Raja Hamzah,SF,009-PR,PR,2,SF,1280,26.638917793964623,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.06 Sungei Ujong,3,905,Ong Ah Sai,BEBAS,000-BEBAS,BEBAS,0,ALONE,1270,26.43080124869927,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.06 Sungei Ujong,4,906,Razali Bin Abd. Khalid,PAS,004-PAS,PAS,0,ALONE,283,5.8896982310093655,4,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.07 Rahang,1,907,Han Hiu Fong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2263,51.43181818181818,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.07 Rahang,2,302,Robert Singam,SF,005-LPM,LPM,2,SF,2137,48.56818181818181,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.08 Terentang,1,908,Siti Rahmah Binti Hj. Kassim,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1617,45.10460251046025,1,won
-1959-05-20,SE-01,Negeri Sembilan,N.08 Terentang,2,909,Alias Bin Abd. Rahman,NEG,007-NAP,NAP,0,ALONE,1095,30.543933054393307,2,lost
+1959-05-20,SE-01,Negeri Sembilan,N.08 Terentang,2,909,Alias Bin Abd. Rahman,NEG,008-NEG,NEG,0,ALONE,1095,30.543933054393307,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.08 Terentang,3,910,Mohd. Noor Bin Haji Ahmad,BEBAS,000-BEBAS,BEBAS,0,ALONE,668,18.633193863319384,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.08 Terentang,4,911,Fatimah Binti Hj. Bahari,PAS,004-PAS,PAS,0,ALONE,205,5.718270571827057,4,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.09 Kota,1,912,Mohd. Yusof Bin Abdullah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2320,53.028571428571425,1,won
-1959-05-20,SE-01,Negeri Sembilan,N.09 Kota,2,68,Baba Bin Ludek,NEG,007-NAP,NAP,0,ALONE,1915,43.77142857142857,2,lost
+1959-05-20,SE-01,Negeri Sembilan,N.09 Kota,2,68,Baba Bin Ludek,NEG,008-NEG,NEG,0,ALONE,1915,43.77142857142857,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.09 Kota,3,66,Noordin Bin Abdul Samad,PAS,004-PAS,PAS,0,ALONE,140,3.2,3,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.10 Tampin,1,913,Md. Taha Bin Abd. Talib,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2830,73.01341589267287,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.10 Tampin,2,914,Chong Se Hock,SF,005-LPM,LPM,2,SF,873,22.523219814241486,2,lost
@@ -39,14 +39,14 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1959-05-20,SE-01,Negeri Sembilan,N.14 Si Rusa,1,922,Awaludin Bin Haji Ahmad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2359,68.4363214389324,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.14 Si Rusa,2,923,Chew Toh Seng,BEBAS,000-BEBAS,BEBAS,0,ALONE,493,14.302291847983753,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.14 Si Rusa,3,924,Mohd. Salleh Bin Haji Ahmad,PAS,004-PAS,PAS,0,ALONE,467,13.548012764722946,3,lost
-1959-05-20,SE-01,Negeri Sembilan,N.14 Si Rusa,4,925,Haji Mohd. Tahir Bin Dato' Bandar Abd. Rahman,NEG,007-NAP,NAP,0,ALONE,128,3.7133739483608936,4,lost_deposit
+1959-05-20,SE-01,Negeri Sembilan,N.14 Si Rusa,4,925,Haji Mohd. Tahir Bin Dato' Bandar Abd. Rahman,NEG,008-NEG,NEG,0,ALONE,128,3.7133739483608936,4,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.15 Pasir Panjang,1,926,M. Muthucumaru,PERIKATAN,002-MIC,MIC,1,PERIKATAN,1581,50.35031847133759,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.15 Pasir Panjang,2,304,Md. Nor Bin Abd. Hamid,BEBAS,000-BEBAS,BEBAS,0,ALONE,785,25.0,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.15 Pasir Panjang,3,927,Cheah Yen Kwee,BEBAS,000-BEBAS,BEBAS,0,ALONE,511,16.27388535031847,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.15 Pasir Panjang,4,928,Mohd. Marzuki Bin Haji Din,PAS,004-PAS,PAS,0,ALONE,263,8.375796178343949,4,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.16 Linggi,1,929,Dr. Mohamed Said,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1193,55.983106522759265,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.16 Linggi,2,930,Teh Seng Sum,BEBAS,000-BEBAS,BEBAS,0,ALONE,638,29.93899577663069,2,lost
-1959-05-20,SE-01,Negeri Sembilan,N.16 Linggi,3,931,Tengku Syed Harun Bin Tungku,NEG,007-NAP,NAP,0,ALONE,300,14.077897700610043,3,lost
+1959-05-20,SE-01,Negeri Sembilan,N.16 Linggi,3,931,Tengku Syed Harun Bin Tungku,NEG,008-NEG,NEG,0,ALONE,300,14.077897700610043,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.17 Kuala Klawang,1,932,Lim Kim Kee,PERIKATAN,003-MCA,MCA,1,PERIKATAN,3010,71.64960723637229,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.17 Kuala Klawang,2,933,Omar Bin Ahmad,PAS,004-PAS,PAS,0,ALONE,1191,28.350392763627706,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.18 Pertang,1,934,Aminuddin Bin Abdul Manaf,BEBAS,000-BEBAS,BEBAS,0,ALONE,1305,49.189596683000374,1,won
@@ -61,7 +61,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1959-05-20,SE-01,Negeri Sembilan,N.21 Jempol,1,942,Haji Mohamad Khatib Bin Mohamad Nor,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2758,81.3329401356532,1,won
 1959-05-20,SE-01,Negeri Sembilan,N.21 Jempol,2,943,Mustapha Bin Mohamad,PAS,004-PAS,PAS,0,ALONE,633,18.6670598643468,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,1,67,Abdul Jalil Bin Haji Aminudin,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2494,55.644801427933956,1,won
-1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,2,944,Mohd. Amin Bin Rashid,SF,010-PML,PML,2,SF,1112,24.810352521195895,2,lost
+1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,2,944,Mohd. Amin Bin Rashid,SF,009-PR,PR,2,SF,1112,24.810352521195895,2,lost
 1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,3,945,Ismail Bin Tamin,PAS,004-PAS,PAS,0,ALONE,842,18.786256135653726,3,lost
 1959-05-20,SE-01,Negeri Sembilan,N.22 Lenggeng,4,946,Joseph Siow Loong Hin,BEBAS,000-BEBAS,BEBAS,0,ALONE,34,0.7585899152164213,4,lost_deposit
 1959-05-20,SE-01,Negeri Sembilan,N.23 Labu,1,311,S. Sathappan,SF,005-LPM,LPM,2,SF,1888,55.99051008303677,1,won
@@ -72,82 +72,82 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1959-05-20,SE-01,Negeri Sembilan,N.24 Bukit Nanas,2,951,Kat Fye Hin,SF,005-LPM,LPM,2,SF,1796,48.56679286100595,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.01 Sri Menanti,1,891,A. Samad Bin Idris,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,4324,77.33857986049007,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.01 Sri Menanti,2,900,Abd. Majid Bin Abd. Wahab,PAS,004-PAS,PAS,0,ALONE,559,9.998211411196566,3,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.01 Sri Menanti,3,1180,Jaalam Bin Othman,SF,010-PML,PML,2,SF,708,12.66320872831336,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,1,1548,Anthony Lim Joo Hoa,PDB,019-SCA-SWK,SCA,0,ALONE,139,3.020425901781834,5,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.01 Sri Menanti,3,1180,Jaalam Bin Othman,SF,009-PR,PR,2,SF,708,12.66320872831336,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,1,1548,Anthony Lim Joo Hoa,PDB,016-UDP,UDP,0,ALONE,139,3.020425901781834,5,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,2,1549,H. Ondot Bin Jimak,PAS,004-PAS,PAS,0,ALONE,184,3.998261625380269,4,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,3,1550,Sapiah Binti Talib,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2535,55.08474576271186,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,4,1551,Harun Bin Mulop,BEBAS,000-BEBAS,BEBAS,0,ALONE,1084,23.554976097348977,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.02 Johol,5,1552,Tan Fot Lan,SF,005-LPM,LPM,2,SF,660,14.341590612777052,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.03 Ulu Muar,1,1553,Abd. Kadir Bin Abdullah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3396,66.94263749260793,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.03 Ulu Muar,2,1554,Sulaiman Bin Idris,PAS,004-PAS,PAS,0,ALONE,1211,23.871476443918784,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.03 Ulu Muar,3,943,Mustapha Bin Mohamad,PDB,019-SCA-SWK,SCA,0,ALONE,466,9.18588606347329,3,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.04 Pilah,1,1555,Chai Tak Han,PDB,019-SCA-SWK,SCA,0,ALONE,1620,31.231925968768078,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.03 Ulu Muar,3,943,Mustapha Bin Mohamad,PDB,016-UDP,UDP,0,ALONE,466,9.18588606347329,3,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.04 Pilah,1,1555,Chai Tak Han,PDB,016-UDP,UDP,0,ALONE,1620,31.231925968768078,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.04 Pilah,2,897,Ariffin Bin Ali,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3206,61.80836707152496,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.04 Pilah,3,66,Noordin Bin Abdul Samad,PAS,004-PAS,PAS,0,ALONE,361,6.95970695970696,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.05 Rantau,1,1556,C. Rajaratnam,SF,005-LPM,LPM,2,SF,1281,25.764279967819792,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.05 Rantau,2,1557,Ayakannu S/O Vallisamy,PERIKATAN,002-MIC,MIC,1,PERIKATAN,3226,64.88334674175383,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.05 Rantau,3,304,Mohd. Nor Bin Abdul Hamid,PDB,019-SCA-SWK,SCA,0,ALONE,465,9.352373290426389,3,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.05 Rantau,3,304,Mohd. Nor Bin Abdul Hamid,PDB,016-UDP,UDP,0,ALONE,465,9.352373290426389,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.06 Sungei Ujong,1,1558,Lam Teck Choon,PERIKATAN,003-MCA,MCA,1,PERIKATAN,4261,45.67477757530282,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.06 Sungei Ujong,2,1559,Lai Pong Yuen,PDB,019-SCA-SWK,SCA,0,ALONE,2319,24.85796977167971,3,lost
+1964-04-25,SE-02,Negeri Sembilan,N.06 Sungei Ujong,2,1559,Lai Pong Yuen,PDB,016-UDP,UDP,0,ALONE,2319,24.85796977167971,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.06 Sungei Ujong,3,925,Haji Md. Tahir Bin D. B. Abd. Rahman,BEBAS,000-BEBAS,BEBAS,0,ALONE,211,2.261764390609926,4,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.06 Sungei Ujong,4,1560,Yim Chee Chong,SF,005-LPM,LPM,2,SF,2538,27.205488262407545,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.07 Rahang,1,1561,Ong Ping Ling,PDB,019-SCA-SWK,SCA,0,ALONE,1368,18.150457741807084,3,lost
+1964-04-25,SE-02,Negeri Sembilan,N.07 Rahang,1,1561,Ong Ping Ling,PDB,016-UDP,UDP,0,ALONE,1368,18.150457741807084,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.07 Rahang,2,907,Han Hiu Fong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,3855,51.14767148732917,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.07 Rahang,3,1562,M. S. Maniam,SF,005-LPM,LPM,2,SF,2314,30.70187077086374,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,1,1563,Ahmad Fuad Bin Yusof,BEBAS,000-BEBAS,BEBAS,0,ALONE,649,16.936325678496868,3,lost
-1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,2,68,Baba Bin Ludek,PDB,019-SCA-SWK,SCA,0,ALONE,992,25.887265135699373,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,2,68,Baba Bin Ludek,PDB,016-UDP,UDP,0,ALONE,992,25.887265135699373,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,3,908,Siti Rahmah Binti Hj. Kassim,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1710,44.62421711899791,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,4,1564,Ab. Rahman Bin Hj. Mohammad,SF,010-PML,PML,2,SF,481,12.552192066805844,4,lost
-1964-04-25,SE-02,Negeri Sembilan,N.09 Kota,1,1565,Hj. Ab. Rahman Bin Hj. Ali,SF,010-PML,PML,2,SF,336,6.991260923845194,3,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.09 Kota,2,1566,Haji Mohd. Shariff Bin Hj. Harun,PDB,019-SCA-SWK,SCA,0,ALONE,1207,25.11444028297961,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.08 Terentang,4,1564,Ab. Rahman Bin Hj. Mohammad,SF,009-PR,PR,2,SF,481,12.552192066805844,4,lost
+1964-04-25,SE-02,Negeri Sembilan,N.09 Kota,1,1565,Hj. Ab. Rahman Bin Hj. Ali,SF,009-PR,PR,2,SF,336,6.991260923845194,3,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.09 Kota,2,1566,Haji Mohd. Shariff Bin Hj. Harun,PDB,016-UDP,UDP,0,ALONE,1207,25.11444028297961,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.09 Kota,3,912,Mohd. Yusof Bin Abdullah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3263,67.8942987931752,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.10 Tampin,1,1195,Dr. Sulaiman Bin Mohd. Attas,SF,010-PML,PML,2,SF,1687,30.336270454954146,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.10 Tampin,1,1195,Dr. Sulaiman Bin Mohd. Attas,SF,009-PR,PR,2,SF,1687,30.336270454954146,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.10 Tampin,2,913,Md. Taha Bin Abd. Talib,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3565,64.10717496853084,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.10 Tampin,3,1567,Othman Bin Lisut,BEBAS,000-BEBAS,BEBAS,0,ALONE,309,5.5565545765150155,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.11 Gemas,1,1568,Kwa Kim Poh,SF,005-LPM,LPM,2,SF,1303,33.57382118010822,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.11 Gemas,2,1569,Lim Heng Seng,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2578,66.42617881989177,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,1,927,Cheah Yen Kwee,PERIKATAN,003-MCA,MCA,1,PERIKATAN,1271,34.61328976034858,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,2,1570,O. Tara Singh,PDB,019-SCA-SWK,SCA,0,ALONE,168,4.57516339869281,5,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,2,1570,O. Tara Singh,PDB,016-UDP,UDP,0,ALONE,168,4.57516339869281,5,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,3,1571,Tan Cheng Kiat,BEBAS,000-BEBAS,BEBAS,0,ALONE,353,9.613289760348584,4,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,4,310,Chellappah Rasadurai,SF,005-LPM,LPM,2,SF,1008,27.450980392156865,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,5,920,Bahari Bin Awal,PKR,008-NEG,NEG,0,ALONE,872,23.74727668845316,3,lost
+1964-04-25,SE-02,Negeri Sembilan,N.12 Jimah,5,920,Bahari Bin Awal,PKR,006-PPP,PPP,0,ALONE,872,23.74727668845316,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.13 Lukut,1,1185,N. S. Devi,BEBAS,000-BEBAS,BEBAS,0,ALONE,313,16.37029288702929,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.13 Lukut,2,950,Lee Tee Siong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,1321,69.08995815899581,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.13 Lukut,3,1572,Yong On,BEBAS,000-BEBAS,BEBAS,0,ALONE,190,9.937238493723848,3,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.13 Lukut,4,1573,K. Thangaraju,PDB,019-SCA-SWK,SCA,0,ALONE,88,4.602510460251046,4,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.14 Si Rusa,1,1574,Yeoh Thian Sang,PKR,008-NEG,NEG,0,ALONE,1446,33.05898491083676,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.13 Lukut,4,1573,K. Thangaraju,PDB,016-UDP,UDP,0,ALONE,88,4.602510460251046,4,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.14 Si Rusa,1,1574,Yeoh Thian Sang,PKR,006-PPP,PPP,0,ALONE,1446,33.05898491083676,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.14 Si Rusa,2,922,Haji Awaluddin Bin Haji Ahmad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2490,56.92729766803841,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.14 Si Rusa,3,1575,Ismail Bin Tahat,PAS,004-PAS,PAS,0,ALONE,438,10.013717421124829,3,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.15 Pasir Panjang,1,1184,Ng Hup Chwee,PDB,019-SCA-SWK,SCA,0,ALONE,1041,27.916331456154463,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.15 Pasir Panjang,1,1184,Ng Hup Chwee,PDB,016-UDP,UDP,0,ALONE,1041,27.916331456154463,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.15 Pasir Panjang,2,1576,Haji Sulaiman Bin Jaalam,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1948,52.239206221507104,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.15 Pasir Panjang,3,1577,Mustapah Bin Taib,PAS,004-PAS,PAS,0,ALONE,740,19.84446232233843,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.16 Linggi,1,929,Dato' Dr. Mohamed Said Bin Mohamed,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1680,64.49136276391555,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.16 Linggi,2,1578,Ong Boon Hong,PDB,019-SCA-SWK,SCA,0,ALONE,925,35.50863723608445,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.17 Kuala Klawang,1,1579,Daud Bin Hj. Ahmad,SF,010-PML,PML,2,SF,1501,28.0875748502994,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.16 Linggi,2,1578,Ong Boon Hong,PDB,016-UDP,UDP,0,ALONE,925,35.50863723608445,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.17 Kuala Klawang,1,1579,Daud Bin Hj. Ahmad,SF,009-PR,PR,2,SF,1501,28.0875748502994,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.17 Kuala Klawang,2,932,Lim Kim Kee,PERIKATAN,003-MCA,MCA,1,PERIKATAN,3843,71.9124251497006,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,1,934,Aminuddin Bin Abdul Manaf,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2003,58.10850014505367,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,2,1580,Sulaiman Bin Mohd. Amin,SF,010-PML,PML,2,SF,629,18.247751668117203,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,3,1581,Abdul Aziz Bin Haji Ruslan,PDB,019-SCA-SWK,SCA,0,ALONE,254,7.368726428778648,4,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,2,1580,Sulaiman Bin Mohd. Amin,SF,009-PR,PR,2,SF,629,18.247751668117203,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,3,1581,Abdul Aziz Bin Haji Ruslan,PDB,016-UDP,UDP,0,ALONE,254,7.368726428778648,4,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.18 Pertang,4,1582,Ng Poh Loh @ Wu Pau Lu,BEBAS,000-BEBAS,BEBAS,0,ALONE,561,16.275021758050478,3,lost
 1964-04-25,SE-02,Negeri Sembilan,N.19 Bahau,1,1190,Tan Beng Soo,SF,005-LPM,LPM,2,SF,1576,34.47069116360455,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.19 Bahau,2,936,Thong Hiang Kim,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2890,63.21084864391951,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.19 Bahau,3,1583,Noordin Bin Kohat,PDB,019-SCA-SWK,SCA,0,ALONE,106,2.3184601924759405,3,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.19 Bahau,3,1583,Noordin Bin Kohat,PDB,016-UDP,UDP,0,ALONE,106,2.3184601924759405,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.20 Rompin,1,1584,Lee Wee Choy,SF,005-LPM,LPM,2,SF,1571,41.915688367129135,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.20 Rompin,2,1585,Tham Kin Sung,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2177,58.084311632870865,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,1,1586,M. Hashim Bin Abdullah,BEBAS,000-BEBAS,BEBAS,0,ALONE,468,11.890243902439025,2,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,2,1587,Ibrahim Bin H. Md. Sol,PDB,019-SCA-SWK,SCA,0,ALONE,83,2.108739837398374,5,lost_deposit
-1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,3,1588,Abas Bin Jasin,SF,010-PML,PML,2,SF,319,8.104674796747966,4,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,2,1587,Ibrahim Bin H. Md. Sol,PDB,016-UDP,UDP,0,ALONE,83,2.108739837398374,5,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,3,1588,Abas Bin Jasin,SF,009-PR,PR,2,SF,319,8.104674796747966,4,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,4,1589,Kamarudin Bin Dato' Ujang,PAS,004-PAS,PAS,0,ALONE,344,8.739837398373984,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.21 Jempol,5,942,Hj. Katib Bin Md. Nor,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2722,69.15650406504065,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.22 Lenggeng,1,1590,Zainal Abidin Bin Mohd. Lati,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3746,57.53340500691137,1,won
-1964-04-25,SE-02,Negeri Sembilan,N.22 Lenggeng,2,1591,Ibrahim Bin Baba,SF,010-PML,PML,2,SF,2213,33.988634618338196,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.22 Lenggeng,3,1592,Leong Yew Soong,PDB,019-SCA-SWK,SCA,0,ALONE,552,8.477960374750422,3,lost_deposit
+1964-04-25,SE-02,Negeri Sembilan,N.22 Lenggeng,2,1591,Ibrahim Bin Baba,SF,009-PR,PR,2,SF,2213,33.988634618338196,2,lost
+1964-04-25,SE-02,Negeri Sembilan,N.22 Lenggeng,3,1592,Leong Yew Soong,PDB,016-UDP,UDP,0,ALONE,552,8.477960374750422,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.23 Labu,1,1593,Abdul Razak Bin Haji Shamsuddin,BEBAS,000-BEBAS,BEBAS,0,ALONE,230,4.798664719382432,3,lost_deposit
 1964-04-25,SE-02,Negeri Sembilan,N.23 Labu,2,1594,Ahmad Bin Abd. Manap,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2791,58.23075318172335,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.23 Labu,3,901,P. Gurnam Singh Gill,SF,005-LPM,LPM,2,SF,1772,36.97058209889422,2,lost
 1964-04-25,SE-02,Negeri Sembilan,N.24 Bukit Nanas,1,1595,Woo Thong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,3660,48.425509394019585,1,won
 1964-04-25,SE-02,Negeri Sembilan,N.24 Bukit Nanas,2,1596,Ong Seong Sai,SF,005-LPM,LPM,2,SF,2257,29.862397459645408,2,lost
-1964-04-25,SE-02,Negeri Sembilan,N.24 Bukit Nanas,3,1597,Ng Lian Huat,PDB,019-SCA-SWK,SCA,0,ALONE,1641,21.71209314633501,3,lost
+1964-04-25,SE-02,Negeri Sembilan,N.24 Bukit Nanas,3,1597,Ng Lian Huat,PDB,016-UDP,UDP,0,ALONE,1641,21.71209314633501,3,lost
 1969-05-10,SE-03,Negeri Sembilan,N.01 Sri Menanti,1,2216,Mansor Bin Othman,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3450,67.46186937817755,1,won
 1969-05-10,SE-03,Negeri Sembilan,N.01 Sri Menanti,2,1845,Tunku Abdul Rahim Bin Tunku Muda Chik,PAS,004-PAS,PAS,0,ALONE,1664,32.53813062182245,2,lost
 1969-05-10,SE-03,Negeri Sembilan,N.02 Johol,1,1550,Sapiah Binti Talib,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2800,64.04391582799634,1,won
@@ -214,7 +214,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1969-05-10,SE-03,Negeri Sembilan,N.22 Lenggeng,3,2248,Tai @ Toh Antek Liat @ Andrew,PCMB,025-PCMB,PCMB,0,ALONE,254,4.128067609296279,3,lost_deposit
 1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,1,1594,Ahmad Bin Abdul Manaf,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2093,43.952120957580846,1,won
 1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,2,2249,Ponnusamy Ramakrishnan,DAP,021-DAP,DAP,0,ALONE,1729,36.308273834523305,2,lost
-1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,3,2250,Haji Salleh Bin Kassim,PR,010-PML,PML,0,ALONE,586,12.305753884922302,3,lost_deposit
+1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,3,2250,Haji Salleh Bin Kassim,PR,009-PR,PR,0,ALONE,586,12.305753884922302,3,lost_deposit
 1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,4,2251,Parmeswaran,BEBAS,000-BEBAS,BEBAS,0,ALONE,226,4.745905081898362,4,lost_deposit
 1969-05-10,SE-03,Negeri Sembilan,N.23 Labu,5,2252,Chen Ah Lek,PCMB,025-PCMB,PCMB,0,ALONE,128,2.6879462410751787,5,lost_deposit
 1969-05-10,SE-03,Negeri Sembilan,N.24 Bukit Nanas,1,1851,Sinnathamby Seeveratnam,DAP,021-DAP,DAP,0,ALONE,6336,75.87115315531075,1,won
@@ -234,7 +234,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,SE-04,Negeri Sembilan,N.05 Lenggeng,2,1560,Yim Chee Chong,PSRM,009-PSRM,PSRM,0,ALONE,1997,28.439191113642835,2,lost
 1974-08-24,SE-04,Negeri Sembilan,N.05 Lenggeng,3,3127,Haji Mohd. Sharif,DAP,021-DAP,DAP,0,ALONE,437,6.223298205639419,3,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.05 Lenggeng,4,3128,Mokhtar Bin Hitam,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,338,4.81344346340074,4,lost_deposit
-1974-08-24,SE-04,Negeri Sembilan,N.05 Lenggeng,5,3129,Jalaludin Bin Shamsudin,IPPP,031-KITA,KITA,0,ALONE,221,3.147251495300484,5,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.05 Lenggeng,5,3129,Jalaludin Bin Shamsudin,IPPP,032-IPPP,IPPP,0,ALONE,221,3.147251495300484,5,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.06 Pantai,1,3130,Khatimah Binti Haji Ibrahim,BN,001-UMNO,UMNO,3,BN,3082,72.21180880974696,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.06 Pantai,2,3131,P. Balakrishnan,DAP,021-DAP,DAP,0,ALONE,957,22.422680412371136,2,lost
 1974-08-24,SE-04,Negeri Sembilan,N.06 Pantai,3,3132,Chok Ping,PSRM,009-PSRM,PSRM,0,ALONE,229,5.365510777881912,3,lost_deposit
@@ -246,7 +246,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,SE-04,Negeri Sembilan,N.08 Rantau,1,902,Sheikh Md. Hamid Bin Mohd. Said,BN,001-UMNO,UMNO,3,BN,2273,62.39363162228933,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.08 Rantau,2,1682,K. Raman,DAP,021-DAP,DAP,0,ALONE,1030,28.273401043096346,2,lost
 1974-08-24,SE-04,Negeri Sembilan,N.08 Rantau,3,3138,Mair Karistan @ Krishnan A/L M. Appu,PSRM,009-PSRM,PSRM,0,ALONE,246,6.752676365632721,3,lost_deposit
-1974-08-24,SE-04,Negeri Sembilan,N.08 Rantau,4,3139,V. Sinnathamby,IPPP,031-KITA,KITA,0,ALONE,94,2.5802909689816085,4,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.08 Rantau,4,3139,V. Sinnathamby,IPPP,032-IPPP,IPPP,0,ALONE,94,2.5802909689816085,4,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.09 Rasah,1,3140,John Fernandez,DAP,021-DAP,DAP,0,ALONE,3909,59.32614964334497,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.09 Rasah,2,1595,Woo Thong,BN,003-MCA,MCA,3,BN,2680,40.67385035665503,2,lost
 1974-08-24,SE-04,Negeri Sembilan,N.10 Rahang,1,1846,Dr Chen Man Hin,DAP,021-DAP,DAP,0,ALONE,6210,64.22587651256593,1,won
@@ -263,17 +263,17 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,SE-04,Negeri Sembilan,N.16 Johol,1,3147,Hamzah Bin Yatim,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,SE-04,Negeri Sembilan,N.17 Jimah,1,3148,Yap Ah Peng @ Yap Aun Ping,BN,003-MCA,MCA,3,BN,2971,53.49297803384948,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.17 Jimah,2,1842,Oh Keng Seng,DAP,021-DAP,DAP,0,ALONE,2178,39.21498019445445,2,lost
-1974-08-24,SE-04,Negeri Sembilan,N.17 Jimah,3,3149,Yap Kat Boon,IPPP,031-KITA,KITA,0,ALONE,315,5.671588044652503,3,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.17 Jimah,3,3149,Yap Kat Boon,IPPP,032-IPPP,IPPP,0,ALONE,315,5.671588044652503,3,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.17 Jimah,4,3150,A. S. Maniam,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,90,1.620453727043572,4,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.18 Si Rusa,1,3151,A. Ponniah,BN,002-MIC,MIC,3,BN,3083,56.10555050045496,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.18 Si Rusa,2,3152,Leong Che Ho,DAP,021-DAP,DAP,0,ALONE,1794,32.64786169244768,2,lost
-1974-08-24,SE-04,Negeri Sembilan,N.18 Si Rusa,3,2665,J. Nadchatiram,IPPP,031-KITA,KITA,0,ALONE,618,11.246587807097361,3,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.18 Si Rusa,3,2665,J. Nadchatiram,IPPP,032-IPPP,IPPP,0,ALONE,618,11.246587807097361,3,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.19 Pasir Panjang,1,3153,Azhari Bin Hamzah,BN,004-PAS,PAS,3,BN,2917,71.12899292855401,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.19 Pasir Panjang,2,3154,Abdul Latif Bin Hjai Ahmad,DAP,021-DAP,DAP,0,ALONE,794,19.361131431358206,2,lost
-1974-08-24,SE-04,Negeri Sembilan,N.19 Pasir Panjang,3,3155,Lim Yeow Kong,IPPP,031-KITA,KITA,0,ALONE,390,9.509875640087785,3,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.19 Pasir Panjang,3,3155,Lim Yeow Kong,IPPP,032-IPPP,IPPP,0,ALONE,390,9.509875640087785,3,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.20 Linggi,1,2234,Samad Bin Said,BN,001-UMNO,UMNO,3,BN,3678,71.59820907144248,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.20 Linggi,2,3156,Retna Ghandi,DAP,021-DAP,DAP,0,ALONE,1312,25.540198559470507,2,lost
-1974-08-24,SE-04,Negeri Sembilan,N.20 Linggi,3,3157,Sulaiman Bin Zainal,IPPP,031-KITA,KITA,0,ALONE,147,2.861592369087016,3,lost_deposit
+1974-08-24,SE-04,Negeri Sembilan,N.20 Linggi,3,3157,Sulaiman Bin Zainal,IPPP,032-IPPP,IPPP,0,ALONE,147,2.861592369087016,3,lost_deposit
 1974-08-24,SE-04,Negeri Sembilan,N.21 Kota,1,2226,Dahalan Bin Aman,BN,001-UMNO,UMNO,3,BN,4508,77.31092436974791,1,won
 1974-08-24,SE-04,Negeri Sembilan,N.21 Kota,2,3158,Shamsudin Bin Dewa,BEBAS,000-BEBAS,BEBAS,0,ALONE,1323,22.689075630252102,2,lost
 1974-08-24,SE-04,Negeri Sembilan,N.22 Gemencheh,1,913,Md. Taha Bin Abd. Talib,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
@@ -455,7 +455,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,SE-07,Negeri Sembilan,N.24 Rantau,2,5589,Palanisamy A/L Subramaniam,DAP,021-DAP,DAP,0,ALONE,1825,25.62122701109083,2,lost
 1986-08-02,SE-07,Negeri Sembilan,N.24 Rantau,3,4651,Muthuppalaniappan @ Mani A/L Muthuraman Chettiar,BN,002-MIC,MIC,3,BN,3733,52.407693387617584,1,won
 1986-08-02,SE-07,Negeri Sembilan,N.25 Chembong,1,5590,Mahzan Bin Hamzah,BN,001-UMNO,UMNO,3,BN,4982,85.58666895722385,1,won
-1986-08-02,SE-07,Negeri Sembilan,N.25 Chembong,2,5591,Salam Bin Yunos,NASMA,053-MOMOGUN,MOMOGUN,18,HAK,227,3.8996735956021302,3,lost_deposit
+1986-08-02,SE-07,Negeri Sembilan,N.25 Chembong,2,5591,Salam Bin Yunos,NASMA,055-NASMA,NASMA,18,HAK,227,3.8996735956021302,3,lost_deposit
 1986-08-02,SE-07,Negeri Sembilan,N.25 Chembong,3,5592,Haji Zakaria Bin Haji Abu Hassan,BEBAS,000-BEBAS,BEBAS,0,ALONE,612,10.513657447174026,2,lost_deposit
 1986-08-02,SE-07,Negeri Sembilan,N.26 Linggi,1,3897,Mohd. Isa Bin Abdul Samad,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1986-08-02,SE-07,Negeri Sembilan,N.27 Si Rusa,1,5593,Krishnan @ Krishnasamy A/L Muthurajoo,BN,002-MIC,MIC,3,BN,4704,57.40785940932389,1,won
@@ -464,48 +464,48 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,SE-08,Negeri Sembilan,N.01 Peradong,1,6300,Siow Mei Shin,BN,003-MCA,MCA,3,BN,2458,43.90853876384423,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.01 Peradong,2,6301,Lai Teo Kuan,DAP,021-DAP,DAP,5,GR,3140,56.09146123615577,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.02 Klawang,1,5558,Dato' Haji Shamsul Bahari Bin Mat,BN,001-UMNO,UMNO,3,BN,3056,56.813534114147615,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.02 Klawang,2,6302,Ibrahim Bin Che Mat,S46,009-PRM,PRM,4,APU,2323,43.186465885852385,2,lost
-1990-10-20,SE-08,Negeri Sembilan,N.03 Pertang,1,4635,Abd. Kadir Bin Kassim,S46,009-PRM,PRM,4,APU,3322,49.19295128091219,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.02 Klawang,2,6302,Ibrahim Bin Che Mat,S46,062-S46,S46,4,APU,2323,43.186465885852385,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.03 Pertang,1,4635,Abd. Kadir Bin Kassim,S46,062-S46,S46,4,APU,3322,49.19295128091219,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.03 Pertang,2,6303,Hj. Sharif Wahid,BN,001-UMNO,UMNO,3,BN,3431,50.80704871908781,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.04 Sungai Lui,1,5560,Abdul Muhi Bin Abd. Wahab,S46,009-PRM,PRM,4,APU,2946,36.3076164653685,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.04 Sungai Lui,1,5560,Abdul Muhi Bin Abd. Wahab,S46,062-S46,S46,4,APU,2946,36.3076164653685,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.04 Sungai Lui,2,6304,Anuar Bin Rashidin,BN,001-UMNO,UMNO,3,BN,5168,63.6923835346315,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.05 Serting,1,5561,Ibrahim Bin Haji Ali,BN,001-UMNO,UMNO,3,BN,6178,70.0294717751077,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.05 Serting,2,6305,Zainal Bin Maarof,S46,009-PRM,PRM,4,APU,2644,29.970528224892313,2,lost
-1990-10-20,SE-08,Negeri Sembilan,N.06 Batu Kikir,1,2658,Dato' Rais Yatim,S46,009-PRM,PRM,4,APU,1833,37.33197556008147,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.05 Serting,2,6305,Zainal Bin Maarof,S46,062-S46,S46,4,APU,2644,29.970528224892313,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.06 Batu Kikir,1,2658,Dato' Rais Yatim,S46,062-S46,S46,4,APU,1833,37.33197556008147,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.06 Batu Kikir,2,5563,Lilah Bin Hj Yasin,BN,001-UMNO,UMNO,3,BN,3077,62.66802443991853,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.07 Bahau,1,5585,Wong Zee Nyok,DAP,021-DAP,DAP,5,GR,5092,57.647458394656404,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.07 Bahau,2,5564,Chong Chi Siong,BN,003-MCA,MCA,3,BN,3741,42.352541605343596,2,lost
-1990-10-20,SE-08,Negeri Sembilan,N.08 Palong,1,6306,Mohd Sani Bin Hussin,S46,009-PRM,PRM,4,APU,2522,21.478453415091124,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.08 Palong,1,6306,Mohd Sani Bin Hussin,S46,062-S46,S46,4,APU,2522,21.478453415091124,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.08 Palong,2,5566,Baharudin Hj. Hassan,BN,001-UMNO,UMNO,3,BN,9220,78.52154658490888,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.09 Gemas,1,5569,Haji Baharudin B. Leman,PAS,004-PAS,PAS,4,APU,1672,18.90547263681592,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.09 Gemas,2,5568,Mohamad Yassin Bin Bakar,BN,001-UMNO,UMNO,3,BN,7172,81.09452736318407,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.10 Gemencheh,1,4656,Waad Bin Haji Mansor,BN,001-UMNO,UMNO,3,BN,6239,70.32236248872859,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.10 Gemencheh,2,6307,Hamzah Bin Hj. Maarof,S46,009-PRM,PRM,4,APU,2633,29.677637511271413,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.10 Gemencheh,2,6307,Hamzah Bin Hj. Maarof,S46,062-S46,S46,4,APU,2633,29.677637511271413,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.11 Repah,1,5571,Lay Chun Tai,BN,003-MCA,MCA,3,BN,4410,61.45484949832776,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.11 Repah,2,5583,Abd. Malek Bin Aman,DAP,021-DAP,DAP,5,GR,2390,33.30546265328874,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.11 Repah,3,6308,Mej. (B) Mokhtar Bin Hj. Sariat,BEBAS,000-BEBAS,BEBAS,0,ALONE,376,5.2396878483835,3,lost_deposit
 1990-10-20,SE-08,Negeri Sembilan,N.12 Kota,1,3158,Shamsudin Dewa,PAS,004-PAS,PAS,4,APU,717,10.73674752920036,2,lost_deposit
 1990-10-20,SE-08,Negeri Sembilan,N.12 Kota,2,5572,Ahmad Apandi Bin Johan,BN,001-UMNO,UMNO,3,BN,5961,89.26325247079964,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.13 Juasseh,1,5574,Haji Mohamad Bin Haji Ahmad,BN,001-UMNO,UMNO,3,BN,5145,80.12770596480298,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.13 Juasseh,2,6309,Baharin Abdullah,S46,009-PRM,PRM,4,APU,1276,19.87229403519701,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.13 Juasseh,2,6309,Baharin Abdullah,S46,062-S46,S46,4,APU,1276,19.87229403519701,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.14 Johol,1,5577,Darus Salim Bin Bulin,BN,001-UMNO,UMNO,3,BN,4041,69.7566027964785,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.14 Johol,2,6310,Hj. Omar Bin Hj. Othman,S46,009-PRM,PRM,4,APU,1752,30.243397203521493,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.14 Johol,2,6310,Hj. Omar Bin Hj. Othman,S46,062-S46,S46,4,APU,1752,30.243397203521493,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.15 Pilah,1,5580,Hj. Abu Zahar Bin Dato' Nika Ujang,BN,001-UMNO,UMNO,3,BN,6135,67.49174917491749,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.15 Pilah,2,6311,Abu Samah Bin Katas,S46,009-PRM,PRM,4,APU,2955,32.508250825082506,2,lost
-1990-10-20,SE-08,Negeri Sembilan,N.16 Seri Menanti,1,6312,Aspan Bin Alias,S46,009-PRM,PRM,4,APU,1402,25.486275222686782,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.15 Pilah,2,6311,Abu Samah Bin Katas,S46,062-S46,S46,4,APU,2955,32.508250825082506,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.16 Seri Menanti,1,6312,Aspan Bin Alias,S46,062-S46,S46,4,APU,1402,25.486275222686782,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.16 Seri Menanti,2,4648,Ustaz Mohamed Noh Muharam,PAS,004-PAS,PAS,4,APU,156,2.83584802763134,3,lost_deposit
 1990-10-20,SE-08,Negeri Sembilan,N.16 Seri Menanti,3,6313,Mohd Mokhtar Bin Mohd Yasin,BN,001-UMNO,UMNO,3,BN,3943,71.67787674968189,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.17 Lenggeng,1,5582,Hon Choon Kim,BN,003-MCA,MCA,3,BN,7099,58.28885787010428,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.17 Lenggeng,2,3136,Chen Hung Chong,DAP,021-DAP,DAP,5,GR,4662,38.279004844404305,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.17 Lenggeng,3,2662,Ajus Bin Jais,BEBAS,000-BEBAS,BEBAS,0,ALONE,418,3.43213728549142,3,lost_deposit
-1990-10-20,SE-08,Negeri Sembilan,N.18 Ampangan,1,6314,Harun Bin Ayat,S46,009-PRM,PRM,4,APU,4747,39.26060706310479,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.18 Ampangan,1,6314,Harun Bin Ayat,S46,062-S46,S46,4,APU,4747,39.26060706310479,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.18 Ampangan,2,6315,Puan Dermataksiah Bt Abdul Jalil,BN,001-UMNO,UMNO,3,BN,7344,60.73939293689521,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.19 Rahang,1,6316,Dr S. Vijayaratnam,BN,026-GERAKAN,GERAKAN,3,BN,3739,25.261806634686845,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.19 Rahang,2,4657,Lee Yuen Fong,DAP,021-DAP,DAP,5,GR,11062,74.73819336531315,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,1,6317,Goh Siow Huat,BN,003-MCA,MCA,3,BN,8023,54.28648758373368,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,2,6318,Lim Fui Ming,DAP,021-DAP,DAP,5,GR,5480,37.07964002977198,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.20 Sungai Ujong,3,6319,Cikgu Rahmad Binn Abd. Ja;I;,PAS,004-PAS,PAS,4,APU,1276,8.63387238649435,3,lost_deposit
-1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,1,6320,Harun Bin Selatan,S46,009-PRM,PRM,4,APU,2679,30.52991452991453,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,1,6320,Harun Bin Selatan,S46,062-S46,S46,4,APU,2679,30.52991452991453,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.21 Labu,2,6321,Sahardin Bin Hashim,BN,001-UMNO,UMNO,3,BN,6096,69.47008547008548,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.22 Mambau,1,5586,Lee Kong Fee,BN,003-MCA,MCA,3,BN,9427,45.84224858976852,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.22 Mambau,2,6322,Chan Kok Wah,DAP,021-DAP,DAP,5,GR,11137,54.15775141023147,1,won
@@ -513,40 +513,40 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,SE-08,Negeri Sembilan,N.23 Jimah,2,3161,Hu Sepang,DAP,021-DAP,DAP,5,GR,4373,39.54960658406439,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.24 Rantau,1,4651,Dato' Muthuppalaniappan,BN,001-UMNO,UMNO,3,BN,4849,58.7543923421786,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.24 Rantau,2,6323,P. Marimuthu,DAP,021-DAP,DAP,5,GR,3404,41.245607657821395,2,lost
-1990-10-20,SE-08,Negeri Sembilan,N.25 Chembong,1,6324,Ahmad B Yusof,S46,009-PRM,PRM,4,APU,1238,19.128553770086526,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.25 Chembong,1,6324,Ahmad B Yusof,S46,062-S46,S46,4,APU,1238,19.128553770086526,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.25 Chembong,2,5590,Mahzan Bin Hamzah,BN,001-UMNO,UMNO,3,BN,5234,80.87144622991347,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.26 Linggi,1,3897,Dato' Mohd Isa Bin Dato' Abd Samad,BN,001-UMNO,UMNO,3,BN,5447,80.60076945841965,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.26 Linggi,2,6325,Hj. Jorji Harun,S46,009-PRM,PRM,4,APU,1311,19.399230541580348,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.26 Linggi,2,6325,Hj. Jorji Harun,S46,062-S46,S46,4,APU,1311,19.399230541580348,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.27 Si Rusa,1,5156,Khoo Seng Hock,DAP,021-DAP,DAP,5,GR,4318,48.88486357975773,2,lost
 1990-10-20,SE-08,Negeri Sembilan,N.27 Si Rusa,2,5593,M.Krishnasamy,BN,002-MIC,MIC,3,BN,4515,51.115136420242266,1,won
 1990-10-20,SE-08,Negeri Sembilan,N.28 Pasir Panjang,1,5594,Mustapa Bin Manap,BN,001-UMNO,UMNO,3,BN,7343,79.0675137288683,1,won
-1990-10-20,SE-08,Negeri Sembilan,N.28 Pasir Panjang,2,6326,Abdul Rahim B Abd. Rahman,S46,009-PRM,PRM,4,APU,1944,20.93248627113169,2,lost
+1990-10-20,SE-08,Negeri Sembilan,N.28 Pasir Panjang,2,6326,Abdul Rahim B Abd. Rahman,S46,062-S46,S46,4,APU,1944,20.93248627113169,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.01 Chennah,1,7080,Lim Yong @ Lim Chen,BN,003-MCA,MCA,3,BN,3818,55.34937663090751,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.01 Chennah,2,7081,Siow Chee Chin,DAP,021-DAP,DAP,5,GR,3080,44.65062336909249,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.02 Klawang,1,5558,Shanmsul Bahari @ Ramli Bin Mat,BN,001-UMNO,UMNO,3,BN,3757,60.08316008316008,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.02 Klawang,2,3874,Abdul Hamid Bin Tinggal,BEBAS,000-BEBAS,BEBAS,0,ALONE,72,1.151447305293459,3,lost_deposit
-1995-04-24,SE-09,Negeri Sembilan,N.02 Klawang,3,6302,Ibrahim Bin Che' Mat,S46,009-PRM,PRM,4,APU,2424,38.76539261154646,2,lost
-1995-04-24,SE-09,Negeri Sembilan,N.03 Pertang,1,4635,Abd Kadir Bin Kassim,S46,009-PRM,PRM,4,APU,3011,40.78840422649688,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.02 Klawang,3,6302,Ibrahim Bin Che' Mat,S46,062-S46,S46,4,APU,2424,38.76539261154646,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.03 Pertang,1,4635,Abd Kadir Bin Kassim,S46,062-S46,S46,4,APU,3011,40.78840422649688,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.03 Pertang,2,7082,Razak Bin Mansor,BN,001-UMNO,UMNO,3,BN,4371,59.21159577350311,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.04 Sungai Lui,1,6304,Anuar Bin Rasidin @ Rashidin,BN,001-UMNO,UMNO,3,BN,4655,77.9601406799531,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.04 Sungai Lui,2,7083,Abu Zarin Bin Alias,S46,009-PRM,PRM,4,APU,1316,22.039859320046894,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.04 Sungai Lui,2,7083,Abu Zarin Bin Alias,S46,062-S46,S46,4,APU,1316,22.039859320046894,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.05 Serting,1,5563,Lilah Bin Yasin,BN,001-UMNO,UMNO,3,BN,7133,84.0560923874617,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.05 Serting,2,7084,Zakaria Bin Abd. Rahman,S46,009-PRM,PRM,4,APU,1353,15.9439076125383,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.05 Serting,2,7084,Zakaria Bin Abd. Rahman,S46,062-S46,S46,4,APU,1353,15.9439076125383,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.06 Bahau,1,7085,See Ah Kow,BN,003-MCA,MCA,3,BN,5644,56.03097389059863,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.06 Bahau,2,7086,Abdul Rashid Bin Abas,BEBAS,000-BEBAS,BEBAS,0,ALONE,508,5.043184751315398,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.06 Bahau,3,3875,Loo Ah Man @ Loh Ming Chai,BEBAS,000-BEBAS,BEBAS,0,ALONE,66,0.6552169165094808,4,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.06 Bahau,4,6318,Lim Fui Ming,DAP,021-DAP,DAP,5,GR,3855,38.27062444157649,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.07 Jeram Padang,1,7087,Ramakrishnan A/L P. Parianan,DAP,021-DAP,DAP,5,GR,578,8.386535113174695,3,lost_deposit
-1995-04-24,SE-09,Negeri Sembilan,N.07 Jeram Padang,2,7088,Mohammed Zain Bin Yaacob,S46,009-PRM,PRM,4,APU,762,11.05629715612304,2,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.07 Jeram Padang,2,7088,Mohammed Zain Bin Yaacob,S46,062-S46,S46,4,APU,762,11.05629715612304,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.07 Jeram Padang,3,7089,Sundram Nagendaran A/L Muthaya,BN,002-MIC,MIC,3,BN,5552,80.55716773070226,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.08 Palong,1,7090,Ramli Bin Md Nor,S46,009-PRM,PRM,4,APU,998,11.427917096072369,2,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.08 Palong,1,7090,Ramli Bin Md Nor,S46,062-S46,S46,4,APU,998,11.427917096072369,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.08 Palong,2,7091,Ghazalli Bin Khamis,PAS,004-PAS,PAS,4,APU,337,3.858925913202794,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.08 Palong,3,7092,Kamaruddin Bin Mohd Din,BN,001-UMNO,UMNO,3,BN,7398,84.71315699072484,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.09 Gemas,1,5568,Mohd Yassin Bin Bakar,BN,001-UMNO,UMNO,3,BN,5661,73.7109375,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.09 Gemas,2,7093,Mohd Noah Bin Talib,PAS,004-PAS,PAS,4,APU,2019,26.2890625,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.10 Gemencheh,1,7094,Zolkapli Bin Kassim,BEBAS,000-BEBAS,BEBAS,0,ALONE,863,10.015086457003598,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.10 Gemencheh,2,4656,Waad Bin Haji Mansor,BN,001-UMNO,UMNO,3,BN,6477,75.16537077869329,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.10 Gemencheh,3,6258,Haji Baharuddin Arif Bin Haji Siri,S46,009-PRM,PRM,4,APU,1277,14.819542764303122,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.10 Gemencheh,3,6258,Haji Baharuddin Arif Bin Haji Siri,S46,062-S46,S46,4,APU,1277,14.819542764303122,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.11 Repah,1,7095,Aminuddin Bin Abdullah,PAS,004-PAS,PAS,4,APU,309,3.901022598156798,4,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.11 Repah,2,7096,Lai Kui,DAP,021-DAP,DAP,5,GR,1978,24.97159449564449,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.11 Repah,3,5571,Lay Chun Tai @ Loy Chee Tai,BN,003-MCA,MCA,3,BN,4769,60.20704456508017,1,won
@@ -554,28 +554,28 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,SE-09,Negeri Sembilan,N.12 Kota,1,7097,Baharudin Bin Ali,PAS,004-PAS,PAS,4,APU,795,11.809269162210338,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.12 Kota,2,5572,Ahmad Apindi Bin Johan,BN,001-UMNO,UMNO,3,BN,5937,88.19073083778967,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.13 Juasseh,1,7098,Hasan Bin Malek,BN,001-UMNO,UMNO,3,BN,4979,87.85953767425445,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.13 Juasseh,2,7099,Mat Rais Bin Paris,S46,009-PRM,PRM,4,APU,688,12.140462325745546,2,lost_deposit
-1995-04-24,SE-09,Negeri Sembilan,N.14 Senaling,1,6311,Abu Samah Bin Katas,S46,009-PRM,PRM,4,APU,936,18.33496571988247,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.13 Juasseh,2,7099,Mat Rais Bin Paris,S46,062-S46,S46,4,APU,688,12.140462325745546,2,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.14 Senaling,1,6311,Abu Samah Bin Katas,S46,062-S46,S46,4,APU,936,18.33496571988247,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.14 Senaling,2,7100,Zainal Mokhtar Bin Mohd Yunus,BN,001-UMNO,UMNO,3,BN,4169,81.66503428011754,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.15 Johol,1,5577,Darus Salim Bin Bulin,BN,001-UMNO,UMNO,3,BN,4307,73.9780144280316,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.15 Johol,2,7101,Sued Bin Husin,S46,009-PRM,PRM,4,APU,256,4.397114393679148,3,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.15 Johol,2,7101,Sued Bin Husin,S46,062-S46,S46,4,APU,256,4.397114393679148,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.15 Johol,3,5576,Rameli Bin Dahalan,BEBAS,000-BEBAS,BEBAS,0,ALONE,1259,21.624871178289247,2,lost
-1995-04-24,SE-09,Negeri Sembilan,N.16 Pilah,1,7102,Azizuddin Bin Ishak,S46,009-PRM,PRM,4,APU,1178,17.060101375814625,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.16 Pilah,1,7102,Azizuddin Bin Ishak,S46,062-S46,S46,4,APU,1178,17.060101375814625,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.16 Pilah,2,4261,Napsiah Binti Omar,BN,001-UMNO,UMNO,3,BN,5727,82.93989862418537,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.17 Seri Menanti,1,7103,Hashimuddin Bin Abdul Kadir,BN,001-UMNO,UMNO,3,BN,4625,88.80568356374809,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.17 Seri Menanti,2,7104,Tengku Adinan Bin Tengku Hassan,S46,009-PRM,PRM,4,APU,583,11.19431643625192,2,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.17 Seri Menanti,2,7104,Tengku Adinan Bin Tengku Hassan,S46,062-S46,S46,4,APU,583,11.19431643625192,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.18 Nilai,1,7105,Lai Yit Fee,BN,003-MCA,MCA,3,BN,6336,68.48989298454221,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.18 Nilai,2,5585,Wong Yauk @ Wong Zee Nyok,DAP,021-DAP,DAP,5,GR,2915,31.510107015457788,2,lost
-1995-04-24,SE-09,Negeri Sembilan,N.19 Lenggeng,1,7106,Mohd Ali Bin Alias,S46,009-PRM,PRM,4,APU,893,13.280785246876858,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.19 Lenggeng,1,7106,Mohd Ali Bin Alias,S46,062-S46,S46,4,APU,893,13.280785246876858,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.19 Lenggeng,2,7107,Ishak Bin Ismail,BN,001-UMNO,UMNO,3,BN,5831,86.71921475312314,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.20 Senawang,1,6310,Omar Bin Othman,S46,009-PRM,PRM,4,APU,2534,19.69532100108814,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.20 Senawang,1,6310,Omar Bin Othman,S46,062-S46,S46,4,APU,2534,19.69532100108814,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.20 Senawang,2,5570,Woo Ah Lek @ Woo Siak Chee,BN,026-GERAKAN,GERAKAN,3,BN,10332,80.30467899891185,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.21 Ampangan,1,7108,Ghazalli Bin Abdul Kadir,PAS,004-PAS,PAS,4,APU,2026,17.48511262621904,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.21 Ampangan,2,6315,Dermata'Siah Binti Abdul Jalil,BN,001-UMNO,UMNO,3,BN,9561,82.51488737378097,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.22 Lobak,1,5156,Khoo Seng Hock,DAP,021-DAP,DAP,5,GR,6127,52.493145990404386,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.22 Lobak,2,7109,Wong Bee Kar,BN,003-MCA,MCA,3,BN,5545,47.506854009595614,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.23 Labu,1,7110,Muhamad Shahlan Bin Shaid,BN,001-UMNO,UMNO,3,BN,6075,87.0718073670632,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.23 Labu,2,5588,Hj Othman Bin Hj Abdullah,S46,009-PRM,PRM,4,APU,902,12.928192632936792,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.23 Labu,2,5588,Hj Othman Bin Hj Abdullah,S46,062-S46,S46,4,APU,902,12.928192632936792,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.24 Temiang,1,7111,Ho Yok Kee,BN,003-MCA,MCA,3,BN,5472,46.921625793174414,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.24 Temiang,2,4657,Lee Yuen Fong,DAP,021-DAP,DAP,5,GR,6190,53.078374206825586,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.25 Rahang,1,7112,Gunasekaren A/L Palasamy,DAP,021-DAP,DAP,5,GR,3872,37.27736593819197,2,lost
@@ -583,22 +583,22 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,SE-09,Negeri Sembilan,N.26 Mambau,1,7113,Lee Chee Keong,BN,003-MCA,MCA,3,BN,7200,54.12313012102533,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.26 Mambau,2,6322,Chan Kok Wa,DAP,021-DAP,DAP,5,GR,6103,45.87686987897467,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.27 Rantau,1,7114,Hamdan Bin Mohamad,BN,001-UMNO,UMNO,3,BN,7631,82.63129399025446,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.27 Rantau,2,7115,Sukiman Bin Tukimin,S46,009-PRM,PRM,4,APU,1604,17.368706009745534,2,lost
+1995-04-24,SE-09,Negeri Sembilan,N.27 Rantau,2,7115,Sukiman Bin Tukimin,S46,062-S46,S46,4,APU,1604,17.368706009745534,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.28 Chembong,1,7116,Abdul Wahab Bin Ismail,BEBAS,000-BEBAS,BEBAS,0,ALONE,446,6.565582216988076,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.28 Chembong,2,7117,Firdaus Muhammad Rom Bin Harun,BN,001-UMNO,UMNO,3,BN,6347,93.43441778301192,1,won
-1995-04-24,SE-09,Negeri Sembilan,N.29 Linggi,1,7118,Mohd Nordin Bin Ahmad,S46,009-PRM,PRM,4,APU,483,6.22663400799278,2,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.29 Linggi,1,7118,Mohd Nordin Bin Ahmad,S46,062-S46,S46,4,APU,483,6.22663400799278,2,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.29 Linggi,2,3897,Mohd Isa Bin Abdul Samad,BN,001-UMNO,UMNO,3,BN,6807,87.75299729276782,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.29 Linggi,3,5594,Mustapa Bin Manap,BEBAS,000-BEBAS,BEBAS,0,ALONE,467,6.0203686992393965,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.30 Pasir Panjang,1,7119,Sainy Bin Edris,BN,001-UMNO,UMNO,3,BN,7573,87.48844731977819,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.30 Pasir Panjang,2,7120,Muhammed Bin Nabun,BEBAS,000-BEBAS,BEBAS,0,ALONE,658,7.6016635859519415,2,lost_deposit
-1995-04-24,SE-09,Negeri Sembilan,N.30 Pasir Panjang,3,7121,Faisal Bin Hj. Ahmad,S46,009-PRM,PRM,4,APU,425,4.90988909426987,3,lost_deposit
+1995-04-24,SE-09,Negeri Sembilan,N.30 Pasir Panjang,3,7121,Faisal Bin Hj. Ahmad,S46,062-S46,S46,4,APU,425,4.90988909426987,3,lost_deposit
 1995-04-24,SE-09,Negeri Sembilan,N.31 Si Rusa,1,7122,Krishnan A/L Sellappan,BN,002-MIC,MIC,3,BN,5703,69.21956548124773,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.31 Si Rusa,2,7123,Lim Seng Chuan,DAP,021-DAP,DAP,5,GR,2536,30.780434518752276,2,lost
 1995-04-24,SE-09,Negeri Sembilan,N.32 Lukut,1,5587,Dr. Yeow Chai Thiam,BN,003-MCA,MCA,3,BN,8926,67.54445705637534,1,won
 1995-04-24,SE-09,Negeri Sembilan,N.32 Lukut,2,3136,Chen Hun Chong,DAP,021-DAP,DAP,5,GR,4289,32.45554294362467,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.01 Chennah,1,7862,Siow Yoke Kim,DAP,021-DAP,DAP,6,BA,2868,42.114537444933916,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.01 Chennah,2,7080,Lim Yong,BN,003-MCA,MCA,3,BN,3942,57.885462555066084,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.02 Klawang,1,7863,Bohari Bin Abd. Latif,PKR,073-MDP,MDP,6,BA,2976,49.42700548081714,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.02 Klawang,1,7863,Bohari Bin Abd. Latif,PKR,075-PKN,PKN,6,BA,2976,49.42700548081714,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.02 Klawang,2,5558,Dato' Hj. Shamsul Bahari Bin Mat,BN,001-UMNO,UMNO,3,BN,3045,50.572994519182856,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.03 Pertang,1,7082,Razak Bin Mansor,BN,001-UMNO,UMNO,3,BN,5230,67.63222552696236,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.03 Pertang,2,7864,Abu Bakar Bin Muhd. Yusoff,PAS,004-PAS,PAS,6,BA,2503,32.36777447303763,2,lost
@@ -609,10 +609,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1999-11-29,SE-10,Negeri Sembilan,N.05 Serting,3,7867,Ustaz Hj. Ramli Bin Abu Bakar,PAS,004-PAS,PAS,6,BA,2936,31.407787762088148,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.06 Bahau,1,7868,Ho Chew Kuan,DAP,021-DAP,DAP,6,BA,3707,36.144695787831516,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.06 Bahau,2,7085,See Ah Kow,BN,003-MCA,MCA,3,BN,6549,63.855304212168484,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.07 Jeram Padang,1,7869,Ibrahim Bin Yusof,PKR,073-MDP,MDP,6,BA,2064,29.86111111111111,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.07 Jeram Padang,1,7869,Ibrahim Bin Yusof,PKR,075-PKN,PKN,6,BA,2064,29.86111111111111,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.07 Jeram Padang,2,7870,T. Rajagopalu,BN,002-MIC,MIC,3,BN,4848,70.13888888888889,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.08 Palong,1,7092,Kamaruddin Bin Mohd. Din,BN,001-UMNO,UMNO,3,BN,6576,73.53237168735323,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.08 Palong,2,7871,Mohammad Shariffuddin Bin Musim,PKR,073-MDP,MDP,6,BA,2367,26.467628312646763,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.08 Palong,2,7871,Mohammad Shariffuddin Bin Musim,PKR,075-PKN,PKN,6,BA,2367,26.467628312646763,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.09 Gemas,1,5568,Dato' Hj. Mohamad Yassin Bin Bakar,BN,001-UMNO,UMNO,3,BN,5634,66.99964323938637,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.09 Gemas,2,7872,Aziz Bin Ramli,PAS,004-PAS,PAS,6,BA,2775,33.00035676061363,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.10 Gemencheh,1,4656,Dato Waad B Hj. Mansor,BN,001-UMNO,UMNO,3,BN,4997,56.91343963553531,1,won
@@ -620,14 +620,14 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1999-11-29,SE-10,Negeri Sembilan,N.11 Repah,1,7873,Gan Chin Yap,BN,003-MCA,MCA,3,BN,5301,55.05244573683664,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.11 Repah,2,7874,Kapt (B) Dr Kok Chan Wah,DAP,021-DAP,DAP,6,BA,4328,44.94755426316336,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.12 Kota,1,7875,Zaharudin Mohd Shariff,BN,001-UMNO,UMNO,3,BN,4444,63.8597499640753,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.12 Kota,2,7876,Nasruddin Bin Baba,PKR,073-MDP,MDP,6,BA,2515,36.1402500359247,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.12 Kota,2,7876,Nasruddin Bin Baba,PKR,075-PKN,PKN,6,BA,2515,36.1402500359247,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.13 Juasseh,1,7098,Hasan Bin Malek,BN,001-UMNO,UMNO,3,BN,3495,58.2014987510408,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.13 Juasseh,2,7877,Shamsul Bahri Shamsudin,PKR,073-MDP,MDP,6,BA,2510,41.798501248959205,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.13 Juasseh,2,7877,Shamsul Bahri Shamsudin,PKR,075-PKN,PKN,6,BA,2510,41.798501248959205,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.14 Senaling,1,7878,Hj. Baharudin Bin Poan,PAS,004-PAS,PAS,6,BA,2070,40.06193148829108,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.14 Senaling,2,7879,Haji Ismail Lasim,BN,001-UMNO,UMNO,3,BN,3097,59.93806851170892,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.15 Johol,1,7132,Kapt. (B) Hj Rusli Bin Idris,PAS,004-PAS,PAS,6,BA,2581,42.945091514143094,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.15 Johol,2,5577,Dato' Darus Salim Bin Bulin,BN,001-UMNO,UMNO,3,BN,3429,57.054908485856906,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.16 Pilah,1,7880,Nordin Bin Ismail,PKR,073-MDP,MDP,6,BA,3446,47.83453636868407,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.16 Pilah,1,7880,Nordin Bin Ismail,PKR,075-PKN,PKN,6,BA,3446,47.83453636868407,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.16 Pilah,2,7881,Norhayati Binti Omar,BN,001-UMNO,UMNO,3,BN,3758,52.16546363131593,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.17 Seri Menanti,1,7882,Mohamad Noor Bin Abdul Rahman,PAS,004-PAS,PAS,6,BA,2593,45.79653832567997,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.17 Seri Menanti,2,7883,Haji Ibrahim Bin Jahaya,BN,001-UMNO,UMNO,3,BN,3069,54.20346167432003,1,won
@@ -635,15 +635,15 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1999-11-29,SE-10,Negeri Sembilan,N.18 Nilai,2,7884,Wong Swee Ching,DAP,021-DAP,DAP,6,BA,3438,36.30411826821542,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.19 Lenggeng,1,7107,Dato' Ishak Ismail,BN,001-UMNO,UMNO,3,BN,4885,66.15655471289274,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.19 Lenggeng,2,7885,Zulkepley Mohamad Omar,PAS,004-PAS,PAS,6,BA,2499,33.84344528710726,2,lost
-1999-11-29,SE-10,Negeri Sembilan,N.20 Senawang,1,7886,Mohamad Rafie Bin Ab Malek,PKR,073-MDP,MDP,6,BA,7070,43.68242199567501,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.20 Senawang,1,7886,Mohamad Rafie Bin Ab Malek,PKR,075-PKN,PKN,6,BA,7070,43.68242199567501,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.20 Senawang,2,5570,Dato' Woo Ah Lek,BN,026-GERAKAN,GERAKAN,3,BN,9115,56.317578004325,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.21 Ampangan,1,7887,Haji Zakaria Nordin,BN,001-UMNO,UMNO,3,BN,7398,57.184818736956025,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.21 Ampangan,2,7888,Hj. Ibrahim Abd. Rahman,PAS,004-PAS,PAS,6,BA,5458,42.18907010898972,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.21 Ampangan,3,7889,Mohammad Abdullah,BEBAS,000-BEBAS,BEBAS,0,ALONE,81,0.626111154054263,3,lost_deposit
-1999-11-29,SE-10,Negeri Sembilan,N.22 Lobak,1,7123,Lim Seng Chuan,MDP,070-AKIM,AKIM,0,ALONE,297,2.588009759498083,3,lost_deposit
+1999-11-29,SE-10,Negeri Sembilan,N.22 Lobak,1,7123,Lim Seng Chuan,MDP,073-MDP,MDP,0,ALONE,297,2.588009759498083,3,lost_deposit
 1999-11-29,SE-10,Negeri Sembilan,N.22 Lobak,2,5156,Khoo Seng Hock,BN,003-MCA,MCA,3,BN,5983,52.13489020564657,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.22 Lobak,3,5585,Wong Zee Nyok,DAP,021-DAP,DAP,6,BA,5196,45.27710003485535,2,lost
-1999-11-29,SE-10,Negeri Sembilan,N.23 Labu,1,7890,Norizam Bin Yasin,PKR,073-MDP,MDP,6,BA,2717,38.17083450407418,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.23 Labu,1,7890,Norizam Bin Yasin,PKR,075-PKN,PKN,6,BA,2717,38.17083450407418,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.23 Labu,2,7110,Muhamad Shahlan Bin Shaid,BN,001-UMNO,UMNO,3,BN,4401,61.82916549592582,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.24 Temiang,1,4657,Lee Yuen Fong,BN,003-MCA,MCA,3,BN,6467,50.689763285781474,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.24 Temiang,2,1846,Chen Man Hin,DAP,021-DAP,DAP,6,BA,6291,49.31023671421853,2,lost
@@ -652,9 +652,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1999-11-29,SE-10,Negeri Sembilan,N.26 Mambau,1,7892,Liew Tet Kim,DAP,021-DAP,DAP,6,BA,7593,48.28309805417779,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.26 Mambau,2,7893,Yu Chok Tow,BN,003-MCA,MCA,3,BN,8133,51.7169019458222,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.27 Rantau,1,7894,Ab. Ghani Hassan,BN,001-UMNO,UMNO,3,BN,6222,64.31672524291916,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.27 Rantau,2,7895,Cikgu Husin Haroon,PKR,073-MDP,MDP,6,BA,3452,35.68327475708084,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.27 Rantau,2,7895,Cikgu Husin Haroon,PKR,075-PKN,PKN,6,BA,3452,35.68327475708084,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.28 Chembong,1,7117,Firdaus Harun,BN,001-UMNO,UMNO,3,BN,4343,61.64655784244145,1,won
-1999-11-29,SE-10,Negeri Sembilan,N.28 Chembong,2,7896,Dr. Ishak Hj. Mas'Ud,PKR,073-MDP,MDP,6,BA,2702,38.353442157558554,2,lost
+1999-11-29,SE-10,Negeri Sembilan,N.28 Chembong,2,7896,Dr. Ishak Hj. Mas'Ud,PKR,075-PKN,PKN,6,BA,2702,38.353442157558554,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.29 Linggi,1,7897,Dr. Rosli Yaakop,PAS,004-PAS,PAS,6,BA,2465,30.781718281718284,2,lost
 1999-11-29,SE-10,Negeri Sembilan,N.29 Linggi,2,3897,Mohd Isa Bin Abd. Samad,BN,001-UMNO,UMNO,3,BN,5543,69.21828171828172,1,won
 1999-11-29,SE-10,Negeri Sembilan,N.30 Pasir Panjang,1,7119,Sainy Bin Edris,BN,001-UMNO,UMNO,3,BN,5227,66.39146449892036,1,won
@@ -665,7 +665,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1999-11-29,SE-10,Negeri Sembilan,N.32 Lukut,2,5587,Yeo Chai Thiam,BN,003-MCA,MCA,3,BN,8055,61.12924034302193,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.01 Chennah,1,3873,Ean Yong Tin Sin,DAP,021-DAP,DAP,0,ALONE,2573,38.53527033098697,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.01 Chennah,2,7080,Lim Yong @ Lim Chen,BN,003-MCA,MCA,3,BN,4104,61.46472966901303,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.02 Pertang,1,8576,Mohd Shahrir Bin Zakaria,PKR,066-UPKO-1,UPKO,6,BA,1780,31.4821365405023,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.02 Pertang,1,8576,Mohd Shahrir Bin Zakaria,PKR,078-PKR,PKR,6,BA,1780,31.4821365405023,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.02 Pertang,2,7082,Razak Bin Mansor,BN,001-UMNO,UMNO,3,BN,3874,68.51786345949769,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.03 Sungai Lui,1,7865,Norman Bin Ipin,PAS,004-PAS,PAS,6,BA,1846,22.144913627639156,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.03 Sungai Lui,2,8577,Zainal Abidin Bin Ahmad,BN,001-UMNO,UMNO,3,BN,6490,77.85508637236084,1,won
@@ -673,9 +673,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-11,Negeri Sembilan,N.04 Klawang,2,8579,Jalaluddin Bin Alias,BN,001-UMNO,UMNO,3,BN,3555,61.271975180972085,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.05 Serting,1,5563,Lilah Bin Yasin,BN,001-UMNO,UMNO,3,BN,7787,75.2876341486996,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.05 Serting,2,7867,Ramli Bin Abu Bakar,PAS,004-PAS,PAS,6,BA,2556,24.712365851300397,2,lost
-2004-03-21,SE-11,Negeri Sembilan,N.06 Palong,1,8580,Rebin Bin Birham,PKR,066-UPKO-1,UPKO,6,BA,1899,20.76771653543307,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.06 Palong,1,8580,Rebin Bin Birham,PKR,078-PKR,PKR,6,BA,1899,20.76771653543307,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.06 Palong,2,8581,Aziz Bin Shamsuddin,BN,001-UMNO,UMNO,3,BN,7245,79.23228346456693,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.07 Jeram Padang,1,8582,Raja Gopal A/L Somoo,PKR,066-UPKO-1,UPKO,6,BA,939,15.749748406574977,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.07 Jeram Padang,1,8582,Raja Gopal A/L Somoo,PKR,078-PKR,PKR,6,BA,939,15.749748406574977,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.07 Jeram Padang,2,6665,Krishnan A/L Letchumanan,BN,002-MIC,MIC,3,BN,5023,84.25025159342503,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.08 Bahau,1,7085,See Ah Kow,BN,003-MCA,MCA,3,BN,4902,46.927053417576104,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.08 Bahau,2,6318,Lim Fui Ming,DAP,021-DAP,DAP,0,ALONE,5544,53.072946582423896,1,won
@@ -688,17 +688,17 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-11,Negeri Sembilan,N.12 Temiang,1,8585,Yap Yew Weng,DAP,021-DAP,DAP,0,ALONE,3260,43.823094501949186,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.12 Temiang,2,4657,Lee Yuen Fong,BN,003-MCA,MCA,3,BN,4179,56.176905498050814,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.13 Sikamat,1,8586,Md Yusop Bin Harmain Shah,BN,001-UMNO,UMNO,3,BN,7031,67.86024515008205,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.13 Sikamat,2,8587,Rosidan Bin Mohamed,PKR,066-UPKO-1,UPKO,6,BA,3330,32.13975484991796,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.13 Sikamat,2,8587,Rosidan Bin Mohamed,PKR,078-PKR,PKR,6,BA,3330,32.13975484991796,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.14 Ampangan,1,7887,Zakaria Bin Nordin,BN,001-UMNO,UMNO,3,BN,7418,68.87011419552502,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.14 Ampangan,2,7886,Mohamad Rafie Bin Ab Malek,PKR,066-UPKO-1,UPKO,6,BA,3353,31.129885804474977,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.14 Ampangan,2,7886,Mohamad Rafie Bin Ab Malek,PKR,078-PKR,PKR,6,BA,3353,31.129885804474977,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.15 Juasseh,1,8588,Mohamad Razi Bin Kail,BN,001-UMNO,UMNO,3,BN,4672,74.39490445859872,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.15 Juasseh,2,8589,Roslan Bin Alias,PKR,066-UPKO-1,UPKO,6,BA,1608,25.605095541401273,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.15 Juasseh,2,8589,Roslan Bin Alias,PKR,078-PKR,PKR,6,BA,1608,25.605095541401273,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.16 Seri Menanti,1,7883,Ibrahim Bin Jahaya,BN,001-UMNO,UMNO,3,BN,3736,63.172133919513016,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.16 Seri Menanti,2,7492,Abd. Rahim Bin Yusof,PAS,004-PAS,PAS,6,BA,2178,36.827866080486984,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.17 Senaling,1,8590,Zaharudin Bin Othman,PAS,004-PAS,PAS,6,BA,1344,25.82628747117602,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.17 Senaling,2,7879,Ismail Bin Lasim,BN,001-UMNO,UMNO,3,BN,3860,74.17371252882397,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.18 Pilah,1,7881,Norhayati Binti Omar,BN,001-UMNO,UMNO,3,BN,4714,65.08352892447881,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.18 Pilah,2,8591,Asmaon Bin Basir,PKR,066-UPKO-1,UPKO,6,BA,2529,34.916471075521194,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.18 Pilah,2,8591,Asmaon Bin Basir,PKR,078-PKR,PKR,6,BA,2529,34.916471075521194,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.19 Johol,1,8592,Roslan Bin Md Yusof,BN,001-UMNO,UMNO,3,BN,4354,68.57772877618523,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.19 Johol,2,8593,Kamarudin Bin Md. Tahir,PAS,004-PAS,PAS,6,BA,1995,31.422271223814775,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.20 Labu,1,8594,Syed Mohd Fuad Bin Syed,PAS,004-PAS,PAS,6,BA,2932,34.34461754714771,2,lost
@@ -709,24 +709,24 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-11,Negeri Sembilan,N.22 Rahang,2,7899,Arumugam A/L Karuppan,DAP,021-DAP,DAP,0,ALONE,3598,40.19213583556747,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.23 Mambau,1,7893,Yu Chok Tow,BN,003-MCA,MCA,3,BN,5714,57.65311270305721,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.23 Mambau,2,8596,Cha Kee Chin,DAP,021-DAP,DAP,0,ALONE,4197,42.34688729694279,2,lost
-2004-03-21,SE-11,Negeri Sembilan,N.24 Senawang,1,8597,Lau Tek Hai,PKR,066-UPKO-1,UPKO,6,BA,2738,27.066034005535784,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.24 Senawang,1,8597,Lau Tek Hai,PKR,078-PKR,PKR,6,BA,2738,27.066034005535784,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.24 Senawang,2,5570,Woo Ah Lek @ Woo Siak Chee,BN,026-GERAKAN,GERAKAN,3,BN,7378,72.93396599446422,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.25 Paroi,1,8598,Bibi Sharliza Binti Mohd Khalid,BN,001-UMNO,UMNO,3,BN,7524,68.76885111050179,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.25 Paroi,2,7897,Rosli Bin Yaakop,PAS,004-PAS,PAS,6,BA,3417,31.23114888949822,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.26 Chembong,1,8599,Mokhtar Bin Borhan,PAS,004-PAS,PAS,6,BA,1788,19.28802588996764,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.26 Chembong,2,8600,Mohamad Rais Bin Zainuddin,BN,001-UMNO,UMNO,3,BN,7482,80.71197411003236,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.27 Rantau,1,8601,Mohamad Bin Haji Hasan,BN,001-UMNO,UMNO,3,BN,8031,81.42552975768021,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.27 Rantau,2,8602,Badrul Hisham Bin Shaharin,PKR,066-UPKO-1,UPKO,6,BA,1832,18.574470242319784,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.27 Rantau,2,8602,Badrul Hisham Bin Shaharin,PKR,078-PKR,PKR,6,BA,1832,18.574470242319784,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.28 Kota,1,8603,Zainal Bin Jinin,PAS,004-PAS,PAS,6,BA,2059,23.61509347402225,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.28 Kota,2,8604,Awaludin Bin Said,BN,001-UMNO,UMNO,3,BN,6660,76.38490652597774,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.29 Chuah,1,8605,Foo Ming Chee,BN,003-MCA,MCA,3,BN,5276,72.09620114785461,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.29 Chuah,2,8164,Ab Manap Bin Sahardin,PKR,066-UPKO-1,UPKO,6,BA,2042,27.903798852145396,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.29 Chuah,2,8164,Ab Manap Bin Sahardin,PKR,078-PKR,PKR,6,BA,2042,27.903798852145396,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.30 Lukut,1,8606,Wong Hon Chuan,DAP,021-DAP,DAP,0,ALONE,2967,39.88975531056735,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.30 Lukut,2,5587,Yew Chai Thiam,BN,003-MCA,MCA,3,BN,4471,60.11024468943265,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.31 Bagan Pinang,1,8607,Mohd Faizal Bin Ramli,BN,001-UMNO,UMNO,3,BN,5967,79.31676193008109,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.31 Bagan Pinang,2,7898,Hassan Bin Alias,PAS,004-PAS,PAS,6,BA,1556,20.683238069918914,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.32 Linggi,1,8608,Ismail Bin Taib,BN,001-UMNO,UMNO,3,BN,7138,79.1879298868427,1,won
-2004-03-21,SE-11,Negeri Sembilan,N.32 Linggi,2,8609,Mustafa Bin Embok,PKR,066-UPKO-1,UPKO,6,BA,1876,20.81207011315731,2,lost
+2004-03-21,SE-11,Negeri Sembilan,N.32 Linggi,2,8609,Mustafa Bin Embok,PKR,078-PKR,PKR,6,BA,1876,20.81207011315731,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.33 Port Dickson,1,3140,John A/L Fernandez,DAP,021-DAP,DAP,0,ALONE,3061,38.19089207735496,2,lost
 2004-03-21,SE-11,Negeri Sembilan,N.33 Port Dickson,2,7870,Rajagopalu A/L Thamotharapillay,BN,002-MIC,MIC,3,BN,4954,61.80910792264505,1,won
 2004-03-21,SE-11,Negeri Sembilan,N.34 Gemas,1,8610,Jamlus Bin Aziz,BN,001-UMNO,UMNO,3,BN,8610,82.96396222778955,1,won
@@ -737,7 +737,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-11,Negeri Sembilan,N.36 Repah,2,7873,Gan Chin Yap,BN,003-MCA,MCA,3,BN,6538,63.93506747506357,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.01 Chennah,1,9355,Siow Chen Pin,BN,003-MCA,MCA,3,BN,4091,59.42765833817548,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.01 Chennah,2,9356,How Wee Shiong,DAP,021-DAP,DAP,7,PR,2793,40.57234166182452,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.02 Pertang,1,9357,Halim Bin A. Aziz,PKR,066-UPKO-1,UPKO,7,PR,1892,32.73922824017996,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.02 Pertang,1,9357,Halim Bin A. Aziz,PKR,078-PKR,PKR,7,PR,1892,32.73922824017996,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.02 Pertang,2,7082,Dato' Razak Mansor,BN,001-UMNO,UMNO,3,BN,3887,67.26077175982003,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.03 Sungai Lui,1,9358,Kateran Bin Marman,PAS,004-PAS,PAS,7,PR,2416,26.240903660258496,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.03 Sungai Lui,2,8577,Zainal Abidin Bin Ahmad,BN,001-UMNO,UMNO,3,BN,6791,73.7590963397415,1,won
@@ -745,9 +745,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Negeri Sembilan,N.04 Klawang,2,6660,Yunus Bin Rahmat,BN,001-UMNO,UMNO,3,BN,3379,57.106641879330745,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.05 Serting,1,9360,Somingon Bin Nasir,PAS,004-PAS,PAS,7,PR,3240,29.839749493461042,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.05 Serting,2,9361,Shamshulkahar Bin Mohd Deli,BN,001-UMNO,UMNO,3,BN,7618,70.16025050653896,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.06 Palong,1,8580,Rebin Bin Birham,PKR,066-UPKO-1,UPKO,7,PR,2725,28.188683148856935,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.06 Palong,1,8580,Rebin Bin Birham,PKR,078-PKR,PKR,7,PR,2725,28.188683148856935,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.06 Palong,2,8581,Aziz Bin Shamsuddin,BN,001-UMNO,UMNO,3,BN,6942,71.81131685114306,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.07 Jeram Padang,1,9362,K. Manoharan,PKR,066-UPKO-1,UPKO,7,PR,2377,36.223712282840594,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.07 Jeram Padang,1,9362,K. Manoharan,PKR,078-PKR,PKR,7,PR,2377,36.223712282840594,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.07 Jeram Padang,2,9363,V.S Mogan,BN,002-MIC,MIC,3,BN,4185,63.776287717159406,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.08 Bahau,1,9364,Teo Kok Seong,DAP,021-DAP,DAP,7,PR,6188,53.62683074789844,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.08 Bahau,2,6318,Lim Fui Ming,BN,003-MCA,MCA,3,BN,5351,46.37316925210157,2,lost
@@ -759,22 +759,22 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Negeri Sembilan,N.11 Lobak,2,9366,Siow Koi Voon,BN,003-MCA,MCA,3,BN,2316,20.034602076124568,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.12 Temiang,1,9367,Ng Chin Tsai,DAP,021-DAP,DAP,7,PR,4290,59.23777961888981,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.12 Temiang,2,9368,Lee Kee Chong,BN,003-MCA,MCA,3,BN,2952,40.76222038111019,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.13 Sikamat,1,9369,Aminuddin Bin Harun,PKR,066-UPKO-1,UPKO,7,PR,6036,52.15588006567009,1,won
+2008-03-08,SE-12,Negeri Sembilan,N.13 Sikamat,1,9369,Aminuddin Bin Harun,PKR,078-PKR,PKR,7,PR,6036,52.15588006567009,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.13 Sikamat,2,8586,Md Yusop Bin Harmain Shah,BN,001-UMNO,UMNO,3,BN,5537,47.8441199343299,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.14 Ampangan,1,9370,Mohd Nor Bin Awang,BN,001-UMNO,UMNO,3,BN,5514,49.26293218976146,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.14 Ampangan,2,9371,Rashid Bin Latiff,PKR,066-UPKO-1,UPKO,7,PR,5679,50.73706781023854,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.15 Juasseh,1,9372,Ghazalli Bin Othman,PKR,066-UPKO-1,UPKO,7,PR,2101,33.50877192982456,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.14 Ampangan,2,9371,Rashid Bin Latiff,PKR,078-PKR,PKR,7,PR,5679,50.73706781023854,1,won
+2008-03-08,SE-12,Negeri Sembilan,N.15 Juasseh,1,9372,Ghazalli Bin Othman,PKR,078-PKR,PKR,7,PR,2101,33.50877192982456,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.15 Juasseh,2,8588,Mohammad Razi Bin Kail,BN,001-UMNO,UMNO,3,BN,4169,66.49122807017544,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.16 Seri Menanti,1,9373,Abd Samad Bin Ibrahim,BN,001-UMNO,UMNO,3,BN,3934,69.2971639950678,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.16 Seri Menanti,2,7882,Mohamad Noor Bin Abdul Rahman,PAS,004-PAS,PAS,7,PR,1743,30.702836004932184,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.17 Senaling,1,7879,Hj. Ismail Bin Lasim,BN,001-UMNO,UMNO,3,BN,3646,69.07919666540356,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.17 Senaling,2,8590,Zaharudin Bin Othman,PAS,004-PAS,PAS,7,PR,1632,30.920803334596435,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,1,8591,Asmaon Bin Basir,PKR,066-UPKO-1,UPKO,7,PR,3101,41.56836461126006,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,1,8591,Asmaon Bin Basir,PKR,078-PKR,PKR,7,PR,3101,41.56836461126006,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,2,9374,Hj. Adnan Bin Hj. Abu Hassan,BN,001-UMNO,UMNO,3,BN,4359,58.43163538873994,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,1,8592,Roslan Bin Md Yusof,BN,001-UMNO,UMNO,3,BN,3737,60.16744485590082,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,2,8593,Kamarudin Bin Md Tahir,PAS,004-PAS,PAS,7,PR,2474,39.83255514409918,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,1,9375,Hasim Bin Rusdi,BN,001-UMNO,UMNO,3,BN,5451,57.39707275981889,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,9376,Mokhtar Bin Ahmad,PKR,066-UPKO-1,UPKO,7,PR,4046,42.60292724018111,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,9376,Mokhtar Bin Ahmad,PKR,078-PKR,PKR,7,PR,4046,42.60292724018111,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,1,8596,Cha Kee Chin,DAP,021-DAP,DAP,7,PR,9333,71.98056455344748,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,2,8595,Dato' Chan Khee Voon,BN,026-GERAKAN,GERAKAN,3,BN,3633,28.01943544655252,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.22 Rahang,1,7891,Yip Chee Keong,BN,003-MCA,MCA,3,BN,4777,44.87552841709723,2,lost
@@ -787,21 +787,21 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Negeri Sembilan,N.25 Paroi,2,7875,Zaharudin Bin Mohd Shariff,BN,001-UMNO,UMNO,3,BN,8316,46.87975646879756,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.26 Chembong,1,9379,Zaifulbahri Bin Idris,BN,001-UMNO,UMNO,3,BN,7017,70.44473446441121,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.26 Chembong,2,9380,Zakaria Bin Dahlan,PAS,004-PAS,PAS,7,PR,2944,29.5552655355888,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.27 Rantau,1,9381,Aisah Lamsah,PKR,066-UPKO-1,UPKO,7,PR,3956,33.826421547669945,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.27 Rantau,1,9381,Aisah Lamsah,PKR,078-PKR,PKR,7,PR,3956,33.826421547669945,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.27 Rantau,2,8601,Mohamad Bin Haji Hasan,BN,001-UMNO,UMNO,3,BN,7739,66.17357845233005,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.28 Kota,1,9382,Azhar Bin Ibrahim,PAS,004-PAS,PAS,7,PR,2665,29.799843452979985,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.28 Kota,2,8604,Awaludin Bin Said,BN,001-UMNO,UMNO,3,BN,6278,70.20015654702001,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.29 Chuah,1,9383,Chai Tong Chai,PKR,066-UPKO-1,UPKO,7,PR,4415,58.81961097788436,1,won
+2008-03-08,SE-12,Negeri Sembilan,N.29 Chuah,1,9383,Chai Tong Chai,PKR,078-PKR,PKR,7,PR,4415,58.81961097788436,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.29 Chuah,2,8605,Foo Ming Chee,BN,003-MCA,MCA,3,BN,3091,41.18038902211564,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.30 Lukut,1,9384,Cheok Leong Huat,BN,003-MCA,MCA,3,BN,3161,36.16704805491991,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.30 Lukut,2,3873,Ean Yong Tin Sin,DAP,021-DAP,DAP,7,PR,5579,63.8329519450801,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.31 Bagan Pinang,1,9385,Azman Mohd Noor,BN,001-UMNO,UMNO,3,BN,6430,61.081029733067346,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.31 Bagan Pinang,2,9386,Ramli Bin Ismail,PAS,004-PAS,PAS,7,PR,4097,38.918970266932654,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.32 Linggi,1,8608,Ismail Bin Taib,BN,001-UMNO,UMNO,3,BN,5510,58.33774483853891,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.32 Linggi,2,9387,Ramlan Bin Roes,PKR,066-UPKO-1,UPKO,7,PR,3935,41.66225516146109,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.32 Linggi,2,9387,Ramlan Bin Roes,PKR,078-PKR,PKR,7,PR,3935,41.66225516146109,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.33 Port Dickson,1,9388,Jeeva Kumar Marimuthu,BEBAS,000-BEBAS,BEBAS,0,ALONE,196,2.329727802210864,3,lost_deposit
 2008-03-08,SE-12,Negeri Sembilan,N.33 Port Dickson,2,7870,Dato T. Rajagopalu,BN,002-MIC,MIC,3,BN,3742,44.478782836087014,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.33 Port Dickson,3,9389,Ravi A/L Munusamy,PKR,066-UPKO-1,UPKO,7,PR,4475,53.191489361702125,1,won
+2008-03-08,SE-12,Negeri Sembilan,N.33 Port Dickson,3,9389,Ravi A/L Munusamy,PKR,078-PKR,PKR,7,PR,4475,53.191489361702125,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.34 Gemas,1,9390,Hj Mohd Ali Hj Maarof,PAS,004-PAS,PAS,7,PR,2846,20.839130116423814,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.34 Gemas,2,9391,Zainab Binti Nasir,BN,001-UMNO,UMNO,3,BN,10811,79.1608698835762,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.35 Gemencheh,1,8612,Mohd Kamil Bin Abd Aziz,BN,001-UMNO,UMNO,3,BN,6600,66.2717140275128,1,won
@@ -811,7 +811,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Negeri Sembilan,N.01 Chennah,1,10414,Siow Foo Wen,BN,003-MCA,MCA,3,BN,4030,44.0052413190653,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.01 Chennah,2,8584,Loke Siew Fook,DAP,021-DAP,DAP,7,PR,5128,55.994758680934694,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.02 Pertang,1,8579,Datuk Jalaluddin Bin Alias,BN,001-UMNO,UMNO,3,BN,5090,63.49008357240863,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.02 Pertang,2,10415,Muhamad Syamwill Mertadza,PKR,066-UPKO-1,UPKO,7,PR,2927,36.509916427591364,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.02 Pertang,2,10415,Muhamad Syamwill Mertadza,PKR,078-PKR,PKR,7,PR,2927,36.509916427591364,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.03 Sungai Lui,1,10416,Nor Anif Bin Selamat,PAS,004-PAS,PAS,7,PR,3039,25.182300298309578,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.03 Sungai Lui,2,10417,Mohd. Razi Bin Mohd. Ali,BN,001-UMNO,UMNO,3,BN,9029,74.81769970169042,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.04 Klawang,1,7897,Rosli Bin Yaakop,PAS,004-PAS,PAS,7,PR,3822,48.22104466313399,2,lost
@@ -819,10 +819,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Negeri Sembilan,N.05 Serting,1,10418,Abd Rahman Bin Ramli,PAS,004-PAS,PAS,7,PR,5365,33.174622804847886,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.05 Serting,2,9361,Dato' Shamshulkahar Mohd Deli,BN,001-UMNO,UMNO,3,BN,10807,66.82537719515211,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.06 Palong,1,5563,Dato' Lilah Bin Yasin,BN,001-UMNO,UMNO,3,BN,11090,80.80734479743515,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.06 Palong,2,8580,Rebin Birham,PKR,066-UPKO-1,UPKO,7,PR,2634,19.19265520256485,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.06 Palong,2,8580,Rebin Birham,PKR,078-PKR,PKR,7,PR,2634,19.19265520256485,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.07 Jeram Padang,1,10419,Mazavan,BEBAS,000-BEBAS,BEBAS,0,ALONE,45,0.5036373810856184,4,lost_deposit
 2013-05-05,SE-13,Negeri Sembilan,N.07 Jeram Padang,2,10420,Manickam A/L Letchuman,BN,002-MIC,MIC,3,BN,5690,63.68214885282597,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.07 Jeram Padang,3,10421,T. Kumar,PKR,066-UPKO-1,UPKO,7,PR,2999,33.564633463905984,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.07 Jeram Padang,3,10421,T. Kumar,PKR,078-PKR,PKR,7,PR,2999,33.564633463905984,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.07 Jeram Padang,4,10422,Zailani Bin Zakaria,BEBAS,000-BEBAS,BEBAS,0,ALONE,201,2.2495803021824288,3,lost_deposit
 2013-05-05,SE-13,Negeri Sembilan,N.08 Bahau,1,10423,Chew Seh Yong,DAP,021-DAP,DAP,7,PR,9998,67.28129205921938,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.08 Bahau,2,10424,Dr.Yee Mee Faa,BN,003-MCA,MCA,3,BN,4862,32.71870794078062,2,lost
@@ -837,19 +837,19 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Negeri Sembilan,N.11 Lobak,2,10431,Siow Kim Leong,DAP,021-DAP,DAP,7,PR,11880,76.69464170432538,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.12 Temiang,1,9368,Jason Lee Kee Chong,BN,003-MCA,MCA,3,BN,3801,40.96346589072098,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.12 Temiang,2,9367,Ng Chin Tsai,DAP,021-DAP,DAP,7,PR,5478,59.03653410927902,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.13 Sikamat,1,9369,Hj Aminuddin Hj Harun,PKR,066-UPKO-1,UPKO,7,PR,8584,51.53079601392724,1,won
+2013-05-05,SE-13,Negeri Sembilan,N.13 Sikamat,1,9369,Hj Aminuddin Hj Harun,PKR,078-PKR,PKR,7,PR,8584,51.53079601392724,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.13 Sikamat,2,10432,Wan Salwati Binti Abdullah,BN,001-UMNO,UMNO,3,BN,8074,48.469203986072756,2,lost
-2013-05-05,SE-13,Negeri Sembilan,N.14 Ampangan,1,8522,Kamarul Baharin Abbas,PKR,066-UPKO-1,UPKO,7,PR,7101,49.688615212371424,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.14 Ampangan,1,8522,Kamarul Baharin Abbas,PKR,078-PKR,PKR,7,PR,7101,49.688615212371424,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.14 Ampangan,2,10433,Hj Abu Ubaidah Bin Haji Redza,BN,001-UMNO,UMNO,3,BN,7190,50.311384787628576,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.15 Juasseh,1,10434,Hj Rosli B. Hj Omar,PKR,066-UPKO-1,UPKO,7,PR,3101,39.30291508238276,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.15 Juasseh,1,10434,Hj Rosli B. Hj Omar,PKR,078-PKR,PKR,7,PR,3101,39.30291508238276,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.15 Juasseh,2,8588,Haji Mohammad Razi Bin Kail,BN,001-UMNO,UMNO,3,BN,4789,60.69708491761724,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.16 Seri Menanti,1,10435,Tengku Zamrah Binti Tengku Sulaiman,PKR,066-UPKO-1,UPKO,7,PR,2142,31.57894736842105,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.16 Seri Menanti,1,10435,Tengku Zamrah Binti Tengku Sulaiman,PKR,078-PKR,PKR,7,PR,2142,31.57894736842105,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.16 Seri Menanti,2,9373,Dato' Abd Samad Bin Ibrahim,BN,001-UMNO,UMNO,3,BN,4538,66.90255049388176,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.16 Seri Menanti,3,10436,Md Ali Bin Mustafa,BEBAS,000-BEBAS,BEBAS,0,ALONE,103,1.5185021376971841,3,lost_deposit
 2013-05-05,SE-13,Negeri Sembilan,N.17 Senaling,1,7879,Dato' Haji Ismail Bin Lasim,BN,001-UMNO,UMNO,3,BN,4450,65.93569417691509,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.17 Senaling,2,8590,Zaharudin Othman,PAS,004-PAS,PAS,7,PR,2299,34.0643058230849,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.18 Pilah,1,7881,Dato' Norhayati Binti Omar,BN,001-UMNO,UMNO,3,BN,5039,50.56698444555946,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.18 Pilah,2,10437,Mohamad Nazaruddin Bin Sabtu,PKR,066-UPKO-1,UPKO,7,PR,4926,49.43301555444054,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.18 Pilah,2,10437,Mohamad Nazaruddin Bin Sabtu,PKR,078-PKR,PKR,7,PR,4926,49.43301555444054,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.19 Johol,1,10438,Ustaz Nor Azman Bin Mohamad,PAS,004-PAS,PAS,7,PR,3318,41.578947368421055,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.19 Johol,2,10439,Abu Samah Bin Mahat,BN,001-UMNO,UMNO,3,BN,4662,58.42105263157895,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.20 Labu,1,10440,Mohd Khairil Anuar (Ustaz),PAS,004-PAS,PAS,7,PR,5571,44.02908401169683,2,lost
@@ -869,22 +869,22 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Negeri Sembilan,N.26 Chembong,1,10448,Haji Kamarol Ridzuan,PAS,004-PAS,PAS,7,PR,3673,26.565890351511644,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.26 Chembong,2,9379,Dato' Zaifulbahri Bin Idris,BN,001-UMNO,UMNO,3,BN,10153,73.43410964848836,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.27 Rantau,1,8601,Dato' Seri Utama Haji Mohamad Bin Haji Hasan,BN,001-UMNO,UMNO,3,BN,10126,64.74838544663982,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.27 Rantau,2,9381,Aisah Lamsah,PKR,066-UPKO-1,UPKO,7,PR,5513,35.25161455336019,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.27 Rantau,2,9381,Aisah Lamsah,PKR,078-PKR,PKR,7,PR,5513,35.25161455336019,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.28 Kota,1,10449,Haji Ghazali Bin Mohd Shom,PAS,004-PAS,PAS,7,PR,3129,27.788632326820604,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.28 Kota,2,8604,Dato' Dr Hj Awaludin Bin Said,BN,001-UMNO,UMNO,3,BN,8131,72.2113676731794,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.29 Chuah,1,10450,Dato' Seri Dr. Lim Chin Fui,BN,003-MCA,MCA,3,BN,3423,36.49253731343284,2,lost
-2013-05-05,SE-13,Negeri Sembilan,N.29 Chuah,2,9383,Chai Tong Chai,PKR,066-UPKO-1,UPKO,7,PR,5957,63.50746268656716,1,won
+2013-05-05,SE-13,Negeri Sembilan,N.29 Chuah,2,9383,Chai Tong Chai,PKR,078-PKR,PKR,7,PR,5957,63.50746268656716,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.30 Lukut,1,3873,Ean Yong Tin Sin,DAP,021-DAP,DAP,7,PR,7692,67.29658792650919,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.30 Lukut,2,10451,Yeong Seng Wong,BN,003-MCA,MCA,3,BN,3738,32.70341207349081,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.31 Bagan Pinang,1,10452,Tun Hairudin Bin Abu Bakar@Don,BN,001-UMNO,UMNO,3,BN,10206,71.1467410247473,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.31 Bagan Pinang,2,9386,Ramli Bin Ismail,PAS,004-PAS,PAS,7,PR,4139,28.8532589752527,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.32 Linggi,1,10453,Hj. Abdul Rahman Bin Mohd Redza,BN,001-UMNO,UMNO,3,BN,7859,63.083962112698664,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.32 Linggi,2,10454,Rosman Jonet,PKR,066-UPKO-1,UPKO,7,PR,4599,36.916037887301336,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.32 Linggi,2,10454,Rosman Jonet,PKR,078-PKR,PKR,7,PR,4599,36.916037887301336,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.33 Port Dickson,1,10455,Daniel A/L Simon,BEBAS,000-BEBAS,BEBAS,0,ALONE,70,0.6325682270016266,3,lost_deposit
 2013-05-05,SE-13,Negeri Sembilan,N.33 Port Dickson,2,10456,Dr Tanaletchumy Palanisamy,BN,002-MIC,MIC,3,BN,4287,38.740285559371046,2,lost
-2013-05-05,SE-13,Negeri Sembilan,N.33 Port Dickson,3,9389,M.Ravi,PKR,066-UPKO-1,UPKO,7,PR,6709,60.62714621362733,1,won
+2013-05-05,SE-13,Negeri Sembilan,N.33 Port Dickson,3,9389,M.Ravi,PKR,078-PKR,PKR,7,PR,6709,60.62714621362733,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.34 Gemas,1,10457,Abd Razak Bin Ab Said,BN,001-UMNO,UMNO,3,BN,15040,78.46001356356618,1,won
-2013-05-05,SE-13,Negeri Sembilan,N.34 Gemas,2,10458,Karip Bin Mohd Salleh,PKR,066-UPKO-1,UPKO,7,PR,4129,21.539986436433825,2,lost
+2013-05-05,SE-13,Negeri Sembilan,N.34 Gemas,2,10458,Karip Bin Mohd Salleh,PKR,078-PKR,PKR,7,PR,4129,21.539986436433825,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.35 Gemencheh,1,10459,Mohd Isam Bin Mohd Isa,BN,001-UMNO,UMNO,3,BN,7632,60.86609777494218,1,won
 2013-05-05,SE-13,Negeri Sembilan,N.35 Gemencheh,2,10460,Cikgu Mohd Nor Bin Yassin,PAS,004-PAS,PAS,7,PR,4907,39.133902225057824,2,lost
 2013-05-05,SE-13,Negeri Sembilan,N.36 Repah,1,9392,Veerapan A/L Superamaniam,DAP,021-DAP,DAP,7,PR,8293,51.72779441117764,1,won
@@ -894,156 +894,156 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-14,Negeri Sembilan,N.01 Chennah,2,11796,Jamalus Bin Mansor,PAS,004-PAS,PAS,9,GS,975,9.86642380085003,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.01 Chennah,3,8584,Loke Siew Fook,PKR,021-DAP,DAP,8,PH,5031,50.91074681238615,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.02 Pertang,1,11797,Noor Azmi Bin Yusof,BN,001-UMNO,UMNO,3,BN,4008,49.003545665729305,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.02 Pertang,2,11798,Osman Dusa,PKR,046-AMANAH,AMANAH,8,PH,3593,43.92957574275584,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.02 Pertang,2,11798,Osman Dusa,PKR,107-BERSATU,BERSATU,8,PH,3593,43.92957574275584,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.02 Pertang,3,11799,Hamran Bin Abu Hasan,PAS,004-PAS,PAS,9,GS,578,7.066878591514855,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.03 Sungai Lui,1,11800,Abd Karim Shahimi Bin Abd Razak,PAS,004-PAS,PAS,9,GS,1269,10.184590690208669,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.03 Sungai Lui,2,10417,Mohd Razi Bin Mohd Ali,BN,001-UMNO,UMNO,3,BN,7795,62.56019261637239,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.03 Sungai Lui,3,11801,Zainal Fikri,PKR,066-UPKO-1,UPKO,8,PH,3396,27.255216693418944,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.04 Klawang,1,11802,Bakri Sawir,PKR,092-SPP,SPP,8,PH,4296,51.38755980861244,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.03 Sungai Lui,3,11801,Zainal Fikri,PKR,078-PKR,PKR,8,PH,3396,27.255216693418944,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.04 Klawang,1,11802,Bakri Sawir,PKR,046-AMANAH,AMANAH,8,PH,4296,51.38755980861244,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.04 Klawang,2,11803,Mazly Bin Yasin,PAS,004-PAS,PAS,9,GS,744,8.899521531100477,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.04 Klawang,3,11804,Baharudin Bin Jali,BN,001-UMNO,UMNO,3,BN,3320,39.71291866028708,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.05 Serting,1,10418,Abd Rahman Ramli,PKR,092-SPP,SPP,8,PH,6014,34.106504848862926,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.05 Serting,1,10418,Abd Rahman Ramli,PKR,046-AMANAH,AMANAH,8,PH,6014,34.106504848862926,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.05 Serting,2,9361,Dato' Hj Shamshulkahar Bin Hj Mohd Deli,BN,001-UMNO,UMNO,3,BN,9782,55.47552883797425,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.05 Serting,3,11805,Al Zukri,PAS,004-PAS,PAS,9,GS,1837,10.41796631316282,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.06 Palong,1,11806,Masdi Bin Musa,PAS,004-PAS,PAS,9,GS,1571,10.853195164075993,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.06 Palong,2,11807,Mustapha Bin Nagoor,BN,001-UMNO,UMNO,3,BN,9575,66.14853195164075,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.06 Palong,3,11808,Dato' Abdul Rahman Bin Jaafar,PKR,046-AMANAH,AMANAH,8,PH,3329,22.998272884283246,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.06 Palong,3,11808,Dato' Abdul Rahman Bin Jaafar,PKR,107-BERSATU,BERSATU,8,PH,3329,22.998272884283246,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.07 Jeram Padang,1,10420,Dato' Manickam Letchuman,BN,002-MIC,MIC,3,BN,3702,39.26185173401209,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.07 Jeram Padang,2,11809,Mohd Fairuz,PAS,004-PAS,PAS,9,GS,785,8.325379149432601,4,lost_deposit
-2018-05-09,SE-14,Negeri Sembilan,N.07 Jeram Padang,3,11810,S Musliadi Sabtu,PKR,066-UPKO-1,UPKO,8,PH,2302,24.414041785979425,3,lost
+2018-05-09,SE-14,Negeri Sembilan,N.07 Jeram Padang,3,11810,S Musliadi Sabtu,PKR,078-PKR,PKR,8,PH,2302,24.414041785979425,3,lost
 2018-05-09,SE-14,Negeri Sembilan,N.07 Jeram Padang,4,11811,Surash A/L Sreenivasan,BEBAS,000-BEBAS,BEBAS,0,ALONE,2640,27.998727330575885,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.08 Bahau,1,11812,Cikgu Bakri,PAS,004-PAS,PAS,9,GS,1512,9.697902636136233,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.08 Bahau,2,9364,Teo Kok Seong,PKR,021-DAP,DAP,8,PH,10094,64.74247963568726,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.08 Bahau,3,11813,Chong Wan Yu,BN,003-MCA,MCA,3,BN,3985,25.559617728176516,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.09 Lenggeng,1,11814,Ustaz Suhaimi Kassim,PKR,092-SPP,SPP,8,PH,7456,47.98558373020981,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.09 Lenggeng,1,11814,Ustaz Suhaimi Kassim,PKR,046-AMANAH,AMANAH,8,PH,7456,47.98558373020981,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.09 Lenggeng,2,11815,Mohammad Ghazali Bin Abu Bakar,PAS,004-PAS,PAS,9,GS,1612,10.374565581155876,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.09 Lenggeng,3,11816,Mazalan Bin Maarop,BN,001-UMNO,UMNO,3,BN,6470,41.63985068863432,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.10 Nilai,1,11817,Leaw Kok Chan,BN,003-MCA,MCA,3,BN,4394,21.161625890965134,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.10 Nilai,2,10429,J. Arul Kumar,PKR,021-DAP,DAP,8,PH,14219,68.47909843960701,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.10 Nilai,3,11818,Mohd Abu Zarim Abdul Rahman,PAS,004-PAS,PAS,9,GS,2151,10.359275669427856,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.11 Lobak,1,11819,Lim Kok Kian,BN,003-MCA,MCA,3,BN,1865,11.952063573442707,2,lost_deposit
-2018-05-09,SE-14,Negeri Sembilan,N.11 Lobak,2,11820,Balamurugan A/L Sanmugam,PAP,088-PERPADUAN,PERPADUAN,0,ALONE,92,0.5895924122019995,3,lost_deposit
+2018-05-09,SE-14,Negeri Sembilan,N.11 Lobak,2,11820,Balamurugan A/L Sanmugam,PAP,103-PAP,PAP,0,ALONE,92,0.5895924122019995,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.11 Lobak,3,10423,Chew Seh Yong,PKR,021-DAP,DAP,8,PH,13647,87.45834401435529,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.12 Temiang,1,9367,Ng Chin Tsai,PKR,021-DAP,DAP,8,PH,5894,64.81196393226303,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.12 Temiang,2,9366,Siow Koi Voon,BN,003-MCA,MCA,3,BN,2831,31.130415658676053,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.12 Temiang,3,11821,Yau Con Seng,PAS,004-PAS,PAS,9,GS,369,4.057620409060919,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.13 Sikamat,1,11822,Syamsul Debat,BN,001-UMNO,UMNO,3,BN,6419,36.47780871739501,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.13 Sikamat,2,9369,Aminuddin Harun,PKR,066-UPKO-1,UPKO,8,PH,9832,55.87316019776098,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.13 Sikamat,2,9369,Aminuddin Harun,PKR,078-PKR,PKR,8,PH,9832,55.87316019776098,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.13 Sikamat,3,11823,Haji Rahim Bin Yusof,PAS,004-PAS,PAS,9,GS,1331,7.563789282264022,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.13 Sikamat,4,9865,Bujang Bin Abu,BEBAS,000-BEBAS,BEBAS,0,ALONE,15,0.08524180257998522,4,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.14 Ampangan,1,11042,Mustaffa Bin Daharun,PAS,004-PAS,PAS,9,GS,983,7.43289224952741,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.14 Ampangan,2,10433,Hj. Abu Ubaidah,BN,001-UMNO,UMNO,3,BN,5441,41.14177693761815,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.14 Ampangan,3,7886,Dr.  Mohamad Rafie Bin Ab Malek,PKR,066-UPKO-1,UPKO,8,PH,6801,51.42533081285444,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.14 Ampangan,3,7886,Dr.  Mohamad Rafie Bin Ab Malek,PKR,078-PKR,PKR,8,PH,6801,51.42533081285444,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.15 Juasseh,1,7879,Dato Hj Ismail Lasim,BN,001-UMNO,UMNO,3,BN,4146,50.41342412451362,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.15 Juasseh,2,10434,Rosli Bin Omar,PKR,066-UPKO-1,UPKO,8,PH,3454,41.999027237354085,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.15 Juasseh,2,10434,Rosli Bin Omar,PKR,078-PKR,PKR,8,PH,3454,41.999027237354085,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.15 Juasseh,3,11824,Hassan Bin Mohamed,PAS,004-PAS,PAS,9,GS,624,7.587548638132295,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.16 Seri Menanti,1,11046,Hj. Rafiei,PAS,004-PAS,PAS,9,GS,535,8.028211284513805,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.16 Seri Menanti,2,9373,Dato Abd Samad Bin Ibrahim,BN,001-UMNO,UMNO,3,BN,3362,50.450180072028814,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.16 Seri Menanti,3,11825,Jamali Bin Salam,PKR,046-AMANAH,AMANAH,8,PH,2767,41.521608643457384,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.17 Senaling,1,8611,Haji Rais Basiron,PKR,092-SPP,SPP,8,PH,2484,37.99327011318446,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.16 Seri Menanti,3,11825,Jamali Bin Salam,PKR,107-BERSATU,BERSATU,8,PH,2767,41.521608643457384,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.17 Senaling,1,8611,Haji Rais Basiron,PKR,046-AMANAH,AMANAH,8,PH,2484,37.99327011318446,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.17 Senaling,2,9374,Dato Hj Adnan Bin Abu Hassan,BN,001-UMNO,UMNO,3,BN,3456,52.860201896604465,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.17 Senaling,3,11826,Fazilah Abu Samah,PAS,004-PAS,PAS,9,GS,598,9.146527990211075,3,lost_deposit
-2018-05-09,SE-14,Negeri Sembilan,N.18 Pilah,1,10437,Mohamad Nazaruddin Bin Sabtu,PKR,066-UPKO-1,UPKO,8,PH,5643,51.80391076838337,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.18 Pilah,1,10437,Mohamad Nazaruddin Bin Sabtu,PKR,078-PKR,PKR,8,PH,5643,51.80391076838337,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.18 Pilah,2,7881,Dato Norhayati Binti Omar,BN,001-UMNO,UMNO,3,BN,3837,35.22445607270724,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.18 Pilah,3,11827,Haji Fadzil,PAS,004-PAS,PAS,9,GS,1413,12.971633158909391,3,lost
 2018-05-09,SE-14,Negeri Sembilan,N.19 Johol,1,11828,Hj Saiful Yazan Bin Sulaiman,BN,001-UMNO,UMNO,3,BN,3907,49.34326850214701,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.19 Johol,2,7885,Zulkefly Omar,PKR,092-SPP,SPP,8,PH,2942,37.155847436221265,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.19 Johol,2,7885,Zulkefly Omar,PKR,046-AMANAH,AMANAH,8,PH,2942,37.155847436221265,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.19 Johol,3,8593,Haji Kamarudin Tahir,PAS,004-PAS,PAS,9,GS,1069,13.500884061631723,3,lost
 2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,1,10440,Ustaz Khairil Anuar Wafa,PAS,004-PAS,PAS,9,GS,2093,14.2565220352837,3,lost
-2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,2,11829,Ismail Bin Ahmad,PKR,066-UPKO-1,UPKO,8,PH,6712,45.71895647435461,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,2,11829,Ismail Bin Ahmad,PKR,078-PKR,PKR,8,PH,6712,45.71895647435461,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,3,9375,Hasim Bin Rusdi,BN,001-UMNO,UMNO,3,BN,5830,39.71119133574007,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,4,11049,David Dass Aseerpatham,PAP,088-PERPADUAN,PERPADUAN,0,ALONE,46,0.3133301546216198,4,lost_deposit
+2018-05-09,SE-14,Negeri Sembilan,N.20 Labu,4,11049,David Dass Aseerpatham,PAP,103-PAP,PAP,0,ALONE,46,0.3133301546216198,4,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.21 Bukit Kepayang,1,11830,Mak Kah Keong,BN,026-GERAKAN,GERAKAN,3,BN,3744,16.70533642691415,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.21 Bukit Kepayang,2,11831,Nicole Tan Lee Koon,PKR,021-DAP,DAP,8,PH,18668,83.29466357308584,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.22 Rahang,1,10443,Mary Josephine Prittam Singh,PKR,021-DAP,DAP,8,PH,10018,73.97725594446905,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.22 Rahang,2,11832,Yap Siok Moy,BN,003-MCA,MCA,3,BN,3458,25.535371437010777,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.22 Rahang,3,11833,Saraswathy A/P Paragazum,PAP,088-PERPADUAN,PERPADUAN,0,ALONE,66,0.48737261852015945,3,lost_deposit
+2018-05-09,SE-14,Negeri Sembilan,N.22 Rahang,3,11833,Saraswathy A/P Paragazum,PAP,103-PAP,PAP,0,ALONE,66,0.48737261852015945,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.23 Mambau,1,8585,Yap Yew Weng,PKR,021-DAP,DAP,8,PH,14911,85.0404927569294,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.23 Mambau,2,11834,Dafney Ho,BN,003-MCA,MCA,3,BN,2522,14.383483517736966,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.23 Mambau,3,11835,T. Parimala Devi,PAP,088-PERPADUAN,PERPADUAN,0,ALONE,101,0.5760237253336375,3,lost_deposit
+2018-05-09,SE-14,Negeri Sembilan,N.23 Mambau,3,11835,T. Parimala Devi,PAP,103-PAP,PAP,0,ALONE,101,0.5760237253336375,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.24 Seremban Jaya,1,7112,P.Guna,PKR,021-DAP,DAP,8,PH,13760,80.411407199626,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.24 Seremban Jaya,2,11836,Sagaya Rajan A/L Xavier,PAP,088-PERPADUAN,PERPADUAN,0,ALONE,99,0.5785413744740533,3,lost_deposit
+2018-05-09,SE-14,Negeri Sembilan,N.24 Seremban Jaya,2,11836,Sagaya Rajan A/L Xavier,PAP,103-PAP,PAP,0,ALONE,99,0.5785413744740533,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.24 Seremban Jaya,3,10445,Choong Vee Hing,BN,026-GERAKAN,GERAKAN,3,BN,3253,19.010051425899952,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.25 Paroi,1,11837,Masita Binti Mohamed Ali,PAS,004-PAS,PAS,9,GS,3499,11.384785579488515,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.25 Paroi,2,10447,Mohd Ghazali Bin Abd Wahid,BN,001-UMNO,UMNO,3,BN,11197,36.43196459946639,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.25 Paroi,3,9378,Haji Taufek,PKR,092-SPP,SPP,8,PH,16038,52.183249821045095,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.25 Paroi,3,9378,Haji Taufek,PKR,046-AMANAH,AMANAH,8,PH,16038,52.183249821045095,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.26 Chembong,1,11838,Ustaz Rosmin Adam,PAS,004-PAS,PAS,9,GS,1288,8.575803981623277,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.26 Chembong,2,9379,Zaifulbahri Bin Idris,BN,001-UMNO,UMNO,3,BN,9079,60.45009654437712,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.26 Chembong,3,11839,Azizan Marzuki,PKR,046-AMANAH,AMANAH,8,PH,4652,30.9740994739996,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.26 Chembong,3,11839,Azizan Marzuki,PKR,107-BERSATU,BERSATU,8,PH,4652,30.9740994739996,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.27 Rantau,1,8601,Tok Mat,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 2018-05-09,SE-14,Negeri Sembilan,N.28 Kota,1,11840,Haji Ishak Bin Omar,PAS,004-PAS,PAS,9,GS,1333,12.03503069700253,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.28 Kota,2,8604,Awaludin Bin Said,BN,001-UMNO,UMNO,3,BN,6356,57.385337667027805,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.28 Kota,3,11841,Sahrizal Masrudin,PKR,092-SPP,SPP,8,PH,3387,30.579631635969662,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.28 Kota,3,11841,Sahrizal Masrudin,PKR,046-AMANAH,AMANAH,8,PH,3387,30.579631635969662,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.29 Chuah,1,10450,Dato Sri King Lim,BN,003-MCA,MCA,3,BN,3460,34.18634522280407,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.29 Chuah,2,11842,Michael Yek Diew Ching,PKR,066-UPKO-1,UPKO,8,PH,6661,65.81365477719594,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.29 Chuah,2,11842,Michael Yek Diew Ching,PKR,078-PKR,PKR,8,PH,6661,65.81365477719594,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.30 Lukut,1,11843,Yeong Kun You,BN,003-MCA,MCA,3,BN,3044,21.00324294486994,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.30 Lukut,2,11844,Choo Ken Hwa,PKR,021-DAP,DAP,8,PH,11449,78.99675705513006,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.31 Bagan Pinang,1,10452,Tun Hairudin Bin Abu Bakar @ Don,BN,001-UMNO,UMNO,3,BN,7146,57.829570284049524,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.31 Bagan Pinang,2,11845,Mohd Ibrahim Khan,PKR,066-UPKO-1,UPKO,8,PH,5211,42.170429715950476,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.31 Bagan Pinang,2,11845,Mohd Ibrahim Khan,PKR,078-PKR,PKR,8,PH,5211,42.170429715950476,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.32 Linggi,1,10453,Dato' Hj. Abdul Rahman Mohd Redza,BN,001-UMNO,UMNO,3,BN,6072,48.52553344521697,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.32 Linggi,2,11846,Rizal Ishak,PAS,004-PAS,PAS,9,GS,992,7.927755134659955,3,lost_deposit
-2018-05-09,SE-14,Negeri Sembilan,N.32 Linggi,3,11847,Rusli Bin Abdullah,PKR,066-UPKO-1,UPKO,8,PH,5449,43.546711420123074,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.32 Linggi,3,11847,Rusli Bin Abdullah,PKR,078-PKR,PKR,8,PH,5449,43.546711420123074,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.33 Sri Tanjung,1,11848,Thinalan T Rajagopalu,BN,002-MIC,MIC,3,BN,3336,28.36011221627136,2,lost
-2018-05-09,SE-14,Negeri Sembilan,N.33 Sri Tanjung,2,9389,M.Ravi,PKR,066-UPKO-1,UPKO,8,PH,7366,62.620079911587176,1,won
+2018-05-09,SE-14,Negeri Sembilan,N.33 Sri Tanjung,2,9389,M.Ravi,PKR,078-PKR,PKR,8,PH,7366,62.620079911587176,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.33 Sri Tanjung,3,10448,Haji Kamarol Ridzuan,PAS,004-PAS,PAS,9,GS,1061,9.019807872141461,3,lost_deposit
-2018-05-09,SE-14,Negeri Sembilan,N.34 Gemas,1,6258,Haji Baharuddin Arif Bin Haji Siri,PKR,066-UPKO-1,UPKO,8,PH,5081,28.95816710361336,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.34 Gemas,1,6258,Haji Baharuddin Arif Bin Haji Siri,PKR,078-PKR,PKR,8,PH,5081,28.95816710361336,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.34 Gemas,2,11055,Mejar Abdul Halim Bin Abu Bakar (Bersara),PAS,004-PAS,PAS,9,GS,2612,14.886583836771914,3,lost
 2018-05-09,SE-14,Negeri Sembilan,N.34 Gemas,3,10457,Abd Razak Bin Ab Said,BN,001-UMNO,UMNO,3,BN,9853,56.15524905961473,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.35 Gemencheh,1,11849,Ishak Bin Maasin,PAS,004-PAS,PAS,9,GS,1122,7.6342110634823435,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.35 Gemencheh,2,10459,Mohd Isam Bin Mohd Isa,BN,001-UMNO,UMNO,3,BN,6963,47.377015717493364,1,won
-2018-05-09,SE-14,Negeri Sembilan,N.35 Gemencheh,3,11850,Saiful Adly Bin Abd Wahab,PKR,046-AMANAH,AMANAH,8,PH,6612,44.98877321902429,2,lost
+2018-05-09,SE-14,Negeri Sembilan,N.35 Gemencheh,3,11850,Saiful Adly Bin Abd Wahab,PKR,107-BERSATU,BERSATU,8,PH,6612,44.98877321902429,2,lost
 2018-05-09,SE-14,Negeri Sembilan,N.36 Repah,1,8165,Hj.Razak,PAS,004-PAS,PAS,9,GS,1957,11.980410162228344,3,lost_deposit
 2018-05-09,SE-14,Negeri Sembilan,N.36 Repah,2,9392,Veerapan A/L Superamaniam,PKR,021-DAP,DAP,8,PH,9568,58.57361493725131,1,won
 2018-05-09,SE-14,Negeri Sembilan,N.36 Repah,3,11851,Koh Kim Swee,BN,003-MCA,MCA,3,BN,4810,29.445974900520355,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.01 Chennah,1,13940,Rosmadi Bin Arif,PN,046-AMANAH,AMANAH,11,PN,3688,38.512949039264825,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.01 Chennah,1,13940,Rosmadi Bin Arif,PN,107-BERSATU,BERSATU,11,PN,3688,38.512949039264825,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.01 Chennah,2,8584,Loke Siew Fook,PH,021-DAP,DAP,8,PH,5888,61.48705096073517,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.02 Pertang,1,8579,Jalaluddin Bin Alias,BN,001-UMNO,UMNO,3,BN,5634,66.45435244161358,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.02 Pertang,2,13941,Cikgu Amir,PN,004-PAS,PAS,11,PN,2844,33.54564755838641,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.03 Sungai Lui,1,10417,Mohd. Razi Bin Mohd. Ali,BN,001-UMNO,UMNO,3,BN,6939,52.00479652252117,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.03 Sungai Lui,2,13942,Nordin Hasim,PN,004-PAS,PAS,11,PN,6404,47.995203477478825,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.04 Klawang,1,9359,Angah Saiful,BEBAS,000-BEBAS,BEBAS,0,ALONE,364,4.052098408104197,3,lost_deposit
-2023-08-12,SE-15,Negeri Sembilan,N.04 Klawang,2,13943,Danni Rais,PN,046-AMANAH,AMANAH,11,PN,4021,44.76232884337081,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.04 Klawang,3,11802,Bakri Sawir,PH,092-SPP,SPP,8,PH,4598,51.18557274852499,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.04 Klawang,2,13943,Danni Rais,PN,107-BERSATU,BERSATU,11,PN,4021,44.76232884337081,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.04 Klawang,3,11802,Bakri Sawir,PH,046-AMANAH,AMANAH,8,PH,4598,51.18557274852499,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.05 Serting,1,11809,Ustaz Fairuz,PN,004-PAS,PAS,11,PN,10312,52.13083261715787,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.05 Serting,2,13944,Muhamad Zamri Omar,BN,001-UMNO,UMNO,3,BN,9469,47.86916738284212,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.06 Palong,1,13945,Noor Azuan,PN,046-AMANAH,AMANAH,11,PN,7376,48.15878819535126,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.06 Palong,1,13945,Noor Azuan,PN,107-BERSATU,BERSATU,11,PN,7376,48.15878819535126,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.06 Palong,2,11807,Mustapha Bin Nagoor,BN,001-UMNO,UMNO,3,BN,7940,51.84121180464874,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.07 Jeram Padang,1,13946,Mohd Zaidy Abdul Kadir,BN,001-UMNO,UMNO,3,BN,5462,53.38676571205161,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.07 Jeram Padang,2,11811,Surash A/L Sreenivasan,PN,046-AMANAH,AMANAH,11,PN,4769,46.61323428794839,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.07 Jeram Padang,2,11811,Surash A/L Sreenivasan,PN,107-BERSATU,BERSATU,11,PN,4769,46.61323428794839,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.08 Bahau,1,10987,P. M. Kumar,PN,004-PAS,PAS,11,PN,3531,22.824822236586943,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.08 Bahau,2,9364,Teo Kok Seong,PH,021-DAP,DAP,8,PH,11939,77.17517776341306,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.09 Lenggeng,1,13947,Zul Azki Mat Sulop,BEBAS,000-BEBAS,BEBAS,0,ALONE,404,2.040507096317996,3,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.09 Lenggeng,2,13224,Haji Fadli Che Me,PN,004-PAS,PAS,11,PN,9355,47.24986110409617,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.09 Lenggeng,3,13948,Hj Asna,BN,001-UMNO,UMNO,3,BN,10040,50.70963179958584,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.10 Nilai,1,10428,Gan Chee Biow,PN,046-AMANAH,AMANAH,11,PN,8244,28.561529933481154,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.10 Nilai,1,10428,Gan Chee Biow,PN,107-BERSATU,BERSATU,11,PN,8244,28.561529933481154,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.10 Nilai,2,13949,Omar Bin Mohd Isa,BEBAS,000-BEBAS,BEBAS,0,ALONE,1430,4.954268292682927,3,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.10 Nilai,3,13950,Yessu,BEBAS,000-BEBAS,BEBAS,0,ALONE,57,0.19747782705099776,4,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.10 Nilai,4,10429,J.Arul Kumar,PH,021-DAP,DAP,8,PH,19133,66.28672394678492,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.11 Lobak,1,13951,Ng Soon Lean,PN,026-GERAKAN,GERAKAN,11,PN,853,5.608152531229455,2,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.11 Lobak,2,10423,Chew Seh Yong,PH,021-DAP,DAP,8,PH,14357,94.39184746877055,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.12 Temiang,1,9367,Ng Chin Tsai,PH,021-DAP,DAP,8,PH,5710,63.5008896797153,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.12 Temiang,2,13952,Qusyairy Ahmad,MUDA,107-BERSATU,BERSATU,0,ALONE,640,7.11743772241993,3,lost_deposit
+2023-08-12,SE-15,Negeri Sembilan,N.12 Temiang,2,13952,Qusyairy Ahmad,MUDA,120-MUDA,MUDA,0,ALONE,640,7.11743772241993,3,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.12 Temiang,3,13953,Chua Eng Pu,PN,026-GERAKAN,GERAKAN,11,PN,2642,29.381672597864767,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,1,13954,Raihan Hilal,PN,046-AMANAH,AMANAH,11,PN,10068,43.359173126614984,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,2,9369,Aminuddin Harun,PH,066-UPKO-1,UPKO,8,PH,12730,54.823428079242035,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,1,13954,Raihan Hilal,PN,107-BERSATU,BERSATU,11,PN,10068,43.359173126614984,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,2,9369,Aminuddin Harun,PH,078-PKR,PKR,8,PH,12730,54.823428079242035,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,3,9865,Bujang Bin Abu,BEBAS,000-BEBAS,BEBAS,0,ALONE,83,0.35745047372954347,4,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.13 Sikamat,4,13955,Mohammed Hafiz (Tok Merah),BEBAS,000-BEBAS,BEBAS,0,ALONE,339,1.4599483204134367,3,lost_deposit
-2023-08-12,SE-15,Negeri Sembilan,N.14 Ampangan,1,10435,Tengku Zamrah Binti Tengku Sulaiman,PH,066-UPKO-1,UPKO,8,PH,6054,40.74572620810338,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.14 Ampangan,2,13956,Muhammad Ghazali Bin Zainal Abidin,PN,046-AMANAH,AMANAH,11,PN,5725,38.53143087898775,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.14 Ampangan,1,10435,Tengku Zamrah Binti Tengku Sulaiman,PH,078-PKR,PKR,8,PH,6054,40.74572620810338,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.14 Ampangan,2,13956,Muhammad Ghazali Bin Zainal Abidin,PN,107-BERSATU,BERSATU,11,PN,5725,38.53143087898775,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.14 Ampangan,3,7886,Dato' Dr Mohamad Rafie Bin Ab Malek,BEBAS,000-BEBAS,BEBAS,0,ALONE,3079,20.72284291290887,3,lost
-2023-08-12,SE-15,Negeri Sembilan,N.15 Juasseh,1,11047,Eddin Syazlee Bin Shith,PN,046-AMANAH,AMANAH,11,PN,4471,49.567627494456765,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.15 Juasseh,1,11047,Eddin Syazlee Bin Shith,PN,107-BERSATU,BERSATU,11,PN,4471,49.567627494456765,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.15 Juasseh,2,8598,Puan Sri Bibi Sharliza,BN,001-UMNO,UMNO,3,BN,4549,50.432372505543235,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.16 Seri Menanti,1,13957,Ustaz Sufian Maradzi,BN,001-UMNO,UMNO,3,BN,3711,52.62336925694838,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.16 Seri Menanti,2,11825,Jamali Bin Salam,PN,046-AMANAH,AMANAH,11,PN,3341,47.37663074305162,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.16 Seri Menanti,2,11825,Jamali Bin Salam,PN,107-BERSATU,BERSATU,11,PN,3341,47.37663074305162,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.17 Senaling,1,7879,Ismail Lasim,BN,001-UMNO,UMNO,3,BN,3724,54.87768936044798,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.17 Senaling,2,13958,Amrina Binti Mohd Khalid,PN,046-AMANAH,AMANAH,11,PN,3062,45.12231063955202,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.17 Senaling,2,13958,Amrina Binti Mohd Khalid,PN,107-BERSATU,BERSATU,11,PN,3062,45.12231063955202,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.18 Pilah,1,11046,Cikgu Rafiei,PN,004-PAS,PAS,11,PN,5143,45.252969643642764,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.18 Pilah,2,13959,Noorzunita Begum Mohd Ibrahim,PH,066-UPKO-1,UPKO,8,PH,6222,54.74703035635724,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.18 Pilah,2,13959,Noorzunita Begum Mohd Ibrahim,PH,078-PKR,PKR,8,PH,6222,54.74703035635724,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.19 Johol,1,11828,Hj Saiful Yazan Sulaiman,BN,001-UMNO,UMNO,3,BN,5228,62.693368509413595,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.19 Johol,2,8593,Hj Kamarudin Tahir,PN,004-PAS,PAS,11,PN,3111,37.3066314905864,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.20 Labu,1,13960,Anip Abu Baker,PN,046-AMANAH,AMANAH,11,PN,11661,53.781938935522554,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.20 Labu,2,11829,Hj Ismail Bin Ahmad,PH,066-UPKO-1,UPKO,8,PH,10021,46.218061064477446,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,1,13961,Subramaniam A/L Purushothama,PN,046-AMANAH,AMANAH,11,PN,4942,16.20912460231559,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.20 Labu,1,13960,Anip Abu Baker,PN,107-BERSATU,BERSATU,11,PN,11661,53.781938935522554,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.20 Labu,2,11829,Hj Ismail Bin Ahmad,PH,078-PKR,PKR,8,PH,10021,46.218061064477446,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,1,13961,Subramaniam A/L Purushothama,PN,107-BERSATU,BERSATU,11,PN,4942,16.20912460231559,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,2,13962,Ahmad Zamali Mohamad,BEBAS,000-BEBAS,BEBAS,0,ALONE,921,3.0207615861458232,3,lost_deposit
 2023-08-12,SE-15,Negeri Sembilan,N.21 Bukit Kepayang,3,11831,Nicole Tan Lee Koon,PH,021-DAP,DAP,8,PH,24626,80.7701138115386,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.22 Rahang,1,13963,Siau Meow Kong,PH,021-DAP,DAP,8,PH,9868,74.17318099819603,1,won
@@ -1054,25 +1054,25 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2023-08-12,SE-15,Negeri Sembilan,N.24 Seremban Jaya,1,7112,P.Guna,PH,021-DAP,DAP,8,PH,17080,79.60106259029688,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.24 Seremban Jaya,2,13967,Gary Lee,PN,026-GERAKAN,GERAKAN,11,PN,4377,20.398937409703127,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.25 Paroi,1,13968,Syakir Fitri,BEBAS,000-BEBAS,BEBAS,0,ALONE,944,2.1910177555993964,3,lost_deposit
-2023-08-12,SE-15,Negeri Sembilan,N.25 Paroi,2,13220,Norwani Ahmat,PH,092-SPP,SPP,8,PH,18301,42.47649994197516,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.25 Paroi,2,13220,Norwani Ahmat,PH,046-AMANAH,AMANAH,8,PH,18301,42.47649994197516,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.25 Paroi,3,10448,Hj Kamarol Ridzuan,PN,004-PAS,PAS,11,PN,23840,55.33248230242543,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.26 Chembong,1,13969,Bakly Bin Baba,PN,046-AMANAH,AMANAH,11,PN,6926,38.08214658822236,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.26 Chembong,1,13969,Bakly Bin Baba,PN,107-BERSATU,BERSATU,11,PN,6926,38.08214658822236,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.26 Chembong,2,9379,Dato' Haji Zaifulbahri Bin Haji Idris,BN,001-UMNO,UMNO,3,BN,11261,61.91785341177764,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.27 Rantau,1,13970,Rozmal Bin Malakan,PN,004-PAS,PAS,11,PN,6677,28.25167132097825,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.27 Rantau,2,8601,Tok Mat,BN,001-UMNO,UMNO,3,BN,16957,71.74832867902174,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.28 Kota,1,13971,Suhaimi Bin Aini,BN,001-UMNO,UMNO,3,BN,5869,50.58174610014652,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.28 Kota,2,13972,Shukri Bin Shukor,PN,046-AMANAH,AMANAH,11,PN,5734,49.41825389985349,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.28 Kota,2,13972,Shukri Bin Shukor,PN,107-BERSATU,BERSATU,11,PN,5734,49.41825389985349,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.29 Chuah,1,13973,Tang Jay Son,PN,026-GERAKAN,GERAKAN,11,PN,1874,18.654190722675693,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.29 Chuah,2,13974,Yew Boon Lye,PH,066-UPKO-1,UPKO,8,PH,8172,81.3458092773243,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.29 Chuah,2,13974,Yew Boon Lye,PH,078-PKR,PKR,8,PH,8172,81.3458092773243,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.30 Lukut,1,13975,S. Ragu,PN,004-PAS,PAS,11,PN,3561,20.635104595236715,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.30 Lukut,2,11844,Choo Ken Hwa,PH,021-DAP,DAP,8,PH,13696,79.36489540476327,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.31 Bagan Pinang,1,13976,Ustaz Fatah,PN,004-PAS,PAS,11,PN,10921,59.301694178974806,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.31 Bagan Pinang,2,13977,Najib Tan Sri Isa,BN,001-UMNO,UMNO,3,BN,7495,40.698305821025194,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.32 Linggi,1,8607,Datuk Mohd Faizal Ramli,BN,001-UMNO,UMNO,3,BN,7832,55.14327958881926,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.32 Linggi,2,13978,Zamri Bin Md Said,PN,046-AMANAH,AMANAH,11,PN,6371,44.85672041118073,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.33 Sri Tanjung,1,13979,Zabidi Bin Ariffin,PN,046-AMANAH,AMANAH,11,PN,4243,33.99294984778081,2,lost
-2023-08-12,SE-15,Negeri Sembilan,N.33 Sri Tanjung,2,13980,Dr.Raja,PH,066-UPKO-1,UPKO,8,PH,8239,66.0070501522192,1,won
-2023-08-12,SE-15,Negeri Sembilan,N.34 Gemas,1,13981,Haji Ridzuan Ahmad,PN,046-AMANAH,AMANAH,11,PN,11653,57.72812840582582,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.32 Linggi,2,13978,Zamri Bin Md Said,PN,107-BERSATU,BERSATU,11,PN,6371,44.85672041118073,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.33 Sri Tanjung,1,13979,Zabidi Bin Ariffin,PN,107-BERSATU,BERSATU,11,PN,4243,33.99294984778081,2,lost
+2023-08-12,SE-15,Negeri Sembilan,N.33 Sri Tanjung,2,13980,Dr.Raja,PH,078-PKR,PKR,8,PH,8239,66.0070501522192,1,won
+2023-08-12,SE-15,Negeri Sembilan,N.34 Gemas,1,13981,Haji Ridzuan Ahmad,PN,107-BERSATU,BERSATU,11,PN,11653,57.72812840582582,1,won
 2023-08-12,SE-15,Negeri Sembilan,N.34 Gemas,2,10457,Abd Razak Bin Ab Said,BN,001-UMNO,UMNO,3,BN,8533,42.27187159417418,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.35 Gemencheh,1,13982,Ustaz Tengku,PN,004-PAS,PAS,11,PN,6471,42.08506763787721,2,lost
 2023-08-12,SE-15,Negeri Sembilan,N.35 Gemencheh,2,13983,Suhaimizan Bizar (Hai),BN,001-UMNO,UMNO,3,BN,8905,57.914932362122784,1,won

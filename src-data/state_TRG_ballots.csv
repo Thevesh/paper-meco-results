@@ -1,170 +1,170 @@
 date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ballot,party_uid,party,coalition_uid,coalition,votes,votes_perc,rank,result
 1959-05-20,SE-01,Terengganu,N.01 Kuala Besut,1,533,Abu Bakar Bin Ahmad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,942,28.519527702089007,3,lost
 1959-05-20,SE-01,Terengganu,N.01 Kuala Besut,2,534,Haji Wan Said Bin Haji Mohd. Nor,PAS,004-PAS,PAS,0,ALONE,1303,39.448985770511655,1,won
-1959-05-20,SE-01,Terengganu,N.01 Kuala Besut,3,535,Wan Ali Bin Jusoh,SF,010-PML,PML,2,SF,1058,32.03148652739933,2,lost
+1959-05-20,SE-01,Terengganu,N.01 Kuala Besut,3,535,Wan Ali Bin Jusoh,SF,009-PR,PR,2,SF,1058,32.03148652739933,2,lost
 1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,1,536,Wan Ishak Bin Ali,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,677,27.84862196626903,2,lost
 1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,2,537,Mohd. Senari Bin Yunus,PAS,004-PAS,PAS,0,ALONE,1070,44.01480872069107,1,won
-1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,3,538,Wan Abdullah Bin Musa,SF,010-PML,PML,2,SF,379,15.590292060880294,3,lost
-1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,4,539,Idris Bin Hassan,NEG,007-NAP,NAP,0,ALONE,305,12.546277252159605,4,lost
+1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,3,538,Wan Abdullah Bin Musa,SF,009-PR,PR,2,SF,379,15.590292060880294,3,lost
+1959-05-20,SE-01,Terengganu,N.02 Kampong Raja,4,539,Idris Bin Hassan,NEG,008-NEG,NEG,0,ALONE,305,12.546277252159605,4,lost
 1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,1,540,Zainal Abidin Bin Mohamed Amin,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,435,15.327695560253698,3,lost
 1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,2,541,Husin Bin Jusoh,PAS,004-PAS,PAS,0,ALONE,1528,53.84073291050036,1,won
-1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,3,542,Ibrahim Bin Ismail,SF,010-PML,PML,2,SF,702,24.735729386892178,2,lost
-1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,4,543,Mohd. Fauzi Bin Hussain,NEG,007-NAP,NAP,0,ALONE,173,6.095842142353771,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,3,542,Ibrahim Bin Ismail,SF,009-PR,PR,2,SF,702,24.735729386892178,2,lost
+1959-05-20,SE-01,Terengganu,N.03 Ulu Besut,4,543,Mohd. Fauzi Bin Hussain,NEG,008-NEG,NEG,0,ALONE,173,6.095842142353771,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,1,544,Ismail Bin Yusof,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,488,17.960986382039014,2,lost
 1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,2,545,Haji Mohamed Bin Ismail,PAS,004-PAS,PAS,0,ALONE,1994,73.38976812661024,1,won
-1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,3,546,Omar Bin Ahmad,NEG,007-NAP,NAP,0,ALONE,235,8.649245491350754,3,lost_deposit
+1959-05-20,SE-01,Terengganu,N.04 Besut Tengah,3,546,Omar Bin Ahmad,NEG,008-NEG,NEG,0,ALONE,235,8.649245491350754,3,lost_deposit
 1959-05-20,SE-01,Terengganu,N.05 Setiu,1,547,Mohamad Yusoff Bin Hj. Md. Amin,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,611,20.158363576377432,2,lost
 1959-05-20,SE-01,Terengganu,N.05 Setiu,2,548,Mohd. Daud Bin Abdul Samad,PAS,004-PAS,PAS,0,ALONE,1964,64.79709666776643,1,won
-1959-05-20,SE-01,Terengganu,N.05 Setiu,3,549,Abdul Ghani Bin Sulong,SF,010-PML,PML,2,SF,376,12.405146816232266,3,lost_deposit
-1959-05-20,SE-01,Terengganu,N.05 Setiu,4,550,Che' Mohd. Zin Bin Haji Mohd. Amin,NEG,007-NAP,NAP,0,ALONE,80,2.6393929396238867,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,1,551,Mohamed Amin Bin Mohamed,SF,010-PML,PML,2,SF,334,8.168256297383223,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,2,552,Haji Abdullah Bin Bidin,NEG,007-NAP,NAP,0,ALONE,974,23.820004891171436,2,lost
+1959-05-20,SE-01,Terengganu,N.05 Setiu,3,549,Abdul Ghani Bin Sulong,SF,009-PR,PR,2,SF,376,12.405146816232266,3,lost_deposit
+1959-05-20,SE-01,Terengganu,N.05 Setiu,4,550,Che' Mohd. Zin Bin Haji Mohd. Amin,NEG,008-NEG,NEG,0,ALONE,80,2.6393929396238867,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,1,551,Mohamed Amin Bin Mohamed,SF,009-PR,PR,2,SF,334,8.168256297383223,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,2,552,Haji Abdullah Bin Bidin,NEG,008-NEG,NEG,0,ALONE,974,23.820004891171436,2,lost
 1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,3,553,Mohd. Rashid Bin Su Mahmud,PAS,004-PAS,PAS,0,ALONE,514,12.570310589386157,3,lost
 1959-05-20,SE-01,Terengganu,N.06 Batu Rakit,4,554,Mansor Bin Mohamed,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2267,55.44142822205919,1,won
 1959-05-20,SE-01,Terengganu,N.07 Kuala Nerus,1,555,Haji Abas Bin Haji Mohamed,PAS,004-PAS,PAS,0,ALONE,1655,45.857578276530894,2,lost
 1959-05-20,SE-01,Terengganu,N.07 Kuala Nerus,2,122,Ibrahim Fikri,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1954,54.142421723469106,1,won
 1959-05-20,SE-01,Terengganu,N.08 Jeram,1,556,Mohamed Said Bin Abdullah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1270,36.4105504587156,2,lost
 1959-05-20,SE-01,Terengganu,N.08 Jeram,2,557,Ahmad Azzam,PAS,004-PAS,PAS,0,ALONE,1776,50.917431192660544,1,won
-1959-05-20,SE-01,Terengganu,N.08 Jeram,3,558,Syed Salleh Bin Mustafa,NEG,007-NAP,NAP,0,ALONE,442,12.672018348623853,3,lost
+1959-05-20,SE-01,Terengganu,N.08 Jeram,3,558,Syed Salleh Bin Mustafa,NEG,008-NEG,NEG,0,ALONE,442,12.672018348623853,3,lost
 1959-05-20,SE-01,Terengganu,N.09 Langkap,1,559,Ngah Bin Awang,PAS,004-PAS,PAS,0,ALONE,685,24.128214159915462,3,lost
 1959-05-20,SE-01,Terengganu,N.09 Langkap,2,560,Abdul Rahman Bin Long,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,774,27.26312081718915,2,lost
-1959-05-20,SE-01,Terengganu,N.09 Langkap,3,561,Ismail Bin Abas,NEG,007-NAP,NAP,0,ALONE,910,32.0535399788658,1,won
+1959-05-20,SE-01,Terengganu,N.09 Langkap,3,561,Ismail Bin Abas,NEG,008-NEG,NEG,0,ALONE,910,32.0535399788658,1,won
 1959-05-20,SE-01,Terengganu,N.09 Langkap,4,562,Abdul Rashid Bin Hussin,BEBAS,000-BEBAS,BEBAS,0,ALONE,470,16.555125044029587,4,lost
 1959-05-20,SE-01,Terengganu,N.10 Bandar,1,563,Harun Bin Mohamed Hassan,BEBAS,000-BEBAS,BEBAS,0,ALONE,668,22.22222222222222,3,lost
 1959-05-20,SE-01,Terengganu,N.10 Bandar,2,564,Tan Eng Ann,PERIKATAN,003-MCA,MCA,1,PERIKATAN,1628,54.1583499667332,1,won
 1959-05-20,SE-01,Terengganu,N.10 Bandar,3,565,Mohamed Bin Chik,PAS,004-PAS,PAS,0,ALONE,710,23.619427811044577,2,lost
 1959-05-20,SE-01,Terengganu,N.11 Ladang,1,566,Saripah Azzah Apple,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,793,23.503260225251925,3,lost
-1959-05-20,SE-01,Terengganu,N.11 Ladang,2,567,Syed Abdullah Bin Ahmad,SF,010-PML,PML,2,SF,178,5.275637225844695,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.11 Ladang,3,568,Wan Daud Bin Haji Wan Ahmad,NEG,007-NAP,NAP,0,ALONE,1459,43.24244220509781,1,won
+1959-05-20,SE-01,Terengganu,N.11 Ladang,2,567,Syed Abdullah Bin Ahmad,SF,009-PR,PR,2,SF,178,5.275637225844695,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.11 Ladang,3,568,Wan Daud Bin Haji Wan Ahmad,NEG,008-NEG,NEG,0,ALONE,1459,43.24244220509781,1,won
 1959-05-20,SE-01,Terengganu,N.11 Ladang,4,569,Da Abdul Jalil Bin Haji Awang,PAS,004-PAS,PAS,0,ALONE,944,27.978660343805572,2,lost
 1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,1,570,Syed Ahmad Khalid,PAS,004-PAS,PAS,0,ALONE,322,10.997267759562842,3,lost_deposit
 1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,2,571,Engku Wok Abdul Rahman,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1151,39.310109289617486,2,lost
-1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,3,572,Engku Dalam Bin Chik,SF,010-PML,PML,2,SF,155,5.293715846994536,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,4,573,Mohamed Bin Abdul Rahman,NEG,007-NAP,NAP,0,ALONE,1300,44.39890710382514,1,won
+1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,3,572,Engku Dalam Bin Chik,SF,009-PR,PR,2,SF,155,5.293715846994536,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.12 Bukit Besar,4,573,Mohamed Bin Abdul Rahman,NEG,008-NEG,NEG,0,ALONE,1300,44.39890710382514,1,won
 1959-05-20,SE-01,Terengganu,N.13 Batu Burok,1,574,Su Mahmud Bin Dato' Amar,PAS,004-PAS,PAS,0,ALONE,487,17.081725710277095,3,lost
 1959-05-20,SE-01,Terengganu,N.13 Batu Burok,2,575,Muda Bin Abdullah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,948,33.25149070501578,2,lost
-1959-05-20,SE-01,Terengganu,N.13 Batu Burok,3,576,Wan Hasan Bin Wan Abdul Kadir,SF,010-PML,PML,2,SF,101,3.5426166257453526,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.13 Batu Burok,4,577,Haji Abdul Mutalib Bin Haji Salleh,NEG,007-NAP,NAP,0,ALONE,1315,46.124166958961766,1,won
-1959-05-20,SE-01,Terengganu,N.14 Marang,1,578,Mohamed Taib Bin Haji Ismail,NEG,007-NAP,NAP,0,ALONE,798,17.956795679567957,3,lost
+1959-05-20,SE-01,Terengganu,N.13 Batu Burok,3,576,Wan Hasan Bin Wan Abdul Kadir,SF,009-PR,PR,2,SF,101,3.5426166257453526,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.13 Batu Burok,4,577,Haji Abdul Mutalib Bin Haji Salleh,NEG,008-NEG,NEG,0,ALONE,1315,46.124166958961766,1,won
+1959-05-20,SE-01,Terengganu,N.14 Marang,1,578,Mohamed Taib Bin Haji Ismail,NEG,008-NEG,NEG,0,ALONE,798,17.956795679567957,3,lost
 1959-05-20,SE-01,Terengganu,N.14 Marang,2,579,Mohd. Taib Sabri,PAS,004-PAS,PAS,0,ALONE,2421,54.47794779477948,1,won
 1959-05-20,SE-01,Terengganu,N.14 Marang,3,580,Noordin Bin Haji Mohamed,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1130,25.42754275427543,2,lost
-1959-05-20,SE-01,Terengganu,N.14 Marang,4,581,Abu Bakar Bin Haji Saman,SF,010-PML,PML,2,SF,95,2.1377137713771375,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.14 Marang,4,581,Abu Bakar Bin Haji Saman,SF,009-PR,PR,2,SF,95,2.1377137713771375,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.15 Sura,1,582,Wan Din Bin Embong,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1307,38.57733175914994,2,lost
 1959-05-20,SE-01,Terengganu,N.15 Sura,2,583,Abu Bakar Bin Mohamed Salleh,PAS,004-PAS,PAS,0,ALONE,1423,42.00118063754427,1,won
-1959-05-20,SE-01,Terengganu,N.15 Sura,3,584,Abdul Malik Bin Mohamed Ali,SF,010-PML,PML,2,SF,229,6.759149940968124,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.15 Sura,4,585,Muda Bin Mohd. Amin,NEG,007-NAP,NAP,0,ALONE,429,12.662337662337661,3,lost
+1959-05-20,SE-01,Terengganu,N.15 Sura,3,584,Abdul Malik Bin Mohamed Ali,SF,009-PR,PR,2,SF,229,6.759149940968124,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.15 Sura,4,585,Muda Bin Mohd. Amin,NEG,008-NEG,NEG,0,ALONE,429,12.662337662337661,3,lost
 1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,1,586,Wan Omar Shukri Bin Embong,PAS,004-PAS,PAS,0,ALONE,1319,41.9262555626192,1,won
-1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,2,587,Bidin Bin Yusof,SF,010-PML,PML,2,SF,276,8.773045136681501,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,2,587,Bidin Bin Yusof,SF,009-PR,PR,2,SF,276,8.773045136681501,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,3,588,Mohamed Bin Othman,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1228,39.03369357914813,2,lost
-1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,4,589,Mohd. Amin Bin Mahmood,NEG,007-NAP,NAP,0,ALONE,323,10.267005721551175,3,lost_deposit
+1959-05-20,SE-01,Terengganu,N.16 Ulu Dungun,4,589,Mohd. Amin Bin Mahmood,NEG,008-NEG,NEG,0,ALONE,323,10.267005721551175,3,lost_deposit
 1959-05-20,SE-01,Terengganu,N.17 Paka Kerteh,1,590,Sulong Bin Mahmood,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1382,42.83942963422195,1,won
-1959-05-20,SE-01,Terengganu,N.17 Paka Kerteh,2,591,Engku Chik Bin Mat,NEG,007-NAP,NAP,0,ALONE,301,9.330440173589585,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.17 Paka Kerteh,2,591,Engku Chik Bin Mat,NEG,008-NEG,NEG,0,ALONE,301,9.330440173589585,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.17 Paka Kerteh,3,592,Ahmad Haji Mahmood,PAS,004-PAS,PAS,0,ALONE,815,25.263484190948542,2,lost
 1959-05-20,SE-01,Terengganu,N.17 Paka Kerteh,4,593,T. Shahadan Majid,BEBAS,000-BEBAS,BEBAS,0,ALONE,728,22.566646001239928,3,lost
 1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,1,594,Awang Abdul Rahman Bin Salleh,PAS,004-PAS,PAS,0,ALONE,849,31.561338289962826,2,lost
-1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,2,595,Mohammed Bin Yusof,NEG,007-NAP,NAP,0,ALONE,217,8.066914498141264,3,lost_deposit
+1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,2,595,Mohammed Bin Yusof,NEG,008-NEG,NEG,0,ALONE,217,8.066914498141264,3,lost_deposit
 1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,3,596,Wan Abdul Ghani Bin Zainal,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1488,55.31598513011152,1,won
-1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,4,597,Muda Bin Salleh,SF,010-PML,PML,2,SF,136,5.055762081784387,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.19 Chukai,1,598,Abu Bakar Bin Mohd. Amin,SF,010-PML,PML,2,SF,474,17.407271391847225,2,lost
+1959-05-20,SE-01,Terengganu,N.18 Kemaman Utara,4,597,Muda Bin Salleh,SF,009-PR,PR,2,SF,136,5.055762081784387,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.19 Chukai,1,598,Abu Bakar Bin Mohd. Amin,SF,009-PR,PR,2,SF,474,17.407271391847225,2,lost
 1959-05-20,SE-01,Terengganu,N.19 Chukai,2,599,Mohammad Bin Omar,BEBAS,000-BEBAS,BEBAS,0,ALONE,84,3.0848329048843186,5,lost_deposit
 1959-05-20,SE-01,Terengganu,N.19 Chukai,3,600,Wan Ngah Bin Abdul Rahman,PAS,004-PAS,PAS,0,ALONE,250,9.18105031215571,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.19 Chukai,4,601,Yeo Eng Cho,PERIKATAN,003-MCA,MCA,1,PERIKATAN,1521,55.85751009915534,1,won
-1959-05-20,SE-01,Terengganu,N.19 Chukai,5,602,Abdullah Bin Yusof,NEG,007-NAP,NAP,0,ALONE,394,14.4693352919574,3,lost
-1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,1,603,Hashim Bin Haji Hussin,SF,010-PML,PML,2,SF,288,7.218045112781955,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.19 Chukai,5,602,Abdullah Bin Yusof,NEG,008-NEG,NEG,0,ALONE,394,14.4693352919574,3,lost
+1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,1,603,Hashim Bin Haji Hussin,SF,009-PR,PR,2,SF,288,7.218045112781955,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,2,604,Mohd. Taha Bin Embong,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1606,40.250626566416045,1,won
 1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,3,605,Syed Noh Bin Alwee,PAS,004-PAS,PAS,0,ALONE,726,18.195488721804512,3,lost
-1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,4,606,Ahmad Effendi Bin Dorin,NEG,007-NAP,NAP,0,ALONE,1370,34.335839598997495,2,lost
+1959-05-20,SE-01,Terengganu,N.20 Kemaman Selatan,4,606,Ahmad Effendi Bin Dorin,NEG,008-NEG,NEG,0,ALONE,1370,34.335839598997495,2,lost
 1959-05-20,SE-01,Terengganu,N.21 Kuala Trengganu Tengah,1,607,Dato' Perwira,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,678,20.166567519333732,3,lost
 1959-05-20,SE-01,Terengganu,N.21 Kuala Trengganu Tengah,2,608,Haji Abdul Kadir Mohamed,PAS,004-PAS,PAS,0,ALONE,1607,47.79892920880428,1,won
-1959-05-20,SE-01,Terengganu,N.21 Kuala Trengganu Tengah,3,609,Mohamad Bin Cheak,NEG,007-NAP,NAP,0,ALONE,1077,32.034503271861986,2,lost
+1959-05-20,SE-01,Terengganu,N.21 Kuala Trengganu Tengah,3,609,Mohamad Bin Cheak,NEG,008-NEG,NEG,0,ALONE,1077,32.034503271861986,2,lost
 1959-05-20,SE-01,Terengganu,N.22 Binjai,1,610,Haji Shafie Bin Haji Long,PAS,004-PAS,PAS,0,ALONE,1874,46.283032847616695,1,won
-1959-05-20,SE-01,Terengganu,N.22 Binjai,2,611,Ali Bin Haji Abdullah,NEG,007-NAP,NAP,0,ALONE,629,15.53469992590763,3,lost
+1959-05-20,SE-01,Terengganu,N.22 Binjai,2,611,Ali Bin Haji Abdullah,NEG,008-NEG,NEG,0,ALONE,629,15.53469992590763,3,lost
 1959-05-20,SE-01,Terengganu,N.22 Binjai,3,183,Ismail Bin Haji Kassim,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1247,30.797727834033097,2,lost
-1959-05-20,SE-01,Terengganu,N.22 Binjai,4,612,Abdul Latif Bin Haji Fakeh,SF,010-PML,PML,2,SF,299,7.384539392442578,4,lost_deposit
+1959-05-20,SE-01,Terengganu,N.22 Binjai,4,612,Abdul Latif Bin Haji Fakeh,SF,009-PR,PR,2,SF,299,7.384539392442578,4,lost_deposit
 1959-05-20,SE-01,Terengganu,N.23 Ulu Trengganu Timor,1,613,Ismail Bin Haji Yusof,PAS,004-PAS,PAS,0,ALONE,1522,40.3927813163482,1,won
 1959-05-20,SE-01,Terengganu,N.23 Ulu Trengganu Timor,2,614,Abdul Rahman Bin Kassim,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1072,28.450106157112526,2,lost
-1959-05-20,SE-01,Terengganu,N.23 Ulu Trengganu Timor,3,615,Mohamed Bin Ismail,SF,010-PML,PML,2,SF,512,13.588110403397028,4,lost
+1959-05-20,SE-01,Terengganu,N.23 Ulu Trengganu Timor,3,615,Mohamed Bin Ismail,SF,009-PR,PR,2,SF,512,13.588110403397028,4,lost
 1959-05-20,SE-01,Terengganu,N.23 Ulu Trengganu Timor,4,185,Setia Bin Abu Bakar,BEBAS,000-BEBAS,BEBAS,0,ALONE,662,17.569002123142248,3,lost
 1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,1,616,Wan Ngah Bin Ahmad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1209,32.81758957654723,2,lost
-1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,2,617,Osman Bin Ismail,SF,010-PML,PML,2,SF,812,22.041259500542886,3,lost
+1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,2,617,Osman Bin Ismail,SF,009-PR,PR,2,SF,812,22.041259500542886,3,lost
 1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,3,618,Omar Bin Abdul Rahman,PAS,004-PAS,PAS,0,ALONE,1367,37.10640608034745,1,won
 1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,4,619,Raja Harun Bin Ja'Afar,BEBAS,000-BEBAS,BEBAS,0,ALONE,181,4.91313789359392,4,lost_deposit
-1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,5,620,Abu Bin Orang Kaya,NEG,007-NAP,NAP,0,ALONE,115,3.1216069489685125,5,lost_deposit
+1959-05-20,SE-01,Terengganu,N.24 Ulu Trengganu Barat,5,620,Abu Bin Orang Kaya,NEG,008-NEG,NEG,0,ALONE,115,3.1216069489685125,5,lost_deposit
 1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,1,1296,Yusof Bin Mat Sah,PAS,004-PAS,PAS,0,ALONE,1658,38.361869504858866,2,lost
-1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,2,1297,Che Idris Bin Hassan,PN,007-NAP,NAP,0,ALONE,31,0.7172605275335493,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,2,1297,Che Idris Bin Hassan,PN,008-NEG,NEG,0,ALONE,31,0.7172605275335493,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,3,1298,Zakaria Bin Muda,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1988,45.997223507635354,1,won
-1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,4,535,Wan Ali Bin Jusoh,SF,010-PML,PML,2,SF,645,14.923646459972234,3,lost
+1964-04-25,SE-02,Terengganu,N.01 Kuala Besut,4,535,Wan Ali Bin Jusoh,SF,009-PR,PR,2,SF,645,14.923646459972234,3,lost
 1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,1,537,Mohd. Senari Bin Yunus,PAS,004-PAS,PAS,0,ALONE,1498,44.55681142177275,2,lost
-1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,2,1299,Abd. Hamid Bin Embong,PN,007-NAP,NAP,0,ALONE,40,1.189767995240928,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,2,1299,Abd. Hamid Bin Embong,PN,008-NEG,NEG,0,ALONE,40,1.189767995240928,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,3,536,Wan Ishak Bin Ali,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1662,49.43486020226056,1,won
-1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,4,1300,Muda Bin Abu Bakar,SF,010-PML,PML,2,SF,162,4.818560380725759,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.02 Kampong Raja,4,1300,Muda Bin Abu Bakar,SF,009-PR,PR,2,SF,162,4.818560380725759,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.03 Ulu Besut,1,1301,Lukman Bin Haji Abdul Kadir,PAS,004-PAS,PAS,0,ALONE,2205,49.67334985357063,1,won
 1964-04-25,SE-02,Terengganu,N.03 Ulu Besut,2,1302,Haji Wan Abdul Latif Bin Wan Abd. Kadir,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1891,42.599684613651725,2,lost
-1964-04-25,SE-02,Terengganu,N.03 Ulu Besut,3,542,Ibrahim Bin Ismail,SF,010-PML,PML,2,SF,343,7.726965532777652,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.03 Ulu Besut,3,542,Ibrahim Bin Ismail,SF,009-PR,PR,2,SF,343,7.726965532777652,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.04 Besut Tengah,1,1303,Husin Bin Othman,PAS,004-PAS,PAS,0,ALONE,2337,53.94736842105263,1,won
 1964-04-25,SE-02,Terengganu,N.04 Besut Tengah,2,1304,Abdullah Bin Jusoh,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1995,46.05263157894737,2,lost
 1964-04-25,SE-02,Terengganu,N.05 Setiu,1,1305,Wan Hussein Azmi Bin Abdul Kadir,PAS,004-PAS,PAS,0,ALONE,2328,45.160038797284194,2,lost
-1964-04-25,SE-02,Terengganu,N.05 Setiu,2,1306,Che Ab. Ghani Bin Ismail,PN,007-NAP,NAP,0,ALONE,53,1.0281280310378274,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.05 Setiu,2,1306,Che Ab. Ghani Bin Ismail,PN,008-NEG,NEG,0,ALONE,53,1.0281280310378274,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.05 Setiu,3,1307,Ab. Ghani Bin Hj. Md. Amin,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2774,53.81183317167798,1,won
 1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,1,554,Mansor Bin Mohamad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3333,64.23202929273462,1,won
 1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,2,1308,Mohd. Bin H. A. Rahman,BEBAS,000-BEBAS,BEBAS,0,ALONE,605,11.65927924455579,3,lost_deposit
-1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,3,1309,Che' A. Rahman Bin Muda,PN,007-NAP,NAP,0,ALONE,178,3.4303333975717867,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,3,1309,Che' A. Rahman Bin Muda,PN,008-NEG,NEG,0,ALONE,178,3.4303333975717867,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.06 Batu Rakit,4,1310,Wan Derahim Bin Wan Mohd.,PAS,004-PAS,PAS,0,ALONE,1073,20.678358065137793,2,lost
 1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,1,1311,Nik Ismail,PAS,004-PAS,PAS,0,ALONE,1512,33.36275375110326,2,lost
-1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,2,1312,Che' Ismail Bin Abdul Rahman,PN,007-NAP,NAP,0,ALONE,185,4.0820829655781115,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,2,1312,Che' Ismail Bin Abdul Rahman,PN,008-NEG,NEG,0,ALONE,185,4.0820829655781115,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.07 Kuala Nerus,3,122,Dato' Ibrahim Fikri,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2835,62.55516328331863,1,won
-1964-04-25,SE-02,Terengganu,N.08 Jeram,1,1313,Che' Hashim Bin Yusof,PN,007-NAP,NAP,0,ALONE,279,6.517168885774352,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.08 Jeram,1,1313,Che' Hashim Bin Yusof,PN,008-NEG,NEG,0,ALONE,279,6.517168885774352,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.08 Jeram,2,1314,Abdul Rashid Bin Muhammad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2715,63.419761737911706,1,won
 1964-04-25,SE-02,Terengganu,N.08 Jeram,3,1315,Mohd. Nor Bin Ali,PAS,004-PAS,PAS,0,ALONE,1287,30.063069376313944,2,lost
-1964-04-25,SE-02,Terengganu,N.09 Langkap,1,562,Abdul Rashid Bin Hussin,PN,007-NAP,NAP,0,ALONE,393,9.30838465182378,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.09 Langkap,1,562,Abdul Rashid Bin Hussin,PN,008-NEG,NEG,0,ALONE,393,9.30838465182378,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.09 Langkap,2,560,Abdul Rahman Bin Long,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2200,52.108005684509706,1,won
 1964-04-25,SE-02,Terengganu,N.09 Langkap,3,561,Ismail Bin Abbas,PAS,004-PAS,PAS,0,ALONE,1629,38.58360966366651,2,lost
 1964-04-25,SE-02,Terengganu,N.10 Bandar,1,564,Tan Eng Ann,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2703,67.69346356123216,1,won
 1964-04-25,SE-02,Terengganu,N.10 Bandar,2,1316,Abd. Rahman Bin Mohamed Salleh,PAS,004-PAS,PAS,0,ALONE,1290,32.30653643876784,2,lost
 1964-04-25,SE-02,Terengganu,N.11 Ladang,1,568,Wan Daud Bin Haji Wan Ahmad,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2096,49.0177736202058,1,won
-1964-04-25,SE-02,Terengganu,N.11 Ladang,2,340,Garieb Bin Abdul Raouf,PN,007-NAP,NAP,0,ALONE,1813,42.39943872778297,2,lost
+1964-04-25,SE-02,Terengganu,N.11 Ladang,2,340,Garieb Bin Abdul Raouf,PN,008-NEG,NEG,0,ALONE,1813,42.39943872778297,2,lost
 1964-04-25,SE-02,Terengganu,N.11 Ladang,3,1317,Harun Bin Jusoh,PAS,004-PAS,PAS,0,ALONE,367,8.582787652011225,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.12 Bukit Besar,1,602,Abdullah Bin Yusoff,PAS,004-PAS,PAS,0,ALONE,965,23.50791717417783,3,lost
-1964-04-25,SE-02,Terengganu,N.12 Bukit Besar,2,1318,Ibrahim Bin Ismail,PN,007-NAP,NAP,0,ALONE,1061,25.846528623629723,2,lost
+1964-04-25,SE-02,Terengganu,N.12 Bukit Besar,2,1318,Ibrahim Bin Ismail,PN,008-NEG,NEG,0,ALONE,1061,25.846528623629723,2,lost
 1964-04-25,SE-02,Terengganu,N.12 Bukit Besar,3,1319,Tuan Pengeran Bin Chik,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2079,50.64555420219244,1,won
 1964-04-25,SE-02,Terengganu,N.13 Batu Burok,1,577,Haji Abdul Muttalib Bin Haji Salleh,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2542,57.34265734265735,1,won
-1964-04-25,SE-02,Terengganu,N.13 Batu Burok,2,1320,Che' Ismail @ Mat Yassin Bin Mohamed Daud,PN,007-NAP,NAP,0,ALONE,1891,42.65734265734265,2,lost
-1964-04-25,SE-02,Terengganu,N.14 Marang,1,1321,Wan Ismail Bin Muda,PN,007-NAP,NAP,0,ALONE,250,4.857198367981348,3,lost_deposit
-1964-04-25,SE-02,Terengganu,N.14 Marang,2,1322,Mohd. Salleh Bin Ali,SF,010-PML,PML,2,SF,155,3.011462988148436,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.13 Batu Burok,2,1320,Che' Ismail @ Mat Yassin Bin Mohamed Daud,PN,008-NEG,NEG,0,ALONE,1891,42.65734265734265,2,lost
+1964-04-25,SE-02,Terengganu,N.14 Marang,1,1321,Wan Ismail Bin Muda,PN,008-NEG,NEG,0,ALONE,250,4.857198367981348,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.14 Marang,2,1322,Mohd. Salleh Bin Ali,SF,009-PR,PR,2,SF,155,3.011462988148436,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.14 Marang,3,1323,Abdullah Bin Haji Mohamed,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2930,56.926364872741395,1,won
 1964-04-25,SE-02,Terengganu,N.14 Marang,4,578,Haji Mohamed Taib Bin Haji Ismail,PAS,004-PAS,PAS,0,ALONE,1812,35.20497377112881,2,lost
-1964-04-25,SE-02,Terengganu,N.15 Sura,1,1324,Syed Ali Bin Mohsin,PN,007-NAP,NAP,0,ALONE,149,3.980764092973551,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.15 Sura,1,1324,Syed Ali Bin Mohsin,PN,008-NEG,NEG,0,ALONE,149,3.980764092973551,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.15 Sura,2,582,Wan Din Bin Embong,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,1853,49.5057440555704,1,won
-1964-04-25,SE-02,Terengganu,N.15 Sura,3,1325,Muhamad @ Abdul Bin Ibrahim,SF,010-PML,PML,2,SF,270,7.213465134918515,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.15 Sura,3,1325,Muhamad @ Abdul Bin Ibrahim,SF,009-PR,PR,2,SF,270,7.213465134918515,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.15 Sura,4,586,Omar Shukri Bin Embong,PAS,004-PAS,PAS,0,ALONE,1471,39.30002671653754,2,lost
 1964-04-25,SE-02,Terengganu,N.16 Ulu Dungun,1,1326,Abdul Wahab Bin Yunus,PAS,004-PAS,PAS,0,ALONE,2733,48.19255863163463,1,won
 1964-04-25,SE-02,Terengganu,N.16 Ulu Dungun,2,181,Mohamed Adib Bin Omar,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2716,47.89278786810087,2,lost
-1964-04-25,SE-02,Terengganu,N.16 Ulu Dungun,3,1327,Ngah Bin Abd. Karim,PN,007-NAP,NAP,0,ALONE,222,3.914653500264503,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.16 Ulu Dungun,3,1327,Ngah Bin Abd. Karim,PN,008-NEG,NEG,0,ALONE,222,3.914653500264503,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.17 Paka Kerteh,1,593,Tengku Shahadan Majid,PAS,004-PAS,PAS,0,ALONE,1820,39.38541441246484,2,lost
 1964-04-25,SE-02,Terengganu,N.17 Paka Kerteh,2,590,Sulong Bin Mahmood,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2801,60.61458558753516,1,won
-1964-04-25,SE-02,Terengganu,N.18 Kemaman Utara,1,1328,Hamzah Bin Mahmud,SF,010-PML,PML,2,SF,346,11.179321486268174,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.18 Kemaman Utara,1,1328,Hamzah Bin Mahmud,SF,009-PR,PR,2,SF,346,11.179321486268174,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.18 Kemaman Utara,2,610,Haji Shafie Bin Haji Sulong,PAS,004-PAS,PAS,0,ALONE,534,17.253634894991922,2,lost
 1964-04-25,SE-02,Terengganu,N.18 Kemaman Utara,3,596,Che' Wan Abdul Ghani Bin Zainal,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2215,71.5670436187399,1,won
 1964-04-25,SE-02,Terengganu,N.19 Chukai,1,1329,Othman Bin Awang,PAS,004-PAS,PAS,0,ALONE,170,5.427841634738186,3,lost_deposit
-1964-04-25,SE-02,Terengganu,N.19 Chukai,2,1104,Wan Hamid Bin Wan Ibrahim,SF,010-PML,PML,2,SF,878,28.033205619412517,2,lost
+1964-04-25,SE-02,Terengganu,N.19 Chukai,2,1104,Wan Hamid Bin Wan Ibrahim,SF,009-PR,PR,2,SF,878,28.033205619412517,2,lost
 1964-04-25,SE-02,Terengganu,N.19 Chukai,3,604,Dato' Wira Jaya,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2084,66.5389527458493,1,won
-1964-04-25,SE-02,Terengganu,N.20 Kemaman Selatan,1,1330,Syed Agil Bin Syed Mohsin,PN,007-NAP,NAP,0,ALONE,1105,23.18019718900776,2,lost
+1964-04-25,SE-02,Terengganu,N.20 Kemaman Selatan,1,1330,Syed Agil Bin Syed Mohsin,PN,008-NEG,NEG,0,ALONE,1105,23.18019718900776,2,lost
 1964-04-25,SE-02,Terengganu,N.20 Kemaman Selatan,2,1331,Tengku Haji Majid Bin Tengku Haji Karim,PAS,004-PAS,PAS,0,ALONE,830,17.411369834277323,3,lost
 1964-04-25,SE-02,Terengganu,N.20 Kemaman Selatan,3,1332,Wan Ismail Bin Haji Wan Musa,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2832,59.40843297671492,1,won
-1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,1,1333,Che' Tahar Bin Teras,PN,007-NAP,NAP,0,ALONE,197,4.041025641025641,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,1,1333,Che' Tahar Bin Teras,PN,008-NEG,NEG,0,ALONE,197,4.041025641025641,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,2,571,Engku Wok Abdul Rahman Bin Abdul Kadir,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2401,49.251282051282054,1,won
-1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,3,581,Abu Bakar Bin Haji Saman,SF,010-PML,PML,2,SF,109,2.235897435897436,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,3,581,Abu Bakar Bin Haji Saman,SF,009-PR,PR,2,SF,109,2.235897435897436,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.21 Kuala Trengganu Tengah,4,1334,Da Jalil,PAS,004-PAS,PAS,0,ALONE,2168,44.47179487179487,2,lost
 1964-04-25,SE-02,Terengganu,N.22 Binjai,1,1335,Ahmad Omar,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,3111,54.646056560688564,1,won
 1964-04-25,SE-02,Terengganu,N.22 Binjai,2,1336,Syed Hamzah Bin Tahir,PAS,004-PAS,PAS,0,ALONE,2317,40.6991041630072,2,lost
-1964-04-25,SE-02,Terengganu,N.22 Binjai,3,1337,Said Bin Abdullah,SF,010-PML,PML,2,SF,154,2.705076409625856,3,lost_deposit
-1964-04-25,SE-02,Terengganu,N.22 Binjai,4,611,Che' Ali Bin Haji Abdullah,PN,007-NAP,NAP,0,ALONE,111,1.949762866678377,4,lost_deposit
+1964-04-25,SE-02,Terengganu,N.22 Binjai,3,1337,Said Bin Abdullah,SF,009-PR,PR,2,SF,154,2.705076409625856,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.22 Binjai,4,611,Che' Ali Bin Haji Abdullah,PN,008-NEG,NEG,0,ALONE,111,1.949762866678377,4,lost_deposit
 1964-04-25,SE-02,Terengganu,N.23 Ulu Trengganu Timor,1,614,Abdul Rahman Bin Kassim,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2443,54.060632883381274,1,won
-1964-04-25,SE-02,Terengganu,N.23 Ulu Trengganu Timor,2,615,Mohamed Bin Ismail,SF,010-PML,PML,2,SF,590,13.055985837574685,3,lost
+1964-04-25,SE-02,Terengganu,N.23 Ulu Trengganu Timor,2,615,Mohamed Bin Ismail,SF,009-PR,PR,2,SF,590,13.055985837574685,3,lost
 1964-04-25,SE-02,Terengganu,N.23 Ulu Trengganu Timor,3,1338,Haji Abdul Rashid Bin Haji Su,PAS,004-PAS,PAS,0,ALONE,1486,32.88338127904404,2,lost
-1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,1,617,Osman Bin Ismail,SF,010-PML,PML,2,SF,313,6.518117451062057,3,lost_deposit
+1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,1,617,Osman Bin Ismail,SF,009-PR,PR,2,SF,313,6.518117451062057,3,lost_deposit
 1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,2,618,Che' Omar Bin Abd. Rahman,PAS,004-PAS,PAS,0,ALONE,1432,29.820907955018743,2,lost
-1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,3,1339,Che' Awang Bin Ngah,PN,007-NAP,NAP,0,ALONE,82,1.7076218242399002,5,lost_deposit
+1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,3,1339,Che' Awang Bin Ngah,PN,008-NEG,NEG,0,ALONE,82,1.7076218242399002,5,lost_deposit
 1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,4,1340,Mahmood Bin Sulaiman,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2752,57.3094543940025,1,won
 1964-04-25,SE-02,Terengganu,N.24 Ulu Trengganu Barat,5,185,Setia Bin Abubakar,BEBAS,000-BEBAS,BEBAS,0,ALONE,223,4.643898375676801,4,lost_deposit
 1969-05-10,SE-03,Terengganu,N.01 Kuala Besut,1,2059,Mohamad Bin Said,PAS,004-PAS,PAS,0,ALONE,2826,52.38183503243744,1,won
@@ -187,7 +187,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1969-05-10,SE-03,Terengganu,N.09 Langkap,2,561,Ismail Bin Abbas,PAS,004-PAS,PAS,0,ALONE,2434,47.866273352999016,2,lost
 1969-05-10,SE-03,Terengganu,N.10 Bandar,1,2065,Toh Seng Chong,PERIKATAN,003-MCA,MCA,1,PERIKATAN,2111,48.990485031329776,1,won
 1969-05-10,SE-03,Terengganu,N.10 Bandar,2,2066,Saja Udin Bin Maaruff,PAS,004-PAS,PAS,0,ALONE,1322,30.67997215131121,2,lost
-1969-05-10,SE-03,Terengganu,N.10 Bandar,3,2067,Tan Teng Beng,PR,010-PML,PML,0,ALONE,876,20.329542817359016,3,lost
+1969-05-10,SE-03,Terengganu,N.10 Bandar,3,2067,Tan Teng Beng,PR,009-PR,PR,0,ALONE,876,20.329542817359016,3,lost
 1969-05-10,SE-03,Terengganu,N.11 Ladang,1,2068,Wan Mohamed Bin Wan Ngah,PAS,004-PAS,PAS,0,ALONE,2635,54.07346603734866,1,won
 1969-05-10,SE-03,Terengganu,N.11 Ladang,2,2069,Abdullah Bin Abd. Rahman,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,2238,45.92653396265135,2,lost
 1969-05-10,SE-03,Terengganu,N.12 Bukit Besar,1,2070,Mohd. Ghazali Bin Haji Ahmad,PAS,004-PAS,PAS,0,ALONE,2868,61.308251389482685,1,won
@@ -486,13 +486,13 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,SE-07,Terengganu,N.30 Kijal,1,5353,Mohd Bin Mohd Min,BN,001-UMNO,UMNO,3,BN,2965,67.06627459850712,1,won
 1986-08-02,SE-07,Terengganu,N.30 Kijal,2,5354,Yusoff Bin Haji Tahir,PAS,004-PAS,PAS,18,HAK,1456,32.93372540149287,2,lost
 1986-08-02,SE-07,Terengganu,N.31 Cukai,1,3657,Awang Bin Jusoh,PAS,004-PAS,PAS,18,HAK,2566,30.967897658701425,2,lost
-1986-08-02,SE-07,Terengganu,N.31 Cukai,2,5355,Zainal Abidin Bin Mustafa,SDP,041-PAJAR,PAJAR,18,HAK,158,1.9068307989379676,3,lost_deposit
+1986-08-02,SE-07,Terengganu,N.31 Cukai,2,5355,Zainal Abidin Bin Mustafa,SDP,044-SDP,SDP,18,HAK,158,1.9068307989379676,3,lost_deposit
 1986-08-02,SE-07,Terengganu,N.31 Cukai,3,1103,Dato' Wan Mokhtar Bin Ahmad @ Dato' Seri Amar Diraja,BN,001-UMNO,UMNO,3,BN,5562,67.12527154236061,1,won
 1986-08-02,SE-07,Terengganu,N.32 Bukit Bandi,1,5356,Syed Ismail Bin Syed Jaafar,PAS,004-PAS,PAS,18,HAK,1917,29.138166894664842,2,lost
 1986-08-02,SE-07,Terengganu,N.32 Bukit Bandi,2,5357,Harun Bin Hasan,BN,001-UMNO,UMNO,3,BN,4662,70.86183310533517,1,won
 1990-10-20,SE-08,Terengganu,N.01 Kuala Besut,1,5329,Ustaz Husain Bin Awang,PAS,004-PAS,PAS,4,APU,3502,48.190449979358746,2,lost
 1990-10-20,SE-08,Terengganu,N.01 Kuala Besut,2,4418,Dato' Wan Zakaria Bin Wan Abd. Rahman,BN,001-UMNO,UMNO,3,BN,3765,51.80955002064126,1,won
-1990-10-20,SE-08,Terengganu,N.02 Kampung Raja,1,6124,Haji Mohd Noor Bin Ismail,S46,009-PRM,PRM,4,APU,3869,47.89551869274573,2,lost
+1990-10-20,SE-08,Terengganu,N.02 Kampung Raja,1,6124,Haji Mohd Noor Bin Ismail,S46,062-S46,S46,4,APU,3869,47.89551869274573,2,lost
 1990-10-20,SE-08,Terengganu,N.02 Kampung Raja,2,4420,Ustaz Abdullah Muhammad,BN,001-UMNO,UMNO,3,BN,4209,52.10448130725427,1,won
 1990-10-20,SE-08,Terengganu,N.03 Jertih,1,6125,Haji Abdul Majid Bin Ahmad,BN,001-UMNO,UMNO,3,BN,3785,46.34504714093302,2,lost
 1990-10-20,SE-08,Terengganu,N.03 Jertih,2,2061,Ustaz Abdul Latif Mohamad,PAS,004-PAS,PAS,4,APU,4382,53.654952859066974,1,won
@@ -501,26 +501,26 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,SE-08,Terengganu,N.05 Jabi,1,4421,Haji Hassan Bin Haji Said,BN,001-UMNO,UMNO,3,BN,3174,42.98483206933911,2,lost
 1990-10-20,SE-08,Terengganu,N.05 Jabi,2,5330,Ustaz Haji Zahari Muhammad,PAS,004-PAS,PAS,4,APU,4210,57.015167930660894,1,won
 1990-10-20,SE-08,Terengganu,N.06 Permaisuri,1,6126,Shafi'I Bin Omar,BN,001-UMNO,UMNO,3,BN,4792,62.43648208469056,1,won
-1990-10-20,SE-08,Terengganu,N.06 Permaisuri,2,6127,Alias Bin Zainal,S46,009-PRM,PRM,4,APU,2883,37.56351791530945,2,lost
+1990-10-20,SE-08,Terengganu,N.06 Permaisuri,2,6127,Alias Bin Zainal,S46,062-S46,S46,4,APU,2883,37.56351791530945,2,lost
 1990-10-20,SE-08,Terengganu,N.07 Langkap,1,1340,Ustaz Haji Mahmood Sulaiman,PAS,004-PAS,PAS,4,APU,2288,37.51434661419905,2,lost
 1990-10-20,SE-08,Terengganu,N.07 Langkap,2,5332,Mamat Ghazalee Abd Rahman,BN,001-UMNO,UMNO,3,BN,3811,62.48565338580095,1,won
 1990-10-20,SE-08,Terengganu,N.08 Batu Rakit,1,6128,Hussain Bin Mohammad,BEBAS,000-BEBAS,BEBAS,0,ALONE,85,1.2645046117227017,3,lost_deposit
 1990-10-20,SE-08,Terengganu,N.08 Batu Rakit,2,6129,Dr. Abdul Wahab Bin Ngah,BN,001-UMNO,UMNO,3,BN,4008,59.62511157393633,1,won
-1990-10-20,SE-08,Terengganu,N.08 Batu Rakit,3,6130,Zulkifli Bin Chik,S46,009-PRM,PRM,4,APU,2629,39.11038381434097,2,lost
+1990-10-20,SE-08,Terengganu,N.08 Batu Rakit,3,6130,Zulkifli Bin Chik,S46,062-S46,S46,4,APU,2629,39.11038381434097,2,lost
 1990-10-20,SE-08,Terengganu,N.09 Tepuh,1,6131,Abdullah @ Wahab Bin Said,BN,001-UMNO,UMNO,3,BN,4966,55.86051743532059,1,won
 1990-10-20,SE-08,Terengganu,N.09 Tepuh,2,5333,Ustaz Haji Abu Bakar Bin Abdullah,PAS,004-PAS,PAS,4,APU,3924,44.13948256467942,2,lost
 1990-10-20,SE-08,Terengganu,N.10 Teluk Pasu,1,2063,Ustaz Awang Abu Bakar,PAS,004-PAS,PAS,4,APU,4011,46.35386571131399,2,lost
 1990-10-20,SE-08,Terengganu,N.10 Teluk Pasu,2,6132,Ustaz Hj. Abdul Rahman Bin Mohd,BN,001-UMNO,UMNO,3,BN,4642,53.64613428868601,1,won
-1990-10-20,SE-08,Terengganu,N.11 Seberang Takir,1,6133,Ustaz Haji Yong Bin Haji Mahmud,S46,009-PRM,PRM,4,APU,2092,29.813310531566195,2,lost
+1990-10-20,SE-08,Terengganu,N.11 Seberang Takir,1,6133,Ustaz Haji Yong Bin Haji Mahmud,S46,062-S46,S46,4,APU,2092,29.813310531566195,2,lost
 1990-10-20,SE-08,Terengganu,N.11 Seberang Takir,2,2828,Dato' Haji Abdul Rashid Bin Ngah,BN,001-UMNO,UMNO,3,BN,4925,70.1866894684338,1,won
 1990-10-20,SE-08,Terengganu,N.12 Bukit Tunggal,1,4427,Hj. Ahmad Kassim @ Ghazali Bin Hj. Endut,BN,001-UMNO,UMNO,3,BN,3150,48.1872418540615,2,lost
-1990-10-20,SE-08,Terengganu,N.12 Bukit Tunggal,2,6134,Hj. Adam @ Hj. Mansor Bin Ali,S46,009-PRM,PRM,4,APU,3387,51.81275814593851,1,won
+1990-10-20,SE-08,Terengganu,N.12 Bukit Tunggal,2,6134,Hj. Adam @ Hj. Mansor Bin Ali,S46,062-S46,S46,4,APU,3387,51.81275814593851,1,won
 1990-10-20,SE-08,Terengganu,N.13 Bandar,1,1317,Haji Harun Bin Jusoh,PAS,004-PAS,PAS,4,APU,4682,45.651326053042126,1,won
 1990-10-20,SE-08,Terengganu,N.13 Bandar,2,6135,Ng Chai Hing,DAP,021-DAP,DAP,5,GR,1519,14.810842433697346,3,lost
 1990-10-20,SE-08,Terengganu,N.13 Bandar,3,6136,Wong Foon Meng,BN,003-MCA,MCA,3,BN,3956,38.57254290171607,2,lost
 1990-10-20,SE-08,Terengganu,N.13 Bandar,4,6137,Ghazali Bin Mohamad,BEBAS,000-BEBAS,BEBAS,0,ALONE,99,0.9652886115444619,4,lost_deposit
 1990-10-20,SE-08,Terengganu,N.14 Ladang,1,2851,Dato' Abu Bakar Daud,BN,001-UMNO,UMNO,3,BN,5178,61.723685778996305,1,won
-1990-10-20,SE-08,Terengganu,N.14 Ladang,2,2836,Dato Haji Salleh Bin Ismail,S46,009-PRM,PRM,4,APU,3211,38.276314221003695,2,lost
+1990-10-20,SE-08,Terengganu,N.14 Ladang,2,2836,Dato Haji Salleh Bin Ismail,S46,062-S46,S46,4,APU,3211,38.276314221003695,2,lost
 1990-10-20,SE-08,Terengganu,N.15 Batu Buruk,1,6138,Rasid Bin Musa,BEBAS,000-BEBAS,BEBAS,0,ALONE,86,0.7679942846936954,3,lost_deposit
 1990-10-20,SE-08,Terengganu,N.15 Batu Buruk,2,3651,Wan Abd. Muttali Bin Embong,PAS,004-PAS,PAS,4,APU,6048,54.00964457938918,1,won
 1990-10-20,SE-08,Terengganu,N.15 Batu Buruk,3,6139,Haji Zulkifli Bin Mohd Nasir,BN,001-UMNO,UMNO,3,BN,5064,45.222361135917126,2,lost
@@ -528,7 +528,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,SE-08,Terengganu,N.16 Wakaf Mempelam,2,5894,Wan Deraman Bin Wan Nik,BEBAS,000-BEBAS,BEBAS,0,ALONE,104,0.8883573930127274,3,lost_deposit
 1990-10-20,SE-08,Terengganu,N.16 Wakaf Mempelam,3,5337,Abd. Latif Bin Mohd,BN,001-UMNO,UMNO,3,BN,5220,44.58870761083112,2,lost
 1990-10-20,SE-08,Terengganu,N.17 Serada,1,5338,Hj. Yusof @ Jusoh Bin Musa,BN,001-UMNO,UMNO,3,BN,5077,51.506543573095264,1,won
-1990-10-20,SE-08,Terengganu,N.17 Serada,2,6140,Che Hashim @ Mohd Yasin,S46,009-PRM,PRM,4,APU,487,4.940651313787156,3,lost_deposit
+1990-10-20,SE-08,Terengganu,N.17 Serada,2,6140,Che Hashim @ Mohd Yasin,S46,062-S46,S46,4,APU,487,4.940651313787156,3,lost_deposit
 1990-10-20,SE-08,Terengganu,N.17 Serada,3,2072,Ustaz Haji Kasim Bin Ahmad,PAS,004-PAS,PAS,4,APU,4293,43.55280511311758,2,lost
 1990-10-20,SE-08,Terengganu,N.18 Bukit Payung,1,5340,Us. Hj. Baharudin Bin Mohd,PAS,004-PAS,PAS,4,APU,4163,50.10229871223974,1,won
 1990-10-20,SE-08,Terengganu,N.18 Bukit Payung,2,5339,Mazlan Bin Awang,BN,001-UMNO,UMNO,3,BN,4146,49.89770128776026,2,lost
@@ -537,33 +537,33 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,SE-08,Terengganu,N.20 Binjai,1,5343,Ustaz Haji Muhamad Ali,PAS,004-PAS,PAS,4,APU,3749,46.03954316590937,2,lost
 1990-10-20,SE-08,Terengganu,N.20 Binjai,2,5342,Hj. Muda Bin Mamat,BN,001-UMNO,UMNO,3,BN,4394,53.96045683409063,1,won
 1990-10-20,SE-08,Terengganu,N.21 Telemung,1,2830,Dato' Haji Ahmad Sidi Bin Ismail,BN,001-UMNO,UMNO,3,BN,4198,64.7439851943245,1,won
-1990-10-20,SE-08,Terengganu,N.21 Telemung,2,6141,Aziz Bin Ahmad,S46,009-PRM,PRM,4,APU,2286,35.256014805675505,2,lost
+1990-10-20,SE-08,Terengganu,N.21 Telemung,2,6141,Aziz Bin Ahmad,S46,062-S46,S46,4,APU,2286,35.256014805675505,2,lost
 1990-10-20,SE-08,Terengganu,N.22 Manir,1,5345,Hj. Awang Abu Bakar B Sulong,BN,001-UMNO,UMNO,3,BN,3387,47.061275531471445,2,lost
 1990-10-20,SE-08,Terengganu,N.22 Manir,2,3644,Hj. Harun Bin Taib,PAS,004-PAS,PAS,4,APU,3810,52.938724468528555,1,won
 1990-10-20,SE-08,Terengganu,N.23 Kuala Berang,1,6142,Daud Bin Hassan,PAS,004-PAS,PAS,4,APU,3080,40.995607613469986,2,lost
 1990-10-20,SE-08,Terengganu,N.23 Kuala Berang,2,4424,Wan Muda Bin Mohd,BN,001-UMNO,UMNO,3,BN,4433,59.004392386530014,1,won
-1990-10-20,SE-08,Terengganu,N.24 Tanggul,1,6143,Tengku Sri Paduka Raja,S46,009-PRM,PRM,4,APU,3461,50.115841297422534,1,won
+1990-10-20,SE-08,Terengganu,N.24 Tanggul,1,6143,Tengku Sri Paduka Raja,S46,062-S46,S46,4,APU,3461,50.115841297422534,1,won
 1990-10-20,SE-08,Terengganu,N.24 Tanggul,2,4423,Haji Mustafa Bin Muda,BN,001-UMNO,UMNO,3,BN,3445,49.884158702577466,2,lost
 1990-10-20,SE-08,Terengganu,N.25 Mercang,1,6144,Dr Muhammad Abdullah,PAS,004-PAS,PAS,4,APU,3804,48.982745300025755,2,lost
 1990-10-20,SE-08,Terengganu,N.25 Mercang,2,4439,Haji Harun Bin Ali,BN,001-UMNO,UMNO,3,BN,3962,51.017254699974245,1,won
 1990-10-20,SE-08,Terengganu,N.26 Jerangau,1,575,Muda Bin Abdullah,BN,001-UMNO,UMNO,3,BN,3713,62.236004022795846,1,won
-1990-10-20,SE-08,Terengganu,N.26 Jerangau,2,6145,Mohd Zawawi Bin Abdul Ghani,S46,009-PRM,PRM,4,APU,2253,37.763995977204154,2,lost
+1990-10-20,SE-08,Terengganu,N.26 Jerangau,2,6145,Mohd Zawawi Bin Abdul Ghani,S46,062-S46,S46,4,APU,2253,37.763995977204154,2,lost
 1990-10-20,SE-08,Terengganu,N.27 Sura,1,5349,Ibrahim Bin Awang,BN,001-UMNO,UMNO,3,BN,5350,55.411703780424645,1,won
 1990-10-20,SE-08,Terengganu,N.27 Sura,2,2573,Haji Mustafa Bin Ali,PAS,004-PAS,PAS,4,APU,4305,44.588296219575355,2,lost
 1990-10-20,SE-08,Terengganu,N.28 Paka,1,4443,Engku Bijaya Sura,BN,001-UMNO,UMNO,3,BN,5557,57.11789495323261,1,won
-1990-10-20,SE-08,Terengganu,N.28 Paka,2,3656,Ustaz Ismail Haitami,S46,009-PRM,PRM,4,APU,4172,42.8821050467674,2,lost
+1990-10-20,SE-08,Terengganu,N.28 Paka,2,3656,Ustaz Ismail Haitami,S46,062-S46,S46,4,APU,4172,42.8821050467674,2,lost
 1990-10-20,SE-08,Terengganu,N.29 Kemasik,1,5352,Bakar Bin Ali,BN,001-UMNO,UMNO,3,BN,4756,66.95762353934957,1,won
 1990-10-20,SE-08,Terengganu,N.29 Kemasik,2,5354,Yusof Bin Haji Tahir,PAS,004-PAS,PAS,4,APU,2347,33.04237646065043,2,lost
 1990-10-20,SE-08,Terengganu,N.30 Kijal,1,6146,Ahmad Bin Said,BN,001-UMNO,UMNO,3,BN,4029,64.73329048843188,1,won
 1990-10-20,SE-08,Terengganu,N.30 Kijal,2,3657,Ustaz Haji Awang Dagang Yusof,PAS,004-PAS,PAS,4,APU,2195,35.26670951156812,2,lost
 1990-10-20,SE-08,Terengganu,N.31 Cukai,1,1103,Dato' Wan Mokhtar Bin Ahmad,BN,001-UMNO,UMNO,3,BN,6206,58.392924350771544,1,won
-1990-10-20,SE-08,Terengganu,N.31 Cukai,2,6147,Dr. Haji Alias Bin Abdul Rahman,S46,009-PRM,PRM,4,APU,4422,41.607075649228456,2,lost
+1990-10-20,SE-08,Terengganu,N.31 Cukai,2,6147,Dr. Haji Alias Bin Abdul Rahman,S46,062-S46,S46,4,APU,4422,41.607075649228456,2,lost
 1990-10-20,SE-08,Terengganu,N.32 Bukit Bandi,1,6148,Harun Hasan,BN,001-UMNO,UMNO,3,BN,6153,68.81780561458449,1,won
-1990-10-20,SE-08,Terengganu,N.32 Bukit Bandi,2,6149,Omar Bakar,S46,009-PRM,PRM,4,APU,2788,31.182194385415503,2,lost
+1990-10-20,SE-08,Terengganu,N.32 Bukit Bandi,2,6149,Omar Bakar,S46,062-S46,S46,4,APU,2788,31.182194385415503,2,lost
 1995-04-24,SE-09,Terengganu,N.01 Kuala Besut,1,6858,Che Ku Hashim Bin Che Ku Mat,PAS,004-PAS,PAS,4,APU,3725,45.0913932937901,2,lost
 1995-04-24,SE-09,Terengganu,N.01 Kuala Besut,2,4418,Wan Zakaria Abd Rahman,BN,001-UMNO,UMNO,3,BN,4536,54.90860670620991,1,won
 1995-04-24,SE-09,Terengganu,N.02 Kampung Raja,1,6859,Mohd Jusoh @ Yusoff Bin Hj Md Nor,BN,001-UMNO,UMNO,3,BN,5399,59.29708951125755,1,won
-1995-04-24,SE-09,Terengganu,N.02 Kampung Raja,2,6860,Sazali Bin Hassan,S46,009-PRM,PRM,4,APU,3706,40.70291048874245,2,lost
+1995-04-24,SE-09,Terengganu,N.02 Kampung Raja,2,6860,Sazali Bin Hassan,S46,062-S46,S46,4,APU,3706,40.70291048874245,2,lost
 1995-04-24,SE-09,Terengganu,N.03 Jertih,1,2061,Abd Latif Bin Mohamad,PAS,004-PAS,PAS,4,APU,3826,44.65452847805789,2,lost
 1995-04-24,SE-09,Terengganu,N.03 Jertih,2,6861,Idris Bin Mamat,BN,001-UMNO,UMNO,3,BN,4742,55.345471521942116,1,won
 1995-04-24,SE-09,Terengganu,N.04 Hulu Besut,1,6862,Abdul Rahman Bin Ab Kadir,PAS,004-PAS,PAS,4,APU,3847,45.17909571344686,2,lost
@@ -571,24 +571,24 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,SE-09,Terengganu,N.05 Jabi,1,5330,Zahari Bin Mohamed,PAS,004-PAS,PAS,4,APU,4097,49.83578640068118,2,lost
 1995-04-24,SE-09,Terengganu,N.05 Jabi,2,6864,Mohd Lukman Bin Muda,BN,001-UMNO,UMNO,3,BN,4124,50.16421359931882,1,won
 1995-04-24,SE-09,Terengganu,N.06 Permaisuri,1,6865,Mohd Jidin Bin Shafee,BN,001-UMNO,UMNO,3,BN,5765,64.3199821488341,1,won
-1995-04-24,SE-09,Terengganu,N.06 Permaisuri,2,6866,Abdulah Bin Mat Amin,S46,009-PRM,PRM,4,APU,3198,35.6800178511659,2,lost
+1995-04-24,SE-09,Terengganu,N.06 Permaisuri,2,6866,Abdulah Bin Mat Amin,S46,062-S46,S46,4,APU,3198,35.6800178511659,2,lost
 1995-04-24,SE-09,Terengganu,N.07 Langkap,1,5332,Mamat Bin Abdul Rahman,BN,001-UMNO,UMNO,3,BN,4814,66.85182613525899,1,won
-1995-04-24,SE-09,Terengganu,N.07 Langkap,2,6127,Alias Bin Zainal,S46,009-PRM,PRM,4,APU,2387,33.14817386474101,2,lost
+1995-04-24,SE-09,Terengganu,N.07 Langkap,2,6127,Alias Bin Zainal,S46,062-S46,S46,4,APU,2387,33.14817386474101,2,lost
 1995-04-24,SE-09,Terengganu,N.08 Batu Rakit,1,4426,Abu Bakar Bin Chik,PAS,004-PAS,PAS,4,APU,3179,45.75417386298215,2,lost
 1995-04-24,SE-09,Terengganu,N.08 Batu Rakit,2,6129,Mohamad @ Abdul Wahab Bin Ngah,BN,001-UMNO,UMNO,3,BN,3769,54.24582613701785,1,won
 1995-04-24,SE-09,Terengganu,N.09 Tepuh,1,5333,Abu Bakar Bin Abdulah,PAS,004-PAS,PAS,4,APU,5079,51.75259832891788,1,won
 1995-04-24,SE-09,Terengganu,N.09 Tepuh,2,6131,Abdullah @ Wahab Bin Saaid,BN,001-UMNO,UMNO,3,BN,4735,48.24740167108213,2,lost
 1995-04-24,SE-09,Terengganu,N.10 Teluk Pasu,1,6867,Ismail Bin Haji Mamat,PAS,004-PAS,PAS,4,APU,4920,51.228654727197,1,won
 1995-04-24,SE-09,Terengganu,N.10 Teluk Pasu,2,6132,Abdul Rahman Bin Mohd,BN,001-UMNO,UMNO,3,BN,4684,48.771345272802996,2,lost
-1995-04-24,SE-09,Terengganu,N.11 Seberang Takir,1,3463,Ibrahim Bin Hasan @ Ibrahim Azmi,S46,009-PRM,PRM,4,APU,2094,28.874793160507444,2,lost
+1995-04-24,SE-09,Terengganu,N.11 Seberang Takir,1,3463,Ibrahim Bin Hasan @ Ibrahim Azmi,S46,062-S46,S46,4,APU,2094,28.874793160507444,2,lost
 1995-04-24,SE-09,Terengganu,N.11 Seberang Takir,2,2828,Abdul Rashid Bin Ngah,BN,001-UMNO,UMNO,3,BN,5158,71.12520683949255,1,won
 1995-04-24,SE-09,Terengganu,N.12 Bukit Tunggal,1,6868,Mohamad Bin Abu Bakar,BN,001-UMNO,UMNO,3,BN,3567,52.86794130724767,1,won
-1995-04-24,SE-09,Terengganu,N.12 Bukit Tunggal,2,6134,Mansor Bin Sulong,S46,009-PRM,PRM,4,APU,3180,47.13205869275233,2,lost
+1995-04-24,SE-09,Terengganu,N.12 Bukit Tunggal,2,6134,Mansor Bin Sulong,S46,062-S46,S46,4,APU,3180,47.13205869275233,2,lost
 1995-04-24,SE-09,Terengganu,N.13 Wakaf Mempelam,1,5335,Mohd Abdul Wahid Bin Endut,PAS,004-PAS,PAS,4,APU,6379,54.80711401323137,1,won
 1995-04-24,SE-09,Terengganu,N.13 Wakaf Mempelam,2,6869,Sulong Bin Mamat,BN,001-UMNO,UMNO,3,BN,5260,45.19288598676862,2,lost
 1995-04-24,SE-09,Terengganu,N.14 Bandar,1,6136,Wong Foon Meng,BN,003-MCA,MCA,3,BN,6970,55.617618895627196,1,won
 1995-04-24,SE-09,Terengganu,N.14 Bandar,2,2573,Mustafa @ Hassan Bin Ali,PAS,004-PAS,PAS,4,APU,5562,44.382381104372804,2,lost
-1995-04-24,SE-09,Terengganu,N.15 Ladang,1,6130,Zulkifli Bin Cik,S46,009-PRM,PRM,4,APU,3850,39.24966867162809,2,lost
+1995-04-24,SE-09,Terengganu,N.15 Ladang,1,6130,Zulkifli Bin Cik,S46,062-S46,S46,4,APU,3850,39.24966867162809,2,lost
 1995-04-24,SE-09,Terengganu,N.15 Ladang,2,2855,Harun @ Abd. Rahman Bin Mohamad,BEBAS,000-BEBAS,BEBAS,0,ALONE,184,1.8758283209297584,3,lost_deposit
 1995-04-24,SE-09,Terengganu,N.15 Ladang,3,6870,Roslan Bin Awang Chik,BN,001-UMNO,UMNO,3,BN,5775,58.874503007442144,1,won
 1995-04-24,SE-09,Terengganu,N.16 Batu Buruk,1,3651,Wan Abd Mutalib @ Wan Musa Bin Embong,PAS,004-PAS,PAS,4,APU,6756,52.490094009789445,1,won
@@ -601,7 +601,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,SE-09,Terengganu,N.19 Ru Rendang,2,6873,Bakar Bin Seman @ Abu Bakar Bin Othman,BN,001-UMNO,UMNO,3,BN,4891,43.76342161775232,2,lost
 1995-04-24,SE-09,Terengganu,N.20 Pengkalan Berangan,1,6144,Muhammad Bin Abdullah,PAS,004-PAS,PAS,4,APU,5212,44.715168153740564,2,lost
 1995-04-24,SE-09,Terengganu,N.20 Pengkalan Berangan,2,5342,Muda Bin Mamat,BN,001-UMNO,UMNO,3,BN,6444,55.28483184625944,1,won
-1995-04-24,SE-09,Terengganu,N.21 Telemung,1,6141,Aziz Bin Ahmad,S46,009-PRM,PRM,4,APU,2133,32.08001203188449,2,lost
+1995-04-24,SE-09,Terengganu,N.21 Telemung,1,6141,Aziz Bin Ahmad,S46,062-S46,S46,4,APU,2133,32.08001203188449,2,lost
 1995-04-24,SE-09,Terengganu,N.21 Telemung,2,6874,T. Putera Bin T. Sulaiman,BN,001-UMNO,UMNO,3,BN,4369,65.70912919235975,1,won
 1995-04-24,SE-09,Terengganu,N.21 Telemung,3,6875,Abdul Majid Bin Sulaiman,BEBAS,000-BEBAS,BEBAS,0,ALONE,147,2.2108587757557525,3,lost_deposit
 1995-04-24,SE-09,Terengganu,N.22 Manir,1,6876,Shamsudin Bin Sulong,BN,001-UMNO,UMNO,3,BN,3726,47.66534476141742,2,lost
@@ -609,20 +609,20 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,SE-09,Terengganu,N.23 Kuala Berang,1,6877,Ibrahim Bin Yusof,BN,001-UMNO,UMNO,3,BN,4301,55.813651699974045,1,won
 1995-04-24,SE-09,Terengganu,N.23 Kuala Berang,2,6878,Muhyidin Bin Hj Abd Rashid,PAS,004-PAS,PAS,4,APU,3405,44.186348300025955,2,lost
 1995-04-24,SE-09,Terengganu,N.24 Ajil,1,6879,Othman Bin Daud,BN,001-UMNO,UMNO,3,BN,5166,61.74256005736824,1,won
-1995-04-24,SE-09,Terengganu,N.24 Ajil,2,6143,Tengku Ibrahim Ibni Sultan Ismail Nasiruddin Shah @ Tengku Sri Paduka Raja,S46,009-PRM,PRM,4,APU,3201,38.25743994263176,2,lost
+1995-04-24,SE-09,Terengganu,N.24 Ajil,2,6143,Tengku Ibrahim Ibni Sultan Ismail Nasiruddin Shah @ Tengku Sri Paduka Raja,S46,062-S46,S46,4,APU,3201,38.25743994263176,2,lost
 1995-04-24,SE-09,Terengganu,N.25 Bukit Besi,1,3446,Awang Bin Jabar,BN,001-UMNO,UMNO,3,BN,3834,62.16961245338089,1,won
-1995-04-24,SE-09,Terengganu,N.25 Bukit Besi,2,6880,T. Mohd Asri Bin T. Hashim,S46,009-PRM,PRM,4,APU,2333,37.83038754661911,2,lost
+1995-04-24,SE-09,Terengganu,N.25 Bukit Besi,2,6880,T. Mohd Asri Bin T. Hashim,S46,062-S46,S46,4,APU,2333,37.83038754661911,2,lost
 1995-04-24,SE-09,Terengganu,N.26 Rantau Abang,1,6881,Shafie Bin Daud,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1995-04-24,SE-09,Terengganu,N.27 Sura,1,5349,Ibrahim Bin Awang,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
-1995-04-24,SE-09,Terengganu,N.28 Paka,1,590,Dato' Sulong Bin Mahmood,S46,009-PRM,PRM,4,APU,4499,48.29325890940318,2,lost
+1995-04-24,SE-09,Terengganu,N.28 Paka,1,590,Dato' Sulong Bin Mahmood,S46,062-S46,S46,4,APU,4499,48.29325890940318,2,lost
 1995-04-24,SE-09,Terengganu,N.28 Paka,2,4443,Syed Omar Bin Mohammad @ Engku Bijaya Sura,BN,001-UMNO,UMNO,3,BN,4817,51.70674109059682,1,won
 1995-04-24,SE-09,Terengganu,N.29 Kemasik,1,5352,Mohamad @ A. Bakar Bin Ali,BN,001-UMNO,UMNO,3,BN,5256,68.25974025974027,1,won
-1995-04-24,SE-09,Terengganu,N.29 Kemasik,2,6882,Jahaya @ Yahya Bin Ab. Rahman,S46,009-PRM,PRM,4,APU,2444,31.74025974025974,2,lost
+1995-04-24,SE-09,Terengganu,N.29 Kemasik,2,6882,Jahaya @ Yahya Bin Ab. Rahman,S46,062-S46,S46,4,APU,2444,31.74025974025974,2,lost
 1995-04-24,SE-09,Terengganu,N.30 Kijal,1,6146,Ahmad Bin Said,BN,001-UMNO,UMNO,3,BN,4433,58.19112627986348,1,won
 1995-04-24,SE-09,Terengganu,N.30 Kijal,2,6883,Awang @ Ibrahim Bin Omar @ Ibrahim Kamal,PAS,004-PAS,PAS,4,APU,3143,41.257547912838014,2,lost
 1995-04-24,SE-09,Terengganu,N.30 Kijal,3,6884,Jamalis Bin Awang,BEBAS,000-BEBAS,BEBAS,0,ALONE,42,0.5513258072985036,3,lost_deposit
 1995-04-24,SE-09,Terengganu,N.31 Cukai,1,1103,Wan Mokhtar Bin Ahmad,BN,001-UMNO,UMNO,3,BN,7256,60.76543003098568,1,won
-1995-04-24,SE-09,Terengganu,N.31 Cukai,2,6147,Alias Bin Abdul Rahman,S46,009-PRM,PRM,4,APU,4685,39.23456996901432,2,lost
+1995-04-24,SE-09,Terengganu,N.31 Cukai,2,6147,Alias Bin Abdul Rahman,S46,062-S46,S46,4,APU,4685,39.23456996901432,2,lost
 1995-04-24,SE-09,Terengganu,N.32 Air Putih,1,5357,Harun Bin Hasan,BN,001-UMNO,UMNO,3,BN,6069,63.958267467594055,1,won
 1995-04-24,SE-09,Terengganu,N.32 Air Putih,2,6885,Ismail Bin Harun,PAS,004-PAS,PAS,4,APU,3420,36.041732532405945,2,lost
 1999-11-29,SE-10,Terengganu,N.01 Kuala Besut,1,7655,Ustaz Nik Muhammad Zawawi Bin Salleh,PAS,004-PAS,PAS,6,BA,4426,52.91093843395098,1,won
@@ -757,7 +757,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-11,Terengganu,N.32 Air Putih,2,8356,Wan Ahmad Nizan Bin Wan Abdul Hamid,BN,001-UMNO,UMNO,3,BN,10048,63.50650992289217,1,won
 2008-03-08,SE-12,Terengganu,N.01 Kuala Besut,1,9148,Dr. A. Rahman Bin Mokhtar,BN,001-UMNO,UMNO,3,BN,7123,61.32587171760654,1,won
 2008-03-08,SE-12,Terengganu,N.01 Kuala Besut,2,7655,Ustaz Haji Nik Zawawi Bin Salleh,PAS,004-PAS,PAS,7,PR,4492,38.674128282393454,2,lost
-2008-03-08,SE-12,Terengganu,N.02 Kota Putera,1,9149,Haji Mohd Bin Hj Md Amin,PKR,066-UPKO-1,UPKO,7,PR,4758,37.03300124533001,2,lost
+2008-03-08,SE-12,Terengganu,N.02 Kota Putera,1,9149,Haji Mohd Bin Hj Md Amin,PKR,078-PKR,PKR,7,PR,4758,37.03300124533001,2,lost
 2008-03-08,SE-12,Terengganu,N.02 Kota Putera,2,9150,Haji Pehimi Yusof,BN,001-UMNO,UMNO,3,BN,8090,62.96699875466999,1,won
 2008-03-08,SE-12,Terengganu,N.03 Jertih,1,8337,Haji Hassan Bin Salleh,PAS,004-PAS,PAS,7,PR,4866,38.08107685083738,2,lost
 2008-03-08,SE-12,Terengganu,N.03 Jertih,2,6583,Dato' Seri Idris Jusoh,BN,001-UMNO,UMNO,3,BN,7912,61.918923149162616,1,won
@@ -766,7 +766,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Terengganu,N.05 Jabi,1,9153,Dr. Azman Bin Ibrahim,PAS,004-PAS,PAS,7,PR,5560,46.628648104662865,2,lost
 2008-03-08,SE-12,Terengganu,N.05 Jabi,2,7661,Ramlan Ali (Cikgu Lan),BN,001-UMNO,UMNO,3,BN,6364,53.371351895337135,1,won
 2008-03-08,SE-12,Terengganu,N.06 Permaisuri,1,9154,Abd Halim Bin Jusoh,BN,001-UMNO,UMNO,3,BN,8652,63.31503841931942,1,won
-2008-03-08,SE-12,Terengganu,N.06 Permaisuri,2,9155,Wan Rahim Bin W Hamzah,PKR,066-UPKO-1,UPKO,7,PR,5013,36.68496158068057,2,lost
+2008-03-08,SE-12,Terengganu,N.06 Permaisuri,2,9155,Wan Rahim Bin W Hamzah,PKR,078-PKR,PKR,7,PR,5013,36.68496158068057,2,lost
 2008-03-08,SE-12,Terengganu,N.07 Langkap,1,2827,Tengku Ahmad Bin Tengku Hussain,PAS,004-PAS,PAS,7,PR,4131,38.20401368722834,2,lost
 2008-03-08,SE-12,Terengganu,N.07 Langkap,2,7662,Asha'Ari Idris,BN,001-UMNO,UMNO,3,BN,6682,61.79598631277167,1,won
 2008-03-08,SE-12,Terengganu,N.08 Batu Rakit,1,9156,Haji Shamshudin Bin Ab. Wahab,PAS,004-PAS,PAS,7,PR,4104,42.3354652362286,2,lost
@@ -776,12 +776,12 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Terengganu,N.10 Teluk Pasu,1,9157,Ustaz Ridzuan Bin Haji Hashim,PAS,004-PAS,PAS,7,PR,6817,48.36123723041998,2,lost
 2008-03-08,SE-12,Terengganu,N.10 Teluk Pasu,2,6584,Datuk Rahin Said,BN,001-UMNO,UMNO,3,BN,7279,51.638762769580026,1,won
 2008-03-08,SE-12,Terengganu,N.11 Seberang Takir,1,9158,Ahmad Razif Bin Abd Rahman,BN,001-UMNO,UMNO,3,BN,6440,61.62679425837321,1,won
-2008-03-08,SE-12,Terengganu,N.11 Seberang Takir,2,9159,Muzafeq Bin Muhammad,PKR,066-UPKO-1,UPKO,7,PR,4010,38.37320574162679,2,lost
+2008-03-08,SE-12,Terengganu,N.11 Seberang Takir,2,9159,Muzafeq Bin Muhammad,PKR,078-PKR,PKR,7,PR,4010,38.37320574162679,2,lost
 2008-03-08,SE-12,Terengganu,N.12 Bukit Tunggal,1,7667,Dr Alias Bin Razak,PAS,004-PAS,PAS,7,PR,5483,51.580432737535276,1,won
 2008-03-08,SE-12,Terengganu,N.12 Bukit Tunggal,2,9160,Tuan Arif Tuan Ahmad,BN,001-UMNO,UMNO,3,BN,5147,48.419567262464724,2,lost
 2008-03-08,SE-12,Terengganu,N.13 Wakaf Mempelam,1,9161,Othman Bin Awang,BN,001-UMNO,UMNO,3,BN,7452,43.586594139322685,2,lost
 2008-03-08,SE-12,Terengganu,N.13 Wakaf Mempelam,2,5335,Haji Mohd Abdul Wahid Bin Endut,PAS,004-PAS,PAS,7,PR,9645,56.413405860677315,1,won
-2008-03-08,SE-12,Terengganu,N.14 Bandar,1,9162,Dr Abdul Manaf Bin Che Mat,PKR,066-UPKO-1,UPKO,7,PR,6689,46.06749311294766,2,lost
+2008-03-08,SE-12,Terengganu,N.14 Bandar,1,9162,Dr Abdul Manaf Bin Che Mat,PKR,078-PKR,PKR,7,PR,6689,46.06749311294766,2,lost
 2008-03-08,SE-12,Terengganu,N.14 Bandar,2,8343,Toh Chin Yaw,BN,003-MCA,MCA,3,BN,7831,53.93250688705235,1,won
 2008-03-08,SE-12,Terengganu,N.15 Ladang,1,8344,Dato' Wan Hisham Bin Wan Salleh,BN,001-UMNO,UMNO,3,BN,6692,49.88445769660827,2,lost
 2008-03-08,SE-12,Terengganu,N.15 Ladang,2,9163,Dato' Tengku Hassan Bin Tengku Omar,PAS,004-PAS,PAS,7,PR,6723,50.11554230339173,1,won
@@ -795,7 +795,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Terengganu,N.19 Ru Rendang,2,9167,Razali Bin Idris,BN,001-UMNO,UMNO,3,BN,6693,41.64385266301643,2,lost
 2008-03-08,SE-12,Terengganu,N.20 Pengkalan Berangan,1,9168,Haji Mohd Bin Draman,PAS,004-PAS,PAS,7,PR,7970,47.24362774155305,2,lost
 2008-03-08,SE-12,Terengganu,N.20 Pengkalan Berangan,2,8346,Yahya Bin Khatib Mohamad,BN,001-UMNO,UMNO,3,BN,8900,52.75637225844695,1,won
-2008-03-08,SE-12,Terengganu,N.21 Telemung,1,9169,Engku Abu Bakar Bin Engku Mohd,PKR,066-UPKO-1,UPKO,7,PR,2726,24.028206258263552,2,lost
+2008-03-08,SE-12,Terengganu,N.21 Telemung,1,9169,Engku Abu Bakar Bin Engku Mohd,PKR,078-PKR,PKR,7,PR,2726,24.028206258263552,2,lost
 2008-03-08,SE-12,Terengganu,N.21 Telemung,2,8348,Rozi Bin Mamat,BN,001-UMNO,UMNO,3,BN,8619,75.97179374173645,1,won
 2008-03-08,SE-12,Terengganu,N.22 Manir,1,3644,Ustaz Haji Harun Bin Taib,PAS,004-PAS,PAS,7,PR,5323,51.98242187499999,1,won
 2008-03-08,SE-12,Terengganu,N.22 Manir,2,8349,Haji Wan Sagar,BN,001-UMNO,UMNO,3,BN,4917,48.017578125,2,lost
@@ -823,7 +823,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.01 Kuala Besut,2,10097,Napisah Binti Ismail,PAS,004-PAS,PAS,7,PR,6375,41.9849841938883,2,lost
 2013-05-05,SE-13,Terengganu,N.02 Kota Putera,1,10098,Mohd Mahdi Hj Musa (Abe Adi),BN,001-UMNO,UMNO,3,BN,9084,54.01998097050428,1,won
 2013-05-05,SE-13,Terengganu,N.02 Kota Putera,2,10099,Ustaz Adam Mat Said,PAS,004-PAS,PAS,7,PR,7672,45.62321598477641,2,lost
-2013-05-05,SE-13,Terengganu,N.02 Kota Putera,3,10100,Mohamed Abdul Ghani,PKR,066-UPKO-1,UPKO,7,PR,60,0.35680304471931495,3,lost_deposit
+2013-05-05,SE-13,Terengganu,N.02 Kota Putera,3,10100,Mohamed Abdul Ghani,PKR,078-PKR,PKR,7,PR,60,0.35680304471931495,3,lost_deposit
 2013-05-05,SE-13,Terengganu,N.03 Jertih,1,10101,Ustaz Wan Azhar,PAS,004-PAS,PAS,7,PR,7466,47.06846551506746,2,lost
 2013-05-05,SE-13,Terengganu,N.03 Jertih,2,9150,Haji Pehimi Yusof,BN,001-UMNO,UMNO,3,BN,8396,52.93153448493254,1,won
 2013-05-05,SE-13,Terengganu,N.04 Hulu Besut,1,10102,Cikgu Solah,PAS,004-PAS,PAS,7,PR,6314,44.47105226088182,2,lost
@@ -831,7 +831,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.05 Jabi,1,10104,Mohd Iskandar Bin Jaafar,BN,001-UMNO,UMNO,3,BN,7735,52.66203703703704,1,won
 2013-05-05,SE-13,Terengganu,N.05 Jabi,2,9153,Dr Azman Ibrahim,PAS,004-PAS,PAS,7,PR,6953,47.33796296296296,2,lost
 2013-05-05,SE-13,Terengganu,N.06 Permaisuri,1,6865,Dato' Haji Mohd Jidin Bin Shafee,BN,001-UMNO,UMNO,3,BN,9188,52.90188853063105,1,won
-2013-05-05,SE-13,Terengganu,N.06 Permaisuri,2,10105,Wan Mokhtar Wan Ibrahim,PKR,066-UPKO-1,UPKO,7,PR,6260,36.043298019345926,2,lost
+2013-05-05,SE-13,Terengganu,N.06 Permaisuri,2,10105,Wan Mokhtar Wan Ibrahim,PKR,078-PKR,PKR,7,PR,6260,36.043298019345926,2,lost
 2013-05-05,SE-13,Terengganu,N.06 Permaisuri,3,10106,Yusop Majid,BEBAS,000-BEBAS,BEBAS,0,ALONE,1920,11.054813450023032,3,lost_deposit
 2013-05-05,SE-13,Terengganu,N.07 Langkap,1,10107,Dato Sabri,BN,001-UMNO,UMNO,3,BN,8425,60.92710442580271,1,won
 2013-05-05,SE-13,Terengganu,N.07 Langkap,2,10108,Hassan Bin Karim,PAS,004-PAS,PAS,7,PR,5403,39.07289557419728,2,lost
@@ -841,7 +841,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.09 Tepuh,2,10110,Ustaz Hishamuddin,PAS,004-PAS,PAS,7,PR,11128,50.51981658873201,1,won
 2013-05-05,SE-13,Terengganu,N.10 Teluk Pasu,1,6584,Dato' Haji Abdul Rahin Bin Dato' Haji Mohd Said,BN,001-UMNO,UMNO,3,BN,8989,49.69867860894565,2,lost
 2013-05-05,SE-13,Terengganu,N.10 Teluk Pasu,2,9157,Ustaz Ridzuan Hashim,PAS,004-PAS,PAS,7,PR,9098,50.301321391054344,1,won
-2013-05-05,SE-13,Terengganu,N.11 Seberang Takir,1,10111,Ahmad Nazri,PKR,066-UPKO-1,UPKO,7,PR,73,0.5204991087344029,3,lost_deposit
+2013-05-05,SE-13,Terengganu,N.11 Seberang Takir,1,10111,Ahmad Nazri,PKR,078-PKR,PKR,7,PR,73,0.5204991087344029,3,lost_deposit
 2013-05-05,SE-13,Terengganu,N.11 Seberang Takir,2,9158,Cikgu Razif,BN,001-UMNO,UMNO,3,BN,7731,55.12299465240642,1,won
 2013-05-05,SE-13,Terengganu,N.11 Seberang Takir,3,7666,Zakaria Bin Dagang,PAS,004-PAS,PAS,7,PR,6221,44.356506238859176,2,lost
 2013-05-05,SE-13,Terengganu,N.12 Bukit Tunggal,1,7667,Dr Haji Alias Razak,PAS,004-PAS,PAS,7,PR,6801,52.51737451737451,1,won
@@ -849,7 +849,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.13 Wakaf Mempelam,1,5335,Haji Mohd Abdul Wahid Endut,PAS,004-PAS,PAS,7,PR,12515,56.77281800036291,1,won
 2013-05-05,SE-13,Terengganu,N.13 Wakaf Mempelam,2,10113,Wan Mahyudin Bin W Ngah,BN,001-UMNO,UMNO,3,BN,9529,43.22718199963709,2,lost
 2013-05-05,SE-13,Terengganu,N.14 Bandar,1,8343,Toh Chin Yaw,BN,003-MCA,MCA,3,BN,7254,43.52312953740925,2,lost
-2013-05-05,SE-13,Terengganu,N.14 Bandar,2,8954,Azan Ismail,PKR,066-UPKO-1,UPKO,7,PR,9413,56.476870462590746,1,won
+2013-05-05,SE-13,Terengganu,N.14 Bandar,2,8954,Azan Ismail,PKR,078-PKR,PKR,7,PR,9413,56.476870462590746,1,won
 2013-05-05,SE-13,Terengganu,N.15 Ladang,1,9163,Dato' Tengku Hassan,PAS,004-PAS,PAS,7,PR,9066,52.684797768479775,1,won
 2013-05-05,SE-13,Terengganu,N.15 Ladang,2,9568,Dato' Wan Ahmad Farid Wan Salleh,BN,001-UMNO,UMNO,3,BN,8142,47.315202231520225,2,lost
 2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,1,7413,Dr Syed Azman,PAS,004-PAS,PAS,7,PR,13679,54.53059597368946,1,won
@@ -864,7 +864,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.20 Pengkalan Berangan,1,6872,A. Latiff Bin Awang,BN,001-UMNO,UMNO,3,BN,11677,54.29647540221334,1,won
 2013-05-05,SE-13,Terengganu,N.20 Pengkalan Berangan,2,10117,Ustaz Sulaiman Sulong,PAS,004-PAS,PAS,7,PR,9829,45.70352459778667,2,lost
 2013-05-05,SE-13,Terengganu,N.21 Telemung,1,8348,Haji Rozi Haji Mamat,BN,001-UMNO,UMNO,3,BN,10262,75.12445095168376,1,won
-2013-05-05,SE-13,Terengganu,N.21 Telemung,2,10118,Narawi Bin Embong,PKR,066-UPKO-1,UPKO,7,PR,3398,24.875549048316252,2,lost
+2013-05-05,SE-13,Terengganu,N.21 Telemung,2,10118,Narawi Bin Embong,PKR,078-PKR,PKR,7,PR,3398,24.875549048316252,2,lost
 2013-05-05,SE-13,Terengganu,N.22 Manir,1,10119,Yusof Awang Hitam,BN,001-UMNO,UMNO,3,BN,6285,47.765617875056996,2,lost
 2013-05-05,SE-13,Terengganu,N.22 Manir,2,10120,Ustaz Hilmi Harun,PAS,004-PAS,PAS,7,PR,6873,52.234382124943004,1,won
 2013-05-05,SE-13,Terengganu,N.23 Kuala Berang,1,10121,Dato' Hj. Tengku Putera Bin Tengku Awang,BN,001-UMNO,UMNO,3,BN,6917,51.67725065371685,1,won
@@ -874,7 +874,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.24 Ajil,3,10123,Cikgu Ghazali Taib,BN,001-UMNO,UMNO,3,BN,8680,56.92549842602308,1,won
 2013-05-05,SE-13,Terengganu,N.25 Bukit Besi,1,10124,Ustaz Roslan Ismail,PAS,004-PAS,PAS,7,PR,4408,38.578680203045685,2,lost
 2013-05-05,SE-13,Terengganu,N.25 Bukit Besi,2,10125,Roslee Daud,BN,001-UMNO,UMNO,3,BN,6966,60.96621739891476,1,won
-2013-05-05,SE-13,Terengganu,N.25 Bukit Besi,3,10126,Mohd Shamsul,PKR,066-UPKO-1,UPKO,7,PR,52,0.4551023980395589,3,lost_deposit
+2013-05-05,SE-13,Terengganu,N.25 Bukit Besi,3,10126,Mohd Shamsul,PKR,078-PKR,PKR,7,PR,52,0.4551023980395589,3,lost_deposit
 2013-05-05,SE-13,Terengganu,N.26 Rantau Abang,1,10127,Cikgu Alias,PAS,004-PAS,PAS,7,PR,8964,50.14264138278235,1,won
 2013-05-05,SE-13,Terengganu,N.26 Rantau Abang,2,7684,Datuk Za'Abar Bin Dato' Mohd Adib,BN,001-UMNO,UMNO,3,BN,8823,49.35391844269172,2,lost
 2013-05-05,SE-13,Terengganu,N.26 Rantau Abang,3,9753,Mazlan Bin Harun,BEBAS,000-BEBAS,BEBAS,0,ALONE,90,0.5034401745259272,3,lost_deposit
@@ -893,100 +893,100 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Terengganu,N.32 Air Putih,2,9177,Wan Abdul Hakim Bin Wan Mokhtar,BN,001-UMNO,UMNO,3,BN,13523,57.75851022935976,1,won
 2018-05-09,SE-14,Terengganu,N.01 Kuala Besut,1,11344,Hj Azbi Salleh,PAS,004-PAS,PAS,9,GS,7983,46.40199953499186,2,lost
 2018-05-09,SE-14,Terengganu,N.01 Kuala Besut,2,10715,Tengku Zaihan Bin Che Ku Abd Rahman,BN,001-UMNO,UMNO,3,BN,8126,47.233201581027664,1,won
-2018-05-09,SE-14,Terengganu,N.01 Kuala Besut,3,6858,Dr Che Ku,PKR,046-AMANAH,AMANAH,8,PH,1095,6.36479888398047,3,lost_deposit
-2018-05-09,SE-14,Terengganu,N.02 Kota Putera,1,11345,Tg Roslan Tg Othman,PKR,066-UPKO-1,UPKO,8,PH,1504,7.62252293345497,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.01 Kuala Besut,3,6858,Dr Che Ku,PKR,107-BERSATU,BERSATU,8,PH,1095,6.36479888398047,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.02 Kota Putera,1,11345,Tg Roslan Tg Othman,PKR,078-PKR,PKR,8,PH,1504,7.62252293345497,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.02 Kota Putera,2,11346,Haji Khuzaini,PAS,004-PAS,PAS,9,GS,9704,49.18149105468552,1,won
 2018-05-09,SE-14,Terengganu,N.02 Kota Putera,3,10098,Mohd Mahdi Musa (Abe Adi),BN,001-UMNO,UMNO,3,BN,8523,43.19598601185951,2,lost
 2018-05-09,SE-14,Terengganu,N.03 Jertih,1,9150,Dato' Muhammad Pehimi Yusof,BN,001-UMNO,UMNO,3,BN,9143,49.42429320503811,1,won
-2018-05-09,SE-14,Terengganu,N.03 Jertih,2,11347,Dato' Dr. Kamaruzaman Wan Su,PKR,092-SPP,SPP,8,PH,1594,8.616681982809881,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.03 Jertih,2,11347,Dato' Dr. Kamaruzaman Wan Su,PKR,046-AMANAH,AMANAH,8,PH,1594,8.616681982809881,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.03 Jertih,3,10101,Ustaz Wan Azhar,PAS,004-PAS,PAS,9,GS,7762,41.95902481215201,2,lost
-2018-05-09,SE-14,Terengganu,N.04 Hulu Besut,1,11348,Ismail Bin Abdul Kadir,PKR,046-AMANAH,AMANAH,8,PH,860,5.555196692720108,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.04 Hulu Besut,1,11348,Ismail Bin Abdul Kadir,PKR,107-BERSATU,BERSATU,8,PH,860,5.555196692720108,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.04 Hulu Besut,2,11349,Ustaz Mat Daik,PAS,004-PAS,PAS,9,GS,6576,42.47787610619469,2,lost
 2018-05-09,SE-14,Terengganu,N.04 Hulu Besut,3,11350,Haji Nawi Mohamad,BN,001-UMNO,UMNO,3,BN,8045,51.9669272010852,1,won
 2018-05-09,SE-14,Terengganu,N.05 Jabi,1,10104,Mohd Iskandar Bin Jaafar,BN,001-UMNO,UMNO,3,BN,8006,47.77704839768455,2,lost
-2018-05-09,SE-14,Terengganu,N.05 Jabi,2,7656,Ustaz Aziz Abas,PKR,092-SPP,SPP,8,PH,690,4.117682162678284,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.05 Jabi,2,7656,Ustaz Aziz Abas,PKR,046-AMANAH,AMANAH,8,PH,690,4.117682162678284,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.05 Jabi,3,9153,Dr Azman Ibrahim,PAS,004-PAS,PAS,9,GS,8061,48.10526943963717,1,won
 2018-05-09,SE-14,Terengganu,N.06 Permaisuri,1,9154,Datuk Halim,BN,001-UMNO,UMNO,3,BN,10385,52.84180532234265,1,won
 2018-05-09,SE-14,Terengganu,N.06 Permaisuri,2,11351,Ustaz Zul Bhari A Rahman,PAS,004-PAS,PAS,9,GS,8415,42.81789039841246,2,lost
-2018-05-09,SE-14,Terengganu,N.06 Permaisuri,3,10105,Wan Mokhtar Wan Ibrahim,PKR,066-UPKO-1,UPKO,8,PH,853,4.340304279244899,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.06 Permaisuri,3,10105,Wan Mokhtar Wan Ibrahim,PKR,078-PKR,PKR,8,PH,853,4.340304279244899,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.07 Langkap,1,10107,Dato' Haji Sabri,BN,001-UMNO,UMNO,3,BN,9007,59.44822123952215,1,won
-2018-05-09,SE-14,Terengganu,N.07 Langkap,2,11352,Mustaffa,PKR,046-AMANAH,AMANAH,8,PH,583,3.8479308296482078,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.07 Langkap,2,11352,Mustaffa,PKR,107-BERSATU,BERSATU,8,PH,583,3.8479308296482078,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.07 Langkap,3,11353,Azmi Maarof,PAS,004-PAS,PAS,9,GS,5561,36.703847930829646,2,lost
 2018-05-09,SE-14,Terengganu,N.08 Batu Rakit,1,10109,Bazlan Bin Abd Rahman,BN,001-UMNO,UMNO,3,BN,10046,48.78356723158355,1,won
-2018-05-09,SE-14,Terengganu,N.08 Batu Rakit,2,11354,Amir Long,PKR,046-AMANAH,AMANAH,8,PH,800,3.884815228475696,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.08 Batu Rakit,2,11354,Amir Long,PKR,107-BERSATU,BERSATU,8,PH,800,3.884815228475696,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.08 Batu Rakit,3,11355,Ustaz Mohd Shafizi Ismail,PAS,004-PAS,PAS,9,GS,9747,47.33161753994076,2,lost
 2018-05-09,SE-14,Terengganu,N.09 Tepuh,1,10110,Ustaz Hishamuddin,PAS,004-PAS,PAS,9,GS,10782,54.320116882462585,1,won
-2018-05-09,SE-14,Terengganu,N.09 Tepuh,2,11356,Wan Hafizie,PKR,046-AMANAH,AMANAH,8,PH,1002,5.0481132550758225,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.09 Tepuh,2,11356,Wan Hafizie,PKR,107-BERSATU,BERSATU,8,PH,1002,5.0481132550758225,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.09 Tepuh,3,11357,Basir Bin Ismail,BN,001-UMNO,UMNO,3,BN,8065,40.63176986246159,2,lost
 2018-05-09,SE-14,Terengganu,N.10 Buluh Gading,1,11358,Cikgu Che Mansor,BN,001-UMNO,UMNO,3,BN,7013,35.98809462718736,2,lost
-2018-05-09,SE-14,Terengganu,N.10 Buluh Gading,2,11359,Ir. Azik Bin Chik,PKR,092-SPP,SPP,8,PH,894,4.587673833837943,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.10 Buluh Gading,2,11359,Ir. Azik Bin Chik,PKR,046-AMANAH,AMANAH,8,PH,894,4.587673833837943,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.10 Buluh Gading,3,9157,Ustaz Ridzuan Hashim,PAS,004-PAS,PAS,9,GS,11580,59.4242315389747,1,won
 2018-05-09,SE-14,Terengganu,N.11 Seberang Takir,1,9158,Cikgu Razif,BN,001-UMNO,UMNO,3,BN,9340,52.664223287285026,1,won
 2018-05-09,SE-14,Terengganu,N.11 Seberang Takir,2,11360,Haji Mohd Fazil Wahab,PAS,004-PAS,PAS,9,GS,7456,42.04116154496758,2,lost
-2018-05-09,SE-14,Terengganu,N.11 Seberang Takir,3,11361,Lt. Kol (B) Ustaz Haji Abu Bakar Bin Abdullah,PKR,066-UPKO-1,UPKO,8,PH,939,5.294615167747392,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.11 Seberang Takir,3,11361,Lt. Kol (B) Ustaz Haji Abu Bakar Bin Abdullah,PKR,078-PKR,PKR,8,PH,939,5.294615167747392,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.12 Bukit Tunggal,1,9160,Cikgu Tuan Arif,BN,001-UMNO,UMNO,3,BN,5964,39.77856332955379,2,lost
-2018-05-09,SE-14,Terengganu,N.12 Bukit Tunggal,2,11362,Fatimah Lailati Omar,PKR,046-AMANAH,AMANAH,8,PH,721,4.808910825051691,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.12 Bukit Tunggal,2,11362,Fatimah Lailati Omar,PKR,107-BERSATU,BERSATU,8,PH,721,4.808910825051691,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.12 Bukit Tunggal,3,7667,Dr Haji Alias Razak,PAS,004-PAS,PAS,9,GS,8308,55.41252584539452,1,won
 2018-05-09,SE-14,Terengganu,N.13 Wakaf Mempelam,1,11363,Ustaz Wan Sukairi,PAS,004-PAS,PAS,9,GS,14796,62.16023190354157,1,won
 2018-05-09,SE-14,Terengganu,N.13 Wakaf Mempelam,2,11364,Salleh Bin Othman,BN,001-UMNO,UMNO,3,BN,7418,31.1641389740789,2,lost
-2018-05-09,SE-14,Terengganu,N.13 Wakaf Mempelam,3,11365,Mohd Zubir Bin Mohamed,PKR,092-SPP,SPP,8,PH,1589,6.675629122379532,3,lost_deposit
-2018-05-09,SE-14,Terengganu,N.14 Bandar,1,8954,Azan Ismail,PKR,066-UPKO-1,UPKO,8,PH,3996,24.71090223239132,3,lost
+2018-05-09,SE-14,Terengganu,N.13 Wakaf Mempelam,3,11365,Mohd Zubir Bin Mohamed,PKR,046-AMANAH,AMANAH,8,PH,1589,6.675629122379532,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.14 Bandar,1,8954,Azan Ismail,PKR,078-PKR,PKR,8,PH,3996,24.71090223239132,3,lost
 2018-05-09,SE-14,Terengganu,N.14 Bandar,2,11366,Ustaz Ahmad Shah,PAS,004-PAS,PAS,9,GS,7133,44.10982623214396,1,won
 2018-05-09,SE-14,Terengganu,N.14 Bandar,3,11367,Toh Seng Cheng,BN,003-MCA,MCA,3,BN,5042,31.17927153546472,2,lost
 2018-05-09,SE-14,Terengganu,N.15 Ladang,1,11368,Datuk Mat,BN,001-UMNO,UMNO,3,BN,7838,41.52582781456954,2,lost
 2018-05-09,SE-14,Terengganu,N.15 Ladang,2,9163,Dato' Tengku Hassan,PAS,004-PAS,PAS,9,GS,8201,43.449006622516556,1,won
-2018-05-09,SE-14,Terengganu,N.15 Ladang,3,11369,Dato' Hj Zulkifli Mohamad,PKR,046-AMANAH,AMANAH,8,PH,2836,15.025165562913909,3,lost
+2018-05-09,SE-14,Terengganu,N.15 Ladang,3,11369,Dato' Hj Zulkifli Mohamad,PKR,107-BERSATU,BERSATU,8,PH,2836,15.025165562913909,3,lost
 2018-05-09,SE-14,Terengganu,N.16 Batu Buruk,1,11370,Ustaz Khalil,PAS,004-PAS,PAS,9,GS,15184,54.911037176334446,1,won
-2018-05-09,SE-14,Terengganu,N.16 Batu Buruk,2,9751,Dato Raja Bahrin,PKR,092-SPP,SPP,8,PH,2572,9.301316360480255,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.16 Batu Buruk,2,9751,Dato Raja Bahrin,PKR,046-AMANAH,AMANAH,8,PH,2572,9.301316360480255,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.16 Batu Buruk,3,11371,Zamri Bin Awang Hitam,BN,001-UMNO,UMNO,3,BN,9896,35.787646463185304,2,lost
-2018-05-09,SE-14,Terengganu,N.17 Alur Limbat,1,11372,Ahmad Sabri Bin Ali,PKR,066-UPKO-1,UPKO,8,PH,1492,6.227564905250856,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.17 Alur Limbat,1,11372,Ahmad Sabri Bin Ali,PKR,078-PKR,PKR,8,PH,1492,6.227564905250856,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.17 Alur Limbat,2,10115,Ustaz Ariffin Deraman,PAS,004-PAS,PAS,9,GS,13330,55.639034977877955,1,won
 2018-05-09,SE-14,Terengganu,N.17 Alur Limbat,3,11373,Dato' Haji Saiful Bahri Bin Dato' Baharuddin,BN,001-UMNO,UMNO,3,BN,9136,38.133400116871194,2,lost
-2018-05-09,SE-14,Terengganu,N.18 Bukit Payung,1,11374,Dalizan Aziz,PKR,092-SPP,SPP,8,PH,1004,5.055387713997986,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.18 Bukit Payung,1,11374,Dalizan Aziz,PKR,046-AMANAH,AMANAH,8,PH,1004,5.055387713997986,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.18 Bukit Payung,2,9165,Ustaz Mohd Nor Hamzah,PAS,004-PAS,PAS,9,GS,11672,58.77139979859013,1,won
 2018-05-09,SE-14,Terengganu,N.18 Bukit Payung,3,11375,To' Puan Hjh Zaitun Binti Mat Amin,BN,001-UMNO,UMNO,3,BN,7184,36.17321248741188,2,lost
-2018-05-09,SE-14,Terengganu,N.19 Ru Rendang,1,10918,Zarawi Bin Sulong,PKR,092-SPP,SPP,8,PH,729,3.254028478328795,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.19 Ru Rendang,1,10918,Zarawi Bin Sulong,PKR,046-AMANAH,AMANAH,8,PH,729,3.254028478328795,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.19 Ru Rendang,2,10116,Dato' Haji Nik Dir Bin Nik Wan Ku,BN,001-UMNO,UMNO,3,BN,7823,34.91943043342409,2,lost
 2018-05-09,SE-14,Terengganu,N.19 Ru Rendang,3,11376,Dr Ahmad Samsuri Mokhtar,PAS,004-PAS,PAS,9,GS,13851,61.82654108824711,1,won
-2018-05-09,SE-14,Terengganu,N.20 Pengkalan Berangan,1,11377,Aidi Bin Ahmad,PKR,046-AMANAH,AMANAH,8,PH,1145,4.683601259868286,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.20 Pengkalan Berangan,1,11377,Aidi Bin Ahmad,PKR,107-BERSATU,BERSATU,8,PH,1145,4.683601259868286,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.20 Pengkalan Berangan,2,6872,Cikgu A. Latiff Awang,BN,001-UMNO,UMNO,3,BN,11406,46.656031414897534,2,lost
 2018-05-09,SE-14,Terengganu,N.20 Pengkalan Berangan,3,10117,Ustaz Sulaiman Sulong,PAS,004-PAS,PAS,9,GS,11896,48.660367325234176,1,won
 2018-05-09,SE-14,Terengganu,N.21 Telemung,1,8348,Rozi Bin Mamat,BN,001-UMNO,UMNO,3,BN,9407,62.25678358702845,1,won
 2018-05-09,SE-14,Terengganu,N.21 Telemung,2,8347,Ustaz Kamaruzaman Abdullah,PAS,004-PAS,PAS,9,GS,5248,34.731965585704835,2,lost
-2018-05-09,SE-14,Terengganu,N.21 Telemung,3,11378,Sharifah Norhayati Syed Omar,PKR,066-UPKO-1,UPKO,8,PH,455,3.0112508272667107,3,lost_deposit
-2018-05-09,SE-14,Terengganu,N.22 Manir,1,11379,Hafizuddin Hussain,PKR,092-SPP,SPP,8,PH,422,2.811459027315123,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.21 Telemung,3,11378,Sharifah Norhayati Syed Omar,PKR,078-PKR,PKR,8,PH,455,3.0112508272667107,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.22 Manir,1,11379,Hafizuddin Hussain,PKR,046-AMANAH,AMANAH,8,PH,422,2.811459027315123,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.22 Manir,2,10120,Ustaz Hilmi Bin Harun,PAS,004-PAS,PAS,9,GS,8716,58.06795469686875,1,won
 2018-05-09,SE-14,Terengganu,N.22 Manir,3,10119,Yusof Bin Awang Hitam ( Pok Usop ),BN,001-UMNO,UMNO,3,BN,5872,39.12058627581612,2,lost
-2018-05-09,SE-14,Terengganu,N.23 Kuala Berang,1,8919,Mohd Nor Bin Othman,PKR,066-UPKO-1,UPKO,8,PH,969,6.3279566381505905,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.23 Kuala Berang,1,8919,Mohd Nor Bin Othman,PKR,078-PKR,PKR,8,PH,969,6.3279566381505905,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.23 Kuala Berang,2,10121,Dato' Hj. Tengku Putera Tg Awang,BN,001-UMNO,UMNO,3,BN,6637,43.342258211976755,2,lost
 2018-05-09,SE-14,Terengganu,N.23 Kuala Berang,3,7678,Dr. Mamad Puteh,PAS,004-PAS,PAS,9,GS,7707,50.32978514987265,1,won
 2018-05-09,SE-14,Terengganu,N.24 Ajil,1,10123,Dr Ghazali Bin Taib,BN,001-UMNO,UMNO,3,BN,8128,47.983942381486514,2,lost
-2018-05-09,SE-14,Terengganu,N.24 Ajil,2,11380,Zamani Mamat,PKR,046-AMANAH,AMANAH,8,PH,679,4.008501092154201,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.24 Ajil,2,11380,Zamani Mamat,PKR,107-BERSATU,BERSATU,8,PH,679,4.008501092154201,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.24 Ajil,3,11381,Ustaz Maliaman Bin Kassim,PAS,004-PAS,PAS,9,GS,8132,48.00755652635929,1,won
 2018-05-09,SE-14,Terengganu,N.25 Bukit Besi,1,11382,Haji Ghazali Sulaiman,PAS,004-PAS,PAS,9,GS,5724,47.77564477088724,2,lost
 2018-05-09,SE-14,Terengganu,N.25 Bukit Besi,2,10125,Roslee Daud,BN,001-UMNO,UMNO,3,BN,5770,48.15958601118437,1,won
-2018-05-09,SE-14,Terengganu,N.25 Bukit Besi,3,11383,Mohamad Arif Bin Arifin,PKR,046-AMANAH,AMANAH,8,PH,487,4.0647692179283865,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.25 Bukit Besi,3,11383,Mohamad Arif Bin Arifin,PKR,107-BERSATU,BERSATU,8,PH,487,4.0647692179283865,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.26 Rantau Abang,1,11384,Haji Wan Zul,BN,001-UMNO,UMNO,3,BN,7835,37.20146241868857,2,lost
 2018-05-09,SE-14,Terengganu,N.26 Rantau Abang,2,10127,Cikgu Alias,PAS,004-PAS,PAS,9,GS,12287,58.34005982621908,1,won
-2018-05-09,SE-14,Terengganu,N.26 Rantau Abang,3,11385,Hj.Fadly Art,PKR,066-UPKO-1,UPKO,8,PH,939,4.458477755092351,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.26 Rantau Abang,3,11385,Hj.Fadly Art,PKR,078-PKR,PKR,8,PH,939,4.458477755092351,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.27 Sura,1,11386,Kak Nun,BN,001-UMNO,UMNO,3,BN,5338,26.394382911392405,2,lost
 2018-05-09,SE-14,Terengganu,N.27 Sura,2,10129,Cikgu Wan Hapandi,PAS,004-PAS,PAS,9,GS,12500,61.807753164556964,1,won
-2018-05-09,SE-14,Terengganu,N.27 Sura,3,11387,Zulkifli Bin Ali,PKR,092-SPP,SPP,8,PH,2386,11.797863924050633,3,lost_deposit
-2018-05-09,SE-14,Terengganu,N.28 Paka,1,11388,Hasbie Muda,PKR,092-SPP,SPP,8,PH,1866,8.41791852754094,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.27 Sura,3,11387,Zulkifli Bin Ali,PKR,046-AMANAH,AMANAH,8,PH,2386,11.797863924050633,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.28 Paka,1,11388,Hasbie Muda,PKR,046-AMANAH,AMANAH,8,PH,1866,8.41791852754094,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.28 Paka,2,11389,Haji T Hamzah T Draman,BN,001-UMNO,UMNO,3,BN,8448,38.11070510217892,2,lost
 2018-05-09,SE-14,Terengganu,N.28 Paka,3,7686,Ustaz Saiful Bahri Mamat,PAS,004-PAS,PAS,9,GS,11853,53.47137637028014,1,won
 2018-05-09,SE-14,Terengganu,N.29 Kemasik,1,9174,Ir Hj Rosli Bin Othman,BN,001-UMNO,UMNO,3,BN,7481,40.04174918374993,2,lost
-2018-05-09,SE-14,Terengganu,N.29 Kemasik,2,11390,Rizan Hj Ali,PKR,092-SPP,SPP,8,PH,1557,8.33377937162126,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.29 Kemasik,2,11390,Rizan Hj Ali,PKR,046-AMANAH,AMANAH,8,PH,1557,8.33377937162126,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.29 Kemasik,3,11391,Ir Saiful Azmi,PAS,004-PAS,PAS,9,GS,9645,51.6244714446288,1,won
-2018-05-09,SE-14,Terengganu,N.30 Kijal,1,11392,Dato' Seri Wan Marzuki,PKR,046-AMANAH,AMANAH,8,PH,1472,7.628128724672228,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.30 Kijal,1,11392,Dato' Seri Wan Marzuki,PKR,107-BERSATU,BERSATU,8,PH,1472,7.628128724672228,3,lost_deposit
 2018-05-09,SE-14,Terengganu,N.30 Kijal,2,9175,Ustaz Hazri Jusoh,PAS,004-PAS,PAS,9,GS,8280,42.908224076281286,2,lost
 2018-05-09,SE-14,Terengganu,N.30 Kijal,3,6146,Dato' Seri Hj Ahmad Bin Said,BN,001-UMNO,UMNO,3,BN,9545,49.463647199046484,1,won
 2018-05-09,SE-14,Terengganu,N.31 Cukai,1,9176,Hj Hanafiah Mat,PAS,004-PAS,PAS,9,GS,12428,49.55540492045137,1,won
-2018-05-09,SE-14,Terengganu,N.31 Cukai,2,11393,Wan Anies Adnan,PKR,066-UPKO-1,UPKO,8,PH,5104,20.35168866382232,3,lost
+2018-05-09,SE-14,Terengganu,N.31 Cukai,2,11393,Wan Anies Adnan,PKR,078-PKR,PKR,8,PH,5104,20.35168866382232,3,lost
 2018-05-09,SE-14,Terengganu,N.31 Cukai,3,8355,Dato' Hj Mohamed Bin Awang Tera,BN,001-UMNO,UMNO,3,BN,7547,30.092906415726304,2,lost
 2018-05-09,SE-14,Terengganu,N.32 Air Putih,1,9177,Hj Wan Abdul Hakim Bin Wan Mokhtar,BN,001-UMNO,UMNO,3,BN,12239,44.636930595572416,2,lost
 2018-05-09,SE-14,Terengganu,N.32 Air Putih,2,10131,Cikgu Razak Ibrahim,PAS,004-PAS,PAS,9,GS,12985,47.35767168751595,1,won
-2018-05-09,SE-14,Terengganu,N.32 Air Putih,3,8479,Zukri Aksah,PKR,066-UPKO-1,UPKO,8,PH,2195,8.00539771691163,3,lost_deposit
+2018-05-09,SE-14,Terengganu,N.32 Air Putih,3,8479,Zukri Aksah,PKR,078-PKR,PKR,8,PH,2195,8.00539771691163,3,lost_deposit
 2023-08-12,SE-15,Terengganu,N.01 Kuala Besut,1,10715,Tengku Zaihan,BN,001-UMNO,UMNO,3,BN,7377,39.08758543951677,2,lost
 2023-08-12,SE-15,Terengganu,N.01 Kuala Besut,2,11344,Haji Azbi,PAS,004-PAS,PAS,11,PN,11496,60.91241456048323,1,won
 2023-08-12,SE-15,Terengganu,N.02 Kota Putera,1,13781,Hj Khuz,PAS,004-PAS,PAS,11,PN,13360,58.312600934049144,1,won
@@ -995,11 +995,11 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2023-08-12,SE-15,Terengganu,N.03 Jertih,2,13782,Rozaini @ Koja,BN,001-UMNO,UMNO,3,BN,7399,37.90277137441729,2,lost
 2023-08-12,SE-15,Terengganu,N.04 Hulu Besut,1,7658,Nawi Bin Mohamad,BN,001-UMNO,UMNO,3,BN,6665,40.71472205253512,2,lost
 2023-08-12,SE-15,Terengganu,N.04 Hulu Besut,2,13783,Dr. Cikgu Che Harun Kamariah,BEBAS,000-BEBAS,BEBAS,0,ALONE,180,1.0995723885155773,3,lost_deposit
-2023-08-12,SE-15,Terengganu,N.04 Hulu Besut,3,13784,Mie Che Hussin,PAS,046-AMANAH,AMANAH,11,PN,9525,58.185705558949294,1,won
+2023-08-12,SE-15,Terengganu,N.04 Hulu Besut,3,13784,Mie Che Hussin,PAS,107-BERSATU,BERSATU,11,PN,9525,58.185705558949294,1,won
 2023-08-12,SE-15,Terengganu,N.05 Jabi,1,13785,Ustaz Rosdi Zakaria,BN,001-UMNO,UMNO,3,BN,6847,37.27272727272727,2,lost
 2023-08-12,SE-15,Terengganu,N.05 Jabi,2,9153,Dr. Azman,PAS,004-PAS,PAS,11,PN,11523,62.727272727272734,1,won
 2023-08-12,SE-15,Terengganu,N.06 Permaisuri,1,13786,Hamdan Hamzah,BN,001-UMNO,UMNO,3,BN,7299,32.973436935308996,2,lost
-2023-08-12,SE-15,Terengganu,N.06 Permaisuri,2,10106,Yusop Majid,PAS,046-AMANAH,AMANAH,11,PN,14837,67.026563064691,1,won
+2023-08-12,SE-15,Terengganu,N.06 Permaisuri,2,10106,Yusop Majid,PAS,107-BERSATU,BERSATU,11,PN,14837,67.026563064691,1,won
 2023-08-12,SE-15,Terengganu,N.07 Langkap,1,11353,Azmi Maarof,PAS,004-PAS,PAS,11,PN,9553,58.3496213046665,1,won
 2023-08-12,SE-15,Terengganu,N.07 Langkap,2,10107,Dato' Haji Sabri Mohd Noor,BN,001-UMNO,UMNO,3,BN,6819,41.650378695333494,2,lost
 2023-08-12,SE-15,Terengganu,N.08 Batu Rakit,1,11355,Ustaz Mohd Shafizi,PAS,004-PAS,PAS,11,PN,14465,63.135611714896775,1,won
@@ -1009,29 +1009,29 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2023-08-12,SE-15,Terengganu,N.10 Buluh Gading,1,9157,Ustaz Ridzuan Hashim,PAS,004-PAS,PAS,11,PN,16509,74.83680870353581,1,won
 2023-08-12,SE-15,Terengganu,N.10 Buluh Gading,2,13788,Omar Bin Adam,BN,001-UMNO,UMNO,3,BN,5551,25.163191296464188,2,lost
 2023-08-12,SE-15,Terengganu,N.11 Seberang Takir,1,9158,Cikgu Razif,BN,001-UMNO,UMNO,3,BN,9359,43.49988380199861,2,lost
-2023-08-12,SE-15,Terengganu,N.11 Seberang Takir,2,8338,Ustaz Haji Khazan,PAS,046-AMANAH,AMANAH,11,PN,12156,56.50011619800139,1,won
+2023-08-12,SE-15,Terengganu,N.11 Seberang Takir,2,8338,Ustaz Haji Khazan,PAS,107-BERSATU,BERSATU,11,PN,12156,56.50011619800139,1,won
 2023-08-12,SE-15,Terengganu,N.12 Bukit Tunggal,1,13789,Wan Noorislam Bin Wan Hashim,BN,001-UMNO,UMNO,3,BN,4345,26.47614404972275,2,lost
 2023-08-12,SE-15,Terengganu,N.12 Bukit Tunggal,2,13790,Haji Zaharudin,PAS,004-PAS,PAS,11,PN,12066,73.52385595027725,1,won
 2023-08-12,SE-15,Terengganu,N.13 Wakaf Mempelam,1,11363,Ustaz Wan Sukairi,PAS,004-PAS,PAS,11,PN,22345,85.73456624333346,1,won
-2023-08-12,SE-15,Terengganu,N.13 Wakaf Mempelam,2,13791,Wan Haikal,PH,066-UPKO-1,UPKO,8,PH,3718,14.26543375666654,2,lost
+2023-08-12,SE-15,Terengganu,N.13 Wakaf Mempelam,2,13791,Wan Haikal,PH,078-PKR,PKR,8,PH,3718,14.26543375666654,2,lost
 2023-08-12,SE-15,Terengganu,N.14 Bandar,1,11366,Ustaz Ahmad Shah,PAS,004-PAS,PAS,11,PN,8438,56.691749529696324,1,won
 2023-08-12,SE-15,Terengganu,N.14 Bandar,2,13792,Armi Irzan Mohd,BN,001-UMNO,UMNO,3,BN,6074,40.80892233270626,2,lost
-2023-08-12,SE-15,Terengganu,N.14 Bandar,3,13793,Luqman Long,MUDA,107-BERSATU,BERSATU,0,ALONE,372,2.49932813759742,3,lost_deposit
+2023-08-12,SE-15,Terengganu,N.14 Bandar,3,13793,Luqman Long,MUDA,120-MUDA,MUDA,0,ALONE,372,2.49932813759742,3,lost_deposit
 2023-08-12,SE-15,Terengganu,N.15 Ladang,1,11368,Datuk Mat,BN,001-UMNO,UMNO,3,BN,7290,38.46356777291194,2,lost
 2023-08-12,SE-15,Terengganu,N.15 Ladang,2,13794,Zuraida Md Noor,PAS,004-PAS,PAS,11,PN,11663,61.536432227088056,1,won
 2023-08-12,SE-15,Terengganu,N.16 Batu Buruk,1,11370,Ustaz Khalil,PAS,004-PAS,PAS,11,PN,23767,79.57878524074198,1,won
-2023-08-12,SE-15,Terengganu,N.16 Batu Buruk,2,13795,Zamir Ghazali,PH,092-SPP,SPP,8,PH,6099,20.421214759258017,2,lost
+2023-08-12,SE-15,Terengganu,N.16 Batu Buruk,2,13795,Zamir Ghazali,PH,046-AMANAH,AMANAH,8,PH,6099,20.421214759258017,2,lost
 2023-08-12,SE-15,Terengganu,N.17 Alur Limbat,1,13796,Cikgu Mohd Yuseri,BN,001-UMNO,UMNO,3,BN,7477,27.08076783773995,2,lost
 2023-08-12,SE-15,Terengganu,N.17 Alur Limbat,2,10115,Ustaz Ariffin,PAS,004-PAS,PAS,11,PN,20133,72.91923216226004,1,won
 2023-08-12,SE-15,Terengganu,N.18 Bukit Payung,1,13797,Mohd Khan,BN,001-UMNO,UMNO,3,BN,5882,25.889084507042252,2,lost
 2023-08-12,SE-15,Terengganu,N.18 Bukit Payung,2,9165,Ustaz Mohd Nor,PAS,004-PAS,PAS,11,PN,16838,74.11091549295776,1,won
-2023-08-12,SE-15,Terengganu,N.19 Ru Rendang,1,13798,Haji Suhaimi,PH,092-SPP,SPP,8,PH,3641,14.82009117551286,2,lost
+2023-08-12,SE-15,Terengganu,N.19 Ru Rendang,1,13798,Haji Suhaimi,PH,046-AMANAH,AMANAH,8,PH,3641,14.82009117551286,2,lost
 2023-08-12,SE-15,Terengganu,N.19 Ru Rendang,2,11376,Dr Sam,PAS,004-PAS,PAS,11,PN,20927,85.17990882448714,1,won
 2023-08-12,SE-15,Terengganu,N.20 Pengkalan Berangan,1,10117,Ustaz Sulaiman,PAS,004-PAS,PAS,11,PN,17946,64.98406720741599,1,won
 2023-08-12,SE-15,Terengganu,N.20 Pengkalan Berangan,2,10116,Dato' Haji Nik Dir,BN,001-UMNO,UMNO,3,BN,9670,35.01593279258401,2,lost
-2023-08-12,SE-15,Terengganu,N.21 Telemung,1,9170,Cikgu Awi,PAS,046-AMANAH,AMANAH,11,PN,8380,50.8958396598846,1,won
+2023-08-12,SE-15,Terengganu,N.21 Telemung,1,9170,Cikgu Awi,PAS,107-BERSATU,BERSATU,11,PN,8380,50.8958396598846,1,won
 2023-08-12,SE-15,Terengganu,N.21 Telemung,2,8348,Dato' Rozi Mamat,BN,001-UMNO,UMNO,3,BN,8085,49.10416034011539,2,lost
-2023-08-12,SE-15,Terengganu,N.22 Manir,1,13799,Eka Lisut,PH,066-UPKO-1,UPKO,8,PH,2211,14.098966968498916,2,lost
+2023-08-12,SE-15,Terengganu,N.22 Manir,1,13799,Eka Lisut,PH,078-PKR,PKR,8,PH,2211,14.098966968498916,2,lost
 2023-08-12,SE-15,Terengganu,N.22 Manir,2,10120,Ustaz Hilmi,PAS,004-PAS,PAS,11,PN,13471,85.90103303150109,1,won
 2023-08-12,SE-15,Terengganu,N.23 Kuala Berang,1,13800,Cg. Jalal,BN,001-UMNO,UMNO,3,BN,5353,32.20237020995007,2,lost
 2023-08-12,SE-15,Terengganu,N.23 Kuala Berang,2,7678,Dr.Mamad,PAS,004-PAS,PAS,11,PN,11270,67.79762979004992,1,won
@@ -1042,12 +1042,12 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2023-08-12,SE-15,Terengganu,N.26 Rantau Abang,1,13801,Mohd Asri Bin Mohamad,BN,001-UMNO,UMNO,3,BN,6037,24.151864298287727,2,lost
 2023-08-12,SE-15,Terengganu,N.26 Rantau Abang,2,13802,Ustaz Mohd Fadhli,PAS,004-PAS,PAS,11,PN,18959,75.84813570171227,1,won
 2023-08-12,SE-15,Terengganu,N.27 Sura,1,13803,Dr Din,PAS,004-PAS,PAS,11,PN,17395,83.06274472352212,1,won
-2023-08-12,SE-15,Terengganu,N.27 Sura,2,13804,Cikgu Obo Othman Bin Omar,PH,066-UPKO-1,UPKO,8,PH,3547,16.93725527647789,2,lost
+2023-08-12,SE-15,Terengganu,N.27 Sura,2,13804,Cikgu Obo Othman Bin Omar,PH,078-PKR,PKR,8,PH,3547,16.93725527647789,2,lost
 2023-08-12,SE-15,Terengganu,N.28 Paka,1,7686,Dato' Ustaz Saiful Bahri,PAS,004-PAS,PAS,11,PN,18681,73.29906615396689,1,won
 2023-08-12,SE-15,Terengganu,N.28 Paka,2,13805,Mad Paka,BN,001-UMNO,UMNO,3,BN,6805,26.700933846033116,2,lost
 2023-08-12,SE-15,Terengganu,N.29 Kemasik,1,11391,Ir Hj Saiful Azmi,PAS,004-PAS,PAS,11,PN,13778,65.4505724193625,1,won
 2023-08-12,SE-15,Terengganu,N.29 Kemasik,2,13806,Khairi Afiq,BN,001-UMNO,UMNO,3,BN,7273,34.5494275806375,2,lost
-2023-08-12,SE-15,Terengganu,N.30 Kijal,1,9167,Tok Li,PAS,046-AMANAH,AMANAH,11,PN,13403,58.15255119750087,1,won
+2023-08-12,SE-15,Terengganu,N.30 Kijal,1,9167,Tok Li,PAS,107-BERSATU,BERSATU,11,PN,13403,58.15255119750087,1,won
 2023-08-12,SE-15,Terengganu,N.30 Kijal,2,6146,Dato' Seri (Dr.) Hj. Ahmad Bin Said,BN,001-UMNO,UMNO,3,BN,9645,41.84744880249913,2,lost
 2023-08-12,SE-15,Terengganu,N.31 Cukai,1,13807,Dato' Sri Haji Mohamed Rahim Bin Hussin,BN,001-UMNO,UMNO,3,BN,10288,35.86918624921553,2,lost
 2023-08-12,SE-15,Terengganu,N.31 Cukai,2,9176,Haji Hanafiah Mat,PAS,004-PAS,PAS,11,PN,18394,64.13081375078447,1,won
