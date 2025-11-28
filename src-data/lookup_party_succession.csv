@@ -28,7 +28,7 @@ predecessor_uid,successor_uid,type,year,notes
 062-S46,001-UMNO,merge,1996,S46 rejoined UMNO
 063-AKAR,063-AKAR-BERSATU,replace,1996,AKAR renamed to AKAR-BERSATU
 021-DAP,073-MDP,splinter,1998,MDP split off from DAP
-066-PDS,066-UPKO,replace,1999,PDS renamed to UPKO
+066-PDS,066-UPKO-1,replace,1999,PDS renamed to UPKO
 063-AKAR-BERSATU,001-UMNO,split,2001,AKAR-BERSATU split into UMNO and eventually PGRS
 015-SNAP,077-SPDP,splinter,2002,SPDP split off from de-registered SNAP
 009-PRM,078-PKR,merge,2003,PRM + PKN merged to form PKR
