@@ -10,7 +10,9 @@
 \setlength{\parindent}{0in} % space at start of paragraph
 \setlength{\parskip}{0.14in} % space between paragraphs
 \linespread{1.25}
+\usepackage{marvosym}
 \usepackage{titlesec}
+
 \titlespacing\section{0pt}{0.21in}{0.03in}
 \titlespacing\subsection{0pt}{0.21in}{0.01in}
 \titlespacing\subsubsection{0pt}{0.21in}{0in}
@@ -122,12 +124,14 @@
 			\LARGE
 			The Malaysian Election Corpus (\acronymend):\\Federal and State-Level Election Results\\from 1955 to 2025 \\[0.21in]
 			\Large
-			Thevesh Thevananthan\\[0.15in]  % ← Author name inserted here
+			Thevesh Thevananthan\footnotemark$^{\text{\Letter}}$\\[0.15in]
 		\end{center}
 		\large
 		Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the Malaysian Election Corpus (MECo), an open-access panel database covering all federal and state general elections since 1955, as well as by-elections since 2008. MECo includes candidate- and constituency-level data for 9,704 electoral contests across seven decades, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics for each contest (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots), key demographic data for candidates (age, gender, ethnicity), and lineage data for political parties. MECo is the most well-curated open database on Malaysian elections to date, and will unlock new opportunities for research, data journalism, and civic engagement.
 	\end{minipage}
 \end{center}
+
+\footnotetext[1]{Malaya University, W.P. Kuala Lumpur, Malaysia\\\Letter\space \href{mailto:thevesh.theva@gmail.com}{thevesh.theva@gmail.com}}
 
 \vfill
 
@@ -471,6 +475,10 @@ As a practical reference for users, the codebase contains samples (\texttt{dashb
 
 Finally, while rigorous validation has been applied (see Technical Validation), this remains a living database and is intended as such. Minor inaccuracies, particularly in the candidate name field, may persist as discussed above. I encourage users to report issues or submit improvements via the GitHub repository, which provides full transparency of changes between releases.
 
+
+\section*{Data Availability}
+
+All datasets described in this paper are published on Harvard Dataverse\cite{meco_dataset} under a CC0 license. For convenience, the exact same datasets are also mirrored in repositories on Zenodo\cite{meco_codebase} and \href{https://github.com/Thevesh/paper-malaysian-election-corpus}{GitHub}. Both contain code and raw source files in addition to the datasets; I use GitHub to version-control active development and maintenance, with substantial updates released on Zenodo.
 
 \section*{Code Availability}
 
@@ -925,8 +933,6 @@ All data processing, validation, and compilation was conducted in Python. The fu
 
 \end{filecontents*}
 
-\newpage
-
 % this section generates reference
 \begingroup
 \raggedright
@@ -936,13 +942,18 @@ All data processing, validation, and compilation was conducted in Python. The fu
 \bibliography{mybib}
 \endgroup
 
+\section*{Acknowledgements}
+I thank Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. I also gratefully acknowledge Nimesha Thevananthan for her assistance with data collection, Danesh Prakash Chacko of Tindak Malaysia for providing historical insights and filling data gaps (particularly for the Sabah state election in 1971), and the MyElectionData volunteers for their assistance with completion and validation of candidate UID harmonisation and candidate demographic data. Finally, I thank the EC for granting access to physical records of historical election results via \textit{Pusat Sumber SPR}.
+
 \section*{Author Contributions}
 TT conceived, designed, and carried out all aspects of this study, including data collection, data curation, analysis, and manuscript preparation.
+
+\section*{Funding}
+
+This work did not receive any specific funding.
 
 \section*{Competing Interests}
 The author declares no competing interests. The author is not affiliated with any political party, or any organisation which actively participates in or aims to influence the outcome of Malaysian elections.
 
-\section*{Acknowledgements}
-This work did not receive any specific funding. I thank Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. I also gratefully acknowledge Nimesha Thevananthan for her assistance with data collection, Danesh Prakash Chacko of Tindak Malaysia for providing historical insights and filling data gaps (particularly for the Sabah state election in 1971), and the MyElectionData volunteers for their assistance with completion and validation of candidate UID harmonisation and candidate demographic data. Finally, I thank the EC for granting access to physical records of historical election results via \textit{Pusat Sumber SPR}.
 
 \end{document}
