@@ -123,20 +123,29 @@ def main():
 
     print("Validation passed!")
 
-    print("\n\n --------- Generating subsets ----------\n")
+    print("\n\n --------- Generating SFC files ----------\n")
 
     for v in ["ballots", "stats"]:
         df = pd.read_parquet(f"src-data/consol_{v}.parquet")
-        write_csv_parquet(f"src-data/federal_{v}", df[df.election.str.startswith("GE-")])
-        write_csv_parquet(f"src-data/byelection_{v}", df[df.election.str.startswith("BY-")])
+        write_csv_parquet(f"src-data/sfc/federal_{v}", df[df.election.str.startswith("GE-")])
+        write_csv_parquet(f"src-data/sfc/byelection_{v}", df[df.election.str.startswith("BY-")])
 
         for state, state_code in zip(get_states(my=0, codes=0), get_states(my=0, codes=1)):
             if "W.P." in state:
                 continue
             write_csv_parquet(
-                f"src-data/state_{state_code}_{v}",
+                f"src-data/sfc/state_{state_code}_{v}",
                 df[(df.state == state) & (df.election.str.startswith("SE-"))],
             )
+
+    print("\n\n --------- Generating lookup parquets ----------\n")
+
+    for v in ["candidate", "party", "coalition", "party_succession", "dates"]:
+        cf = pd.read_csv(f"src-data/lookup_{v}.csv")
+        for c in cf.columns:
+            if "date" in c:
+                cf[c] = pd.to_datetime(cf[c]).dt.date
+        write_csv_parquet(f"src-data/lookup_{v}", cf)
 
     print("\n\n --------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
 
