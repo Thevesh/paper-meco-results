@@ -143,7 +143,7 @@ def main():
     for v in ["candidate", "party", "coalition", "party_succession", "dates"]:
         cf = pd.read_csv(f"src-data/lookup_{v}.csv")
         for c in cf.columns:
-            if "date" in c:
+            if c in ["date"]:
                 cf[c] = pd.to_datetime(cf[c]).dt.date
         write_csv_parquet(f"src-data/lookup_{v}", cf)
 
