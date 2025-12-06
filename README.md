@@ -21,9 +21,7 @@ This repository contains the full data processing and analysis pipeline underlyi
 | `compile.py`                    | Main script to compile the cleaned and standardised dataset              |
 | `dataviz.py`                    | Script to generate summary visualisations                               |
 | `dashboards.py`                 | Script for generating harmonised panels for visualisation/dashboarding   |
-| `fuzzymatch.py`                 | Utility script for fuzzy matching candidate names                        |
 | `helper.py`                     | Helper functions used across scripts                                     |
-| `requirements.txt`              | Python dependencies                                                     |
 | `README.md`                     | This file                                                                |
 | `LICENSE`                       | License file (CC0)                                                       |
 
@@ -43,7 +41,7 @@ git clone git@github.com:thevesh/paper-meco-results.git
 cd paper-meco-results
 ```
 
-2. We recommend using `uv` to manage Python dependencies for this project.
+2. This project uses `uv` to manage Python dependencies.
 ```bash
 uv venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
