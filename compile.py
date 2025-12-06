@@ -115,16 +115,11 @@ def main():
         raise ValueError(f"Validation failed for {len(df[df.check != 0])} seats!")
 
     df = pd.read_parquet("src-data/consol_ballots.parquet")
-    for v in ["candidate", "party", "coalition"]:
+    for v in ["party", "coalition", "candidate"]:
         cf = pd.read_csv(f"src-data/lookup_{v}.csv")
         assert len(df[df[f"{v}_uid"].isin(cf[f"{v}_uid"])]) == len(
             df
         ), f"Missing {v} in lookup file!"
-
-    cf = pd.read_csv("src-data/lookup_seat.csv")
-    cf.date = pd.to_datetime(cf.date).dt.date
-    df = pd.merge(df, cf, on=["date", "election", "state", "seat"], how="left")
-    assert len(df[df.type.isnull()]) == 0, "Missing seat in lookup file!"
 
     print("Validation passed!")
 

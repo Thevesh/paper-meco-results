@@ -4154,7 +4154,7 @@ candidate_uid,name,sex,ethnicity,dob
 4153,Shapawie bin Othman,M,Bumi Sabah,xxxx-xx-xx
 4154,Shariff bin Tambi (Sharidd),M,Bumi Sabah,xxxx-xx-xx
 4155,Justin bin Sanggau,M,Bumi Sabah,1948-03-12
-4156,Joseph Mosusah,M,Bumi Sabah,xxxx-xx-xx
+4156,Joseph Mosusah,M,Bumi Sabah,1968-09-16
 4157,Abdullah bin Burairah,M,Bumi Sabah,1941-04-15
 4158,Abdul Chapur bin Salleh,M,Bumi Sabah,xxxx-xx-xx
 4159,Pengiran Hashim bin Ibrahim,M,Bumi Sabah,xxxx-xx-xx
@@ -4301,7 +4301,7 @@ candidate_uid,name,sex,ethnicity,dob
 4300,Ahmad Shah bin Hussein Tambakau,M,Bumi Sabah,xxxx-xx-xx
 4301,Allim bin Jaafar,M,Bumi Sabah,xxxx-xx-xx
 4302,Ismail bin Rugasan,M,Bumi Sabah,xxxx-xx-xx
-4303,Abdillah bin Abdul Hamid,M,Bumi Sabah,xxxx-xx-xx
+4303,Abdillah bin Abdul Hamid,M,Bumi Sabah,1952-10-14
 4304,Lawrence Hassim Riki,M,Bumi Sabah,xxxx-xx-xx
 4305,Abdul Halik bin Khanizaman Khan,M,Bumi Sabah,xxxx-xx-xx
 4306,Paul Tan Yau Fah,M,Chinese,xxxx-xx-xx
@@ -4698,7 +4698,7 @@ candidate_uid,name,sex,ethnicity,dob
 4697,Mohd. Noor bin Mohd. Dom,M,Malay,xxxx-xx-xx
 4698,Goh Kim Tin,M,Chinese,1940-06-24
 4699,Sabariah binti Ahmad,F,Malay,1939-xx-xx
-4700,Kamal bin Idris,M,Malay,xxxx-xx-xx
+4700,Kamal bin Idris,M,Malay,1974-11-10
 4701,Lau Bak Kia,M,Chinese,1935-10-03
 4702,Md. Salleh bin Kasmin,M,Malay,xxxx-xx-xx
 4703,Chai Sek Yong,M,Chinese,1951-07-27
@@ -6512,7 +6512,7 @@ candidate_uid,name,sex,ethnicity,dob
 6511,Ali bin Ayau,M,Bumi Sabah,1952-09-03
 6512,Bung Moktar bin Radin,M,Bumi Sabah,1959-09-15
 6513,Martin Yong,M,Chinese,1953-11-11
-6514,Jeffrey G. Kitingan,M,Bumi Sabah,1947-10-22
+6514,Jeffrey Gapari Kitingan,M,Bumi Sabah,1947-10-22
 6515,Edwin Richard,M,Bumi Sabah,1960-11-28
 6516,Inus Molukun,M,Bumi Sabah,1936-06-24
 6517,Clarence Dicsenol Bongkos Malakun,M,Bumi Sabah,1953-09-30
@@ -12040,7 +12040,7 @@ candidate_uid,name,sex,ethnicity,dob
 12039,Salleh bin Eddris,M,Bumi Sabah,1957-04-08
 12040,Wahid bin Ismail (Harith),M,Bumi Sabah,1955-01-16
 12041,Jawasing bin Mianus (Herman),M,Bumi Sabah,1950-04-20
-12042,Aidi Moktar,M,Bumi Sabah,1955-04-11
+12042,Aidi bin Moktar,M,Bumi Sabah,1955-04-11
 12043,Daud bin Yusof,M,Bumi Sabah,1961-01-22
 12044,Ali Omar bin Mohd Idris,M,Bumi Sabah,1947-09-07
 12045,Rosjelen binti Salimat,F,Bumi Sabah,1971-05-30
@@ -12404,9 +12404,9 @@ candidate_uid,name,sex,ethnicity,dob
 12403,Mohd Mezsi Ng Abdullah,M,Bumi Sabah,1981-08-11
 12404,Juhari bin Janan,M,Bumi Sabah,1961-06-22
 12405,Karuak bin Abdullah (Junny),M,Bumi Sabah,1963-07-29
-12406,Sairin Abd.Rahman (Mohd Al Ruzainie),M,Bumi Sabah,1965-11-11
+12406,Sairin Abdul Rahman (Mohd Al Ruzainie),M,Bumi Sabah,1965-11-11
 12407,Razman bin Mayah,M,Bumi Sabah,1987-08-11
-12408,Jafry Ariffin,M,Bumi Sabah,1963-10-26
+12408,Jafry bin Ariffin,M,Bumi Sabah,1963-10-26
 12409,Malaya bin Kasurah,M,Bumi Sabah,1961-05-20
 12410,Amrah bin Liwangsa,M,Bumi Sabah,1959-03-01
 12411,Jumaat bin Anwar,M,Bumi Sabah,1982-10-15
@@ -14000,3 +14000,460 @@ candidate_uid,name,sex,ethnicity,dob
 13999,Mohammad Haizan bin Jaafar,M,Malay,1963-08-20
 14000,Mohamad Yusri bin Bakir,M,Malay,1971-04-08
 14001,Muhaimin bin Abdul Malek,M,Malay,1981-10-31
+14002,Among bin Timbul,M,Bumi Sabah,1982-09-12
+14003,Datu Abdul Razak bin Datu Abdul Salam,M,Bumi Sabah,1964-01-10
+14004,Normalah binti Rasik,F,Bumi Sabah,1980-07-09
+14005,Zainal bin Romio,M,Bumi Sabah,1972-04-20
+14006,Sakinolin binti Mohamad,F,Bumi Sabah,1963-06-10
+14007,Halman bin Maniuk,M,Bumi Sabah,1975-02-10
+14008,Nasib bin Samodi @ Samnuri,M,Bumi Sabah,1977-06-16
+14009,Azlan Shafie Abdullah,M,Malay,1968-09-26
+14010,Hussin bin Masuddin,M,Bumi Sabah,1968-12-12
+14011,Samuil bin Mopun,M,Bumi Sabah,1965-09-18
+14012,Matin bin Ugung,M,Bumi Sabah,1966-01-12
+14013,Mohd Izahan bin Abdullah,M,Malay,1979-02-14
+14014,Junsim bin Rumunzing,M,Bumi Sabah,1970-01-28
+14015,Berusli bin Kimin,M,Bumi Sabah,1975-04-15
+14016,Fauziah binti Mohd Fuad Stephens,F,Malay,1958-09-09
+14017,Gunsanad bin Malingka,M,Bumi Sabah,1963-01-31
+14018,Jomin @ Munir bin Mogompit @ Magempit,M,Bumi Sabah,1968-06-04
+14019,Kinchin bin Boluot,M,Bumi Sabah,1960-11-01
+14020,Mohammad Noor Nazri bin Santong,M,Bumi Sabah,1989-12-24
+14021,Harun bin Ismail,M,Bumi Sabah,1959-12-31
+14022,Abd Hamid bin Kimin,M,Bumi Sabah,1973-06-01
+14023,Bolkiah bin Ismail,M,Bumi Sabah,1965-01-01
+14024,Bonny bin Berman,M,Bumi Sabah,1982-05-24
+14025,Lee Sip Kim,M,Chinese,1961-01-04
+14026,Abdul Rahim bin Madtaip,M,Bumi Sabah,1965-11-14
+14027,A Halim @ Abdul Halim bin Yussof,M,Bumi Sabah,1970-06-03
+14028,Jetol bin Dangin,M,Bumi Sabah,1965-01-27
+14029,Terence Au Soon Fui,M,Chinese,1982-11-18
+14030,Chong Chen Bin,M,Chinese,1978-10-20
+14031,Shawn Davey Robert Lee,M,Chinese,1977-06-08
+14032,Muhammad Affan bin Jumahat,M,Malay,1987-03-06
+14033,Freddy Chong Yee Vui,M,Chinese,1988-03-23
+14034,Ainin bin Ekon,M,Bumi Sabah,1979-11-08
+14035,J. Ojilim bin Asam,M,Bumi Sabah,1955-06-20
+14036,Jornah binti Mozihim,F,Bumi Sabah,1963-09-23
+14037,Redonah binti Bahanda,F,Bumi Sabah,1976-02-01
+14038,Suzie binti Salapan,F,Bumi Sabah,1985-08-12
+14039,Willey Lampaki,M,Bumi Sabah,1967-06-19
+14040,Rizham bin Abd Rahman,M,Malay,1981-10-10
+14041,Sitti Haima binti Jailani,F,Bumi Sabah,1970-03-01
+14042,Sauting bin Rabuyot,M,Bumi Sabah,1976-11-27
+14043,Jaiping bin Minsu,M,Bumi Sabah,1969-06-02
+14044,Norman bin Tulang,M,Bumi Sabah,1964-07-03
+14045,Shirewin Davin Patrick @ Joman,M,Bumi Sabah,1979-08-04
+14046,Robbin bin Banati,M,Bumi Sabah,1967-10-25
+14047,Zaidi bin Jatil,M,Bumi Sabah,1996-03-07
+14048,Jolius bin Majawai,M,Bumi Sabah,1970-03-17
+14049,Abel bin Pangair,M,Bumi Sabah,1962-03-10
+14050,Benson bin Tuyundo,M,Bumi Sabah,1966-12-10
+14051,Zaman bin Bayang,M,Bumi Sabah,1956-05-17
+14052,Arlinsia binti Agang,F,Bumi Sabah,1981-04-18
+14053,James Gantukok,M,Bumi Sabah,1980-10-01
+14054,Jamil bin M. Zakariah @ Majingkin,M,Bumi Sabah,1975-07-09
+14055,Awang Saleh bin Makmud,M,Bumi Sabah,1976-04-26
+14056,Syarif Mohd Shukree bin Danchingan,M,Bumi Sabah,1985-01-20
+14057,Raplin bin Samat,M,Bumi Sabah,1980-11-09
+14058,Abdullah bin Otong,M,Bumi Sabah,1970-02-07
+14059,Tajuddin bin Padis,M,Bumi Sabah,1965-03-15
+14060,Tadzul bin Radim,M,Bumi Sabah,1972-03-03
+14061,Mohd Rizal bin Saiman,M,Bumi Sabah,1980-11-29
+14062,Lomog bin Rudin @ Efejus bin Rudin,M,Bumi Sabah,1967-10-28
+14063,Rozlih @ John bin Samud,M,Bumi Sabah,1969-01-04
+14064,Rimin bin Maun,M,Bumi Sabah,1963-05-03
+14065,Azuwan bin Marjan @ Norjan,M,Bumi Sabah,1985-06-24
+14066,Timuti Majitol,M,Bumi Sabah,1990-10-26
+14067,Mohd. Khidir bin Lamsil,M,Bumi Sabah,1989-11-26
+14068,Walter Mark Mukis,M,Bumi Sabah,1980-11-24
+14069,Jefris bin Muadis,M,Bumi Sabah,1976-06-02
+14070,Lin bin Harun,M,Bumi Sabah,1958-01-06
+14071,Norman bin Simon,M,Bumi Sabah,1983-10-24
+14072,Judin bin Tingih,M,Bumi Sabah,1970-01-05
+14073,Mudezaim bin Muyau @ James bin Muyou,M,Bumi Sabah,1956-01-03
+14074,Davylandon bin Rubbin,M,Bumi Sabah,1980-04-08
+14075,Josely Taising,M,Bumi Sabah,1965-05-28
+14076,Priskila Akwila Sinem,F,Bumi Sabah,1996-01-04
+14077,Tiaminah @ Siti Aminah binti Ele,F,Bumi Sabah,1958-11-16
+14078,Shahnon Rizal bin Thaijudin,M,Bumi Sabah,1993-07-20
+14079,Pajudin bin Nordin,M,Bumi Sabah,1968-12-18
+14080,Mokhtar bin Hussin,M,Bumi Sabah,1963-10-03
+14081,Mohd Zulkernain bin Osman,M,Bumi Sabah,1991-12-08
+14082,Jasnih bin Daya,M,Bumi Sabah,1974-09-15
+14083,Francis bin Fahir @ Tongong,M,Bumi Sabah,1958-10-10
+14084,Jaesman @ Jaess Gipin,M,Bumi Sabah,1981-03-03
+14085,Liam bin Tawil,M,Bumi Sabah,1956-11-26
+14086,Alfian bin Sambas,M,Bumi Sabah,1980-05-09
+14087,Julia Ongkili,F,Bumi Sabah,1970-07-29
+14088,Jinitoh Sontori,M,Bumi Sabah,1982-09-09
+14089,Arthur Erik Lee,M,Chinese,1982-08-05
+14090,Andrew Mali,M,Bumi Sabah,1968-03-29
+14091,Vun Yun Fook,M,Chinese,1960-01-03
+14092,Samson S.Koroh @ Razali Suffian,M,Bumi Sabah,1968-09-19
+14093,Raymond Alfred @ Jenry,M,Bumi Sabah,1971-01-25
+14094,Madius bin Tangau,M,Bumi Sabah,1958-03-13
+14095,Aliusus bin Sipil @ Abdul Aziz,M,Bumi Sabah,1959-07-26
+14096,Gaim @ James bin Lunkapis,M,Bumi Sabah,1961-08-01
+14097,Bonaventure Boniface,M,Bumi Sabah,1976-08-14
+14098,Henry bin Saimpon,M,Bumi Sabah,1975-11-24
+14099,Dusi bin Gingging,M,Bumi Sabah,1958-11-17
+14100,Trevor Kenneth Maringking,M,Bumi Sabah,1982-04-20
+14101,Saibin Gunsari,M,Bumi Sabah,1967-11-17
+14102,Joisin bin Romut,M,Bumi Sabah,1965-04-21
+14103,Niyky @ Niky binti J.Bosikol,F,Bumi Sabah,1965-08-06
+14104,Mohd Yunus bin Ibrahim,M,Malay,1966-07-29
+14105,Matkri bin Kassim,M,Bumi Sabah,1965-11-09
+14106,Azman bin Fathil,M,Malay,1993-03-20
+14107,Alsat bin Edris @ Arsat Arshad Idris,M,Bumi Sabah,1950-01-31
+14108,Hates bin Abdul,M,Bumi Sabah,1979-08-03
+14109,Aliakbar bin Gulasan,M,Bumi Sabah,1971-02-08
+14110,Stephen Teo,M,Chinese,1962-10-18
+14111,Saikam bin Salinggou,M,Bumi Sabah,1968-11-19
+14112,Adis bin Jalie,M,Bumi Sabah,1964-06-16
+14113,Meriah binti Osman,F,Bumi Sabah,1984-12-05
+14114,Arfanshah Abdul Gafar,M,Bumi Sabah,1987-08-31
+14115,Nordin bin A. H. Thani,M,Bumi Sabah,1959-01-15
+14116,Nabila binti Norsahar,F,Bumi Sabah,1995-05-15
+14117,Mohamed Razali bin Mohamed Razi,M,Malay,1969-06-13
+14118,Gordon Lai Han Yung,M,Chinese,1974-05-23
+14119,Shone Eric Jr. Majimbun,M,Bumi Sabah,1980-10-08
+14120,Wong Lee Kah (Lewis) @ Lewis Wong,M,Chinese,1966-03-24
+14121,Edna Jessica Majimbun,F,Bumi Sabah,1978-06-18
+14122,Wong Thien Fook,M,Chinese,1959-05-11
+14123,Martin bin Sibit,M,Bumi Sabah,1966-10-23
+14124,Chia Yun Kong,M,Chinese,1963-10-21
+14125,Paul bin Anap,M,Bumi Sabah,1961-04-12
+14126,Joseph Linggian @ Joseph Chong,M,Bumi Sabah,1959-02-04
+14127,Ku Yuk Cheong,M,Chinese,1962-01-20
+14128,Yong Yin Loong @ Louis Yong,M,Chinese,1964-02-25
+14129,Candy Chiew,F,Chinese,1987-01-17
+14130,Yong Yit Jee,M,Chinese,1987-10-05
+14131,Tham Yun Fook,M,Chinese,1967-06-06
+14132,Ng Chun Sua,M,Chinese,1970-08-16
+14133,Ting Shu Kiong,M,Chinese,1974-07-26
+14134,Soh Kee Suat @ So Chee Say,F,Chinese,1955-12-10
+14135,Loi Kok Liang,M,Chinese,1987-03-10
+14136,Samuel Wong Tshun Chuen,M,Chinese,1994-08-23
+14137,Chan Loong Wei,M,Chinese,2000-07-05
+14138,Ooi Hong Wee,M,Chinese,1975-08-04
+14139,Paul Chong Hock Keing @ Robert,M,Chinese,1959-10-09
+14140,Loh Ee Eng,M,Chinese,1964-09-25
+14141,Hiew Choon Yu,M,Chinese,1962-03-07
+14142,Wong Hong Jun,M,Chinese,1979-09-27
+14143,Yee Wee Ping,M,Chinese,1967-06-05
+14144,Dennison R Indang,M,Bumi Sabah,1977-06-10
+14145,Mohamed Zaim bin Ansawi,M,Bumi Sabah,1984-03-12
+14146,Ritchie Jay Cheng,M,Bumi Sabah,1981-08-09
+14147,Suhaimi bin Buang,M,Bumi Sabah,1982-10-14
+14148,Aslin bin Samat,M,Bumi Sabah,1978-11-20
+14149,Sabrezani bin Sabdin Ghani,M,Bumi Sabah,1980-09-11
+14150,Mohd Afifi bin Shaiffuddin,M,Malay,1985-08-07
+14151,Lee Nyuk Soon @ Jason Lee,M,Chinese,1977-10-12
+14152,Patrick @ Peter Manius,M,Bumi Sabah,1967-10-19
+14153,Adelaide Cornelius @ Adelinus,M,Bumi Sabah,1966-02-14
+14154,Annita Shiela F. Among,F,Bumi Sabah,1970-08-30
+14155,Sugarah @ Segarah bin Miasin,M,Bumi Sabah,1958-04-18
+14156,Kanny Chew Ly Choi,M,Chinese,1986-03-10
+14157,Jeffery Nor bin Mohamed,M,Bumi Sabah,1970-07-16
+14158,Saifullah Phang bin Abdul Malik,M,Bumi Sabah,1986-12-20
+14159,Mahadthir bin Asbollah,M,Bumi Sabah,1977-05-27
+14160,Mil Kusin bin Abdillah,M,Bumi Sabah,1961-09-10
+14161,Shah Alfie bin Yahya Ahmad Shah,M,Malay,1986-12-23
+14162,Azni bin Mohd Salleh,M,Malay,1971-03-22
+14163,Mohammad Firdaus bin Diun,M,Bumi Sabah,1982-08-30
+14164,Jasni bin Matlani,M,Bumi Sabah,1962-11-16
+14165,Cyril Gerald Liew @ Cyril Gerald Austin,M,Bumi Sabah,1972-02-04
+14166,Billy Joe Dominic,M,Bumi Sabah,1984-04-28
+14167,Bernard A Logijin,M,Bumi Sabah,1969-08-29
+14168,Kuo Lee On,M,Chinese,1968-10-23
+14169,Sabaria @ Sabariah Aziz,F,Bumi Sabah,1961-03-29
+14170,Sylvester Molukun,M,Bumi Sabah,1966-08-08
+14171,Lasius Miki,M,Bumi Sabah,1960-03-04
+14172,Wong Kong Fooh,M,Chinese,1969-07-09
+14173,Peter Maurice Lidadun,M,Bumi Sabah,1965-09-22
+14174,Donald Peter Mojuntin,M,Bumi Sabah,1965-01-26
+14175,Francis Mojikon,M,Bumi Sabah,1960-06-04
+14176,Richard Ronald Dompok,M,Bumi Sabah,1983-09-10
+14177,Ricky Chang Onn Pin @ Ricky Richard,M,Chinese,1971-01-14
+14178,Walter Norbert Johnny,M,Bumi Sabah,1991-04-20
+14179,Joeynodd Aiiko Ronald C Bansin,M,Bumi Sabah,1989-01-05
+14180,Mckery Victor Ninin,M,Bumi Sabah,1978-11-10
+14181,Remysta Jimmy Taylor,M,Bumi Sabah,1988-09-15
+14182,Joseph Philip Kulip,M,Bumi Sabah,1961-06-01
+14183,Linda Beda Dunstan,F,Bumi Sabah,1980-08-06
+14184,Malik bin Luman,M,Bumi Sabah,1970-03-25
+14185,Nelson W Angang,M,Bumi Sabah,1979-01-14
+14186,Roger @ Roy Valentine Amandus,M,Bumi Sabah,1964-02-28
+14187,Adrian Alexander,M,Bumi Sabah,1982-07-07
+14188,Marcellus bin Tambud,M,Bumi Sabah,1964-01-16
+14189,Samail bin Bulongik,M,Bumi Sabah,1973-01-03
+14190,Jamal Norubit @ Jamal Nerubi,M,Bumi Sabah,1965-02-10
+14191,Beverley Natalie Koh,F,Chinese,1983-12-28
+14192,Nin bin Jellih,M,Bumi Sabah,1960-02-11
+14193,Richard Vitales @ Charles,M,Bumi Sabah,1959-04-03
+14194,Redzuan bin Kupamuthu @ Ismail,M,Bumi Sabah,1980-05-20
+14195,Faizal bin Julaili,M,Bumi Sabah,1976-07-26
+14196,Datu Mohamad bin Datu Tamin,M,Bumi Sabah,1962-01-29
+14197,Mohamad Azzmi bin Ahmad,M,Malay,1982-07-05
+14198,Pengiran Saifuddin bin Pengiran Tahir,M,Bumi Sabah,1957-11-10
+14199,Dolores Micheal,M,Bumi Sabah,1971-05-06
+14200,Md Haris bin Md Tahir,M,Malay,1962-02-15
+14201,Peter bin Matinjal,M,Bumi Sabah,1964-07-19
+14202,Hussin bin Dasar @ Esah,M,Bumi Sabah,1969-12-21
+14203,Ridzuan bin Agus Payong,M,Bumi Sabah,1990-03-25
+14204,Royston Adven,M,Bumi Sabah,1992-08-29
+14205,Rusman bin Dulamit,M,Bumi Sabah,1970-05-05
+14206,Adrian bin Lajim,M,Bumi Sabah,1983-04-27
+14207,Mohamad bin Said @ Ismail bin Sait,M,Bumi Sabah,1964-01-17
+14208,Suliaman bin Alladad,M,Bumi Sabah,1958-06-26
+14209,Haslan bin Wasli,M,Bumi Sabah,1978-03-25
+14210,Aziz bin Angkiu @ Jaafar,M,Bumi Sabah,1965-05-30
+14211,Yahya bin Ahmad,M,Malay,1947-02-13
+14212,Mohd Ariffin bin Barhim,M,Bumi Sabah,1959-03-25
+14213,Edwin bin Louis,M,Bumi Sabah,1961-05-10
+14214,Mohammad Hisyam Hazaril,M,Bumi Sabah,2000-12-08
+14215,Kaliwon bin Edi,M,Bumi Sabah,1958-05-14
+14216,Mohd Shaid bin Othman,M,Malay,1957-01-29
+14217,Osin bin Jilon,M,Bumi Sabah,1955-08-08
+14218,Dini binti Ginsik @ Annie binti Ginsik,F,Bumi Sabah,1965-06-12
+14219,Monih bin Epin,M,Bumi Sabah,1967-02-25
+14220,Awang bin Lakat,M,Bumi Sabah,1960-08-07
+14221,Walther Philip Michael,M,Bumi Sabah,1987-06-03
+14222,Jonehtan Matheus,M,Bumi Sabah,1988-06-29
+14223,Mohammad Norizhuan bin Awang,M,Malay,1990-05-07
+14224,Abdul Jarih bin Okin,M,Bumi Sabah,1962-09-27
+14225,Amit bin Basrin,M,Bumi Sabah,1963-10-29
+14226,Mohd Nazri Abdullah,M,Malay,1962-07-10
+14227,Jurinah binti Nasir,F,Bumi Sabah,1966-11-04
+14228,Markus Buas,M,Bumi Sabah,1969-06-23
+14229,Abdillah bin Jalaf,M,Bumi Sabah,1983-12-01
+14230,Ibrahim bin Tuah @ Jipun,M,Bumi Sabah,1974-01-21
+14231,Yusri bin Pungut,M,Bumi Sabah,1972-09-30
+14232,Yamani Hafez bin Musa,M,Bumi Sabah,1977-10-31
+14233,Wilson Liou,M,Chinese,1970-02-11
+14234,Kanafia bin Bujang,M,Bumi Sabah,1975-05-03
+14235,Moktar bin Matussin,M,Bumi Sabah,1958-11-17
+14236,Dayang Nor Syafiqah binti Abdul Hamid,F,Bumi Sabah,1995-09-07
+14237,Edward Jamkim @ Paul Arif,M,Bumi Sabah,1969-02-28
+14238,Atong bin Antong,M,Bumi Sabah,1964-06-15
+14239,Jeffrey bin Gopog,M,Bumi Sabah,1968-02-26
+14240,Nazarul Khaiwala bin Wahab,M,Bumi Sabah,1979-07-17
+14241,Rogers Tiam @ Aloysius,M,Bumi Sabah,1980-07-29
+14242,Jattry Abie @ Jeffry Mohd Ali,M,Bumi Sabah,1962-04-29
+14243,Japirin bin Sahadi,M,Bumi Sabah,1964-09-29
+14244,Jackson Musi,M,Bumi Sabah,1985-09-21
+14245,Mohd Anuar bin Abdul Ghani,M,Malay,1959-11-03
+14246,Masidi bin Manjun @ Masdi,M,Bumi Sabah,1950-06-02
+14247,Mukinin @ Mazlan bin Daiman,M,Bumi Sabah,1952-04-24
+14248,Naomi @ Neomi Francis,F,Bumi Sabah,1966-12-12
+14249,Md. Nadzmin Kamin,M,Bumi Sabah,1985-08-05
+14250,Rubica Gabayoi,F,Bumi Sabah,1975-05-18
+14251,Vennex bin Jasmin @ Miki,M,Bumi Sabah,1979-02-02
+14252,Bensin @ Binsin bin Dani,M,Bumi Sabah,1967-04-03
+14253,Pedderin @ Feddrin bin Tuliang @ Tuling,M,Bumi Sabah,1976-06-06
+14254,Ivan Mario Benedict,M,Bumi Sabah,1988-10-19
+14255,Linus bin Yubod @ Md Haidi B Md Badawi,M,Bumi Sabah,1969-11-10
+14256,Rusdin @ Musidi bin Riman,M,Bumi Sabah,1961-10-01
+14257,Gulit bin Rukag,M,Bumi Sabah,1971-01-09
+14258,Jikol bin Tagua,M,Bumi Sabah,1965-10-05
+14259,Victor P Paut,M,Bumi Sabah,1965-08-12
+14260,Dionysia Ginsos,F,Bumi Sabah,1992-01-30
+14261,Kenneth Edwin N.,M,Bumi Sabah,1972-11-28
+14262,Bianus Kontong,M,Bumi Sabah,1959-10-04
+14263,Haryady bin Antutu,M,Bumi Sabah,1995-03-04
+14264,Benedict Martin Gunir,M,Bumi Sabah,1959-02-23
+14265,Rafie Robert,M,Bumi Sabah,1987-04-28
+14266,Kenolee bin Justine,M,Bumi Sabah,1979-02-09
+14267,Niklos bin Ongoh,M,Bumi Sabah,1987-11-22
+14268,Ahamin bin Salim,M,Bumi Sabah,1969-01-04
+14269,Mohd Ishak bin Ayub,M,Bumi Sabah,1967-12-05
+14270,Solzah bin Sual,M,Bumi Sabah,1973-08-18
+14271,Nik Mohd Nadzri bin Nik Zawawi,M,Bumi Sabah,1979-07-27
+14272,Yukilin bin Giging,M,Bumi Sabah,1963-05-27
+14273,Peter Paun,M,Bumi Sabah,1969-08-04
+14274,Wilson Gan Poi Tzen,M,Chinese,1988-04-07
+14275,Johny @ John bin Anthony,M,Bumi Sabah,1955-11-25
+14276,Adzhar bin Jasni @ Eddy,M,Bumi Sabah,1963-11-10
+14277,Mustazarmie bin Mustapha,M,Bumi Sabah,1992-02-04
+14278,Augustine A.Nain,M,Bumi Sabah,1973-08-28
+14279,Junadey bin Ejih @ Egih,M,Bumi Sabah,1975-04-24
+14280,Gabriel George Tulas,M,Bumi Sabah,1985-02-23
+14281,Priscella Peter,F,Bumi Sabah,1998-08-15
+14282,Alviana binti Linus,F,Bumi Sabah,1979-04-21
+14283,Cheld Bryend Lind,M,Bumi Sabah,1986-06-29
+14284,Junik bin Bajit,M,Bumi Sabah,1965-12-28
+14285,Kevin Chong,M,Chinese,1975-09-13
+14286,Fatimah binti Ibrahim,F,Malay,1953-11-26
+14287,Rahmah Jan binti Sulaiman Khan,F,Bumi Sabah,1968-03-17
+14288,Rassedi bin Liaron,M,Bumi Sabah,1995-04-16
+14289,Burnley Balang,M,Bumi Sabah,1987-10-30
+14290,Jasini bin Angkiwan,M,Bumi Sabah,1963-06-25
+14291,Petrus bin Yahya,M,Bumi Sabah,1980-08-31
+14292,Yabri bin Onos,M,Bumi Sabah,1976-06-17
+14293,Rubin bin Balang,M,Bumi Sabah,1963-03-01
+14294,Clarence Carter Maraat,M,Bumi Sabah,1977-02-07
+14295,Edwin bin Laimin,M,Bumi Sabah,1980-10-11
+14296,Rufinah binti Pengeran,F,Bumi Sabah,1975-12-29
+14297,Vinson bin Rusikan,M,Bumi Sabah,1976-05-19
+14298,Aisat @ Ellik bin Igau @ Iggau,M,Bumi Sabah,1966-07-16
+14299,Lucia binti Kihing,F,Bumi Sabah,1976-12-11
+14300,Jordan Jude Ellron,M,Bumi Sabah,1997-01-21
+14301,Jufina Bt Dimis @ Hasnizah Bt Abdullah,F,Bumi Sabah,1960-06-16
+14302,Anchis @ Rayner Francis bin Udog @ Udong,M,Bumi Sabah,1954-06-06
+14303,Mohd Khairil Abdullah,M,Malay,1968-02-09
+14304,Lautis @ Laulis bin Anggang,M,Bumi Sabah,1971-05-05
+14305,Joseph bin Peter Tinggi,M,Bumi Sabah,1968-01-05
+14306,Ireneus Pagut @ Jreneus Pagut,M,Bumi Sabah,1961-03-24
+14307,Arthur Joseph Kurup,M,Bumi Sabah,1982-08-04
+14308,V Chong Vin @ Siau Ho,M,Bumi Sabah,1956-03-14
+14309,Junilin @ Jubilin bin Kilan,M,Bumi Sabah,1962-09-03
+14310,Laiji binti Ompongoh,F,Bumi Sabah,1990-01-09
+14311,Alfian A Koroh,M,Bumi Sabah,1954-06-05
+14312,Farney Bt Akon,F,Bumi Sabah,1979-04-10
+14313,Rejoh bin Ondoh,M,Bumi Sabah,1980-11-18
+14314,Akuang Suan,M,Bumi Sabah,1965-04-07
+14315,Sayau bin Tangkap,M,Bumi Sabah,1953-03-16
+14316,Jamin bin Jamri,M,Bumi Sabah,1978-04-26
+14317,Simah binti Matusip,F,Bumi Sabah,1960-01-15
+14318,Michel Alok @ Ilok,M,Bumi Sabah,1969-04-11
+14319,Nilis bin Joseph,M,Bumi Sabah,1979-07-22
+14320,Jikmariya binti Muran,F,Bumi Sabah,1982-06-27
+14321,Rosely bin Lajun,M,Bumi Sabah,1975-04-15
+14322,Ronald Kiandee,M,Bumi Sabah,1961-01-10
+14323,Roger bin Langgau,M,Bumi Sabah,1974-02-02
+14324,Aspah bin Abdullah Sani,M,Bumi Sabah,1960-12-01
+14325,Hassan bin Mentiak,M,Bumi Sabah,1966-02-25
+14326,Mohammad Arifin bin Pachuk,M,Bumi Sabah,1965-12-13
+14327,Marx Henry Lim,M,Bumi Sabah,1977-06-05
+14328,Asmad bin Nasir,M,Bumi Sabah,1978-04-04
+14329,Nuralizah Lee binti Abdullah,F,Bumi Sabah,1969-06-09
+14330,Jusik @ Joseph bin Imus @ Emus,M,Bumi Sabah,1965-06-06
+14331,Norfadzlina binti Ramsah,F,Bumi Sabah,1981-12-17
+14332,Yusoflatif bin Mustapah,M,Bumi Sabah,1960-01-01
+14333,Japar bin Awang,M,Bumi Sabah,1963-05-04
+14334,Abdul Said bin Pimping,M,Bumi Sabah,1972-05-15
+14335,Asmawi bin Asa,M,Bumi Sabah,1978-02-08
+14336,Mohd Yusuf bin Yoda,M,Bumi Sabah,1992-07-15
+14337,Esnin bin Satur,M,Bumi Sabah,1964-03-10
+14338,Fadly Voon,M,Bumi Sabah,1985-08-24
+14339,Salzo bin Asa,M,Bumi Sabah,1966-09-27
+14340,Irian bin Nanang,M,Bumi Sabah,1959-03-26
+14341,Sittinara binti Sakah,F,Bumi Sabah,1967-07-06
+14342,Yusri bin Abu,M,Bumi Sabah,1976-03-09
+14343,Zaini bin Tiksun,M,Bumi Sabah,1970-05-01
+14344,Faizal bin Wahab,M,Bumi Sabah,1980-06-26
+14345,Hazem Mubarak bin Musa,M,Bumi Sabah,1982-01-13
+14346,Ismail bin Md Said,M,Malay,1962-07-27
+14347,Nurulalsah binti Hassan Alban,F,Bumi Sabah,1976-07-24
+14348,Norani binti Asmatil,F,Bumi Sabah,1977-11-19
+14349,Amir @ Amir Shah bin Yaakub,M,Bumi Sabah,1964-04-19
+14350,Mohd Zharif Aizat bin Samsudin,M,Bumi Sabah,1995-03-20
+14351,Diana Diego @ Yusrina Sufiana,F,Bumi Sabah,1965-09-20
+14352,Abada bin Atalad,M,Bumi Sabah,1962-01-16
+14353,Mohd Fazriee bin Awang,M,Bumi Sabah,1992-03-30
+14354,Wong Tshun Khee,M,Chinese,1972-06-28
+14355,Hiew Vun Zin,M,Chinese,1979-01-19
+14356,Chin Kim Hiung,M,Chinese,1968-02-26
+14357,Soo Ming Soon,M,Chinese,1968-01-15
+14358,Jeffery Chung Cheong Yung,M,Chinese,1984-07-22
+14359,Mohd Firdaus @ Silvester bin Abdullah,M,Bumi Sabah,1968-01-13
+14360,Wong Hon Kong,M,Chinese,1968-11-01
+14361,Tang Szu Ching,F,Chinese,1996-05-20
+14362,Sohaimi bin Ramli,M,Malay,1961-07-01
+14363,Henley Liew Yun Ye,M,Chinese,1968-10-30
+14364,Koa Wei Yang,M,Chinese,1974-05-08
+14365,Mohina binti Sidom @ Mohina Ronnie Sidom,F,Bumi Sabah,1974-05-25
+14366,Ted Kelvin Sudin,M,Bumi Sabah,1989-04-20
+14367,John bin Sungkiang,M,Bumi Sabah,1958-12-01
+14368,Norfaizah Chua @ Giak Kiang,F,Bumi Sabah,1960-08-10
+14369,Duin Daud Bintarang,M,Bumi Sabah,1967-07-14
+14370,Jevronnie Mandek,M,Bumi Sabah,1986-02-27
+14371,Johainizamshah bin Johari,M,Bumi Sabah,1986-10-22
+14372,Salahuddin @ Salehuddin bin Anoi,M,Bumi Sabah,1955-04-26
+14373,Mohammad Saifulah bin Lokman,M,Bumi Sabah,1994-10-04
+14374,Mohd Ismail bin Ayob,M,Malay,1981-04-26
+14375,Mazlin bin Madali,M,Bumi Sabah,1982-05-05
+14376,Afiq Anwari bin Zulkifli,M,Malay,1991-12-11
+14377,Roslan bin Madali,M,Bumi Sabah,1966-06-04
+14378,Azahari bin Rangon,M,Bumi Sabah,1960-04-19
+14379,Nordin bin Damit,M,Bumi Sabah,1975-07-28
+14380,Juhari bin Janan,M,Bumi Sabah,1961-06-22
+14381,Pengiran Petra bin Pengiran Asri,M,Bumi Sabah,1987-09-15
+14382,Saleha Abdul Wahid,F,Malay,1958-06-23
+14383,Suling bin Isib,M,Bumi Sabah,1982-10-07
+14384,Assaffal @ Samsul Kamal bin P Alian,M,Bumi Sabah,1964-11-27
+14385,Jakaria bin Nasiran,M,Bumi Sabah,1961-08-13
+14386,Hairunnizam bin Kamsin,M,Bumi Sabah,1992-11-28
+14387,Muhammad bin Abdul Karim,M,Bumi Sabah,1978-12-16
+14388,Alif Afiandy bin Ali,M,Bumi Sabah,1985-10-17
+14389,Ehtisham Ur Rahman bin Mhaulaha,M,Bumi Sabah,1981-05-08
+14390,Norman bin Kasimin,M,Bumi Sabah,1962-02-26
+14391,Romansa bin Lamin,M,Bumi Sabah,1972-04-18
+14392,Yvonne Yong Yit Phung,F,Bumi Sabah,1985-11-30
+14393,Musa bin Mabul,M,Bumi Sabah,1975-08-23
+14394,Borkes @ Balkis binti Kalinggalan,F,Bumi Sabah,1977-11-17
+14395,Abd Halim Sidek bin Gulam Hassan,M,Bumi Sabah,1981-10-05
+14396,Amat bin Kawoh @ Abd Rahman,M,Bumi Sabah,1963-05-25
+14397,Mohammad bin Enriquez,M,Bumi Sabah,1975-11-10
+14398,Brahim bin Bisel,M,Bumi Sabah,1965-04-16
+14399,Mohd Syafiq Iqhmal bin Saharudin,M,Malay,2001-10-28
+14400,Norazlinah binti Arif,F,Malay,1977-09-01
+14401,Kasman bin Karate,M,Bumi Sabah,1984-10-03
+14402,Roselih bin Lumayan,M,Bumi Sabah,1958-02-21
+14403,Ismu Isyam bin Arsad,M,Bumi Sabah,1984-09-25
+14404,Anil Jeet Singh,M,Other,1985-08-15
+14405,Sumini binti Yasintus,F,Bumi Sabah,1980-02-09
+14406,Mat Roya @ Abdul Mutalib bin Jaafar,M,Bumi Sabah,1969-02-07
+14407,Mohd Julpikar bin Ab Mijan,M,Bumi Sabah,1981-02-01
+14408,Bidin bin Jawa,M,Bumi Sabah,1971-08-12
+14409,Abd Malik bin Abd Bool,M,Bumi Sabah,1980-12-25
+14410,Mohd Lipai @ Samsu bin Sundalu,M,Bumi Sabah,1969-06-05
+14411,Marunda bin K.K Ampong,M,Bumi Sabah,1959-05-07
+14412,Abdul Majid bin Angkulan,M,Bumi Sabah,1950-06-07
+14413,Noorudin bin Abd Hussin,M,Bumi Sabah,1986-02-15
+14414,Maulana bin Unding,M,Bumi Sabah,1980-01-14
+14415,Mohd Taha bin Mohd Dara,M,Bumi Sabah,1966-05-08
+14416,Arman bin Marasal,M,Bumi Sabah,1972-11-29
+14417,Suffian bin Ahmad,M,Malay,1984-04-14
+14418,Jamil bin Abdul Gapar,M,Bumi Sabah,1964-05-13
+14419,Abdul Manan bin Indanan,M,Bumi Sabah,1971-07-29
+14420,Syed Ahmad bin Syed Abas,M,Bumi Sabah,1981-06-14
+14421,Norazizah binti Pelari @ Palari,F,Bumi Sabah,1967-10-02
+14422,Chee Kheng Moi,F,Chinese,1967-12-04
+14423,Hartono bin Muhamad Juno,M,Bumi Sabah,1980-06-04
+14424,Erwan bin Palette,M,Bumi Sabah,1979-10-24
+14425,Shafie bin Hassan,M,Malay,1991-08-30
+14426,Munzier bin Mahamud,M,Bumi Sabah,1990-08-18
+14427,Datu Ugis bin Datu Pula,M,Bumi Sabah,1952-03-24
+14428,Sarman bin Amat Simito,M,Bumi Sabah,1955-11-20
+14429,Marsiah binti Omat,F,Bumi Sabah,1983-01-11
+14430,Elmiariezan bin Ardan,M,Bumi Sabah,1990-04-20
+14431,Yap Wui Lip,M,Chinese,1985-03-01
+14432,Ricky Hong Chee Kiong,M,Chinese,1983-02-17
+14433,Ab Rahman bin Yahya,M,Malay,1964-11-12
+14434,Samsiah binti Usman,F,Bumi Sabah,1983-11-27
+14435,Chaya binti Sulaiman,F,Bumi Sabah,1960-05-14
+14436,Mariani binti Sulaiman,F,Bumi Sabah,1962-01-22
+14437,Ishak bin Ismail,M,Malay,1967-02-26
+14438,Razik bin Muyong,M,Bumi Sabah,1965-03-02
+14439,Francis bin Lawrence @ Yusop,M,Bumi Sabah,1967-08-17
+14440,Hairul Amin bin Arif,M,Bumi Sabah,1977-01-11
+14441,Rina binti Jainal,F,Bumi Sabah,1981-09-01
+14442,Ayuf bin Abd Rahman,M,Bumi Sabah,1967-11-04
+14443,Ahmad bin Dullah,M,Bumi Sabah,1968-04-09
+14444,Samasuddin bin Yusop,M,Bumi Sabah,1976-04-06
+14445,Zanudin bin Mingo,M,Bumi Sabah,1983-06-24
+14446,Andi Md Shamsureezal bin Mohd Sainal,M,Bumi Sabah,1987-04-03
+14447,Rhyme @ Reymie bin Kassim,M,Bumi Sabah,1969-03-31
+14448,Hasan bin Haris,M,Malay,1977-09-07
+14449,Ruji bin Ubi,M,Bumi Sabah,1970-06-18
+14450,Sahran bin Untai,M,Bumi Sabah,1968-04-08
+14451,Manahing Tinggilani @ Tanggilani,M,Bumi Sabah,1970-06-09
+14452,Husni bin Frans,M,Bumi Sabah,1969-12-06
+14453,Suhurani bin Sammani,M,Bumi Sabah,1960-01-10
+14454,Aslan Fadli bin Samsul Alang,M,Bumi Sabah,1982-01-25
+14455,Kadri bin Amat,M,Bumi Sabah,1957-06-04
+14456,Abdul Gaib bin Aliaman,M,Bumi Sabah,1974-06-08
+14457,Ismail bin Idris,M,Malay,1962-01-02
+14458,Abu Bakar bin Kumun,M,Bumi Sabah,1967-01-03
