@@ -1469,7 +1469,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-10,Sabah,N.20 Moyog,1,8755,Elsie @ Feliescia Binti Solumin,PASOK,042-PASOK,PASOK,0,ALONE,202,2.0658621394968297,4,lost_deposit
 2004-03-21,SE-10,Sabah,N.20 Moyog,2,8756,Moris @ Francis Miji,BEBAS,000-BEBAS,BEBAS,0,ALONE,3124,31.94927388013909,2,lost
 2004-03-21,SE-10,Sabah,N.20 Moyog,3,4105,Jomilon Mojuntin @ Conrad Mojuntin,DAP,021-DAP,DAP,0,ALONE,760,7.772550623849458,3,lost_deposit
-2004-03-21,SE-10,Sabah,N.20 Moyog,4,7527,Philip Benedict Lasimbang,BN,066-UPKO-2,UPKO,3,BN,5692,58.21231335651462,1,won
+2004-03-21,SE-10,Sabah,N.20 Moyog,4,7527,Philip Benedict Lasimbang,BN,066-UPKO-1,UPKO,3,BN,5692,58.21231335651462,1,won
 2004-03-21,SE-10,Sabah,N.21 Kawang,1,8757,Gulamhaidar @ Yusof Bin Khan Bahadar,BN,001-UMNO,UMNO,3,BN,8213,80.94017936335864,1,won
 2004-03-21,SE-10,Sabah,N.21 Kawang,2,8758,Maiji Jaigul,PASOK,042-PASOK,PASOK,0,ALONE,1934,19.059820636641373,2,lost
 2004-03-21,SE-10,Sabah,N.22 Pantai Manis,1,5815,Abdul Rahim Bin Ismail,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
@@ -1478,7 +1478,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-10,Sabah,N.24 Membakut,1,8760,Mohd Arifin Bin Mohd Arif,BN,001-UMNO,UMNO,3,BN,4003,63.91505668210124,1,won
 2004-03-21,SE-10,Sabah,N.24 Membakut,2,7307,Awang Tangah Bin Awang Amin,PKR,078-PKR,PKR,6,BA,2260,36.08494331789877,2,lost
 2004-03-21,SE-10,Sabah,N.25 Klias,1,4919,Lajim Bin Ukim,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
-2004-03-21,SE-10,Sabah,N.26 Kuala Penyu,1,4916,Wences Angang @ James,BN,066-UPKO-2,UPKO,3,BN,3139,33.98289487928981,2,lost
+2004-03-21,SE-10,Sabah,N.26 Kuala Penyu,1,4916,Wences Angang @ James,BN,066-UPKO-1,UPKO,3,BN,3139,33.98289487928981,2,lost
 2004-03-21,SE-10,Sabah,N.26 Kuala Penyu,2,8761,Guan Dee Bin Koh Hoi,SETIA,069-SETIA,SETIA,0,ALONE,308,3.3344159359099277,4,lost_deposit
 2004-03-21,SE-10,Sabah,N.26 Kuala Penyu,3,4127,Johan @ Christoper Bin O T Ghani,BEBAS,000-BEBAS,BEBAS,0,ALONE,5157,55.8298148749594,1,won
 2004-03-21,SE-10,Sabah,N.26 Kuala Penyu,4,8762,Saman Bin Ahmad,BEBAS,000-BEBAS,BEBAS,0,ALONE,633,6.852874309840858,3,lost_deposit
@@ -1498,12 +1498,12 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-10,Sabah,N.31 Paginatan,2,7530,Janimin Bin Saliun,BEBAS,000-BEBAS,BEBAS,0,ALONE,1673,27.981267770530188,2,lost
 2004-03-21,SE-10,Sabah,N.31 Paginatan,3,8770,Nayon Bin Gudumi,BEBAS,000-BEBAS,BEBAS,0,ALONE,69,1.154039136979428,5,lost_deposit
 2004-03-21,SE-10,Sabah,N.31 Paginatan,4,8771,Hendry Wan Kauting @ Wen,SETIA,069-SETIA,SETIA,0,ALONE,76,1.2711155711657467,4,lost_deposit
-2004-03-21,SE-10,Sabah,N.31 Paginatan,5,4854,Ewon Bin Ebin,BN,066-UPKO-2,UPKO,3,BN,3224,53.92206054524168,1,won
+2004-03-21,SE-10,Sabah,N.31 Paginatan,5,4854,Ewon Bin Ebin,BN,066-UPKO-1,UPKO,3,BN,3224,53.92206054524168,1,won
 2004-03-21,SE-10,Sabah,N.32 Tambunan,1,3313,Joseph Pairin Kitingan,BN,054-PBS,PBS,3,BN,5297,72.42275088870659,1,won
 2004-03-21,SE-10,Sabah,N.32 Tambunan,2,8772,Nestor Bin Joannes,BEBAS,000-BEBAS,BEBAS,0,ALONE,2017,27.577249111293412,2,lost
 2004-03-21,SE-10,Sabah,N.33 Bingkor,1,8773,Ribus Bin Tingadon,BEBAS,000-BEBAS,BEBAS,0,ALONE,1551,17.934782608695652,2,lost
 2004-03-21,SE-10,Sabah,N.33 Bingkor,2,8774,Jino @ Peter Bin Allion @ Alliun,BEBAS,000-BEBAS,BEBAS,0,ALONE,1283,14.835800185013875,3,lost
-2004-03-21,SE-10,Sabah,N.33 Bingkor,3,8775,Justin Bin Guka,BN,066-UPKO-2,UPKO,3,BN,5353,61.89870490286772,1,won
+2004-03-21,SE-10,Sabah,N.33 Bingkor,3,8775,Justin Bin Guka,BN,066-UPKO-1,UPKO,3,BN,5353,61.89870490286772,1,won
 2004-03-21,SE-10,Sabah,N.33 Bingkor,4,8776,Anchis @ Rayner Francis Bin Udog @ Udong,PASOK,042-PASOK,PASOK,0,ALONE,147,1.6998149861239593,5,lost_deposit
 2004-03-21,SE-10,Sabah,N.33 Bingkor,5,8777,Suaidin @ Shuhaidin Bin Langkap @ Langab,SETIA,069-SETIA,SETIA,0,ALONE,314,3.630897317298797,4,lost_deposit
 2004-03-21,SE-10,Sabah,N.34 Liawan,1,5782,Paul Bin Kadau,BEBAS,000-BEBAS,BEBAS,0,ALONE,476,7.223065250379363,3,lost_deposit
@@ -1519,7 +1519,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-10,Sabah,N.37 Sook,2,4939,Joseph Kurup,BN,067-PBRS-SBH,PBRS,3,BN,3973,50.91631423811355,1,won
 2004-03-21,SE-10,Sabah,N.37 Sook,3,6514,Gapari Bin Katingan,BEBAS,000-BEBAS,BEBAS,0,ALONE,3578,45.85415865692683,2,lost
 2004-03-21,SE-10,Sabah,N.38 Nabawan,1,8781,Gabriel Uwing Bin Agunsung,BEBAS,000-BEBAS,BEBAS,0,ALONE,857,19.769319492502884,2,lost
-2004-03-21,SE-10,Sabah,N.38 Nabawan,2,6535,Bobbey Ah Fang Bin Suan,BN,066-UPKO-2,UPKO,3,BN,3478,80.23068050749713,1,won
+2004-03-21,SE-10,Sabah,N.38 Nabawan,2,6535,Bobbey Ah Fang Bin Suan,BN,066-UPKO-1,UPKO,3,BN,3478,80.23068050749713,1,won
 2004-03-21,SE-10,Sabah,N.39 Sugut,1,6505,Surady Bin Kayong,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 2004-03-21,SE-10,Sabah,N.40 Labuk,1,5190,Metah @ Micheal Bin Asang,BN,054-PBS,PBS,3,BN,0,,1,won_uncontested
 2004-03-21,SE-10,Sabah,N.41 Gum-Gum,1,8782,Tan Mui Ling @ Zaharah Tan,PKR,078-PKR,PKR,6,BA,1181,24.300411522633745,2,lost
@@ -1539,7 +1539,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2004-03-21,SE-10,Sabah,N.47 Kuamut,2,8789,Abdullah Bin Abdul Sani,BEBAS,000-BEBAS,BEBAS,0,ALONE,814,12.025409957157631,3,lost_deposit
 2004-03-21,SE-10,Sabah,N.47 Kuamut,3,8790,Abu Bakar Bin Ellah,BEBAS,000-BEBAS,BEBAS,0,ALONE,322,4.756980351602896,4,lost_deposit
 2004-03-21,SE-10,Sabah,N.47 Kuamut,4,8791,Damsah Bin Kalbin,PASOK,042-PASOK,PASOK,0,ALONE,49,0.7238883143743536,5,lost_deposit
-2004-03-21,SE-10,Sabah,N.47 Kuamut,5,8792,Johnny @ Juni Bin Intang,BN,066-UPKO-2,UPKO,3,BN,3897,57.571280839119524,1,won
+2004-03-21,SE-10,Sabah,N.47 Kuamut,5,8792,Johnny @ Juni Bin Intang,BN,066-UPKO-1,UPKO,3,BN,3897,57.571280839119524,1,won
 2004-03-21,SE-10,Sabah,N.48 Sukau,1,5772,Aklee Bin Abass,BN,001-UMNO,UMNO,3,BN,3678,78.15554611134722,1,won
 2004-03-21,SE-10,Sabah,N.48 Sukau,2,8793,Awang @ Pg. Roslan,PAS,004-PAS,PAS,6,BA,1028,21.844453888652783,2,lost
 2004-03-21,SE-10,Sabah,N.49 Tungku,1,8794,Mohd Suhaili Bin Said,BN,001-UMNO,UMNO,3,BN,5290,79.87316925864411,1,won
@@ -1650,7 +1650,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.19 Kapayan,1,8753,Edward Khoo Keok Hai,BN,003-MCA,MCA,3,BN,6162,44.26724137931035,1,won
 2008-03-08,SE-11,Sabah,N.19 Kapayan,2,8750,Steven Jimbangan,DAP,021-DAP,DAP,7,PR,4100,29.454022988505745,2,lost
 2008-03-08,SE-11,Sabah,N.19 Kapayan,3,6523,Datuk Chau Chin Tang,PKR,078-PKR,PKR,7,PR,3658,26.27873563218391,3,lost
-2008-03-08,SE-11,Sabah,N.20 Moyog,1,8207,Donald Peter Mojuntin,BN,066-UPKO-2,UPKO,3,BN,6782,61.40334993209598,1,won
+2008-03-08,SE-11,Sabah,N.20 Moyog,1,8207,Donald Peter Mojuntin,BN,066-UPKO-1,UPKO,3,BN,6782,61.40334993209598,1,won
 2008-03-08,SE-11,Sabah,N.20 Moyog,2,9016,Willybroad Missi,BEBAS,000-BEBAS,BEBAS,0,ALONE,166,1.5029425079221366,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.20 Moyog,3,8756,Moris @ Francis Miji,PKR,078-PKR,PKR,7,PR,4097,37.093707559981894,2,lost
 2008-03-08,SE-11,Sabah,N.21 Kawang,1,8757,Gulamhaidar @ Yusof Bin Khan Bahadar,BN,001-UMNO,UMNO,3,BN,8605,74.28990762324096,1,won
@@ -1673,7 +1673,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.25 Klias,4,9504,Mat Lani Bin Sabli,BEBAS,000-BEBAS,BEBAS,0,ALONE,37,0.38481539261570463,5,lost_deposit
 2008-03-08,SE-11,Sabah,N.25 Klias,5,5199,Taufick Bin Ruschi,BEBAS,000-BEBAS,BEBAS,0,ALONE,109,1.1336453458138325,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.26 Kuala Penyu,1,4127,Johan @ Christopher Bin O T Ghani,BEBAS,000-BEBAS,BEBAS,0,ALONE,4159,43.94547759932375,2,lost
-2008-03-08,SE-11,Sabah,N.26 Kuala Penyu,2,9505,John Teo Mau Sing,BN,066-UPKO-2,UPKO,3,BN,4416,46.66103127641589,1,won
+2008-03-08,SE-11,Sabah,N.26 Kuala Penyu,2,9505,John Teo Mau Sing,BN,066-UPKO-1,UPKO,3,BN,4416,46.66103127641589,1,won
 2008-03-08,SE-11,Sabah,N.26 Kuala Penyu,3,8761,Guandee Kohoi,PKR,078-PKR,PKR,7,PR,889,9.393491124260354,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.27 Lumadan,1,9506,Brahim Bin Hj Awang Anak,BEBAS,000-BEBAS,BEBAS,0,ALONE,107,1.3010700389105059,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.27 Lumadan,2,9507,Kamarlin Haji Ombi,BN,001-UMNO,UMNO,3,BN,5707,69.39445525291829,1,won
@@ -1685,7 +1685,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.29 Kundasang,3,7320,Karim Bin Adam,PKR,078-PKR,PKR,7,PR,1180,17.965895249695492,3,lost
 2008-03-08,SE-11,Sabah,N.30 Karanaan,1,5751,Datuk Masidi Manjun,BN,001-UMNO,UMNO,3,BN,6505,82.40435774005573,1,won
 2008-03-08,SE-11,Sabah,N.30 Karanaan,2,9509,Atin @ Attin Bin Naisin,PKR,078-PKR,PKR,7,PR,1389,17.59564225994426,2,lost
-2008-03-08,SE-11,Sabah,N.31 Paginatan,1,4854,Datuk Ewon Ebin,BN,066-UPKO-2,UPKO,3,BN,5206,72.28547625659539,1,won
+2008-03-08,SE-11,Sabah,N.31 Paginatan,1,4854,Datuk Ewon Ebin,BN,066-UPKO-1,UPKO,3,BN,5206,72.28547625659539,1,won
 2008-03-08,SE-11,Sabah,N.31 Paginatan,2,9510,Johumin Ampadong,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,0,ALONE,157,2.179950013885032,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.31 Paginatan,3,9511,Mat Jaili Samat,BEBAS,000-BEBAS,BEBAS,0,ALONE,90,1.2496528742016106,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.31 Paginatan,4,9512,Paul Kerangkas,PKR,078-PKR,PKR,7,PR,1749,24.284920855317967,2,lost
@@ -1693,7 +1693,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.32 Tambunan,2,9513,Francis Koh,BEBAS,000-BEBAS,BEBAS,0,ALONE,157,1.8302634646770808,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.32 Tambunan,3,9514,Mozes M. Iking,PKR,078-PKR,PKR,7,PR,2820,32.874795989741195,2,lost
 2008-03-08,SE-11,Sabah,N.33 Bingkor,1,4891,Thomas Anggan,BEBAS,000-BEBAS,BEBAS,0,ALONE,164,1.7634408602150538,3,lost_deposit
-2008-03-08,SE-11,Sabah,N.33 Bingkor,2,8775,Justin Guka,BN,066-UPKO-2,UPKO,3,BN,4589,49.344086021505376,1,won
+2008-03-08,SE-11,Sabah,N.33 Bingkor,2,8775,Justin Guka,BN,066-UPKO-1,UPKO,3,BN,4589,49.344086021505376,1,won
 2008-03-08,SE-11,Sabah,N.33 Bingkor,3,6514,Datuk Dr Jeffrey Kitingan,PKR,078-PKR,PKR,7,PR,4418,47.50537634408602,2,lost
 2008-03-08,SE-11,Sabah,N.33 Bingkor,4,9515,Victor Leornadus @ Victor Leonadus,BEBAS,000-BEBAS,BEBAS,0,ALONE,129,1.3870967741935483,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.34 Liawan,1,8780,Yapilin Bin Nawawi,BEBAS,000-BEBAS,BEBAS,0,ALONE,104,1.3562858633281167,4,lost_deposit
@@ -1710,7 +1710,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.37 Sook,2,9521,Sidum Bin Manjin,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,0,ALONE,124,1.349733318820072,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.37 Sook,3,9522,Paul Gitang,PKR,078-PKR,PKR,7,PR,3365,36.62784369217372,2,lost
 2008-03-08,SE-11,Sabah,N.37 Sook,4,8777,Suaidin @ Shuhaiddin Bin Langab,BEBAS,000-BEBAS,BEBAS,0,ALONE,202,2.198759116142375,3,lost_deposit
-2008-03-08,SE-11,Sabah,N.38 Nabawan,1,6535,Datuk Bobby Suan,BN,066-UPKO-2,UPKO,3,BN,3414,70.58093859830473,1,won
+2008-03-08,SE-11,Sabah,N.38 Nabawan,1,6535,Datuk Bobby Suan,BN,066-UPKO-1,UPKO,3,BN,3414,70.58093859830473,1,won
 2008-03-08,SE-11,Sabah,N.38 Nabawan,2,8781,Gabriel Uwing Bin Agunsung,PKR,078-PKR,PKR,7,PR,1327,27.43436014058301,2,lost
 2008-03-08,SE-11,Sabah,N.38 Nabawan,3,9523,Alexsius Bin Mangka,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,0,ALONE,96,1.9847012611122599,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.39 Sugut,1,6505,Surady Kayong,BN,001-UMNO,UMNO,3,BN,3123,73.34429309534994,1,won
@@ -1739,7 +1739,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-11,Sabah,N.46 Tanjong Papat,1,6509,Raymond Tan Shu Kiah,BN,068-SAPP,SAPP,3,BN,6418,72.03142536475869,1,won
 2008-03-08,SE-11,Sabah,N.46 Tanjong Papat,2,9536,Anthony Teo,DAP,021-DAP,DAP,7,PR,2492,27.9685746352413,2,lost
 2008-03-08,SE-11,Sabah,N.47 Kuamut,1,9537,Mustapa Bin Datu Tambuyong,BEBAS,000-BEBAS,BEBAS,0,ALONE,2112,28.73469387755102,2,lost
-2008-03-08,SE-11,Sabah,N.47 Kuamut,2,9538,Masiung Banah,BN,066-UPKO-2,UPKO,3,BN,3784,51.482993197278915,1,won
+2008-03-08,SE-11,Sabah,N.47 Kuamut,2,9538,Masiung Banah,BN,066-UPKO-1,UPKO,3,BN,3784,51.482993197278915,1,won
 2008-03-08,SE-11,Sabah,N.47 Kuamut,3,9539,Jusing Sabran,DAP,021-DAP,DAP,7,PR,105,1.4285714285714286,5,lost_deposit
 2008-03-08,SE-11,Sabah,N.47 Kuamut,4,9540,Duin Bintarang @ Noor Bintarang,BEBAS,000-BEBAS,BEBAS,0,ALONE,206,2.802721088435374,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.47 Kuamut,5,9541,Abdul Razak Bin Hj. Jamil,PKR,078-PKR,PKR,7,PR,1143,15.551020408163266,3,lost
@@ -1869,7 +1869,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.20 Moyog,1,10601,Terrence Alon Siambun,PKR,078-PKR,PKR,7,PR,7462,51.02571115973742,1,won
 2013-05-05,SE-12,Sabah,N.20 Moyog,2,10602,Bernard Lawrence Solibun,STAR,072-STAR-SWK,STAR,0,ALONE,603,4.12335886214442,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.20 Moyog,3,10603,Danim @ Aloysius Bin Siap,SAPP,068-SAPP,SAPP,0,ALONE,779,5.326859956236324,3,lost_deposit
-2013-05-05,SE-12,Sabah,N.20 Moyog,4,7527,Datuk Philip Benedict Lasimbang,BN,066-UPKO-2,UPKO,3,BN,5780,39.52407002188184,2,lost
+2013-05-05,SE-12,Sabah,N.20 Moyog,4,7527,Datuk Philip Benedict Lasimbang,BN,066-UPKO-1,UPKO,3,BN,5780,39.52407002188184,2,lost
 2013-05-05,SE-12,Sabah,N.21 Kawang,1,5811,Dzulkefli Safar,PKR,078-PKR,PKR,7,PR,3401,20.176791646891314,2,lost
 2013-05-05,SE-12,Sabah,N.21 Kawang,2,10604,Edward Dagul,SAPP,068-SAPP,SAPP,0,ALONE,906,5.374940673943996,3,lost_deposit
 2013-05-05,SE-12,Sabah,N.21 Kawang,3,10605,Akop Bin Damsah @ Yakup Bin Damsah,STAR,072-STAR-SWK,STAR,0,ALONE,248,1.4712861888941622,4,lost_deposit
@@ -1892,7 +1892,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.25 Klias,3,4919,Lajim Bin Ukin,PKR,078-PKR,PKR,7,PR,6324,49.70916522559346,1,won
 2013-05-05,SE-12,Sabah,N.25 Klias,4,10616,Isnin Bin Hj. Aliasnih,BN,001-UMNO,UMNO,3,BN,6145,48.30215374941047,2,lost
 2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,1,10617,Jusbian Bin Kenneth,BEBAS,000-BEBAS,BEBAS,0,ALONE,44,0.34812880765883375,5,lost_deposit
-2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,2,10618,Limus Bin Jury,BN,066-UPKO-2,UPKO,3,BN,7311,57.84476619985759,1,won
+2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,2,10618,Limus Bin Jury,BN,066-UPKO-1,UPKO,3,BN,7311,57.84476619985759,1,won
 2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,3,4127,John Ghani,PKR,078-PKR,PKR,7,PR,5038,39.860748476936465,2,lost
 2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,4,10619,Ining Bin Sinten @ Alexander Sintin,STAR,072-STAR-SWK,STAR,0,ALONE,154,1.2184508268059182,3,lost_deposit
 2013-05-05,SE-12,Sabah,N.26 Kuala Penyu,5,7309,Haji Md. Tajuddin Bin Hj. Md. Walli,BEBAS,000-BEBAS,BEBAS,0,ALONE,92,0.7279056887411979,4,lost_deposit
@@ -1917,7 +1917,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.30 Karanaan,3,9511,Mat Jaili Samat,BEBAS,000-BEBAS,BEBAS,0,ALONE,31,0.3044588489491259,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.30 Karanaan,4,10632,Muhiddin Yusin,PKR,078-PKR,PKR,7,PR,2792,27.42093891180515,2,lost
 2013-05-05,SE-12,Sabah,N.31 Paginatan,1,9921,Yazid Bin Sahjinan,BEBAS,000-BEBAS,BEBAS,0,ALONE,154,1.453104359313078,4,lost_deposit
-2013-05-05,SE-12,Sabah,N.31 Paginatan,2,5755,Datuk Siringan Gubat,BN,066-UPKO-2,UPKO,3,BN,5142,48.518588412908095,1,won
+2013-05-05,SE-12,Sabah,N.31 Paginatan,2,5755,Datuk Siringan Gubat,BN,066-UPKO-1,UPKO,3,BN,5142,48.518588412908095,1,won
 2013-05-05,SE-12,Sabah,N.31 Paginatan,3,10633,Amru Bin Abd Kadir,PKR,078-PKR,PKR,7,PR,4163,39.280996414417814,2,lost
 2013-05-05,SE-12,Sabah,N.31 Paginatan,4,10634,Pedderin @ Feddrin Bin Tuliang @ Tuling,STAR,072-STAR-SWK,STAR,0,ALONE,1139,10.747310813361013,3,lost_deposit
 2013-05-05,SE-12,Sabah,N.32 Tambunan,1,3313,Joseph Pairin Kitingan,BN,054-PBS,PBS,3,BN,5586,48.611957183883035,1,won
@@ -1927,7 +1927,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.32 Tambunan,5,9513,Francis Koh,BEBAS,000-BEBAS,BEBAS,0,ALONE,63,0.5482551562092072,5,lost_deposit
 2013-05-05,SE-12,Sabah,N.33 Bingkor,1,10637,Ricky @ Roland Sedomon,BEBAS,000-BEBAS,BEBAS,0,ALONE,111,0.8724357462862532,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.33 Bingkor,2,4300,Ahmad Shah Tambakau,PKR,078-PKR,PKR,7,PR,2368,18.611962587440072,3,lost
-2013-05-05,SE-12,Sabah,N.33 Bingkor,3,10638,Kennedy John Angian,BN,066-UPKO-2,UPKO,3,BN,4894,38.46577065157589,2,lost
+2013-05-05,SE-12,Sabah,N.33 Bingkor,3,10638,Kennedy John Angian,BN,066-UPKO-1,UPKO,3,BN,4894,38.46577065157589,2,lost
 2013-05-05,SE-12,Sabah,N.33 Bingkor,4,6514,Datuk Dr. Jeffrey Kitingan,STAR,072-STAR-SWK,STAR,0,ALONE,5350,42.049831014697794,1,won
 2013-05-05,SE-12,Sabah,N.34 Liawan,1,4135,Sairin Bin Karno,BN,001-UMNO,UMNO,3,BN,5383,47.49007498897221,1,won
 2013-05-05,SE-12,Sabah,N.34 Liawan,2,9522,Paul Bunsu Bin Gitang @ Paul Gitang,PKR,078-PKR,PKR,7,PR,3631,32.03352448169387,2,lost
@@ -1947,7 +1947,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.37 Sook,3,10648,Kustin Bin Ladi,STAR,072-STAR-SWK,STAR,0,ALONE,2828,21.369200544053196,2,lost
 2013-05-05,SE-12,Sabah,N.37 Sook,4,10649,Chong Yu Chee @ Frankie,SAPP,068-SAPP,SAPP,0,ALONE,1226,9.264016926099442,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.37 Sook,5,10650,Rusayidi Bin Abdullah,BEBAS,000-BEBAS,BEBAS,0,ALONE,46,0.3475895420885598,5,lost_deposit
-2013-05-05,SE-12,Sabah,N.38 Nabawan,1,6535,Datuk Bobbey Suan,BN,066-UPKO-2,UPKO,3,BN,3816,49.82373678025852,1,won
+2013-05-05,SE-12,Sabah,N.38 Nabawan,1,6535,Datuk Bobbey Suan,BN,066-UPKO-1,UPKO,3,BN,3816,49.82373678025852,1,won
 2013-05-05,SE-12,Sabah,N.38 Nabawan,2,9521,Sidum Bin Manjin,BERSAMA,069-BERSAMA,BERSAMA,0,ALONE,41,0.5353179266222745,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.38 Nabawan,3,10651,Raymond Bin Ahuar,PKR,078-PKR,PKR,7,PR,3474,45.35840188014101,2,lost
 2013-05-05,SE-12,Sabah,N.38 Nabawan,4,9927,Fatimah Binti Agitor @ Mohd Daud,BEBAS,000-BEBAS,BEBAS,0,ALONE,18,0.23501762632197415,5,lost_deposit
@@ -1984,7 +1984,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-12,Sabah,N.46 Tanjong Papat,3,6509,Raymond Tan Shu Kiah,BN,026-GERAKAN,GERAKAN,3,BN,6153,56.063781321184514,1,won
 2013-05-05,SE-12,Sabah,N.47 Kuamut,1,9537,Mustapa Bin Datu Tambuyong,PKR,078-PKR,PKR,7,PR,2989,25.347693351424695,2,lost
 2013-05-05,SE-12,Sabah,N.47 Kuamut,2,10673,Edward Podok,STAR,072-STAR-SWK,STAR,0,ALONE,1196,10.14246947082768,3,lost_deposit
-2013-05-05,SE-12,Sabah,N.47 Kuamut,3,9538,Masiung Banah,BN,066-UPKO-2,UPKO,3,BN,7607,64.50983717774763,1,won
+2013-05-05,SE-12,Sabah,N.47 Kuamut,3,9538,Masiung Banah,BN,066-UPKO-1,UPKO,3,BN,7607,64.50983717774763,1,won
 2013-05-05,SE-12,Sabah,N.48 Sukau,1,9544,Datuk Saddi Bin Abdu Rahman,BN,001-UMNO,UMNO,3,BN,5851,77.30215352094068,1,won
 2013-05-05,SE-12,Sabah,N.48 Sukau,2,10674,Aprin Bin Musin,SAPP,068-SAPP,SAPP,0,ALONE,89,1.1758488571806052,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.48 Sukau,3,9542,Hj Ahdah Bin Hj Sulaiman,PAS,004-PAS,PAS,7,PR,1432,18.919275994186815,2,lost
@@ -2080,7 +2080,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.07 Kadamaian,2,10570,Rubbin Guribah,SOLIDARITI,108-STAR-SBH,STAR,10,USA,3034,21.13549285963079,3,lost
 2018-05-09,SE-13,Sabah,N.07 Kadamaian,3,9486,Lukia Binti Indan,PKR,078-PKR,PKR,8,PH,3567,24.848484848484848,2,lost
 2018-05-09,SE-13,Sabah,N.07 Kadamaian,4,12009,Satail Bin Manjungkat,PAS,004-PAS,PAS,9,GS,129,0.8986415882967607,5,lost_deposit
-2018-05-09,SE-13,Sabah,N.07 Kadamaian,5,12010,Ewon Benedick,BN,066-UPKO-2,UPKO,3,BN,6861,47.79519331243469,1,won
+2018-05-09,SE-13,Sabah,N.07 Kadamaian,5,12010,Ewon Benedick,BN,066-UPKO-1,UPKO,3,BN,6861,47.79519331243469,1,won
 2018-05-09,SE-13,Sabah,N.08 Usukan,1,8731,Datuk Japlin Bin Akim,BN,001-UMNO,UMNO,3,BN,8738,52.398656752218756,1,won
 2018-05-09,SE-13,Sabah,N.08 Usukan,2,12011,Abdul Bahkrin Bin Mohd Yusof,WARISAN,104-WARISAN,WARISAN,0,ALONE,7513,45.05277044854881,2,lost
 2018-05-09,SE-13,Sabah,N.08 Usukan,3,12012,Amsor Bin Tuah,BEBAS,000-BEBAS,BEBAS,0,ALONE,70,0.41976493163828255,4,lost_deposit
@@ -2128,7 +2128,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.19 Kapayan,1,12034,Francis Goh Fah Shun,BN,003-MCA,MCA,3,BN,6308,23.204826368452032,2,lost
 2018-05-09,SE-13,Sabah,N.19 Kapayan,2,10600,Chong Pit Fah,SOLIDARITI,108-STAR-SBH,STAR,10,USA,1318,4.848440258975868,3,lost_deposit
 2018-05-09,SE-13,Sabah,N.19 Kapayan,3,12035,Jannie Lasimbang,DAP,021-DAP,DAP,8,PH,19558,71.9467333725721,1,won
-2018-05-09,SE-13,Sabah,N.20 Moyog,1,8207,Datuk Donald Peter Mojuntin,BN,066-UPKO-2,UPKO,3,BN,5303,33.404724409448825,2,lost
+2018-05-09,SE-13,Sabah,N.20 Moyog,1,8207,Datuk Donald Peter Mojuntin,BN,066-UPKO-1,UPKO,3,BN,5303,33.404724409448825,2,lost
 2018-05-09,SE-13,Sabah,N.20 Moyog,2,12036,Jenifer Lasimbang,WARISAN,104-WARISAN,WARISAN,0,ALONE,9745,61.38582677165354,1,won
 2018-05-09,SE-13,Sabah,N.20 Moyog,3,12037,Bandasan @ Dionisius Dennis J Tunding,PCS,095-PCS,PCS,0,ALONE,222,1.3984251968503936,4,lost_deposit
 2018-05-09,SE-13,Sabah,N.20 Moyog,4,10603,Danim @ Aloysius Siap,SOLIDARITI,108-STAR-SBH,STAR,10,USA,605,3.8110236220472435,3,lost_deposit
@@ -2151,7 +2151,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.25 Klias,1,10616,Isnin Bin Hj Aliasnih,BN,001-UMNO,UMNO,3,BN,6173,44.94357480888242,1,won
 2018-05-09,SE-13,Sabah,N.25 Klias,2,12048,Johair Binti Mat Lani,WARISAN,104-WARISAN,WARISAN,0,ALONE,3725,27.12049508554787,3,lost
 2018-05-09,SE-13,Sabah,N.25 Klias,3,4919,Lajim Bin Ukin (Datuk Seri Panglima),HR,102-HR,HR,10,USA,3837,27.93593010556971,2,lost
-2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,1,10618,Datuk Limus Bin Jury,BN,066-UPKO-2,UPKO,3,BN,7352,54.637336504161716,1,won
+2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,1,10618,Datuk Limus Bin Jury,BN,066-UPKO-1,UPKO,3,BN,7352,54.637336504161716,1,won
 2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,2,12049,Nikol Tiunsu @ Herman Tiongsoh,PCS,095-PCS,PCS,0,ALONE,548,4.072532699167657,4,lost_deposit
 2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,3,12050,Dikin Bin Musah,PKR,078-PKR,PKR,8,PH,3807,28.29221165279429,2,lost
 2018-05-09,SE-13,Sabah,N.26 Kuala Penyu,4,12051,Jonas Bin Sungin @ Sunggim,HR,102-HR,HR,10,USA,1749,12.997919143876338,3,lost
@@ -2171,7 +2171,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.30 Karanaan,3,12059,Aman @ Adzman Bin Manaf,HR,102-HR,HR,10,USA,685,6.3988790284913595,3,lost_deposit
 2018-05-09,SE-13,Sabah,N.30 Karanaan,4,12060,Pehing @ Chong Peck Hing,PKR,078-PKR,PKR,8,PH,3067,28.650163475011674,2,lost
 2018-05-09,SE-13,Sabah,N.31 Paginatan,1,12061,Julian @ Paul Bin Sidin,WARISAN,104-WARISAN,WARISAN,0,ALONE,3600,31.02913290811929,2,lost
-2018-05-09,SE-13,Sabah,N.31 Paginatan,2,12062,Datuk Abidin Bin Madingkir,BN,066-UPKO-2,UPKO,3,BN,5666,48.83640751594553,1,won
+2018-05-09,SE-13,Sabah,N.31 Paginatan,2,12062,Datuk Abidin Bin Madingkir,BN,066-UPKO-1,UPKO,3,BN,5666,48.83640751594553,1,won
 2018-05-09,SE-13,Sabah,N.31 Paginatan,3,10629,Satiol Bin Indong,PCS,095-PCS,PCS,0,ALONE,362,3.1201516979831063,4,lost_deposit
 2018-05-09,SE-13,Sabah,N.31 Paginatan,4,9511,Mat Jaili Samat,PPRS,110-PPRS,PPRS,10,USA,104,0.8963971729012239,5,lost_deposit
 2018-05-09,SE-13,Sabah,N.31 Paginatan,5,10634,Feddrin Tuliang,SOLIDARITI,108-STAR-SBH,STAR,10,USA,1870,16.117910705050853,3,lost
@@ -2202,7 +2202,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.37 Sook,2,12074,Baritus Gungkit @ Evaristus,SOLIDARITI,108-STAR-SBH,STAR,10,USA,3402,22.508932115919013,3,lost
 2018-05-09,SE-13,Sabah,N.37 Sook,3,12075,Peter Beaty,ANAKNEGERI,096-ANAK-NEGERI,ANAK-NEGERI,0,ALONE,113,0.7476511843324071,4,lost_deposit
 2018-05-09,SE-13,Sabah,N.37 Sook,4,8216,Martin Tomy @ Tommy,WARISAN,104-WARISAN,WARISAN,0,ALONE,3557,23.534471351065235,2,lost
-2018-05-09,SE-13,Sabah,N.38 Nabawan,1,6535,Datuk Bobbey Suan,BN,066-UPKO-2,UPKO,3,BN,5474,59.51940850277264,1,won
+2018-05-09,SE-13,Sabah,N.38 Nabawan,1,6535,Datuk Bobbey Suan,BN,066-UPKO-1,UPKO,3,BN,5474,59.51940850277264,1,won
 2018-05-09,SE-13,Sabah,N.38 Nabawan,2,6538,Ahuar Bin Rasam,WARISAN,104-WARISAN,WARISAN,0,ALONE,3402,36.99032293139067,2,lost
 2018-05-09,SE-13,Sabah,N.38 Nabawan,3,12076,Angin @ Nasruddin Bin Lambahan,PCS,095-PCS,PCS,0,ALONE,156,1.6962052843318471,4,lost_deposit
 2018-05-09,SE-13,Sabah,N.38 Nabawan,4,12077,Apandy @ Lukan Bin Angindi,HR,102-HR,HR,10,USA,165,1.7940632815048385,3,lost_deposit
@@ -2238,7 +2238,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,1,6509,Raymond Tan Shu Kiah,BN,026-GERAKAN,GERAKAN,3,BN,4002,38.655462184873954,2,lost
 2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,2,10671,Poon Ming Fung @ Frankie,DAP,021-DAP,DAP,8,PH,5818,56.19627161209312,1,won
 2018-05-09,SE-13,Sabah,N.46 Tanjong Papat,3,12096,Jufazli Shi Ahmad,BEBAS,000-BEBAS,BEBAS,0,ALONE,533,5.148266203032938,3,lost_deposit
-2018-05-09,SE-13,Sabah,N.47 Kuamut,1,9538,Datuk Masiung Banah,BN,066-UPKO-2,UPKO,3,BN,8042,59.00220102714601,1,won
+2018-05-09,SE-13,Sabah,N.47 Kuamut,1,9538,Datuk Masiung Banah,BN,066-UPKO-1,UPKO,3,BN,8042,59.00220102714601,1,won
 2018-05-09,SE-13,Sabah,N.47 Kuamut,2,10673,Edward Podok,PCS,095-PCS,PCS,0,ALONE,205,1.504035216434336,5,lost_deposit
 2018-05-09,SE-13,Sabah,N.47 Kuamut,3,12097,Norfaizah Chua,WARISAN,104-WARISAN,WARISAN,0,ALONE,3921,28.767424798239176,2,lost
 2018-05-09,SE-13,Sabah,N.47 Kuamut,4,12098,Jumaidin Lakalla,PAS,004-PAS,PAS,9,GS,330,2.421129860601614,4,lost_deposit
