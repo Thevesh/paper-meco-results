@@ -390,10 +390,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,SE-06,Negeri Sembilan,N.20 Linggi,1,3897,Mohd. Isa Bin Abdul Samad,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1982-04-22,SE-06,Negeri Sembilan,N.21 Kota,1,3153,Azhari B. Hamzah,PAS,004-PAS,PAS,0,ALONE,1146,16.563087151322446,2,lost
 1982-04-22,SE-06,Negeri Sembilan,N.21 Kota,2,4653,Ismail Bin Mohd. Yassin,BN,001-UMNO,UMNO,3,BN,5773,83.43691284867757,1,won
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,1,4654,Lee Kong Chon,DAP,021-DAP,DAP,0,ALONE,687,7.31629392971246,3,lost_deposit
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,2,3518,Mohd Ali Napiah Bin Ismail,PAS,004-PAS,PAS,0,ALONE,332,3.535676251331203,4,lost_deposit
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,3,4655,Lassim @ Hashim Bin Hjai Pilus,BEBAS,000-BEBAS,BEBAS,0,ALONE,2584,27.518636847710333,2,lost
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,4,4656,Waad Bin Haji Mansor,BN,001-UMNO,UMNO,3,BN,5787,61.62939297124601,1,won
+1982-05-22,SE-06,Negeri Sembilan,N.22 Gemencheh,1,4654,Lee Kong Chon,DAP,021-DAP,DAP,0,ALONE,687,7.31629392971246,3,lost_deposit
+1982-05-22,SE-06,Negeri Sembilan,N.22 Gemencheh,2,3518,Mohd Ali Napiah Bin Ismail,PAS,004-PAS,PAS,0,ALONE,332,3.535676251331203,4,lost_deposit
+1982-05-22,SE-06,Negeri Sembilan,N.22 Gemencheh,3,4655,Lassim @ Hashim Bin Hjai Pilus,BEBAS,000-BEBAS,BEBAS,0,ALONE,2584,27.518636847710333,2,lost
+1982-05-22,SE-06,Negeri Sembilan,N.22 Gemencheh,4,4656,Waad Bin Haji Mansor,BN,001-UMNO,UMNO,3,BN,5787,61.62939297124601,1,won
 1982-04-22,SE-06,Negeri Sembilan,N.23 Gemas,1,3159,Md. Salleh Bin Md. Hashim,BN,001-UMNO,UMNO,3,BN,7581,82.82530317928548,1,won
 1982-04-22,SE-06,Negeri Sembilan,N.23 Gemas,2,2885,Jaafar Bin Ahmad,PAS,004-PAS,PAS,0,ALONE,1572,17.17469682071452,2,lost
 1982-04-22,SE-06,Negeri Sembilan,N.24 Rompin,1,4657,Lee Yuen Fong,DAP,021-DAP,DAP,0,ALONE,2980,26.990308848836158,2,lost

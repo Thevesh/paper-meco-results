@@ -346,7 +346,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1969-05-10,GE-03,Melaka,P.085 Malacca Tengah,35617,28061,0,1620
 1969-05-10,GE-03,Melaka,P.086 Bandar Malacca,42679,31484,0,955
 1969-05-10,GE-03,Melaka,P.087 Malacca Utara,33237,25728,0,1155
-1969-05-10,GE-03,Melaka,P.088 Malacca Selatan,36232,24699,0,471
+1971-01-30,GE-03,Melaka,P.088 Malacca Selatan,36232,24699,0,471
 1969-05-10,GE-03,Johor,P.089 Muar Dalam,28523,0,0,0
 1969-05-10,GE-03,Johor,P.090 Segamat Selatan,29730,21305,0,1652
 1969-05-10,GE-03,Johor,P.091 Muar Pantai,30558,21578,0,715
@@ -363,46 +363,46 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1969-05-10,GE-03,Johor,P.102 Johore Timor,18302,12942,0,834
 1969-05-10,GE-03,Johor,P.103 Segamat Utara,21802,17192,0,500
 1969-05-10,GE-03,Johor,P.104 Muar Utara,30264,0,0,0
-1969-05-10,GE-03,Sabah,P.105 Marudu,14086,0,0,0
-1969-05-10,GE-03,Sabah,P.106 Bandau,10933,7592,0,463
-1969-05-10,GE-03,Sabah,P.107 Kota Belud,14875,12039,0,418
-1969-05-10,GE-03,Sabah,P.108 Tuaran,13826,0,0,0
-1969-05-10,GE-03,Sabah,P.109 Jesselton,15291,10279,0,246
-1969-05-10,GE-03,Sabah,P.110 Penampang,15512,0,0,0
-1969-05-10,GE-03,Sabah,P.111 Kimanis,15193,0,0,0
-1969-05-10,GE-03,Sabah,P.112 Labuan-Beaufort,13182,0,0,0
-1969-05-10,GE-03,Sabah,P.113 Sabah Selatan,11062,0,0,0
-1969-05-10,GE-03,Sabah,P.114 Sabah Dalam,12889,0,0,0
-1969-05-10,GE-03,Sabah,P.115 Kinabalu,12387,0,0,0
-1969-05-10,GE-03,Sabah,P.116 Sandakan,12625,9209,0,176
-1969-05-10,GE-03,Sabah,P.117 Labuk-Sugut,11742,0,0,0
-1969-05-10,GE-03,Sabah,P.118 Kinabatangan,11672,0,0,0
-1969-05-10,GE-03,Sabah,P.119 Darvel,13788,0,0,0
-1969-05-10,GE-03,Sabah,P.120 Tawau,9798,6912,0,155
-1969-05-10,GE-03,Sarawak,P.121 Bau-Lundu,15424,13844,0,753
-1969-05-10,GE-03,Sarawak,P.122 Bandar Kuching,24877,20779,0,5113
-1969-05-10,GE-03,Sarawak,P.123 Santubong,17746,14338,0,769
-1969-05-10,GE-03,Sarawak,P.124 Samarahan,12820,11056,0,525
-1969-05-10,GE-03,Sarawak,P.125 Padawan,13909,11873,0,806
-1969-05-10,GE-03,Sarawak,P.126 Serian,16359,14566,0,835
-1969-05-10,GE-03,Sarawak,P.127 Simunjan,11553,10059,0,921
-1969-05-10,GE-03,Sarawak,P.128 Batang Lupar,17476,13776,0,836
-1969-05-10,GE-03,Sarawak,P.129 Lubok Antu,8914,6873,0,744
-1969-05-10,GE-03,Sarawak,P.130 Betong,13092,9616,0,741
-1969-05-10,GE-03,Sarawak,P.131 Saratok,11892,9911,0,483
-1969-05-10,GE-03,Sarawak,P.132 Sarikei,11957,10412,0,571
-1969-05-10,GE-03,Sarawak,P.133 Payang,15263,12740,0,598
-1969-05-10,GE-03,Sarawak,P.134 Bandar Sibu,18779,14221,0,877
-1969-05-10,GE-03,Sarawak,P.135 Rajang,13511,11258,0,909
-1969-05-10,GE-03,Sarawak,P.136 Mukah,15798,10907,0,819
-1969-05-10,GE-03,Sarawak,P.137 Julau,7640,5286,0,689
-1969-05-10,GE-03,Sarawak,P.138 Kanowit,10224,6796,0,102
-1969-05-10,GE-03,Sarawak,P.139 Kapit,10521,7921,0,706
-1969-05-10,GE-03,Sarawak,P.140 Ulu Rajang,9439,7397,0,643
-1969-05-10,GE-03,Sarawak,P.141 Bintulu,13069,9425,0,728
-1969-05-10,GE-03,Sarawak,P.142 Miri-Subis,17859,13156,0,3684
-1969-05-10,GE-03,Sarawak,P.143 Baram,13051,9308,0,550
-1969-05-10,GE-03,Sarawak,P.144 Limbang-Lawas,11564,9495,0,630
+1970-07-04,GE-03,Sabah,P.105 Marudu,14086,0,0,0
+1970-07-04,GE-03,Sabah,P.106 Bandau,10933,7592,0,463
+1970-07-04,GE-03,Sabah,P.107 Kota Belud,14875,12039,0,418
+1970-07-04,GE-03,Sabah,P.108 Tuaran,13826,0,0,0
+1970-07-04,GE-03,Sabah,P.109 Jesselton,15291,10279,0,246
+1970-07-04,GE-03,Sabah,P.110 Penampang,15512,0,0,0
+1970-07-04,GE-03,Sabah,P.111 Kimanis,15193,0,0,0
+1970-07-04,GE-03,Sabah,P.112 Labuan-Beaufort,13182,0,0,0
+1970-07-04,GE-03,Sabah,P.113 Sabah Selatan,11062,0,0,0
+1970-07-04,GE-03,Sabah,P.114 Sabah Dalam,12889,0,0,0
+1970-07-04,GE-03,Sabah,P.115 Kinabalu,12387,0,0,0
+1970-07-04,GE-03,Sabah,P.116 Sandakan,12625,9209,0,176
+1970-07-04,GE-03,Sabah,P.117 Labuk-Sugut,11742,0,0,0
+1970-07-04,GE-03,Sabah,P.118 Kinabatangan,11672,0,0,0
+1970-07-04,GE-03,Sabah,P.119 Darvel,13788,0,0,0
+1970-07-04,GE-03,Sabah,P.120 Tawau,9798,6912,0,155
+1970-07-04,GE-03,Sarawak,P.121 Bau-Lundu,15424,13844,0,753
+1970-07-04,GE-03,Sarawak,P.122 Bandar Kuching,24877,20779,0,5113
+1970-07-04,GE-03,Sarawak,P.123 Santubong,17746,14338,0,769
+1970-07-04,GE-03,Sarawak,P.124 Samarahan,12820,11056,0,525
+1970-07-04,GE-03,Sarawak,P.125 Padawan,13909,11873,0,806
+1970-07-04,GE-03,Sarawak,P.126 Serian,16359,14566,0,835
+1970-07-04,GE-03,Sarawak,P.127 Simunjan,11553,10059,0,921
+1970-07-04,GE-03,Sarawak,P.128 Batang Lupar,17476,13776,0,836
+1970-07-04,GE-03,Sarawak,P.129 Lubok Antu,8914,6873,0,744
+1970-07-04,GE-03,Sarawak,P.130 Betong,13092,9616,0,741
+1970-07-04,GE-03,Sarawak,P.131 Saratok,11892,9911,0,483
+1970-07-04,GE-03,Sarawak,P.132 Sarikei,11957,10412,0,571
+1970-07-04,GE-03,Sarawak,P.133 Payang,15263,12740,0,598
+1970-07-04,GE-03,Sarawak,P.134 Bandar Sibu,18779,14221,0,877
+1970-07-04,GE-03,Sarawak,P.135 Rajang,13511,11258,0,909
+1970-07-04,GE-03,Sarawak,P.136 Mukah,15798,10907,0,819
+1970-07-04,GE-03,Sarawak,P.137 Julau,7640,5286,0,689
+1970-07-04,GE-03,Sarawak,P.138 Kanowit,10224,6796,0,102
+1970-07-04,GE-03,Sarawak,P.139 Kapit,10521,7921,0,706
+1970-07-04,GE-03,Sarawak,P.140 Ulu Rajang,9439,7397,0,643
+1970-07-04,GE-03,Sarawak,P.141 Bintulu,13069,9425,0,728
+1970-07-04,GE-03,Sarawak,P.142 Miri-Subis,17859,13156,0,3684
+1970-07-04,GE-03,Sarawak,P.143 Baram,13051,9308,0,550
+1970-07-04,GE-03,Sarawak,P.144 Limbang-Lawas,11564,9495,0,630
 1974-08-24,GE-04,Perlis,P.001 Kangar,29256,23290,0,895
 1974-08-24,GE-04,Perlis,P.002 Arau,29465,22465,0,1512
 1974-08-24,GE-04,Kedah,P.003 Jerlun-Langkawi,30952,0,0,0
@@ -6290,7 +6290,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,SE-05,Selangor,N.21 Selat Kelang,25583,19470,0,818
 1978-07-08,SE-05,Selangor,N.22 Bukit Raja,24613,18009,0,716
 1978-07-08,SE-05,Selangor,N.23 Bandar Kelang,32923,0,0,0
-1978-07-08,SE-05,Selangor,N.24 Kampong Jawa,13862,9327,0,63
+1978-07-29,SE-05,Selangor,N.24 Kampong Jawa,13862,9327,0,63
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,51469,37961,0,3774
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,23093,16822,0,470
 1978-07-08,SE-05,Selangor,N.27 Serdang,16049,12922,0,555
@@ -6934,7 +6934,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1982-04-22,SE-06,Negeri Sembilan,N.19 Pasir Panjang,8263,5841,0,156
 1982-04-22,SE-06,Negeri Sembilan,N.20 Linggi,8144,0,0,0
 1982-04-22,SE-06,Negeri Sembilan,N.21 Kota,9238,7123,0,204
-1982-04-22,SE-06,Negeri Sembilan,N.22 Gemencheh,13583,9455,0,65
+1982-05-22,SE-06,Negeri Sembilan,N.22 Gemencheh,13583,9455,0,65
 1982-04-22,SE-06,Negeri Sembilan,N.23 Gemas,12172,9524,0,371
 1982-04-22,SE-06,Negeri Sembilan,N.24 Rompin,14255,11143,0,102
 1986-08-02,SE-07,Negeri Sembilan,N.01 Peradong,6376,5079,0,149
@@ -8325,7 +8325,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1976-05-01,SE-03,Sabah,N.48 Bandar Tawau,7267,5668,0,103
 1981-03-23,SE-04,Sabah,N.01 Banggi,4885,3553,0,120
 1981-03-23,SE-04,Sabah,N.02 Kudat,8335,6378,0,116
-1981-03-23,SE-04,Sabah,N.03 Bengkoka,5203,3656,0,47
+1981-04-29,SE-04,Sabah,N.03 Bengkoka,5203,3656,0,47
 1981-03-23,SE-04,Sabah,N.04 Matunggong,4858,3944,0,66
 1981-03-23,SE-04,Sabah,N.05 Langkon,4908,3578,0,78
 1981-03-23,SE-04,Sabah,N.06 Tandek,4705,3102,0,128
