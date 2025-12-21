@@ -1,4 +1,4 @@
-date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ballot,party_uid,party,coalition_uid,coalition,votes
+date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballot,party_uid,party,coalition_uid,coalition,votes
 1955-07-25,GE-00,Pulau Pinang,P.001 Wellesley North,1,1,Hashim Awang,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,0
 1955-07-25,GE-00,Pulau Pinang,P.002 Wellesley South,1,2,Tay Hooi Soo,PERIKATAN,003-MCA,MCA,1,PERIKATAN,15697
 1955-07-25,GE-00,Pulau Pinang,P.002 Wellesley South,2,3,Haji Zabidi Bin Haji Ali,PAS,004-PAS,PAS,0,ALONE,3523
