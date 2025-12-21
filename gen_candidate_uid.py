@@ -30,6 +30,7 @@ UID_SECRET = os.environ["UID_SECRET"]
 
 
 def _derive_params(secret: str) -> tuple[int, int]:
+    """Derive hash-based parameters (a, b) from the secret string."""
     h = hashlib.sha256(secret.encode()).digest()
     a = int.from_bytes(h[:4], "big") % MOD | 1  # force odd
     b = int.from_bytes(h[4:8], "big") % MOD
@@ -37,10 +38,12 @@ def _derive_params(secret: str) -> tuple[int, int]:
 
 
 def _to_crockford_base32(n: int) -> str:
+    """Convert an integer to a 5-character Crockford base32 string."""
     return "".join(CROCKFORD32[(n >> 5 * i) & 31] for i in reversed(range(WIDTH)))
 
 
 def candidate_uid(rn: int, secret: str) -> str:
+    """Generate a 5-character candidate UID from a running number and secret."""
     if rn <= 0:
         raise ValueError("rn must be a positive integer")
     a, b = _derive_params(secret)
