@@ -45,15 +45,18 @@ def main():
     states = get_states()
     col_group = ["date", "election", "state", "seat"]
 
+    cf = pd.read_csv("src-data/lookup_candidate.csv")
+    assert cf["candidate_rn"].is_unique, "Duplicate values found in candidate_rn column!"
+    assert cf["candidate_uid"].is_unique, "Duplicate values found in candidate_uid column!"
+    map_rn_uid = dict(zip(cf["candidate_rn"], cf["candidate_uid"]))
+
     print("\n --------- Compiling ballots ----------\n")
 
-    df = pd.read_csv("src-data/raw_ballots.csv")
+    df = pd.read_csv("src-data/raw_ballots.csv").rename(columns={"candidate_rn": "candidate_uid"})
+    df["candidate_uid"] = df["candidate_uid"].map(map_rn_uid)
+    assert len(df[df.candidate_uid.isna()]) == 0, "Missing candidate_uid values!"
     df.date = pd.to_datetime(df.date).dt.date
     assert len(df[~df.state.isin(states)]) == 0, "Invalid state in raw ballots file!"
-
-    df = df[
-        ~((pd.to_datetime(df.date).dt.year == 1988) & (df.election.str.startswith("BY-")))
-    ]  # Remove Johor 1988 by-elections
 
     grp = df.groupby(col_group)["votes"]
 
@@ -81,10 +84,6 @@ def main():
     sf = pd.read_csv("src-data/raw_stats.csv")
     sf.date = pd.to_datetime(sf.date).dt.date
     assert len(sf[~sf.state.isin(states)]) == 0, "Invalid state in raw stats file!"
-
-    sf = sf[
-        ~((pd.to_datetime(sf.date).dt.year == 1988) & (sf.election.str.startswith("BY-")))
-    ]  # Remove Johor 1988 by-elections
 
     df = df[
         ["date", "election", "state", "seat", "votes_valid", "majority", "n_candidates"]
