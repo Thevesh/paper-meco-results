@@ -552,12 +552,12 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,SE-07,Kelantan,N.26 Ketereh,1,3387,Airffin Bin Mahmood,BN,001-UMNO,UMNO,3,BN,5126,57.82942238267148,1,won
 1986-08-02,SE-07,Kelantan,N.26 Ketereh,2,5312,Che Ismail Bin Che Ali,PAS,004-PAS,PAS,18,HAK,3738,42.17057761732852,2,lost
 1986-08-02,SE-07,Kelantan,N.27 Pulai Chondong,1,5313,Mustapha Bin Yahya,PAS,004-PAS,PAS,18,HAK,2807,39.78174603174603,2,lost
-1986-08-02,SE-07,Kelantan,N.27 Pulai Chondong,2,2797,"Abdullah Bin Hj, Mohamed",BN,001-UMNO,UMNO,3,BN,4249,60.21825396825397,1,won
+1986-08-02,SE-07,Kelantan,N.27 Pulai Chondong,2,2797,Abdullah Bin Hj Mohamed,BN,001-UMNO,UMNO,3,BN,4249,60.21825396825397,1,won
 1986-08-02,SE-07,Kelantan,N.28 Bukit Panau,1,3390,Ab. Latif Bin Hj. Ab. Rahman,BN,001-UMNO,UMNO,3,BN,5504,55.663430420711975,1,won
 1986-08-02,SE-07,Kelantan,N.28 Bukit Panau,2,5314,Mat Yusoff Bin Mat Sah,PAS,004-PAS,PAS,18,HAK,4384,44.336569579288025,2,lost
 1986-08-02,SE-07,Kelantan,N.29 Panglima Bayu,1,1786,Mohamed Bin Yaacob,BN,001-UMNO,UMNO,3,BN,5074,58.30843484256493,1,won
 1986-08-02,SE-07,Kelantan,N.29 Panglima Bayu,2,3440,Hanafi Bin Haji Daud,PAS,004-PAS,PAS,18,HAK,3628,41.69156515743507,2,lost
-1986-08-02,SE-07,Kelantan,N.30 Jeli,1,2793,"Ab. Samat Bin Hj, Drahman",BN,001-UMNO,UMNO,3,BN,4167,55.44172432144758,1,won
+1986-08-02,SE-07,Kelantan,N.30 Jeli,1,2793,Ab. Samat Bin Hj Drahman,BN,001-UMNO,UMNO,3,BN,4167,55.44172432144758,1,won
 1986-08-02,SE-07,Kelantan,N.30 Jeli,2,2056,Haji Zainal Abidin Bin Haji Yacob,PAS,004-PAS,PAS,18,HAK,3349,44.55827567855242,2,lost
 1986-08-02,SE-07,Kelantan,N.31 Gual Ipoh,1,5315,Stapa B. Awang Ali,PAS,004-PAS,PAS,18,HAK,2277,37.10886571056062,2,lost
 1986-08-02,SE-07,Kelantan,N.31 Gual Ipoh,2,2795,Mustafa Bin Yaakub,BN,001-UMNO,UMNO,3,BN,3859,62.89113428943938,1,won
@@ -1088,7 +1088,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2013-05-05,SE-13,Kelantan,N.18 Pasir Tumboh,2,10065,Ust. Man,PAS,004-PAS,PAS,7,PR,9972,64.57294567117788,1,won
 2013-05-05,SE-13,Kelantan,N.19 Demit,1,10066,Hajjah Mumtaz,PAS,004-PAS,PAS,7,PR,15302,69.48190528084275,1,won
 2013-05-05,SE-13,Kelantan,N.19 Demit,2,10067,Wan Mohd Nazi Bin Wan Hamat,BN,001-UMNO,UMNO,3,BN,6721,30.518094719157247,2,lost
-2013-05-05,SE-13,Kelantan,N.20 Tawang,1,10068,Haji Zain,BN,001-UMNO,UMNO,3,BN,10451,43.52044640626301,2,lost
+2013-05-05,SE-13,Kelantan,N.20 Tawang,1,7630,Haji Zain,BN,001-UMNO,UMNO,3,BN,10451,43.52044640626301,2,lost
 2013-05-05,SE-13,Kelantan,N.20 Tawang,2,6823,Ustaz Hassan,PAS,004-PAS,PAS,7,PR,13563,56.47955359373699,1,won
 2013-05-05,SE-13,Kelantan,N.21 Perupok,1,10069,Dato' Muhammad Zaidi Bin Sidek,BN,001-UMNO,UMNO,3,BN,10882,46.800275245140206,2,lost
 2013-05-05,SE-13,Kelantan,N.21 Perupok,2,10070,Haji Huzaimy,PAS,004-PAS,PAS,7,PR,12370,53.1997247548598,1,won

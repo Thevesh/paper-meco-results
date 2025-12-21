@@ -469,7 +469,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,SE-06,Selangor,N.32 Sungai Pelek,1,4626,Daud Bin Jantan,PAS,004-PAS,PAS,0,ALONE,430,4.716981132075472,3,lost_deposit
 1982-04-22,SE-06,Selangor,N.32 Sungai Pelek,2,4627,Tan Kok Wai,DAP,021-DAP,DAP,0,ALONE,2158,23.67266344888109,2,lost
 1982-04-22,SE-06,Selangor,N.32 Sungai Pelek,3,4628,Ng Ah Hock @ Ng Soon Por,BN,003-MCA,MCA,3,BN,6528,71.61035541904343,1,won
-1982-04-22,SE-06,Selangor,N.33 Batu Laut,1,3121,"Abd. Jabar Bin Mohd, Yusof @ Jabar Bin Yusof",BEBAS,000-BEBAS,BEBAS,0,ALONE,3885,49.75665983606557,1,won
+1982-04-22,SE-06,Selangor,N.33 Batu Laut,1,3121,Abd. Jabar bin Mohd Yusof @ Jabar Bin Yusof,BEBAS,000-BEBAS,BEBAS,0,ALONE,3885,49.75665983606557,1,won
 1982-04-22,SE-06,Selangor,N.33 Batu Laut,2,4629,Shahrom Bin Hj. Maasom,BN,001-UMNO,UMNO,3,BN,3629,46.47797131147541,2,lost
 1982-04-22,SE-06,Selangor,N.33 Batu Laut,3,4630,Paujan Bin Hj. Siraj,PAS,004-PAS,PAS,0,ALONE,294,3.765368852459016,3,lost_deposit
 1986-08-02,SE-07,Selangor,N.01 Sungai Air Tawar,1,5506,Tasrip @ Hj. Shamsuddin Bin Hj. Abdul Rahman,PAS,004-PAS,PAS,18,HAK,1282,20.64079858315891,2,lost
@@ -1053,7 +1053,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2008-03-08,SE-12,Selangor,N.33 Taman Medan,1,9334,Haniza Talha,PKR,078-PKR,PKR,7,PR,16803,57.59777876803894,1,won
 2008-03-08,SE-12,Selangor,N.33 Taman Medan,2,9335,Munaliza Binti Hamzah,BN,001-UMNO,UMNO,3,BN,12370,42.402221231961065,2,lost
 2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,1,7049,Dato' Dr. Lim Thuang Seng,BN,026-GERAKAN,GERAKAN,3,BN,6923,30.55432959661047,2,lost
-2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,2,9336,"Lee Poh Lin, Edward",DAP,021-DAP,DAP,7,PR,15735,69.44567040338954,1,won
+2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,2,9336,Edward Lee Poh Lin,DAP,021-DAP,DAP,7,PR,15735,69.44567040338954,1,won
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,1,9337,Sheah Kok Fah,BN,003-MCA,MCA,3,BN,6656,31.264972521020244,2,lost
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,2,9338,Lau Weng San,DAP,021-DAP,DAP,7,PR,14633,68.73502747897976,1,won
 2008-03-08,SE-12,Selangor,N.36 Damansara Utama,1,9339,Victor Gu Chian Peow,BN,003-MCA,MCA,3,BN,8526,25.521597270033226,2,lost

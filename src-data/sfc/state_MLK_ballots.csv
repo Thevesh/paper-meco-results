@@ -285,7 +285,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,SE-06,Melaka,N.04 Kelemak,2,3519,A. Rahim Bin Tamby Chik,BN,001-UMNO,UMNO,3,BN,5939,90.23093284715891,1,won
 1982-04-22,SE-06,Melaka,N.05 Masjid Tanah,1,3910,A. Majid Bin Sulaiman,PAS,004-PAS,PAS,0,ALONE,1300,18.248175182481752,2,lost
 1982-04-22,SE-06,Melaka,N.05 Masjid Tanah,2,3909,Dris Bin Abd. Gani,BN,001-UMNO,UMNO,3,BN,5824,81.75182481751825,1,won
-1982-04-22,SE-06,Melaka,N.06 Batang Melaka,1,4664,"Md, Daud Bin Suboh",PAS,004-PAS,PAS,0,ALONE,739,10.700839849406313,3,lost_deposit
+1982-04-22,SE-06,Melaka,N.06 Batang Melaka,1,4664,Md Daud Bin Suboh,PAS,004-PAS,PAS,0,ALONE,739,10.700839849406313,3,lost_deposit
 1982-04-22,SE-06,Melaka,N.06 Batang Melaka,2,4665,C. S. Balan,DAP,021-DAP,DAP,0,ALONE,1331,19.273095858673617,2,lost
 1982-04-22,SE-06,Melaka,N.06 Batang Melaka,3,3911,Lim Ah Kow @ Lim Soo Kiang,BN,003-MCA,MCA,3,BN,4836,70.02606429192006,1,won
 1982-04-22,SE-06,Melaka,N.07 Nyalas,1,4666,Foo Ah Kow,DAP,021-DAP,DAP,0,ALONE,804,11.34952004517222,2,lost_deposit
@@ -340,7 +340,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,SE-07,Melaka,N.09 Ayer Molek,2,5610,Mohd. Ali Bin Mohd. Rustam,BN,001-UMNO,UMNO,3,BN,9484,79.70417682158164,1,won
 1986-08-02,SE-07,Melaka,N.10 Krubong,1,5611,Tan Tong Chiew,DAP,021-DAP,DAP,0,ALONE,4845,40.19746121297602,2,lost
 1986-08-02,SE-07,Melaka,N.10 Krubong,2,5612,Seah Kwi Tong,BN,003-MCA,MCA,3,BN,7208,59.80253878702398,1,won
-1986-08-02,SE-07,Melaka,N.11 Tanjong Minyak,1,5613,"Abd. Rahman B, Daud",PAS,004-PAS,PAS,18,HAK,632,7.23526044647968,3,lost_deposit
+1986-08-02,SE-07,Melaka,N.11 Tanjong Minyak,1,5613,Abd. Rahman b Daud,PAS,004-PAS,PAS,18,HAK,632,7.23526044647968,3,lost_deposit
 1986-08-02,SE-07,Melaka,N.11 Tanjong Minyak,2,4263,Lim Swee,DAP,021-DAP,DAP,0,ALONE,2970,34.0011448196909,2,lost
 1986-08-02,SE-07,Melaka,N.11 Tanjong Minyak,3,5614,Yasin Bin Hj. Mohd. Sarif,BN,001-UMNO,UMNO,3,BN,5133,58.76359473382943,1,won
 1986-08-02,SE-07,Melaka,N.12 Sungai Udang,1,3918,Ahmad Nordin Bin Md. Amin,BN,001-UMNO,UMNO,3,BN,7956,73.32043129665469,1,won
@@ -757,7 +757,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2018-05-09,SE-14,Melaka,N.21 Duyong,3,8640,Ustaz Kamarudin,PAS,004-PAS,PAS,9,GS,2938,19.09155890571187,3,lost
 2018-05-09,SE-14,Melaka,N.21 Duyong,4,9873,Damian Baba Yeo,PKR,021-DAP,DAP,8,PH,7642,49.65884722853986,1,won
 2018-05-09,SE-14,Melaka,N.22 Bandar Hilir,1,10482,Chin Choong Seong,BEBAS,000-BEBAS,BEBAS,0,ALONE,141,0.8341221012778041,3,lost_deposit
-2018-05-09,SE-14,Melaka,N.22 Bandar Hilir,2,11889,"Lee Chong Leng, Shaun",BN,003-MCA,MCA,3,BN,2725,16.12044486512068,2,lost
+2018-05-09,SE-14,Melaka,N.22 Bandar Hilir,2,11889,Shaun Lee Chong Leng,BN,003-MCA,MCA,3,BN,2725,16.12044486512068,2,lost
 2018-05-09,SE-14,Melaka,N.22 Bandar Hilir,3,9416,Tey Kok Kiew,PKR,021-DAP,DAP,8,PH,14038,83.04543303360151,1,won
 2018-05-09,SE-14,Melaka,N.23 Telok Mas,1,11890,Datuk Abdul Razak Bin Abdul Rahman,BN,001-UMNO,UMNO,3,BN,6406,37.106116774791474,2,lost
 2018-05-09,SE-14,Melaka,N.23 Telok Mas,2,11891,Fendi Ahmad,PKR,107-BERSATU,BERSATU,8,PH,7694,44.566728452270624,1,won

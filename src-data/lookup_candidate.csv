@@ -15,7 +15,7 @@ candidate_uid,name,sex,ethnicity,dob
 14,Sulaiman bin Ahmad,M,Malay,1925-xx-xx
 15,Jan bin Ngah Mohamed,M,Malay,1900-xx-xx
 16,Abdul Hamid Khan bin Sakhawat Ali Khan,M,Malay,1900-11-01
-17,Mohamed Shamshuddin bin Haji Hamzah,M,Malay,1902-xx-xx
+17,Mohamed Shamshuddin bin Hamzah,M,Malay,1902-xx-xx
 18,Abdul Majid bin Ariffin,M,Malay,1914-xx-xx
 19,Cheah Kay Chuan,M,Chinese,1904-xx-xx
 20,Abu Bakar bin Said,M,Malay,1908-xx-xx
@@ -70,7 +70,7 @@ candidate_uid,name,sex,ethnicity,dob
 69,Lim Kee Siong,M,Chinese,1903-xx-xx
 70,B. H. Tan,M,Chinese,1915-xx-xx
 71,Mohamed Sulong bin Mohamed Ali,M,Malay,1908-xx-xx
-72,Abdul Hamid bin Ma'Ajab,M,Malay,1900-xx-xx
+72,Abdul Hamid bin Ma'ajab,M,Malay,1900-xx-xx
 73,Abdul Razak bin Hussein,M,Malay,1922-03-11
 74,Mohamed Yasin bin Mohd Salleh,M,Malay,1905-xx-xx
 75,Abdul Rahman bin Talib,M,Malay,1916-xx-xx
@@ -131,7 +131,7 @@ candidate_uid,name,sex,ethnicity,dob
 130,Othman bin Abdullah,M,Malay,xxxx-xx-xx
 131,Abu Bakar bin Hamzah,M,Malay,1925-xx-xx
 132,Abdul Rahman bin Osman,M,Malay,xxxx-xx-xx
-133,Haji Mokhtar bin Haji Ismail,M,Malay,xxxx-xx-xx
+133,Mokhtar bin Ismail,M,Malay,xxxx-xx-xx
 134,Fatimah binti Hashim,F,Malay,1924-12-25
 135,Husin bin Salleh,M,Malay,xxxx-xx-xx
 136,Azahari bin Ibrahim,M,Malay,xxxx-xx-xx
@@ -193,7 +193,7 @@ candidate_uid,name,sex,ethnicity,dob
 192,Abdul Hamid bin Ishak,M,Malay,1908-xx-xx
 193,Kang Eng Wah,M,Chinese,1925-xx-xx
 194,Ibrahim bin Abdul Rahman,M,Malay,1919-xx-xx
-195,Veerappen A/L Veerathan,M,Indian,1924-xx-xx
+195,Veerappen a/l Veerathan,M,Indian,1924-xx-xx
 196,Jais bin Sudin,M,Malay,1898-xx-xx
 197,Geh Chong Keat,M,Chinese,1923-xx-xx
 198,Shaik Ahmed bin Shaik Mohamed,M,Malay,1909-xx-xx
@@ -225,13 +225,13 @@ candidate_uid,name,sex,ethnicity,dob
 224,Abdullah bin Abdul Raof,M,Malay,1908-xx-xx
 225,Syed Nordin bin Syed Husein,M,Malay,1906-xx-xx
 226,Omar bin Nordin,M,Malay,1927-xx-xx
-227,Annamalai A/L Kasivisvanathan,M,Indian,1928-xx-xx
+227,Annamalai a/l Kasivisvanathan,M,Indian,1928-xx-xx
 228,Choy Kok Kuan,M,Chinese,1917-xx-xx
 229,Hussein bin Mohd. Noordin,M,Malay,1920-xx-xx
 230,Osman bin Bodin,M,Malay,1905-xx-xx
 231,Yeoh Tat Beng,M,Chinese,1914-xx-xx
 232,Mohd. Noor bin Mohammed,M,Malay,1914-xx-xx
-233,Raman A/L Kunji Raman,M,Indian,xxxx-xx-xx
+233,Raman a/l Kunji Raman,M,Indian,xxxx-xx-xx
 234,Yong Woo Ming,M,Chinese,1912-xx-xx
 235,Hor Huck Lung,M,Chinese,1918-xx-xx
 236,Chang Hoey Chan,M,Chinese,1906-xx-xx
@@ -251,10 +251,10 @@ candidate_uid,name,sex,ethnicity,dob
 250,Ramanathan Chelvarayan Mannavarayan,M,Indian,1909-xx-xx
 251,Woo Saik Hong,M,Chinese,1909-xx-xx
 252,Tan Poh Aun,M,Chinese,1904-xx-xx
-253,Yahya bin Haji Ahmad,M,Malay,1918-xx-xx
+253,Yahya bin Ahmad,M,Malay,1918-xx-xx
 254,Azubir bin Ahmad,M,Malay,1904-xx-xx
 255,Mohd. Yunus bin Sibi,M,Malay,1904-xx-xx
-256,Jaya Ramachandran A/L Suppiah,M,Indian,1935-xx-xx
+256,Jaya Ramachandran a/l Suppiah,M,Indian,1935-xx-xx
 257,Hashim bin Mahaboob,M,Malay,1902-xx-xx
 258,Hussein bin Hassan,M,Malay,xxxx-xx-xx
 259,Abu Bakar bin Mohamed Resat,M,Malay,xxxx-xx-xx
@@ -263,7 +263,7 @@ candidate_uid,name,sex,ethnicity,dob
 262,Hamzah bin Dahaman,M,Malay,xxxx-xx-xx
 263,Mohamed Ariff bin Abas,M,Malay,xxxx-xx-xx
 264,Mohamed Yusof bin Mahmud,M,Malay,xxxx-xx-xx
-265,Ishak bin Haji Mohammad,M,Malay,1909-11-14
+265,Ishak bin Mohammad,M,Malay,1909-11-14
 266,Abdul Hamid bin Abdullah,M,Malay,xxxx-xx-xx
 267,N. Manickam,M,Indian,xxxx-xx-xx
 268,Dahari Ali,M,Malay,1922-xx-xx
@@ -271,7 +271,7 @@ candidate_uid,name,sex,ethnicity,dob
 270,Ng Ann Teck,M,Chinese,1931-xx-xx
 271,Lim Hee Hong,M,Chinese,1901-xx-xx
 272,Hamzah Alang,M,Malay,1914-xx-xx
-273,Ibrahim bin Haji Nordin,M,Malay,xxxx-xx-xx
+273,Ibrahim bin Nordin,M,Malay,xxxx-xx-xx
 274,R. Madhavan,M,Indian,xxxx-xx-xx
 275,Abdul Karim bin Kasim,M,Malay,xxxx-xx-xx
 276,Borhan bin Abdul Majid,M,Malay,xxxx-xx-xx
@@ -305,7 +305,7 @@ candidate_uid,name,sex,ethnicity,dob
 304,Md. Nor bin Ab. Hamid,M,Malay,xxxx-xx-xx
 305,Tham Tat Ming,M,Chinese,xxxx-xx-xx
 306,Redza bin Mohd. Said,M,Malay,1911-xx-xx
-307,Mahima Singh Thaliwal A/L Karam Singh,M,Other,1906-xx-xx
+307,Mahima Singh Thaliwal a/l Karam Singh,M,Other,1906-xx-xx
 308,Ahmad bin Yaacob,M,Malay,xxxx-xx-xx
 309,Mohamed bin Ujang,M,Malay,xxxx-xx-xx
 310,Chellappah Rajadurai,M,Indian,xxxx-xx-xx
@@ -327,7 +327,7 @@ candidate_uid,name,sex,ethnicity,dob
 326,Seah Teng Ngiab,M,Chinese,xxxx-xx-xx
 327,Tan Kwee Wah,M,Chinese,xxxx-xx-xx
 328,Chua Ang Teck,M,Chinese,xxxx-xx-xx
-329,Raja Hashim bin Haji Mahmood,M,Malay,xxxx-xx-xx
+329,Raja Hashim bin Mahmood,M,Malay,xxxx-xx-xx
 330,Mohamed Tahir bin Daeng Mengati,M,Malay,1921-xx-xx
 331,Koh Kim Boon,M,Chinese,xxxx-xx-xx
 332,Kang Kok Seng,M,Chinese,xxxx-xx-xx
@@ -362,14 +362,14 @@ candidate_uid,name,sex,ethnicity,dob
 361,Wan Khadzim bin Wan Din,M,Malay,1933-xx-xx
 362,Por Swee Giap,M,Chinese,xxxx-xx-xx
 363,Mat bin Md. Isa,M,Malay,xxxx-xx-xx
-364,Wan Ahmad bin Haji Wan Kassim,M,Malay,xxxx-xx-xx
+364,Wan Ahmad bin Wan Kassim,M,Malay,xxxx-xx-xx
 365,Shafii bin Omar,M,Malay,xxxx-xx-xx
 366,Ibrahim bin Yasin,M,Malay,xxxx-xx-xx
 367,Tengku Adnan bin Tengku Yahya,M,Malay,xxxx-xx-xx
 368,Ahmad bin Salleh,M,Malay,xxxx-xx-xx
 369,Syed Darus bin Syed Hashim,M,Malay,xxxx-xx-xx
-370,Haji Keria bin Wan Nik,M,Malay,xxxx-xx-xx
-371,Abu Bakar bin Haji Awang,M,Malay,xxxx-xx-xx
+370,Keria bin Wan Nik,M,Malay,xxxx-xx-xx
+371,Abu Bakar bin Awang,M,Malay,xxxx-xx-xx
 372,Zakaria bin Ishak,M,Malay,xxxx-xx-xx
 373,Omar bin Mohamed Said,M,Malay,xxxx-xx-xx
 374,Yusoff bin Abu Bakar,M,Malay,xxxx-xx-xx
@@ -426,7 +426,7 @@ candidate_uid,name,sex,ethnicity,dob
 425,Soon Cheng Leong,M,Chinese,xxxx-xx-xx
 426,Tai Kuan Yang,M,Chinese,xxxx-xx-xx
 427,Zainuddin bin Din,M,Malay,1922-xx-xx
-428,Ghazali bin Haji Mohamad,M,Malay,xxxx-xx-xx
+428,Ghazali bin Mohamad,M,Malay,xxxx-xx-xx
 429,Daud bin Yusof,M,Malay,1920-xx-xx
 430,Othman bin Mohd. Uddin,M,Malay,xxxx-xx-xx
 431,Ibrahim Tunggal,M,Malay,xxxx-xx-xx
@@ -462,7 +462,7 @@ candidate_uid,name,sex,ethnicity,dob
 461,Wee Khoon Hock,M,Chinese,1921-04-20
 462,Che Muda bin Yusoff,M,Malay,xxxx-xx-xx
 463,Abdul Hamid bin Ya'acob,M,Malay,xxxx-xx-xx
-464,Hasnah binti Ja'Afar,F,Malay,xxxx-xx-xx
+464,Hasnah binti Ja'afar,F,Malay,xxxx-xx-xx
 465,Salleh bin Daud,M,Malay,xxxx-xx-xx
 466,Hassan bin Ya'acob,M,Malay,xxxx-xx-xx
 467,Mohd. Noor bin Omar,M,Malay,xxxx-xx-xx
@@ -532,7 +532,7 @@ candidate_uid,name,sex,ethnicity,dob
 531,Mohd bin Latiff,M,Malay,xxxx-xx-xx
 532,Khaidir bin Khatib,M,Malay,xxxx-xx-xx
 533,Abu Bakar bin Ahmad,M,Malay,xxxx-xx-xx
-534,Haji Wan Said bin Haji Mohd. Nor,M,Malay,xxxx-xx-xx
+534,Wan Said bin Mohd. Nor,M,Malay,xxxx-xx-xx
 535,Wan Ali bin Jusoh,M,Malay,xxxx-xx-xx
 536,Wan Ishak bin Ali,M,Malay,xxxx-xx-xx
 537,Mohd. Senari bin Yunus,M,Malay,xxxx-xx-xx
@@ -634,7 +634,7 @@ candidate_uid,name,sex,ethnicity,dob
 633,Md. Noor bin Mahmood,M,Malay,xxxx-xx-xx
 634,Sahid bin Hassan,M,Malay,xxxx-xx-xx
 635,Khor Peng Chong,M,Chinese,xxxx-xx-xx
-636,Haji Mohamed Hasan bin Ahmad,M,Malay,xxxx-xx-xx
+636,Mohamed Hasan bin Ahmad,M,Malay,xxxx-xx-xx
 637,J. G. V. Parambil,M,Indian,xxxx-xx-xx
 638,Tan Khim Hoe,M,Chinese,1920-xx-xx
 639,Oh Cheow Hong,M,Chinese,1929-xx-xx
@@ -781,7 +781,7 @@ candidate_uid,name,sex,ethnicity,dob
 780,Ramli bin Mohd. Said,M,Malay,xxxx-xx-xx
 781,Subrayan,M,Indian,xxxx-xx-xx
 782,Yong Hong Chong,M,Chinese,xxxx-xx-xx
-783,Yeop Sendiri bin Haji Hussin,M,Malay,xxxx-xx-xx
+783,Yeop Sendiri bin Hussin,M,Malay,xxxx-xx-xx
 784,Chua Yong Guan,M,Chinese,xxxx-xx-xx
 785,Mohamed Yaccob bin Baginda,M,Malay,xxxx-xx-xx
 786,Othman bin Sabudin,M,Malay,xxxx-xx-xx
@@ -808,7 +808,7 @@ candidate_uid,name,sex,ethnicity,dob
 807,Mohamed bin Jusoh,M,Malay,1912-xx-xx
 808,Syed Muhammad bin Tuan Ngah,M,Malay,xxxx-xx-xx
 809,Abdul Hamid bin Awang Hitam,M,Malay,xxxx-xx-xx
-810,Tengku Ja'Afar bin Tengku Ali,M,Malay,1898-xx-xx
+810,Tengku Ja'afar bin Tengku Ali,M,Malay,1898-xx-xx
 811,Ahmad bin Othman,M,Malay,xxxx-xx-xx
 812,Tengku Abdul Hamid Ibni Sultan Abdullah,M,Malay,1926-10-16
 813,Ibrahim bin Arshad,M,Malay,1921-07-21
@@ -868,7 +868,7 @@ candidate_uid,name,sex,ethnicity,dob
 867,Kamarudin bin Abu Hassan,M,Malay,xxxx-xx-xx
 868,Chan Chee Hong,M,Chinese,1914-xx-xx
 869,Fung Ah Chat,M,Chinese,xxxx-xx-xx
-870,Murugesu A/L Sundram,M,Indian,xxxx-xx-xx
+870,Murugesu a/l Sundram,M,Indian,xxxx-xx-xx
 871,Abdullah bin Hassan,M,Malay,xxxx-xx-xx
 872,Shahruddin bin Gayau Tarwita,M,Malay,xxxx-xx-xx
 873,Raja Shahrin bin Raja Othman,M,Malay,xxxx-xx-xx
@@ -1014,7 +1014,7 @@ candidate_uid,name,sex,ethnicity,dob
 1013,Abdul Manap bin Jamhari,M,Malay,xxxx-xx-xx
 1014,Wook bin Ibrahim,M,Malay,xxxx-xx-xx
 1015,Tan Peng Khoon,M,Chinese,1925-xx-xx
-1016,Mohamed Noor bin Juma'At,M,Malay,xxxx-xx-xx
+1016,Mohamed Noor bin Juma'at,M,Malay,xxxx-xx-xx
 1017,Abdul Hamid bin Abdul Karim,M,Malay,xxxx-xx-xx
 1018,Jailani bin Abdullah,M,Malay,xxxx-xx-xx
 1019,Hassan bin Noor,M,Malay,xxxx-xx-xx
@@ -1023,7 +1023,7 @@ candidate_uid,name,sex,ethnicity,dob
 1022,Woo See Tiam,M,Chinese,xxxx-xx-xx
 1023,Cheong Soo Kheng,M,Chinese,xxxx-xx-xx
 1024,Mohd. Zain bin Mohamed,M,Malay,xxxx-xx-xx
-1025,Ismail bin Sa'Adon,M,Malay,xxxx-xx-xx
+1025,Ismail bin Sa'adon,M,Malay,xxxx-xx-xx
 1026,P.S. Maniam,M,Indian,xxxx-xx-xx
 1027,Ma'On bin Omar,M,Malay,xxxx-xx-xx
 1028,Lee Yeak Khim,M,Chinese,1918-xx-xx
@@ -1031,7 +1031,7 @@ candidate_uid,name,sex,ethnicity,dob
 1030,Mohamed Don bin Abdullah,M,Malay,xxxx-xx-xx
 1031,Taha bin Zakaria,M,Malay,xxxx-xx-xx
 1032,Ab. Latif bin Othman,M,Malay,xxxx-xx-xx
-1033,Yeo Lin Thiam,M,Chinese,xxxx-xx-xx
+1033,Yeo Lin Thiam (Ah Thiam),M,Chinese,xxxx-xx-xx
 1034,Bachok bin Hashim (Abdul Majid bin Hashim),M,Malay,xxxx-xx-xx
 1035,Lebai Mohamed bin Yaacob,M,Malay,xxxx-xx-xx
 1036,Abdul Samad bin Mohamed Noor,M,Malay,xxxx-xx-xx
@@ -1132,7 +1132,7 @@ candidate_uid,name,sex,ethnicity,dob
 1131,A. Zawawi,M,Malay,xxxx-xx-xx
 1132,Syed Osman Jamalullail,M,Malay,xxxx-xx-xx
 1133,Fathil bin Khalid,M,Malay,xxxx-xx-xx
-1134,Ramaih A/L Virappan,M,Indian,xxxx-xx-xx
+1134,Ramaih a/l Virappan,M,Indian,xxxx-xx-xx
 1135,Mohamed bin Sulaiman,M,Malay,xxxx-xx-xx
 1136,Raja Mohd. Hanafiah,M,Malay,xxxx-xx-xx
 1137,Zainal Abidin bin Abbas,M,Malay,xxxx-xx-xx
@@ -1186,7 +1186,7 @@ candidate_uid,name,sex,ethnicity,dob
 1185,Nadchatiram Saraswathy Devi,F,Indian,xxxx-xx-xx
 1186,Ong Hoon Hong,M,Chinese,xxxx-xx-xx
 1187,Ibrahim bin Ahmad,M,Malay,xxxx-xx-xx
-1188,Murugan A/L Ramasamy,M,Indian,xxxx-xx-xx
+1188,Murugan a/l Ramasamy,M,Indian,xxxx-xx-xx
 1189,Abdul Razak bin Junid,M,Malay,xxxx-xx-xx
 1190,Tan Beng Soo,M,Chinese,xxxx-xx-xx
 1191,Koo Eng Kuang,M,Chinese,xxxx-xx-xx
@@ -1412,7 +1412,7 @@ candidate_uid,name,sex,ethnicity,dob
 1411,Mohamad Kassim bin Mohd. Din,M,Malay,xxxx-xx-xx
 1412,Fakharudin bin Kamarudin,M,Malay,xxxx-xx-xx
 1413,Rashid Karim,M,Malay,xxxx-xx-xx
-1414,Abu Bakar bin Haji Kasim,M,Malay,1928-04-09
+1414,Abu Bakar bin Kasim,M,Malay,1928-04-09
 1415,Mohd. Nur. bin Mohd. Akas,M,Malay,xxxx-xx-xx
 1416,Ariffin bin Hamzah,M,Malay,xxxx-xx-xx
 1417,Mohammad Ali Zaini bin Mohd. Zain,M,Malay,xxxx-xx-xx
@@ -1487,7 +1487,7 @@ candidate_uid,name,sex,ethnicity,dob
 1486,Tengku Bahaznan Shah bin Tengku Mahmud,M,Malay,xxxx-xx-xx
 1487,Mohamed Mokhtar bin Mohd Daud,M,Malay,xxxx-xx-xx
 1488,Abu Bakar bin Mat Zin,M,Malay,xxxx-xx-xx
-1489,Abdul Hak bin Haji Fadzil,M,Malay,xxxx-xx-xx
+1489,Abdul Hak bin Fadzil,M,Malay,xxxx-xx-xx
 1490,Mohamed bin Yaakub,M,Malay,1940-08-12
 1491,Othman bin Imam Awang,M,Malay,xxxx-xx-xx
 1492,Zulkifly bin Mat Amin (Abu Samah),M,Malay,xxxx-xx-xx
@@ -1530,7 +1530,7 @@ candidate_uid,name,sex,ethnicity,dob
 1529,Ching Tow Fah,M,Chinese,xxxx-xx-xx
 1530,Chin Kek Kum,M,Chinese,xxxx-xx-xx
 1531,M. Rajamanickam,M,Indian,xxxx-xx-xx
-1532,Nadaraja A/L Muthu Thamby,M,Indian,xxxx-xx-xx
+1532,Nadaraja a/l Muthu Thamby,M,Indian,xxxx-xx-xx
 1533,Mohd. Hussain bin Sukor,M,Malay,xxxx-xx-xx
 1534,Raja Zulkifli bin Raja Borhan,M,Malay,xxxx-xx-xx
 1535,Eng Tai Seng,M,Chinese,xxxx-xx-xx
@@ -1554,8 +1554,8 @@ candidate_uid,name,sex,ethnicity,dob
 1553,Abd. Kadir bin Abdullah,M,Malay,1938-04-22
 1554,Sulaiman bin Idris,M,Malay,xxxx-xx-xx
 1555,Chai Tak Han (Ham),M,Chinese,xxxx-xx-xx
-1556,Rajaratnam A/L Chellapah,M,Indian,xxxx-xx-xx
-1557,Ayakannu A/L Vallisamy,M,Indian,xxxx-xx-xx
+1556,Rajaratnam a/l Chellapah,M,Indian,xxxx-xx-xx
+1557,Ayakannu a/l Vallisamy,M,Indian,xxxx-xx-xx
 1558,Lam Teck Choon,M,Chinese,xxxx-xx-xx
 1559,Lai Pong Yuen,M,Chinese,xxxx-xx-xx
 1560,Yim Chee Chong,M,Chinese,xxxx-xx-xx
@@ -1672,7 +1672,7 @@ candidate_uid,name,sex,ethnicity,dob
 1671,Lokman bin Zakaria,M,Malay,xxxx-xx-xx
 1672,Ooyub bin Abdul Manas,M,Malay,xxxx-xx-xx
 1673,A. Latiff bin Mohamed,M,Malay,xxxx-xx-xx
-1674,Ma'Arof bin Tahir,M,Malay,xxxx-xx-xx
+1674,Ma'arof bin Tahir,M,Malay,xxxx-xx-xx
 1675,Ibrahim bin A. Razak,M,Malay,xxxx-xx-xx
 1676,Daud bin Ahmad,M,Malay,xxxx-xx-xx
 1677,Othman bin Jabar,M,Malay,xxxx-xx-xx
@@ -1680,7 +1680,7 @@ candidate_uid,name,sex,ethnicity,dob
 1679,Wan Mohamad Zain bin Abdullah,M,Malay,xxxx-xx-xx
 1680,Hussin bin Md. Salleh,M,Malay,xxxx-xx-xx
 1681,A. Ghani bin Elias,M,Malay,xxxx-xx-xx
-1682,Raman A/L Krishna Nair,M,Indian,xxxx-xx-xx
+1682,Raman a/l Krishna Nair,M,Indian,xxxx-xx-xx
 1683,Tay Sia Ba,M,Chinese,xxxx-xx-xx
 1684,Lim Chong See,M,Chinese,xxxx-xx-xx
 1685,Mohamed Shah bin Musa,M,Malay,xxxx-xx-xx
@@ -1731,7 +1731,7 @@ candidate_uid,name,sex,ethnicity,dob
 1730,Sadum Agong,M,Bumi Sabah,xxxx-xx-xx
 1731,Harris bin Mohd Salleh,M,Bumi Sabah,1930-11-04
 1732,Anthony Undan bin Andulag,M,Bumi Sabah,xxxx-xx-xx
-1733,R. M. Jasni,M,Bumi Sabah,xxxx-xx-xx
+1733,R. M. Jasni,M,Bumi Sabah,1936-05-04
 1734,Suffian Koroh (Stephen),M,Bumi Sabah,1930-06-06
 1735,Abu Bakar bin OKK Anik (Untong),M,Bumi Sabah,xxxx-xx-xx
 1736,Abdul Ghani Gilong,M,Bumi Sabah,1932-05-30
@@ -1766,7 +1766,7 @@ candidate_uid,name,sex,ethnicity,dob
 1765,Richard Lee,M,Chinese,xxxx-xx-xx
 1766,Stephen Chan Tze Hung,M,Chinese,1936-12-19
 1767,Edwin Chan Foo Sang,M,Chinese,xxxx-xx-xx
-1768,Kassim bin Ahmad,M,Malay,1933-09-09
+1768,Kassim bin Ahmad (Osman),M,Malay,1933-09-09
 1769,Mawardi bin Teh,M,Malay,xxxx-xx-xx
 1770,Abdul Aziz bin Abdullah,M,Malay,1934-xx-xx
 1771,Ahmad bin Othman,M,Malay,1941-05-01
@@ -2055,7 +2055,7 @@ candidate_uid,name,sex,ethnicity,dob
 2054,Tuan Kechik bin Tuan Salleh,M,Malay,xxxx-xx-xx
 2055,Nik Abdullah bin Nik Daud,M,Malay,xxxx-xx-xx
 2056,Zainal Abidin bin Yacob,M,Malay,xxxx-xx-xx
-2057,Tengku Razaleigh bin Mohd. Hamzah,M,Malay,1937-04-13
+2057,Tengku Razaleigh bin Mohd. Hamzah (Ku Li),M,Malay,1937-04-13
 2058,Hussin bin Abdullah,M,Malay,xxxx-xx-xx
 2059,Mohamad bin Said,M,Malay,1927-12-23
 2060,Jabir bin Mohd. Shah,M,Malay,xxxx-xx-xx
@@ -2121,7 +2121,7 @@ candidate_uid,name,sex,ethnicity,dob
 2120,Saari bin Mohd. Zain,M,Malay,xxxx-xx-xx
 2121,Ang Chin Wah,M,Chinese,1929-xx-xx
 2122,Abdul Latif bin Nasain,M,Malay,1937-xx-xx
-2123,Abdul Razak bin Haji Matamin,M,Malay,1934-xx-xx
+2123,Abdul Razak bin Matamin,M,Malay,1934-xx-xx
 2124,Zakaria bin Muhammad Dehor,M,Malay,xxxx-xx-xx
 2125,Shafie bin Mat Saman,M,Malay,xxxx-xx-xx
 2126,Mohd Sabri bin Abdul Rani,M,Malay,xxxx-xx-xx
@@ -2129,9 +2129,9 @@ candidate_uid,name,sex,ethnicity,dob
 2128,Teh Hin Chong,M,Chinese,xxxx-xx-xx
 2129,Ahmad Zawazi bin Ibrahim,M,Malay,xxxx-xx-xx
 2130,Hisan bin Ibrahim,M,Malay,1937-xx-xx
-2131,Abdul Aziz bin Haji Abdul Latif,M,Malay,xxxx-xx-xx
+2131,Abdul Aziz bin Abdul Latif,M,Malay,xxxx-xx-xx
 2132,Mahmud bin Zainal Abidin,M,Malay,xxxx-xx-xx
-2133,Abdul Aziz bin Haji Hashim,M,Malay,xxxx-xx-xx
+2133,Abdul Aziz bin Hashim,M,Malay,xxxx-xx-xx
 2134,Wong Bing Ang,M,Chinese,xxxx-xx-xx
 2135,Phung Teik Hua (Phung Ah See),M,Chinese,xxxx-xx-xx
 2136,Choo Joo Keat,M,Chinese,xxxx-xx-xx
@@ -2217,7 +2217,7 @@ candidate_uid,name,sex,ethnicity,dob
 2216,Mansor bin Othman,M,Malay,1924-01-12
 2217,Mohamad bin Zainalabidin,M,Malay,xxxx-xx-xx
 2218,Md. Zainol bin Yatim,M,Malay,xxxx-xx-xx
-2219,Veloo A/L Saminathan,M,Indian,1946-09-14
+2219,Veloo a/l Saminathan,M,Indian,1946-09-14
 2220,Chan Ah Sui,M,Chinese,xxxx-xx-xx
 2221,Liew Ah Kim,M,Chinese,1938-06-21
 2222,Lee Boon Peng,M,Chinese,xxxx-xx-xx
@@ -2284,7 +2284,7 @@ candidate_uid,name,sex,ethnicity,dob
 2283,Alias bin Sijak,M,Malay,xxxx-xx-xx
 2284,Minhad bin Maludin,M,Malay,xxxx-xx-xx
 2285,Mohd. Ali bin Mohd. Akip,M,Malay,xxxx-xx-xx
-2286,Hussain bin Haji Yahya,M,Malay,xxxx-xx-xx
+2286,Hussain bin Yahya,M,Malay,xxxx-xx-xx
 2287,Abdul Rahim bin Baba,M,Malay,1940-01-14
 2288,Mohd. Salleh bin Mohamad,M,Malay,xxxx-xx-xx
 2289,Ahmad Dahlan bin Salleh,M,Malay,xxxx-xx-xx
@@ -2410,7 +2410,7 @@ candidate_uid,name,sex,ethnicity,dob
 2409,Edmund anak Derom,M,Bumi Sarawak,xxxx-xx-xx
 2410,Juing Insoll,M,Bumi Sarawak,xxxx-xx-xx
 2411,Wan Alwi bin Tuanku Ibrahim,M,Malay,xxxx-xx-xx
-2412,Abg. Kadir bin Hassan,M,Malay,xxxx-xx-xx
+2412,Abang Kadir bin Hassan,M,Malay,xxxx-xx-xx
 2413,William anak Lampas,M,Bumi Sarawak,xxxx-xx-xx
 2414,Jais bin Sejin,M,Malay,xxxx-xx-xx
 2415,Dunstan Endawie anak Enchana,M,Bumi Sarawak,1937-07-25
@@ -2564,9 +2564,9 @@ candidate_uid,name,sex,ethnicity,dob
 2563,Eshah binti Abdullah,F,Malay,xxxx-xx-xx
 2564,Abdullah bin Ahmad,M,Malay,1933-07-04
 2565,Mohamed Yusoff bin Mohamed Nor,M,Malay,xxxx-xx-xx
-2566,Musa bin Saleh,M,Malay,xxxx-xx-xx
+2566,Musa bin Saleh (Cikgu Musa),M,Malay,xxxx-xx-xx
 2567,Zahara binti Awang,F,Malay,xxxx-xx-xx
-2568,Zakaria bin Abdul Rahman,M,Malay,xxxx-xx-xx
+2568,Zakaria bin Abdul Rahman,M,Malay,1936-xx-xx
 2569,Siti Nor binti Abdul Hamid Tuah,F,Malay,xxxx-xx-xx
 2570,Hassan bin Hussein,M,Malay,xxxx-xx-xx
 2571,Nik Hassan bin Abdul Rahman,M,Malay,1927-08-05
@@ -2581,7 +2581,7 @@ candidate_uid,name,sex,ethnicity,dob
 2580,Michael Tan Kok Haw,M,Chinese,xxxx-xx-xx
 2581,Ong Cheng Piaw,M,Chinese,xxxx-xx-xx
 2582,Goh Cheng Teik,M,Chinese,1943-10-16
-2583,"K, Ponnudurai",M,Indian,xxxx-xx-xx
+2583,K. Ponnudurai,M,Indian,xxxx-xx-xx
 2584,Shamsuri bin Mat Saleh,M,Malay,xxxx-xx-xx
 2585,Mohideen Abdul Kader a/l Yusoff Rawther,M,Indian,1937-08-26
 2586,Wan Hussein bin Wan Mahmood,M,Malay,xxxx-xx-xx
@@ -2589,14 +2589,14 @@ candidate_uid,name,sex,ethnicity,dob
 2588,Albert Mah,M,Chinese,1925-xx-xx
 2589,Wong Hoong Yin,M,Chinese,xxxx-xx-xx
 2590,Lee Yong Chew,M,Chinese,1939-11-12
-2591,Rajasingam A/L Rasiah,M,Indian,1935-xx-xx
+2591,Rajasingam a/l Rasiah,M,Indian,1935-xx-xx
 2592,Gooi Hock Seng,M,Chinese,1942-07-12
 2593,Teh Eng Siang,M,Chinese,xxxx-xx-xx
 2594,Shamsuddin bin Din,M,Malay,xxxx-xx-xx
 2595,Mohd Nawawi bin Mohd Hassan,M,Malay,xxxx-xx-xx
 2596,Zulkurnain,M,Malay,xxxx-xx-xx
-2597,Samy Vellu A/L Sangalimuthu,M,Indian,1936-03-08
-2598,Patto A/L Perumal,M,Indian,1946-12-19
+2597,Samy Vellu a/l Sangalimuthu,M,Indian,1936-03-08
+2598,Patto a/l Perumal,M,Indian,1946-12-19
 2599,Tham Pang Fay,M,Chinese,xxxx-xx-xx
 2600,R.C.M. Rayan,M,Indian,xxxx-xx-xx
 2601,Leong Khee Seong,M,Chinese,1939-xx-xx
@@ -2639,7 +2639,7 @@ candidate_uid,name,sex,ethnicity,dob
 2638,Zainal bin Rampak,M,Malay,1940-02-05
 2639,Chen Soo Yin,M,Chinese,xxxx-xx-xx
 2640,Md. Yunus bin Said,M,Malay,xxxx-xx-xx
-2641,Kathiah A/L Vadiveloo,M,Indian,xxxx-xx-xx
+2641,Kathiah a/l Vadiveloo,M,Indian,xxxx-xx-xx
 2642,Abdul Aziz bin Ismail,M,Malay,xxxx-xx-xx
 2643,J. P. Samuel Raj,M,Indian,xxxx-xx-xx
 2644,Lim Kui Sang,M,Chinese,xxxx-xx-xx
@@ -2661,7 +2661,7 @@ candidate_uid,name,sex,ethnicity,dob
 2660,Zainal Abidin bin Bador,M,Malay,xxxx-xx-xx
 2661,Seevaratnam,M,Indian,xxxx-xx-xx
 2662,Ajus bin Jais,M,Malay,xxxx-xx-xx
-2663,Pathmanaban A/L Kunjamboo,M,Indian,1937-06-10
+2663,Pathmanaban a/l Kunjamboo,M,Indian,1937-06-10
 2664,Pang Kai Tong,M,Chinese,1939-11-17
 2665,J. Nadchatiram,M,Indian,xxxx-xx-xx
 2666,S.A. Lingam,M,Indian,xxxx-xx-xx
@@ -2714,13 +2714,13 @@ candidate_uid,name,sex,ethnicity,dob
 2713,Hasbollah bin Majid,M,Bumi Sarawak,xxxx-xx-xx
 2714,Leong Choon Ling,M,Chinese,xxxx-xx-xx
 2715,Ng Cheng Foo,M,Chinese,xxxx-xx-xx
-2716,Ahmad bin Haji Said,M,Malay,xxxx-xx-xx
+2716,Ahmad bin Said,M,Malay,xxxx-xx-xx
 2717,Ya bin Ali,M,Malay,xxxx-xx-xx
 2718,Md. Ligun Darus,M,Malay,xxxx-xx-xx
 2719,Saad bin Ahmad,M,Malay,xxxx-xx-xx
 2720,Tan Thean Choo,M,Chinese,xxxx-xx-xx
 2721,Yee Kok Liang,M,Chinese,xxxx-xx-xx
-2722,Mahmud bin Haji Hashim,M,Malay,xxxx-xx-xx
+2722,Mahmud bin Hashim,M,Malay,xxxx-xx-xx
 2723,Othman bin Mat,M,Malay,xxxx-xx-xx
 2724,Bakar Ariffin,M,Malay,xxxx-xx-xx
 2725,Md. Noor bin Yub,M,Malay,xxxx-xx-xx
@@ -2857,7 +2857,7 @@ candidate_uid,name,sex,ethnicity,dob
 2856,Ishak Bin Salleh,M,Malay,xxxx-xx-xx
 2857,Mohd. Rahim Bin Abdullah,M,Malay,xxxx-xx-xx
 2858,Mamat Bin Ismail,M,Malay,xxxx-xx-xx
-2859,Awang bin Haji Samat,M,Malay,xxxx-xx-xx
+2859,Awang bin Samat,M,Malay,xxxx-xx-xx
 2860,Yusoff Bin Embong,M,Malay,xxxx-xx-xx
 2861,Hashim Bin Hamzah,M,Malay,xxxx-xx-xx
 2862,Ustaz Pak Hitam,M,Malay,xxxx-xx-xx
@@ -2875,7 +2875,7 @@ candidate_uid,name,sex,ethnicity,dob
 2874,Phee Hoo Teik,M,Chinese,xxxx-xx-xx
 2875,Ooi Chin Tong,M,Chinese,xxxx-xx-xx
 2876,Loo Phan Kooi,M,Chinese,xxxx-xx-xx
-2877,Subbiah A/L Thevarayan Chettiar,M,Indian,1933-03-13
+2877,Subbiah a/l Thevarayan Chettiar,M,Indian,1933-03-13
 2878,Peh Min Sin,M,Chinese,xxxx-xx-xx
 2879,S. K. Kalan Giyam,M,Indian,1935-08-15
 2880,Choo Guan Teik,M,Chinese,1935-01-14
@@ -2890,7 +2890,7 @@ candidate_uid,name,sex,ethnicity,dob
 2889,Ng Chay Tet,M,Chinese,xxxx-xx-xx
 2890,Ong Chin Siong,M,Chinese,1936-02-18
 2891,Sim Man Lee,M,Chinese,1937-08-01
-2892,Kannan A/L Kujambu,M,Indian,xxxx-xx-xx
+2892,Kannan a/l Kujambu,M,Indian,xxxx-xx-xx
 2893,Goik Ah Kim,M,Chinese,1938-03-01
 2894,Lim Eng Leng,M,Chinese,xxxx-xx-xx
 2895,Lim Heng Tee,M,Chinese,1940-07-31
@@ -2917,7 +2917,7 @@ candidate_uid,name,sex,ethnicity,dob
 2916,Khoo Soo Hoe,M,Chinese,1940-11-14
 2917,James Ronald Pedley,M,Other,1946-07-14
 2918,Low Ko Chin,M,Chinese,xxxx-xx-xx
-2919,Toolseram A/L Rajaram,M,Indian,xxxx-xx-xx
+2919,Toolseram a/l Rajaram,M,Indian,xxxx-xx-xx
 2920,Ong Huck Pin,M,Chinese,xxxx-xx-xx
 2921,Pritam Singh Pannu,M,Other,xxxx-xx-xx
 2922,Lim Cheng Teik,M,Chinese,1937-08-15
@@ -2938,7 +2938,7 @@ candidate_uid,name,sex,ethnicity,dob
 2937,Chew Tai Seng,M,Chinese,xxxx-xx-xx
 2938,Ong Kay Teong,M,Chinese,1937-12-25
 2939,Zaharah binti Ibrahim,F,Malay,xxxx-xx-xx
-2940,Abdul Aziz bin Haji Amad,M,Malay,xxxx-xx-xx
+2940,Abdul Aziz bin Amad,M,Malay,xxxx-xx-xx
 2941,Mohamad Adnan bin Mohamad Ariffin,M,Malay,xxxx-xx-xx
 2942,Abdul Rahman bin Lembut,M,Malay,xxxx-xx-xx
 2943,Kadir bin Idris,M,Malay,xxxx-xx-xx
@@ -2948,7 +2948,7 @@ candidate_uid,name,sex,ethnicity,dob
 2947,Zainuddin bin Itam Abdul Samad,M,Malay,1936-07-31
 2948,M. Maniam,M,Indian,xxxx-xx-xx
 2949,Soo How Yin,M,Chinese,xxxx-xx-xx
-2950,Balakrishnan A/L Kannan,M,Indian,xxxx-xx-xx
+2950,Balakrishnan a/l Kannan,M,Indian,xxxx-xx-xx
 2951,Cheong Kim Foong,M,Chinese,1937-xx-xx
 2952,Che Rose bin Abdullah,M,Malay,xxxx-xx-xx
 2953,Choe Soe Leng,F,Chinese,1933-xx-xx
@@ -2959,7 +2959,7 @@ candidate_uid,name,sex,ethnicity,dob
 2958,Khairuddin bin Mat Yit,M,Malay,xxxx-xx-xx
 2959,Saidin bin Mat Piah,M,Malay,xxxx-xx-xx
 2960,Fong Cheng Wee,M,Chinese,xxxx-xx-xx
-2961,Mohamad bin Haji Junid,M,Malay,xxxx-xx-xx
+2961,Mohamad bin Junid,M,Malay,xxxx-xx-xx
 2962,Abdul Karim bin Lan,M,Malay,xxxx-xx-xx
 2963,Ahmad Zainal,M,Malay,xxxx-xx-xx
 2964,Kuan Boon Hooi,M,Chinese,xxxx-xx-xx
@@ -2967,7 +2967,7 @@ candidate_uid,name,sex,ethnicity,dob
 2966,Yep Boon En,M,Chinese,xxxx-xx-xx
 2967,Poon Soo Har,M,Chinese,xxxx-xx-xx
 2968,Chong Sin Chan,M,Chinese,1953-xx-xx
-2969,Harikrishnan A/L Velappan,M,Indian,1946-02-01
+2969,Harikrishnan a/l Velappan,M,Indian,1946-02-01
 2970,Ibrahim bin Mohamed Yusof,M,Malay,xxxx-xx-xx
 2971,Kong Kok Yat,M,Chinese,1930-xx-xx
 2972,C. R. Segaran,M,Indian,xxxx-xx-xx
@@ -2975,7 +2975,7 @@ candidate_uid,name,sex,ethnicity,dob
 2974,Lim Nyit Sin,M,Chinese,1938-01-02
 2975,Lee Fok Chon,M,Chinese,1951-xx-xx
 2976,Abdul Malik bin Ahmad,M,Malay,1940-08-13
-2977,Kathirgamer A/L Nagalingam,M,Indian,xxxx-xx-xx
+2977,Kathirgamer a/l Nagalingam,M,Indian,xxxx-xx-xx
 2978,Ling Leong Kwong,M,Chinese,xxxx-xx-xx
 2979,Zainuddin bin Airs,M,Malay,xxxx-xx-xx
 2980,Young Heow Choo (Heong Heng Keng),M,Chinese,xxxx-xx-xx
@@ -3000,17 +3000,17 @@ candidate_uid,name,sex,ethnicity,dob
 2999,Osman bin Abu Bakar,M,Malay,xxxx-xx-xx
 3000,Beedon bin Ngah,M,Malay,xxxx-xx-xx
 3001,Mohamed Yusof bin Madin,M,Malay,1926-11-03
-3002,Abdul Manaff bin Haji Abdul Samad,M,Malay,xxxx-xx-xx
+3002,Abdul Manaff bin Abdul Samad,M,Malay,xxxx-xx-xx
 3003,Thee Ah Kow (Thee You Min),M,Chinese,1952-02-20
 3004,Darus bin Mohd. Said,M,Malay,xxxx-xx-xx
-3005,Alaga A/L Kandasamy,M,Indian,xxxx-xx-xx
+3005,Alaga a/l Kandasamy,M,Indian,xxxx-xx-xx
 3006,Harun (Ahmad) bin Saleh,M,Malay,xxxx-xx-xx
 3007,Kong Hoi Lam,M,Chinese,xxxx-xx-xx
 3008,Mohd. Yusof bin Lebai Tiab,M,Malay,xxxx-xx-xx
 3009,Mohamad Yaacob bin Mohamed,M,Malay,xxxx-xx-xx
 3010,Abdul Karim bin Zakaria,M,Malay,xxxx-xx-xx
 3011,Radziah binti Maharuddin,F,Malay,xxxx-xx-xx
-3012,Govindaraju A/L Sami Naidu,M,Indian,xxxx-xx-xx
+3012,Govindaraju a/l Sami Naidu,M,Indian,xxxx-xx-xx
 3013,Ramli bin Abd Ghani,M,Malay,xxxx-xx-xx
 3014,Chin Hon Kit,M,Chinese,xxxx-xx-xx
 3015,Zakaria bin Tahar,M,Malay,xxxx-xx-xx
@@ -3084,7 +3084,7 @@ candidate_uid,name,sex,ethnicity,dob
 3083,Rosedin bin Yaacob,M,Malay,xxxx-xx-xx
 3084,Hamdan bin Husain,M,Malay,xxxx-xx-xx
 3085,Md. Said bin Bohir,M,Malay,xxxx-xx-xx
-3086,Sinniah A/L Periannan,M,Indian,xxxx-xx-xx
+3086,Sinniah a/l Periannan,M,Indian,xxxx-xx-xx
 3087,Norsiah binti Abdul Rahim,F,Malay,1946-xx-xx
 3088,Samat bin Tambi,M,Malay,xxxx-xx-xx
 3089,Tan Heng Swee,M,Chinese,xxxx-xx-xx
@@ -3106,7 +3106,7 @@ candidate_uid,name,sex,ethnicity,dob
 3105,Gan Ching Yen,M,Chinese,xxxx-xx-xx
 3106,Sia Chong Yow,M,Chinese,xxxx-xx-xx
 3107,G. Vadiveloo,M,Indian,xxxx-xx-xx
-3108,Nagaindra (Badhmani) A/L Valliappan,M,Indian,xxxx-xx-xx
+3108,Nagaindra (Badhmani) a/l Valliappan,M,Indian,xxxx-xx-xx
 3109,Tong Kok Mau,M,Chinese,1935-xx-xx
 3110,Taie Sen Fart,M,Chinese,xxxx-xx-xx
 3111,Vasi Pandian,M,Indian,xxxx-xx-xx
@@ -3133,12 +3133,12 @@ candidate_uid,name,sex,ethnicity,dob
 3132,Chok Ping,M,Chinese,1935-05-30
 3133,Shahardin bin Hashim,M,Malay,xxxx-xx-xx
 3134,Mohd. Nor bin Md. Salleh,M,Malay,xxxx-xx-xx
-3135,Kuppusamy A/L Maruthy,M,Indian,1950-02-06
+3135,Kuppusamy a/l Maruthy,M,Indian,1950-02-06
 3136,Chen Hun Chong,M,Chinese,xxxx-xx-xx
 3137,Ahmad bin Mansor,M,Malay,xxxx-xx-xx
-3138,Mair Karistan @ Krishnan A/L M. Appu,M,Indian,xxxx-xx-xx
+3138,Mair Karistan @ Krishnan a/l M. Appu,M,Indian,xxxx-xx-xx
 3139,V. Sinnathamby,M,Indian,xxxx-xx-xx
-3140,John A/L Fernandez,M,Indian,1941-12-09
+3140,John a/l Fernandez,M,Indian,1941-12-09
 3141,Oh Her Sang (Hwu Hor Shan),M,Chinese,xxxx-xx-xx
 3142,Wong Kin Wah (Wong Chang Yee),M,Chinese,xxxx-xx-xx
 3143,Md Yazid bin Baba,M,Malay,1933-10-06
@@ -3221,7 +3221,7 @@ candidate_uid,name,sex,ethnicity,dob
 3220,Abang Abu Bakar bin Abang Mustapha,M,Bumi Sarawak,1941-06-28
 3221,Dawi bin Abdul Rahman,M,Malay,xxxx-xx-xx
 3222,Lo Foot Kee,M,Chinese,1916-xx-xx
-3223,Abang Abdul Rahim bin Abang Haji Openg,M,Bumi Sarawak,1943-01-14
+3223,Abang Abdul Rahim bin Abang Openg,M,Bumi Sarawak,1943-01-14
 3224,Shim Pan Chi (Sim Pan Chi),M,Chinese,1914-11-01
 3225,Abdul Rahman bin Hamzah,M,Malay,xxxx-xx-xx
 3226,Bujang bin Pulo,M,Malay,xxxx-xx-xx
@@ -3293,7 +3293,7 @@ candidate_uid,name,sex,ethnicity,dob
 3292,Mohamed Gelungan bin Omar (Rosman),M,Bumi Sabah,xxxx-xx-xx
 3293,Yapin Gimpoton (Timothy),M,Bumi Sabah,xxxx-xx-xx
 3294,Batua bin Abbah,M,Bumi Sabah,xxxx-xx-xx
-3295,Pengiran Abdul Khafid bin Salleh,M,Bumi Sabah,xxxx-xx-xx
+3295,Pengiran Abdul Khafid bin Pengiran Salleh,M,Bumi Sabah,xxxx-xx-xx
 3296,Md. Daud Stevens Shidlovesky,M,Bumi Sabah,xxxx-xx-xx
 3297,Juragan bin Samamin,M,Bumi Sabah,xxxx-xx-xx
 3298,Paul Baklin O.T. Gurandi,M,Bumi Sabah,1938-11-14
@@ -3308,7 +3308,7 @@ candidate_uid,name,sex,ethnicity,dob
 3307,Mynoor Ginggor,M,Bumi Sabah,1948-07-04
 3308,Kasitah bin Gaddam,M,Bumi Sabah,1947-10-18
 3309,Francis Siam bin Maradan,M,Bumi Sabah,1944-12-10
-3310,Amin bin Jahali,M,Bumi Sabah,1943-12-15
+3310,Amin bin Jahali @ Johnny,M,Bumi Sabah,1943-12-15
 3311,Sepikit bin Kabindong,M,Bumi Sabah,1920-07-07
 3312,Mansai bin Bimbilang,M,Bumi Sabah,xxxx-xx-xx
 3313,Joseph Pairin Kitingan,M,Bumi Sabah,1940-08-17
@@ -3419,7 +3419,7 @@ candidate_uid,name,sex,ethnicity,dob
 3418,Fadzil bin Md. Noor,M,Malay,1937-03-13
 3419,Ramlee bin Karim,M,Malay,xxxx-xx-xx
 3420,Chang Boon Hoe,M,Chinese,xxxx-xx-xx
-3421,Shanmugaiah A/L Chelliah,M,Indian,1946-12-29
+3421,Shanmugaiah a/l Chelliah,M,Indian,1946-12-29
 3422,Ghazali bin Ahmad,M,Malay,1945-12-26
 3423,Hashim bin Endut,M,Malay,1936-09-18
 3424,Mohd. Zabidi bin Ahmad,M,Malay,1943-10-11
@@ -3432,7 +3432,7 @@ candidate_uid,name,sex,ethnicity,dob
 3431,Abdul Kadir bin Sheikh Fadzir,M,Malay,1939-06-04
 3432,Muhammad Nor bin Ali,M,Malay,xxxx-xx-xx
 3433,Che Gu Man,M,Malay,xxxx-xx-xx
-3434,Pak Su Haji Lah,M,Malay,xxxx-xx-xx
+3434,Pak Su bin Lah,M,Malay,xxxx-xx-xx
 3435,Hassan bin Harun,M,Malay,xxxx-xx-xx
 3436,Ibrahim bin Muhamad,M,Malay,xxxx-xx-xx
 3437,Zain,M,Malay,xxxx-xx-xx
@@ -3452,8 +3452,8 @@ candidate_uid,name,sex,ethnicity,dob
 3451,Lee Jong Ki,M,Chinese,1937-xx-xx
 3452,Khoo Soo Kheng,M,Chinese,1934-05-12
 3453,Desa bin Saat,M,Malay,xxxx-xx-xx
-3454,Shanmugam A/L Nadason,M,Indian,1944-10-14
-3455,Haji Hanafiah bin Ahmad,M,Malay,xxxx-xx-xx
+3454,Shanmugam a/l Nadason,M,Indian,1944-10-14
+3455,Hanafiah bin Ahmad,M,Malay,xxxx-xx-xx
 3456,H'ng Heong Yong,M,Chinese,xxxx-xx-xx
 3457,Ooi Oon Seng,M,Chinese,xxxx-xx-xx
 3458,Hoo Ke Ping,M,Chinese,xxxx-xx-xx
@@ -3509,7 +3509,7 @@ candidate_uid,name,sex,ethnicity,dob
 3508,Tan Seng Giaw,M,Chinese,1942-05-26
 3509,Kanda,M,Indian,xxxx-xx-xx
 3510,Syed Ibrahim bin Syed Abd.Rahman,M,Malay,1943-12-28
-3511,Thinakaran A/L Rajakannu,M,Indian,xxxx-xx-xx
+3511,Thinakaran a/l Rajakannu,M,Indian,xxxx-xx-xx
 3512,Thian Oon Kin,M,Chinese,1936-04-16
 3513,Osman (Seman) bin Baba,M,Malay,xxxx-xx-xx
 3514,Shahari bin Hassan,M,Malay,xxxx-xx-xx
@@ -3526,7 +3526,7 @@ candidate_uid,name,sex,ethnicity,dob
 3525,Abd. Rauof bin Abd. Majid,M,Malay,xxxx-xx-xx
 3526,Muhyiddin bin Md Yasin,M,Malay,1947-05-15
 3527,Abdul Wahab bin Abdul Rahman,M,Malay,xxxx-xx-xx
-3528,Jaini bin Haji Salleh,M,Malay,xxxx-xx-xx
+3528,Jaini bin Salleh,M,Malay,xxxx-xx-xx
 3529,Ho Chan Mee,M,Chinese,xxxx-xx-xx
 3530,Ahmad bin Abdul Rahman,M,Malay,xxxx-xx-xx
 3531,Shariffah Dorah binti Syed Mohammed,F,Malay,xxxx-xx-xx
@@ -3554,7 +3554,7 @@ candidate_uid,name,sex,ethnicity,dob
 3553,Alexander Khoo Kay Mian,M,Chinese,1941-06-22
 3554,Philip Fu Sui Cheong,M,Chinese,xxxx-xx-xx
 3555,Abdul Ghani bin Misbah,M,Bumi Sabah,xxxx-xx-xx
-3556,A.K. Aliuddin bin Mohd Tahir,M,Bumi Sabah,1944-08-30
+3556,Pengiran Awangku Aliuddin bin Pengiran Mohd Tahir (A. K. Aliuddin),M,Bumi Sabah,1944-08-30
 3557,Md Hussin bin Aman,M,Bumi Sabah,1943-06-26
 3558,Norsuadah binti Basah,F,Bumi Sabah,1953-xx-xx
 3559,Mohammad Shakir bin Panglima Abdullah,M,Bumi Sabah,xxxx-xx-xx
@@ -3594,7 +3594,7 @@ candidate_uid,name,sex,ethnicity,dob
 3593,Syed Ahmad bin Syed Alwi,M,Malay,xxxx-xx-xx
 3594,Abu Bakar bin Ahmad,M,Malay,xxxx-xx-xx
 3595,Saad @ Md. Zain bin Hamzah,M,Malay,xxxx-xx-xx
-3596,Ahmad bin Haji Puteh,M,Malay,xxxx-xx-xx
+3596,Ahmad bin Puteh,M,Malay,xxxx-xx-xx
 3597,Mohammad bin Nyak Osman,M,Malay,xxxx-xx-xx
 3598,Mahamud bin Abd. Jalil,M,Malay,xxxx-xx-xx
 3599,Hanafi bin Ramli,M,Malay,1943-12-06
@@ -3706,10 +3706,10 @@ candidate_uid,name,sex,ethnicity,dob
 3705,Mohd. Yusof bin Othman,M,Malay,xxxx-xx-xx
 3706,Muhammad Mustafa Zakaria,M,Malay,xxxx-xx-xx
 3707,Abdul Manan bin Mohd. Ali,M,Malay,1935-05-07
-3708,Haji Puteh bin Haji Abdul Latiff,M,Malay,xxxx-xx-xx
+3708,Puteh bin Abdul Latiff,M,Malay,xxxx-xx-xx
 3709,Harun Hashim,M,Malay,xxxx-xx-xx
 3710,Samsudin bin Johari,M,Malay,xxxx-xx-xx
-3711,Abdul Rahman Haji Moktar,M,Malay,xxxx-xx-xx
+3711,Abdul Rahman bin Moktar,M,Malay,xxxx-xx-xx
 3712,Ahmad Talhah bin Arpan,M,Malay,1923-05-12
 3713,Mohamed bin Abas,M,Malay,1927-03-03
 3714,Jelani bin Saman,M,Malay,1938-07-24
@@ -3741,9 +3741,9 @@ candidate_uid,name,sex,ethnicity,dob
 3740,Tan Tiew Bock,M,Chinese,1948-03-21
 3741,Jaafar bin Puteh,M,Malay,1943-12-31
 3742,Ismail bin Ahmad,M,Malay,xxxx-xx-xx
-3743,Paramijk Singh A/L Tara Singh,M,Other,xxxx-xx-xx
+3743,Paramijk Singh a/l Tara Singh,M,Other,xxxx-xx-xx
 3744,Mohamed bin Darus,M,Malay,xxxx-xx-xx
-3745,Ahmad Azizuddin bin Haji Zainal Abidin,M,Malay,1928-01-06
+3745,Ahmad Azizuddin bin Zainal Abidin,M,Malay,1928-01-06
 3746,Hassan Shaari bin Alang Pintal,M,Malay,xxxx-xx-xx
 3747,Rokiah binti Kayat,F,Malay,xxxx-xx-xx
 3748,Ngah bin Mat Baki,M,Malay,xxxx-xx-xx
@@ -3753,7 +3753,7 @@ candidate_uid,name,sex,ethnicity,dob
 3752,Mahfud bin Anwar,M,Malay,xxxx-xx-xx
 3753,Abdul Wahab bin Abu Bakar,M,Malay,1941-10-10
 3754,Kalimuthu a/l Ranggayah,M,Indian,1946-07-09
-3755,Raja Segaran A/L Samy Nathan,M,Indian,1937-06-08
+3755,Raja Segaran a/l Samy Nathan,M,Indian,1937-06-08
 3756,C. Sc. Sellapan,M,Indian,xxxx-xx-xx
 3757,Ibrahim bin Hasan,M,Malay,xxxx-xx-xx
 3758,Mohamed Salleh bin Mohd Gaus,M,Malay,xxxx-xx-xx
@@ -3769,7 +3769,7 @@ candidate_uid,name,sex,ethnicity,dob
 3768,T. Muniandy,M,Indian,xxxx-xx-xx
 3769,Chin Gan Oon (Chin Yan Oon),M,Chinese,1941-06-13
 3770,Ishak bin Mahmudin,M,Malay,xxxx-xx-xx
-3771,Kandiah Peter A/L Kandiah,M,Indian,xxxx-xx-xx
+3771,Kandiah Peter a/l Kandiah,M,Indian,xxxx-xx-xx
 3772,Ibrahim Sadri,M,Malay,xxxx-xx-xx
 3773,Mat Ali bin Alias,M,Malay,xxxx-xx-xx
 3774,Hafith bin Jaafar,M,Malay,1941-06-15
@@ -3779,7 +3779,7 @@ candidate_uid,name,sex,ethnicity,dob
 3778,Harun bin Jaafar,M,Malay,xxxx-xx-xx
 3779,Nus bin Mat Duyar,M,Malay,xxxx-xx-xx
 3780,Wan Ismail bin Wan Chik,M,Malay,xxxx-xx-xx
-3781,Sangaralingam A/L Muthu (Muthaya),M,Indian,xxxx-xx-xx
+3781,Sangaralingam a/l Muthu (Muthaya),M,Indian,xxxx-xx-xx
 3782,Tan Choon Chuan,M,Chinese,1940-03-26
 3783,Nadarajan,M,Indian,xxxx-xx-xx
 3784,Abu Bakar bin Chu,M,Malay,xxxx-xx-xx
@@ -3865,7 +3865,7 @@ candidate_uid,name,sex,ethnicity,dob
 3864,Mohd. Amin bin Abu Bakar,M,Malay,xxxx-xx-xx
 3865,Sabri Mustaffa Afifi,M,Malay,xxxx-xx-xx
 3866,Basir bin Salleh,M,Malay,xxxx-xx-xx
-3867,Ishak Shufaat,M,Malay,xxxx-xx-xx
+3867,Ishak bin Pangat @ Shufaat,M,Malay,xxxx-xx-xx
 3868,Ismail bin Sekak,M,Malay,xxxx-xx-xx
 3869,Zainal Abidin bin Abdul Karim,M,Malay,xxxx-xx-xx
 3870,Choo (Chow) Yoong Fatt,M,Chinese,xxxx-xx-xx
@@ -3891,7 +3891,7 @@ candidate_uid,name,sex,ethnicity,dob
 3890,Othman bin D. Pg. Bachek,M,Malay,xxxx-xx-xx
 3891,Ahmad Talal bin Abdul Razim,M,Malay,1952-01-20
 3892,Paw Leong Seek,M,Chinese,1937-12-19
-3893,Nachetram A/L Moddia,M,Indian,1941-02-17
+3893,Nachetram a/l Moddia,M,Indian,1941-02-17
 3894,Mohd. Yusoff bin Aladin,M,Malay,xxxx-xx-xx
 3895,Mustafa (Mustapah) bin Hassan,M,Malay,xxxx-xx-xx
 3896,Md. Harun bin Abd Ghani,M,Malay,1934-08-20
@@ -3971,7 +3971,7 @@ candidate_uid,name,sex,ethnicity,dob
 3970,Wan Ahmadul Badwi bin Wan Ibrahim,M,Malay,xxxx-xx-xx
 3971,Kho King Hing,M,Chinese,xxxx-xx-xx
 3972,Sharifah Mordiah binti Tuanku Fauzi,F,Bumi Sarawak,1948-03-02
-3973,Mohd. Nasir bin Haji Daing Hosen,M,Malay,xxxx-xx-xx
+3973,Mohd. Nasir bin Daing Hosen,M,Malay,xxxx-xx-xx
 3974,Adenan bin Satem,M,Bumi Sarawak,1944-01-27
 3975,Bujang Ali bin Nor,M,Malay,1942-12-10
 3976,Anga (John Lawrence) anak Soret,M,Bumi Sarawak,1957-07-28
@@ -4082,7 +4082,7 @@ candidate_uid,name,sex,ethnicity,dob
 4081,M. A. Rahman,M,Bumi Sabah,xxxx-xx-xx
 4082,Amisah M. Borhan,M,Bumi Sabah,xxxx-xx-xx
 4083,Wilfred Mojilip bin Bumburing,M,Bumi Sabah,1951-12-02
-4084,Toh Puan Hajjah Rahimah Stephens,F,Bumi Sabah,1930-10-22
+4084,Rahimah Stephens (Cecilia June Lutter),F,Bumi Sabah,1930-10-22
 4085,Indra bin Bayat,M,Bumi Sabah,1941-03-03
 4086,Gisin bin Lombut,M,Bumi Sabah,1947-11-02
 4087,Stanislaus Puyushi B. L. Macery,M,Bumi Sabah,xxxx-xx-xx
@@ -4168,7 +4168,7 @@ candidate_uid,name,sex,ethnicity,dob
 4167,Abdul Hamid bin Pawan Teh,M,Malay,1944-07-27
 4168,Wong Kok Wah,M,Chinese,xxxx-xx-xx
 4169,Ahmad bin Din,M,Malay,xxxx-xx-xx
-4170,George John A/L K. M. George,M,Indian,1951-08-07
+4170,George John a/l K. M. George,M,Indian,1951-08-07
 4171,Mustapha bin Ahmad,M,Malay,1948-09-25
 4172,Che' Abdul Daim bin Zainuddin,M,Malay,1938-04-29
 4173,Chong Ah Lek @ Chong Kok Heong,M,Chinese,1947-01-07
@@ -4204,7 +4204,7 @@ candidate_uid,name,sex,ethnicity,dob
 4203,Ibrahim bin Ariffin,M,Malay,1947-02-25
 4204,Abdul Rahman bin Suliman,M,Malay,1949-xx-xx
 4205,Ahmad Hasan Salahuddin bin Mohd Khalil,M,Malay,1951-xx-xx
-4206,Sellapan A/L Thevarayan Chettiar,M,Indian,xxxx-xx-xx
+4206,Sellapan a/l Thevarayan Chettiar,M,Indian,xxxx-xx-xx
 4207,Kong Cheok Wan (Kong Cheok Seng),M,Chinese,1941-11-28
 4208,Abdullah bin Hassan,M,Malay,xxxx-xx-xx
 4209,Mohamad Razlan bin Abdul Hamid,M,Malay,1942-05-09
@@ -4226,13 +4226,13 @@ candidate_uid,name,sex,ethnicity,dob
 4225,Yahya bin Zakaria,M,Malay,1923-06-17
 4226,Mohamad Aris bin Bakri,M,Malay,1949-01-07
 4227,Zaharin bin Muhamad,M,Malay,xxxx-xx-xx
-4228,Nachimutu A/L Sinnasamy,M,Indian,xxxx-xx-xx
+4228,Nachimutu a/l Sinnasamy,M,Indian,xxxx-xx-xx
 4229,Wan Abu Bakar bin Wan Mohamed,M,Malay,1953-05-02
 4230,Lim Pan Chiang,M,Chinese,xxxx-xx-xx
 4231,Loke Ah Kow (Loke Koon Kam),M,Chinese,1942-xx-xx
 4232,Mohd Alwi bin Abdul Hamid,M,Malay,1939-05-03
 4233,Mohamed Basri bin Mahidin,M,Malay,xxxx-xx-xx
-4234,Mohamed Amin bin Haji Daud,M,Malay,1938-xx-xx
+4234,Mohamed Amin bin Daud,M,Malay,1938-xx-xx
 4235,Sabbaruddin bin Chik,M,Malay,1941-12-13
 4236,Abdul Rahman bin Awang,M,Malay,xxxx-xx-xx
 4237,Mohamed Arif bin Kamaruddin,M,Malay,xxxx-xx-xx
@@ -4241,7 +4241,7 @@ candidate_uid,name,sex,ethnicity,dob
 4240,Rahmah binti Osman,F,Malay,1939-06-12
 4241,Lee Yee Lian,M,Chinese,1947-05-09
 4242,Ahmad bin Yusof,M,Malay,xxxx-xx-xx
-4243,Govindaraj A/L Varadarajulu,M,Indian,1933-04-14
+4243,Govindaraj a/l Varadarajulu,M,Indian,1933-04-14
 4244,Abdullah bin Hashim,M,Malay,xxxx-xx-xx
 4245,Liew Sip Hon,M,Chinese,1925-05-25
 4246,Wee Sin Chuan (Gwee Sin Chun),M,Chinese,1948-01-01
@@ -4307,7 +4307,7 @@ candidate_uid,name,sex,ethnicity,dob
 4306,Paul Tan Yau Fah,M,Chinese,xxxx-xx-xx
 4307,Ismail bin Mohamad Said,M,Bumi Sabah,xxxx-xx-xx
 4308,Affendey bin Dhobey,M,Bumi Sarawak,1941-12-26
-4309,Abang Saufi bin Abg. Adnan,M,Bumi Sarawak,xxxx-xx-xx
+4309,Abang Saufi bin Abang Adnan,M,Bumi Sarawak,xxxx-xx-xx
 4310,Patau anak Rubis,M,Bumi Sarawak,1946-06-20
 4311,Loke Yik Ping,M,Chinese,xxxx-xx-xx
 4312,Vernon Nyana anak Juram,M,Bumi Sarawak,1953-02-21
@@ -4339,7 +4339,7 @@ candidate_uid,name,sex,ethnicity,dob
 4338,Md. Salleh bin Yusop,M,Malay,xxxx-xx-xx
 4339,Shuib bin Mohamad,M,Malay,xxxx-xx-xx
 4340,Lai Yu Chai,M,Chinese,xxxx-xx-xx
-4341,Baldev Singh Bhar A/L Gurcharn Singh,M,Other,1945-xx-xx
+4341,Baldev Singh Bhar a/l Gurcharn Singh,M,Other,1945-xx-xx
 4342,Heng Tick Ming,M,Chinese,xxxx-xx-xx
 4343,Lee Kim Cheng,M,Chinese,xxxx-xx-xx
 4344,Abdullah bin Husin,M,Malay,xxxx-xx-xx
@@ -4368,9 +4368,9 @@ candidate_uid,name,sex,ethnicity,dob
 4367,Abdul Rahman bin Darus,M,Malay,xxxx-xx-xx
 4368,Md. Jaafar bin Lateh,M,Malay,xxxx-xx-xx
 4369,Shoib bin Mustafa,M,Malay,xxxx-xx-xx
-4370,Karuppiah A/L Ramasamy,M,Indian,xxxx-xx-xx
-4371,Subramaniam A/L Sundram,M,Indian,1954-09-21
-4372,Nadaraju A/L Aparu,M,Indian,xxxx-xx-xx
+4370,Karuppiah a/l Ramasamy,M,Indian,xxxx-xx-xx
+4371,Subramaniam a/l Sundram,M,Indian,1954-09-21
+4372,Nadaraju a/l Aparu,M,Indian,xxxx-xx-xx
 4373,Ahmad Khasasi bin Mahamud,M,Malay,xxxx-xx-xx
 4374,Abdul Mutalib @ Abd. Talib bin Ali,M,Malay,xxxx-xx-xx
 4375,Mahmud bin Md. Zain,M,Malay,xxxx-xx-xx
@@ -4451,7 +4451,7 @@ candidate_uid,name,sex,ethnicity,dob
 4450,Ali bin Kasim,M,Malay,1939-04-19
 4451,Yusof bin Salleh,M,Malay,xxxx-xx-xx
 4452,Phee Boon Poh,M,Chinese,1951-12-01
-4453,Raja Gopal A/L Ramaya,M,Indian,xxxx-xx-xx
+4453,Raja Gopal a/l Ramaya,M,Indian,xxxx-xx-xx
 4454,Loong Kok Khoon,M,Chinese,1949-11-27
 4455,Sathasivam S/O Swaminathen,M,Indian,xxxx-xx-xx
 4456,Mohd Shariff bin Omar,M,Malay,1947-06-15
@@ -4464,7 +4464,7 @@ candidate_uid,name,sex,ethnicity,dob
 4463,Tan Eng Tut @ Tan Eng Tuck,M,Chinese,1946-08-02
 4464,Lee Hee Seng,M,Chinese,1948-06-19
 4465,Abdul Hamid bin Darus,M,Malay,xxxx-xx-xx
-4466,Sandaman A/L Yagappan,M,Indian,xxxx-xx-xx
+4466,Sandaman a/l Yagappan,M,Indian,xxxx-xx-xx
 4467,Abdul Majid @ Abdul Rahim bin Abdul Rahman,M,Malay,xxxx-xx-xx
 4468,Yahaya bin Ahmad,M,Malay,1930-10-16
 4469,Tang Chong Teik,M,Chinese,xxxx-xx-xx
@@ -4476,13 +4476,13 @@ candidate_uid,name,sex,ethnicity,dob
 4475,Tan Loo Jit @ Tan Yik Khoon,M,Chinese,xxxx-xx-xx
 4476,Teoh Teik Huat,M,Chinese,1947-12-12
 4477,Md. Azis bin Ishak,M,Malay,xxxx-xx-xx
-4478,Pitchay A/L M. Chinniah,M,Indian,xxxx-xx-xx
+4478,Pitchay a/l M. Chinniah,M,Indian,xxxx-xx-xx
 4479,Idris bin Osman,M,Malay,1936-10-30
 4480,Ong Kean Thong,M,Chinese,1947-08-17
 4481,Tan Teik Lim,M,Chinese,1930-08-25
 4482,Chan Ah Ka (Chow Pek Chee),M,Chinese,1948-04-04
 4483,Mohamed Wazi bin Che Ngah,M,Malay,xxxx-xx-xx
-4484,Abd. Aziz bin Haji Ahmad,M,Malay,xxxx-xx-xx
+4484,Abd. Aziz bin Ahmad,M,Malay,xxxx-xx-xx
 4485,Hassan bin Talib,M,Malay,xxxx-xx-xx
 4486,Mohamed Taib bin Napiah (Hanafiah),M,Malay,1939-01-24
 4487,Ooi Peng Yong,M,Chinese,1949-09-25
@@ -4500,14 +4500,14 @@ candidate_uid,name,sex,ethnicity,dob
 4499,Jaafar bin Mat Arif,M,Malay,xxxx-xx-xx
 4500,Yip Wah,M,Chinese,1953-01-01
 4501,Hassan bin Yahaya,M,Malay,xxxx-xx-xx
-4502,Ahmad Helimi bin Haji Abdul Samad,M,Malay,xxxx-xx-xx
+4502,Ahmad Helimi bin Abdul Samad,M,Malay,xxxx-xx-xx
 4503,Bachan Singh,M,Other,xxxx-xx-xx
 4504,Shaari bin Mohd. Noor,M,Malay,xxxx-xx-xx
 4505,Ahmed bin Aki,M,Malay,1947-02-18
 4506,Jamaluddin bin Mat Jali,M,Malay,xxxx-xx-xx
 4507,Loke Yuen Yow,M,Chinese,1952-09-10
 4508,Mohamad Nor bin Selah,M,Malay,1952-04-01
-4509,Jaganathan A/L Narianasamy,M,Indian,xxxx-xx-xx
+4509,Jaganathan a/l Narianasamy,M,Indian,xxxx-xx-xx
 4510,Chin Yoong Fee,M,Chinese,1952-04-26
 4511,Loke Sui Chin,F,Chinese,1941-06-29
 4512,Liew Yoon Sin,F,Chinese,1950-07-26
@@ -4533,7 +4533,7 @@ candidate_uid,name,sex,ethnicity,dob
 4532,Song Yong Pheow,M,Chinese,1949-01-07
 4533,Omar bin Amin,M,Malay,xxxx-xx-xx
 4534,Zol Karnaini (Dzulkarnaian) bin Abdul Rahman,M,Malay,xxxx-xx-xx
-4535,Rajan Naidu A/L Rajan,M,Indian,1940-03-03
+4535,Rajan Naidu a/l Rajan,M,Indian,1940-03-03
 4536,Ahmad Mashud bin Masduki,M,Malay,xxxx-xx-xx
 4537,Osman bin Abdul Hamid,M,Malay,xxxx-xx-xx
 4538,Chay Ee Mong,M,Chinese,1954-02-23
@@ -4587,7 +4587,7 @@ candidate_uid,name,sex,ethnicity,dob
 4586,Hong Chin Poh,M,Chinese,xxxx-xx-xx
 4587,Mohamed Khalip (Khalid) bin Ahmad,M,Malay,xxxx-xx-xx
 4588,Kormin bin Shukor,M,Malay,xxxx-xx-xx
-4589,Masilamane A/L Muthukrishnen (M. Mahalingam),M,Indian,1935-xx-xx
+4589,Masilamane a/l Muthukrishnen (M. Mahalingam),M,Indian,1935-xx-xx
 4590,Tairin bin Ahmad,M,Malay,xxxx-xx-xx
 4591,Miskon (Miskam) bin Setera (Sutero),M,Malay,1940-xx-xx
 4592,Eng Seng Chai (Ng Sing Sai),M,Chinese,xxxx-xx-xx
@@ -4606,7 +4606,7 @@ candidate_uid,name,sex,ethnicity,dob
 4605,Ng Eng Heng,M,Chinese,xxxx-xx-xx
 4606,Ng Boon Thong (Ng Thian Hock),M,Chinese,1948-xx-xx
 4607,S.S. Subramaniam,M,Indian,xxxx-xx-xx
-4608,Thiagarajah A/L Ramasamy,M,Indian,xxxx-xx-xx
+4608,Thiagarajah a/l Ramasamy,M,Indian,xxxx-xx-xx
 4609,Subari bin Saman,M,Malay,xxxx-xx-xx
 4610,Mohd. Ismath bin Habib Mohamad,M,Malay,1953-01-12
 4611,M. Zin bin Suliman,M,Malay,1937-03-10
@@ -4622,7 +4622,7 @@ candidate_uid,name,sex,ethnicity,dob
 4621,Ahmad bin Mastar (Mustapha),M,Malay,xxxx-xx-xx
 4622,Abu Bakar bin Abdul Hamid,M,Malay,1940-05-09
 4623,Yap Poh Soo,M,Chinese,xxxx-xx-xx
-4624,Maruthathurai A/L Thangiah (Munusamy),M,Indian,xxxx-xx-xx
+4624,Maruthathurai a/l Thangiah (Munusamy),M,Indian,xxxx-xx-xx
 4625,Anas (Amat) bin Sulaiman,M,Malay,xxxx-xx-xx
 4626,Daud bin Jantan,M,Malay,xxxx-xx-xx
 4627,Tan Kok Wai,M,Chinese,1957-10-07
@@ -4649,7 +4649,7 @@ candidate_uid,name,sex,ethnicity,dob
 4648,Mohamed Noh bin Muharam,M,Malay,xxxx-xx-xx
 4649,Ishak bin Mohd. Yusof,M,Malay,xxxx-xx-xx
 4650,Edward Pang (Teddy),M,Chinese,1947-03-22
-4651,Muthupalaniappan (Mani) A/L Muthuraman,M,Indian,1940-03-09
+4651,Muthupalaniappan (Mani) a/l Muthuraman,M,Indian,1940-03-09
 4652,Ishak bin Ibrahim,M,Malay,xxxx-xx-xx
 4653,Ismail bin Mohd. Yassin,M,Malay,1938-10-01
 4654,Lee Kong Chon,M,Chinese,1949-08-14
@@ -4728,10 +4728,10 @@ candidate_uid,name,sex,ethnicity,dob
 4727,Song Swee Guan,M,Chinese,1941-04-12
 4728,Yong Sen Chan,M,Chinese,1953-11-12
 4729,Mohd Pauzi bin Bolhassan,M,Malay,xxxx-xx-xx
-4730,Abang Abdul Rahman Zohari bin Abang Openg,M,Bumi Sarawak,1950-08-04
-4731,Abang Bunsu (Abg Ariffin) bin Abg Sebli,M,Malay,1954-04-05
+4730,Abang Abdul Rahman Zohari bin Abang Openg (Abang Johari),M,Bumi Sarawak,1950-08-04
+4731,Abang Bunsu (Abang Ariffin) bin Abang Sebli,M,Malay,1954-04-05
 4732,Bujang bin Bakar,M,Bumi Sarawak,1946-11-03
-4733,Abang Mohd Kassim bin Abg. Mohd Taha,M,Malay,xxxx-xx-xx
+4733,Abang Mohd Kassim bin Abang Mohd Taha,M,Malay,xxxx-xx-xx
 4734,Abang Ibrahin bin Abang Othman,M,Malay,1951-08-26
 4735,Peter anak Nuab,M,Bumi Sarawak,xxxx-xx-xx
 4736,William Tanyuh anak Nub,M,Bumi Sarawak,1946-xx-xx
@@ -4745,7 +4745,7 @@ candidate_uid,name,sex,ethnicity,dob
 4744,Jaraie bin Drahman (Ahmad bin Derahman),M,Malay,1940-12-17
 4745,Mathew Ain Ak Numan,M,Bumi Sarawak,1949-07-05
 4746,Junaidi bin Solhassan,M,Malay,xxxx-xx-xx
-4747,Bujang bin Brahim (Bukang bin Haji Brahim),M,Malay,xxxx-xx-xx
+4747,Bujang bin Brahim (Bukang bin Brahim),M,Malay,xxxx-xx-xx
 4748,Wan Akil bin Tuanku Mahmud,M,Malay,xxxx-xx-xx
 4749,Donald Lawan,M,Bumi Sarawak,1943-05-19
 4750,Mursidi (Mohd Morshidi) bin Umi,M,Malay,xxxx-xx-xx
@@ -4758,7 +4758,7 @@ candidate_uid,name,sex,ethnicity,dob
 4757,Wilson Allie anak Banyie,M,Bumi Sarawak,1955-06-20
 4758,Sylvester Langit anak Uming,M,Bumi Sarawak,xxxx-xx-xx
 4759,Mohd. Parhi bin Bujang,M,Malay,1946-02-12
-4760,Abg. Madzhi bin Abg. Dahlan,M,Malay,1950-03-09
+4760,Abang Madzhi bin Abang Dahlan,M,Malay,1950-03-09
 4761,Jong Nam Hin,M,Chinese,1936-09-09
 4762,Mohd. Rambli bin Omar,M,Malay,1927-08-10
 4763,Jong Thai Bee,M,Chinese,1939-08-01
@@ -4974,7 +4974,7 @@ candidate_uid,name,sex,ethnicity,dob
 4973,Lamsil bin Amidsor,M,Bumi Sabah,1959-10-26
 4974,Liew Vui Kong,M,Chinese,1951-10-01
 4975,Chin Ing Hing,M,Chinese,xxxx-xx-xx
-4976,Jabar Khan bin Napi (Haji Yasser Arafat),M,Bumi Sabah,1945-03-05
+4976,Jabar Khan bin Napi (Yasser Arafat),M,Bumi Sabah,1945-03-05
 4977,Johnnie Tanggar (Johnny),M,Bumi Sabah,1953-08-05
 4978,Michael M Ampuling (Mungkit),M,Bumi Sabah,1940-12-12
 4979,Albert bin Polinoh (Bigong),M,Bumi Sabah,1954-02-14
@@ -5101,7 +5101,7 @@ candidate_uid,name,sex,ethnicity,dob
 5100,Abdul Majid bin Salleh,M,Malay,xxxx-xx-xx
 5101,Chin Fook Nyaan (Chin Fook Yen),M,Chinese,1935-09-20
 5102,M. Busra bin Anuwar,M,Malay,xxxx-xx-xx
-5103,Nyanapandithan (Gnanapandythan) A/L Muthandi,M,Indian,1940-04-03
+5103,Nyanapandithan (Gnanapandythan) a/l Muthandi,M,Indian,1940-04-03
 5104,Ali bin Daud,M,Malay,xxxx-xx-xx
 5105,Mohd Nadzir bin Mohd Jamin,M,Malay,xxxx-xx-xx
 5106,Ariffin bin Ngah,M,Malay,1941-05-30
@@ -5118,12 +5118,12 @@ candidate_uid,name,sex,ethnicity,dob
 5117,Muhamad bin Abdullah,M,Malay,1942-xx-xx
 5118,Siti Zaharah binti Sulaiman,F,Malay,1949-04-24
 5119,Yahya bin Awang,M,Malay,xxxx-xx-xx
-5120,Majudim (Abd. Razak) bin Dawami,M,Malay,xxxx-xx-xx
+5120,Majudim bin Dawami (Ustaz Abdul Razak Dawami),M,Malay,xxxx-xx-xx
 5121,Hassim (Husin) bin Taib,M,Malay,xxxx-xx-xx
 5122,Mohd Fadzin bin Taslimin,M,Malay,1949-05-20
 5123,Zainudin bin Muhammad,M,Malay,xxxx-xx-xx
 5124,Aziz bin Hamzah,M,Malay,xxxx-xx-xx
-5125,P. Bijandran (D.P Vijandran) A/L Pantanathan,M,Indian,xxxx-xx-xx
+5125,P. Bijandran (D.P Vijandran) a/l Pantanathan,M,Indian,xxxx-xx-xx
 5126,Ahamad Kamari bin Md. Kamari,M,Malay,1945-09-16
 5127,Wong Sai Hou,M,Chinese,1947-04-02
 5128,Lee Phon Yong,M,Chinese,1939-03-03
@@ -5150,7 +5150,7 @@ candidate_uid,name,sex,ethnicity,dob
 5149,David Chua Kok Tee,M,Chinese,1947-12-18
 5150,Shariffuddin bin Budin,M,Malay,1960-12-02
 5151,Ishak bin Md. Nazir,M,Malay,1947-05-23
-5152,Sundararajoo A/L Ayasamy @ Mohamad bin Abdullah,M,Malay,xxxx-xx-xx
+5152,Sundararajoo a/l Ayasamy @ Mohamad bin Abdullah,M,Malay,xxxx-xx-xx
 5153,Mohd. Noh bin Rajab,M,Malay,1947-xx-xx
 5154,Heng Kau @ Yee Kong,M,Chinese,xxxx-xx-xx
 5155,Mohamad Mangsor bin Keliwan (Mansoor bin Keliwan),M,Malay,xxxx-xx-xx
@@ -5168,7 +5168,7 @@ candidate_uid,name,sex,ethnicity,dob
 5167,Ling Chooi Sieng,F,Chinese,1938-10-25
 5168,Abu Hassan bin Umat,M,Malay,xxxx-xx-xx
 5169,Chua Jui Meng,M,Chinese,1943-10-22
-5170,Md Sa'Aid bin Abd. Samad,M,Malay,1944-09-15
+5170,Md Sa'aid bin Abd. Samad,M,Malay,1944-09-15
 5171,Ungku Mohd. Noor bin Ungku Mahmood,M,Malay,1954-05-20
 5172,Tan Lem Huat,M,Chinese,xxxx-xx-xx
 5173,Mohamed Tawfik bin Ismail,M,Malay,1951-09-23
@@ -5236,14 +5236,14 @@ candidate_uid,name,sex,ethnicity,dob
 5235,Loh Sin Poh,M,Chinese,xxxx-xx-xx
 5236,Lai Kuan Fook @ Lai Kong Fook,M,Chinese,xxxx-xx-xx
 5237,Yahaya bin Ahmad,M,Malay,xxxx-xx-xx
-5238,Nordin bin Hj. Abdullah,M,Malay,xxxx-xx-xx
+5238,Nordin bin Abdullah,M,Malay,xxxx-xx-xx
 5239,Yaziz @ Yazid bin Mat,M,Malay,xxxx-xx-xx
 5240,Bahari bin Taib,M,Malay,xxxx-xx-xx
 5241,Mohd Abidin B. Halifah,M,Malay,xxxx-xx-xx
 5242,Md. Isa bin Sabu,M,Malay,1946-08-24
 5243,Selamat bin Saad,M,Malay,xxxx-xx-xx
 5244,Hamid bin Mohamood,M,Malay,xxxx-xx-xx
-5245,Othman bin Hj. Ghazali,M,Malay,xxxx-xx-xx
+5245,Othman bin Ghazali,M,Malay,xxxx-xx-xx
 5246,Fadzil bin Mahmood,M,Malay,xxxx-xx-xx
 5247,Ahmad Tajuddin bin Salleh,M,Malay,1951-xx-xx
 5248,Chong Teik Tee,M,Chinese,xxxx-xx-xx
@@ -5389,12 +5389,12 @@ candidate_uid,name,sex,ethnicity,dob
 5388,Loh Hock Hun,M,Chinese,1945-04-05
 5389,Tham Soon Seong,M,Chinese,1950-08-05
 5390,Ong Hock Aun,M,Chinese,1957-05-28
-5391,Balasundaram A/L Kanagaratnam,M,Indian,1951-06-24
+5391,Balasundaram a/l Kanagaratnam,M,Indian,1951-06-24
 5392,Ho Sen Feek,M,Chinese,1950-05-31
 5393,Chong Eng Hua,M,Chinese,1948-02-01
 5394,Kee Phaik Cheen,F,Chinese,1947-09-11
 5395,Said bin Bakar,M,Malay,1935-04-09
-5396,Tanasekharan A/L Autherapady,M,Indian,1955-12-31
+5396,Tanasekharan a/l Autherapady,M,Indian,1955-12-31
 5397,Lim Keat Chai,M,Chinese,1945-06-09
 5398,Mohd bin Hashim,M,Malay,1950-08-26
 5399,Mat Tahir bin Bakar,M,Malay,xxxx-xx-xx
@@ -5433,7 +5433,7 @@ candidate_uid,name,sex,ethnicity,dob
 5432,Au You Heng,M,Chinese,1951-05-22
 5433,Liew Lian Siew,F,Chinese,1950-07-25
 5434,Woon Ching Hee,M,Chinese,1947-04-14
-5435,Gopal A/L T.P. Nair,M,Indian,xxxx-xx-xx
+5435,Gopal a/l T.P. Nair,M,Indian,xxxx-xx-xx
 5436,Ibrahim bin Abdul Malek,M,Malay,xxxx-xx-xx
 5437,Mohd Nor (Md Noor) bin Abdullah,M,Malay,xxxx-xx-xx
 5438,Megat Tajuddin bin Megat Ahmad,M,Malay,1942-12-10
@@ -5453,7 +5453,7 @@ candidate_uid,name,sex,ethnicity,dob
 5452,Jamal bin Osman,M,Malay,xxxx-xx-xx
 5453,Abu Bakar bin Muhammad Taib,M,Malay,1950-07-01
 5454,Azman bin Mahalan,M,Malay,1942-xx-xx
-5455,Mohamed Nazri bin Haji Abdul Rahim,M,Malay,1942-01-19
+5455,Mohamed Nazri bin Abdul Rahim,M,Malay,1942-01-19
 5456,Ahmad bin Zainuddin,M,Malay,xxxx-xx-xx
 5457,Hu Chan You,M,Chinese,1958-08-10
 5458,Sidek bin Mohd Noor,M,Malay,1952-08-28
@@ -5462,17 +5462,17 @@ candidate_uid,name,sex,ethnicity,dob
 5461,Abd. Aziz bin Abas,M,Malay,xxxx-xx-xx
 5462,Abu Hassan bin Dahalan,M,Malay,1951-07-12
 5463,Law Lian Ho,M,Chinese,xxxx-xx-xx
-5464,K. Kumaron (Kumaran) A/L Karunagaran,M,Indian,1937-05-14
+5464,K. Kumaron (Kumaran) a/l Karunagaran,M,Indian,1937-05-14
 5465,Junus bin Wahid,M,Malay,1947-12-23
 5466,Neng Lan Fong,M,Chinese,xxxx-xx-xx
 5467,Adam bin Zainal Abidin,M,Malay,xxxx-xx-xx
 5468,Chan Kong Choy,M,Chinese,1955-05-17
-5469,Aleyakanvenden (Subramaniam) A/L Perian,M,Indian,xxxx-xx-xx
+5469,Aleyakanvenden (Subramaniam) a/l Perian,M,Indian,xxxx-xx-xx
 5470,Mazlan bin Md Taib,M,Malay,xxxx-xx-xx
 5471,Omar bin Othman,M,Malay,1950-xx-xx
 5472,Mohd Mokhtar bin Mansor,M,Malay,xxxx-xx-xx
 5473,Abu Dahari bin Osman,M,Malay,xxxx-xx-xx
-5474,Selvarajah A/L Maniam,M,Indian,xxxx-xx-xx
+5474,Selvarajah a/l Maniam,M,Indian,xxxx-xx-xx
 5475,Shamsuddin bin Mohd Salleh,M,Malay,1933-01-01
 5476,Mohamad Mazlan bin Idris,M,Malay,1944-xx-xx
 5477,Tengku Yusop bin Tengku Adbdul Hamid,M,Malay,1945-09-04
@@ -5496,7 +5496,7 @@ candidate_uid,name,sex,ethnicity,dob
 5495,Mohd Rosly bin Hussin,M,Malay,xxxx-xx-xx
 5496,Ahmad bin Mohd Akil,M,Malay,xxxx-xx-xx
 5497,Abdul Halim bin Mohd Seth,M,Malay,1946-xx-xx
-5498,V.V Aboo A/L M. Ahammu,M,Indian,1928-xx-xx
+5498,V.V Aboo a/l M. Ahammu,M,Indian,1928-xx-xx
 5499,Loke Ah Kow (Poo Yew Choy),M,Chinese,xxxx-xx-xx
 5500,Lee Hon,M,Chinese,1946-xx-xx
 5501,Adnan bin Yaakob,M,Malay,1950-04-18
@@ -5529,10 +5529,10 @@ candidate_uid,name,sex,ethnicity,dob
 5528,Abd. Kadir bin Ismail,M,Malay,xxxx-xx-xx
 5529,Abdul Jalil bin Mohd. Nazir,M,Malay,xxxx-xx-xx
 5530,Maido bin Ali,M,Malay,xxxx-xx-xx
-5531,B.N. Hari Krishnan A/L Narayanasamy,M,Indian,xxxx-xx-xx
+5531,B.N. Hari Krishnan a/l Narayanasamy,M,Indian,xxxx-xx-xx
 5532,Chong Poy Seng,M,Chinese,xxxx-xx-xx
 5533,Woo Ah Hoi (Chang Sze Hoi),M,Chinese,xxxx-xx-xx
-5534,Madhavan Nair A/L Narayanan Nair,M,Indian,1950-10-05
+5534,Madhavan Nair a/l Narayanan Nair,M,Indian,1950-10-05
 5535,Chan Tse Yuen,M,Chinese,xxxx-xx-xx
 5536,Lee Chu Kob,M,Chinese,xxxx-xx-xx
 5537,Oon Hong Geok,F,Chinese,xxxx-xx-xx
@@ -5540,22 +5540,22 @@ candidate_uid,name,sex,ethnicity,dob
 5539,Megat Najmuddin bin Megat Khas,M,Malay,1944-xx-xx
 5540,Yap Kok Heng,M,Chinese,xxxx-xx-xx
 5541,Yusof bin Abd. Ghani,M,Malay,xxxx-xx-xx
-5542,Radhakrishnan A/L Kunnikrishna Pillai,M,Indian,xxxx-xx-xx
+5542,Radhakrishnan a/l Kunnikrishna Pillai,M,Indian,xxxx-xx-xx
 5543,Chia Kwai Loy,M,Chinese,xxxx-xx-xx
 5544,Supian bin Md. Nordin,M,Malay,xxxx-xx-xx
 5545,Abu Sujak bin Mahmud,M,Malay,1939-02-04
-5546,Sanggilly (Sellathevan) A/L Muthusamy,M,Indian,xxxx-xx-xx
+5546,Sanggilly (Sellathevan) a/l Muthusamy,M,Indian,xxxx-xx-xx
 5547,Goon Swee Fook,M,Chinese,xxxx-xx-xx
 5548,Yeoh Lai Seng,M,Chinese,xxxx-xx-xx
 5549,Tong Yoke Seng,M,Chinese,xxxx-xx-xx
-5550,Pakiyanathan A/L Anamaly,M,Indian,xxxx-xx-xx
+5550,Pakiyanathan a/l Anamaly,M,Indian,xxxx-xx-xx
 5551,Eng Hoi Choo,M,Chinese,xxxx-xx-xx
 5552,Khalil bin Muhammad Saleh,M,Malay,xxxx-xx-xx
 5553,Mohamed Khaidzer bin Ibrahim,M,Malay,xxxx-xx-xx
 5554,Mohd. Khaile bin Tusiman,M,Malay,xxxx-xx-xx
 5555,Amat bin Suliman,M,Malay,xxxx-xx-xx
 5556,Abdul Halim bin Mohd. Amin,M,Malay,xxxx-xx-xx
-5557,Samiran (Sairon) bin Haji Abdul Hamid,M,Malay,xxxx-xx-xx
+5557,Samiran (Sairon) bin Abdul Hamid,M,Malay,xxxx-xx-xx
 5558,Shamsul Bahari (Ramli) bin Mat,M,Malay,1939-04-25
 5559,Bakhtiar bin Mohd. Yusof,M,Malay,1951-05-10
 5560,Abdul Muhi bin Abd. Wahab,M,Malay,1947-03-20
@@ -5567,7 +5567,7 @@ candidate_uid,name,sex,ethnicity,dob
 5566,Baharudin bin Hassan,M,Malay,xxxx-xx-xx
 5567,Mohamed Ganti bin Sudin,M,Malay,1942-10-17
 5568,Mohamad Yassin bin Bakar,M,Malay,1939-xx-xx
-5569,Haji Baharudin bin Leman,M,Malay,1939-08-12
+5569,Baharudin bin Leman,M,Malay,1939-08-12
 5570,Woo Ah Lek (Woo Siak Chee),M,Chinese,1943-03-31
 5571,Lay Chun Tai (Loy Chee Tai),M,Chinese,xxxx-xx-xx
 5572,Ahmad Apandi bin Johan,M,Malay,1947-12-12
@@ -5587,11 +5587,11 @@ candidate_uid,name,sex,ethnicity,dob
 5586,Lee Gee Huy (Lee Kong Fee),M,Chinese,1948-02-12
 5587,Yeow Chai Thiam,M,Chinese,1953-04-19
 5588,Othman bin Abdullah,M,Malay,xxxx-xx-xx
-5589,Palanisamy A/L Subramaniam,M,Indian,1947-11-07
+5589,Palanisamy a/l Subramaniam,M,Indian,1947-11-07
 5590,Mahzan bin Hamzah,M,Malay,1937-xx-xx
 5591,Salam bin Yunos,M,Malay,xxxx-xx-xx
 5592,Zakaria bin Abu Hassan,M,Malay,1952-06-29
-5593,Krishnasamy (Krishnan) A/L Muthurajoo,M,Indian,1937-10-18
+5593,Krishnasamy (Krishnan) a/l Muthurajoo,M,Indian,1937-10-18
 5594,Mustapa bin Manap,M,Malay,xxxx-xx-xx
 5595,Bahari bin Hasan,M,Malay,xxxx-xx-xx
 5596,Md. Ali bin Bagus,M,Malay,xxxx-xx-xx
@@ -5696,7 +5696,7 @@ candidate_uid,name,sex,ethnicity,dob
 5695,Anthony Nait anak Mani,M,Bumi Sarawak,1952-05-02
 5696,Abdul Ajis bin Abdul Majeed,M,Malay,1953-02-26
 5697,Mohd. Ghazali bin Kipli,M,Malay,xxxx-xx-xx
-5698,Wan Madzihi bin Wan Mahdzar,M,Malay,xxxx-xx-xx
+5698,Wan Madzihi bin Wan Mahdzar,M,Malay,1946-xx-xx
 5699,Martin anak Charlie,M,Bumi Sarawak,xxxx-xx-xx
 5700,Tan anak Seliong,M,Bumi Sarawak,1950-02-06
 5701,Felix Bantin anak Jibom,M,Bumi Sarawak,1951-xx-xx
@@ -5922,7 +5922,7 @@ candidate_uid,name,sex,ethnicity,dob
 5921,Jamaluddin bin Mohd Jarjis,M,Malay,1951-05-25
 5922,Mahbud bin Hashim,M,Malay,1952-04-06
 5923,Saidin (Yusof) bin Adam,M,Malay,1942-07-12
-5924,Palanivel A/L K. Govindasamy,M,Indian,1949-03-01
+5924,Palanivel a/l K. Govindasamy,M,Indian,1949-03-01
 5925,Nazar Yakin,M,Malay,xxxx-xx-xx
 5926,Mohamed Haniffa,M,Malay,xxxx-xx-xx
 5927,Ong Tee Keat,M,Chinese,1956-11-22
@@ -5943,7 +5943,7 @@ candidate_uid,name,sex,ethnicity,dob
 5942,Ibrahim bin Sareh,M,Malay,xxxx-xx-xx
 5943,Sulaiman bin Yusof,M,Malay,xxxx-xx-xx
 5944,Abd. Halim bin Mohd,M,Malay,xxxx-xx-xx
-5945,Marimuthu A/L Thangaveloo,M,Indian,1935-08-02
+5945,Marimuthu a/l Thangaveloo,M,Indian,1935-08-02
 5946,N. Mahadevan,M,Indian,xxxx-xx-xx
 5947,Ibrahim bin Jendol,M,Malay,1950-06-11
 5948,Mokhtar bin Ibrahim,M,Malay,1956-08-18
@@ -5986,7 +5986,7 @@ candidate_uid,name,sex,ethnicity,dob
 5985,Miyong bin Hamzah,M,Bumi Sabah,xxxx-xx-xx
 5986,Philip Yong Chiew Lip,M,Chinese,xxxx-xx-xx
 5987,Joseph Wun,M,Chinese,xxxx-xx-xx
-5988,Haji Jabar,M,Bumi Sabah,xxxx-xx-xx
+5988,Jabar,M,Bumi Sabah,xxxx-xx-xx
 5989,Charles Tulis (Mohd. Salleh),M,Bumi Sabah,xxxx-xx-xx
 5990,Alexander Huang Tzin Tat,M,Bumi Sabah,xxxx-xx-xx
 5991,Abd. Rahman bin Juman,M,Bumi Sabah,xxxx-xx-xx
@@ -6007,7 +6007,7 @@ candidate_uid,name,sex,ethnicity,dob
 6006,Yong Khoon Seng (Yong Khoon Hian),M,Chinese,1941-12-22
 6007,William Stephen Aham anak Ancher,M,Bumi Sarawak,1934-08-02
 6008,Wahab bin Suhaili,M,Bumi Sarawak,1950-03-08
-6009,Abg. Ismail bin Abg. Hadari,M,Bumi Sarawak,xxxx-xx-xx
+6009,Abang Ismail bin Abang Hadari,M,Bumi Sarawak,xxxx-xx-xx
 6010,Wan Junaidi bin Tuanku Jaafar,M,Bumi Sarawak,1946-02-01
 6011,Barat anak Utek,M,Bumi Sarawak,1944-09-12
 6012,Jawah anak Gerang,M,Bumi Sarawak,1954-02-28
@@ -6153,7 +6153,7 @@ candidate_uid,name,sex,ethnicity,dob
 6152,Mohd Sani bin Abdullah,M,Malay,1959-10-03
 6153,Rokiah Bee binti Hassan,F,Malay,1946-03-15
 6154,Naser bin Mohd Razi,M,Malay,1955-03-14
-6155,Asamaley A/L Sinniah,M,Indian,xxxx-xx-xx
+6155,Asamaley a/l Sinniah,M,Indian,xxxx-xx-xx
 6156,Valli a/p Muthusamy,F,Indian,xxxx-xx-xx
 6157,Mohd Salleh bin Din,M,Malay,1956-11-10
 6158,Ahmad bin Saad,M,Malay,1951-12-10
@@ -6180,7 +6180,7 @@ candidate_uid,name,sex,ethnicity,dob
 6179,Khalid bin Abd. Hamid,M,Malay,xxxx-xx-xx
 6180,Abdul Halim Ali,M,Malay,xxxx-xx-xx
 6181,Ahmad bin Baharom,M,Malay,xxxx-xx-xx
-6182,Azizan bin Haji Ismail,M,Malay,1942-05-18
+6182,Azizan bin Ismail,M,Malay,1942-05-18
 6183,Ong Chin Lee,M,Chinese,1964-12-23
 6184,Talha bin Ismail,M,Malay,1936-07-27
 6185,Nuruddin bin Mansor,M,Malay,xxxx-xx-xx
@@ -6208,7 +6208,7 @@ candidate_uid,name,sex,ethnicity,dob
 6207,Chong Fah (Chong Kam),M,Chinese,1939-01-17
 6208,Chang Him Hu,M,Chinese,xxxx-xx-xx
 6209,Lee Chee Leong,M,Chinese,1957-10-22
-6210,Chelvarajah A/L Ponniah,M,Indian,1940-04-14
+6210,Chelvarajah a/l Ponniah,M,Indian,1940-04-14
 6211,Ahmad Mustafa bin Abdullah,M,Malay,xxxx-xx-xx
 6212,Ariffen Esa,M,Malay,xxxx-xx-xx
 6213,Mohamed Wajdi bin Ishak,M,Malay,1949-08-25
@@ -6216,17 +6216,17 @@ candidate_uid,name,sex,ethnicity,dob
 6215,Kong Cho Ha,M,Chinese,1950-09-15
 6216,Kumar Simin,M,Indian,xxxx-xx-xx
 6217,Abdullah bin Ahmad,M,Malay,xxxx-xx-xx
-6218,Rajoo A/L Govindasamy,M,Indian,1938-01-17
+6218,Rajoo a/l Govindasamy,M,Indian,1938-01-17
 6219,M. A. Vadiveloo,M,Indian,xxxx-xx-xx
 6220,Fong Fook Ming,M,Chinese,1951-11-28
 6221,Sulaiman bin Nawi,M,Malay,1934-06-23
 6222,John Richard Woodworth,M,Other,1947-01-10
-6223,Veerasingam A/L Suppiah,M,Indian,1941-10-13
+6223,Veerasingam a/l Suppiah,M,Indian,1941-10-13
 6224,Auzir bin Mohd Yaacob,M,Malay,1952-02-15
-6225,Apalasamy A/L Jataliah,M,Indian,1950-10-04
+6225,Apalasamy a/l Jataliah,M,Indian,1950-10-04
 6226,Law Kee Long,M,Chinese,1946-11-29
 6227,Ahmad bin Pilus,M,Malay,xxxx-xx-xx
-6228,Telukanam A/L Sinnapayan,M,Indian,xxxx-xx-xx
+6228,Telukanam a/l Sinnapayan,M,Indian,xxxx-xx-xx
 6229,Md Rusli bin Ab Jalil,M,Malay,1956-11-04
 6230,Abdul Malik bin Yusof,M,Malay,1952-05-22
 6231,Rahimah binti Mohammad Kawi,F,Malay,1937-01-05
@@ -6243,7 +6243,7 @@ candidate_uid,name,sex,ethnicity,dob
 6242,Tan Mohd Aminuddin Ishak,M,Malay,1948-03-24
 6243,Mohd Baki bin Othman,M,Malay,1940-07-12
 6244,Selva,M,Indian,xxxx-xx-xx
-6245,Sinnathamby A/L Ramasamy,M,Indian,xxxx-xx-xx
+6245,Sinnathamby a/l Ramasamy,M,Indian,xxxx-xx-xx
 6246,Bahari bin Yahaya,M,Malay,1943-09-13
 6247,Lee Kam (Lee Scene Kam),M,Chinese,1952-08-15
 6248,Shamsuddin bin Moner (Munir),M,Malay,1965-01-31
@@ -6267,7 +6267,7 @@ candidate_uid,name,sex,ethnicity,dob
 6266,Jamaluddin bin Adnan,M,Malay,xxxx-xx-xx
 6267,Mohd. Shahir,M,Malay,xxxx-xx-xx
 6268,Suhaimi bin Amnan,M,Malay,xxxx-xx-xx
-6269,Sivalingam A/L Arumugam Karuppiah,M,Indian,1948-01-01
+6269,Sivalingam a/l Arumugam Karuppiah,M,Indian,1948-01-01
 6270,Suradi bin Timin,M,Malay,xxxx-xx-xx
 6271,S. G. Segaran,M,Indian,xxxx-xx-xx
 6272,Abdul Samat bin Harun,M,Malay,xxxx-xx-xx
@@ -6291,7 +6291,7 @@ candidate_uid,name,sex,ethnicity,dob
 6290,Usulludin bin Jamil,M,Malay,xxxx-xx-xx
 6291,A. N. Mathurai,M,Indian,xxxx-xx-xx
 6292,Ang Thye Chin,M,Chinese,1949-11-24
-6293,Deligannu A/L Allagan,M,Indian,1946-09-26
+6293,Deligannu a/l Allagan,M,Indian,1946-09-26
 6294,Ramli bin Moid,M,Malay,xxxx-xx-xx
 6295,Teh Chang Ying,M,Chinese,1945-12-24
 6296,Mohd Mesari bin Jasman,M,Malay,xxxx-xx-xx
@@ -6397,7 +6397,7 @@ candidate_uid,name,sex,ethnicity,dob
 6396,Nasir,M,Malay,xxxx-xx-xx
 6397,Mohamed Salleh bin Bajuri,M,Malay,xxxx-xx-xx
 6398,Aton anak Kajit (Atan anak Kajik),M,Bumi Sarawak,1952-02-14
-6399,Ahmed bin Abg. Ali,M,Malay,xxxx-xx-xx
+6399,Ahmed bin Abang Ali,M,Malay,xxxx-xx-xx
 6400,Abdul Karim bin Ayub,M,Malay,xxxx-xx-xx
 6401,Saidan @ Massudin bin Sahini,M,Malay,1957-07-06
 6402,Abang Draup Zamahari bin Abang Zen,M,Bumi Sarawak,xxxx-xx-xx
@@ -6425,8 +6425,8 @@ candidate_uid,name,sex,ethnicity,dob
 6424,Wel @ Maxwel anak Rojis,M,Bumi Sarawak,1952-03-05
 6425,Awg. Azmi bin Awg. Mat,M,Malay,xxxx-xx-xx
 6426,Jonathan Sumping Bayang,M,Bumi Sarawak,xxxx-xx-xx
-6427,Abg. Mentaril bin Unus,M,Malay,xxxx-xx-xx
-6428,Abg. Mail,M,Malay,xxxx-xx-xx
+6427,Abang Mentaril bin Unus,M,Malay,xxxx-xx-xx
+6428,Abang Mail,M,Malay,xxxx-xx-xx
 6429,Banie anak Laba,M,Bumi Sarawak,1961-01-18
 6430,Simong anak Naga,M,Bumi Sarawak,xxxx-xx-xx
 6431,Azmi bin Lamat,M,Malay,xxxx-xx-xx
@@ -6471,7 +6471,7 @@ candidate_uid,name,sex,ethnicity,dob
 6470,Abin Bira,M,Bumi Sarawak,1964-09-13
 6471,Helen Long Sten (Helen Bira Sten),F,Bumi Sarawak,xxxx-xx-xx
 6472,Hussen bin Abd. Razak,M,Malay,xxxx-xx-xx
-6473,Michael Sim Kiam Hui,M,Chinese,xxxx-xx-xx
+6473,Michael Sim Kiam Hui,M,Chinese,1940-11-16
 6474,Menjang Ak Mawar,M,Bumi Sarawak,1947-04-12
 6475,Lawrence Tan Chok Sing,M,Chinese,1935-08-15
 6476,China anak Juing (Marcos),M,Bumi Sarawak,1949-12-02
@@ -6590,7 +6590,7 @@ candidate_uid,name,sex,ethnicity,dob
 6589,Chia Kwang Chye,M,Chinese,1952-07-09
 6590,Lim Cheak Kow,M,Chinese,xxxx-xx-xx
 6591,Rhina Bbhar @ Rani Raj Pal,F,Indian,1959-xx-xx
-6592,Lakhbir Singh A/L Sadu Singh,M,Other,1942-08-20
+6592,Lakhbir Singh a/l Sadu Singh,M,Other,1942-08-20
 6593,Nungsari bin Ahmad Radhi,M,Malay,1960-xx-xx
 6594,Yahya bin Jali,M,Malay,xxxx-xx-xx
 6595,Abdullah Hudi bin Abdul Latif,M,Malay,xxxx-xx-xx
@@ -6614,7 +6614,7 @@ candidate_uid,name,sex,ethnicity,dob
 6613,Yap Yit Thong (Yap Thong),M,Chinese,1944-04-23
 6614,Asha'ari bin Marsom,M,Malay,1963-10-15
 6615,Ahmad Zahid bin Hamidi,M,Malay,1953-01-04
-6616,Proso Watma (Prosothman) A/L Appoo,M,Indian,xxxx-xx-xx
+6616,Proso Watma (Prosothman) a/l Appoo,M,Indian,xxxx-xx-xx
 6617,Wan Mokhtar bin Wan Endut,M,Malay,1947-08-24
 6618,Ibrahim bin Yusof,M,Malay,1946-06-18
 6619,Sarif bin Udin,M,Malay,xxxx-xx-xx
@@ -6635,11 +6635,11 @@ candidate_uid,name,sex,ethnicity,dob
 6634,Mohd Zainal Abidin bin Abdul Mutalib,M,Malay,1940-11-03
 6635,Badrul Hisham bin Abdul Aziz,M,Malay,xxxx-xx-xx
 6636,Lim Kuo Phau,M,Chinese,1950-xx-xx
-6637,Selvanathan A/L Savarimuthu,M,Indian,1942-10-09
+6637,Selvanathan a/l Savarimuthu,M,Indian,1942-10-09
 6638,Lim Siang Chai,M,Chinese,1955-12-17
 6639,Hussein bin Ahmad,M,Malay,xxxx-xx-xx
 6640,Salamon bin Selamat,M,Malay,1947-12-25
-6641,Leelavathi A/P K. Govindasamy,F,Indian,1944-08-06
+6641,Leelavathi a/p K. Govindasamy,F,Indian,1944-08-06
 6642,Tan Yew Kew,F,Chinese,1953-xx-xx
 6643,Shafie bin Mohd Salleh,M,Malay,1946-09-29
 6644,Seripah Noli binti Syed Hussin,F,Malay,1956-08-31
@@ -6663,8 +6663,8 @@ candidate_uid,name,sex,ethnicity,dob
 6662,S. Omar bin S. Abdullah,M,Malay,1957-02-22
 6663,Mohd Yusof bin Abd Malik,M,Malay,xxxx-xx-xx
 6664,Ishak bin Mat Aris,M,Malay,xxxx-xx-xx
-6665,Krishnan A/L Letchumanan,M,Indian,1948-xx-xx
-6666,Thangasamy A/L Periasamy,M,Indian,xxxx-xx-xx
+6665,Krishnan a/l Letchumanan,M,Indian,1948-xx-xx
+6666,Thangasamy a/l Periasamy,M,Indian,xxxx-xx-xx
 6667,Abu Seman bin Yusop,M,Malay,1944-01-10
 6668,Omar bin Baba,M,Malay,1954-01-15
 6669,Burkhan bin Abdullah,M,Malay,1944-03-08
@@ -6688,7 +6688,7 @@ candidate_uid,name,sex,ethnicity,dob
 6687,Madin bin Khani @ Md. Din bin A. Ghani,M,Malay,1944-12-04
 6688,Mohd. Salleh bin Ahmad,M,Malay,1966-01-05
 6689,Mohamed Hanipa bin Maidin,M,Malay,1968-07-35
-6690,Ya'Akob bin Mohd Yusof,M,Malay,1947-05-05
+6690,Ya'akob bin Mohd Yusof,M,Malay,1947-05-05
 6691,Omar bin Sharif,M,Malay,1951-08-29
 6692,Saleh @ Daud bin Hassan,M,Malay,xxxx-xx-xx
 6693,Sahlih bin Sirin,M,Bumi Sabah,xxxx-xx-xx
@@ -6748,7 +6748,7 @@ candidate_uid,name,sex,ethnicity,dob
 6747,Mohamad Hadzi bin Nordin,M,Malay,xxxx-xx-xx
 6748,Abdul Aziz bin Saad,M,Malay,xxxx-xx-xx
 6749,Alias bin Othman,M,Malay,xxxx-xx-xx
-6750,Arof bin Hj Saad,M,Malay,xxxx-xx-xx
+6750,Arof bin Saad,M,Malay,xxxx-xx-xx
 6751,Ramli bin Abdul Karim,M,Malay,xxxx-xx-xx
 6752,Karim bin Salleh,M,Malay,1940-xx-xx
 6753,Long bin Saad,M,Malay,1942-05-22
@@ -6760,7 +6760,7 @@ candidate_uid,name,sex,ethnicity,dob
 6759,Barishah @ Habshah binti Saad,F,Malay,1938-02-16
 6760,Yusoff bin Abdullah,M,Malay,1940-04-09
 6761,Syed Idrus bin Syed Baharom,M,Malay,1936-01-21
-6762,Mohamad Yusoff @ Munir bin Zakaria (Haji Munir),M,Malay,1964-04-15
+6762,Mohamad Yusoff @ Munir bin Zakaria,M,Malay,1964-04-15
 6763,Abd Lateh bin Mohd Saman,M,Malay,1958-09-13
 6764,Ahmad bin Sudin,M,Malay,1958-11-11
 6765,Alias bin Mustafa,M,Malay,xxxx-xx-xx
@@ -6794,7 +6794,7 @@ candidate_uid,name,sex,ethnicity,dob
 6793,Ahmad bin Majid,M,Malay,1956-09-24
 6794,Che Pora binti Omar,F,Malay,1941-06-27
 6795,Ahmad Jailani bin Ahmad,M,Malay,1935-07-05
-6796,M Joseph Philomin A/L Joseph Fernandez,M,Indian,1954-xx-xx
+6796,M Joseph Philomin a/l Joseph Fernandez,M,Indian,1954-xx-xx
 6797,Majid @ Zinudin bin Arop @ Arof,M,Malay,xxxx-xx-xx
 6798,Che' At bin Ibrahim,M,Malay,xxxx-xx-xx
 6799,Muhamad Fishol bin Said,M,Malay,1958-05-12
@@ -6816,7 +6816,7 @@ candidate_uid,name,sex,ethnicity,dob
 6815,Othman bin Latif,M,Malay,xxxx-xx-xx
 6816,Hussin bin Ahmad,M,Malay,xxxx-xx-xx
 6817,Mohd Yaman bin Muhamad,M,Malay,1940-11-14
-6818,Mohd Nassuruddin bin Haji Daud,M,Malay,1965-10-04
+6818,Mohd Nassuruddin bin Daud,M,Malay,1965-10-04
 6819,Hassan bin Ahmad,M,Malay,xxxx-xx-xx
 6820,Ramli bin Awang,M,Malay,xxxx-xx-xx
 6821,Che Man (Ab Rahman) bin Ibrahim,M,Malay,xxxx-xx-xx
@@ -6857,7 +6857,7 @@ candidate_uid,name,sex,ethnicity,dob
 6856,Mohd. Akram Khan bin Awang Shaikh,M,Malay,1956-02-28
 6857,Mohamad bin Yusof,M,Malay,xxxx-xx-xx
 6858,Che Ku Hashim bin Che Ku Mat,M,Malay,1960-04-23
-6859,Mohd Jusoh @ Yusoff bin Hj Md Nor,M,Malay,1941-02-05
+6859,Mohd Jusoh @ Yusoff bin Md Nor,M,Malay,1941-02-05
 6860,Sazali bin Hassan,M,Malay,xxxx-xx-xx
 6861,Idris bin Mamat,M,Malay,1945-02-07
 6862,Abdul Rahman bin Ab Kadir,M,Malay,xxxx-xx-xx
@@ -6892,7 +6892,7 @@ candidate_uid,name,sex,ethnicity,dob
 6891,Md Sheriff bin Saad,M,Malay,1944-03-30
 6892,Loo Ah Dee @ Lee Ah Lee,M,Chinese,1947-09-22
 6893,Cheah Tiek Soon,M,Chinese,1954-01-11
-6894,Rajapathy A/L Kuppusamy,M,Indian,1946-06-10
+6894,Rajapathy a/l Kuppusamy,M,Indian,1946-06-10
 6895,Abdul Latiff bin S. Mirasa,M,Malay,1945-04-01
 6896,Noor Halil bin Abd Ghani,M,Malay,1955-04-25
 6897,Mior Ariff bin Mior Hassan,M,Malay,1954-11-26
@@ -6910,7 +6910,7 @@ candidate_uid,name,sex,ethnicity,dob
 6909,Teng Chang Yeow,M,Chinese,1964-12-12
 6910,Lee Hack Teik,M,Chinese,1952-12-17
 6911,Lim Gim Soon,M,Chinese,1947-08-27
-6912,Seevaraju A/L Muniandy,M,Indian,1944-05-16
+6912,Seevaraju a/l Muniandy,M,Indian,1944-05-16
 6913,Abdul Karim bin Pawanchee,M,Malay,1958-08-01
 6914,Chong Eng,F,Chinese,1957-07-06
 6915,Lee Boon Ten,M,Chinese,1957-12-21
@@ -6927,8 +6927,8 @@ candidate_uid,name,sex,ethnicity,dob
 6926,Mohd Yushof bin Awang Karim,M,Malay,1950-07-31
 6927,Md Dali bin Ghazali,M,Malay,1958-01-10
 6928,Ibrahim bin Mohd Hanafiah,M,Malay,1956-08-20
-6929,Mokhtarudin bin Haji Mohamad Kaya,M,Malay,1943-07-01
-6930,Abdul Aziz bin Haji Jaeh,M,Malay,xxxx-xx-xx
+6929,Mokhtarudin bin Mohamad Kaya,M,Malay,1943-07-01
+6930,Abdul Aziz bin Jaeh,M,Malay,xxxx-xx-xx
 6931,Abdul Rani bin Che Lah,M,Malay,1938-11-25
 6932,Khamsiah (Khansiyah) binti Yeop,F,Malay,1944-04-28
 6933,Sulaiman bin Japar,M,Malay,1949-02-26
@@ -6952,7 +6952,7 @@ candidate_uid,name,sex,ethnicity,dob
 6951,Zainuddin bin Ahmad Karim,M,Malay,xxxx-xx-xx
 6952,Nadzri bin Ismail,M,Malay,1957-10-24
 6953,Meor Termizi bin Mior Yusof,M,Malay,1935-06-01
-6954,M. Kulasegaran A/L V. Murugeson ,M,Indian,1957-08-10
+6954,M. Kulasegaran a/l V. Murugeson ,M,Indian,1957-08-10
 6955,Hiew Yew Can,M,Chinese,1943-03-22
 6956,Tan Chin Meng,M,Chinese,1958-04-04
 6957,Liew Choong Sang (Liew Kay Chay),M,Chinese,xxxx-xx-xx
@@ -6973,7 +6973,7 @@ candidate_uid,name,sex,ethnicity,dob
 6972,Yew Swee Fong,M,Chinese,1950-02-01
 6973,Che'Su binti Mat (Yusuf),F,Malay,1941-08-15
 6974,Zulkifli bin Mat Isin,M,Malay,xxxx-xx-xx
-6975,Muthiah (Krishnamoorthy) A/L Maria Pillay,M,Indian,xxxx-xx-xx
+6975,Muthiah (Krishnamoorthy) a/l Maria Pillay,M,Indian,xxxx-xx-xx
 6976,Kong Ding You,M,Chinese,1963-12-02
 6977,Mohamad Arip bin Mohd Yasin,M,Malay,1938-05-21
 6978,Muhammad bin Abdullah,M,Malay,xxxx-xx-xx
@@ -6984,7 +6984,7 @@ candidate_uid,name,sex,ethnicity,dob
 6983,Suhaimi bin Ibrahim,M,Malay,1959-08-02
 6984,Mohd Jaafar bin Kamarulzaman,M,Malay,1953-03-02
 6985,Syed Ali bin Syed Mohammad,M,Malay,1942-08-30
-6986,Abdullah Suhaimin bin Sa'At,M,Malay,1950-10-29
+6986,Abdullah Suhaimin bin Sa'at,M,Malay,1950-10-29
 6987,Ibrahim bin Yusof,M,Malay,1952-08-25
 6988,Shahiruddin bin Ab Moin,M,Malay,1956-08-16
 6989,Lau Lee,M,Chinese,1957-03-09
@@ -7035,7 +7035,7 @@ candidate_uid,name,sex,ethnicity,dob
 7034,Tukiran bin Mohd. Ali,M,Malay,xxxx-xx-xx
 7035,Mesrah binti Selamat,F,Malay,1949-10-18
 7036,Azmi bin Hussain,M,Malay,1956-06-22
-7037,Gopala Krishnan A/L V. Subramaniam,M,Indian,xxxx-xx-xx
+7037,Gopala Krishnan a/l V. Subramaniam,M,Indian,xxxx-xx-xx
 7038,Saleh Huddin bin Mohd Nasir,M,Malay,xxxx-xx-xx
 7039,Minhat bin Sulaiman,M,Malay,xxxx-xx-xx
 7040,Wong Kok Yew,M,Chinese,1962-01-03
@@ -7049,27 +7049,27 @@ candidate_uid,name,sex,ethnicity,dob
 7048,Khoo Ooi Seng,M,Chinese,1944-xx-xx
 7049,Lim Thuang Seng,M,Chinese,1950-04-21
 7050,Zahari bin Abd. Hamid,M,Malay,xxxx-xx-xx
-7051,Abdul Sani bin Haji Ali,M,Malay,xxxx-xx-xx
+7051,Abdul Sani bin Ali,M,Malay,xxxx-xx-xx
 7052,Mohamad Satim bin Diman,M,Malay,1956-02-24
 7053,Liew Yuen Keong,M,Chinese,1960-12-12
 7054,Lim Soon Hong,M,Chinese,1956-10-09
 7055,Hoh Hee Lee,M,Chinese,1960-07-20
 7056,Ariffin bin Shafie,M,Malay,xxxx-xx-xx
 7057,Chang Chan Man,M,Chinese,xxxx-xx-xx
-7058,Pius Martin A/L S Martin,M,Indian,xxxx-xx-xx
+7058,Pius Martin a/l S Martin,M,Indian,xxxx-xx-xx
 7059,Mohd Nor Raha bin Masod,M,Malay,xxxx-xx-xx
 7060,Mohd. Mokhtar bin Ahmad Dahlan,M,Malay,1944-xx-xx
 7061,A. Ghani bin Harun,M,Malay,xxxx-xx-xx
 7062,Wan Ahmad bin Othman,M,Malay,xxxx-xx-xx
 7063,Mohd Zin bin Mohamed,M,Malay,1953-03-28
 7064,Wan Mohamad Halim bin Wan Ahmad Tajuddin,M,Malay,xxxx-xx-xx
-7065,Rajakupal A/L Sinathamby,M,Indian,1941-01-11
+7065,Rajakupal a/l Sinathamby,M,Indian,1941-01-11
 7066,Salmah Bt B. Safarman,F,Malay,xxxx-xx-xx
 7067,Shareh bin Mansor,M,Malay,1946-11-11
 7068,Jaei bin Ismail,M,Malay,1954-02-15
 7069,Mohd Kusrin bin Rahmad,M,Malay,1943-04-09
 7070,Abdul Rahman bin Palil,M,Malay,1956-10-29
-7071,Pu Palan A/L Muthusamy,M,Indian,xxxx-xx-xx
+7071,Pu Palan a/l Muthusamy,M,Indian,xxxx-xx-xx
 7072,Abdul Fatah bin Iskandar,M,Malay,1956-08-01
 7073,Ei Kim Hock,M,Chinese,1961-06-20
 7074,Khanafi bin Arsad,M,Malay,xxxx-xx-xx
@@ -7085,9 +7085,9 @@ candidate_uid,name,sex,ethnicity,dob
 7084,Zakaria bin Abd. Rahman,M,Malay,1945-12-12
 7085,See Ah Kow,M,Chinese,1951-xx-xx
 7086,Abdul Rashid bin Abas,M,Malay,1954-10-30
-7087,Ramakrishnan A/L P. Parianan,M,Indian,1950-11-06
+7087,Ramakrishnan a/l P. Parianan,M,Indian,1950-11-06
 7088,Mohammed Zain bin Yaacob,M,Malay,xxxx-xx-xx
-7089,Sundram Nagendaran A/L Muthaya,M,Indian,1944-xx-xx
+7089,Sundram Nagendaran a/l Muthaya,M,Indian,1944-xx-xx
 7090,Ramli bin Md Nor,M,Malay,1952-03-15
 7091,Ghazalli bin Khamis,M,Malay,1953-02-16
 7092,Kamaruddin bin Mohd Din,M,Malay,1954-01-19
@@ -7110,7 +7110,7 @@ candidate_uid,name,sex,ethnicity,dob
 7109,Wong Bee Kar,F,Chinese,1963-11-07
 7110,Muhamad Shahlan bin Shaid,M,Malay,1950-03-27
 7111,Ho Yok Kee,M,Chinese,1952-01-24
-7112,Gunasekaren A/L Palasamy,M,Indian,1959-05-13
+7112,Gunasekaren a/l Palasamy,M,Indian,1959-05-13
 7113,Lee Chee Keong,M,Chinese,1954-04-05
 7114,Hamdan bin Mohamad,M,Malay,1953-04-11
 7115,Sukiman bin Tukimin,M,Malay,xxxx-xx-xx
@@ -7120,7 +7120,7 @@ candidate_uid,name,sex,ethnicity,dob
 7119,Sainy bin Edris,M,Malay,1949-08-16
 7120,Muhammed bin Nabun,M,Malay,xxxx-xx-xx
 7121,Faisal bin Ahmad,M,Malay,1951-12-07
-7122,Krishnan A/L Sellappan,M,Indian,1951-01-02
+7122,Krishnan a/l Sellappan,M,Indian,1951-01-02
 7123,Lim Seng Chuan,M,Chinese,1953-07-18
 7124,Mohd. Nor (Long) bin Md. Said,M,Malay,1936-03-27
 7125,Mohd Zin bin Mohd Said,M,Malay,xxxx-xx-xx
@@ -7443,7 +7443,7 @@ candidate_uid,name,sex,ethnicity,dob
 7442,Osman bin Abdul Rahman,M,Malay,xxxx-xx-xx
 7443,Zaman Huri bin Samsudin,M,Malay,1952-01-10
 7444,Mohamad Dahalan bin Arshad,M,Malay,1930-12-21
-7445,Rajendiran A/L Nallaiya,M,Indian,1959-01-14
+7445,Rajendiran a/l Nallaiya,M,Indian,1959-01-14
 7446,Ng Lum Yong,M,Chinese,1961-06-06
 7447,Kamaludin bin Abdul Rahman,M,Malay,1949-05-21
 7448,Amihamzah bin Ahmad,M,Malay,xxxx-xx-xx
@@ -7463,7 +7463,7 @@ candidate_uid,name,sex,ethnicity,dob
 7462,Mohd Norman bin Toha,M,Malay,1966-02-25
 7463,Zaitun binti Mohd Kasim,F,Malay,1955-01-02
 7464,Mohd Hatta bin Md. Ramli,M,Malay,1956-09-11
-7465,Sivarasa A/L K. Rasiah,M,Indian,1956-12-08
+7465,Sivarasa a/l K. Rasiah,M,Indian,1956-12-08
 7466,Mohd Nor bin Nawawi,M,Malay,1949-12-23
 7467,Ronnie Liu Tian Khiew,M,Chinese,1958-03-29
 7468,Chew Mei Fun,F,Chinese,1964-10-17
@@ -7474,14 +7474,14 @@ candidate_uid,name,sex,ethnicity,dob
 7473,Mohamad Ezam bin Mohd Nor,M,Malay,1967-04-24
 7474,Dzulkefly bin Ahmad,M,Malay,1956-01-01
 7475,Komala Devi a/p M Perumal,F,Indian,1954-08-14
-7476,Tamilarasan A/L Naranasamy,M,Indian,1966-07-28
+7476,Tamilarasan a/l Naranasamy,M,Indian,1966-07-28
 7477,Tan Siow Eng,M,Chinese,1963-07-04
 7478,Saari bin Sungib,M,Malay,1957-08-03
 7479,Mohamed Makki bin Ahmad,M,Malay,1955-07-25
 7480,Mano,M,Indian,xxxx-xx-xx
 7481,Ma Woei Chyi,M,Chinese,1971-11-04
 7482,Zulhasnan bin Rafique,M,Malay,1954-09-20
-7483,Manoharan A/L Malayalam,M,Indian,1961-09-13
+7483,Manoharan a/l Malayalam,M,Indian,1961-09-13
 7484,Mohamad Noor bin Mohamad,M,Malay,1958-08-02
 7485,Billi Lim Peng Soon,M,Chinese,1950-11-29
 7486,Zainur bin Zakaria,M,Malay,1949-05-11
@@ -7495,7 +7495,7 @@ candidate_uid,name,sex,ethnicity,dob
 7494,Hamdan bin Hashim,M,Malay,xxxx-xx-xx
 7495,Ruslan bin Kasim,M,Malay,xxxx-xx-xx
 7496,Lee Peng Fee,M,Chinese,xxxx-xx-xx
-7497,Gobalakrishnan A/L Nagapan,M,Indian,1960-03-23
+7497,Gobalakrishnan a/l Nagapan,M,Indian,1960-03-23
 7498,S. A. Anpalagan,M,Indian,1963-xx-xx
 7499,Chua Tian Chang (Tian Chua),M,Chinese,1963-12-21
 7500,Khalid bin Jaafar,M,Malay,1955-10-23
@@ -7601,7 +7601,7 @@ candidate_uid,name,sex,ethnicity,dob
 7600,Rosnah binti Abd Majid,F,Malay,1953-06-04
 7601,Mat Akhair bin Shafie,M,Malay,1949-08-14
 7602,Abdul Halim bin Mohd Nasir,M,Malay,1965-02-01
-7603,Gnanaguru A/L Ganisan,M,Indian,1961-07-21
+7603,Gnanaguru a/l Ganisan,M,Indian,1961-07-21
 7604,Abd Raof bin Che Mes,M,Malay,1943-10-14
 7605,Abd. Wahab bin Din,M,Malay,1941-08-11
 7606,Ahmad bin Zakaria,M,Malay,1953-09-09
@@ -7628,7 +7628,7 @@ candidate_uid,name,sex,ethnicity,dob
 7627,Ahmad Baihaki bin Atiqullah,M,Malay,1973-11-02
 7628,Tuan Mohamad Hashim bin Tuan Yaacob,M,Malay,1956-03-31
 7629,Mohd Fauzi bin Ismail,M,Malay,xxxx-xx-xx
-7630,Mohd Zain bin Yasin,M,Malay,xxxx-xx-xx
+7630,Mohd Zain bin Yasin,M,Malay,1965-10-13
 7631,Makhtar,M,Malay,xxxx-xx-xx
 7632,Wan Ismail bin Wan Jusoh,M,Malay,1955-07-12
 7633,Mat Riffin bin Said,M,Malay,1947-01-02
@@ -7662,7 +7662,7 @@ candidate_uid,name,sex,ethnicity,dob
 7661,Ramlan bin Ali,M,Malay,1960-08-30
 7662,Asha'ari bin Idris,M,Malay,1950-01-09
 7663,Rozali bin Muhammad,M,Malay,xxxx-xx-xx
-7664,Hassan bin Ali (Haji Hassan bin Ali),M,Malay,xxxx-xx-xx
+7664,Hassan bin Ali,M,Malay,xxxx-xx-xx
 7665,Mohamad bin Ngah,M,Malay,xxxx-xx-xx
 7666,Zakaria bin Dagang,M,Malay,1958-10-23
 7667,Alias bin Razak,M,Malay,1959-06-21
@@ -7709,7 +7709,7 @@ candidate_uid,name,sex,ethnicity,dob
 7708,Looi Swee Cheang,M,Chinese,1950-07-26
 7709,Tan Tee Beng,M,Chinese,1972-02-21
 7710,Law Heng Kiang,M,Chinese,1961-12-20
-7711,Jagdeep Singh Deo A/L Karpal Singh,M,Other,1971-05-03
+7711,Jagdeep Singh Deo a/l Karpal Singh,M,Other,1971-05-03
 7712,Fong Kam Cheong,M,Chinese,1972-11-19
 7713,Salma binti Ismail,F,Malay,1959-11-15
 7714,Abdul Aziz bin Ismail,M,Malay,1969-06-06
@@ -7734,10 +7734,10 @@ candidate_uid,name,sex,ethnicity,dob
 7733,Mohd Zulkifli bin Ahmad,M,Malay,xxxx-xx-xx
 7734,Saarani bin Mohamad,M,Malay,1960-03-13
 7735,Ahmad Mazlan bin Othman,M,Malay,1957-08-19
-7736,Ponniah A/L Narayanasamy,M,Indian,xxxx-xx-xx
+7736,Ponniah a/l Narayanasamy,M,Indian,xxxx-xx-xx
 7737,Zulkifly bin Ibrahim,M,Malay,1962-04-22
 7738,Yahya Ariff,M,Malay,xxxx-xx-xx
-7739,Sivakumar A/L Varatharaju Naidu,M,Indian,1970-12-05
+7739,Sivakumar a/l Varatharaju Naidu,M,Indian,1970-12-05
 7740,Keong Meng Sing,M,Chinese,1954-04-16
 7741,Che Mat bin Padali,M,Malay,1950-05-18
 7742,Raja Ahmad Kamar bin Raja Adenan,M,Malay,1935-12-15
@@ -7746,7 +7746,7 @@ candidate_uid,name,sex,ethnicity,dob
 7745,Faizol Fadzli bin Mohamed,M,Malay,xxxx-xx-xx
 7746,Usaili bin Alias,M,Malay,1952-09-08
 7747,Shuib bin Sahudin,M,Malay,1952-10-04
-7748,Narayanan A/L Alluriah,M,Indian,1946-09-20
+7748,Narayanan a/l Alluriah,M,Indian,1946-09-20
 7749,Mohd Hanafiah bin Man,M,Malay,1967-01-11
 7750,Lau Jiann Chang,M,Chinese,1969-06-21
 7751,Thomas Su Keong Siong,M,Chinese,1966-09-18
@@ -7758,13 +7758,13 @@ candidate_uid,name,sex,ethnicity,dob
 7757,K. Munisamy,M,Indian,xxxx-xx-xx
 7758,Abdullah bin Ahmad,M,Malay,xxxx-xx-xx
 7759,Mohd Misbahul Munir bin Masduki (Ustaz Misbah),M,Malay,1963-06-01
-7760,Annah Dorai A/L Pakiri,M,Indian,1958-07-25
+7760,Annah Dorai a/l Pakiri,M,Indian,1958-07-25
 7761,Seah Leong Peng,M,Chinese,1966-11-15
 7762,Teiw Book Toh,M,Chinese,xxxx-xx-xx
 7763,Hamdan bin Mohd Taha,M,Malay,1966-11-18
 7764,Onn bin Hamzah (Che Onn),M,Malay,1948-02-25
-7765,Bathamanathan A/L Rajoo,M,Indian,1950-12-04
-7766,Ganesan A/L Retanam,M,Indian,1952-03-25
+7765,Bathamanathan a/l Rajoo,M,Indian,1950-12-04
+7766,Ganesan a/l Retanam,M,Indian,1952-03-25
 7767,Mohd Tarmizi bin Ab Rahman,M,Malay,1965-04-08
 7768,Razik bin Jusoh,M,Malay,xxxx-xx-xx
 7769,Mohd Yusof bin Abdul Rahman,M,Malay,xxxx-xx-xx
@@ -7798,7 +7798,7 @@ candidate_uid,name,sex,ethnicity,dob
 7797,Ahmad Nafiri bin Md Toazi,M,Malay,1955-05-15
 7798,Mohd Sharkar bin Shamsudin,M,Malay,1962-07-25
 7799,Abu Kassim bin Manaf,M,Malay,1953-01-02
-7800,Davendran A/L Murthy,M,Indian,1954-03-26
+7800,Davendran a/l Murthy,M,Indian,1954-03-26
 7801,Abdul Wahid bin Ahmad Shuhaime,M,Malay,xxxx-xx-xx
 7802,Idris bin Omar,M,Malay,1935-10-18
 7803,Tan Ah Been,M,Chinese,1956-06-24
@@ -7817,14 +7817,14 @@ candidate_uid,name,sex,ethnicity,dob
 7816,Mohamed Idris bin Abu Bakar,M,Malay,1951-10-20
 7817,Mazalan bin Hussin,M,Malay,1942-06-28
 7818,Mohd Yahya bin Mat Sahri (Pakya),M,Malay,1966-03-15
-7819,Krishnan A/L Veeriah,M,Indian,1961-10-07
+7819,Krishnan a/l Veeriah,M,Indian,1961-10-07
 7820,Mohd Yusof bin Ab. Rahim,M,Malay,xxxx-xx-xx
 7821,Abd Muhaimin bin Mohammad Shahar,M,Malay,1963-12-10
 7822,Surder Singh,M,Other,xxxx-xx-xx
 7823,Lim Ching How,M,Chinese,1963-01-15
 7824,Idrus bin Wan Chik,M,Malay,1959-05-06
 7825,Sulaiman bin Samat,M,Malay,xxxx-xx-xx
-7826,Jagarasah A/L Verasamy,M,Indian,1942-09-15
+7826,Jagarasah a/l Verasamy,M,Indian,1942-09-15
 7827,Razali Ramli,M,Malay,xxxx-xx-xx
 7828,Abdul Ghani bin Mohd Yatim,M,Malay,1955-10-15
 7829,Ismail bin Kamus,M,Malay,1948-12-02
@@ -7847,7 +7847,7 @@ candidate_uid,name,sex,ethnicity,dob
 7846,Mahfodz bin Mohamed,M,Malay,1944-10-16
 7847,Ahmad Nawawi bin M. Zin,M,Malay,1962-03-22
 7848,Omar bin Hashim,M,Malay,1948-10-23
-7849,Kamalam A/P Annasamy (Kamala Ganapathy),F,Indian,1948-09-28
+7849,Kamalam a/p Annasamy (Kamala Ganapathy),F,Indian,1948-09-28
 7850,Noor Najhan bin Mohamad Salleh,M,Malay,1971-08-24
 7851,Hamidzun bin Khairuddin,M,Malay,1966-04-30
 7852,Zakaria (Zainal) bin Md. Derus,M,Malay,1946-09-28
@@ -7859,7 +7859,7 @@ candidate_uid,name,sex,ethnicity,dob
 7858,Ramli bin Sidom,M,Malay,1966-01-10
 7859,Sukiran bin Sarman,M,Malay,1943-03-02
 7860,Mohammad Sahar bin Mat Din,M,Malay,1970-06-20
-7861,Titus Gladwyn A/L S.G. Gomez,M,Other,1954-02-02
+7861,Titus Gladwyn a/l S.G. Gomez,M,Other,1954-02-02
 7862,Siow Yoke Kim,M,Chinese,1958-07-26
 7863,Bohari bin Abd. Latif,M,Malay,1956-09-20
 7864,Abu Bakar bin Muhd. Yusoff,M,Malay,1942-07-22
@@ -7868,7 +7868,7 @@ candidate_uid,name,sex,ethnicity,dob
 7867,Ramli bin Abu Bakar,M,Malay,1959-10-22
 7868,Ho Chew Kuan,M,Chinese,1952-07-21
 7869,Ibrahim bin Yusof,M,Malay,xxxx-xx-xx
-7870,Rajagopalu A/L Thamotharapillay,M,Indian,1951-03-25
+7870,Rajagopalu a/l Thamotharapillay,M,Indian,1951-03-25
 7871,Mohammad Shariffuddin bin Musim,M,Malay,1961-06-19
 7872,Aziz bin Ramli,M,Malay,1968-03-02
 7873,Gan Chin Yap,M,Chinese,1944-04-01
@@ -7897,8 +7897,8 @@ candidate_uid,name,sex,ethnicity,dob
 7896,Ishak bin Md Sood,M,Malay,1957-07-17
 7897,Rosli bin Yaakop,M,Malay,1952-07-10
 7898,Hassan bin Alias,M,Malay,1967-04-06
-7899,Arumugam A/L Karuppan,M,Indian,1946-03-29
-7900,Yohevel A/L Esekimuthu,M,Indian,1952-01-02
+7899,Arumugam a/l Karuppan,M,Indian,1946-03-29
+7900,Yohevel a/l Esekimuthu,M,Indian,1952-01-02
 7901,Julasapiyah bin Kassim,M,Malay,1969-09-22
 7902,Nawi bin Ahmad,M,Malay,1942-01-15
 7903,Muhd Zahid bin Md Arip,M,Malay,1966-06-22
@@ -7908,7 +7908,7 @@ candidate_uid,name,sex,ethnicity,dob
 7907,Ku Choi,M,Chinese,1944-03-17
 7908,Zamani bin Abd. Wahid,M,Malay,1956-06-06
 7909,Zainon binti Jaafar,F,Malay,1947-03-06
-7910,Raghavan A/L Raman,M,Indian,1940-11-24
+7910,Raghavan a/l Raman,M,Indian,1940-11-24
 7911,Abdul Kadir bin Daud,M,Malay,1953-01-13
 7912,Jaamat bin Omar,M,Malay,1961-11-06
 7913,Yaakub bin Md. Amin,M,Malay,1950-12-16
@@ -7980,7 +7980,7 @@ candidate_uid,name,sex,ethnicity,dob
 7979,Joseph Jindy anak Peter Rosen,M,Bumi Sarawak,1966-06-10
 7980,Norita binti Azmi,F,Malay,xxxx-xx-xx
 7981,Abdul Rahman bin Junaidi,M,Bumi Sarawak,1961-01-26
-7982,Abang Yusop bin Abang Haji Razak,M,Malay,1954-06-01
+7982,Abang Yusop bin Abang Razak,M,Malay,1954-06-01
 7983,Ahmad Lukman bin Aba Ibrahim,M,Malay,1961-10-27
 7984,Ismadi bin Abdul Wahid,M,Malay,xxxx-xx-xx
 7985,Mustafa Jinal Abidin bin Mohamed,M,Malay,xxxx-xx-xx
@@ -7994,17 +7994,17 @@ candidate_uid,name,sex,ethnicity,dob
 7993,Cobbold anak Lusoi,M,Bumi Sarawak,1962-03-15
 7994,Augustine Bagat anak Sikut,M,Bumi Sarawak,1945-11-11
 7995,Adam bin Ahid,M,Bumi Sarawak,1951-07-02
-7996,Shapee bin Hj Lahat,M,Malay,1941-01-30
+7996,Shapee bin Lahat,M,Malay,1941-01-30
 7997,Muhammad Husaini bin Mustapha,M,Malay,xxxx-xx-xx
 7998,Mohamad bin Akek,M,Malay,1950-02-28
 7999,Dayang Saadiah binti Mas,F,Malay,xxxx-xx-xx
-8000,Abg. Ahmad bin Abg. Haji Dahlan ,M,Malay,1957-05-13
+8000,Abang Ahmad bin Abang Dahlan ,M,Malay,1957-05-13
 8001,Mohtada bin Dol,M,Malay,1958-12-03
 8002,Lawrence Lendang,M,Bumi Sarawak,xxxx-xx-xx
 8003,Marcus anak Kanyong,M,Bumi Sarawak,1962-12-18
 8004,Asem anak Mansor,M,Bumi Sarawak,xxxx-xx-xx
 8005,Johnichal Rayong anak Ngipa,M,Bumi Sarawak,1962-09-19
-8006,Abg Ahmad Arabi bin Abg Bolhassan,M,Malay,1956-01-14
+8006,Abang Ahmad Arabi bin Abang Bolhassan,M,Malay,1956-01-14
 8007,James Entika anak Gubar,M,Bumi Sarawak,1945-06-17
 8008,Chin Ma Tak (Raphael Mada),M,Bumi Sarawak,1948-02-26
 8009,Abang Othman bin Abang Gom,M,Bumi Sarawak,1944-02-08
@@ -8113,11 +8113,11 @@ candidate_uid,name,sex,ethnicity,dob
 8112,Nasarudin bin Hashim,M,Malay,1950-07-20
 8113,Lee Boon Chye,M,Chinese,1959-09-26
 8114,Mohd Radzi Othman,M,Malay,xxxx-xx-xx
-8115,Ayyathurai A/L Achutharaman,M,Indian,xxxx-xx-xx
-8116,Gobalakrishnan A/L Nagapan,M,Indian,1960-03-23
+8115,Ayyathurai a/l Achutharaman,M,Indian,xxxx-xx-xx
+8116,Gobalakrishnan a/l Nagapan,M,Indian,1960-03-23
 8117,Wu Him Ven,M,Chinese,1964-12-25
 8118,Shamsuddin Abdul Rahman,M,Malay,xxxx-xx-xx
-8119,Devamany A/L S. Krishnasamy,M,Indian,1958-09-10
+8119,Devamany a/l S. Krishnasamy,M,Indian,1958-09-10
 8120,Mohamad Shahrum bin Osman,M,Malay,1953-07-15
 8121,Hamzah bin Jaaffar,M,Malay,1965-09-25
 8122,Wan Adnan bin Wan Mamat,M,Malay,1960-03-01
@@ -8134,7 +8134,7 @@ candidate_uid,name,sex,ethnicity,dob
 8133,Koh Swe Yong,M,Chinese,1951-02-08
 8134,Raman bin Ismail,M,Malay,1959-05-02
 8135,Rozaidah binti Talib,F,Malay,1963-07-07
-8136,Xavier Jayakumar A/L Arulanandam,M,Indian,1953-01-20
+8136,Xavier Jayakumar a/l Arulanandam,M,Indian,1953-01-20
 8137,Markiman bin Kobiran,M,Malay,1957-05-13
 8138,Yeop Adlan bin Che Rose,M,Malay,1943-07-01
 8139,Wong Choong Yun,M,Chinese,1938-09-20
@@ -8145,8 +8145,8 @@ candidate_uid,name,sex,ethnicity,dob
 8144,Abdul Aziz bin Shamsuddin,M,Malay,1938-06-10
 8145,Ang Hiok Gai,M,Chinese,1957-06-24
 8146,Siti Mariah binti Mahmud,F,Malay,1958-02-14
-8147,Krisnasamy A/L Thevarayan,M,Indian,1958-08-09
-8148,Vigneswaran A/L Sanasee,M,Indian,1965-12-16
+8147,Krisnasamy a/l Thevarayan,M,Indian,1958-08-09
+8148,Vigneswaran a/l Sanasee,M,Indian,1965-12-16
 8149,Zulkifli bin Noordin,M,Malay,1962-02-19
 8150,Yew Teong Look,M,Chinese,1956-08-26
 8151,Sahri bin Bahari,M,Malay,1959-06-01
@@ -8161,7 +8161,7 @@ candidate_uid,name,sex,ethnicity,dob
 8160,Choong Yen Loong,M,Chinese,1947-09-02
 8161,Annuar bin Mohd Salleh,M,Malay,1940-02-06
 8162,Chan Su Sann,F,Chinese,1975-05-27
-8163,Sothinathan A/L Sinna Goundar,M,Indian,1960-04-04
+8163,Sothinathan a/l Sinna Goundar,M,Indian,1960-04-04
 8164,Ab Manap bin Sahardin,M,Malay,1945-12-19
 8165,Abdul Razakek bin Abdul Rahim,M,Malay,1960-02-17
 8166,Muhamad bin Burok,M,Malay,1946-06-04
@@ -8170,7 +8170,7 @@ candidate_uid,name,sex,ethnicity,dob
 8169,Mohd Ruddin Abd Ghani,M,Malay,1954-03-22
 8170,Wong Nai Chee,M,Chinese,1969-01-01
 8171,Mohd Said bin Yusof,M,Malay,1953-04-24
-8172,Subramaniam A/L Sathasivam,M,Indian,1953-04-01
+8172,Subramaniam a/l Sathasivam,M,Indian,1953-04-01
 8173,Zulkaply bin Salleh,M,Malay,1939-04-30
 8174,Baharum bin Mohamed,M,Malay,1957-02-04
 8175,Hamim bin Samuri,M,Malay,1958-06-13
@@ -8246,7 +8246,7 @@ candidate_uid,name,sex,ethnicity,dob
 8245,Sabry bin Ahmad,M,Malay,1953-xx-xx
 8246,Rusli bin Mat Husin,M,Malay,xxxx-xx-xx
 8247,Ahmad Adnan bin Fadzil,M,Malay,1973-05-13
-8248,Oui Ng Ah Lan @ Ah Lan,M,Chinese,1942-xx-xx
+8248,Oui Ah Lan @ Ng Ah Lan,M,Chinese,1942-xx-xx
 8249,Khoo Yang Chong,M,Chinese,1943-xx-xx
 8250,Mohd Yusoff Madarsa,M,Malay,xxxx-xx-xx
 8251,Ku Mahmood bin Ku Ismail,M,Malay,xxxx-xx-xx
@@ -8311,7 +8311,7 @@ candidate_uid,name,sex,ethnicity,dob
 8310,Ilias bin Husain,M,Malay,1951-12-31
 8311,Azmi bin Ishak,M,Malay,1961-05-27
 8312,Sharifuddin bin Drahman (Abdul Rahman),M,Malay,1947-09-10
-8313,Abdul Fattah bin Haji Mahmood,M,Malay,1963-09-16
+8313,Abdul Fattah bin Mahmood,M,Malay,1963-09-16
 8314,Baharudin bin Yusof,M,Malay,1955-09-01
 8315,Wan Yusoff bin Wan Mustafa,M,Malay,1963-11-20
 8316,Shuhanie (Nuainun) binti Deraman,F,Malay,1967-03-19
@@ -8349,7 +8349,7 @@ candidate_uid,name,sex,ethnicity,dob
 8348,Rozi bin Mamat,M,Malay,1971-07-09
 8349,Wan Sagar Bin Wan Embong,M,Malay,1956-06-30
 8350,Komaruddin Bin Ab Rahman,M,Malay,xxxx-xx-xx
-8351,Mohd Razki bin Haji Yah @ Haji Alias,M,Malay,1972-03-30
+8351,Mohd Razki bin Yah @ Alias,M,Malay,1972-03-30
 8352,Din bin Adam,M,Malay,1961-04-14
 8353,Ahmad Kamal bin Abdullah,M,Malay,1966-06-25
 8354,Mohd Ariffin Bin Abdullah,M,Malay,1974-03-07
@@ -8362,7 +8362,7 @@ candidate_uid,name,sex,ethnicity,dob
 8361,Ab Rahman bin Salleh,M,Malay,1952-01-09
 8362,Ngu Lek Wah,M,Chinese,1960-01-02
 8363,Ooi Chuan Aik,M,Chinese,1963-06-26
-8364,Subbaiyah A/L Palaniappan,M,Indian,1949-xx-xx
+8364,Subbaiyah a/l Palaniappan,M,Indian,1949-xx-xx
 8365,Arif Shah bin Omar Shah,M,Malay,1956-11-02
 8366,Anuar bin Shaari,M,Malay,1968-11-15
 8367,Abdul Jalil bin Abdul Majid,M,Malay,1954-03-14
@@ -8370,7 +8370,7 @@ candidate_uid,name,sex,ethnicity,dob
 8369,Tan Teik Cheng,M,Chinese,1961-03-17
 8370,Tan Kim Hooi,M,Chinese,1959-02-19
 8371,Ng Yeow Chong,M,Chinese,1950-05-27
-8372,Ganesh A/L Kailasam,M,Indian,1953-09-25
+8372,Ganesh a/l Kailasam,M,Indian,1953-09-25
 8373,Mohd Foad bin Mat Isa,M,Malay,1962-04-01
 8374,Ismail bin Salleh,M,Malay,xxxx-xx-xx
 8375,Lim Cheng Hoe,M,Chinese,1963-10-28
@@ -8420,7 +8420,7 @@ candidate_uid,name,sex,ethnicity,dob
 8419,Mohammad Nordin bin Jaafar,M,Malay,1968-01-15
 8420,Rosli bin Husin,M,Malay,1956-08-18
 8421,Mohd. Idris bin Zakaria,M,Malay,xxxx-xx-xx
-8422,Simon Uthaya Kumar A/L Sellaiyah,M,Indian,1958-11-01
+8422,Simon Uthaya Kumar a/l Sellaiyah,M,Indian,1958-11-01
 8423,Mohamed Ghazali bin Tain,M,Malay,xxxx-xx-xx
 8424,Yew Tian Hoe,M,Chinese,1961-11-18
 8425,Ng Chii Fa,M,Chinese,1957-12-03
@@ -8430,14 +8430,14 @@ candidate_uid,name,sex,ethnicity,dob
 8429,Mohd. Zainudin bin Mohd Yusof,M,Malay,1942-11-29
 8430,Ahamad bin Pakeh Adam,M,Malay,1943-08-02
 8431,Ding Chin Aik,M,Chinese,1942-06-12
-8432,Kunasekaran A/L Krishnan,M,Indian,1964-02-04
+8432,Kunasekaran a/l Krishnan,M,Indian,1964-02-04
 8433,Zulkurnaini bin Ibrahim,M,Malay,1942-08-14
 8434,Teh Hock Ke,M,Chinese,1950-09-29
 8435,Vincent Hooi Wy-Hon,M,Chinese,1972-04-19
 8436,Raymond Chong Yoh Chyi,M,Chinese,1973-02-01
 8437,Tan Seng Toh,M,Chinese,1968-06-27
 8438,Gooi Seng Teik,M,Chinese,1954-02-17
-8439,Sivasubramaniam A/L Athi Narayanan,M,Indian,1966-11-28
+8439,Sivasubramaniam a/l Athi Narayanan,M,Indian,1966-11-28
 8440,Hee Yit Foong,F,Chinese,1963-12-04
 8441,Mah Hang Soon,M,Chinese,1965-07-19
 8442,Loh Koi Pin (Loo Koi Pin),M,Chinese,1946-05-18
@@ -8445,16 +8445,16 @@ candidate_uid,name,sex,ethnicity,dob
 8444,Che' Ri bin Md Daud,M,Malay,1945-01-23
 8445,Chen Fook Chye,M,Chinese,1960-11-19
 8446,Hamidah binti Osman,F,Malay,1961-09-01
-8447,Balakrishnan A/L Rengasamy,M,Indian,1963-12-29
+8447,Balakrishnan a/l Rengasamy,M,Indian,1963-12-29
 8448,Alex Chan Chin Chee,M,Chinese,1957-07-25
 8449,Beh Boon Chong,M,Chinese,1970-11-16
 8450,Abdul Rahman bin Said Alli,M,Malay,1949-10-16
-8451,Francis A/L Sebastian,M,Indian,1952-11-23
+8451,Francis a/l Sebastian,M,Indian,1952-11-23
 8452,Samsudin bin Abu Hassan,M,Malay,1959-07-10
 8453,Ibrahim bin Katop,M,Malay,1957-03-18
 8454,Tajuddin bin Abdul Rahman,M,Malay,1948-01-17
 8455,Ling Mee Lin,F,Chinese,xxxx-xx-xx
-8456,Ramachandran A/L Mookiah,M,Indian,1946-08-14
+8456,Ramachandran a/l Mookiah,M,Indian,1946-08-14
 8457,Norazli bin Musa,M,Malay,1967-03-24
 8458,Mohd Ishak bin Mohd Som,M,Malay,1961-05-07
 8459,Suwardi bin Sapuan,M,Malay,1945-12-27
@@ -8465,7 +8465,7 @@ candidate_uid,name,sex,ethnicity,dob
 8464,Sivanesan a/l Achalingam,M,Indian,1956-03-15
 8465,Mohd Khusairi bin Abdul Talib,M,Malay,1961-01-20
 8466,Jamaluddin Mohd Radzi,M,Malay,1956-11-09
-8467,Appalanaidu A/L Rajoo,M,Indian,1944-07-06
+8467,Appalanaidu a/l Rajoo,M,Indian,1944-07-06
 8468,Choong Chin Yan,M,Chinese,1953-07-08
 8469,Go Mong Nging,M,Chinese,1954-12-09
 8470,Wan Rosdy bin Wan Ismail,M,Malay,1958-10-01
@@ -8547,7 +8547,7 @@ candidate_uid,name,sex,ethnicity,dob
 8546,Ean Yong Hian Wah,M,Chinese,1979-06-14
 8547,Yim Chee Pool,M,Chinese,xxxx-xx-xx
 8548,Yong Dai Ying,F,Chinese,1953-02-14
-8549,Panneerselvam A/L Varathan,M,Indian,1960-05-18
+8549,Panneerselvam a/l Varathan,M,Indian,1960-05-18
 8550,Muhammad Bushro bin Mat Johor,M,Malay,1959-05-04
 8551,Mohamad Ariff bin Md Yusof,M,Malay,1949-01-22
 8552,Annette Syed Mohamed (Animah Annette Ferrar),F,Other,1947-06-17
@@ -8557,12 +8557,12 @@ candidate_uid,name,sex,ethnicity,dob
 8556,Khoh Siew Kim,M,Chinese,1960-09-25
 8557,Norliza binti Ahmad,F,Malay,1966-xx-xx
 8558,Halimah binti Ali,F,Malay,1960-06-27
-8559,Krishnasamy A/L Punusamy,M,Indian,1960-01-11
+8559,Krishnasamy a/l Punusamy,M,Indian,1960-01-11
 8560,Teh Kim Poo,M,Chinese,1951-08-26
 8561,Ching Su Chen,M,Chinese,1954-12-20
 8562,Thye Kim Kiong,M,Chinese,1956-07-03
 8563,Tan Ah Kow,M,Chinese,1966-05-30
-8564,Pupalan A/L Muthusamy,M,Indian,xxxx-xx-xx
+8564,Pupalan a/l Muthusamy,M,Indian,xxxx-xx-xx
 8565,Amzah bin Umar,M,Malay,1944-03-27
 8566,Mohamad Johari bin Yasin,M,Malay,xxxx-xx-xx
 8567,Ahmad Yunus bin Hairi,M,Malay,1965-03-20
@@ -8580,7 +8580,7 @@ candidate_uid,name,sex,ethnicity,dob
 8579,Jalaluddin bin Alias,M,Malay,1963-09-05
 8580,Rebin bin Birham,M,Malay,1975-12-17
 8581,Aziz bin Shamsuddin,M,Malay,1954-09-08
-8582,Raja Gopal A/L Somoo,M,Indian,1949-06-29
+8582,Raja Gopal a/l Somoo,M,Indian,1949-06-29
 8583,Lew Kwee Leong,M,Chinese,1965-07-16
 8584,Loke Siew Fook (Anthony Loke),M,Chinese,1977-04-28
 8585,Yap Yew Weng,M,Chinese,1963-12-27
@@ -8599,7 +8599,7 @@ candidate_uid,name,sex,ethnicity,dob
 8598,Bibi Sharliza binti Mohd Khalid,F,Malay,1970-11-20
 8599,Mokhtar bin Borhan,M,Malay,1946-06-08
 8600,Mohamad Rais bin Zainuddin,M,Malay,1956-11-25
-8601,Mohamad bin Haji Hasan (Tok Mat),M,Malay,1956-05-02
+8601,Mohamad bin Hasan (Tok Mat),M,Malay,1956-05-02
 8602,Badrul Hisham bin Shaharin,M,Malay,1978-09-23
 8603,Zainal bin Jinin,M,Malay,xxxx-xx-xx
 8604,Awaludin bin Said,M,Malay,1960-08-24
@@ -8618,9 +8618,9 @@ candidate_uid,name,sex,ethnicity,dob
 8617,Mohd. Amir bin Yaakub,M,Malay,1938-06-17
 8618,Mohd Ali bin Ujang,M,Malay,1961-01-08
 8619,Ab Wahab bin Ab Latip,M,Malay,1956-05-28
-8620,Yahaya bin Ja'Alam,M,Malay,1947-01-30
+8620,Yahaya bin Ja'alam,M,Malay,1947-01-30
 8621,Abdul Ghafar bin Atan,M,Malay,1956-07-12
-8622,Sibapatham A/L Sinnavar,M,Indian,1950-11-21
+8622,Sibapatham a/l Sinnavar,M,Indian,1950-11-21
 8623,Liou Chen Kuang,M,Chinese,1974-07-19
 8624,Azmi bin Kamis,M,Malay,1964-09-15
 8625,Jamilludin bin Wahid,M,Malay,1946-01-17
@@ -8639,7 +8639,7 @@ candidate_uid,name,sex,ethnicity,dob
 8638,Abdul Wahab bin Ibrahim,M,Malay,1948-02-01
 8639,Mohd Aris bin Omar,M,Malay,xxxx-xx-xx
 8640,Kamarudin bin Sedik,M,Malay,1969-02-26
-8641,Jayathas A/L Sirkunavelu,M,Indian,1967-04-30
+8641,Jayathas a/l Sirkunavelu,M,Indian,1967-04-30
 8642,Mohamad Hidhir bin Abu Hasan,M,Malay,1956-06-27
 8643,Abu bin Pit,M,Malay,1941-07-21
 8644,Lee Hong Tee,M,Chinese,1963-03-25
@@ -8887,7 +8887,7 @@ candidate_uid,name,sex,ethnicity,dob
 8886,Ali bin Abdullah,M,Bumi Sarawak,xxxx-xx-xx
 8887,Palu @ Paulus Palu anak Gumbang,M,Bumi Sarawak,1951-08-29
 8888,Balang Rining,M,Bumi Sarawak,1956-10-25
-8889,Mohamad bin Hj Brahim,M,Malay,1965-02-04
+8889,Mohamad bin Brahim,M,Malay,1965-02-04
 8890,Tunku Abdul Rahman,M,Malay,1942-xx-xx
 8891,Ismail bin Kasim (Chu),M,Malay,1959-10-02
 8892,Wan Salleh bin Wan Isa,M,Malay,xxxx-xx-xx
@@ -8901,7 +8901,7 @@ candidate_uid,name,sex,ethnicity,dob
 8900,Tajul Urus bin Mat Zain,M,Malay,1952-03-14
 8901,Rashid bin Din,M,Malay,1946-07-29
 8902,Abdul Azeez bin Abdul Rahim,M,Malay,1966-11-19
-8903,Gobalakrishnan A/L Nagapan,M,Indian,1960-03-23
+8903,Gobalakrishnan a/l Nagapan,M,Indian,1960-03-23
 8904,Asyraf Wajdi Dusuki,M,Malay,1976-05-14
 8905,Rahim bin Zain,M,Malay,xxxx-xx-xx
 8906,Ahmad Rosdi bin Mahmad,M,Malay,xxxx-xx-xx
@@ -8939,7 +8939,7 @@ candidate_uid,name,sex,ethnicity,dob
 8938,Hamzah bin Zainudin,M,Malay,1957-03-12
 8939,Mohsin Fadzli bin Samsuri,M,Malay,1945-11-30
 8940,Abdul Azim bin Mohd Zabidi,M,Malay,1959-07-11
-8941,Mohganan A/L P Manikam,M,Indian,1963-02-11
+8941,Mohganan a/l P Manikam,M,Indian,1963-02-11
 8942,Alias bin Zenon,M,Malay,1938-09-25
 8943,Nor Rizan bin Oon,M,Malay,1959-09-07
 8944,Liew Mun Hon,M,Chinese,1976-04-01
@@ -8947,9 +8947,9 @@ candidate_uid,name,sex,ethnicity,dob
 8946,Najihatussalehah binti Ahmad,F,Malay,1966-11-15
 8947,Mohd Nizar bin Zakaria,M,Malay,1969-01-03
 8948,Ling Hee Leong,M,Chinese,1969-05-12
-8949,Saravanan A/L Murugan,M,Indian,1968-02-04
+8949,Saravanan a/l Murugan,M,Indian,1968-02-04
 8950,Madhi bin Hasan,M,Malay,1973-03-29
-8951,Manogaran A/L Marimuthu,M,Indian,1959-07-14
+8951,Manogaran a/l Marimuthu,M,Indian,1959-07-14
 8952,Mohamad Azman bin Marjohan,M,Malay,1969-01-01
 8953,Salamon Ali Rizal bin Abdul Rahman,M,Malay,1968-03-09
 8954,Azan bin Ismail,M,Malay,1965-05-10
@@ -8968,7 +8968,7 @@ candidate_uid,name,sex,ethnicity,dob
 8967,Hee Loy Sian,M,Chinese,1970-06-18
 8968,Tony Pua Kiam Wee,M,Chinese,1972-08-01
 8969,Murugesan Sinnandavar,M,Indian,1967-12-12
-8970,Manikavasagam A/L Sundaram,M,Indian,1965-06-27
+8970,Manikavasagam a/l Sundaram,M,Indian,1965-06-27
 8971,Charles Anthony a/l Santiago,M,Indian,1960-11-01
 8972,Sulaiman bin Mohd Karli,M,Malay,1958-06-12
 8973,Lau Hoi Keong,M,Chinese,1969-05-11
@@ -9101,7 +9101,7 @@ candidate_uid,name,sex,ethnicity,dob
 9100,Mohd Tajudin bin Abdullah,M,Malay,1964-10-22
 9101,Muhammad Sanusi bin Md Nor,M,Malay,1974-08-04
 9102,Hasbullah bin Isa,M,Malay,1955-04-02
-9103,Krishnan A/L Subramaniam,M,Indian,1962-03-30
+9103,Krishnan a/l Subramaniam,M,Indian,1962-03-30
 9104,Arumugam a/l Vengatarakoo,M,Indian,1954-11-10
 9105,Abdullah bin Jusoh,M,Malay,1949-01-17
 9106,Tan Wei Shu,M,Chinese,1956-02-08
@@ -9130,7 +9130,7 @@ candidate_uid,name,sex,ethnicity,dob
 9129,Anuar bin Safian,M,Malay,1971-09-28
 9130,Ibrahim bin Mat Din (Dato' Him),M,Malay,1952-06-30
 9131,Abdul Azziz bin Kadir (Cikgu Aziz),M,Malay,1952-10-30
-9132,Azami bin Hj Mohd Nor,M,Malay,1957-10-18
+9132,Azami bin Mohd Nor,M,Malay,1957-10-18
 9133,Roslan bin Ab Hamid (Abe Lan),M,Malay,1965-10-25
 9134,Hashim bin Ismail,M,Malay,1966-01-01
 9135,Zainal Abedin bin Mohamad,M,Malay,1956-07-06
@@ -9221,7 +9221,7 @@ candidate_uid,name,sex,ethnicity,dob
 9220,Ong Teng Boon,M,Chinese,1975-06-03
 9221,Cheah Chee Kuan,M,Chinese,1975-08-06
 9222,Leong Mee Meng,F,Chinese,xxxx-xx-xx
-9223,Sathiya Seelan A/L Munisamy,M,Indian,xxxx-xx-xx
+9223,Sathiya Seelan a/l Munisamy,M,Indian,xxxx-xx-xx
 9224,Rusnah binti Kassim,F,Malay,1954-11-25
 9225,Wong Kah Woh,M,Chinese,1980-06-19
 9226,Ong Boon Piow,M,Chinese,1979-05-11
@@ -9236,20 +9236,20 @@ candidate_uid,name,sex,ethnicity,dob
 9235,Abu Bakar bin Hussian,M,Malay,1953-02-06
 9236,Ooi Jing Ting,M,Chinese,1956-06-20
 9237,Chai Song Poh,M,Chinese,1959-06-29
-9238,Keshvinder Singh A/L Kashmir Singh,M,Other,1971-11-02
+9238,Keshvinder Singh a/l Kashmir Singh,M,Other,1971-11-02
 9239,Chong Mun Wah,M,Chinese,1964-05-23
 9240,Nolee Ashilin Mohammed Radzi,F,Malay,1975-01-04
-9241,Nadarajah A/L Manikam,M,Indian,1956-02-17
+9241,Nadarajah a/l Manikam,M,Indian,1956-02-17
 9242,Radzi bin Zainon,M,Malay,xxxx-xx-xx
 9243,Chan Ming Kai,M,Chinese,1980-10-07
 9244,Yew Sau Kham,F,Chinese,1954-04-25
 9245,Chang Lih Kang,M,Chinese,1980-10-23
-9246,Arjunan A/L Muthu,M,Indian,1960-03-02
+9246,Arjunan a/l Muthu,M,Indian,1960-03-02
 9247,Ahmad Razi bin Othman,M,Malay,xxxx-xx-xx
 9248,Zainol Fadzi bin Paharudin,M,Malay,1966-07-31
 9249,Wan Norashikin binti Wan Noordin,F,Malay,1973-xx-xx
 9250,Ding Siew Chee,M,Chinese,1967-07-15
-9251,Vasan A/L P. Sinnadurai,M,Indian,1964-04-13
+9251,Vasan a/l P. Sinnadurai,M,Indian,1964-04-13
 9252,Pakhrazi bin Musa,M,Malay,1952-03-17
 9253,Kesavan a/l Subramaniam,M,Indian,1975-02-11
 9254,Thangasvari a/p Suppiah,F,Indian,1948-07-12
@@ -9290,7 +9290,7 @@ candidate_uid,name,sex,ethnicity,dob
 9289,Mohd Khairuddin bin Abdul Manan,M,Malay,1957-02-21
 9290,Syed Hamid bin Syed Mohamed,M,Malay,1952-07-20
 9291,Lee Kok Yeep,M,Chinese,1974-09-12
-9292,Kamache A/P A Doray Rajoo,F,Indian,1970-02-09
+9292,Kamache a/p A Doray Rajoo,F,Indian,1970-02-09
 9293,Hamdan bin Ahmad,M,Malay,1957-04-26
 9294,Norolazali bin Sulaiman,M,Malay,1972-01-02
 9295,Tan Tin Loon,M,Chinese,1968-07-16
@@ -9302,29 +9302,29 @@ candidate_uid,name,sex,ethnicity,dob
 9301,Warno bin Dogol,M,Malay,1960-08-17
 9302,Puah Boon Choon,M,Malay,1963-12-26
 9303,Wong Koon Mun,M,Chinese,1961-08-13
-9304,K Annamalai Ramu A/L Kandasamy,M,Indian,1966-11-19
+9304,K Annamalai Ramu a/l Kandasamy,M,Indian,1966-11-19
 9305,Mohd Nashruddin bin Abd. Aziz,M,Malay,1961-05-28
 9306,Mohd Isa bin Abu Kasim,M,Malay,1965-04-20
 9307,Sulaiman bin Abdul Razak,M,Malay,1961-06-24
 9308,Mazlan bin Hassan,M,Malay,1969-08-29
-9309,Parthiban A/L Karuppiah,M,Indian,1968-10-06
-9310,Muthiah A/L Maria Pillay,M,Indian,1948-04-11
+9309,Parthiban a/l Karuppiah,M,Indian,1968-10-06
+9310,Muthiah a/l Maria Pillay,M,Indian,1948-04-11
 9311,Hairi bin Darmo,M,Malay,1946-08-24
 9312,Abdul Shukur bin Idrus,M,Malay,1966-02-19
 9313,Goh Ah Ling,M,Chinese,1951-02-27
-9314,Chandrasegaran A/L Arumugam,M,Indian,1970-06-26
+9314,Chandrasegaran a/l Arumugam,M,Indian,1970-06-26
 9315,Gan Pei Nei,F,Chinese,1981-01-02
 9316,Mohamad Abd Rahman,M,Malay,xxxx-xx-xx
 9317,Subahan bin Kamal,M,Malay,1965-12-26
 9318,Amirudin bin Shari,M,Malay,1980-02-08
-9319,Mohan A/L Thangarasu,M,Indian,1973-03-18
+9319,Mohan a/l Thangarasu,M,Indian,1973-03-18
 9320,Haslinda binti Mohd Zerain,F,Malay,1973-xx-xx
 9321,Khasim bin Abdul Aziz,M,Malay,1962-08-20
 9322,Nosimah binti Hashim,F,Malay,1950-06-14
 9323,Jenice Lee Ying Ha,F,Chinese,1980-04-28
 9324,Ismail bin Sani,M,Malay,1967-04-15
 9325,Mohd Sany bin Hamzan,M,Malay,1976-12-19
-9326,Arutchelvan A/L Subramaniam (Arul),M,Indian,1967-06-29
+9326,Arutchelvan a/l Subramaniam (Arul),M,Indian,1967-06-29
 9327,Johan bin Abd Aziz,M,Malay,1966-10-28
 9328,Mohd Fathil bin Daud,M,Malay,1957-04-17
 9329,Yap Lum Chin,M,Chinese,1959-06-24
@@ -9352,7 +9352,7 @@ candidate_uid,name,sex,ethnicity,dob
 9351,Ishammudin bin Ismail,M,Malay,1980-05-11
 9352,Marsum bin Paing,M,Malay,1955-01-08
 9353,Yap Ee Wah,M,Chinese,1962-12-06
-9354,Sivananthan A/L Arumugam,M,Indian,1981-07-04
+9354,Sivananthan a/l Arumugam,M,Indian,1981-07-04
 9355,Siow Chen Pin,M,Chinese,1965-xx-xx
 9356,How Wee Shiong,M,Chinese,1981-xx-xx
 9357,Halim bin A. Aziz,M,Malay,1973-03-17
@@ -9360,8 +9360,8 @@ candidate_uid,name,sex,ethnicity,dob
 9359,Saiful Bahri bin Jaaman @ Sharman (Angah Saiful),M,Malay,1966-11-29
 9360,Somingon bin Nasir,M,Malay,1955-08-09
 9361,Shamshulkahar bin Mohd Deli,M,Malay,1961-08-01
-9362,Manoharan A/L K Kannan,M,Indian,1957-04-16
-9363,Mogan A/L Velayatham,M,Indian,1968-12-12
+9362,Manoharan a/l K Kannan,M,Indian,1957-04-16
+9363,Mogan a/l Velayatham,M,Indian,1968-12-12
 9364,Teo Kok Seong,M,Chinese,1979-10-18
 9365,Mustafa bin Salim,M,Malay,1958-04-18
 9366,Siow Koi Voon,M,Chinese,1970-02-24
@@ -9386,11 +9386,11 @@ candidate_uid,name,sex,ethnicity,dob
 9385,Azman bin Mohd Noor,M,Malay,1955-xx-xx
 9386,Ramli bin Ismail,M,Malay,1949-02-15
 9387,Ramlan bin Roes,M,Malay,1971-01-21
-9388,Jeeva Kumar A/L Marimuthu,M,Indian,1963-02-03
-9389,Ravi A/L Munusamy,M,Indian,1967-07-27
+9388,Jeeva Kumar a/l Marimuthu,M,Indian,1963-02-03
+9389,Ravi a/l Munusamy,M,Indian,1967-07-27
 9390,Mohd Ali bin Maarof,M,Malay,1951-08-22
 9391,Zainab binti Nasir,F,Malay,1948-11-30
-9392,Veerapan A/L Superamaniam,M,Indian,1975-03-30
+9392,Veerapan a/l Superamaniam,M,Indian,1975-03-30
 9393,Yap Seong Fook,M,Chinese,1966-02-20
 9394,Ismail bin Othman,M,Malay,1955-09-13
 9395,Imran bin Abdul Rahman,M,Malay,1966-10-17
@@ -9400,11 +9400,11 @@ candidate_uid,name,sex,ethnicity,dob
 9399,Latipah binti Omar,F,Malay,1957-02-21
 9400,Norpipah binti Abdol,F,Malay,1954-07-27
 9401,Md Yusof bin Abdullah,M,Malay,1965-12-24
-9402,Kanageswari A/P Sibapatham,F,Indian,1980-06-14
+9402,Kanageswari a/p Sibapatham,F,Indian,1980-06-14
 9403,Lai Meng Chong,M,Chinese,1951-09-03
 9404,Ginie Lim Siew Lin,F,Chinese,1981-08-18
 9405,Amdan bin Sudin,M,Malay,1943-04-21
-9406,Perumal A/L Raju,M,Indian,1952-03-06
+9406,Perumal a/l Raju,M,Indian,1952-03-06
 9407,Kamis bin Saat,M,Malay,1948-05-06
 9408,Taha bin Ahmad,M,Malay,1950-10-20
 9409,Ngo Kim Hua,F,Chinese,1953-06-24
@@ -9437,7 +9437,7 @@ candidate_uid,name,sex,ethnicity,dob
 9436,Ilyas bin Abu Bakar (Alliar bin Abu Bakar),M,Malay,1966-06-02
 9437,Hashim bin Jusoh,M,Malay,1961-05-10
 9438,Mustafha bin Abd. Rahman,M,Malay,1960-10-21
-9439,Ja'Affar bin Hashim,M,Malay,1965-01-08
+9439,Ja'affar bin Hashim,M,Malay,1965-01-08
 9440,Yap Weng Keong,M,Chinese,1964-01-26
 9441,Md Jais bin Sarday,M,Malay,1967-07-13
 9442,Tan Ting Chow,M,Chinese,1970-08-19
@@ -9619,7 +9619,7 @@ candidate_uid,name,sex,ethnicity,dob
 9618,Noraini binti Hamzah,F,Malay,1962-04-25
 9619,Willie anak Mongin,M,Bumi Sarawak,1975-06-02
 9620,Wejok anak Tomik,M,Bumi Sarawak,1974-07-05
-9621,Richard @ Peter A/L Margaret,M,Bumi Sarawak,1962-04-10
+9621,Richard @ Peter a/l Margaret,M,Bumi Sarawak,1962-04-10
 9622,Peter Ato anak Mayau,M,Bumi Sarawak,1959
 9623,Ateng anak Jeros,M,Bumi Sarawak,1953-10-23
 9624,Kipli bin Ale,M,Malay,1974-09-01
@@ -9632,7 +9632,7 @@ candidate_uid,name,sex,ethnicity,dob
 9631,Mashor bin Hossen,M,Malay,1952-01-01
 9632,Zaini bin Le',M,Malay,1952-07-13
 9633,Mac Palima anak Nyambil,M,Bumi Sarawak,1952-02-12
-9634,Razaili bin Haji Gapor,M,Malay,1956-01-05
+9634,Razaili bin Gapor,M,Malay,1956-01-05
 9635,Abang Ahmad Kerdee bin Abang Masagus,M,Bumi Sarawak,1979-05-13
 9636,Dan A/K Giang,M,Bumi Sarawak,1967-03-26
 9637,Lipeh anak Mawi,M,Bumi Sarawak,1952-07-09
@@ -9762,9 +9762,9 @@ candidate_uid,name,sex,ethnicity,dob
 9761,Abdullah Zawawi bin Samsudin,M,Malay,1968-02-03
 9762,Gui Guat Lye,M,Chinese,1952-07-20
 9763,Sim Chee Keong,M,Chinese,1982-05-13
-9764,Gobalakrishnan A/L Narayanasamy,M,Indian,1965-03-12
+9764,Gobalakrishnan a/l Narayanasamy,M,Indian,1965-03-12
 9765,Kasthuriraani a/p Patto,F,Indian,1979-08-09
-9766,Mohan A/L Apparoo,M,Indian,1960-08-22
+9766,Mohan a/l Apparoo,M,Indian,1960-08-22
 9767,Teng Kok Pheng,M,Chinese,1978-03-23
 9768,Zairil Khir Johari,M,Malay,1982-10-17
 9769,Teh Leong Meng,M,Chinese,1959-03-15
@@ -9775,26 +9775,26 @@ candidate_uid,name,sex,ethnicity,dob
 9774,Norhayati binti Kasim,F,Malay,1964-06-11
 9775,Razman bin Zakaria,M,Malay,1960-02-16
 9776,Mohd Fauzi bin Sa'ari,M,Malay,1950-09-25
-9777,Raveendran A/L M.Vallikana,M,Indian,1977-10-17
+9777,Raveendran a/l M.Vallikana,M,Indian,1977-10-17
 9778,Mua'amar Ghadafi Jamal bin Jamaludin,M,Malay,1979-11-04
 9779,Abdul Latiff bin Masud,M,Malay,1947-02-18
 9780,Noor Azmi bin Ghazali,M,Malay,1960-11-27
 9781,Meor Ahmad Isharra bin Ishak,M,Malay,1971-01-06
-9782,Nagalingam A/L Singaravelloo,M,Indian,1967-03-30
+9782,Nagalingam a/l Singaravelloo,M,Indian,1967-03-30
 9783,Siti Aishah binti Shaik Ismail,F,Malay,1985-05-03
 9784,Kathleen Wong Mei Yin,F,Chinese,1976-10-12
-9785,Kalwant Singh A/L Sujan Singh,M,Other,1966-04-19
+9785,Kalwant Singh a/l Sujan Singh,M,Other,1966-04-19
 9786,Cheng Wei Yee,M,Chinese,1974-10-17
 9787,Loo Thin Tuck,M,Chinese,1965-03-13
 9788,Kamilia binti Ibrahim,F,Malay,1952-04-20
 9789,Ko Chung Sen,M,Chinese,1968-06-19
 9790,Ridzuan bin Bani,M,Malay,1964-01-28
-9791,Vasantha Kumar A/L Krishnan,M,Indian,1966-12-27
+9791,Vasantha Kumar a/l Krishnan,M,Indian,1966-12-27
 9792,Shaharuzzaman bin Bistamam,M,Malay,1969-07-27
 9793,Mohamad Imran bin Abdul Hamid,M,Malay,1954-07-10
-9794,Moralingam A/L Kannan,M,Indian,1975-02-26
-9795,Kisho Kumar A/L Kathirveloo,M,Indian,1980-06-03
-9796,Alagu A/L Thangarajoo,M,Indian,1962-07-19
+9794,Moralingam a/l Kannan,M,Indian,1975-02-26
+9795,Kisho Kumar a/l Kathirveloo,M,Indian,1980-06-03
+9796,Alagu a/l Thangarajoo,M,Indian,1962-07-19
 9797,Aishaton binti Abu Bakar,F,Malay,1976-06-12
 9798,Mohd Mahyuddin bin Ghazal (Razali),M,Malay,1950-05-23
 9799,Ahmad Nazlan bin Idris,M,Malay,1958-02-01
@@ -9835,10 +9835,10 @@ candidate_uid,name,sex,ethnicity,dob
 9834,Mohd Pathan bin Hussin,M,Malay,1968-05-12
 9835,G. Manivannan a/l Gowindasamy,M,Indian,1975-10-24
 9836,Mohd Nazri bin Abdul Aziz,M,Malay,xxxx-xx-xx
-9837,Uthayakumar A/L Ponnusamy,M,Indian,1961-11-07
+9837,Uthayakumar a/l Ponnusamy,M,Indian,1961-11-07
 9838,Azman bin Idrus,M,Malay,1976-03-26
 9839,Sharuddin bin Omar,M,Malay,1959-11-10
-9840,Kottappan A/L Suppaiah,M,Indian,1962-10-04
+9840,Kottappan a/l Suppaiah,M,Indian,1962-10-04
 9841,Hanapiah bin Mohamad,M,Malay,1956-01-20
 9842,Suhaimi bin Mohd Ghazali,M,Malay,1968-02-29
 9843,Yee Poh Ping,M,Chinese,1960-07-06
@@ -9851,7 +9851,7 @@ candidate_uid,name,sex,ethnicity,dob
 9850,Jayanthi Devi a/p Balaguru,F,Indian,1961-07-27
 9851,Ahmad Fauzi bin Zahari,M,Malay,1963-06-02
 9852,Johari bin Abdul Ghani,M,Malay,1964-03-06
-9853,Ahmad Zamri bin Asa'Ad Khuzaimi,M,Malay,1975-06-18
+9853,Ahmad Zamri bin Asa'ad Khuzaimi,M,Malay,1975-06-18
 9854,Frankie Gan Joon Zin,M,Chinese,1966-07-16
 9855,Rusli bin Baba,M,Malay,1959-12-01
 9856,Raja Nong Chik bin Raja Zainal Abidin,M,Malay,1953-02-14
@@ -9868,7 +9868,7 @@ candidate_uid,name,sex,ethnicity,dob
 9867,Teo Eng Kian,M,Chinese,1978-12-03
 9868,Abdul Aziz bin Hassan,M,Malay,1956-01-13
 9869,Radzali bin Abdul Ghani,M,Malay,xxxx-xx-xx
-9870,Kumaravel A/L T. Arjunan,M,Indian,1956-04-11
+9870,Kumaravel a/l T. Arjunan,M,Indian,1956-04-11
 9871,Mas Ermieyati binti Samsudin,F,Malay,1976-11-13
 9872,Nasaie bin Ismail,M,Malay,1984-05-02
 9873,Damian Yeo Shen Li,M,Chinese,1975-03-31
@@ -10014,7 +10014,7 @@ candidate_uid,name,sex,ethnicity,dob
 10013,Najmuddin bin Darus,M,Malay,1963-09-22
 10014,Rosli bin Omar,M,Malay,1966-07-05
 10015,Fadzil bin Baharum,M,Malay,1970-08-27
-10016,Charean A/L Isen,M,Other,1978-04-06
+10016,Charean a/l Isen,M,Other,1978-04-06
 10017,Sobri bin Ahmad,M,Malay,1964-05-21
 10018,Mohd Fazillah bin Mohd Ali,M,Malay,1958-02-11
 10019,Abdullah bin Hashim,M,Malay,1946-04-08
@@ -10141,7 +10141,7 @@ candidate_uid,name,sex,ethnicity,dob
 10140,Sum Yoo Keong,M,Chinese,1951-03-25
 10141,Tan Chuan Hong,M,Chinese,1967-07-29
 10142,Lim Seang Teik,M,Chinese,1977-07-12
-10143,Asoghan A/L Govindaraju,M,Indian,1957-09-05
+10143,Asoghan a/l Govindaraju,M,Indian,1957-09-05
 10144,Karuppanan a/l Malairaja,M,Indian,1965-12-16
 10145,Afif bin Bahardin,M,Malay,1985-05-13
 10146,Mohammad Nasir bin Abdullah,M,Malay,1962-08-03
@@ -10162,7 +10162,7 @@ candidate_uid,name,sex,ethnicity,dob
 10161,Mar Seong Leng @ Beh Seong Leng,M,Chinese,1936-05-14
 10162,Tan Ken Keong,M,Chinese,xxxx-xx-xx
 10163,Hng Chee Wey,M,Chinese,1977-04-29
-10164,Jayaraman A/L K Kunchu Kannu,M,Indian,1967-01-02
+10164,Jayaraman a/l K Kunchu Kannu,M,Indian,1967-01-02
 10165,Cheah Kah Peng,M,Chinese,1966-01-08
 10166,Yap Soo Huey,M,Chinese,1982-07-07
 10167,Rowena Yam,F,Chinese,1969-05-30
@@ -10174,7 +10174,7 @@ candidate_uid,name,sex,ethnicity,dob
 10173,Mohamed Yacoob bin Mohamed Noor,M,Malay,1989-01-03
 10174,Low Joo Hiap,M,Chinese,1972-09-08
 10175,Loo Jieh Sheng,M,Chinese,1982-11-01
-10176,Baratharajan A/L Narayanasamy Pillai,M,Indian,1956-12-03
+10176,Baratharajan a/l Narayanasamy Pillai,M,Indian,1956-12-03
 10177,Jayabalan a/l Thambyappa,M,Indian,1945-04-17
 10178,Rajendra a/l Ammasi,M,Indian,1968-11-06
 10179,Mohd Noor Sirajajudeen bin Mohd Abdul Kader,M,Malay,xxxx-xx-xx
@@ -10217,7 +10217,7 @@ candidate_uid,name,sex,ethnicity,dob
 10216,Loh Sze Yee,M,Chinese,1975-02-07
 10217,Mohamad Ziad bin Mohamed Zainal Abidin,M,Malay,1975-03-19
 10218,Aminuddin bin Md Hanafiah,M,Malay,1963-12-16
-10219,M.A.Tinagaran A/L Arumugam,M,Indian,1977-07-25
+10219,M.A.Tinagaran a/l Arumugam,M,Indian,1977-07-25
 10220,Sulaiman bin Zakariya,M,Malay,1948-10-09
 10221,Ceylyn Tay Wei Lung,F,Chinese,1976-11-29
 10222,Howard Lee Chuan How,M,Chinese,1983-01-03
@@ -10225,9 +10225,9 @@ candidate_uid,name,sex,ethnicity,dob
 10224,Cheong Chee Khing,M,Chinese,1970-10-03
 10225,Chang Kok Aun,M,Chinese,1956-10-16
 10226,Sivarraajh Chandran,M,Indian,1976-09-16
-10227,Iruthiyam Sebastiar A/L Anthonisamy,M,Indian,1970-08-11
+10227,Iruthiyam Sebastiar a/l Anthonisamy,M,Indian,1970-08-11
 10228,Basri bin Shafie,M,Malay,1981-03-20
-10229,Mokan A/L Supramaniam,M,Indian,1967-04-20
+10229,Mokan a/l Supramaniam,M,Indian,1967-04-20
 10230,Loo Gar Yen,M,Chinese,1974-02-17
 10231,Yip Sze Choy,M,Chinese,1959-12-18
 10232,Paul Yong Choo Kiong,M,Chinese,1970-09-23
@@ -10248,27 +10248,27 @@ candidate_uid,name,sex,ethnicity,dob
 10247,Mior Azman Aminuddin bin Mior Aris,M,Malay,1968-07-22
 10248,Tan Kar Hing,M,Chinese,1982-05-04
 10249,Amani Williams-Hunt Abdullah,M,Orang Asli,1953-05-21
-10250,Kathiravan A/L Murugan,M,Indian,1976-07-31
+10250,Kathiravan a/l Murugan,M,Indian,1976-07-31
 10251,Ishak bin Saari,M,Malay,1972-03-25
 10252,Abdullah Fauzi bin Ahmad Razali,M,Malay,1955-06-10
 10253,Ting Tai Fook,M,Chinese,1984-07-30
 10254,Rashidi bin Ibrahim,M,Malay,xxxx-xx-xx
 10255,Rohawati binti Abidin,F,Malay,1970-08-21
-10256,Vijayan A/L Subramaniam,M,Indian,xxxx-xx-xx
-10257,Benard Parenpa A/L John Parenpa Pall,M,Indian,1976-07-04
+10256,Vijayan a/l Subramaniam,M,Indian,xxxx-xx-xx
+10257,Benard Parenpa a/l John Parenpa Pall,M,Indian,1976-07-04
 10258,Mohd Saifullah bin Mohd Zulkifli,M,Malay,1985-06-24
 10259,Shahrul Zaman bin Yahya,M,Malay,1967-01-01
 10260,Mat Sidi bin Hashim,M,Malay,1967-03-06
 10261,Azahari bin Abdullah,M,Malay,xxxx-xx-xx
-10262,Supramaniam A/L Ramalingam,M,Indian,1960-05-11
-10263,Terence Naidu A/L V Raja @ Raja Naidu,M,Indian,1968-09-15
-10264,Suppan A/L Krishan,M,Indian,1956-09-10
+10262,Supramaniam a/l Ramalingam,M,Indian,1960-05-11
+10263,Terence Naidu a/l V Raja @ Raja Naidu,M,Indian,1968-09-15
+10264,Suppan a/l Krishan,M,Indian,1956-09-10
 10265,Mohd Azhar bin Jamaluddin,M,Malay,1967-08-10
 10266,Goh Kim Swee,M,Chinese,1964-08-14
-10267,Mosses A/L Ramiah,M,Indian,1963-02-09
+10267,Mosses a/l Ramiah,M,Indian,1963-02-09
 10268,Aminuddin bin Zulkipli,M,Malay,1969-05-28
 10269,Kamal Badri bin Tak M Zainudin,M,Malay,1958-05-18
-10270,Ramnaidu A/L Suridemudu,M,Indian,1957-12-29
+10270,Ramnaidu a/l Suridemudu,M,Indian,1957-12-29
 10271,Abdul Hadi bin Abdul Khatab,M,Malay,1953-08-28
 10272,Cheam May Choo,F,Chinese,1960-09-08
 10273,Abdul Karim bin Nor,M,Malay,1954-05-06
@@ -10306,7 +10306,7 @@ candidate_uid,name,sex,ethnicity,dob
 10305,Chow Yu Hui,M,Chinese,1983-07-11
 10306,Lee Chin Chen,M,Chinese,1984-02-07
 10307,Woong Choo Yak,M,Chinese,1957-07-06
-10308,Goonasakaren A/L Raman,M,Indian,1959-11-10
+10308,Goonasakaren a/l Raman,M,Indian,1959-11-10
 10309,Abdul Hamid bin Bahatim,M,Malay,1955-12-28
 10310,Leong Yu Man,F,Chinese,1985-06-22
 10311,Manolan Mohamad,M,Orang Asli,1976-01-19
@@ -10321,11 +10321,11 @@ candidate_uid,name,sex,ethnicity,dob
 10320,Kek Seng Hooi,M,Malay,1963-09-02
 10321,Idris bin Ahmad,M,Malay,1945-11-18
 10322,Rosni binti Sohar,F,Malay,1958-02-01
-10323,Nadarajah A/L Supramaniam,M,Indian,1973-12-23
-10324,Pritpal Singh A/L Mender Singh,M,Other,1963-02-11
+10323,Nadarajah a/l Supramaniam,M,Indian,1973-12-23
+10324,Pritpal Singh a/l Mender Singh,M,Other,1963-02-11
 10325,Ooi Hui Wen (Jessie Ooi),F,Chinese,1979-10-23
 10326,Yoong Tham Fook,M,Chinese,1953-07-03
-10327,Ramachandran A/L Kandasamy,M,Indian,1968-10-09
+10327,Ramachandran a/l Kandasamy,M,Indian,1968-10-09
 10328,Mustapa Kamal bin Sapingi,M,Malay,1952-07-23
 10329,Mustaf bin Talib,M,Malay,1950-11-03
 10330,Mat Nadzari bin Ahmad Dahlan,M,Malay,1960-08-11
@@ -10337,8 +10337,8 @@ candidate_uid,name,sex,ethnicity,dob
 10336,Tenku Maraziyah binti Tenku Sulaiman,F,Malay,1962-01-05
 10337,Roslan bin Basaruddin,M,Malay,1972-05-07
 10338,Zaidy bin Abdul Talib,M,Malay,1972-02-27
-10339,Rawisandran A/L Narayanan,M,Indian,1963-07-06
-10340,Suman A/L Gopal,M,Indian,1987-12-02
+10339,Rawisandran a/l Narayanan,M,Indian,1963-07-06
+10340,Suman a/l Gopal,M,Indian,1987-12-02
 10341,Hasbullah bin Mohd Ridzwan,M,Malay,1975-07-03
 10342,Abdul Rahim bin Pandak Kamarudin,M,Malay,1954-05-07
 10343,Mohamad Nadzim bin Ibrahim,M,Malay,1970-12-26
@@ -10377,7 +10377,7 @@ candidate_uid,name,sex,ethnicity,dob
 10376,Liew Wei Beng,M,Chinese,1957-11-07
 10377,Yeo Bee Yin,F,Chinese,1983-05-26
 10378,Chong Tuck Chiew,M,Malay,1959-04-20
-10379,Suppiah A/L Anandan,M,Indian,1970-02-27
+10379,Suppiah a/l Anandan,M,Indian,1970-02-27
 10380,Ridzuan bin Ismail,M,Malay,xxxx-xx-xx
 10381,Halimaton Saadiah binti Bohan,F,Malay,1956-10-31
 10382,Halmi bin Omar,M,Malay,1965-10-25
@@ -10387,25 +10387,25 @@ candidate_uid,name,sex,ethnicity,dob
 10386,Sukaiman bin Ahmad,M,Malay,1952-01-29
 10387,Daroyah binti Alwi,F,Malay,1962-08-21
 10388,Md Ghazali bin Md Amin,M,Malay,1953-03-12
-10389,Thuraisingam A/L Subbrayan,M,Indian,1962-06-14
+10389,Thuraisingam a/l Subbrayan,M,Indian,1962-06-14
 10390,Lee Siew Chee,F,Chinese,1975-12-29
 10391,Faisal bin Yahya,M,Malay,1961-03-19
 10392,Nasarruddin bin M Zin,M,Malay,1963-06-01
 10393,Hamzah bin Lamin,M,Malay,1951-03-17
 10394,Tan Pok Shyong,M,Chinese,1976-02-05
 10395,Ching Eu Boon,M,Chinese,1967-07-16
-10396,Pannerselvam A/L G. Letchuman,M,Indian,1953-02-10
+10396,Pannerselvam a/l G. Letchuman,M,Indian,1953-02-10
 10397,Loo Hok Chai,M,Chinese,1948-09-08
 10398,Maglin Dennis D'Cruz,M,Indian,1956-02-27
-10399,Ganabatirau A/L Veraman,M,Indian,1973-06-06
+10399,Ganabatirau a/l Veraman,M,Indian,1973-06-06
 10400,Hanafiah bin Husin,M,Malay,1971-08-09
 10401,Abdul Raof bin Moxtar (Md Mokhtar),M,Malay,1946-01-31
-10402,Ramaswree A/P Duraisamy,F,Indian,1964-10-25
+10402,Ramaswree a/p Duraisamy,F,Indian,1964-10-25
 10403,Zurihan bin Yusop,M,Malay,1971-02-12
 10404,Loh Chee Heng,M,Chinese,1978-05-05
 10405,Jimmy Tan Cheng Chai,M,Chinese,1961-06-20
 10406,Hamzah bin Abu Bakar,M,Malay,1959-06-07
-10407,Muventen A/L Munusamy,M,Indian,1978-03-03
+10407,Muventen a/l Munusamy,M,Indian,1978-03-03
 10408,Shahrum bin Mohd Sharif,M,Malay,1971-09-11
 10409,Borhan bin Aman Shah,M,Malay,1962-05-14
 10410,Azmi bin Othman,M,Malay,1963-09-18
@@ -10417,9 +10417,9 @@ candidate_uid,name,sex,ethnicity,dob
 10416,Nor Anif bin Selamat,M,Malay,1966-02-03
 10417,Mohd Razi bin Mohd Ali,M,Malay,1973-04-01
 10418,Abd Rahman bin Ramli,M,Malay,1960-11-04
-10419,Mazavan A/L A Raman Nair,M,Indian,1961-06-08
-10420,Manickam A/L Letchuman,M,Indian,1959-11-30
-10421,Kumar A/L Thuraisingam,M,Indian,1971-08-19
+10419,Mazavan a/l A Raman Nair,M,Indian,1961-06-08
+10420,Manickam a/l Letchuman,M,Indian,1959-11-30
+10421,Kumar a/l Thuraisingam,M,Indian,1971-08-19
 10422,Zailani bin Zakaria,M,Malay,1965-11-12
 10423,Chew Seh Yong,M,Chinese,1962-02-03
 10424,Yee Mee Faa,M,Chinese,1960-10-10
@@ -10427,7 +10427,7 @@ candidate_uid,name,sex,ethnicity,dob
 10426,S. Karupiah (Rajashegher),M,Indian,1956-06-02
 10427,Ahmad Kamarulzaman bin Abu,M,Malay,1965-10-09
 10428,Gan Chee Biow,M,Chinese,1966-09-28
-10429,Arul Kumar A/L Jambunathan,M,Indian,1985-09-12
+10429,Arul Kumar a/l Jambunathan,M,Indian,1985-09-12
 10430,Ho Kok Yew (Titan Ho),M,Chinese,1973-06-07
 10431,Siow Kim Leong,M,Chinese,1972-09-28
 10432,Wan Salwati binti Abdullah,F,Malay,1974-05-19
@@ -10440,11 +10440,11 @@ candidate_uid,name,sex,ethnicity,dob
 10439,Abu Samah bin Mahat,M,Malay,1952-03-16
 10440,Mohd Khairil Anuar bin Mohd Wafa,M,Malay,1977-02-24
 10441,Wong Oi Foon,F,Chinese,1975-08-05
-10442,Vijaiyan A/L Sivanathan,M,Indian,1966-10-29
+10442,Vijaiyan a/l Sivanathan,M,Indian,1966-10-29
 10443,Mary Josephine Prittam Singh,F,Other,1949-01-02
 10444,Julia Wong Pik Min,F,Chinese,1965-07-04
 10445,Choong Vee Hing (David Choong),M,Chinese,1972-07-19
-10446,Karthigesan A/L Shanmugam,M,Indian,1971-12-10
+10446,Karthigesan a/l Shanmugam,M,Indian,1971-12-10
 10447,Mohd Ghazali bin Abd Wahid,M,Malay,1959-09-18
 10448,Kamarol Ridzuan bin Mohd Zain,M,Malay,1967-05-30
 10449,Ghazali bin Mohd Shom,M,Malay,1955-11-18
@@ -10453,8 +10453,8 @@ candidate_uid,name,sex,ethnicity,dob
 10452,Tun Hairudin bin Abu Bakar (Don),M,Malay,1958-06-03
 10453,Abdul Rahman bin Mohd Redza,M,Malay,1973-03-29
 10454,Rosman bin Jonet,M,Malay,1962-08-05
-10455,Daniel A/L Simon,M,Indian,1965-05-12
-10456,Tanaletchumy A/P Palanisamy,F,Indian,1960-01-21
+10455,Daniel a/l Simon,M,Indian,1965-05-12
+10456,Tanaletchumy a/p Palanisamy,F,Indian,1960-01-21
 10457,Abdul Razak bin Ab Said,M,Malay,1965-06-20
 10458,Karip bin Mohd Salleh,M,Malay,1957-10-02
 10459,Mohd Isam bin Mohd Isa,M,Malay,1969-01-02
@@ -10468,7 +10468,7 @@ candidate_uid,name,sex,ethnicity,dob
 10467,Abdullah Sani bin Rejab,M,Malay,1953-05-02
 10468,M.S. Mahadevan a/l Sanacy,M,Indian,1954-04-12
 10469,Rajandran a/l Govindasamy,M,Indian,1962-01-16
-10470,Ravinther A/L Sekaran,M,Indian,1960-06-26
+10470,Ravinther a/l Sekaran,M,Indian,1960-06-26
 10471,Adly bin Zahari,M,Malay,1971-02-15
 10472,Richard Wong Chee Chew,M,Chinese,1952-01-16
 10473,Asri bin Buang,M,Malay,1954-12-27
@@ -10590,7 +10590,7 @@ candidate_uid,name,sex,ethnicity,dob
 10589,Junz Wong Hong Jun,M,Chinese,1979-09-27
 10590,Chin Shu Ying,M,Chinese,1965-04-22
 10591,Martin Ho Cheong Tshun,M,Chinese,1962-06-15
-10592,Marcel Jude A/L M S Joseph,M,Indian,1961-03-08
+10592,Marcel Jude a/l M. S. Joseph,M,Indian,1961-03-08
 10593,Felix Chong Kat Fah,M,Chinese,1968-11-29
 10594,Agnes Shim Tshin Nyuk,F,Chinese,1954-07-01
 10595,Jafery bin Jomion (Lee Jet Fei),M,Chinese,1976-03-26
@@ -10933,7 +10933,7 @@ candidate_uid,name,sex,ethnicity,dob
 10932,Mohd Helmi bin Harun,M,Malay,1972-xx-xx
 10933,Tan Gin Theam,M,Chinese,1969-10-24
 10934,Andy Yong Kim Seng,M,Chinese,1961-09-03
-10935,Baljit Singh A/L Jigiri Singh,M,Other,1966-06-23
+10935,Baljit Singh a/l Jigiri Singh,M,Other,1966-06-23
 10936,Tan Sim Bee,M,Chinese,1982-02-11
 10937,Lai Xue Ching,M,Chinese,1984-12-24
 10938,David Yim Boon Leong,M,Chinese,1972-03-27
@@ -10956,7 +10956,7 @@ candidate_uid,name,sex,ethnicity,dob
 10955,Leong Chee Wai,M,Chinese,1974-01-30
 10956,Pang Chok King,M,Chinese,1964-07-25
 10957,Mohamad Nazeer bin Hameed,M,Malay,1956-08-27
-10958,Yougan A/L Mahalingam,M,Indian,1987-10-26
+10958,Yougan a/l Mahalingam,M,Indian,1987-10-26
 10959,Ismail bin Ariffin,M,Malay,1961-02-23
 10960,Mohamed Azni bin Mohamed Ali,M,Malay,1956-11-04
 10961,Salihuddin bin Radin Sumadi,M,Malay,1958-10-18
@@ -10968,7 +10968,7 @@ candidate_uid,name,sex,ethnicity,dob
 10967,Mohd Tarmizi bin Ab Rahman,M,Malay,1965-04-08
 10968,Wan Mahadir bin Wan Mahmud,M,Malay,1972-10-05
 10969,Mohd Tahir bin Kassim,M,Malay,1959-06-21
-10970,Suresh Kumar A/L Balasubramaniam,M,Indian,1976-08-24
+10970,Suresh Kumar a/l Balasubramaniam,M,Indian,1976-08-24
 10971,Badarudin bin Abdul Rahaman,M,Malay,1953-02-03
 10972,Sobirin bin Duli,M,Malay,1950-07-26
 10973,Wan Mohd Shahrir Wan Abdul Jalil,M,Malay,1971-xx-xx
@@ -10982,10 +10982,10 @@ candidate_uid,name,sex,ethnicity,dob
 10981,Mohd Khaidir bin Ahmad,M,Malay,1962-11-01
 10982,Muhamad Fakhrudin bin Abu Hanipah,M,Malay,1988-06-06
 10983,Mohd Jusoh bin Darus,M,Malay,1956-03-16
-10984,Balasubramaniam A/L Nachiappan,M,Indian,1958-01-20
+10984,Balasubramaniam a/l Nachiappan,M,Indian,1958-01-20
 10985,Muhammad Labib bin Abdul Jalil,M,Malay,1987-05-10
 10986,Muslimin bin Yahaya,M,Malay,1967-07-13
-10987,Kumar A/L S. Paramasivam,M,Indian,1969-11-28
+10987,Kumar a/l S. Paramasivam,M,Indian,1969-11-28
 10988,June Leow Hsiao Hui,F,Chinese,1964-06-05
 10989,Wan Mat bin Sulaiman,M,Malay,1965-03-08
 10990,Zulkafperi bin Hanapi,M,Malay,1959-08-07
@@ -11013,7 +11013,7 @@ candidate_uid,name,sex,ethnicity,dob
 11012,Mohd Zuhdi bin Marsuki,M,Malay,1970-07-26
 11013,Azhari bin Shaari,M,Malay,1970-05-21
 11014,Mohana a/p Muniandy Raman,F,Indian,1976-07-30
-11015,Puvananderan A/L Ganasamoorthy,M,Indian,1962-09-29
+11015,Puvananderan a/l Ganasamoorthy,M,Indian,1962-09-29
 11016,Mohamed Diah bin Baharun,M,Malay,1965-02-04
 11017,V. Gunalan a/l Velu,M,Indian,1973-02-06
 11018,Shahril Sufian bin Hamdan,M,Malay,1985-10-29
@@ -11021,7 +11021,7 @@ candidate_uid,name,sex,ethnicity,dob
 11020,Sabirin bin Marsono,M,Malay,1967-08-08
 11021,Ong Siang Liang,M,Chinese,1970-03-30
 11022,V M Panjamothy a/l Muthusamy,M,Indian,1955-07-21
-11023,Prabakaran A/L Parameswaran,M,Indian,1996-02-08
+11023,Prabakaran a/l Parameswaran,M,Indian,1996-02-08
 11024,Azhar bin Yahya,M,Malay,1975-04-27
 11025,Razali bin Tumirin,M,Malay,1961-08-02
 11026,Mohd Solleh bin Ab Razak,M,Malay,1985-07-24
@@ -11047,7 +11047,7 @@ candidate_uid,name,sex,ethnicity,dob
 11046,Rafiei bin Mustapha,M,Malay,1953-12-10
 11047,Eddin Syazlee bin Shith,M,Malay,1974-01-02
 11048,Ng Kian Nam,M,Chinese,1979-02-11
-11049,David Dass A/L Aseerpatham,M,Indian,1975-10-07
+11049,David Dass a/l Aseerpatham,M,Indian,1975-10-07
 11050,Mustafa bin Dolah,M,Malay,1952-05-23
 11051,Roseli bin Abdul Gani,M,Malay,1955-01-13
 11052,Mahfuz bin Roslan,M,Malay,1984-11-02
@@ -11160,7 +11160,7 @@ candidate_uid,name,sex,ethnicity,dob
 11159,Ricardo Osmund Yampil Baba,M,Bumi Sarawak,1954-02-10
 11160,Danny Piri,M,Bumi Sarawak,1979-02-03
 11161,Mohammad bin Brahim,M,Bumi Sarawak,1965-07-28
-11162,Kamis bin Hj Yub,M,Malay,1965-05-25
+11162,Kamis bin Yub,M,Malay,1965-05-25
 11163,Teh Chai Aan,M,Chinese,1965-xx-xx
 11164,Ruzaini bin Rais,M,Malay,1972-xx-xx
 11165,Mohammad bin Yahya,M,Malay,1957-04-05
@@ -11225,11 +11225,11 @@ candidate_uid,name,sex,ethnicity,dob
 11224,Norma binti Awang,F,Malay,1970-07-09
 11225,Mohd Saffuan bin Sabari,M,Malay,1985-02-12
 11226,Muzaini bin Azizan,M,Malay,1968-03-12
-11227,Palaniappan A/L Marimuthu,M,Indian,1958-05-03
+11227,Palaniappan a/l Marimuthu,M,Indian,1958-05-03
 11228,Abdul Rashid bin Abdullah,M,Malay,1961-07-17
 11229,Mohd Nazri bin Abu Hassan,M,Malay,1970-01-20
 11230,Jaspal Singh a/l Gurbakhes Singh,M,Other,1962-03-06
-11231,Summugam A/L Rengasamy,M,Indian,1960-04-10
+11231,Summugam a/l Rengasamy,M,Indian,1960-04-10
 11232,Mohd Ali bin Sulaiman,M,Malay,1967-08-08
 11233,Annuar bin Ahmad,M,Malay,1968-09-22
 11234,Hanif bin Ghazali,M,Malay,1973-01-01
@@ -11310,7 +11310,7 @@ candidate_uid,name,sex,ethnicity,dob
 11309,Zarir bin Yaakob,M,Malay,1964-06-27
 11310,Mohd Hanafiah bin Abdul Aziz,M,Malay,1967-08-31
 11311,Wan Marzudi bin Wan Omar,M,Malay,1960-02-23
-11312,Mohd Rodzi bin Ja'Afar,M,Malay,1968-03-09
+11312,Mohd Rodzi bin Ja'afar,M,Malay,1968-03-09
 11313,Mohd Kaisan bin Ab Rahman,M,Malay,1960-12-19
 11314,Ab Rahman bin Yaacob,M,Malay,1951-06-08
 11315,Azhar bin Salleh,M,Malay,1967-01-07
@@ -11318,7 +11318,7 @@ candidate_uid,name,sex,ethnicity,dob
 11317,Ahmad Tarmizi bin Ismail,M,Malay,1960-02-01
 11318,Mohd Redzuan bin Alias,M,Malay,1979-08-28
 11319,Wan Mohd Adnan bin Wan Aziz,M,Malay,1967-01-12
-11320,Abdul Kadir bin Hj Othman,M,Malay,1962-01-03
+11320,Abdul Kadir bin Othman,M,Malay,1962-01-03
 11321,Ramzi bin Mohd Yusoff,M,Malay,1966-02-27
 11322,Asran bin Alias,M,Malay,1982-10-09
 11323,Aminuddin bin Yaacob,M,Malay,1964-11-09
@@ -11407,12 +11407,12 @@ candidate_uid,name,sex,ethnicity,dob
 11406,Lim Hai Song,M,Chinese,1951-08-13
 11407,Ong Yin Yin,F,Chinese,1985-07-14
 11408,Teoh Chai Deng,M,Chinese,1962-01-26
-11409,Hari Devyndran A/L Muniswaran,M,Indian,1964-10-01
+11409,Hari Devyndran a/l Muniswaran,M,Indian,1964-10-01
 11410,Fabian George Albart,M,Indian,1987-03-07
 11411,Ang Chor Keong,M,Chinese,1973-08-26
 11412,Teoh Uat Lye,M,Chinese,1960-06-24
 11413,Dhinagaran a/l Jayabalan,M,Indian,1973-02-16
-11414,Satees A/L Muniandy,M,Indian,1985-03-28
+11414,Satees a/l Muniandy,M,Indian,1985-03-28
 11415,Teoh Huck Ping,M,Chinese,1979-09-20
 11416,Jasper Ooi Zong Han,M,Chinese,1987-04-07
 11417,Abu Bakar Sidekh bin Zainul Abidin,M,Malay,1976-07-26
@@ -11432,7 +11432,7 @@ candidate_uid,name,sex,ethnicity,dob
 11431,Lai Yean Nee,F,Chinese,1984-03-07
 11432,Suresh a/l Muniandy,M,Indian,1971-12-16
 11433,Kumary a/p Retnam,F,Indian,1967-11-26
-11434,Samuganathan A/L Muniandy,M,Indian,1965-08-21
+11434,Samuganathan a/l Muniandy,M,Indian,1965-08-21
 11435,Edward Joseph,M,Indian,1957-03-06
 11436,Tang Hiang Lye,M,Chinese,1962-11-04
 11437,Norazman bin Ishak,M,Malay,1973-01-07
@@ -11440,9 +11440,9 @@ candidate_uid,name,sex,ethnicity,dob
 11439,Goh Bee Koon,M,Chinese,1963-07-23
 11440,Hartini Tan binti Abdullah,F,Chinese,1962-06-14
 11441,Goh Choon Aik,M,Chinese,1974-02-08
-11442,Kumaravelu A/L Arumugam,M,Indian,1980-07-01
+11442,Kumaravelu a/l Arumugam,M,Indian,1980-07-01
 11443,Kiew Hen Chong,M,Chinese,1968-02-05
-11444,Daphne A/P Edward,F,Indian,1980-08-28
+11444,Daphne a/p Edward,F,Indian,1980-08-28
 11445,H'ng Mooi Lye,M,Chinese,1978-06-23
 11446,Tan Chew Suan,F,Chinese,1970-04-18
 11447,Osman bin Jaafar,M,Malay,1973-08-08
@@ -11452,7 +11452,7 @@ candidate_uid,name,sex,ethnicity,dob
 11451,Nor Zamri bin Latiff (Abang Zam),M,Malay,1968-09-24
 11452,Marvin Lee Zheng Yong,M,Chinese,1981-10-06
 11453,Chua Cheong Wee,M,Chinese,1969-04-22
-11454,Manikandan A/L Ramayah,M,Indian,1978-01-06
+11454,Manikandan a/l Ramayah,M,Indian,1978-01-06
 11455,Ooi Zhi Yi,M,Chinese,1984-11-02
 11456,Wu Kai Min,M,Chinese,1956-10-27
 11457,Wee Kean Wai,M,Chinese,1988-07-06
@@ -11462,7 +11462,7 @@ candidate_uid,name,sex,ethnicity,dob
 11461,Lim Swee Bok,M,Chinese,1981-06-23
 11462,Chew Seng Tung,M,Chinese,1983-10-09
 11463,Daniel Gooi Zi Sen,M,Chinese,1987-06-11
-11464,Ragindran A/L Sivasamy,M,Indian,1960-09-11
+11464,Ragindran a/l Sivasamy,M,Indian,1960-09-11
 11465,Koay Teng Lye,M,Chinese,1967-02-01
 11466,Ong Chun Jiet,M,Chinese,1979-11-15
 11467,Tan Hing Teik,M,Chinese,1981-12-05
@@ -11480,8 +11480,8 @@ candidate_uid,name,sex,ethnicity,dob
 11479,Joseph Ng Soon Siang,M,Chinese,1979-04-10
 11480,Wong Chin Chong,M,Chinese,1974-09-29
 11481,Kuan Aun Wan,M,Chinese,1986-04-07
-11482,Vikneswaran A/L Muniandy,M,Indian,1980-03-14
-11483,Kumaresan A/L Aramugam,M,Indian,1987-09-06
+11482,Vikneswaran a/l Muniandy,M,Indian,1980-03-14
+11483,Kumaresan a/l Aramugam,M,Indian,1987-09-06
 11484,Teoh Kean Liang,M,Chinese,1984-09-14
 11485,Teoh Kok Siang,M,Chinese,1977-01-29
 11486,Mohd Farhan bin Yusri,M,Malay,1984-05-17
@@ -11535,7 +11535,7 @@ candidate_uid,name,sex,ethnicity,dob
 11534,Isran Fahmi bin Ismail,M,Malay,1975-09-07
 11535,Mohd Hafez bin Sabri,M,Malay,1986-01-12
 11536,Mat Salleh bin Said,M,Malay,1971-12-16
-11537,Murugiah A/L Subramaniam,M,Indian,1965-01-18
+11537,Murugiah a/l Subramaniam,M,Indian,1965-01-18
 11538,Muhammad Arafat bin Varisai Mahamad,M,Malay,1983-xx-xx
 11539,Jenny Choy Tsi Jen,F,Chinese,1988-01-01
 11540,Liew Kar Tuan,M,Chinese,1962-12-20
@@ -11543,9 +11543,9 @@ candidate_uid,name,sex,ethnicity,dob
 11542,Ng Kai Cheong,M,Chinese,1984-09-21
 11543,Low Guo Nan,M,Chinese,1983-02-14
 11544,Thangarani a/p Thiagarajan,F,Indian,1962-07-19
-11545,Mohanarani A/P Rasiah,F,Indian,1955-07-21
+11545,Mohanarani a/p Rasiah,F,Indian,1955-07-21
 11546,Cheah Pou Hian,M,Chinese,1970-01-01
-11547,Thankaraj A/L Krishnan,M,Indian,1963-05-28
+11547,Thankaraj a/l Krishnan,M,Indian,1963-05-28
 11548,Wong Kam Seng,M,Chinese,xxxx-xx-xx
 11549,Steven Chaw Kam Foon,M,Chinese,1983-12-19
 11550,Chin Kwai Leong,M,Chinese,1973-06-27
@@ -11588,17 +11588,17 @@ candidate_uid,name,sex,ethnicity,dob
 11587,Mohd Mohkheri Jalil,M,Malay,1959-01-01
 11588,Khairuddin bin Tarmizi,M,Malay,1964-10-30
 11589,Kong Sun Chin,M,Chinese,1962-10-28
-11590,Kumaresan A/L Shanmugam,M,Indian,1971-10-29
+11590,Kumaresan a/l Shanmugam,M,Indian,1971-10-29
 11591,Muhammad Faizul bin Mohamed Ismail,M,Malay,1992-01-24
 11592,Mohd Azhar bin Mohd Rafiei,M,Malay,1965-01-13
-11593,Appalasamy A/L Jetakiah,M,Indian,1959-11-08
-11594,Elango A/L Vadiveloo,M,Indian,1965-xx-xx
+11593,Appalasamy a/l Jetakiah,M,Indian,1959-11-08
+11594,Elango a/l Vadiveloo,M,Indian,1965-xx-xx
 11595,Muhammad Zulfadli bin Zainal,M,Malay,1984-xx-xx
 11596,Mohd Amran bin Ibrahim,M,Malay,1972-01-12
 11597,Sayed Zamzuri bin Sayed Nengah,M,Malay,1965-05-31
 11598,Chiong Yoke Kong,M,Chinese,1983-02-28
 11599,Leong Tak Man,M,Chinese,1950-12-10
-11600,Kumar A/L Silambaram,M,Indian,1973-08-13
+11600,Kumar a/l Silambaram,M,Indian,1973-08-13
 11601,Abdul Rasid Mohamed Ali,M,Malay,1965-06-23
 11602,Mat Nor bin Ayat,M,Malay,1973-12-19
 11603,Alias bin Abdul Rahman,M,Malay,1965-04-24
@@ -11655,7 +11655,7 @@ candidate_uid,name,sex,ethnicity,dob
 11654,Mohd Zamri bin Nong,M,Malay,1973-09-28
 11655,Young Syefura binti Othman,F,Malay,1989-11-09
 11656,Roslan bin Md Esa,M,Malay,1980-03-02
-11657,Karunaneethi A/L Thangavel,M,Indian,1954-06-25
+11657,Karunaneethi a/l Thangavel,M,Indian,1954-06-25
 11658,Mohd Khairuddin bin Abdullah,M,Malay,1959-06-10
 11659,Zaharim bin Osman,M,Malay,1981-09-05
 11660,Nor Haizan binti Abu Hassan,F,Malay,1959-05-01
@@ -11688,7 +11688,7 @@ candidate_uid,name,sex,ethnicity,dob
 11687,Rozana binti Zainal Abidin,F,Malay,1967-07-12
 11688,Muhammad Jafarudin bin Sheik Daud,M,Malay,1977-03-03
 11689,Juwairiya binti Zulkifli,F,Malay,1985-07-06
-11690,Kumaran A/L Tamil Dassen,M,Indian,1992-08-12
+11690,Kumaran a/l Tamil Dassen,M,Indian,1992-08-12
 11691,Jefri bin Mejan,M,Malay,1979-03-07
 11692,Mohd Shaid bin Rosli,M,Malay,1982-07-15
 11693,Mohd Noor bin Mohd Shahar,M,Malay,1976-10-11
@@ -11701,7 +11701,7 @@ candidate_uid,name,sex,ethnicity,dob
 11700,Chua Wei Kiat,M,Chinese,1989-03-23
 11701,Chan Wun Hoong,M,Chinese,1979-01-25
 11702,Md Nasir bin Ibrahim,M,Malay,1963-08-05
-11703,Rajandran A/L Batumalai,M,Indian,1960-06-05
+11703,Rajandran a/l Batumalai,M,Indian,1960-06-05
 11704,Badrul Hisham bin Md Zin,M,Malay,1968-05-25
 11705,Mohamad bin Ibrahim,M,Malay,1967-03-20
 11706,Megat Zulkarnain bin Omardin,M,Malay,1969-10-16
@@ -11735,7 +11735,7 @@ candidate_uid,name,sex,ethnicity,dob
 11734,Michelle Ng Mei Sze,F,Chinese,1990-04-07
 11735,Chong Ah Watt,M,Chinese,1952-01-01
 11736,Mohd Ghazali bin Daud,M,Malay,1954-05-26
-11737,Vigneswaran A/L T.Subramaniam,M,Indian,1951-03-07
+11737,Vigneswaran a/l T.Subramaniam,M,Indian,1951-03-07
 11738,Yusoff bin M Haniff,M,Malay,1957-08-27
 11739,Shaharuddin bin Badaruddin,M,Malay,1962-09-19
 11740,Ariffin bin Mahaiyuddin,M,Malay,1970-04-06
@@ -11752,7 +11752,7 @@ candidate_uid,name,sex,ethnicity,dob
 11751,Hanafi bin Zulkapli,M,Malay,1983-12-16
 11752,Shatiri bin Mansor,M,Malay,1963-04-27
 11753,Siti Rohaya binti Ahad,F,Malay,1969-09-20
-11754,Sivarajan A/L Arumugam,M,Indian,1969-10-23
+11754,Sivarajan a/l Arumugam,M,Indian,1969-10-23
 11755,Jumaeah binti Masdi,F,Malay,1971-11-26
 11756,Mohd Najwan bin Halimi,M,Malay,1985-05-08
 11757,Ahmad Dusuki bin Abdul Rani,M,Malay,1976-02-07
@@ -11762,36 +11762,36 @@ candidate_uid,name,sex,ethnicity,dob
 11761,Alex Shee Chee Weng,M,Chinese,1976-11-17
 11762,Mohd Fakhrulrazi bin Mohd Mokhtar,M,Malay,1978-09-03
 11763,Saroni bin Judi,M,Malay,1960-08-28
-11764,Gandhi A/P Nagamuthu,F,Indian,1985-01-08
+11764,Gandhi a/p Nagamuthu,F,Indian,1985-01-08
 11765,Abdul Rashid bin Asari,M,Malay,1951-10-17
 11766,Mohd Khairi bin Hussin,M,Malay,1963-12-19
-11767,Jeichandran A/L Wadivelu,M,Indian,1980-06-02
+11767,Jeichandran a/l Wadivelu,M,Indian,1980-06-02
 11768,Zainal Azwar bin Kamaruddin,M,Malay,1965-01-07
 11769,Teoh Kah Yeong,M,Chinese,1979-12-31
 11770,Seikh Rajesh bin Seikh Ahmad,M,Malay,1974-03-18
 11771,Azmizam bin Zaman Huri,M,Malay,1973-04-16
-11772,Shanmugasundram A/L Veerapan,M,Indian,1978-11-15
+11772,Shanmugasundram a/l Veerapan,M,Indian,1978-11-15
 11773,Khalid bin Nayan,M,Malay,1974-05-01
-11774,Santokh Singh A/L Gurdev Singh,M,Other,1964-02-06
+11774,Santokh Singh a/l Gurdev Singh,M,Other,1964-02-06
 11775,Tony Leong Tuck Chee,M,Chinese,1976-04-29
 11776,Tee Hooi Ling,F,Chinese,1975-08-21
-11777,Gunarajah A/L R George,M,Indian,1963-09-26
-11778,Rajan A/L Manikesavan,M,Indian,1970-01-29
-11779,Subramaniam A/L T Retnam,M,Indian,1953-10-05
-11780,Telai Amblam A/L Mariappan,M,Indian,1965-06-06
-11781,Sundarajoo A/L Periasamy,M,Indian,1953-02-05
+11777,Gunarajah a/l R George,M,Indian,1963-09-26
+11778,Rajan a/l Manikesavan,M,Indian,1970-01-29
+11779,Subramaniam a/l T Retnam,M,Indian,1953-10-05
+11780,Telai Amblam a/l Mariappan,M,Indian,1965-06-06
+11781,Sundarajoo a/l Periasamy,M,Indian,1953-02-05
 11782,Kamaruzzaman bin Johari,M,Malay,1964-01-02
 11783,Mohd Yusof bin Abdullah,M,Malay,1967-02-04
 11784,Abdul Razak bin Ismail,M,Malay,1961-05-06
 11785,Burhan bin Adnan,M,Malay,1964-11-01
 11786,Tiew Hock Huat,M,Chinese,1969-11-26
-11787,Rajasekaran A/L Soundarapandy,M,Indian,1954-05-29
+11787,Rajasekaran a/l Soundarapandy,M,Indian,1954-05-29
 11788,Mohd Hamidi bin Abu Bakar,M,Malay,1968-07-09
 11789,Ng Siok Hwa,F,Chinese,1963-03-19
 11790,Rozana binti Kamarulzaman,F,Malay,1969-01-29
 11791,Adhif Syan bin Abdullah,M,Malay,1981-08-26
 11792,Yusmi Haniff bin Ariffin,M,Malay,1976-03-29
-11793,Harry Arul Raj A/L Krishnan,M,Indian,1978-08-27
+11793,Harry Arul Raj a/l Krishnan,M,Indian,1978-08-27
 11794,Rohaya binti Mohd Shahir,F,Malay,1961-01-20
 11795,Seet Tee Gee,M,Chinese,1961-01-30
 11796,Jamalus bin Mansor,M,Malay,1946-05-23
@@ -11809,7 +11809,7 @@ candidate_uid,name,sex,ethnicity,dob
 11808,Abdul Rahman bin Jaafar,M,Malay,1965-09-18
 11809,Mohd Fairuz bin Mohd Isa,M,Malay,1976-06-22
 11810,S Musliadi bin Sabtu,M,Malay,1976-09-04
-11811,Surash A/L Sreenivasan,M,Indian,1974-01-30
+11811,Surash a/l Sreenivasan,M,Indian,1974-01-30
 11812,Mustafar Bakri bin Abdul Aziz,M,Malay,1958-11-15
 11813,Chong Wan Yu,M,Chinese,1973-07-23
 11814,Suhaimi bin Kassim,M,Malay,1971-06-12
@@ -11818,7 +11818,7 @@ candidate_uid,name,sex,ethnicity,dob
 11817,Leaw Kok Chan,M,Chinese,1975-06-02
 11818,Mohd Abu Zarim bin Abdul Rahman,M,Malay,1976-12-28
 11819,Lim Kok Kian,M,Chinese,1965-05-10
-11820,Balamurugan A/L Sanmugam,M,Indian,1974-07-17
+11820,Balamurugan a/l Sanmugam,M,Indian,1974-07-17
 11821,Yau Con Seng,M,Chinese,1955-06-10
 11822,Syamsul Amri bin Ismail,M,Malay,1977-08-03
 11823,Rahim bin Yusof,M,Malay,1954-11-27
@@ -11831,10 +11831,10 @@ candidate_uid,name,sex,ethnicity,dob
 11830,Mak Kah Keong,M,Chinese,1985-05-08
 11831,Nicole Tan Lee Koon,F,Chinese,1971-03-17
 11832,Yap Siok Moy,F,Chinese,1965-11-27
-11833,Saraswathy A/P Paragazum,F,Indian,1979-10-27
+11833,Saraswathy a/p Paragazum,F,Indian,1979-10-27
 11834,Ho Choy Shin (Dafney Ho),F,Chinese,1978-04-08
-11835,Parimala Devi A/P Theyagason,F,Indian,1976-03-24
-11836,Sagaya Rajan A/L Xavier,M,Indian,1980-09-12
+11835,Parimala Devi a/p Theyagason,F,Indian,1976-03-24
+11836,Sagaya Rajan a/l Xavier,M,Indian,1980-09-12
 11837,Masita binti Mohamed Ali,F,Malay,1963-08-28
 11838,Rosmin bin Adam,M,Malay,1969-02-22
 11839,Azizan bin Marzuki,M,Malay,1954-08-01
@@ -11846,7 +11846,7 @@ candidate_uid,name,sex,ethnicity,dob
 11845,Mohd Ibrahim Khan bin Amanulla Khan,M,Malay,1968-07-11
 11846,Mohammad Noor Rizal bin Ishak,M,Malay,1972-05-01
 11847,Rusli bin Abdullah,M,Malay,1964-10-23
-11848,Thinalan A/L T Rajagopalu,M,Indian,1978-10-05
+11848,Thinalan a/l T Rajagopalu,M,Indian,1978-10-05
 11849,Ishak bin Maasin,M,Malay,1962-09-21
 11850,Saiful Adly bin Abd Wahab,M,Malay,1978-05-18
 11851,Koh Kim Swee,M,Chinese,1971-11-20
@@ -11859,9 +11859,9 @@ candidate_uid,name,sex,ethnicity,dob
 11858,Zairi bin Suboh,M,Malay,1980-08-06
 11859,Muhammad Jailani bin Khamis,M,Malay,1972-05-27
 11860,Muhammad Rashidi bin Mohd Razak,M,Malay,1990-11-12
-11861,Panirchelvam A/L Pichamuthu,M,Indian,1959-06-17
+11861,Panirchelvam a/l Pichamuthu,M,Indian,1959-06-17
 11862,Emransyah bin Ismail,M,Malay,1977-11-27
-11863,Saminathan A/L Ganesan (G. Saminathan),M,Indian,1985-10-17
+11863,Saminathan a/l Ganesan (G. Saminathan),M,Indian,1985-10-17
 11864,Mohsin bin Ibrahim,M,Malay,1957-07-03
 11865,Mohd Sofi bin Abdul Wahab (Sofi Wahab),M,Malay,1968-10-12
 11866,Zamzuri bin Arifin,M,Malay,1970-04-22
@@ -11887,7 +11887,7 @@ candidate_uid,name,sex,ethnicity,dob
 11886,Seah Shoo Chin (Allex Seah),M,Chinese,1983-05-21
 11887,Low Chee Leong,M,Chinese,1970-05-21
 11888,Melvin Chua Kew Wei,M,Chinese,1978-07-15
-11889,"Lee Chong Leng, Shaun",M,Chinese,1981-11-13
+11889,Shaun Lee Chong Leng,M,Chinese,1981-11-13
 11890,Abdul Razak bin Abdul Rahman,M,Malay,1973-06-14
 11891,Noor Effandi bin Ahmad,M,Malay,1982-10-08
 11892,Rosazli bin Md Yasin,M,Malay,1977-10-01
@@ -11970,7 +11970,7 @@ candidate_uid,name,sex,ethnicity,dob
 11969,Ting Choon Chai,M,Chinese,1968-01-18
 11970,Rohani binti Yaacob,F,Malay,1954-02-24
 11971,Che Zakaria bin Mohd Salleh,M,Malay,1961-07-03
-11972,Yahya bin Ja'Afar,M,Malay,1963-05-08
+11972,Yahya bin Ja'afar,M,Malay,1963-05-08
 11973,Mohd Izhar bin Ahmad,M,Malay,1957-10-26
 11974,Zakiah binti Tukirin,F,Malay,1963-10-23
 11975,Ang Boon Heng,M,Chinese,1965-10-01
@@ -11981,7 +11981,7 @@ candidate_uid,name,sex,ethnicity,dob
 11980,Dzulkefly bin Ahmad,M,Malay,1965-08-01
 11981,Sallehuddin bin Mohd Dahiran (Salleh Udden),M,Malay,1967-08-29
 11982,Mohd Khairi bin Md Malik,M,Malay,1988-02-09
-11983,Abd Aziz bin Ja'Afar,M,Malay,1967-07-14
+11983,Abd Aziz bin Ja'afar,M,Malay,1967-07-14
 11984,Teo Lee Ho,M,Chinese,1966-04-07
 11985,Alan Tee Boon Tsong,M,Chinese,1979-11-01
 11986,Kenny Shen Poh Kuan,M,Chinese,1977-11-29
@@ -12044,7 +12044,7 @@ candidate_uid,name,sex,ethnicity,dob
 12043,Daud bin Yusof,M,Bumi Sabah,1961-01-22
 12044,Ali Omar bin Mohd Idris,M,Bumi Sabah,1947-09-07
 12045,Rosjelen binti Salimat,F,Bumi Sabah,1971-05-30
-12046,Haji Yahya bin Ahmad,M,Bumi Sabah,1965-12-11
+12046,Yahya bin Ahmad,M,Bumi Sabah,1965-12-11
 12047,Abd Sani bin Marip,M,Bumi Sabah,1961-07-22
 12048,Johair binti Mat Lani,F,Bumi Sabah,1965-02-14
 12049,Nikol Tiunsu (Herman Tiongsoh),F,Bumi Sabah,1949-12-28
@@ -12489,13 +12489,13 @@ candidate_uid,name,sex,ethnicity,dob
 12488,Abdullah bin Mahadi,M,Malay,1970-08-11
 12489,Muhammad Asri bin Ibrahim,M,Malay,1986-09-04
 12490,Zulkiflee bin Mohd Zin,M,Malay,1968-06-03
-12491,Murali A/L Krishnan,M,Indian,1968-04-27
+12491,Murali a/l Krishnan,M,Indian,1968-04-27
 12492,Zamri bin Pakiri,M,Malay,1975-05-19
 12493,Sabarudin bin Kudus,M,Malay,1967-05-27
-12494,Shanmugam A/L V.Pitchay (VP Shan),M,Indian,1969-03-30
+12494,Shanmugam a/l V.Pitchay (VP Shan),M,Indian,1969-03-30
 12495,Azafen bin Amin,M,Malay,1968-01-01
 12496,Laila Norinda binti Maon,F,Malay,1977-09-25
-12497,Mohan Singh A/L Booda Singh,M,Indian,1960-02-26
+12497,Mohan Singh a/l Booda Singh,M,Indian,1960-02-26
 12498,Mohd Amir Fitri bin Muharam,M,Malay,1987-05-31
 12499,Ngwe Hee Sem,M,Chinese,1968-01-02
 12500,Law Bing Haw,M,Chinese,1981-07-18
@@ -12545,7 +12545,7 @@ candidate_uid,name,sex,ethnicity,dob
 12544,Muhammad Ariff Adly bin Mohammad,M,Malay,1989-08-25
 12545,Ashraf Mukhlis bin Minghat,M,Malay,1971-03-25
 12546,Mohd Yadzil bin Yaakub,M,Malay,1978-04-14
-12547,Prasanth Kumar A/L Brakasam,M,Indian,1994-04-23
+12547,Prasanth Kumar a/l Brakasam,M,Indian,1994-04-23
 12548,Khaidhirah binti Abu Zahar,F,Malay,1984-03-02
 12549,Norazlanshah bin Hazali,M,Malay,1980-08-11
 12550,Muhammad Kohmeni Kamal,M,Malay,1991-11-06
@@ -12722,7 +12722,7 @@ candidate_uid,name,sex,ethnicity,dob
 12721,Anie Amat,F,Bumi Sarawak,1964-03-30
 12722,Ani bin Kazan,M,Bumi Sarawak,1972-06-18
 12723,Stevenson anak Joseph Sumbang,M,Bumi Sarawak,1981-06-22
-12724,Raba'Ah binti Tudin,F,Bumi Sarawak,1964-07-25
+12724,Raba'ah binti Tudin,F,Bumi Sarawak,1964-07-25
 12725,Robert Tang Eng Hui,M,Chinese,1967-01-02
 12726,Johnny Pang Leong Ming,M,Chinese,1960-12-29
 12727,Yek Hock Siang,M,Chinese,1977-04-30
@@ -12789,7 +12789,7 @@ candidate_uid,name,sex,ethnicity,dob
 12788,Md Taib bin Md Suhut,M,Malay,1962-01-13
 12789,Mohd Akhiri bin Mahmood,M,Malay,1972-07-13
 12790,Mohamad Fazli bin Mohamad Salleh,M,Malay,1986-11-04
-12791,Johar bin Haji Siraj,M,Malay,1968-03-02
+12791,Johar bin Siraj,M,Malay,1968-03-02
 12792,Elia Nadira,F,Malay,1983-10-20
 12793,Suraya binti Sulaiman,F,Malay,1981-05-17
 12794,Sahrihan bin Jani,M,Malay,1977-07-30
@@ -13029,17 +13029,17 @@ candidate_uid,name,sex,ethnicity,dob
 13028,Tan Lee Huat,M,Chinese,1967-04-01
 13029,Wong Chia Zhen,M,Chinese,1985-03-29
 13030,Fadhlina binti Sidek,F,Malay,1977-10-16
-13031,Thanenthiran A/L Ramankutty,M,Indian,1963-07-04
+13031,Thanenthiran a/l Ramankutty,M,Indian,1963-07-04
 13032,Richie Huan Xin Yun,M,Chinese,1989-04-16
 13033,Razalif bin Mohamad Zain,M,Malay,1990-06-11
 13034,Lim Hui Ying,F,Chinese,1963-06-24
 13035,Tan Kim Nee,F,Chinese,1984-12-27
 13036,H'ng Khoon Leng,M,Chinese,1964-09-17
-13037,Loganathan A/L Thoraisamy ,M,Indian,1963-12-27
+13037,Loganathan a/l Thoraisamy ,M,Indian,1963-12-27
 13038,Lim Huat Poh (Martin),M,Chinese,1968-12-06
 13039,Thinagaranabhan a/l Padmanabhan,M,Indian,1981-09-04
 13040,Saw Yee Fung,F,Chinese,1989-08-11
-13041,Ravinder Singh A/L Mall Singh,M,Other,1942-10-29
+13041,Ravinder Singh a/l Mall Singh,M,Other,1942-10-29
 13042,Johnny Ch'ng Ewe Gee,M,Chinese,1972-12-21
 13043,Muhammad Harris Idaham bin Abdul Rashid,M,Malay,1992-11-11
 13044,Sabaruddin bin Ahmad,M,Malay,1973-05-26
@@ -13055,15 +13055,15 @@ candidate_uid,name,sex,ethnicity,dob
 13054,Fakhruldin bin Mohd Hashim,M,Malay,1964-05-23
 13055,Mohammad Sollehin bin Mohamad Tajie,M,Malay,1987-12-10
 13056,Neow Choo Seong,M,Chinese,1985-03-19
-13057,Rama Moorthy A/L Appanah (Steven Ram),M,Indian,1964-05-29
+13057,Rama Moorthy a/l Appanah (Steven Ram),M,Indian,1964-05-29
 13058,Azahari bin Hasan,M,Malay,1974-01-02
 13059,Mohd Arrif bin Abdul Majid,M,Malay,1981-11-25
 13060,Muhammad Kamil bin Abdul Munim,M,Malay,1990-04-29
-13061,Indrani A/P Ramasamy,F,Indian,1972-06-18
+13061,Indrani a/p Ramasamy,F,Indian,1972-06-18
 13062,Baharudin bin Kamarudin,M,Malay,1959-11-23
 13063,Ahmad Fauzi bin Mohd Jaafar,M,Malay,1973-02-06
-13064,Rajah A/L Narasaim,M,Indian,1965-05-22
-13065,Irudianathan A/L Gabriel,M,Indian,xxxx-xx-xx
+13064,Rajah a/l Narasaim,M,Indian,1965-05-22
+13065,Irudianathan a/l Gabriel,M,Indian,xxxx-xx-xx
 13066,Abdul Rahim Tahir,M,Malay,1988-03-10
 13067,Nor Afzainizam bin Salleh,M,Malay,1975-08-24
 13068,Chek Kwong Weng,M,Chinese,1976-08-23
@@ -13076,8 +13076,8 @@ candidate_uid,name,sex,ethnicity,dob
 13075,Leong Cheok Lung,M,Chinese,1978-04-05
 13076,Muhammad Farhan bin Abdul Rahim,M,Malay,1997-04-04
 13077,Cally Ting Cheau Yann,F,Chinese,1993-05-27
-13078,Balachandran A/L Gopal,M,Indian,1977-06-24
-13079,Saraswathy A/P Kandasami,F,Indian,1968-09-24
+13078,Balachandran a/l Gopal,M,Indian,1977-06-24
+13079,Saraswathy a/p Kandasami,F,Indian,1968-09-24
 13080,Muhammad Yadzan bin Mohammad,M,Malay,1966-02-04
 13081,Mohamaed Akbar Sherrif Ali bin Yasin,M,Malay,1962-05-12
 13082,Mior Nor Haidir bin Suhaimi,M,Malay,1979-01-04
@@ -13161,8 +13161,8 @@ candidate_uid,name,sex,ethnicity,dob
 13160,Hizatul Isham bin Abdul Jalil,M,Malay,1976-06-11
 13161,Muhammad bin Noor Azman,M,Malay,1992-01-27
 13162,Rahim bin Awang,M,Malay,1964-03-05
-13163,Sevelinggam A/L V.Ponniah,M,Indian,1975-xx-xx
-13164,Jaya Chandran A/L Perumal,M,Indian,1975-05-28
+13163,Sevelinggam a/l V.Ponniah,M,Indian,1975-xx-xx
+13164,Jaya Chandran a/l Perumal,M,Indian,1975-05-28
 13165,Mohd Hedrhin bin Ramli,M,Malay,1979-01-10
 13166,Loo Cheng Wee,M,Chinese,1963-09-01
 13167,Chandrasegar,M,Indian,xxxx-xx-xx
@@ -13170,18 +13170,18 @@ candidate_uid,name,sex,ethnicity,dob
 13169,Fahmi Bazlan bin Muda,M,Malay,1987-10-24
 13170,Kumar a/l Karananedi,M,Indian,1987-05-20
 13171,Kajendran a/l Doraisamy,M,Indian,1982-01-25
-13172,P.Raveentharan A/L A.Periasamy,M,Indian,1963-02-13
+13172,P.Raveentharan a/l A.Periasamy,M,Indian,1963-02-13
 13173,Sarah Afiqah binti Zainol Arif,F,Malay,1996-09-08
 13174,Surendhar a/l Selvaraju,M,Indian,1983-06-24
 13175,Zanariah binti Jumhuri,F,Malay,1968-07-26
 13176,Mohd Ridzuan bin Abdullah,M,Malay,1967-xx-xx
-13177,Ganeskumar A/L Murugesu,M,Indian,1982-01-05
+13177,Ganeskumar a/l Murugesu,M,Indian,1982-01-05
 13178,Mohd Syahrul Amri bin Mat Sari,M,Malay,1986-05-01
 13179,Che Asmah binti Ibrahim,F,Malay,1963-05-24
 13180,Mohd Daud Leong bin Abdullah,M,Chinese,1965-02-27
-13181,Muneswaran A/L Muthiah,M,Indian,1975-05-31
+13181,Muneswaran a/l Muthiah,M,Indian,1975-05-31
 13182,Anuar bin Basiran,M,Malay,1977-11-22
-13183,Nageswaran A/L Ravi,M,Indian,1989-01-07
+13183,Nageswaran a/l Ravi,M,Indian,1989-01-07
 13184,Phaang Jing Fatt,M,Chinese,1978-05-16
 13185,Shaun Young Shang Yi,M,Chinese,1986-12-20
 13186,Yap Zheng Hoe,M,Chinese,1992-08-03
@@ -13226,7 +13226,7 @@ candidate_uid,name,sex,ethnicity,dob
 13225,Azman bin Idris,M,Malay,1968-09-26
 13226,Nor Azman bin Mohamad,M,Malay,1979-10-08
 13227,Jufitri bin Joha,M,Malay,1979-08-23
-13228,Tinagaran A/L Subramaniam,M,Indian,1977-08-21
+13228,Tinagaran a/l Subramaniam,M,Indian,1977-08-21
 13229,Ramly bin Awalludin,M,Malay,1955-08-15
 13230,Abdul Rani bin Kulup Abdullah,M,Malay,1955-03-10
 13231,Ahmad Idham bin Ahmad Nadzri,M,Malay,1971-07-17
@@ -13366,7 +13366,7 @@ candidate_uid,name,sex,ethnicity,dob
 13365,Alim Impira,M,Bumi Sarawak,1960-11-22
 13366,Rodiyah binti Sapiee,F,Bumi Sarawak,1978-03-14
 13367,Lahaji bin Lahiya,M,Bumi Sarawak,1951-09-16
-13368,Mohamad Shafizan Haji Kepli,M,Bumi Sarawak,1985-10-02
+13368,Mohamad Shafizan bin Kepli,M,Bumi Sarawak,1985-10-02
 13369,Doris Sophia anak Brodi,F,Bumi Sarawak,1960-11-13
 13370,Tay Wei Wei,M,Chinese,1978-07-22
 13371,Roy Angau anak Gingkoi,M,Bumi Sarawak,1979-08-23
@@ -13408,7 +13408,7 @@ candidate_uid,name,sex,ethnicity,dob
 13407,Marzita binti Mansor,F,Malay,1971-11-29
 13408,Mohd Faizal bin Yunus,M,Malay,1985-xx-xx
 13409,Lim Weng Khee,M,Chinese,1983-xx-xx
-13410,Pramoot A/L Puan,M,Other,1970-xx-xx
+13410,Pramoot a/l Puan,M,Other,1970-xx-xx
 13411,Azahar bin Ahmad,M,Malay,xxxx-xx-xx
 13412,Abu Bakar bin Hamzah,M,Malay,xxxx-xx-xx
 13413,Muhamad Hairi bin Noordin,M,Malay,xxxx-xx-xx
@@ -13462,7 +13462,7 @@ candidate_uid,name,sex,ethnicity,dob
 13461,Lee Seng Yap,M,Chinese,1975-01-26
 13462,Abu Bakar bin Abdul Rahman,M,Malay,1977-06-16
 13463,Koay Boon Hui,M,Chinese,1980-09-05
-13464,Shanmugiavalloo A/L Govindasamy,M,Indian,1969-12-21
+13464,Shanmugiavalloo a/l Govindasamy,M,Indian,1969-12-21
 13465,Mohd Khairol Iwan bin Mat Khairi,M,Malay,1985-08-23
 13466,Khairuddin bin Mohamed Azahari,M,Malay,1965-04-15
 13467,Ahmad Rodzi bin Abdul Rahim,M,Malay,1985-05-17
@@ -13470,7 +13470,7 @@ candidate_uid,name,sex,ethnicity,dob
 13469,Mohamad Azir bin Ismail,M,Malay,1962-06-25
 13470,Ahmad Daslie bin Osman,M,Malay,1986-02-16
 13471,Za'im Sidqi bin Zulkifly,M,Malay,1991-02-02
-13472,Naranya Singh A/L Asa Singh,M,Other,1956-06-26
+13472,Naranya Singh a/l Asa Singh,M,Other,1956-06-26
 13473,Pan Chean Chang,M,Chinese,1984-07-16
 13474,Azizul Kama bin Abd Aziz,M,Malay,1967-02-19
 13475,Puteri Holijah binti Mohamad Rali,F,Malay,1977=07-13
@@ -13484,16 +13484,16 @@ candidate_uid,name,sex,ethnicity,dob
 13483,Albert Hoo Wai Mun,M,Chinese,1967-03-07
 13484,Lim Jin Sheng,M,Chinese,xxxx-xx-xx
 13485,Richard Ng,M,Chinese,1958-09-16
-13486,Jayagopi A/L M Subramaniam,M,Indian,1956-04-14
+13486,Jayagopi a/l M Subramaniam,M,Indian,1956-04-14
 13487,Thulsi Thivani a/p Manogaran,F,Indian,1988-11-09
 13488,Muhammad Faiz bin Abdullah,M,Indian,xxxx-xx-xx
 13489,Hamidah binti Muhamad,F,Malay,1976-08-31
-13490,Navinten A/L Sundarajan,M,Indian,1991-10-11
+13490,Navinten a/l Sundarajan,M,Indian,1991-10-11
 13491,Wong Kean Rong,M,Chinese,1997-09-30
 13492,Phoon Kai Mun,M,Chinese,1986-09-17
 13493,Steven Tiw Tee Siang,M,Chinese,1993-11-26
 13494,Bryan Yong Wu Sean,M,Chinese,1997-12-11
-13495,Meor Shahimudin bin Hj Hasim,M,Malay,xxxx-xx-xx
+13495,Meor Shahimudin bin Hasim,M,Malay,xxxx-xx-xx
 13496,Sin Koon Yen,F,Chinese,1970-10-30
 13497,Mohd Roslan B Ismail,M,Malay,1983-07-13
 13498,Hashim bin Bujang,M,Malay,1958-11-22
@@ -13502,7 +13502,7 @@ candidate_uid,name,sex,ethnicity,dob
 13501,Mohd Jamsari bin Mahamood,M,Malay,1972-05-23
 13502,Mustafa Shah bin Abdul Hamid,M,Malay,1978-07-20
 13503,Berhanudin bin Ahmad,M,Malay,1967-09-27
-13504,Ahmad Faisal bin Haji Mansor,M,Malay,1972-03-14
+13504,Ahmad Faisal bin Mansor,M,Malay,1972-03-14
 13505,Abdul Halim bin Mat Isa,M,Malay,xxxx-xx-xx
 13506,Abul Jais bin Ashfaq Ahmed,M,Malay,1974-10-06
 13507,(Albert Looi) Looi Tuan Gin,M,Chinese,1966-07-19
@@ -13562,7 +13562,7 @@ candidate_uid,name,sex,ethnicity,dob
 13561,Badrul Hisham bin Badarudin,M,Malay,1983-09-30
 13562,Muhammad Amirul Mahfuz bin Abdullah,M,Malay,1997-11-07
 13563,Mahhadee bin Ramlee,M,Malay,1968-09-01
-13564,Thilak Raj A/L Gunasekaran,M,Indian,1989-11-27
+13564,Thilak Raj a/l Gunasekaran,M,Indian,1989-11-27
 13565,Meor Muhammad Azim bin Meor Aznam,M,Malay,1990-09-07
 13566,Mohd Syahid bin Mohd Zaini,M,Malay,1989-01-27
 13567,Khairol Najib bin Hashim,M,Malay,1992-09-04
@@ -13644,12 +13644,12 @@ candidate_uid,name,sex,ethnicity,dob
 13643,Rosli bin Ismail (Ahmad),M,Malay,1960-03-29
 13644,Mohd Syafiq bin Mohd Khaidir,M,Malay,1994-01-12
 13645,Azizul Shah bin Mohd Noor,M,Malay,1978-12-09
-13646,Sri Chandra A/L Balabedha,M,Indian,1976-07-05
+13646,Sri Chandra a/l Balabedha,M,Indian,1976-07-05
 13647,Wong Siew Mun,F,Chinese,1990-11-15
 13648,Tan Wei Leong (William Tan),M,Chinese,1981-05-28
 13649,Amizar bin Abu Adam,M,Malay,1973-07-07
 13650,Nurul Qomar bin Abdol Talib,M,Malay,1985-10-27
-13651,Arumugam A/L Veerappa Pillai,M,Indian,1963-12-21
+13651,Arumugam a/l Veerappa Pillai,M,Indian,1963-12-21
 13652,Johari bin Harun,M,Malay,1970-01-17
 13653,Isa bin Ahmad Isma,M,Malay,xxxx-xx-xx
 13654,Ahmed Wafiuddin bin Shamsuri,M,Malay,1995-12-21
@@ -13672,7 +13672,7 @@ candidate_uid,name,sex,ethnicity,dob
 13671,Abdul Aziz bin Ibno,M,Bumi Sabah,1974-12-01
 13672,Hamzah bin Abdul Rahman,M,Malay,1963-09-27
 13673,Sreanandha Rao,M,Indian,1984-09-25
-13674,Mohd Bakhri bin Haji Hashim,M,Malay,1961-09-28
+13674,Mohd Bakhri bin Hashim,M,Malay,1961-09-28
 13675,Nor Idayu binti Hashim,F,Malay,1987-08-06
 13676,Sulaiman bin Bakar,M,Malay,1965-09-21
 13677,Shamsilah binti Siru,F,Malay,1974-08-10
@@ -13707,20 +13707,20 @@ candidate_uid,name,sex,ethnicity,dob
 13706,Ahmad bin Sulaiman,M,Malay,1960-04-14
 13707,Muhamad Khizri bin Abu Kassim,M,Malay,1978-07-26
 13708,Azizan bin Hamzah ,M,Malay,1955-12-10
-13709,Dinesh A/L Muniandy,M,Indian,1993-06-30
+13709,Dinesh a/l Muniandy,M,Indian,1993-06-30
 13710,Wan Mohalina binti Wan Mohammad,F,Malay,1969-08-25
 13711,Loh Wei Chai (Adam Loh Wei Chai),M,Chinese,1987-12-11
 13712,Tai Kuang Tee (Raymond Tai Kuang Tee),M,Chinese,1979-06-27
 13713,Juliana binti Abdul Ghani,F,Malay,1975-01-06
-13714,Bau Wong A/L Bau Ek,M,Other,1967-03-16
+13714,Bau Wong a/l Bau Ek,M,Other,1967-03-16
 13715,Ishak bin Mat,M,Malay,1962-05-27
 13716,Muhammad Suhaimi bin Hamzah (Cikgu Mi),M,Malay,1981-01-15
 13717,Suriati binti Che Mid,F,Malay,1979-12-04
 13718,Asmadi bin Abu Talib (Chegu Madi),M,Malay,1969-02-09
 13719,Shamsul Anuar bin Abdullah,M,Malay,1960-05-14
-13720,Rajendaran A/L Nadarajan,M,Indian,1961-08-14
-13721,Pannir Selvam A/L S Suppiah,M,Indian,1967-06-09
-13722,Arichindarem A/L Sinappayen (Ari),M,Indian,1960-07-01
+13720,Rajendaran a/l Nadarajan,M,Indian,1961-08-14
+13721,Pannir Selvam a/l S Suppiah,M,Indian,1967-06-09
+13722,Arichindarem a/l Sinappayen (Ari),M,Indian,1960-07-01
 13723,Teh Lean Ong (Awang Teh),M,Chinese,1976-10-07
 13724,Mohd Suffian bin Yusoff,M,Malay,1969-06-29
 13725,Nuraini binti Yusoff (Noni),F,Malay,1988-08-04
@@ -13816,17 +13816,17 @@ candidate_uid,name,sex,ethnicity,dob
 13815,Teow Chin Siang (Andrew Teow),M,Chinese,1983-12-12
 13816,Ong Chuan Jin (Cj Ong),M,Chinese,1962-11-18
 13817,Chee Yeeh Keen,M,Chinese,1982-01-09
-13818,Rajasakanan A/L Sinnakannu,M,Indian,1957-12-11
-13819,Kumaran A/L Krishnan (Calvin),M,Indian,1978-02-20
+13818,Rajasakanan a/l Sinnakannu,M,Indian,1957-12-11
+13819,Kumaran a/l Krishnan (Calvin),M,Indian,1978-02-20
 13820,Izhar Shah bin Arif Shah,M,Malay,1993-07-15
 13821,Amir Hamzah B Abdul Hashim @ Md Hashim,M,Malay,1964-10-01
 13822,Lee Kok Keong,M,Chinese,1984-10-13
 13823,Andy Tan Hum Wei,M,Chinese,1983-08-13
-13824,Suresh A/L Devaraj Naidu,M,Indian,1974-05-27
-13825,Vikneswary A/P Harikrishnan,F,Indian,1987-03-05
-13826,Sundarajoo A/L Somu,M,Indian,1962-05-23
-13827,David Marshel A/L Pakianathan,M,Indian,1975-02-25
-13828,Sivasuntaram A/L Rajalinggam,M,Indian,1970-12-06
+13824,Suresh a/l Devaraj Naidu,M,Indian,1974-05-27
+13825,Vikneswary a/p Harikrishnan,F,Indian,1987-03-05
+13826,Sundarajoo a/l Somu,M,Indian,1962-05-23
+13827,David Marshel a/l Pakianathan,M,Indian,1975-02-25
+13828,Sivasuntaram a/l Rajalinggam,M,Indian,1970-12-06
 13829,Tan Gia Wei,M,Chinese,1980-07-19
 13830,Nurhidayah binti Che Rose,F,Malay,1991-06-29
 13831,Rashidi bin Zinol,M,Malay,1970-10-04
@@ -13837,11 +13837,11 @@ candidate_uid,name,sex,ethnicity,dob
 13836,Goh Chuin Loon,F,Chinese,1966-11-24
 13837,Joshua Woo Sze Zeng,M,Chinese,1982-03-03
 13838,Dave Tang Ching Sern,M,Chinese,1980-11-28
-13839,Suthakaran A/L Subramaniam (S. Karan Mayan),M,Indian,1967-11-12
+13839,Suthakaran a/l Subramaniam (S. Karan Mayan),M,Indian,1967-11-12
 13840,Wong Yuee Harng,M,Chinese,1988-10-05
 13841,Cheah Kim Huat,M,Chinese,1977-12-05
 13842,Heng See Lin,F,Chinese,1981-03-11
-13843,Andrew Rajah A/L Bellimin Rajah,M,Indian,1971-07-25
+13843,Andrew Rajah a/l Bellimin Rajah,M,Indian,1971-07-25
 13844,Mohd Aswaad bin Jaafar,M,Malay,1983-04-25
 13845,Connie Tan Hooi Peng,F,Chinese,1990-12-15
 13846,Andrew Ooi Ghee Oon,M,Chinese,1984-06-28
@@ -13860,18 +13860,18 @@ candidate_uid,name,sex,ethnicity,dob
 13859,Mu'Izzuddeen bin Mahyuddin (Muiz Mahyuddin),M,Malay,1988-04-29
 13860,Henry Teoh Kien Hong,M,Chinese,1980-10-13
 13861,Chng Boon Lai,M,Chinese,1959-12-03
-13862,Siva Prakash A/L Ramasamy,M,Indian,1983-03-21
+13862,Siva Prakash a/l Ramasamy,M,Indian,1983-03-21
 13863,Muhammad Muhaimin Harith bin Abdullah Sani,M,Malay,1983-05-10
 13864,Mohamad Khir bin Ramli,M,Malay,1970-01-29
 13865,Nurul Syazwani binti Noh,F,Malay,1988-10-08
-13866,Thiban A/L Subbramaniam,M,Indian,1988-01-13
+13866,Thiban a/l Subbramaniam,M,Indian,1988-01-13
 13867,Noorazley bin Yahya,M,Malay,1982-10-20
 13868,Amidi bin Abdul Manan,M,Malay,1973-09-10
 13869,Tan Cat Keong (CK Tan),M,Chinese,1964-02-08
 13870,Harrison bin Hassan,M,Malay,1974-06-14
 13871,Hasnal Rezua Merican bin Habib Merican,M,Malay,1970-06-11
 13872,Mohd Rafiq bin Mohd Abdullah,M,Malay,1975-08-07
-13873,Rejean Kumar A/L Ratnam,M,Indian,1997-08-10
+13873,Rejean Kumar a/l Ratnam,M,Indian,1997-08-10
 13874,Aida Nazeera binti Abd Rahman,F,Malay,1993-04-01
 13875,Anfaal binti Saari,F,Malay,1979-11-09
 13876,Muhammad Hanif bin Jamaluddin,M,Malay,1987-01-28
@@ -13881,7 +13881,7 @@ candidate_uid,name,sex,ethnicity,dob
 13880,Syed Ahmad bin Abdul Rahman Alhadad (Altimet),M,Malay,1978-11-27
 13881,Noor Faralisa binti Redzuan,F,Malay,1982-06-07
 13882,Fazil bin Mohamad Dali (Cik Ton),M,Malay,1975-12-30
-13883,Sivaneswaran A/L Ramasundram,M,Indian,1975-04-11
+13883,Sivaneswaran a/l Ramasundram,M,Indian,1975-04-11
 13884,Chew Han Keai,M,Chinese,1979-09-03
 13885,Yew Jia Haur,M,Chinese,1978-12-23
 13886,Al Hafiz Ikhwan bin Mohamad Asaad,M,Malay,1990-06-11
@@ -13897,14 +13897,14 @@ candidate_uid,name,sex,ethnicity,dob
 13896,Mohd Shukor bin Mustaffa,M,Malay,1969-05-26
 13897,Abbas Salimmi bin Che Adzmi @ Azmi,M,Malay,1980-02-22
 13898,Wong Yong Kang,M,Chinese,1974-02-01
-13899,Gana Pragasam A/L Sebastian,M,Indian,1968-09-07
+13899,Gana Pragasam a/l Sebastian,M,Indian,1968-09-07
 13900,Zayd bin Shaukat Ali,M,Malay,1996-12-04
-13901,Harindran A/L Krishnan,M,Indian,1994-09-30
+13901,Harindran a/l Krishnan,M,Indian,1994-09-30
 13902,Dobby Chew Chuan Yang,M,Chinese,1990-04-01
 13903,Mohammad Fahmi bin Ngah,M,Malay,1974-12-24
 13904,Ahmad Akhir bin Pawan Chik,M,Malay,1967-12-27
-13905,Kalyana Rajasekaran A/L Teagarajan (VKK Raja),M,Indian,1978-12-03
-13906,Nallan A/L Dhanabalan,M,Indian,1973-06-09
+13905,Kalyana Rajasekaran a/l Teagarajan (VKK Raja),M,Indian,1978-12-03
+13906,Nallan a/l Dhanabalan,M,Indian,1973-06-09
 13907,Lim Hooi Sean,F,Chinese,1996-06-15
 13908,Nur Aliff bin Mohd Tafid,M,Malay,1994-12-26
 13909,Muniraa binti Abu Bakar,F,Malay,1986-06-16
@@ -13916,23 +13916,23 @@ candidate_uid,name,sex,ethnicity,dob
 13915,Saiyidah Izzati Nur Bt Razak Maideen (Cheda Razak),F,Malay,1988-07-02
 13916,Danial Al-Rashid bin Haron Aminar Rashid,M,Malay,1986-09-11
 13917,Hasnizam bin Adham,M,Malay,1974-07-04
-13918,Sivaranjani A/P Manickam,F,Indian,1981-10-29
+13918,Sivaranjani a/p Manickam,F,Indian,1981-10-29
 13919,Erny Afrishah binti Azizi,F,Malay,1997-10-17
 13920,Mohd Roslee bin Abd Hamid,M,Malay,1968-08-21
 13921,Quah Perng Fei,M,Chinese,1974-08-19
 13922,Tan Seng Huat,M,Chinese,1978-10-16
 13923,Syed Ahmad Putra bin Syed Isa,M,Malay,1966-03-25
-13924,Gunalan A/L Balakrishnan,M,Indian,1975-11-11
-13925,Parameswaran A/L Ganason,M,Indian,1957-06-23
-13926,Thanusha A/P Ramanieswaran,F,Indian,1998-10-26
+13924,Gunalan a/l Balakrishnan,M,Indian,1975-11-11
+13925,Parameswaran a/l Ganason,M,Indian,1957-06-23
+13926,Thanusha a/p Ramanieswaran,F,Indian,1998-10-26
 13927,Wan Dzahanurin bin Ahmad,M,Malay,1963-11-27
 13928,Afriena Shaqira binti Sariff,F,Malay,1997-09-30
-13929,Preakas A/L Sampunathan,M,Indian,1982-04-07
-13930,K Gunasekaran A/L Kuppan (Cikgu Sekar),M,Indian,1970-11-22
+13929,Preakas a/l Sampunathan,M,Indian,1982-04-07
+13930,K Gunasekaran a/l Kuppan (Cikgu Sekar),M,Indian,1970-11-22
 13931,Mohd Al-Hafizi bin Abu Bakar,M,Malay,1985-08-22
 13932,Ang Wei Yang,M,Chinese,2000-01-12
-13933,Saravanan A/L Mutto Krishnan,M,Indian,1975-05-20
-13934,Papparaidu A/L Veraman,M,Indian,1975-03-31
+13933,Saravanan a/l Mutto Krishnan,M,Indian,1975-05-20
+13934,Papparaidu a/l Veraman,M,Indian,1975-03-31
 13935,Rosnizan bin Ahmad,M,Malay,1972-08-02
 13936,Darren Ong Chung Lee,M,Chinese,1987-02-09
 13937,Noorazli bin Said,M,Malay,1978-10-24
@@ -13948,7 +13948,7 @@ candidate_uid,name,sex,ethnicity,dob
 13947,Zul Azki bin Mat Sulop,M,Malay,1966-06-17
 13948,Mohd Asna bin Amin,M,Malay,1979-06-02
 13949,Omar bin Mohd Isa,M,Malay,1965-11-03
-13950,Yessu A/L Samuel,M,Indian,1975-11-23
+13950,Yessu a/l Samuel,M,Indian,1975-11-23
 13951,Ng Soon Lean,F,Chinese,1965-01-21
 13952,Ahmad Qusyairi bin Abdull Rahim,M,Malay,1989-07-07
 13953,Chua Eng Pu,M,Chinese,1969-06-25
@@ -13959,12 +13959,12 @@ candidate_uid,name,sex,ethnicity,dob
 13958,Amrina binti Mohd Khalid,F,Malay,1971-04-26
 13959,Noorzunita Begum binti Mohd Ibrahim,F,Malay,1980-10-10
 13960,Mohamad Hanifah bin Abu Baker (Anip Abu Baker),M,Malay,1980-10-16
-13961,Subramaniam A/L Purushothama,M,Indian,1960-11-16
+13961,Subramaniam a/l Purushothama,M,Indian,1960-11-16
 13962,Ahmad Zamali bin Mohamad,M,Malay,1973-12-10
 13963,Siau Meow Kong,M,Chinese,1972-03-15
 13964,Lee Boon Shian,M,Chinese,1985-06-23
-13965,Kumaravel A/L Ramiah,M,Indian,1972-08-05
-13966,Sathes Kumar A/L Nilameham,M,Indian,1980-06-21
+13965,Kumaravel a/l Ramiah,M,Indian,1972-08-05
+13966,Sathes Kumar a/l Nilameham,M,Indian,1980-06-21
 13967,Gary Lee Ban Fatt,M,Chinese,1975-02-11
 13968,Muhammad Syakir Fitri bin Sadri,M,Malay,1998-02-21
 13969,Bakly bin Baba,M,Malay,1952-08-02
@@ -13973,12 +13973,12 @@ candidate_uid,name,sex,ethnicity,dob
 13972,Ahmad Shukri bin Abdul Shukor,M,Malay,1962-03-26
 13973,Tang Jay Son,M,Chinese,1974-02-15
 13974,Yew Boon Lye,M,Chinese,1971-07-07
-13975,Ragu A/L Subramaniam,M,Indian,1973-10-29
+13975,Ragu a/l Subramaniam,M,Indian,1973-10-29
 13976,Abdul Fatah bin Zakaria,M,Malay,1966-06-02
 13977,Mohd Najib bin Mohd Isa,M,Malay,1978-09-08
 13978,Zamri bin Md Said,M,Malay,1971-08-17
 13979,Zabidi bin Ariffin,M,Malay,1963-04-20
-13980,Rajasekaran A/L Gunnasekaran (Dr. Raja),M,Indian,1981-04-18
+13980,Rajasekaran a/l Gunnasekaran (Dr. Raja),M,Indian,1981-04-18
 13981,Ridzuan bin Ahmad,M,Malay,1976-11-14
 13982,Tengku Abdullah bin Tengku Rakman (Ustaz Tengku),M,Malay,1959-02-10
 13983,Suhaimizan bin Bizar (Hai),M,Malay,1983-09-20
@@ -14276,7 +14276,7 @@ candidate_uid,name,sex,ethnicity,dob
 14275,Johny @ John bin Anthony,M,Bumi Sabah,1955-11-25
 14276,Adzhar bin Jasni @ Eddy,M,Bumi Sabah,1963-11-10
 14277,Mustazarmie bin Mustapha,M,Bumi Sabah,1992-02-04
-14278,Augustine A.Nain,M,Bumi Sabah,1973-08-28
+14278,Augustine A. Nain,M,Bumi Sabah,1973-08-28
 14279,Junadey bin Ejih @ Egih,M,Bumi Sabah,1975-04-24
 14280,Gabriel George Tulas,M,Bumi Sabah,1985-02-23
 14281,Priscella Peter,F,Bumi Sabah,1998-08-15
@@ -14457,3 +14457,149 @@ candidate_uid,name,sex,ethnicity,dob
 14456,Abdul Gaib bin Aliaman,M,Bumi Sabah,1974-06-08
 14457,Ismail bin Idris,M,Malay,1962-01-02
 14458,Abu Bakar bin Kumun,M,Bumi Sabah,1967-01-03
+14459,Meor Shamsudin bin Meor Yahya,M,Malay,1917-xx-xx
+14460,Yap Yin Fah,M,Chinese,xxxx-xx-xx
+14461,Ong Kai Beng,M,Chinese,xxxx-xx-xx
+14462,Ahmad Yusof bin Md Ali,M,Malay,xxxx-xx-xx
+14463,Khoo Chua Seng,M,Chinese,xxxx-xx-xx
+14464,Chen Ju Li,M,Chinese,xxxx-xx-xx
+14465,Bajuri bin Mohd Sirat,M,Malay,xxxx-xx-xx
+14466,Ng Chee Pang,M,Chinese,1985-01-22
+14467,Hanifa binti Ahmad (Hanifa Mat Yatim),M,Malay,1946-08-08
+14468,Yum Ah Ha,M,Chinese,1951-11-17
+14469,Anthonysamy a/l Selvanaikam,M,Indian,1941-10-01
+14470,Ding anak Ringkai,M,Bumi Sarawak,1968-09-11
+14471,Wan Fauzi,M,Malay,xxxx-xx-xx
+14472,J. Appalasamy,M,Indian,xxxx-xx-xx
+14473,Mohd Maskuri bin Mardzuki,M,Malay,1953-07-29
+14474,Ahmad bin Alang,M,Malay,1957-01-16
+14475,Chee See Choke,M,Chinese,1948-06-11
+14476,Loh Ah Boo,M,Chinese,1958-06-21
+14477,Yusoff bin Hamzah,M,Malay,xxxx-xx-xx
+14478,Amir Salleh bin Abdul Rahman,M,Malay,xxxx-xx-xx
+14479,Jatlani bin Ibnu Sarin,M,Bumi Sabah,xxxx-xx-xx
+14480,S. S. Rajagopal,M,Indian,1951-11-21
+14481,Mohamad Noor bin Hussin,M,Malay,xxxx-xx-xx
+14482,Nasir @ Che Pi bin Othman (Ustaz Nasir),M,Malay,xxxx-xx-xx
+14483,Abdul Halim bin Arshad (Ustaz Abdul Halim),M,Malay,xxxx-xx-xx
+14484,Muniandy a/l Tarumalingan,M,Indian,xxxx-xx-xx
+14485,Khalid bin Ahmad,M,Malay,xxxx-xx-xx
+14486,Md Saleh bin Md Ali,M,Malay,xxxx-xx-xx
+14487,Said bin Omar,M,Malay,xxxx-xx-xx
+14488,Pendi Hassan,M,Malay,xxxx-xx-xx
+14489,Ismail Seri Jaya,M,Malay,xxxx-xx-xx
+14490,Mahmud bin Yaakub,M,Malay,xxxx-xx-xx
+14491,Wan Mohamed bin Wan Abdullah,M,Malay,xxxx-xx-xx
+14492,Jap bin Omar,M,Bumi Sarawak,xxxx-xx-xx
+14493,Shuaib bin Lazim,M,Malay,1938-12-22
+14494,Mohd Rustim bin Sulaiman,M,Malay,xxxx-xx-xx
+14495,Abdul Razak bin Dawami,M,Malay,xxxx-xx-xx
+14496,Yong Siew Fai,M,Chinese,1957-12-04
+14497,Jaafar bin Onn,M,Malay,xxxx-xx-xx
+14498,Y. H. Ngiam,M,Chinese,xxxx-xx-xx
+14499,Hatta Abdullah bin Mahyee,M,Malay,xxxx-xx-xx
+14500,Palanisamy a/l Marappan,M,Indian,1953-03-19
+14501,Ramakrishnaw,M,Indian,xxxx-xx-xx
+14502,Syed Idrus Alshahab,M,Malay,xxxx-xx-xx
+14503,Wang Ah Hoong,M,Chinese,xxxx-xx-xx
+14504,Che Bakar bin Said,M,Malay,xxxx-xx-xx
+14505,Adam bin Daim,M,Malay,xxxx-xx-xx
+14506,Loh Ah Ha,M,Chinese,1952-10-30
+14507,Mohd Amin bin Zakaria,M,Malay,xxxx-xx-xx
+14508,Aman bin Abdullah,M,Malay,xxxx-xx-xx
+14509,Hamdan bin Yahya,M,Malay,xxxx-xx-xx
+14510,Haron bin Abdul Samad,M,Malay,xxxx-xx-xx
+14511,Mohamed Kelana bin Ahmad,M,Malay,xxxx-xx-xx
+14512,Mohamed Yusof @ Mohamed Salleh bin Anjau,M,Malay,xxxx-xx-xx
+14513,Asmari bin Sikin,M,Bumi Sabah,1956-01-24
+14514,Mohamad Lamrih @ Mohd. Ramli bin Mohd. Said,M,Malay,xxxx-xx-xx
+14515,Augustine Sating anak Jemut,M,Bumi Sarawak,1941-06-17
+14516,Marahan @ Omarkhan bin Amirusin,M,Bumi Sabah,1954-06-18
+14517,Dakau anak Sutik,M,Bumi Sarawak,xxxx-xx-xx
+14518,Lim Ah San,M,Chinese,xxxx-xx-xx
+14519,Ronaldson Ranggau anak Basan,M,Bumi Sarawak,1955-04-28
+14520,Goh Poh Tah,M,Chinese,xxxx-xx-xx
+14521,Abdul Rahman bin Mohd. Amin,M,Malay,xxxx-xx-xx
+14522,Hussin bin Hijau,M,Malay,xxxx-xx-xx
+14523,Adnan bin Chik,M,Malay,xxxx-xx-xx
+14524,Oh Siew Aun,M,Chinese,xxxx-xx-xx
+14525,Hasim bin Israkal,M,Malay,xxxx-xx-xx
+14526,Abdul Ghani bin Sulaiman,M,Malay,xxxx-xx-xx
+14527,Ismail Mat Diah,M,Malay,xxxx-xx-xx
+14528,Md Zain bin L. Ahmad,M,Malay,xxxx-xx-xx
+14529,Tan Har Swee,M,Chinese,xxxx-xx-xx
+14530,Khoo Heng Hock,M,Chinese,xxxx-xx-xx
+14531,Mohamed Zain bin Yusof,M,Malay,xxxx-xx-xx
+14532,Mohd Noor bin Ismail,M,Malay,xxxx-xx-xx
+14533,Abd. Rahman Bin Ali,M,Malay,xxxx-xx-xx
+14534,Mohamed Tahir bin Abdul Manan,M,Malay,xxxx-xx-xx
+14535,Puteh bin Mat,M,Malay,xxxx-xx-xx
+14536,Abdullah bin Affendi,M,Malay,xxxx-xx-xx
+14537,Pengarah Sibat anak Buyong,M,Bumi Sarawak,xxxx-xx-xx
+14538,T. Rh. Mancha anak Empalang,M,Bumi Sarawak,xxxx-xx-xx
+14539,Tengku Jaril bin Tengku Sulaiman,M,Malay,xxxx-xx-xx
+14540,Nik Mohd Zin bin Nik Mohd Min,M,Malay,xxxx-xx-xx
+14541,Mohd. Nordin bin Ahmad Tok Kenali,M,Malay,xxxx-xx-xx
+14542,Ngui Tet Loi,M,Chinese,xxxx-xx-xx
+14543,Abdul Rahman bin Sabri,M,Malay,xxxx-xx-xx
+14544,Azainuddin bin Karim,M,Malay,xxxx-xx-xx
+14545,Yaakub bin Abdul Rahman,M,Malay,xxxx-xx-xx
+14546,Kam Sin Chuan,M,Chinese,xxxx-xx-xx
+14547,Abdul Rahim bin Abdul Rahman @ Abdul Hamid,M,Malay,xxxx-xx-xx
+14548,Johari bin Yusof,M,Malay,xxxx-xx-xx
+14549,Mohd. Yusof Wahab,M,Malay,xxxx-xx-xx
+14550,Ismail bin Man,M,Malay,xxxx-xx-xx
+14551,Pinjamin Hassan,M,Malay,xxxx-xx-xx
+14552,Abdullah bin Hussain,M,Malay,xxxx-xx-xx
+14553,Yeoh Boon Leong,M,Chinese,xxxx-xx-xx
+14554,Lim Wan Ming,M,Chinese,xxxx-xx-xx
+14555,Ahmad bin Mahamud,M,Malay,xxxx-xx-xx
+14556,Matthew Gonzaga,M,Bumi Sabah,xxxx-xx-xx
+14557,Khalid bin Alim (Arif),M,Malay,xxxx-xx-xx
+14558,Quek Swee Siang,M,Chinese,xxxx-xx-xx
+14559,Saadun bin Muhammad Noh,M,Malay,xxxx-xx-xx
+14560,Bittie anak Basingau,F,Bumi Sabah,xxxx-xx-xx
+14561,Ahmad bin Abdul Rahman,M,Malay,xxxx-xx-xx
+14562,A. Yusop bin A. Mat Husin,M,Malay,xxxx-xx-xx
+14563,Amil bin Matinggi,M,Bumi Sabah,xxxx-xx-xx
+14564,Er Chue Chin,M,Malay,xxxx-xx-xx
+14565,George Mojuntin,M,Bumi Sabah,xxxx-xx-xx
+14566,William Mijol,M,Bumi Sabah,xxxx-xx-xx
+14567,Mohd. Yassin,M,Malay,xxxx-xx-xx
+14568,Chua Kock Meng,M,Chinese,xxxx-xx-xx
+14569,Chai Chong Fea,M,Chinese,xxxx-xx-xx
+14570,Abdul Hanif bin Abd. Manaf,M,Malay,xxxx-xx-xx
+14571,Hari Devan a/l Mookhen,M,Indian,xxxx-xx-xx
+14572,Mani Nagaindra a/l Valliappan,M,Indian,xxxx-xx-xx
+14573,Mohan Lal,M,Indian,xxxx-xx-xx
+14574,Buangkan bin Dawat,M,Bumi Sabah,xxxx-xx-xx
+14575,Sandig bin Ampara,M,Bumi Sabah,xxxx-xx-xx
+14576,Lim Ewe Chin,M,Chinese,xxxx-xx-xx
+14577,Abang Ali bin Abang Abdul Rani,M,Malay,xxxx-xx-xx
+14578,Entau anak Mengga,M,Bumi Sarawak,xxxx-xx-xx
+14579,Mohd. Arakh b. Dara,M,Malay,xxxx-xx-xx
+14580,Ahmad bin Zainudin,M,Malay,xxxx-xx-xx
+14581,Vilson Uhut Malingka,M,Bumi Sabah,xxxx-xx-xx
+14582,Dominic bin Gorotom,M,Bumi Sabah,xxxx-xx-xx
+14583,Ginduk bin Sani,M,Bumi Sabah,xxxx-xx-xx
+14584,Mardin bin Abdul Ghani,M,Bumi Sabah,xxxx-xx-xx
+14585,Maggit bin Julan,M,Bumi Sabah,xxxx-xx-xx
+14586,Ahmad bin Bakar,M,Malay,xxxx-xx-xx
+14587,Mohd. Napi @ Nakhai bin Ahmad,M,Malay,xxxx-xx-xx
+14588,Chua Hung Kim,M,Chinese,xxxx-xx-xx
+14589,Md. Shukri bin Abd. Rahman,M,Malay,xxxx-xx-xx
+14590,Liew Cheong Wye,M,Chinese,xxxx-xx-xx
+14591,Teh Lee Beng,M,Chinese,xxxx-xx-xx
+14592,Ibrahim bin Hassan,M,Malay,xxxx-xx-xx
+14593,Roger Ongkili,M,Bumi Sabah,xxxx-xx-xx
+14594,Choong Seang Hai,M,Chinese,xxxx-xx-xx
+14595,Lui Pui Keong,M,Chinese,xxxx-xx-xx
+14596,Zulkifli Chong,M,Bumi Sabah,xxxx-xx-xx
+14597,Roger Ludgerus Dunstan @ Roy D. Intan,M,Bumi Sabah,xxxx-xx-xx
+14598,Mohd Yusof Bin Chua @ Chua Soo Ngec,M,Bumi Sabah,xxxx-xx-xx
+14599,Bendy bin Blais,M,Bumi Sabah,xxxx-xx-xx
+14600,Abdul Rasit Bin Mating,M,Bumi Sabah,xxxx-xx-xx
+14601,Idris Bin Siat @ Panglima Siat,M,Bumi Sabah,xxxx-xx-xx
+14602,Abdul Kadir bin Hassan,M,Malay,xxxx-xx-xx
+14603,Salleh bin Said,M,Malay,xxxx-xx-xx
+14604,Mohamad bin Samat,M,Malay,xxxx-xx-xx

@@ -774,7 +774,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1969-05-10,GE-03,Perak,P.049 Sitiawan,2,1140,Kam Woon Wah,PERIKATAN,003-MCA,MCA,1,PERIKATAN,7964,40.692861887486586,2,lost
 1969-05-10,GE-03,Perak,P.050 Ipoh,1,1442,R. C. Mahadeva Rayan,PKR,006-PPP,PPP,0,ALONE,23979,82.09174940089011,1,won
 1969-05-10,GE-03,Perak,P.050 Ipoh,2,739,Toh Seang Eng,PERIKATAN,003-MCA,MCA,1,PERIKATAN,5231,17.90825059910989,2,lost
-1969-05-10,GE-03,Perak,P.051 Menglembu,1,238,"Seenivasagam, Sri Padhmaraja",PKR,006-PPP,PPP,0,ALONE,29089,81.01205893001364,1,won
+1969-05-10,GE-03,Perak,P.051 Menglembu,1,238,Sri Padhmaraja Seenivasagam,PKR,006-PPP,PPP,0,ALONE,29089,81.01205893001364,1,won
 1969-05-10,GE-03,Perak,P.051 Menglembu,2,1814,Hew Chai Kee,PERIKATAN,003-MCA,MCA,1,PERIKATAN,6818,18.987941069986352,2,lost
 1969-05-10,GE-03,Perak,P.052 Ulu Kinta,1,247,Chan Yoon Onn,PKR,006-PPP,PPP,0,ALONE,10706,58.51232442476909,1,won
 1969-05-10,GE-03,Perak,P.052 Ulu Kinta,2,745,Chin Foon,PERIKATAN,003-MCA,MCA,1,PERIKATAN,7591,41.48767557523092,2,lost
@@ -1080,7 +1080,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,4,1791,Mustapha Bin Hussin,KITA,070-KITA,KITA,0,ALONE,1235,5.338924433684938,4,lost_deposit
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,5,2581,Ong Cheng Piaw,PSRM,009-PSRM,PSRM,0,ALONE,1035,4.474321286529483,5,lost_deposit
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,1,2582,Goh Cheng Teik,BN,026-GERAKAN,GERAKAN,3,BN,11271,57.628591880560386,1,won
-1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,2,2583,"K, Ponnudurai",DAP,021-DAP,DAP,0,ALONE,5132,26.23990183045301,2,lost
+1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,2,2583,K. Ponnudurai,DAP,021-DAP,DAP,0,ALONE,5132,26.23990183045301,2,lost
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,3,195,V. Veerappen,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,3155,16.131506288986603,3,lost
 1974-08-24,GE-04,Pulau Pinang,P.040 Balik Pulau,1,2584,Shamsuri Bin Mat Saleh,BN,001-UMNO,UMNO,3,BN,14686,61.235041487720466,1,won
 1974-08-24,GE-04,Pulau Pinang,P.040 Balik Pulau,2,2585,Mohideen Abdul Kader,PSRM,009-PSRM,PSRM,0,ALONE,4306,17.954384355585205,2,lost
@@ -1207,7 +1207,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.085 Setapak,3,2195,Puan Ganga Nayar,DAP,021-DAP,DAP,0,ALONE,2944,14.086124401913874,3,lost
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.086 Damansara,1,2652,S. Subaramaniam,BN,002-MIC,MIC,3,BN,9763,51.22245540398741,1,won
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.086 Damansara,2,1839,Hor Cheok Foon,DAP,021-DAP,DAP,0,ALONE,5362,28.132214060860438,2,lost
-1974-08-24,GE-04,W.P. Kuala Lumpur,P.086 Damansara,3,2653,K.C. Cheah,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,3935,20.64533053515215,3,lost
+1974-08-24,GE-04,W.P. Kuala Lumpur,P.086 Damansara,3,2653,K. C. Cheah,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,3935,20.64533053515215,3,lost
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.087 Kuala Lumpur Bandar,1,1841,Lee Lam Thye,DAP,021-DAP,DAP,0,ALONE,15112,65.30118399446893,1,won
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.087 Kuala Lumpur Bandar,2,2654,Alex Lee Yu Lung,BN,026-GERAKAN,GERAKAN,3,BN,6490,28.044248552415525,2,lost
 1974-08-24,GE-04,W.P. Kuala Lumpur,P.087 Kuala Lumpur Bandar,3,1838,Yeoh Teck Chye,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1540,6.654567453115548,3,lost_deposit
@@ -1949,7 +1949,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,GE-06,Negeri Sembilan,P.090 Mantin,2,3161,Hu Se Pang,DAP,021-DAP,DAP,0,ALONE,9177,29.6875,2,lost
 1982-04-22,GE-06,Negeri Sembilan,P.090 Mantin,3,2222,Lee Boon Peng @ Lee Boon Lin,BN,003-MCA,MCA,3,BN,20196,65.33385093167702,1,won
 1982-04-22,GE-06,Negeri Sembilan,P.091 Seremban,1,336,Lee San Choon @ Lee Soo Seng,BN,003-MCA,MCA,3,BN,23258,50.92509469904316,1,won
-1982-04-22,GE-06,Negeri Sembilan,P.091 Seremban,2,1846,"Chen Man Hin, Dennis",DAP,021-DAP,DAP,0,ALONE,22413,49.07490530095684,2,lost
+1982-04-22,GE-06,Negeri Sembilan,P.091 Seremban,2,1846,Dennis Chen Man Hin,DAP,021-DAP,DAP,0,ALONE,22413,49.07490530095684,2,lost
 1982-04-22,GE-06,Negeri Sembilan,P.092 Kuala Pilah,1,4260,Othman Bin Hamzah,PAS,004-PAS,PAS,0,ALONE,4011,17.276133867424733,2,lost
 1982-04-22,GE-06,Negeri Sembilan,P.092 Kuala Pilah,2,4261,Napsiah Bte Omar,BN,001-UMNO,UMNO,3,BN,19206,82.72386613257527,1,won
 1982-04-22,GE-06,Negeri Sembilan,P.093 Telok Kemang,1,2663,Dato K. Pathmanaban @ K. Pathmanathan S/O Kunjamboo,BN,002-MIC,MIC,3,BN,18937,65.61904431892997,1,won
@@ -2012,7 +2012,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,GE-06,Sabah,P.118 Labuk Sugut,1,4288,Hassan Alban Bin Hj. Sandukong,BEBAS,000-BEBAS,BEBAS,0,ALONE,6120,60.74441687344914,1,won
 1982-04-22,GE-06,Sabah,P.118 Labuk Sugut,2,3545,Ampong Bin Puyong,BN,014-USNO,USNO,3,BN,3955,39.25558312655087,2,lost
 1982-04-22,GE-06,Sabah,P.119 Tuaran,1,4289,Madrus Bin Yunus,BEBAS,000-BEBAS,BEBAS,0,ALONE,485,3.6446982791012252,3,lost_deposit
-1982-04-22,GE-06,Sabah,P.119 Tuaran,2,3301,"Ongkili James Peter, Datuk",BN,034-BERJAYA,BERJAYA,3,BN,9606,72.18757045164199,1,won
+1982-04-22,GE-06,Sabah,P.119 Tuaran,2,3301,Datuk Ongkili James Peter,BN,034-BERJAYA,BERJAYA,3,BN,9606,72.18757045164199,1,won
 1982-04-22,GE-06,Sabah,P.119 Tuaran,3,3304,James Bin Arab,PASOK,042-PASOK,PASOK,0,ALONE,2944,22.123694296235065,2,lost
 1982-04-22,GE-06,Sabah,P.119 Tuaran,4,4290,Alim Sugara @ Mohd Halim,PUSAKA,037-PUSAKA,PUSAKA,0,ALONE,272,2.0440369730217176,4,lost_deposit
 1982-04-22,GE-06,Sabah,P.120 Kinabalu,1,3547,Mark Koding,BN,034-BERJAYA,BERJAYA,3,BN,0,,1,won_uncontested
@@ -2114,7 +2114,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,GE-07,Kedah,P.006 Kota Setar,1,3417,Halim Bin Arshat,PAS,004-PAS,PAS,18,HAK,13344,47.517983049640335,2,lost
 1986-08-02,GE-07,Kedah,P.006 Kota Setar,2,5047,Dr. Abdul Hadi Bin Derani,BN,001-UMNO,UMNO,3,BN,14738,52.48201695035966,1,won
 1986-08-02,GE-07,Kedah,P.007 Alor Setar,1,5048,Mohd Noorik Bin Abd. Rahman,SDP,044-SDP,SDP,18,HAK,249,0.7087353769959867,4,lost_deposit
-1986-08-02,GE-07,Kedah,P.007 Alor Setar,2,4170,George John A/L K.M. George,DAP,021-DAP,DAP,0,ALONE,9042,25.736487063444624,3,lost
+1986-08-02,GE-07,Kedah,P.007 Alor Setar,2,4170,George John A/L K. M. George,DAP,021-DAP,DAP,0,ALONE,9042,25.736487063444624,3,lost
 1986-08-02,GE-07,Kedah,P.007 Alor Setar,3,2550,Oo Gin Sun,BN,003-MCA,MCA,3,BN,16647,47.38280249338229,1,won
 1986-08-02,GE-07,Kedah,P.007 Alor Setar,4,5049,Suhaimi Bin Hj. Ahmad,PAS,004-PAS,PAS,18,HAK,9195,26.1719750661771,2,lost
 1986-08-02,GE-07,Kedah,P.008 Kuala Kedah,1,3418,Ali @ Fadzil B. Md. Noor,PAS,004-PAS,PAS,18,HAK,14035,46.74126619375895,2,lost
@@ -2389,7 +2389,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,GE-07,Johor,P.122 Bakri,3,2323,Hassan Bin Hussein,PAS,004-PAS,PAS,18,HAK,1437,4.795114789108382,3,lost_deposit
 1986-08-02,GE-07,Johor,P.123 Muar,1,4707,Mohamed Sam Bin Sailan,BN,001-UMNO,UMNO,3,BN,17801,77.58455369595538,1,won
 1986-08-02,GE-07,Johor,P.123 Muar,2,5170,Md Sa'Aid Bin Abd. Samad,PAS,004-PAS,PAS,18,HAK,5143,22.415446304044632,2,lost
-1986-08-02,GE-07,Johor,P.124 Sri Gading,1,4273,"Mustaffa Bin Mohd,",BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
+1986-08-02,GE-07,Johor,P.124 Sri Gading,1,4273,Mustaffa Bin Mohd,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1986-08-02,GE-07,Johor,P.125 Batu Pahat,1,5171,Ungku Mohd. Noor Bin Ungku Mahmood,PAS,004-PAS,PAS,18,HAK,3269,9.480033639764523,3,lost_deposit
 1986-08-02,GE-07,Johor,P.125 Batu Pahat,2,4276,Daud Bin Haji Taha,BN,001-UMNO,UMNO,3,BN,23384,67.81312530812285,1,won
 1986-08-02,GE-07,Johor,P.125 Batu Pahat,3,5172,Tan Lem (Tem) Huat,SDP,044-SDP,SDP,18,HAK,7830,22.706841052112637,2,lost
@@ -2457,7 +2457,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1986-08-02,GE-07,Sabah,P.147 Kimanis,3,3336,Dirih @ Sebastian Anjim,BERJAYA,034-BERJAYA,BERJAYA,0,ALONE,1535,16.871839964827434,3,lost
 1986-08-02,GE-07,Sabah,P.148 Limbawang,1,5199,Taufick Bin Ruschi,BEBAS,000-BEBAS,BEBAS,0,ALONE,2378,28.346644415305754,2,lost
 1986-08-02,GE-07,Sabah,P.148 Limbawang,2,4299,Mohamed Yussof Bin Haji Yakob,BEBAS,000-BEBAS,BEBAS,0,ALONE,1771,21.110978662534272,3,lost
-1986-08-02,GE-07,Sabah,P.148 Limbawang,3,4146,"Datu Abdul Hamid Bin Tun Datu Hj, Mustapha",BN,091-USNO-BARU,USNO,3,BN,4240,50.542376922159974,1,won
+1986-08-02,GE-07,Sabah,P.148 Limbawang,3,4146,Datu Abdul Hamid Bin Tun Datu Hj Mustapha,BN,091-USNO-BARU,USNO,3,BN,4240,50.542376922159974,1,won
 1986-08-02,GE-07,Sabah,P.149 Padas,1,5021,Jinuin Bin Jimin,BERJAYA,034-BERJAYA,BERJAYA,0,ALONE,3727,34.69881761474723,2,lost
 1986-08-02,GE-07,Sabah,P.149 Padas,2,4931,Kadoh Agundong @ Ferdinand,BN,054-PBS,PBS,3,BN,7014,65.30118238525276,1,won
 1986-08-02,GE-07,Sabah,P.150 Pensiangan,1,5024,Peter Kodou @ Peter Anthony,BEBAS,000-BEBAS,BEBAS,0,ALONE,1730,24.97834247762056,2,lost
@@ -2896,7 +2896,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1990-10-20,GE-08,Sarawak,P.163 Sri Aman,1,6011,Barat Ak Utek,BEBAS,000-BEBAS,BEBAS,0,ALONE,3039,20.618766537756972,2,lost
 1990-10-20,GE-08,Sarawak,P.163 Sri Aman,2,4751,Jacob Ak Imang,BEBAS,000-BEBAS,BEBAS,0,ALONE,1960,13.298052785127892,3,lost
 1990-10-20,GE-08,Sarawak,P.163 Sri Aman,3,3237,Daniel Tajem Ak Miri,BN,049-PBDS,PBDS,3,BN,9740,66.08318067711514,1,won
-1990-10-20,GE-08,Sarawak,P.164 Lubok Antu,1,6012,Jawah Grang,BN,049-PBDS,PBDS,3,BN,0,,1,won_uncontested
+1990-10-20,GE-08,Sarawak,P.164 Lubok Antu,1,6012,Jawah Garang,BN,049-PBDS,PBDS,3,BN,0,,1,won_uncontested
 1990-10-20,GE-08,Sarawak,P.165 Betong,1,5685,David Impi,BEBAS,000-BEBAS,BEBAS,0,ALONE,1007,8.26086956521739,3,lost_deposit
 1990-10-20,GE-08,Sarawak,P.165 Betong,2,6013,Musa B Jamaluddin,PERMAS,058-PERMAS,PERMAS,0,ALONE,2005,16.447908121410993,2,lost
 1990-10-20,GE-08,Sarawak,P.165 Betong,3,5213,Douglas Uggah Embas,BN,029-PBB,PBB,3,BN,9178,75.29122231337162,1,won
@@ -3076,7 +3076,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1995-04-24,GE-09,Perak,P.063 Batu Gajah,1,5909,Ngeh Koo Ham,DAP,021-DAP,DAP,5,GR,18576,47.96158116237639,2,lost
 1995-04-24,GE-09,Perak,P.063 Batu Gajah,2,6604,Yeong Chee Wah,BN,003-MCA,MCA,3,BN,20155,52.03841883762361,1,won
 1995-04-24,GE-09,Perak,P.064 Kuala Kangsar,1,3498,Rafidah Bt. Ab. Aziz,BN,001-UMNO,UMNO,3,BN,15393,76.44137657049212,1,won
-1995-04-24,GE-09,Perak,P.064 Kuala Kangsar,2,4496,Abdul Khlaid Bin Mohd. Nasir,S46,062-S46,S46,4,APU,4744,23.558623429507872,2,lost
+1995-04-24,GE-09,Perak,P.064 Kuala Kangsar,2,4496,Abdul Khalid Bin Mohd. Nasir,S46,062-S46,S46,4,APU,4744,23.558623429507872,2,lost
 1995-04-24,GE-09,Perak,P.065 Beruas,1,5459,Chen Lim Piow,DAP,021-DAP,DAP,5,GR,7059,26.387798586968714,2,lost
 1995-04-24,GE-09,Perak,P.065 Beruas,2,6605,Ramli Bin Ariffin,BEBAS,000-BEBAS,BEBAS,0,ALONE,708,2.6466300325221486,3,lost_deposit
 1995-04-24,GE-09,Perak,P.065 Beruas,3,6606,Tan Kiat Seng @ Shuk Yik,BEBAS,000-BEBAS,BEBAS,0,ALONE,671,2.508317446076782,4,lost_deposit
@@ -6104,7 +6104,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 2022-11-19,GE-15,Kelantan,P.025 Bachok,2,12983,Nor Azmiza Mamat,PH,078-PKR,PKR,8,PH,4385,4.876936594263343,3,lost_deposit
 2022-11-19,GE-15,Kelantan,P.025 Bachok,3,8308,Haji Zu,BEBAS,000-BEBAS,BEBAS,0,ALONE,423,0.4704547729471823,4,lost_deposit
 2022-11-19,GE-15,Kelantan,P.025 Bachok,4,12984,Cikgu Zam,PUTRA,112-PUTRA,PUTRA,12,GTA,276,0.30696339795135297,5,lost_deposit
-2022-11-19,GE-15,Kelantan,P.025 Bachok,5,10068,Datuk Haji Zain,BN,001-UMNO,UMNO,3,BN,27333,30.3993860732041,2,lost
+2022-11-19,GE-15,Kelantan,P.025 Bachok,5,7630,Datuk Haji Zain,BN,001-UMNO,UMNO,3,BN,27333,30.3993860732041,2,lost
 2022-11-19,GE-15,Kelantan,P.026 Ketereh,1,12985,Haji Rahimi,PH,078-PKR,PKR,8,PH,4662,7.416245108332538,3,lost_deposit
 2022-11-19,GE-15,Kelantan,P.026 Ketereh,2,12986,Marzuani Ardila Ariffin (Gee),BN,001-UMNO,UMNO,3,BN,17435,27.73535681333715,2,lost
 2022-11-19,GE-15,Kelantan,P.026 Ketereh,3,12987,Mej Jen Dato Hj Khlir (B),PAS,107-BERSATU,BERSATU,11,PN,40542,64.49365276319557,1,won
