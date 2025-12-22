@@ -45,14 +45,14 @@ def main():
     states = get_states()
     col_group = ["date", "election", "state", "seat"]
 
-    cf = pd.read_csv("src-data/lookup_candidate.csv")
+    cf = pd.read_csv("data/lookup_candidate.csv")
     assert cf["candidate_rn"].is_unique, "Duplicate values found in candidate_rn column!"
     assert cf["candidate_uid"].is_unique, "Duplicate values found in candidate_uid column!"
     map_rn_uid = dict(zip(cf["candidate_rn"], cf["candidate_uid"]))
 
     print("\n --------- Compiling ballots ----------\n")
 
-    df = pd.read_csv("src-data/raw_ballots.csv").rename(columns={"candidate_rn": "candidate_uid"})
+    df = pd.read_csv("data/raw_ballots.csv").rename(columns={"candidate_rn": "candidate_uid"})
     df["candidate_uid"] = df["candidate_uid"].map(map_rn_uid)
     assert len(df[df.candidate_uid.isna()]) == 0, "Missing candidate_uid values!"
     df.date = pd.to_datetime(df.date).dt.date
@@ -76,12 +76,12 @@ def main():
     df.loc[df["n_candidates"] == 1, "result"] = "won_uncontested"
 
     write_csv_parquet(
-        "src-data/consol_ballots", df.drop(["votes_valid", "n_candidates", "majority"], axis=1)
+        "data/consol_ballots", df.drop(["votes_valid", "n_candidates", "majority"], axis=1)
     )
 
     print("\n\n --------- Compiling stats ----------\n")
 
-    sf = pd.read_csv("src-data/raw_stats.csv")
+    sf = pd.read_csv("data/raw_stats.csv")
     sf.date = pd.to_datetime(sf.date).dt.date
     assert len(sf[~sf.state.isin(states)]) == 0, "Invalid state in raw stats file!"
 
@@ -102,7 +102,7 @@ def main():
     for c in ["voter_turnout", "majority_perc", "votes_rejected_perc", "ballots_not_returned_perc"]:
         assert len(df[df[c] > 100]) == 0, f"{c} has impossible value > 100%"
 
-    write_csv_parquet("src-data/consol_stats", df)
+    write_csv_parquet("data/consol_stats", df)
 
     print("\n\n --------- Validating files ----------\n")
 
@@ -113,9 +113,9 @@ def main():
         df[df.check != 0].to_csv("logs/check.csv", index=False)
         raise ValueError(f"Validation failed for {len(df[df.check != 0])} seats!")
 
-    df = pd.read_parquet("src-data/consol_ballots.parquet")
+    df = pd.read_parquet("data/consol_ballots.parquet")
     for v in ["party", "coalition", "candidate"]:
-        cf = pd.read_csv(f"src-data/lookup_{v}.csv")
+        cf = pd.read_csv(f"data/lookup_{v}.csv")
         assert len(df[df[f"{v}_uid"].isin(cf[f"{v}_uid"])]) == len(
             df
         ), f"Missing {v} in lookup file!"
@@ -125,26 +125,26 @@ def main():
     print("\n\n --------- Generating SFC files ----------\n")
 
     for v in ["ballots", "stats"]:
-        df = pd.read_parquet(f"src-data/consol_{v}.parquet")
-        write_csv_parquet(f"src-data/sfc/federal_{v}", df[df.election.str.startswith("GE-")])
-        write_csv_parquet(f"src-data/sfc/byelection_{v}", df[df.election.str.startswith("BY-")])
+        df = pd.read_parquet(f"data/consol_{v}.parquet")
+        write_csv_parquet(f"data/sfc/federal_{v}", df[df.election.str.startswith("GE-")])
+        write_csv_parquet(f"data/sfc/byelection_{v}", df[df.election.str.startswith("BY-")])
 
         for state, state_code in zip(get_states(my=0, codes=0), get_states(my=0, codes=1)):
             if "W.P." in state:
                 continue
             write_csv_parquet(
-                f"src-data/sfc/state_{state_code}_{v}",
+                f"data/sfc/state_{state_code}_{v}",
                 df[(df.state == state) & (df.election.str.startswith("SE-"))],
             )
 
     print("\n\n --------- Generating lookup parquets ----------\n")
 
     for v in ["candidate", "party", "coalition", "party_succession", "dates", "prk"]:
-        cf = pd.read_csv(f"src-data/lookup_{v}.csv")
+        cf = pd.read_csv(f"data/lookup_{v}.csv")
         for c in cf.columns:
             if c in ["date"]:
                 cf[c] = pd.to_datetime(cf[c]).dt.date
-        write_csv_parquet(f"src-data/lookup_{v}", cf)
+        write_csv_parquet(f"data/lookup_{v}", cf)
 
     print("\n\n --------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
 
