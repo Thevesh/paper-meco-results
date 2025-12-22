@@ -7,23 +7,23 @@
 
 # 🇲🇾 Malaysian Election Corpus (MECo): Federal & State-level Election Results since 1955
 
-This repository contains the full data processing and analysis pipeline underlying the research paper, which has been accepted for publication in *Scientific Data*.
+This repository contains the full processing and validation pipeline underlying the research paper, which has been accepted for publication in *Scientific Data*.
 
 **Latest data update**: 15th Sabah state election (2025) + all by-elections before 2008 
 
-**Abstract**: Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the first component of the Malaysian Election Corpus (MECo), an open-access panel database covering all federal, state, and by-elections since 1955. MECo includes candidate- and constituency-level data for all 9,998 electoral contests from 1955 to 2025, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
+**Summary**: Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the first component of the Malaysian Election Corpus (MECo), an open-access panel database covering all federal, state, and by-elections since 1955. MECo includes candidate- and constituency-level data for all 9,998 electoral contests from 1955 to 2025, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
 
 ## Repository Structure
 
 | Directory/File                  | Description                                                              |
 |---------------------------------|--------------------------------------------------------------------------|
 | `data/`                         | Raw source data (tabular CSV + Parquet)                                  |
-| `dashboards/`                   | Processed data supporting the site                                       |
-| `logs/`                         | Logs and correction files                                               |
+| `dashboards/`                   | Processed data supporting the interactive website                        |
+| `logs/`                         | Record of corrections made to official source                            |
 | `tex/`                          | LaTeX files for manuscript generation                                    |
-| `compile.py`                    | Main script to compile the cleaned and standardised dataset              |
-| `dataviz.py`                    | Script to generate summary visualisations                               |
-| `dashboards.py`                 | Script for generating harmonised panels for visualisation/dashboarding   |
+| `compile.py`                    | Compile and validate the clean + standardised data                       |
+| `dataviz.py`                    | Generate summary visualisations                                          |
+| `dashboards.py`                 | Generate harmonised panels for visualisation/dashboarding                |
 | `gen_candidate_uid.py`          | Generate unique base-32 Crockford strings from running numbers           |
 | `helper.py`                     | Helper functions used across scripts                                     |
 
