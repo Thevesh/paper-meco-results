@@ -139,7 +139,7 @@ def main():
 
     print("\n\n --------- Generating lookup parquets ----------\n")
 
-    for v in ["candidate", "party", "coalition", "party_succession", "dates"]:
+    for v in ["candidate", "party", "coalition", "party_succession", "dates", "prk"]:
         cf = pd.read_csv(f"src-data/lookup_{v}.csv")
         for c in cf.columns:
             if c in ["date"]:
