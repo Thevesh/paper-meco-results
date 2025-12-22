@@ -7,23 +7,25 @@
 
 # 🇲🇾 Malaysian Election Corpus (MECo): Federal & State-level Election Results since 1955
 
-Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the Malaysian Election Corpus (MECo), an open-access panel database covering all federal and state general elections since 1955, as well as by-elections since 2008. MECo includes candidate- and constituency-level data for 9,704 electoral contests across seven decades, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected votes, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
+This repository contains the full data processing and analysis pipeline underlying the research paper, which has been accepted for publication in *Scientific Data*.
 
-This repository contains the full data processing and analysis pipeline underlying the research paper.
+**Latest data update**: 15th Sabah state election (2025) + all by-elections before 2008 
+
+**Abstract**: Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the first component of the Malaysian Election Corpus (MECo), an open-access panel database covering all federal, state, and by-elections since 1955. MECo includes candidate- and constituency-level data for all 9,998 electoral contests from 1955 to 2025, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
 
 ## Repository Structure
 
 | Directory/File                  | Description                                                              |
 |---------------------------------|--------------------------------------------------------------------------|
-| `src-data/`                     | Raw source data (tabular CSV + Parquet)                                  |
+| `data/`                         | Raw source data (tabular CSV + Parquet)                                  |
+| `dashboards/`                   | Processed data supporting the site                                       |
 | `logs/`                         | Logs and correction files                                               |
 | `tex/`                          | LaTeX files for manuscript generation                                    |
 | `compile.py`                    | Main script to compile the cleaned and standardised dataset              |
 | `dataviz.py`                    | Script to generate summary visualisations                               |
 | `dashboards.py`                 | Script for generating harmonised panels for visualisation/dashboarding   |
+| `gen_candidate_uid.py`          | Generate unique base-32 Crockford strings from running numbers           |
 | `helper.py`                     | Helper functions used across scripts                                     |
-| `README.md`                     | This file                                                                |
-| `LICENSE`                       | License file (CC0)                                                       |
 
 ## Features
 
@@ -48,15 +50,11 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 uv sync
 ```
 
-3. Run the main analysis script:
+3. Compile data and dashboards:
 ```bash
+python3 gen_candidate_uid.py
 python3 compile.py
 python3 dashboards.py
-```
-
-4. Generate visualizations:
-```bash
-python3 dataviz.py
 ```
 
 ## Citation
@@ -79,4 +77,4 @@ If you use this work, please cite it as:
 
 ## Questions / Suggestions
 
-If you want to improve the quality of the underlying data, please fork this repo, then make a pull request for Thevesh's review. However, do consider opening an issue to discuss your desired changes first!
+If you want to improve the quality of the underlying data, please fork this repo, then make a pull request for review. However, do consider opening an issue to discuss your desired changes first!
