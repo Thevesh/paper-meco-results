@@ -1,0 +1,222 @@
+{
+    "dun": [
+        {
+            "BahagianPilihanRayaId": "6BCA30B5-4AA5-4C38-9D0E-9FED930F43A8",
+            "KodBahagianPilihanRaya": "01",
+            "NamaBahagianPilihanRaya": "AYER HANGAT",
+            "AppendKod": "00401"
+        },
+        {
+            "BahagianPilihanRayaId": "A2A2FC98-B69F-48F6-B8A0-82992EAFB898",
+            "KodBahagianPilihanRaya": "02",
+            "NamaBahagianPilihanRaya": "KUAH",
+            "AppendKod": "00402"
+        },
+        {
+            "BahagianPilihanRayaId": "2E5811E2-6EEC-4103-8BCC-41F5A34D2F97",
+            "KodBahagianPilihanRaya": "03",
+            "NamaBahagianPilihanRaya": "KOTA SIPUTEH",
+            "AppendKod": "00503"
+        },
+        {
+            "BahagianPilihanRayaId": "2C0E9FDB-2C42-4F91-809E-DCFB59AFEE8B",
+            "KodBahagianPilihanRaya": "04",
+            "NamaBahagianPilihanRaya": "AYER HITAM",
+            "AppendKod": "00504"
+        },
+        {
+            "BahagianPilihanRayaId": "1C68E3FA-31F4-45F4-B58F-20C82034DAB7",
+            "KodBahagianPilihanRaya": "05",
+            "NamaBahagianPilihanRaya": "BUKIT KAYU HITAM",
+            "AppendKod": "00605"
+        },
+        {
+            "BahagianPilihanRayaId": "21D7A11A-A2CD-4157-AA3A-599B3AEC053A",
+            "KodBahagianPilihanRaya": "06",
+            "NamaBahagianPilihanRaya": "JITRA",
+            "AppendKod": "00606"
+        },
+        {
+            "BahagianPilihanRayaId": "83333081-0C04-469B-B185-8843B6FD2DDC",
+            "KodBahagianPilihanRaya": "07",
+            "NamaBahagianPilihanRaya": "KUALA NERANG",
+            "AppendKod": "00707"
+        },
+        {
+            "BahagianPilihanRayaId": "78EF0E26-C73F-4423-99BD-440F1F417F72",
+            "KodBahagianPilihanRaya": "08",
+            "NamaBahagianPilihanRaya": "PEDU",
+            "AppendKod": "00708"
+        },
+        {
+            "BahagianPilihanRayaId": "F0761CA2-80A9-4B28-837E-0B93CDBA8DC5",
+            "KodBahagianPilihanRaya": "09",
+            "NamaBahagianPilihanRaya": "BUKIT LADA",
+            "AppendKod": "00809"
+        },
+        {
+            "BahagianPilihanRayaId": "07B594D5-0F23-40FA-B83B-ABC297059E73",
+            "KodBahagianPilihanRaya": "10",
+            "NamaBahagianPilihanRaya": "BUKIT PINANG",
+            "AppendKod": "00810"
+        },
+        {
+            "BahagianPilihanRayaId": "43ECE24B-0954-46F1-83BC-E33AB7635CBB",
+            "KodBahagianPilihanRaya": "11",
+            "NamaBahagianPilihanRaya": "DERGA",
+            "AppendKod": "00811"
+        },
+        {
+            "BahagianPilihanRayaId": "BAB23BC2-DE73-4369-BA6A-4C2AA28B894A",
+            "KodBahagianPilihanRaya": "12",
+            "NamaBahagianPilihanRaya": "SUKA MENANTI",
+            "AppendKod": "00912"
+        },
+        {
+            "BahagianPilihanRayaId": "20D4364D-CD46-456C-9DB5-F8F5D94E0CDD",
+            "KodBahagianPilihanRaya": "13",
+            "NamaBahagianPilihanRaya": "KOTA DARUL AMAN",
+            "AppendKod": "00913"
+        },
+        {
+            "BahagianPilihanRayaId": "2A8A711B-6C1E-48F7-A962-32DE9246F579",
+            "KodBahagianPilihanRaya": "14",
+            "NamaBahagianPilihanRaya": "ALOR MENGKUDU",
+            "AppendKod": "00914"
+        },
+        {
+            "BahagianPilihanRayaId": "51854D6B-73C0-449A-A342-3218CB470387",
+            "KodBahagianPilihanRaya": "15",
+            "NamaBahagianPilihanRaya": "ANAK BUKIT",
+            "AppendKod": "01015"
+        },
+        {
+            "BahagianPilihanRayaId": "E864233B-4183-4F33-AE59-B7F6D8AA762B",
+            "KodBahagianPilihanRaya": "16",
+            "NamaBahagianPilihanRaya": "KUBANG ROTAN",
+            "AppendKod": "01016"
+        },
+        {
+            "BahagianPilihanRayaId": "077D6706-5476-4A07-A17B-40CD68FBA180",
+            "KodBahagianPilihanRaya": "17",
+            "NamaBahagianPilihanRaya": "PENGKALAN KUNDOR",
+            "AppendKod": "01017"
+        },
+        {
+            "BahagianPilihanRayaId": "CEC2E075-83FD-49E1-831A-9DBD667B3782",
+            "KodBahagianPilihanRaya": "18",
+            "NamaBahagianPilihanRaya": "TOKAI",
+            "AppendKod": "01118"
+        },
+        {
+            "BahagianPilihanRayaId": "B16BA3CF-0A7F-497E-8567-D5CA43DAF3C2",
+            "KodBahagianPilihanRaya": "19",
+            "NamaBahagianPilihanRaya": "SUNGAI TIANG",
+            "AppendKod": "01119"
+        },
+        {
+            "BahagianPilihanRayaId": "CC6D1014-8246-4460-AE2A-16CB51F5CB6D",
+            "KodBahagianPilihanRaya": "20",
+            "NamaBahagianPilihanRaya": "SUNGAI LIMAU",
+            "AppendKod": "01220"
+        },
+        {
+            "BahagianPilihanRayaId": "5B6E9F01-0EAD-4215-AA3B-72B44526C652",
+            "KodBahagianPilihanRaya": "21",
+            "NamaBahagianPilihanRaya": "GUAR CHEMPEDAK",
+            "AppendKod": "01221"
+        },
+        {
+            "BahagianPilihanRayaId": "ECDC4553-C117-4B04-B3A3-A3B82F5EFB6B",
+            "KodBahagianPilihanRaya": "22",
+            "NamaBahagianPilihanRaya": "GURUN",
+            "AppendKod": "01222"
+        },
+        {
+            "BahagianPilihanRayaId": "9E63ED17-2E79-4206-B7C5-9142E5DA9DFD",
+            "KodBahagianPilihanRaya": "23",
+            "NamaBahagianPilihanRaya": "BELANTEK",
+            "AppendKod": "01323"
+        },
+        {
+            "BahagianPilihanRayaId": "6750CF7F-6613-40D4-9978-1808F212CA1F",
+            "KodBahagianPilihanRaya": "24",
+            "NamaBahagianPilihanRaya": "JENERI",
+            "AppendKod": "01324"
+        },
+        {
+            "BahagianPilihanRayaId": "20CF49CB-F8EF-4744-859E-6E260208CEFE",
+            "KodBahagianPilihanRaya": "25",
+            "NamaBahagianPilihanRaya": "BUKIT SELAMBAU",
+            "AppendKod": "01425"
+        },
+        {
+            "BahagianPilihanRayaId": "E1A2DA38-2F3D-41E6-8A7D-42C9057111BF",
+            "KodBahagianPilihanRaya": "26",
+            "NamaBahagianPilihanRaya": "TANJONG DAWAI",
+            "AppendKod": "01426"
+        },
+        {
+            "BahagianPilihanRayaId": "96DB0577-8BF4-4EFB-8C09-626FAA35ECD0",
+            "KodBahagianPilihanRaya": "27",
+            "NamaBahagianPilihanRaya": "PANTAI MERDEKA",
+            "AppendKod": "01527"
+        },
+        {
+            "BahagianPilihanRayaId": "6503C06D-BCEC-4BD3-8644-2624CF37E88F",
+            "KodBahagianPilihanRaya": "28",
+            "NamaBahagianPilihanRaya": "BAKAR ARANG",
+            "AppendKod": "01528"
+        },
+        {
+            "BahagianPilihanRayaId": "B61B99E5-5368-4BAA-AF3E-EA7F8D2F4488",
+            "KodBahagianPilihanRaya": "29",
+            "NamaBahagianPilihanRaya": "SIDAM",
+            "AppendKod": "01529"
+        },
+        {
+            "BahagianPilihanRayaId": "48835454-2119-4822-871C-6C459A1B403A",
+            "KodBahagianPilihanRaya": "30",
+            "NamaBahagianPilihanRaya": "BAYU",
+            "AppendKod": "01630"
+        },
+        {
+            "BahagianPilihanRayaId": "9DC64FD3-D8CC-4BE0-819D-69FFDB005874",
+            "KodBahagianPilihanRaya": "31",
+            "NamaBahagianPilihanRaya": "KUPANG",
+            "AppendKod": "01631"
+        },
+        {
+            "BahagianPilihanRayaId": "FFBA2D33-415D-4C62-B6D7-22FA8ED4CF1B",
+            "KodBahagianPilihanRaya": "32",
+            "NamaBahagianPilihanRaya": "KUALA KETIL",
+            "AppendKod": "01632"
+        },
+        {
+            "BahagianPilihanRayaId": "D0D49C49-96B0-4A3A-BA14-F61A86A77893",
+            "KodBahagianPilihanRaya": "33",
+            "NamaBahagianPilihanRaya": "MERBAU PULAS",
+            "AppendKod": "01733"
+        },
+        {
+            "BahagianPilihanRayaId": "B98FD596-1855-4CCD-92E3-2E12F51C7DA6",
+            "KodBahagianPilihanRaya": "34",
+            "NamaBahagianPilihanRaya": "LUNAS",
+            "AppendKod": "01734"
+        },
+        {
+            "BahagianPilihanRayaId": "FADA18F3-4FD9-4B50-B528-16990E3CA77E",
+            "KodBahagianPilihanRaya": "35",
+            "NamaBahagianPilihanRaya": "KULIM",
+            "AppendKod": "01835"
+        },
+        {
+            "BahagianPilihanRayaId": "BAD557E3-87C1-441E-8E61-AEBA8C6A2FEB",
+            "KodBahagianPilihanRaya": "36",
+            "NamaBahagianPilihanRaya": "BANDAR BAHARU",
+            "AppendKod": "01836"
+        }
+    ],
+    "data": true,
+    "indicator": 0
+}

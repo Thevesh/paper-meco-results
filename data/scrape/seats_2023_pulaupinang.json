@@ -1,0 +1,246 @@
+{
+    "dun": [
+        {
+            "BahagianPilihanRayaId": "A341447B-BC93-431B-BC8A-DE853F98EC39",
+            "KodBahagianPilihanRaya": "01",
+            "NamaBahagianPilihanRaya": "PENAGA",
+            "AppendKod": "04101"
+        },
+        {
+            "BahagianPilihanRayaId": "1FF7779D-9819-4BB4-A41C-EF399E84C3A8",
+            "KodBahagianPilihanRaya": "02",
+            "NamaBahagianPilihanRaya": "BERTAM",
+            "AppendKod": "04102"
+        },
+        {
+            "BahagianPilihanRayaId": "0000C555-191F-42D5-9ED8-8A3AFDB0499D",
+            "KodBahagianPilihanRaya": "03",
+            "NamaBahagianPilihanRaya": "PINANG TUNGGAL",
+            "AppendKod": "04103"
+        },
+        {
+            "BahagianPilihanRayaId": "3CA969FB-127F-41BA-9CC2-7DEAF3192A77",
+            "KodBahagianPilihanRaya": "04",
+            "NamaBahagianPilihanRaya": "PERMATANG BERANGAN",
+            "AppendKod": "04204"
+        },
+        {
+            "BahagianPilihanRayaId": "A29C0267-A432-434B-B147-81D0CD908D65",
+            "KodBahagianPilihanRaya": "05",
+            "NamaBahagianPilihanRaya": "SUNGAI DUA",
+            "AppendKod": "04205"
+        },
+        {
+            "BahagianPilihanRayaId": "D9E3B451-2E69-4B82-9C0C-1B50433D2FC9",
+            "KodBahagianPilihanRaya": "06",
+            "NamaBahagianPilihanRaya": "TELOK AYER TAWAR",
+            "AppendKod": "04206"
+        },
+        {
+            "BahagianPilihanRayaId": "3D3C9C1B-454D-42E5-95DE-5BBFC7EB2732",
+            "KodBahagianPilihanRaya": "07",
+            "NamaBahagianPilihanRaya": "SUNGAI PUYU",
+            "AppendKod": "04307"
+        },
+        {
+            "BahagianPilihanRayaId": "4E094331-5D79-466A-84AD-C066C0E1E2D2",
+            "KodBahagianPilihanRaya": "08",
+            "NamaBahagianPilihanRaya": "BAGAN JERMAL",
+            "AppendKod": "04308"
+        },
+        {
+            "BahagianPilihanRayaId": "E968AD40-42A1-463A-9EE7-E40A49ED506E",
+            "KodBahagianPilihanRaya": "09",
+            "NamaBahagianPilihanRaya": "BAGAN DALAM",
+            "AppendKod": "04309"
+        },
+        {
+            "BahagianPilihanRayaId": "0C24903E-09A4-4273-8E18-B3FDA55A206F",
+            "KodBahagianPilihanRaya": "10",
+            "NamaBahagianPilihanRaya": "SEBERANG JAYA",
+            "AppendKod": "04410"
+        },
+        {
+            "BahagianPilihanRayaId": "2037385C-9995-423A-A9D3-7DF907072FF2",
+            "KodBahagianPilihanRaya": "11",
+            "NamaBahagianPilihanRaya": "PERMATANG PASIR",
+            "AppendKod": "04411"
+        },
+        {
+            "BahagianPilihanRayaId": "C7AEB83A-7741-41B5-AE85-328DDC1E2C41",
+            "KodBahagianPilihanRaya": "12",
+            "NamaBahagianPilihanRaya": "PENANTI",
+            "AppendKod": "04412"
+        },
+        {
+            "BahagianPilihanRayaId": "172C8A1D-B2CC-4978-84E8-8EFC9502B16E",
+            "KodBahagianPilihanRaya": "13",
+            "NamaBahagianPilihanRaya": "BERAPIT",
+            "AppendKod": "04513"
+        },
+        {
+            "BahagianPilihanRayaId": "1A4661FE-185E-4911-8571-7A3B3AABA375",
+            "KodBahagianPilihanRaya": "14",
+            "NamaBahagianPilihanRaya": "MACHANG BUBUK",
+            "AppendKod": "04514"
+        },
+        {
+            "BahagianPilihanRayaId": "68691A2F-6BCE-42AD-8958-F2A6F4D9B8C4",
+            "KodBahagianPilihanRaya": "15",
+            "NamaBahagianPilihanRaya": "PADANG LALANG",
+            "AppendKod": "04515"
+        },
+        {
+            "BahagianPilihanRayaId": "6AF5C69B-C82D-4FA8-B297-AC0245D299CF",
+            "KodBahagianPilihanRaya": "16",
+            "NamaBahagianPilihanRaya": "PERAI",
+            "AppendKod": "04616"
+        },
+        {
+            "BahagianPilihanRayaId": "35D75B4D-A93C-4EA8-BBC6-26DC5ABCD432",
+            "KodBahagianPilihanRaya": "17",
+            "NamaBahagianPilihanRaya": "BUKIT TENGAH",
+            "AppendKod": "04617"
+        },
+        {
+            "BahagianPilihanRayaId": "67E9E11A-7401-4CAD-AD1C-B32EEF44D520",
+            "KodBahagianPilihanRaya": "18",
+            "NamaBahagianPilihanRaya": "BUKIT TAMBUN",
+            "AppendKod": "04618"
+        },
+        {
+            "BahagianPilihanRayaId": "0171D7A3-AB6E-420E-8FCA-2FE9F096A208",
+            "KodBahagianPilihanRaya": "19",
+            "NamaBahagianPilihanRaya": "JAWI",
+            "AppendKod": "04719"
+        },
+        {
+            "BahagianPilihanRayaId": "6F9913DC-FF2D-475F-94B1-9E6ACAF6487C",
+            "KodBahagianPilihanRaya": "20",
+            "NamaBahagianPilihanRaya": "SUNGAI BAKAP",
+            "AppendKod": "04720"
+        },
+        {
+            "BahagianPilihanRayaId": "83FD5DDF-6B93-4331-BF6E-5C9F9808F175",
+            "KodBahagianPilihanRaya": "21",
+            "NamaBahagianPilihanRaya": "SUNGAI ACHEH",
+            "AppendKod": "04721"
+        },
+        {
+            "BahagianPilihanRayaId": "F59FC81E-A6F4-4A2E-AE8E-89FA0557B6CD",
+            "KodBahagianPilihanRaya": "22",
+            "NamaBahagianPilihanRaya": "TANJONG BUNGA",
+            "AppendKod": "04822"
+        },
+        {
+            "BahagianPilihanRayaId": "A2C742FE-9376-4EBE-890B-1C1D8A0567D6",
+            "KodBahagianPilihanRaya": "23",
+            "NamaBahagianPilihanRaya": "AIR PUTIH",
+            "AppendKod": "04823"
+        },
+        {
+            "BahagianPilihanRayaId": "9422CEEA-8AAF-4E31-93FE-1B3A691D3034",
+            "KodBahagianPilihanRaya": "24",
+            "NamaBahagianPilihanRaya": "KEBUN BUNGA",
+            "AppendKod": "04824"
+        },
+        {
+            "BahagianPilihanRayaId": "EC710562-AC50-4ADC-9E45-3D59BBBC51E7",
+            "KodBahagianPilihanRaya": "25",
+            "NamaBahagianPilihanRaya": "PULAU TIKUS",
+            "AppendKod": "04825"
+        },
+        {
+            "BahagianPilihanRayaId": "4DE415A7-1787-4EB9-88E6-95330812C9F0",
+            "KodBahagianPilihanRaya": "26",
+            "NamaBahagianPilihanRaya": "PADANG KOTA",
+            "AppendKod": "04926"
+        },
+        {
+            "BahagianPilihanRayaId": "4DD4B66E-C5C9-49DF-8B7F-B0D26B9CB09A",
+            "KodBahagianPilihanRaya": "27",
+            "NamaBahagianPilihanRaya": "PENGKALAN KOTA",
+            "AppendKod": "04927"
+        },
+        {
+            "BahagianPilihanRayaId": "C50F2A44-A862-4D91-962B-A32818968D49",
+            "KodBahagianPilihanRaya": "28",
+            "NamaBahagianPilihanRaya": "KOMTAR",
+            "AppendKod": "04928"
+        },
+        {
+            "BahagianPilihanRayaId": "8AF0E1CA-B594-4072-9646-3E1CCFA0A952",
+            "KodBahagianPilihanRaya": "29",
+            "NamaBahagianPilihanRaya": "DATOK KERAMAT",
+            "AppendKod": "05029"
+        },
+        {
+            "BahagianPilihanRayaId": "A83224D3-2D8A-4082-936C-0E88FAC4266F",
+            "KodBahagianPilihanRaya": "30",
+            "NamaBahagianPilihanRaya": "SUNGAI PINANG",
+            "AppendKod": "05030"
+        },
+        {
+            "BahagianPilihanRayaId": "ADD006F9-71A0-4999-9EB9-F75824CAC991",
+            "KodBahagianPilihanRaya": "31",
+            "NamaBahagianPilihanRaya": "BATU LANCANG",
+            "AppendKod": "05031"
+        },
+        {
+            "BahagianPilihanRayaId": "A1818C57-39BD-47DF-9EBF-18B1319EECA7",
+            "KodBahagianPilihanRaya": "32",
+            "NamaBahagianPilihanRaya": "SERI DELIMA",
+            "AppendKod": "05132"
+        },
+        {
+            "BahagianPilihanRayaId": "C971BC87-9C32-4E6E-820A-5EA5EEC6418D",
+            "KodBahagianPilihanRaya": "33",
+            "NamaBahagianPilihanRaya": "AIR ITAM",
+            "AppendKod": "05133"
+        },
+        {
+            "BahagianPilihanRayaId": "E65C06BC-782B-4039-99C3-4EF52BD3938D",
+            "KodBahagianPilihanRaya": "34",
+            "NamaBahagianPilihanRaya": "PAYA TERUBONG",
+            "AppendKod": "05134"
+        },
+        {
+            "BahagianPilihanRayaId": "7444F6EC-50DF-4BA4-AC96-D09AD29E4EC1",
+            "KodBahagianPilihanRaya": "35",
+            "NamaBahagianPilihanRaya": "BATU UBAN",
+            "AppendKod": "05235"
+        },
+        {
+            "BahagianPilihanRayaId": "D67ED718-9ECF-4AAC-BE5F-438EA886618F",
+            "KodBahagianPilihanRaya": "36",
+            "NamaBahagianPilihanRaya": "PANTAI JEREJAK",
+            "AppendKod": "05236"
+        },
+        {
+            "BahagianPilihanRayaId": "2F3C2F4F-A7AA-4C0D-A450-4FC840498931",
+            "KodBahagianPilihanRaya": "37",
+            "NamaBahagianPilihanRaya": "BATU MAUNG",
+            "AppendKod": "05237"
+        },
+        {
+            "BahagianPilihanRayaId": "CA2C6860-A1C0-4997-A406-E1A3F553FB96",
+            "KodBahagianPilihanRaya": "38",
+            "NamaBahagianPilihanRaya": "BAYAN LEPAS",
+            "AppendKod": "05338"
+        },
+        {
+            "BahagianPilihanRayaId": "9DFF2272-0B69-420B-8952-B7AB77DC540A",
+            "KodBahagianPilihanRaya": "39",
+            "NamaBahagianPilihanRaya": "PULAU BETONG",
+            "AppendKod": "05339"
+        },
+        {
+            "BahagianPilihanRayaId": "38207E28-66DC-49CB-9837-7FDACC3B169E",
+            "KodBahagianPilihanRaya": "40",
+            "NamaBahagianPilihanRaya": "TELOK BAHANG",
+            "AppendKod": "05340"
+        }
+    ],
+    "data": true,
+    "indicator": 0
+}
