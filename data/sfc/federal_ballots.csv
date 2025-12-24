@@ -1048,8 +1048,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1974-08-24,GE-04,Kelantan,P.024 Machang,2,3WYVR,Yusof Haji Nor,BEBAS,000-BEBAS,BEBAS,0,ALONE,5177,28.197167755991288,2,lost
 1974-08-24,GE-04,Kelantan,P.025 Pasir Puteh,1,7RQVT,Wan Sulaiman Bin Haji Ibrahim,BN,004-PAS,PAS,3,BN,14342,69.95756304570509,1,won
 1974-08-24,GE-04,Kelantan,P.025 Pasir Puteh,2,7AMY1,Chikgu Musa Bin Saleh,BEBAS,000-BEBAS,BEBAS,0,ALONE,6159,30.04243695429491,2,lost
-1974-08-24,GE-04,Kelantan,P.026 Kuala Krai,1,ARB0A,Zahara Awang,BN,004-PAS,PAS,3,BN,10206,79.22682813227759,1,won
-1974-08-24,GE-04,Kelantan,P.026 Kuala Krai,2,PKKG9,Haji Wan Ismail Bin Wan Ahmad,BEBAS,000-BEBAS,BEBAS,0,ALONE,2676,20.773171867722404,2,lost
+1974-08-24,GE-04,Kelantan,P.026 Kuala Kerai,1,ARB0A,Zahara Awang,BN,004-PAS,PAS,3,BN,10206,79.22682813227759,1,won
+1974-08-24,GE-04,Kelantan,P.026 Kuala Kerai,2,PKKG9,Haji Wan Ismail Bin Wan Ahmad,BEBAS,000-BEBAS,BEBAS,0,ALONE,2676,20.773171867722404,2,lost
 1974-08-24,GE-04,Kelantan,P.027 Ulu Kelantan,1,PJJMW,Tengku Razaleigh Bin Mohd. Hamzah,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Terengganu,P.028 Besut,1,E612K,Zakaria @ Ibrahim Bin Abdul Rahman,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Terengganu,P.029 Ulu Nerus,1,Q54R8,Lukman Bin Abdul Kadir,BN,004-PAS,PAS,3,BN,10739,62.966871885077694,1,won
@@ -1392,8 +1392,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1978-07-08,GE-05,Kelantan,P.024 Machang,2,PKKG9,Haji Wan Ismail Bin Wan Ahmad,PAS,004-PAS,PAS,0,ALONE,8465,41.9641086654769,2,lost
 1978-07-08,GE-05,Kelantan,P.025 Pasir Puteh,1,22VCD,Wan Najib Bin Wah Mohamad,BN,001-UMNO,UMNO,3,BN,12018,55.64404111491805,1,won
 1978-07-08,GE-05,Kelantan,P.025 Pasir Puteh,2,4D43F,Ustaz Yahya Haji Othman,PAS,004-PAS,PAS,0,ALONE,9580,44.355958885081954,2,lost
-1978-07-08,GE-05,Kelantan,P.026 Kuala Krai,1,4VJ63,Dr Nik Hussain,BN,001-UMNO,UMNO,3,BN,9108,59.587831207065754,1,won
-1978-07-08,GE-05,Kelantan,P.026 Kuala Krai,2,5GHEP,Zahari Awang,PAS,004-PAS,PAS,0,ALONE,6177,40.41216879293425,2,lost
+1978-07-08,GE-05,Kelantan,P.026 Kuala Kerai,1,4VJ63,Dr Nik Hussain,BN,001-UMNO,UMNO,3,BN,9108,59.587831207065754,1,won
+1978-07-08,GE-05,Kelantan,P.026 Kuala Kerai,2,5GHEP,Zahari Awang,PAS,004-PAS,PAS,0,ALONE,6177,40.41216879293425,2,lost
 1978-07-08,GE-05,Kelantan,P.027 Ulu Kelantan,1,PJJMW,Tengku Razaleigh Bin Mohd. Hamzah,BN,001-UMNO,UMNO,3,BN,10267,64.28124217380416,1,won
 1978-07-08,GE-05,Kelantan,P.027 Ulu Kelantan,2,B5QXZ,Ustaz Khaidir,PAS,004-PAS,PAS,0,ALONE,5705,35.71875782619584,2,lost
 1978-07-08,GE-05,Terengganu,P.028 Besut,1,E612K,Haji Zakaria @ Ibrahim Bin Haji Abdul Rahman,BN,001-UMNO,UMNO,3,BN,12949,55.71139697973584,1,won
@@ -1780,8 +1780,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,party_on_ball
 1982-04-22,GE-06,Kelantan,P.025 Pasir Puteh,1,22VCD,Wan Mohd. Najib Bin Wan Mohamed,BN,001-UMNO,UMNO,3,BN,14844,55.15140256362623,1,won
 1982-04-22,GE-06,Kelantan,P.025 Pasir Puteh,2,HGM93,Mohd. Noor B. Mohamed,BEBAS,000-BEBAS,BEBAS,0,ALONE,348,1.2929593163663384,3,lost_deposit
 1982-04-22,GE-06,Kelantan,P.025 Pasir Puteh,3,MYABC,Ismail Bin Hj. Che Ibrahim,PAS,004-PAS,PAS,0,ALONE,11723,43.55563812000743,2,lost
-1982-04-22,GE-06,Kelantan,P.026 Kuala Krai,1,5GHEP,Mohd. Zahari Bin Awang,PAS,004-PAS,PAS,0,ALONE,8804,44.69035532994924,2,lost
-1982-04-22,GE-06,Kelantan,P.026 Kuala Krai,2,4VJ63,Nik Hussain Bin Andul Rahman,BN,001-UMNO,UMNO,3,BN,10896,55.30964467005076,1,won
+1982-04-22,GE-06,Kelantan,P.026 Kuala Kerai,1,5GHEP,Mohd. Zahari Bin Awang,PAS,004-PAS,PAS,0,ALONE,8804,44.69035532994924,2,lost
+1982-04-22,GE-06,Kelantan,P.026 Kuala Kerai,2,4VJ63,Nik Hussain Bin Andul Rahman,BN,001-UMNO,UMNO,3,BN,10896,55.30964467005076,1,won
 1982-04-22,GE-06,Kelantan,P.027 Ulu Kelantan,1,PJJMW,Tengku Razaleigh Bin Tengki Mohd. Hamzah,BN,001-UMNO,UMNO,3,BN,15573,61.35208604183903,1,won
 1982-04-22,GE-06,Kelantan,P.027 Ulu Kelantan,2,RC0DN,Haji Hassan Bin Mat Saman,PAS,004-PAS,PAS,0,ALONE,9810,38.64791395816097,2,lost
 1982-04-22,GE-06,Terengganu,P.028 Besut,1,VSPFY,Che Man Bin Che Mud,PAS,004-PAS,PAS,0,ALONE,12752,43.219793255380445,2,lost
