@@ -17,7 +17,7 @@ This repository contains the full processing and validation pipeline underlying 
 
 | Directory/File                  | Description                                                              |
 |---------------------------------|--------------------------------------------------------------------------|
-| `data/`                         | Raw source data (tabular CSV + Parquet)                                  |
+| `data/`                         | Final publication-grade datasets (tabular CSV + Parquet)                 |
 | `dashboards/`                   | Processed data supporting the interactive website                        |
 | `logs/`                         | Record of corrections made to official source                            |
 | `tex/`                          | LaTeX files for manuscript generation                                    |
