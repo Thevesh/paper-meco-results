@@ -44,7 +44,7 @@
 \usepackage{bigints}
 
 % colors
-\usepackage{tcolorbox}
+\usepackage[most]{tcolorbox}
 \usepackage{color} % colors
 \usepackage{xcolor, colortbl} % more control over colors
 \newcommand{\red}[1]{\color{red}#1\color{black}}
@@ -79,20 +79,16 @@
 \newcommand{\eg}[1][]{\textit{e.g.\ }#1}
 \newcommand\pspace {\\[0.07in]}
 \newcommand\ppspace {\\[0.14in]}
-\newcommand{\logsep}{\begin{center}---------------\end{center}}
+\newcommand{\logsep}{\begin{center}-----------------\end{center}}
 
 \def\highlight#1#2{
 	\begin{centering}
-		
-		\vspace{1.2ex}
-		\begin{minipage}{0.8\linewidth}
-			\begin{tcolorbox}[boxsep = 3.3pt, boxrule=0.4pt, colback = white, colbacktitle=white, coltitle = black, colframe= black, title=\centering \textbf{#1}]
+		\begin{minipage}{1\linewidth}
+			\begin{tcolorbox}[boxsep = 3.3pt, boxrule=0.4pt, colback = black!4, colbacktitle=black!4, coltitle = black, colframe= black, title=\centering \textsc{#1}]
 				\centering
 				#2
 			\end{tcolorbox}
-		\end{minipage}
-		\vspace{1.2ex}
-		
+		\end{minipage}		
 	\end{centering}
 }
 
@@ -110,9 +106,11 @@
 \def\TOTALCONTESTSBYELEC{53}
 \def\TOTALELECTIONS{16}
 \def\UNIQUECANDIDATES{14,000}
-\def\TOTALCORRECTIONS{115}
+\def\TOTALCORRECTIONS{114}
 
-\phantom{Thevesh}
+\highlight{Accepted for Publication}{
+	This version of the article has been peer-reviewed and accepted for publication in \textit{Scientific Data}. However, this is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available at: \href{https://doi.org/10.1038/s41597-025-06502-7}{doi.org/10.1038/s41597-025-06502-7}
+}
 
 \vfill
 
@@ -120,7 +118,7 @@
 	\begin{minipage}{0.88\linewidth}
 		\begin{center}
 			\LARGE
-			The Malaysian Election Corpus (\acronymend):\\Federal and State-Level Election Results\\from 1955 to the Present \\[0.21in]
+			The Malaysian Election Corpus (\acronymend):\\Federal and State-Level Election Results\\from 1955 to 2025\\[0.21in]
 			\Large
 			Thevesh Thevananthan\footnotemark$^{\text{\Letter}}$\\[0.15in]
 		\end{center}
@@ -151,7 +149,7 @@ Malaysia's electoral history is among the most dynamic in Southeast Asia, encomp
 	\label{fig:elections}
 \end{figure*}
 
-Amidst this paucity of data, global initiatives such as the Constituency-Level Elections Archive (CLEA)\cite{clea} provide immensely valuable cross-country coverage, including for Malaysian elections. However, they generally focus on federal contests, and within that scope, only on the number of votes won by each candidate (thus omitting information such as the electorate size, voter turnout, unreturned ballots, rejected ballots, etc). Similarly, international turnout or election integrity datasets\cite{icoma2023turnout,norris2014integrity} capture only high-level national indicators. Locally, a number of news and civil society organisations such as Tindak Malaysia\cite{tindak_data}, malaysiakini (\href{https://citethis.link/undinfo}{undi.info}), and Sinar Project compile election data to varying degrees of completeness and quality, but these efforts -- while laudable for their public service, and valuable as a stopgap measure -- typically lack proper data hygiene and standardisation, and are not subjected to systematic validation and review, thus limiting their usefulness for rigorous empirical research and long-term preservation.
+Amidst this paucity of data, global initiatives such as the Constituency-Level Elections Archive (CLEA)\cite{clea} provide immensely valuable cross-country coverage, including for Malaysian elections. However, they generally focus on federal contests, and within that scope, only on the number of votes won by each candidate (thus omitting information such as the electorate size, voter turnout, unreturned ballots, rejected ballots, etc). Similarly, international turnout or election integrity datasets\cite{icoma2023turnout,norris2014integrity} capture only high-level national indicators. Locally, a number of news and civil society organisations such as Tindak Malaysia\cite{tindak_data}, malaysiakini (\href{https://citethis.link/undinfo}{undi.info}), and Sinar Project compile election data to varying degrees of completeness and quality, but these efforts---while laudable for their public service, and valuable as a stopgap measure---typically lack proper data hygiene and standardisation, and are not subjected to systematic validation and review, thus limiting their usefulness for rigorous empirical research and long-term preservation.
 
 In this paper, I address this gap by providing the Malaysian Election Corpus (MECo),\cite{meco_dataset} the first complete open database of Malaysian election results at the federal and state level. MECo is intended as a living resource which provides the go-to empirical foundation for research and journalism on Malaysian elections. The database covers \textit{all} general elections and by-elections since the pre-independence general election in 1955. In total, it records \UNIQUECANDIDATES\space unique candidates representing \TOTALPARTIES\space political parties in \TOTALCONTESTS\space unique electoral contests from 1955 to the present.
 
@@ -232,17 +230,17 @@ I plan to expand the dataset to include an exhaustive record of previous by-elec
 The database incorporates unique identifiers (UIDs) for parties, coalitions, and candidates to enable accurate longitudinal analysis. I also provide 3 lookup tables for parties, coalitions, and candidates, which allow users to augment the core datasets, either with variables I have already collated or with their own.
 
 \textbf{Parties and Coalitions.}
-Before discussing the generation of party and coalition UIDs, it is critical to distinguish how `party' is defined in this dataset relative to the EC's official records. When a candidate puts their name forth for nomination, they are mandated to declare themselves as either representing an entity registered with the EC, or as an independent candidate. However, the EC's \href{https://citethis.link/spr-parties}{list of registered parties} does not distinguish between a single political party and a coalition of parties. For example, as of 30th October 2025, the list contains - without distinction - both the United Malays National Organisation (UMNO) as well as the Barisan Nasional (BN). The former is a `party' in the conventional sense, while the latter is actually a coalition of several parties, including UMNO itself.
+Before discussing the generation of party and coalition UIDs, it is critical to distinguish how `party' is defined in this dataset relative to the EC's official records. When a candidate puts their name forth for nomination, they are mandated to declare themselves as either representing an entity registered with the EC, or as an independent candidate. However, the EC's \href{https://citethis.link/spr-parties}{list of registered parties} does not distinguish between a single political party and a coalition of parties. For example, as of 30th October 2025, the list contains---without distinction---both the United Malays National Organisation (UMNO) as well as the Barisan Nasional (BN). The former is a `party' in the conventional sense, while the latter is actually a coalition of several parties, including UMNO itself.
 
 It is debatable as to whether the EC should amend their operating protocols to capture this distinction, or lower the barriers to a party being officially registered and greenlit for listing on a ballot. That judgment notwithstanding, the current set of practices has 3 particularly deleterious consequences for the quality of official election data:
 
 \begin{enumar}
 	\item \textbf{Misleading reporting of results for a single election}. Because the choice of party listed on the ballot is made at the candidate level, it is possible for candidates from the same party to list themselves differently. In practice, this happens because parties with a strong local identity choose to contest under the party flag within a particular state, but under the coalition flag in others. For example, the EC's official announcement of the 2022 general election results listed PN and PAS as having won 52 and 22 seats respectively. In actuality, PAS was a component party of PN, but chose to contest in Kelantan and Terengganu under the party flag due to its deep roots in those states. This greatly increases the likelihood of erroneous conclusions by users of official data, especially if they lack the required contextual knowledge.
-	\item \textbf{Loss of insight into party dynamics}. Political parties which are part of stable coalitions often choose to contest under the coalitional identity. For example, UMNO - Malaysia's oldest political party - has never contested an election under its own banner, instead contesting under the Alliance flag until 1973, and the BN flag thereafter. This renders it impossible to analyse the political trajectory of UMNO relative to other component parties (especially MIC and MCA) using official data.
+	\item \textbf{Loss of insight into party dynamics}. Political parties which are part of stable coalitions often choose to contest under the coalitional identity. For example, UMNO---Malaysia's oldest political party---has never contested an election under its own banner, instead contesting under the Alliance flag until 1973, and the BN flag thereafter. This renders it impossible to analyse the political trajectory of UMNO relative to other component parties (especially MIC and MCA) using official data.
 	\item \textbf{Loss of insight into unofficial coalitions}. For example, Pakatan Harapan was not officially registered in time for the 2018 general election, thus leading to candidates from its 3 component parties (PKR, DAP, and AMANAH) mostly choosing to contest under the PKR flag. While it is true that contemporaneous election observers were generally fully aware of this circumstance, future researchers may come to a different (incorrect) conclusion if they rely solely on official records.
 \end{enumar}
 
-For this reason, I made the methodological choice to capture 3 separate variables (see Data Records for complete schema). First, \texttt{party\_on\_ballot} - which faithfully captures the exact listing of the candidate on the official ballot. Second, \texttt{party} - which captures the true party allegiance of the candidate. Third, \texttt{coalition} - which captures the coalitional allegiance of the party. It was extremely difficult to consolidate this information going back to 1955, especially for state-level results which receive far less attention than federal results - however, I was able to eventually fill in all gaps using a combination of existing scholarly work,\cite{welsh2016elections, hai2017electoral, loh2002democracy, nohlen2001elections} media reports (for modern elections), archived news articles (for older elections), and consultation with colleagues specialising in election history. To the best of my knowledge, MECo is now the only publicly-available dataset with complete data allowing users to distinguish between the 3 dimensions of political allegiance captured here.
+For this reason, I made the methodological choice to capture 3 separate variables (see Data Records for complete schema). First, \texttt{party\_on\_ballot}---which faithfully captures the exact listing of the candidate on the official ballot. Second, \texttt{party}---which captures the true party allegiance of the candidate. Third, \texttt{coalition}---which captures the coalitional allegiance of the party. It was extremely difficult to consolidate this information going back to 1955, especially for state-level results which receive far less attention than federal results. However, I was able to eventually fill in all gaps using a combination of existing scholarly work,\cite{welsh2016elections, hai2017electoral, loh2002democracy, nohlen2001elections} media reports (for modern elections), archived news articles (for older elections), and consultation with colleagues specialising in election history. To the best of my knowledge, MECo is now the only publicly-available dataset with complete data allowing users to distinguish between the 3 dimensions of political allegiance captured here.
 
 Once this was done, party and coalition UIDs were very easy to generate and validate manually, given that the total number of distinct parties (\TOTALPARTIES) and coalitions (\TOTALCOALITIONS) in the dataset is relatively small. The UIDs for coalitions are simple integers, while the UIDs for parties take the following form (e.g. \texttt{001-UMNO}):
 
@@ -257,7 +255,7 @@ The reason I implemented this syntax is to encode sufficient information for `ve
 Finally, for political parties, I used the UIDs as the basis for creating a separate lookup table tracking the lineage of political parties, i.e.\ noting down instances of merging, splitting, splintering, and renaming/rebranding linked to the UIDs of the predecessor and successor respectively. I did not deem this necessary for coalitions, which should be analysed by examining their party composition during elections, since coalition membership is always in flux and is independent of changes in the core identity of the coalition.
 
 \textbf{Candidates.}
-Candidate UIDs enable the accurate tracking of individual candidates across elections. Beyond the obvious use case of distinguishing candidates with the same name (e.g.\ the dataset contains 8 unique individuals with the exact same name - `Ahmad bin Abdullah'), robust candidate UIDs are particularly important in the Malaysian context, where candidates frequently acquire new honorifics, adopt different formatting conventions, or spell their name differently over time. Two illustrative examples demonstrate the need for candidate UIDs. 8-time Parliamentarian \textbf{Rafidah Aziz} appeared on ballots across 8 elections in forms including:
+Candidate UIDs enable the accurate tracking of individual candidates across elections. Beyond the obvious use case of distinguishing candidates with the same name (e.g.\ the dataset contains 8 unique individuals with the exact same name---`Ahmad bin Abdullah'), robust candidate UIDs are particularly important in the Malaysian context, where candidates frequently acquire new honorifics, adopt different formatting conventions, or spell their name differently over time. Two illustrative examples demonstrate the need for candidate UIDs. 8-time Parliamentarian \textbf{Rafidah Aziz} appeared on ballots across 8 elections in forms including:
 
 \begin{centering}
 
@@ -281,13 +279,13 @@ Another 8-time Parliamentarian \textbf{Samy Vellu A/L Sangalimuthu} appeared on 
 
 Through careful examination, I assigned a single UID to all instances of each candidate, taking particular care to capture all permutations of an individual's name while distinguishing between different individuals who happened to share a name. Two cues were especially useful: \textit{space} and \textit{time}. Consecutive elections in the same seat often revealed consistent candidacy patterns (i.e.\ a `home base'), whereas large gaps across states or decades typically indicated distinct individuals despite identical names. These cues guided targeted searches of external information to ensure that each UID was assigned correctly. Prominent candidates were straightforward to verify, as anyone who won an election appears in public records. The most challenging cases were independent candidates who contested only once, especially in older elections prior to widespread digital documentation. The full process of assigning candidate UIDs took nearly a year; in MECo's present form, I am confident that most, if not all, detectable errors have been eliminated.
 
-Once a complete and validated set of candidate UIDs was established, I created a candidate lookup mapping each UID to a cleaned name stripped of titles and honorifics. This lookup was then enriched with three demographic attributes: sex, ethnicity, and date of birth (DOB). Sex and ethnicity were assigned via manual inspection of names, which are nearly perfectly indicative of sex and strongly indicative of ethnic group in the Malaysian context; both variables are complete for 100\% of candidates. Where possible, these were verified against public records, particularly for recent elections. DOB were obtained through extensive manual searches across thousands of sources - including biographical directories, news archives, parliamentary profiles, and obituary notices - and recorded in ISO format (YYYY-MM-DD). Reliable birth information could not be found for 33.2\% of candidates overall, reflecting limited public documentation in earlier decades. Coverage improves markedly over time: 60\% of candidates in GE3 (1969) lack DOB information, falling to 16\% by GE10 (1999) and under 5\% by GE15 (2022), with remaining gaps concentrated among independent candidates with minimal public profiles.
+Once a complete and validated set of candidate UIDs was established, I created a candidate lookup mapping each UID to a cleaned name stripped of titles and honorifics. This lookup was then enriched with three demographic attributes: sex, ethnicity, and date of birth (DOB). Sex and ethnicity were assigned via manual inspection of names, which are nearly perfectly indicative of sex and strongly indicative of ethnic group in the Malaysian context; both variables are complete for 100\% of candidates. Where possible, these were verified against public records, particularly for recent elections. DOB were obtained through extensive manual searches across thousands of sources---including biographical directories, news archives, parliamentary profiles, and obituary notices---and recorded in ISO format (YYYY-MM-DD). Reliable birth information could not be found for 33.2\% of candidates overall, reflecting limited public documentation in earlier decades. Coverage improves markedly over time: 60\% of candidates in GE3 (1969) lack DOB information, falling to 16\% by GE10 (1999) and under 5\% by GE15 (2022), with remaining gaps concentrated among independent candidates with minimal public profiles.
 
 \subsection*{No UID for Constituencies}
 
 Constituency names are not reliable indicators of spatial continuity. The name of a constituency may remain the same despite substantial spatial change, as in the case of Lumut (Perak) in the 2018 delimitation exercise. Similarly, a constituency may be renamed despite the underlying territory remaining largely intact, as in the case of Silam (Sabah) being renamed to Lahad Datu in the 2019 delimitation exercise. More fundamentally, as several streams of work in the field have illustrated,\cite{hackett2025redrawing,crespin2005using,mcghee2017measuring} the notion of what makes a constituency the same or different across elections is inherently subjective, and should be calibrated to the specific research question at hand. Therefore, any attempt at generating a constituency UID using names alone would be a rough attempt at best, and incredibly misleading at worst.
 
-Consequently, I consider constituency continuity best left to researchers. In fact, it arguably merits dedicated scholarly handling, since electoral lineage has never been rigorously documented or studied in the Malaysian context. That having been said, users who wish to augment \acronym with other constituency-based datasets -- for example, the \href{https://citethis.link/opendosm-parlimen}{subnational statistics} published by the Department of Statistics Malaysia -- should rely on the intrinsic uniqueness of the \texttt{date-state-constituency} combination as a composite key. This avoids imposing any particular lineage model, while ensuring that external data can be merged cleanly and reproducibly.
+Consequently, I consider constituency continuity best left to researchers. In fact, it arguably merits dedicated scholarly handling, since electoral lineage has never been rigorously documented or studied in the Malaysian context. That having been said, users who wish to augment \acronym with other constituency-based datasets---for example, the \href{https://citethis.link/opendosm-parlimen}{subnational statistics} published by the Department of Statistics Malaysia---should rely on the intrinsic uniqueness of the \texttt{date-state-constituency} combination as a composite key. This avoids imposing any particular lineage model, while ensuring that external data can be merged cleanly and reproducibly.
 
 
 \section*{Data Records}
@@ -429,7 +427,7 @@ For a given contest involving $N$ candidates, the following relationship must ho
 \end{align}
 In plain language, the implied number of valid votes must be equal to the sum of votes received by all candidates. Because $I$, $U$, $R$, and $V_i$ are (and have been) reported separately in historical election reports and gazetted results, I can leverage this relationship as an almost-foolproof way to validate the accuracy of my manual data entry process. For transparency, I detected and corrected errors for 82 out of \TOTALCONTESTS\space contests, implying an error rate of 0.84\%, which is significantly lower than the 10\% error rate I encountered in my initial OCR experiments. Importantly, these errors are detectable and fixable, and come without the additional overhead of correcting errors in text data; my familiarity with local geography, politicians, and culture enabled me to transcribe text data rapidly and accurately.
 
-This validation procedure also revealed \TOTALCORRECTIONS\space contests (excluding elections before 1960 which did not report $I$, and the 2006 Sarawak state general election, which did not report $I$, $U$, or $R$) for which the data was digitised accurately based on my source material, but which nevertheless failed to satisfy Equation (\ref{eq:validation}). These errors presumably occurred due to mistakes in data entry which were not caught and corrected during the original publication process. In order to ensure a clean dataset, I applied a standard correction -- for all \TOTALCORRECTIONS\space contests failing validation, I adjusted the number of ballots issued (as documented in \texttt{corrections.csv}) such that Equation (\ref{eq:validation}) holds. I chose \texttt{ballots\_issued} as the variable to adjust for two reasons. First, until the 1981 amendment of the Elections (Conduct of Elections) Regulations (implemented from the 1990 federal general election onwards), the number of unreturned ballots was not reported (and thus assumed to be 0). Second, because the number of rejected ballots is very small relative to the number of ballots issued, using rejected ballots as the adjusted variable would have resulted in a much larger correction in percentage terms -- specifically, the correction would have required a 20\% change to the number of rejected ballots on average (with several exceeding 50\%), relative to a 0.6\% change to the number of ballots issued (with only one above 5\%, and none above 20\%).
+This validation procedure also revealed \TOTALCORRECTIONS\space contests for which the data was digitised accurately based on my source material, but which nevertheless failed to satisfy Equation (\ref{eq:validation}). These errors presumably occurred due to mistakes in data entry which were not caught and corrected during the original publication process. In order to ensure a clean dataset, I applied a standard correction---for all \TOTALCORRECTIONS\space contests failing validation, I adjusted the number of ballots issued (as documented in \texttt{corrections.csv}) such that Equation (\ref{eq:validation}) holds. I chose \texttt{ballots\_issued} as the variable to adjust for two reasons. First, until the 1981 amendment of the Elections (Conduct of Elections) Regulations (implemented fully from the 1990 federal general election onwards), the number of unreturned ballots was not reported (and thus assumed to be 0). Second, because the number of rejected ballots is very small relative to the number of ballots issued, using rejected ballots as the adjusted variable would have resulted in a much larger correction in percentage terms---specifically, the correction would have required a 20\% change to the number of rejected ballots on average (with several exceeding 50\%), relative to a 0.6\% change to the number of ballots issued (with only one above 5\%, and none above 20\%).
 
 \begin{figure*}[htb]
 	\centering
@@ -459,9 +457,9 @@ Finally, to ensure accuracy of the database as a whole, I derive seats and votes
 
 \section*{Usage Notes}
 
-The Malaysian Election Corpus (\acronymend) is designed to support a wide range of use cases, ranging from rigorous empirical research to rapid data journalism, and even casual civic technology projects. In the academic realm, \acronym -- as the first database of its kind for Malaysia -- serves as a foundational resource for research in electoral studies, political science, and public policy. Researchers can employ the data to answer important questions about the evolution of Malaysia's electoral system, employing both cross-sectional and longitudinal analysis.
+The Malaysian Election Corpus (\acronymend) is designed to support a wide range of use cases, ranging from rigorous empirical research to rapid data journalism, and even casual civic technology projects. In the academic realm, \acronym---as the first database of its kind for Malaysia---serves as a foundational resource for research in electoral studies, political science, and public policy. Researchers can employ the data to answer important questions about the evolution of Malaysia's electoral system, employing both cross-sectional and longitudinal analysis.
 
-The data can also be interactively explored via \href{https://electiondata.my}{ElectionData.MY}. In addition to making the data accessible to non-technical users, the site is intended to serve as the primary channel for continuous updates and enhancements. Future improvements to \acronym will be reflected on the site as new versions (and the corresponding source code) are archived on Harvard Dataverse\cite{meco_dataset} and Zenodo\cite{meco_codebase}, ensuring that users always have easy access to the freshest data.
+The data can also be interactively explored via \href{https://electiondata.my}{ElectionData.MY}. In addition to making the data accessible to non-technical users, the site is intended to serve as the primary channel for continuous updates and enhancements. Future improvements to \acronym will be reflected on the site as new versions are archived on Harvard Dataverse\cite{meco_dataset} and Zenodo\cite{meco_codebase}, ensuring that users always have the freshest data.
 
 I anticipate that many users will want to extend or adapt the dataset. The standardised schema and use of lookup tables enable seamless enrichment and integration with other datasets. Some valuable examples include:
 \begin{enumbul}
@@ -483,7 +481,7 @@ All datasets described in this paper are published on Harvard Dataverse\cite{mec
 All data processing, validation, and compilation was conducted in Python. The full source code is publicly available under a CC0 license via Zenodo\cite{meco_codebase} and GitHub. Three key scripts which users should find particularly useful are:
 
 \begin{enumbul}
-	\item \texttt{compile.py}, which generates and validates all tabular datasets published on Harvard Dataverse, with the exception of the \texttt{lookup*.csv} files, which were manually curated.
+	\item \texttt{compile.py}, which generates and validates all tabular datasets, with the exception of the \texttt{lookup*.csv} files, which were manually curated.
 	\item \texttt{dataviz.py}, which generates all visualisations used in this paper.
 	\item \texttt{dashboards.py}, which generates the source files for the interactive visualisations available at \href{https://electiondata.my}{ElectionData.MY}.
 \end{enumbul}
@@ -493,7 +491,7 @@ All data processing, validation, and compilation was conducted in Python. The fu
 
 	@data{meco_dataset,
 		author      = {Thevananthan, Thevesh},
-		title       = {{The Malaysian Election Corpus}: Federal and State-Level Election Results since 1955},
+		title       = {{The Malaysian Election Corpus}: Federal and State-Level Election Results since 1955, v5},
 		year        = {2025},
 		publisher   = {Harvard Dataverse},
 		doi         = {10.7910/DVN/O4CRXK},
@@ -941,17 +939,17 @@ All data processing, validation, and compilation was conducted in Python. The fu
 \endgroup
 
 \section*{Acknowledgements}
-I thank Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. I also gratefully acknowledge Nimesha Thevananthan for her assistance with data collection, Danesh Prakash Chacko of Tindak Malaysia for providing historical insights and filling data gaps (particularly for the Sabah state election in 1971), and the MyElectionData volunteers for their assistance with completion and validation of candidate UID harmonisation and candidate demographic data. Finally, I thank the EC for granting access to physical records of historical election results via \textit{Pusat Sumber SPR}.
+I thank Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. I also gratefully acknowledge Nimesha Thevananthan for her assistance with data collection, Danesh Prakash Chacko of Tindak Malaysia for providing historical insights and filling data gaps, and the MyElectionData volunteers for their assistance with completion and validation of candidate UID harmonisation and candidate demographic data. Finally, I thank the EC for granting access to physical election reports via \textit{Pusat Sumber SPR}.
 
-\section*{Author Contributions}
-TT conceived, designed, and carried out all aspects of this study, including data collection, data curation, analysis, and manuscript preparation.
+\section*{Author Contributions (CRediT statement)}
+TT: Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing - original draft, Writing - review and editing, Visualization, Supervision, Project administration.
 
 \section*{Funding}
 
 This work did not receive any specific funding.
 
 \section*{Competing Interests}
-The author declares no competing interests. The author is not affiliated with any political party, or any organisation which actively participates in or aims to influence the outcome of Malaysian elections.
+The author declares no competing interests. The author is not affiliated with any political party or election-based organisation.
 
 
 \end{document}
