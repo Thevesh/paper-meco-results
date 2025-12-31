@@ -1,4 +1,4 @@
-[![Preprint](https://img.shields.io/badge/Preprint-arXiv-orange)](https://doi.org/10.48550/arxiv.2505.06564)
+[![Published](https://img.shields.io/badge/Published-SciData-orange)](https://doi.org/10.1038/s41597-025-06502-7)
 [![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](https://doi.org/10.5281/zenodo.17694675)
 [![Data Archive](https://img.shields.io/badge/Data%20Archive-Harvard%20Dataverse-green)](https://doi.org/10.7910/DVN/O4CRXK)
 [![Data Mirror](https://img.shields.io/badge/Data%20Mirror-HuggingFace%20🤗-green)](https://doi.org/10.57967/hf/7164)
@@ -61,17 +61,18 @@ python3 dashboards.py
 
 If you use this work, please cite it as:
 
-> Thevesh Thevananthan, "The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025", 2025.
+> Thevananthan, T. The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025. Sci Data (2025). https://doi.org/10.1038/s41597-025-06502-7
 
 ``` BibTeX
-@misc{thevesh2025mecoresults,
-      title={The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025}, 
-      author={Thevesh Thevananthan},
-      year={2025},
-      eprint={2505.06564},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY},
-      url={https://arxiv.org/abs/2505.06564}, 
+
+@article{thevesh2025meco1,
+	author = {Thevananthan, Thevesh},
+	year = {2025},
+	doi = {10.1038/s41597-025-06502-7},
+	isbn = {2052-4463},
+	journal = {Scientific Data},
+	title = {The Malaysian Election Corpus (MECo): Federal and State-Level Election Results from 1955 to 2025},
+	url = {https://doi.org/10.1038/s41597-025-06502-7}
 }
 ```
 
