@@ -1,9 +1,8 @@
-[![Published](https://img.shields.io/badge/Published-SciData-orange)](https://doi.org/10.1038/s41597-025-06502-7)
+[![Published](https://img.shields.io/badge/Published-SciData-beige)](https://doi.org/10.1038/s41597-025-06502-7)
 [![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](https://doi.org/10.5281/zenodo.17694675)
 [![Data Archive](https://img.shields.io/badge/Data%20Archive-Harvard%20Dataverse-green)](https://doi.org/10.7910/DVN/O4CRXK)
 [![Data Mirror](https://img.shields.io/badge/Data%20Mirror-HuggingFace%20🤗-green)](https://doi.org/10.57967/hf/7164)
 [![Cite This](https://img.shields.io/badge/Cite%20This-BibTeX-lightgrey)](#Citation)
-[![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](LICENSE)
 
 # 🇲🇾 Malaysian Election Corpus (MECo): Federal & State-level Election Results since 1955
 
