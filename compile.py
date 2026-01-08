@@ -34,7 +34,7 @@ Checks:
 import pandas as pd
 import numpy as np
 
-from helper import get_states, write_csv_parquet
+from helper import get_states, get_final_cols, write_csv_parquet
 
 
 def main():
@@ -45,12 +45,21 @@ def main():
     states = get_states()
     col_group = ["date", "election", "state", "seat"]
 
-    cf = pd.read_csv("data/lookup_candidate.csv")
+    print("\n\n--------- Generating lookup parquets ----------\n")
+
+    for v in ["candidate", "party", "coalition", "party_succession", "dates", "prk"]:
+        cf = pd.read_csv(f"data/lookup_{v}.csv")
+        for c in cf.columns:
+            if c in ["date"]:
+                cf[c] = pd.to_datetime(cf[c]).dt.date
+        write_csv_parquet(f"data/lookup_{v}", cf)
+
+    cf = pd.read_parquet("data/lookup_candidate.parquet")
     assert cf["candidate_rn"].is_unique, "Duplicate values found in candidate_rn column!"
     assert cf["candidate_uid"].is_unique, "Duplicate values found in candidate_uid column!"
     map_rn_uid = dict(zip(cf["candidate_rn"], cf["candidate_uid"]))
 
-    print("\n --------- Compiling ballots ----------\n")
+    print("\n--------- Compiling ballots ----------\n")
 
     df = pd.read_csv("data/raw_ballots.csv").rename(columns={"candidate_rn": "candidate_uid"})
     df["candidate_uid"] = df["candidate_uid"].map(map_rn_uid)
@@ -75,11 +84,15 @@ def main():
     df.loc[df["rank"] == 1, "result"] = "won"
     df.loc[df["n_candidates"] == 1, "result"] = "won_uncontested"
 
-    write_csv_parquet(
-        "data/consol_ballots", df.drop(["votes_valid", "n_candidates", "majority"], axis=1)
-    )
+    cand = pd.read_parquet("data/lookup_candidate.parquet").drop("candidate_rn", axis=1)
+    df = pd.merge(df, cand, on="candidate_uid", how="left").rename(columns={"dob": "age"})
+    df.age = pd.to_numeric(df.age.str[:4], errors="coerce").fillna(1786).astype(int)
+    df.loc[df.age != 1786, "age"] = pd.to_datetime(df.date).dt.year - df.age
+    df.loc[df.age == 1786, "age"] = -1
 
-    print("\n\n --------- Compiling stats ----------\n")
+    write_csv_parquet("data/consol_ballots", df[get_final_cols("ballots")])
+
+    print("\n\n--------- Compiling stats ----------\n")
 
     sf = pd.read_csv("data/raw_stats.csv")
     sf.date = pd.to_datetime(sf.date).dt.date
@@ -102,9 +115,9 @@ def main():
     for c in ["voter_turnout", "majority_perc", "votes_rejected_perc", "ballots_not_returned_perc"]:
         assert len(df[df[c] > 100]) == 0, f"{c} has impossible value > 100%"
 
-    write_csv_parquet("data/consol_stats", df)
+    write_csv_parquet("data/consol_stats", df[get_final_cols("stats")])
 
-    print("\n\n --------- Validating files ----------\n")
+    print("\n\n--------- Validating files ----------\n")
 
     df["check"] = df.ballots_issued - df.ballots_not_returned - df.votes_rejected - df.votes_valid
     if len(df[df.check != 0]) > 0:
@@ -122,7 +135,7 @@ def main():
 
     print("Validation passed!")
 
-    print("\n\n --------- Generating SFC files ----------\n")
+    print("\n\n--------- Generating SFC files ----------\n")
 
     for v in ["ballots", "stats"]:
         df = pd.read_parquet(f"data/consol_{v}.parquet")
@@ -137,16 +150,7 @@ def main():
                 df[(df.state == state) & (df.election.str.startswith("SE-"))],
             )
 
-    print("\n\n --------- Generating lookup parquets ----------\n")
-
-    for v in ["candidate", "party", "coalition", "party_succession", "dates", "prk"]:
-        cf = pd.read_csv(f"data/lookup_{v}.csv")
-        for c in cf.columns:
-            if c in ["date"]:
-                cf[c] = pd.to_datetime(cf[c]).dt.date
-        write_csv_parquet(f"data/lookup_{v}", cf)
-
-    print("\n\n --------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
+    print("\n\n--------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
 
 
 if __name__ == "__main__":

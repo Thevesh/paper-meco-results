@@ -337,3 +337,55 @@ def compute_summary(
     rf.votes_perc = rf.votes_perc.round(1)
     rf["votes"] = rf["votes"].apply(lambda x: f"{x:,}")
     return rf
+
+
+def get_final_cols(file_type="ballots"):
+    """Get final columns for a given file type. Extra layer of validation that all cols are present.
+
+    Args:
+        file_type (str): Type of file ("ballots" or "stats")
+
+    Returns:
+        list: List of columns
+    """
+    if file_type == "ballots":
+        return [
+            "date",
+            "election",
+            "state",
+            "seat",
+            "ballot_order",
+            "candidate_uid",
+            "name_on_ballot",
+            "name",
+            "sex",
+            "ethnicity",
+            "age",
+            "party_on_ballot",
+            "party_uid",
+            "party",
+            "coalition_uid",
+            "coalition",
+            "votes",
+            "votes_perc",
+            "rank",
+            "result",
+        ]
+    elif file_type == "stats":
+        return [
+            "date",
+            "election",
+            "state",
+            "seat",
+            "voters_total",
+            "ballots_issued",
+            "ballots_not_returned",
+            "votes_rejected",
+            "votes_valid",
+            "majority",
+            "n_candidates",
+            "voter_turnout",
+            "majority_perc",
+            "votes_rejected_perc",
+            "ballots_not_returned_perc",
+        ]
