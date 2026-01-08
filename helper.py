@@ -371,7 +371,7 @@ def get_final_cols(file_type="ballots"):
             "rank",
             "result",
         ]
-    elif file_type == "stats":
+    if file_type == "stats":
         return [
             "date",
             "election",
@@ -389,3 +389,4 @@ def get_final_cols(file_type="ballots"):
             "votes_rejected_perc",
             "ballots_not_returned_perc",
         ]
+    return []
