@@ -52,7 +52,7 @@ def candidate_uid(rn: int, secret: str) -> str:
 
 if __name__ == "__main__":
     print("\n --------- Generating candidate UIDs ----------\n")
-    df = pd.read_csv("src-data/lookup_candidate.csv")
+    df = pd.read_csv("data/lookup_candidate.csv")
     print(f"Loaded {len(df):,.0f} candidates from lookup_candidate.csv.")
 
     if "candidate_uid" in df.columns:
@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
     print("Generating new candidate_uid values")
     df.insert(0, "candidate_uid", df.candidate_rn.apply(lambda x: candidate_uid(x, UID_SECRET)))
-    df.to_csv("src-data/lookup_candidate.csv", index=False)
+    df.to_csv("data/lookup_candidate.csv", index=False)
     print("Saved updated lookup_candidate.csv")
 
     print("\n\n --------- ✨ DONE ✨ ----------\n")

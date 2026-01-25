@@ -308,7 +308,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1983-03-16,BY-ELECTION,Kedah,P.009 Ulu Muda,3,DDM2Y,Othman bin Abdul,Othman bin Abdul,M,Malay,30,BN,001-UMNO,UMNO,3,BN,14939,58.89843873206119,1,won
 1983-04-09,BY-ELECTION,Perak,N.02 Kenering,1,40D5Y,Johan bin Lahamat,Johan bin Lahamat,M,Malay,42,BN,001-UMNO,UMNO,3,BN,6116,70.67252137739773,1,won
 1983-04-09,BY-ELECTION,Perak,N.02 Kenering,2,PH6MM,Haji Md. Arif bin Yaacob,Md Arif bin Yaacob,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2538,29.327478622602264,2,lost
-1983-06-04,BY-ELECTION,Pahang,N.16 Bandar Raub,1,0CHZ7,Chua Hung Kim,Chua Hung Kim,M,Chinese,-1,BN,003-MCA,MCA,3,BN,3873,40.377397831526274,2,lost
+1983-06-04,BY-ELECTION,Pahang,N.16 Bandar Raub,1,0CHZ7,Chua Hung Kim,Chua Hung Kim,M,Chinese,48,BN,003-MCA,MCA,3,BN,3873,40.377397831526274,2,lost
 1983-06-04,BY-ELECTION,Pahang,N.16 Bandar Raub,2,6KYSX,Lip Ah Kow @ Lip Tuck Chee,Lip Tuck Chee,M,Chinese,36,DAP,021-DAP,DAP,0,ALONE,5719,59.622602168473726,1,won
 1983-07-16,BY-ELECTION,Sabah,N.14 Tamparuli,1,WVQTX,Alim Sugara,Alim Sugara,M,Bumi Sabah,-1,PUSAKA,037-PUSAKA,PUSAKA,0,ALONE,42,0.9567198177676537,3,lost_deposit
 1983-07-16,BY-ELECTION,Sabah,N.14 Tamparuli,2,M9B2S,Ignatius Stephen Malanjum,Ignatius Stephen Malanjum,M,Bumi Sabah,37,PASOK,042-PASOK,PASOK,0,ALONE,1501,34.191343963553535,2,lost
@@ -714,3 +714,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2025-04-26,BY-ELECTION,Perak,N.48 Ayer Kuning,1,0V01V,Dr. Ustaz Yusri Bakir,Mohamad Yusri bin Bakir,M,Malay,54,BN,001-UMNO,UMNO,3,BN,11065,60.69665386725178,1,won
 2025-04-26,BY-ELECTION,Perak,N.48 Ayer Kuning,2,48P44,Ustaz Muhaimin,Muhaimin bin Abdul Malek,M,Malay,44,PN,004-PAS,PAS,11,PN,6059,33.23642347778387,2,lost
 2025-04-26,BY-ELECTION,Perak,N.48 Ayer Kuning,3,9J6H9,Bawani KS,Bawani a/p Kaniapan (Bawani KS),F,Indian,40,PSM,074-PSM,PSM,0,ALONE,1106,6.066922654964344,3,lost_deposit
+2026-01-24,BY-ELECTION,Sabah,P.187 Kinabatangan,1,2TYQ1,Naim Moktar,Mohd Kurniawan Naim bin Moktar (Naim Moktar),M,Bumi Sabah,32,BN,001-UMNO,UMNO,3,BN,19852,75.09456801331518,1,won
+2026-01-24,BY-ELECTION,Sabah,P.187 Kinabatangan,2,TN960,Goldam H Salangah,Goldam bin Hamid (Goldam H Salangah),M,Bumi Sabah,40,BEBAS,000-BEBAS,BEBAS,0,ALONE,946,3.57845362384627,3,lost_deposit
+2026-01-24,BY-ELECTION,Sabah,P.187 Kinabatangan,3,PHJCK,Datuk Saddi bin Abdu Rahman,Saddi Abdul Rahman,M,Bumi Sabah,67,WARISAN,104-WARISAN,WARISAN,0,ALONE,5638,21.326978362838553,2,lost
+2026-01-24,BY-ELECTION,Sabah,N.58 Lamag,1,KE6NR,Miha,Mohd Ismail bin Ayob,M,Bumi Sabah,45,BN,001-UMNO,UMNO,3,BN,7269,82.0706785593316,1,won
+2026-01-24,BY-ELECTION,Sabah,N.58 Lamag,2,G6BSA,Mazliwati Abdul Malek,Mazliwati binti Abdul Malek,F,Bumi Sabah,53,WARISAN,104-WARISAN,WARISAN,0,ALONE,1588,17.929321440668396,2,lost
