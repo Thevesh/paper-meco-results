@@ -3,7 +3,6 @@
 import json as j
 import os
 from glob import glob as g
-from ast import literal_eval as le
 from datetime import datetime
 import pandas as pd
 
@@ -14,16 +13,12 @@ def make_candidates():
     """Generate candidate data files for API."""
     data = {"data": []}
 
-    df = pd.read_parquet("src-data/dashboards/elections_candidates.parquet")
-    df = (df
-        .assign(
-            c=1,
-            w=df.result.str.contains('won').astype(int),
-            l=lambda x: 1 - x.w
-        )
-        .groupby(['slug','name'], as_index=False)
-        .agg({'c':'sum', 'w':'sum', 'l':'sum'})
-        .sort_values(['c','w'], ascending=False)
+    df = pd.read_parquet("dashboards/elections_candidates.parquet")
+    df = (
+        df.assign(c=1, w=df.result.str.contains("won").astype(int), l=lambda x: 1 - x.w)
+        .groupby(["slug", "name"], as_index=False)
+        .agg({"c": "sum", "w": "sum", "l": "sum"})
+        .sort_values(["c", "w"], ascending=False)
     )
     df = df.to_dict(orient="records")
     df = [
@@ -40,18 +35,18 @@ def make_candidates():
         "date",
         "seat",
         "party",
+        "party_uid",
+        "coalition",
+        "coalition_uid",
         "votes",
         "votes_perc",
         "result",
     ]
 
-    df = pd.read_parquet("src-data/dashboards/elections_candidates.parquet")
+    df = pd.read_parquet("dashboards/elections_candidates.parquet")
+    df.date = pd.to_datetime(df.date).dt.strftime("%Y-%m-%d")
     for slug in sorted(list(df.slug.unique())):
-        tf = (
-            df[df.slug == slug]
-            .copy()[col_api_candidate]
-            .sort_values(by="date", ascending=False)
-        )
+        tf = df[df.slug == slug].copy()[col_api_candidate].sort_values(by="date", ascending=False)
         tf = tf.to_dict(orient="records")
         tf = [
             {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
@@ -71,7 +66,7 @@ def make_seats():
         "lineage": [],
         "data": [],
         "barmeter": {},
-        "pyramid": {"ages":[],"male":[],"female":[]}
+        "pyramid": {"ages": [], "male": [], "female": []},
     }
 
     col_api_seat = [
@@ -79,80 +74,63 @@ def make_seats():
         "seat",
         "date",
         "party",
+        "party_uid",
+        "coalition",
+        "coalition_uid",
         "name",
         "majority",
         "majority_perc",
     ]
 
-    df = pd.read_csv('src-data/lookup_seats_new.csv')
-    for r in [('federal','parlimen'),('state','dun')]:
-        df.type = df.type.replace(r[0],r[1])
-    for r in [('[','["'),(']','"]'),(',','","')]:
-        df.lineage = df.lineage.str.replace(r[0],r[1])
-    df['lineage'] = df['lineage'].apply(le)
-    df['lineage_sort'] = df.lineage.astype(str)
-    df.seat = df.seat + ', ' + df.state
-    df['slug'] = df.seat.apply(generate_slug)
+    df = pd.read_parquet("dashboards/elections_seats_winner.parquet")
+    df = df[
+        (df.election_name == "GE-15")
+        | (df.election_name == "SE-15")
+        | ((df.state == "Sarawak") & (df.election_name == "SE-12"))
+    ]
+    slugs = df.slug.tolist()
 
-    tf = df[df['lineage'].apply(lambda x: len(x) == 1)].copy()\
-        .sort_values(by=['lineage_sort','date'])\
-        .drop_duplicates(subset=['lineage'],keep='last')\
-        .drop(columns=['lineage_sort'])
-    lineages = tf.lineage.apply(lambda x: x[0])
-    tf = pd.concat([
-        tf[tf.type == 'parlimen'],
-        tf[tf.type == 'dun']
-    ],axis=0,ignore_index=True)
-    tf = tf[['seat','slug','type']].rename(columns={'seat':'seat_name'}).to_dict(orient='records')
-    data['data'] = tf
-    with open('api/seats/dropdown.json','w',encoding='utf-8') as f:
-        j.dump(data,f)
+    sf = pd.read_parquet("dashboards/elections_seats_winner.parquet")
+    sf.date = pd.to_datetime(sf.date).dt.date.astype(str)
 
-    map_change = {
-        'en': {
-            'rename': ' was renamed to ',
-            'split': ' was split into ',
-            'merge': ' was merged with ',
-        },
-        'ms': {
-            'rename': ' dinamakan semula kepada ',
-            'split': ' dibahagikan kepada ',
-            'merge': ' digabungkan dengan ',
-        }
-    }
-    lf = pd.read_csv('src-data/lookup_seats_lineage_desc.csv',dtype=str).dropna(how='any')
-    lf['change_en'] = lf['from'] + lf['type'].map(map_change['en']) + lf['to'] + ' in the ' + lf['date'].str[:4] + ' redelineation'
-    lf['change_ms'] = lf['from'] + lf['type'].map(map_change['ms']) + lf['to'].str.replace(' and ',' dan ') + ' dalam persempadan semula ' + lf['date'].str[:4]
-    # for lang in ['en','ms']:
-    #     ef.loc[ef.type == 'carve_out',f'change_{lang}'] = map_change[lang]['carve_out_prefix'] + ef[f'change_{lang}']
-
-    sf = pd.read_parquet('src-data/dashboards/elections_seats_winner.parquet')
-    sf.slug = sf.seat.apply(generate_slug)
-
-    bf = pd.read_csv('src-data/scrape/voters_ge15_demog.csv')
-    bf = pd.concat([
-        bf[~bf.state.str.contains('W.P')],
-        bf.groupby(['state','parlimen']).sum(numeric_only=True).reset_index()
-    ],axis=0,ignore_index=True)
+    bf = pd.read_csv("local-scrape/voters_ge15_demog.csv")
+    bf = pd.concat(
+        [
+            bf[~bf.state.str.contains("W.P")],
+            bf.groupby(["state", "parlimen"]).sum(numeric_only=True).reset_index(),
+        ],
+        axis=0,
+        ignore_index=True,
+    )
     # for c in bf.columns[4:]: bf[c] = (bf[c]/bf['total'] * 100).round(1)
-    bf['slug'] = bf.parlimen + ', ' + bf.state
-    bf.loc[~bf.dun.isnull(),'slug'] = bf.dun + ', ' + bf.state
+    bf["slug"] = bf.parlimen + ", " + bf.state
+    bf.loc[~bf.dun.isnull(), "slug"] = bf.dun + ", " + bf.state
     bf.slug = bf.slug.apply(generate_slug)
-    bf['desc_en'] = bf.apply(lambda x: f"{x.parlimen} is a federal constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).", axis=1)
-    bf['desc_ms'] = bf.apply(lambda x: f"{x.parlimen} adalah sebuah kawasan persekutuan di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).", axis=1)
-    bf.loc[~bf.dun.isnull(), 'desc_en'] = bf.loc[~bf.dun.isnull()].apply(lambda x: f"{x.dun} is a state constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).", axis=1)
-    bf.loc[~bf.dun.isnull(), 'desc_ms'] = bf.loc[~bf.dun.isnull()].apply(lambda x: f"{x.dun} adalah sebuah kawasan negeri di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).", axis=1)
+    bf["desc_en"] = bf.apply(
+        lambda x: f"{x.parlimen} is a federal constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).",
+        axis=1,
+    )
+    bf["desc_ms"] = bf.apply(
+        lambda x: f"{x.parlimen} adalah sebuah kawasan persekutuan di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).",
+        axis=1,
+    )
+    bf.loc[~bf.dun.isnull(), "desc_en"] = bf.loc[~bf.dun.isnull()].apply(
+        lambda x: f"{x.dun} is a state constituency in {x.state}, with {int(x.total):,} voters as of GE-15 (2022).",
+        axis=1,
+    )
+    bf.loc[~bf.dun.isnull(), "desc_ms"] = bf.loc[~bf.dun.isnull()].apply(
+        lambda x: f"{x.dun} adalah sebuah kawasan negeri di {x.state}, dengan {int(x.total):,} pengundi setakat GE-15 (2022).",
+        axis=1,
+    )
 
-    af = pd.read_parquet('src-data/scrape/voters_ge15_pyramid.parquet')
+    af = pd.read_parquet("local-scrape/voters_ge15_pyramid.parquet")
 
-    for lineage in lineages:
-        slugs = list(df[df['lineage'].apply(lambda x, l=lineage: l in x)].sort_values(by='date')['slug'])
-        if len(slugs) == 0:
-            continue
+    for slug in slugs:
 
         # Election results
+        seat_name = sf[sf.slug == slug].seat_name.iloc[0]
         tf = (
-            sf[sf.slug.isin(slugs)]
+            sf[sf.seat_name == seat_name]
             .copy()[col_api_seat]
             .sort_values(by="date", ascending=False)
         )
@@ -161,36 +139,33 @@ def make_seats():
             {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
         ]  # proper JSON null
 
-        # Lineage
-        tfl = lf[lf.slug == slugs[-1]][['date','change_en','change_ms']].to_dict(orient='records')
-
         # Demographics
-        tfd = bf[bf.slug == slugs[-1]].iloc[0]
+        tfd = bf[bf.slug == slug].iloc[0]
         barmeter = {"votertype": {}, "sex": {}, "age": {}, "ethnic": {}}
         for k in barmeter:
-            prefix = k + '_'
+            prefix = k + "_"
             barmeter[k] = {}
             for col in bf.columns:
                 if col.startswith(prefix):
-                    barmeter[k][col[len(prefix):]] = int(tfd[col])
+                    barmeter[k][col[len(prefix) :]] = int(tfd[col])
 
         # Pyramid
-        tfa = af[af.slug == slugs[-1]].copy()
+        tfa = af[af.slug == slug].copy()
         if len(tfa) == 0:
-            print(f'No pyramid data for {slugs[-1]}')
-        data['pyramid']['ages'] = list(range(18, 101))
-        data['pyramid']['male'] = [int(x) for x in tfa.male.tolist()]
-        data['pyramid']['female'] = [int(x) for x in tfa.female.tolist()]
+            print(f"No pyramid data for {slug}")
+        data["pyramid"]["ages"] = list(range(18, 101))
+        data["pyramid"]["male"] = [int(x) for x in tfa.male.tolist()]
+        data["pyramid"]["female"] = [int(x) for x in tfa.female.tolist()]
 
         # Combine into JSON response
-        data["desc_en"] = tfd['desc_en']
-        data["desc_ms"] = tfd['desc_ms']
-        data["voters_total"] = int(tfd['total'])
-        data["data"] = tf + tfl
+        data["desc_en"] = tfd["desc_en"]
+        data["desc_ms"] = tfd["desc_ms"]
+        data["voters_total"] = int(tfd["total"])
+        data["data"] = tf
         data["data"].sort(key=lambda x: x.get("date", ""), reverse=True)
         data["barmeter"] = barmeter
 
-        with open(f"api/seats/{slugs[-1]}.json", "w", encoding="utf-8") as f:
+        with open(f"api/seats/current/{slug}.json", "w", encoding="utf-8") as f:
             j.dump(data, f)
 
 
@@ -199,61 +174,62 @@ def make_seats_boundaries():
     Generate data for the boundaries key in the seat JSONs
     """
     # read and form consolidated dataframe with latest year
-    df = pd.read_csv('src-data/scrape/lineage_simple.csv').rename(columns={'year':'tileset'})
-    df['year'] = df.tileset.astype(str)
-    cf = df.copy().drop_duplicates(subset=['state','seat'])
-    cf['tileset'] = cf.state.map({'Sabah':'2019','Sarawak':'2015'}).fillna('2018')
+    df = pd.read_csv("local-scrape/lineage_simple.csv").rename(columns={"year": "tileset"})
+    df["year"] = df.tileset.astype(str)
+    cf = df.copy().drop_duplicates(subset=["state", "seat"])
+    cf["tileset"] = cf.state.map({"Sabah": "2019", "Sarawak": "2015"}).fillna("2018")
     cf.year = cf.tileset
     cf.lineage = cf.seat
-    df = pd.concat([df,cf],axis=0,ignore_index=True)
-    df = df.sort_values(by=['state','seat','year'],ascending=[True,True,False]).reset_index(drop=True)
+    df = pd.concat([df, cf], axis=0, ignore_index=True)
+    df = df.sort_values(by=["state", "seat", "year"], ascending=[True, True, False]).reset_index(
+        drop=True
+    )
 
-    df.tileset = 'peninsular_' + df.tileset.astype(str) + '_parlimen'
-    df.loc[df.seat.str.startswith('N'),'tileset'] = df.tileset.str.replace('parlimen','dun')
-    for s in ['Sabah','Sarawak']:
-        df.loc[df.state == s,'tileset'] = df.tileset.str.replace('peninsular',s.lower())
-    df['slug'] = df.seat + ', ' + df.state
-    df['slug'] = df.slug.apply(generate_slug)
-    df = df[['slug','state','seat','year','lineage','tileset']]
+    df.tileset = "peninsular_" + df.tileset.astype(str) + "_parlimen"
+    df.loc[df.seat.str.startswith("N"), "tileset"] = df.tileset.str.replace("parlimen", "dun")
+    for s in ["Sabah", "Sarawak"]:
+        df.loc[df.state == s, "tileset"] = df.tileset.str.replace("peninsular", s.lower())
+    df["slug"] = df.seat + ", " + df.state
+    df["slug"] = df.slug.apply(generate_slug)
+    df = df[["slug", "state", "seat", "year", "lineage", "tileset"]]
 
-    bf = pd.read_csv('src-data/scrape/plot_bounds.csv')
-    df = df.merge(bf, on='slug', how='left')
+    bf = pd.read_csv("local-scrape/plot_bounds.csv")
+    df = df.merge(bf, on="slug", how="left")
     df.zoom = df.zoom.round(2) - 0.5
 
-    files = g('api/seats/*.json')
-    files = sorted([x for x in files if 'dropdown' not in x])
+    files = g("api/seats/current/*.json")
+    files = sorted([x for x in files if "dropdown" not in x])
 
     for f in files:
-        data = j.load(open(f,'r',encoding='utf-8'))
-        slug = f.replace('api/seats/','').replace('.json','')
+        data = j.load(open(f, "r", encoding="utf-8"))
+        slug = f.replace("api/seats/current/", "").replace(".json", "")
         tf = df[df.slug == slug].copy()
         if len(tf) == 0:
-            print(f'{slug} not found')
+            print(f"{slug} not found")
             continue
 
-        boundaries = {
-            "center": [],
-            "zoom": 0,
-            "polygons": {}
-        }
+        boundaries = {"center": [], "zoom": 0, "polygons": {}}
 
-        data['boundaries'] = boundaries
+        data["boundaries"] = boundaries
 
-        data['boundaries']['center'] = [float(tf.center_lon.values[0]), float(tf.center_lat.values[0])]
-        data['boundaries']['zoom'] = float(tf.zoom.values[0])
+        data["boundaries"]["center"] = [
+            float(tf.center_lon.values[0]),
+            float(tf.center_lat.values[0]),
+        ]
+        data["boundaries"]["zoom"] = float(tf.zoom.values[0])
         for _, row in tf.iterrows():
-            year = row['year']
-            tileset = row['tileset']
-            lineage = row['lineage']
+            year = row["year"]
+            tileset = row["tileset"]
+            lineage = row["lineage"]
             # lineage may be a comma-separated list, but in this context, it's a single value
             # If lineage is a string with multiple values, split and strip
-            if isinstance(lineage, str) and ',' in lineage:
-                lineage_list = [x.strip() for x in lineage.split(',')]
+            if isinstance(lineage, str) and "," in lineage:
+                lineage_list = [x.strip() for x in lineage.split(",")]
             else:
                 lineage_list = [lineage]
-            data['boundaries']['polygons'][year] = [tileset, lineage_list]
+            data["boundaries"]["polygons"][year] = [tileset, lineage_list]
 
-        j.dump(data, open(f,'w',encoding='utf-8'))
+        j.dump(data, open(f, "w", encoding="utf-8"))
 
 
 def make_seats_lineage():
@@ -261,23 +237,23 @@ def make_seats_lineage():
     Generate data for the lineage key in the seat JSONs
     """
     df = {
-        'p': pd.read_csv('src-data/scrape/lineage_naive_parlimen.csv'),
-        'n': pd.read_csv('src-data/scrape/lineage_naive_dun.csv')
+        "p": pd.read_csv("local-scrape/lineage_naive_parlimen.csv"),
+        "n": pd.read_csv("local-scrape/lineage_naive_dun.csv"),
     }
     col_final = {
-        'p': ['year','parlimen','area','overlap_pct','n_duns','duns'],
-        'n': ['year','dun','area','overlap_pct','parlimen']
+        "p": ["year", "parlimen", "area", "overlap_pct", "n_duns", "duns"],
+        "n": ["year", "dun", "area", "overlap_pct", "parlimen"],
     }
-    for t in ['p','n']:
-        df[t]['slug'] = df[t].new + ', ' + df[t].state
+    for t in ["p", "n"]:
+        df[t]["slug"] = df[t].new + ", " + df[t].state
         df[t].slug = df[t].slug.apply(generate_slug)
 
-    files = g('api/seats/*.json')
-    files = sorted([x for x in files if 'dropdown' not in x])
+    files = g("api/seats/current/*.json")
+    files = sorted([x for x in files if "dropdown" not in x])
 
     for f in files:
-        data = j.load(open(f,'r',encoding='utf-8'))
-        slug = f.replace('api/seats/','').replace('.json','')
+        data = j.load(open(f, "r", encoding="utf-8"))
+        slug = f.replace("api/seats/current/", "").replace(".json", "")
 
         tf = df[slug[0]][df[slug[0]].slug == slug][col_final[slug[0]]]
 
@@ -285,14 +261,14 @@ def make_seats_lineage():
         seat_type = col_final[slug[0]][1]
         for y in tf.year.unique():
             seats = tf[tf.year == y][seat_type].tolist()
-            data['boundaries']['polygons'][f'{y}'][1] = seats
+            data["boundaries"]["polygons"][f"{y}"][1] = seats
 
-        tf = tf.to_dict(orient='records')
+        tf = tf.to_dict(orient="records")
         tf = [
             {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in tf
         ]  # proper JSON null
-        data['lineage'] = tf
-        j.dump(data, open(f,'w',encoding='utf-8'),indent=4)
+        data["lineage"] = tf
+        j.dump(data, open(f, "w", encoding="utf-8"))
 
 
 def make_parties():
@@ -311,7 +287,7 @@ def make_parties():
         "votes_perc",
     ]
 
-    df = pd.read_parquet("src-data/dashboards/elections_parties.parquet")
+    df = pd.read_parquet("dashboards/elections_parties.parquet")
     for party in df.party.unique():
         tf = df[df.party == party].copy()
 
@@ -327,19 +303,17 @@ def make_parties():
                     continue
 
                 tfts = (
-                    tft[tft.state == state]
-                    .copy(col_party)
-                    .sort_values(by="date", ascending=False)
+                    tft[tft.state == state].copy(col_party).sort_values(by="date", ascending=False)
                 )
                 res = tfts.to_dict(orient="records")
                 res = [
-                    {k: (None if pd.isna(v) else v) for k, v in record.items()}
-                    for record in res
+                    {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in res
                 ]  # proper JSON null
 
                 data["data"] = res
-                with open(f"api/parties/{party}/{election_type}/{state}.json",
-                          "w", encoding="utf-8") as f:
+                with open(
+                    f"api/parties/{party}/{election_type}/{state}.json", "w", encoding="utf-8"
+                ) as f:
                     j.dump(data, f)
 
 
@@ -359,10 +333,8 @@ def make_results():
         "majority_perc",
     ]
 
-    df = pd.read_parquet("src-data/dashboards/elections_candidates.parquet")
-    print(
-        f"{df.drop_duplicates(subset=['seat','date']).shape[0]:,.0f} results to create"
-    )
+    df = pd.read_parquet("dashboards/elections_candidates.parquet")
+    print(f"{df.drop_duplicates(subset=['seat','date']).shape[0]:,.0f} results to create")
     for seat in df.seat.unique():
         if not os.path.exists(f"api/results/{seat}"):
             os.makedirs(f"api/results/{seat}")
@@ -374,20 +346,16 @@ def make_results():
                 .copy()[col_api_ballot]
                 .sort_values(by="votes", ascending=False)
             )
-            dfse_b = (
-                dfs[dfs.date == date].copy()[col_api_ballot_summary].drop_duplicates()
-            )
+            dfse_b = dfs[dfs.date == date].copy()[col_api_ballot_summary].drop_duplicates()
 
             res = dfse.to_dict(orient="records")
             res = [
-                {k: (None if pd.isna(v) else v) for k, v in record.items()}
-                for record in res
+                {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in res
             ]  # proper JSON null
 
             res_b = dfse_b.to_dict(orient="records")
             res_b = [
-                {k: (None if pd.isna(v) else v) for k, v in record.items()}
-                for record in res_b
+                {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in res_b
             ]  # proper JSON null
 
             data["ballot"] = res
@@ -431,15 +399,15 @@ def make_elections():
     }
 
     # dfm for main ballot by party
-    dfm = pd.read_parquet("src-data/dashboards/elections_parties.parquet").sort_values(
+    dfm = pd.read_parquet("dashboards/elections_parties.parquet").sort_values(
         by=["seats_perc", "votes_perc"], ascending=False
     )
 
     # dfs for summary stats
-    dfs = pd.read_parquet("src-data/dashboards/elections_summary.parquet").fillna(0)
+    dfs = pd.read_parquet("dashboards/elections_summary.parquet").fillna(0)
 
     # dft for table of statistics by seat; need to be joined with lf loser frame
-    dft = pd.read_parquet("src-data/dashboards/elections_seats_winner.parquet")
+    dft = pd.read_parquet("dashboards/elections_seats_winner.parquet")
     dft = dft[dft.election_name != "By-Election"]
     dft = pd.concat(
         [dft[dft.type == "parlimen"].assign(state="Malaysia"), dft],
@@ -450,11 +418,7 @@ def make_elections():
     lf = lf[lf.result != "won"]
     lf.loc[lf.result == "won_uncontested", "party"] = "NEMO"
     lf.seat = lf.seat + ", " + lf.state
-    lf = (
-        lf[["date", "seat", "party"]]
-        .drop_duplicates()
-        .rename(columns={"party": "party_lost"})
-    )
+    lf = lf[["date", "seat", "party"]].drop_duplicates().rename(columns={"party": "party_lost"})
     lf = lf.groupby(["date", "seat"])["party_lost"].agg(list).reset_index()
     dft = pd.merge(dft, lf, on=["date", "seat"], how="left")
 
@@ -491,11 +455,7 @@ def make_elections():
                     res = tf[col_final[key]].to_dict(orient="records")
                     res = [
                         {
-                            k: (
-                                (None if pd.isna(v) else v)
-                                if not isinstance(v, list)
-                                else v
-                            )
+                            k: ((None if pd.isna(v) else v) if not isinstance(v, list) else v)
                             for k, v in record.items()
                         }
                         for record in res
@@ -508,8 +468,9 @@ def make_elections():
                         for record in res
                     ]
                     data[key] = res
-                with open(f"api/elections/{state}/{election_type}-{election}.json",
-                          "w", encoding="utf-8") as f:
+                with open(
+                    f"api/elections/{state}/{election_type}-{election}.json", "w", encoding="utf-8"
+                ) as f:
                     j.dump(data, f)
 
 
@@ -517,10 +478,8 @@ def make_trivia():
     """Generate trivia data files for API."""
     states = get_states(my=1)
 
-    sb = pd.read_parquet("src-data/dashboards/elections_slim_big.parquet").sort_values(
-        by="majority"
-    )
-    vt = pd.read_parquet("src-data/dashboards/elections_veterans.parquet")
+    sb = pd.read_parquet("dashboards/elections_slim_big.parquet").sort_values(by="majority")
+    vt = pd.read_parquet("dashboards/elections_veterans.parquet")
 
     for state in states:
         df = {
@@ -538,8 +497,7 @@ def make_trivia():
             tf = df[key].copy()
             res = tf.to_dict(orient="records")
             res = [
-                {k: (None if pd.isna(v) else v) for k, v in record.items()}
-                for record in res
+                {k: (None if pd.isna(v) else v) for k, v in record.items()} for record in res
             ]  # proper JSON null
             data[key] = res
         with open(f"api/trivia/{state}.json", "w", encoding="utf-8") as f:
@@ -561,22 +519,20 @@ def upload_data(file_pattern="candidates/*"):
 def make_upload_dates():
     """Generate and upload dates data file."""
     data = {"data": []}
+
     df = (
-        pd.read_csv("src-data/lookup_seats.csv")[["state", "election", "date"]]
+        pd.read_parquet(
+            "dashboards/elections_parties.parquet", columns=["state", "election_name", "date"]
+        )
         .drop_duplicates()
-        .sort_values(by=["state", "election"])
+        .rename(columns={"election_name": "election"})
     )
-    df = df[~df.election.str.contains("BY-ELECTION")]
+    df = df.sort_values(by=["state", "election"]).reset_index(drop=True)
     df = pd.concat(
-        [
-            df[df.election.str.startswith("GE")]
-            .assign(state="Malaysia")
-            .drop_duplicates(),
-            df,
-        ],
-        axis=0,
-        ignore_index=True,
+        [df[df.state == "Malaysia"], df[df.state != "Malaysia"]], axis=0, ignore_index=True
     )
+    df.date = pd.to_datetime(df.date).dt.date.astype(str)
+
     res = df.to_dict(orient="records")
     data["data"] = res
     with open("api/dates.json", "w", encoding="utf-8") as f:
@@ -601,14 +557,12 @@ if __name__ == "__main__":
     make_parties()
     make_results()
     make_elections()
-    make_trivia()
     for path in [
         "candidates/*",
-        "seats/*",
+        "seats/*/*",
         "parties/*/*/*",
         "results/*/*",
         "elections/*/*",
-        "trivia/*",
     ]:
         upload_data(file_pattern=path)
     make_upload_dates()
