@@ -1492,7 +1492,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,GE-05,Perak,P.062 Telok Anson,3,NBQ91,Mohamad Bin Ngah,Mohamad bin Ngah,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1168,4.612772007424668,3,lost_deposit
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,1,798XS,Mak Hon Kam @ Mak Hoon Ting,Mak Hon Kam,M,Chinese,39,BN,003-MCA,MCA,3,BN,15805,68.18672073859959,1,won
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,2,EM49Y,Zakaria Bin A. Manaf,Zakaria bin Abdul Manaf,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,7374,31.813279261400407,2,lost
-1978-07-08,GE-05,Perak,P.064 Bagan Datok,1,WPJBM,Haji Hassan Adli Bin Haji Arshad,Hassan Adli bin Arshad,M,Malay,49,BN,000-BEBAS,BEBAS,3,BN,16894,76.71767857953772,1,won
+1978-07-08,GE-05,Perak,P.064 Bagan Datok,1,WPJBM,Haji Hassan Adli Bin Haji Arshad,Hassan Adli bin Arshad,M,Malay,49,BN,001-UMNO,UMNO,3,BN,16894,76.71767857953772,1,won
 1978-07-08,GE-05,Perak,P.064 Bagan Datok,2,J1TC7,Abdullah Bin Basiran,Abdullah bin Basiran,M,Malay,44,PAS,004-PAS,PAS,0,ALONE,2600,11.806911584396712,2,lost_deposit
 1978-07-08,GE-05,Perak,P.064 Bagan Datok,3,1922Y,Thee Ah Kow @ Thee You Min,Thee Ah Kow (Thee You Min),M,Chinese,26,DAP,021-DAP,DAP,0,ALONE,2527,11.475409836065573,3,lost_deposit
 1978-07-08,GE-05,Pahang,P.065 Lipis,1,E4N2B,Tan Sri Muhammad Ghazali Shafie,Muhammad Ghazali bin Shafie,M,Malay,56,BN,001-UMNO,UMNO,3,BN,14778,69.91531437763165,1,won
@@ -3750,7 +3750,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1999-11-29,GE-10,Sarawak,P.171 Kota Samarahan,2,4N1K8,Zulrusdi Bin Mohamad Hol,Zulrusdi bin Mohamad Hol,M,Bumi Sarawak,31,PKR,075-PKN,PKN,6,BA,5092,27.06207482993197,2,lost
 1999-11-29,GE-10,Sarawak,P.171 Kota Samarahan,3,7YKB7,Haji Bujang Bakar,Bujang bin Bakar,M,Bumi Sarawak,53,BEBAS,000-BEBAS,BEBAS,0,ALONE,417,2.2161989795918364,3,lost_deposit
 1999-11-29,GE-10,Sarawak,P.172 Mambong,1,766BJ,Belek @ Jerip Anak Susil @ Dr. Jerip Anak Susil,Jerip anak Susil (Belek),M,Bumi Sarawak,42,STAR,072-STAR-SWK,STAR,0,ALONE,9655,46.015632446859215,2,lost
-1999-11-29,GE-10,Sarawak,P.172 Mambong,2,82QNH,James Dawos Mamit @ Dr. Dawos Mamit,James Dawos Mamit,M,Bumi Sarawak,51,BN,000-BEBAS,BEBAS,3,BN,11327,53.984367553140785,1,won
+1999-11-29,GE-10,Sarawak,P.172 Mambong,2,82QNH,James Dawos Mamit @ Dr. Dawos Mamit,James Dawos Mamit,M,Bumi Sarawak,51,BN,029-PBB,PBB,3,BN,11327,53.984367553140785,1,won
 1999-11-29,GE-10,Sarawak,P.173 Serian,1,4YAG5,Richard Riot Jaem,Richard Riot anak Jaem,M,Bumi Sarawak,48,BN,013-SUPP,SUPP,3,BN,12491,71.77498132505889,1,won
 1999-11-29,GE-10,Sarawak,P.173 Serian,2,KBRXD,Shamsuddin Bin Abdullah @ Pok Anak Ungkut,Pok anak Ungkut (Shamsuddin bin Abdullah),M,Bumi Sarawak,46,BEBAS,000-BEBAS,BEBAS,0,ALONE,872,5.010630351088893,3,lost_deposit
 1999-11-29,GE-10,Sarawak,P.173 Serian,3,BGDQT,Anthony Polycarp Munjan,Anthony Polycarp Munjan,M,Bumi Sarawak,56,STAR,072-STAR-SWK,STAR,0,ALONE,4040,23.21438832385221,2,lost
@@ -4984,7 +4984,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2013-05-05,GE-13,Selangor,P.107 Subang,3,7F4PR,Mohamad,Mohamad bin Ismail,M,Malay,-1,BERJASA,036-BERJASA,BERJASA,0,ALONE,4454,4.01445709289854,3,lost_deposit
 2013-05-05,GE-13,Selangor,P.107 Subang,4,AWTS1,A. Prakash Rao,Pakas Rao a/l Applanaidoo,M,Indian,48,BN,002-MIC,MIC,3,BN,39549,35.646107671092125,2,lost
 2013-05-05,GE-13,Selangor,P.107 Subang,5,04M5W,Sivarasa Rasiah,Sivarasa a/l K. Rasiah,M,Indian,57,PKR,078-PKR,PKR,7,PR,66268,59.72834365339029,1,won
-2013-05-05,GE-13,Selangor,P.108 Shah Alam,1,8RCY8,Zulkifli Bin Noordin,Zulkifli bin Noordin,M,Malay,51,BN,000-BEBAS,BEBAS,3,BN,38070,43.718921898505954,2,lost
+2013-05-05,GE-13,Selangor,P.108 Shah Alam,1,8RCY8,Zulkifli Bin Noordin,Zulkifli bin Noordin,M,Malay,51,BN,001-UMNO,UMNO,3,BN,38070,43.718921898505954,2,lost
 2013-05-05,GE-13,Selangor,P.108 Shah Alam,2,0TZ55,Khalid Abdul Samad,Khalid bin Abdul Samad,M,Malay,56,PAS,004-PAS,PAS,7,PR,49009,56.28107810149404,1,won
 2013-05-05,GE-13,Selangor,P.109 Kapar,1,EAGVA,Sakthivell,Sakthivel a/l Alagappan,M,Indian,43,BN,002-MIC,MIC,3,BN,46059,37.04576530201882,2,lost
 2013-05-05,GE-13,Selangor,P.109 Kapar,2,HR6XK,Hamzah Jawa Meru,Norhamzah bin Suratman,M,Malay,50,BEBAS,000-BEBAS,BEBAS,0,ALONE,1067,0.8581999517413336,4,lost_deposit
@@ -6001,7 +6001,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2022-11-19,GE-15,Perlis,P.002 Kangar,4,TS1RB,Amin Ahmad,Noor Amin bin Ahmad,M,Malay,40,PH,078-PKR,PKR,8,PH,15143,26.94483985765125,3,lost
 2022-11-19,GE-15,Perlis,P.002 Kangar,5,8GGB5,Ustaz Nur Sulaiman,Nur Sulaiman,M,Malay,34,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,708,1.2597864768683273,4,lost_deposit
 2022-11-19,GE-15,Perlis,P.003 Arau,1,BY6DE,Fathin Amelina,Fathin Amelina binti Fazlie,F,Malay,28,PH,078-PKR,PKR,8,PH,7089,15.150997029216267,3,lost
-2022-11-19,GE-15,Perlis,P.003 Arau,2,EJDED,Shahidan Bin Kassim,Shahidan bin Kassim,M,Malay,71,PN,000-BEBAS,BEBAS,11,PN,31458,67.23375152279381,1,won
+2022-11-19,GE-15,Perlis,P.003 Arau,2,EJDED,Shahidan Bin Kassim,Shahidan bin Kassim,M,Malay,71,PN,004-PAS,PAS,11,PN,31458,67.23375152279381,1,won
 2022-11-19,GE-15,Perlis,P.003 Arau,3,FBWFQ,Rozabil @ Tok Ben,Rozabil bin Abdul Rahman,M,Malay,50,BN,001-UMNO,UMNO,3,BN,8242,17.615251447989912,2,lost
 2022-11-19,GE-15,Kedah,P.004 Langkawi,1,MMPWR,Dato Paduka Abd Kadir,Abdul Kadir bin Sainudin,M,Malay,43,BEBAS,000-BEBAS,BEBAS,0,ALONE,89,0.18744734625105308,5,lost_deposit
 2022-11-19,GE-15,Kedah,P.004 Langkawi,2,AYHMJ,Mohd Suhaimi Bin Abdullah,Mohd Suhaimi bin Abdullah,M,Malay,67,PN,107-BERSATU,BERSATU,11,PN,25463,53.62889637742207,1,won
@@ -6075,7 +6075,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,2,KVKKD,Dato' Kak Taz,Mumtaz bin Md Nawi,F,Malay,49,PAS,004-PAS,PAS,11,PN,65426,62.51349621150594,1,won
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,3,SM8PE,Asri Ali,Che Mohd Asemari bin Che Ali (Che Asri),M,Malay,59,PUTRA,112-PUTRA,PUTRA,12,GTA,593,0.5666020122493048,4,lost_deposit
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,4,X1YRQ,Haji Wan Jo,Wan Mohd Johari bin Wan Omar,M,Malay,57,PH,046-AMANAH,AMANAH,8,PH,7762,7.416466811263245,3,lost_deposit
-2022-11-19,GE-15,Kelantan,P.019 Tumpat,5,9545B,Dato' Che Lah (Dcl),Che Abdullah bin Mat Nawi,M,Malay,62,BN,000-BEBAS,BEBAS,3,BN,30633,29.269341384878512,2,lost
+2022-11-19,GE-15,Kelantan,P.019 Tumpat,5,9545B,Dato' Che Lah (Dcl),Che Abdullah bin Mat Nawi,M,Malay,62,BN,001-UMNO,UMNO,3,BN,30633,29.269341384878512,2,lost
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,1,0FMV0,Abe Wae - Redzuan,Mohamad Redzuan bin Razali,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,451,0.5799822533146436,4,lost_deposit
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,2,2YCE3,Kak Jah,Nik Faizah binti Nik Othman,F,Malay,48,PH,046-AMANAH,AMANAH,8,PH,7356,9.459754889983412,3,lost_deposit
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,3,3XAX9,Wan Ahmad Nasri,Wan Ahmad Nasri bin Wan Ismail,M,Malay,54,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,358,0.4603850259127326,5,lost_deposit
@@ -6143,7 +6143,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2022-11-19,GE-15,Terengganu,P.034 Setiu,3,7AAZE,Mohamad Bin Ngah,Mohamad bin Ngah,M,Malay,-1,PH,078-PKR,PKR,8,PH,2125,2.5049509619011694,3,lost_deposit
 2022-11-19,GE-15,Terengganu,P.034 Setiu,4,AR11Q,Wan Adnan,Wan Adnan bin Wan Ali,M,Malay,62,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,203,0.23929649188985289,4,lost_deposit
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,1,MHYJP,Dato' Dr. Haji Alias Razak,Alias bin Razak,M,Malay,63,PAS,004-PAS,PAS,11,PN,56697,64.70192176016798,1,won
-2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,2,N7Z08,Ust. Dato' Dr. Khairuddin Takiri,Mohd Khairuddin bin Aman Razali,M,Malay,59,BN,000-BEBAS,BEBAS,3,BN,26932,30.734468434746887,2,lost
+2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,2,N7Z08,Ust. Dato' Dr. Khairuddin Takiri,Mohd Khairuddin bin Aman Razali,M,Malay,59,BN,001-UMNO,UMNO,3,BN,26932,30.734468434746887,2,lost
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,3,E5Q40,Azaha,Azahar bin Wahid,M,Malay,-1,PEJUANG,112-PUTRA,PUTRA,12,GTA,291,0.3320856347286255,4,lost_deposit
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,4,HKD69,Dato' Seri Suhaimi Hashim,Suhaimi bin Hashim,M,Malay,-1,PH,046-AMANAH,AMANAH,8,PH,3708,4.231524170356507,3,lost_deposit
 2022-11-19,GE-15,Terengganu,P.036 Kuala Terengganu,1,N138J,Mohamad Abu Bakar Bin Muda,Mohamad Abu Bakar bin Muda,M,Malay,-1,PEJUANG,112-PUTRA,PUTRA,12,GTA,481,0.4981771480652913,4,lost_deposit

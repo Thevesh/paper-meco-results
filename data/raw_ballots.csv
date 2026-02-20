@@ -1492,7 +1492,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,GE-05,Perak,P.062 Telok Anson,3,2150,Mohamad Bin Ngah,PAS,004-PAS,PAS,0,ALONE,1168
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,1,2622,Mak Hon Kam @ Mak Hoon Ting,BN,003-MCA,MCA,3,BN,15805
 1978-07-08,GE-05,Perak,P.063 Tanjong Malim,2,3483,Zakaria Bin A. Manaf,DAP,021-DAP,DAP,0,ALONE,7374
-1978-07-08,GE-05,Perak,P.064 Bagan Datok,1,33,Haji Hassan Adli Bin Haji Arshad,BN,000-BEBAS,BEBAS,3,BN,16894
+1978-07-08,GE-05,Perak,P.064 Bagan Datok,1,33,Haji Hassan Adli Bin Haji Arshad,BN,001-UMNO,UMNO,3,BN,16894
 1978-07-08,GE-05,Perak,P.064 Bagan Datok,2,3484,Abdullah Bin Basiran,PAS,004-PAS,PAS,0,ALONE,2600
 1978-07-08,GE-05,Perak,P.064 Bagan Datok,3,3003,Thee Ah Kow @ Thee You Min,DAP,021-DAP,DAP,0,ALONE,2527
 1978-07-08,GE-05,Pahang,P.065 Lipis,1,2624,Tan Sri Muhammad Ghazali Shafie,BN,001-UMNO,UMNO,3,BN,14778
@@ -3750,7 +3750,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1999-11-29,GE-10,Sarawak,P.171 Kota Samarahan,2,7541,Zulrusdi Bin Mohamad Hol,PKR,075-PKN,PKN,6,BA,5092
 1999-11-29,GE-10,Sarawak,P.171 Kota Samarahan,3,4732,Haji Bujang Bakar,BEBAS,000-BEBAS,BEBAS,0,ALONE,417
 1999-11-29,GE-10,Sarawak,P.172 Mambong,1,7215,Belek @ Jerip Anak Susil @ Dr. Jerip Anak Susil,STAR,072-STAR-SWK,STAR,0,ALONE,9655
-1999-11-29,GE-10,Sarawak,P.172 Mambong,2,7542,James Dawos Mamit @ Dr. Dawos Mamit,BN,000-BEBAS,BEBAS,3,BN,11327
+1999-11-29,GE-10,Sarawak,P.172 Mambong,2,7542,James Dawos Mamit @ Dr. Dawos Mamit,BN,029-PBB,PBB,3,BN,11327
 1999-11-29,GE-10,Sarawak,P.173 Serian,1,5674,Richard Riot Jaem,BN,013-SUPP,SUPP,3,BN,12491
 1999-11-29,GE-10,Sarawak,P.173 Serian,2,4754,Shamsuddin Bin Abdullah @ Pok Anak Ungkut,BEBAS,000-BEBAS,BEBAS,0,ALONE,872
 1999-11-29,GE-10,Sarawak,P.173 Serian,3,7543,Anthony Polycarp Munjan,STAR,072-STAR-SWK,STAR,0,ALONE,4040
@@ -4984,7 +4984,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2013-05-05,GE-13,Selangor,P.107 Subang,3,9829,Mohamad,BERJASA,036-BERJASA,BERJASA,0,ALONE,4454
 2013-05-05,GE-13,Selangor,P.107 Subang,4,9830,A. Prakash Rao,BN,002-MIC,MIC,3,BN,39549
 2013-05-05,GE-13,Selangor,P.107 Subang,5,7465,Sivarasa Rasiah,PKR,078-PKR,PKR,7,PR,66268
-2013-05-05,GE-13,Selangor,P.108 Shah Alam,1,8149,Zulkifli Bin Noordin,BN,000-BEBAS,BEBAS,3,BN,38070
+2013-05-05,GE-13,Selangor,P.108 Shah Alam,1,8149,Zulkifli Bin Noordin,BN,001-UMNO,UMNO,3,BN,38070
 2013-05-05,GE-13,Selangor,P.108 Shah Alam,2,5066,Khalid Abdul Samad,PAS,004-PAS,PAS,7,PR,49009
 2013-05-05,GE-13,Selangor,P.109 Kapar,1,9831,Sakthivell,BN,002-MIC,MIC,3,BN,46059
 2013-05-05,GE-13,Selangor,P.109 Kapar,2,9832,Hamzah Jawa Meru,BEBAS,000-BEBAS,BEBAS,0,ALONE,1067
@@ -6001,7 +6001,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2022-11-19,GE-15,Perlis,P.002 Kangar,4,9984,Amin Ahmad,PH,078-PKR,PKR,8,PH,15143
 2022-11-19,GE-15,Perlis,P.002 Kangar,5,12938,Ustaz Nur Sulaiman,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,708
 2022-11-19,GE-15,Perlis,P.003 Arau,1,12939,Fathin Amelina,PH,078-PKR,PKR,8,PH,7089
-2022-11-19,GE-15,Perlis,P.003 Arau,2,5042,Shahidan Bin Kassim,PN,000-BEBAS,BEBAS,11,PN,31458
+2022-11-19,GE-15,Perlis,P.003 Arau,2,5042,Shahidan Bin Kassim,PN,004-PAS,PAS,11,PN,31458
 2022-11-19,GE-15,Perlis,P.003 Arau,3,12940,Rozabil @ Tok Ben,BN,001-UMNO,UMNO,3,BN,8242
 2022-11-19,GE-15,Kedah,P.004 Langkawi,1,10533,Dato Paduka Abd Kadir,BEBAS,000-BEBAS,BEBAS,0,ALONE,89
 2022-11-19,GE-15,Kedah,P.004 Langkawi,2,8271,Mohd Suhaimi Bin Abdullah,PN,107-BERSATU,BERSATU,11,PN,25463
@@ -6075,7 +6075,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,2,10066,Dato' Kak Taz,PAS,004-PAS,PAS,11,PN,65426
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,3,12971,Asri Ali,PUTRA,112-PUTRA,PUTRA,12,GTA,593
 2022-11-19,GE-15,Kelantan,P.019 Tumpat,4,12972,Haji Wan Jo,PH,046-AMANAH,AMANAH,8,PH,7762
-2022-11-19,GE-15,Kelantan,P.019 Tumpat,5,9120,Dato' Che Lah (Dcl),BN,000-BEBAS,BEBAS,3,BN,30633
+2022-11-19,GE-15,Kelantan,P.019 Tumpat,5,9120,Dato' Che Lah (Dcl),BN,001-UMNO,UMNO,3,BN,30633
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,1,12973,Abe Wae - Redzuan,BEBAS,000-BEBAS,BEBAS,0,ALONE,451
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,2,11256,Kak Jah,PH,046-AMANAH,AMANAH,8,PH,7356
 2022-11-19,GE-15,Kelantan,P.020 Pengkalan Chepa,3,12974,Wan Ahmad Nasri,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,358
@@ -6143,7 +6143,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2022-11-19,GE-15,Terengganu,P.034 Setiu,3,13003,Mohamad Bin Ngah,PH,078-PKR,PKR,8,PH,2125
 2022-11-19,GE-15,Terengganu,P.034 Setiu,4,13004,Wan Adnan,PEJUANG,119-PEJUANG,PEJUANG,12,GTA,203
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,1,7667,Dato' Dr. Haji Alias Razak,PAS,004-PAS,PAS,11,PN,56697
-2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,2,9749,Ust. Dato' Dr. Khairuddin Takiri,BN,000-BEBAS,BEBAS,3,BN,26932
+2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,2,9749,Ust. Dato' Dr. Khairuddin Takiri,BN,001-UMNO,UMNO,3,BN,26932
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,3,13005,Azaha,PEJUANG,112-PUTRA,PUTRA,12,GTA,291
 2022-11-19,GE-15,Terengganu,P.035 Kuala Nerus,4,13006,Dato' Seri Suhaimi Hashim,PH,046-AMANAH,AMANAH,8,PH,3708
 2022-11-19,GE-15,Terengganu,P.036 Kuala Terengganu,1,13007,Mohamad Abu Bakar Bin Muda,PEJUANG,112-PUTRA,PUTRA,12,GTA,481
