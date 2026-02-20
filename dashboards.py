@@ -1,13 +1,10 @@
 """Module for generating dashboard data and visualizations for election results."""
 
-import os
-import time
 from datetime import datetime
-import requests
 import pandas as pd
 import duckdb
 
-from helper import generate_slug, get_states, write_parquet
+from helper import generate_slug, write_parquet
 
 PATH = "dashboards"
 
