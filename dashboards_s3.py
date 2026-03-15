@@ -426,6 +426,7 @@ def make_elections():
             "seat",
             "date",
             "party",
+            "party_uid",
             "party_lost",
             "name",
             "n_candidates",
@@ -443,6 +444,7 @@ def make_elections():
     dfm = pd.read_parquet("dashboards/elections_parties.parquet").sort_values(
         by=["seats_won_perc", "votes_perc"], ascending=False
     )
+    dfm.coalition_uid = dfm.coalition_uid.astype(str).str.zfill(2) + "-" + dfm.coalition
 
     # dfs for summary stats
     dfs = pd.read_parquet("dashboards/elections_summary.parquet").fillna(0)
@@ -582,6 +584,6 @@ if __name__ == "__main__":
         "elections/*/*",
     ]:
         upload_data(file_pattern=path)
-    # make_upload_dates()
+    make_upload_dates()
     print(f'\nEnd: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     print(f"\nDuration: {datetime.now() - START}\n")
