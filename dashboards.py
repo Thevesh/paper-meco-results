@@ -160,6 +160,12 @@ def make_parties_coalitions():
     ds = ds.rename(columns={"election_number": "election_name"})
     map_ge_date = dict(zip(ds.election_name, ds.date))
 
+    pf = pd.read_parquet("data/lookup_party.parquet")
+    pf["uid"] = pf.party_uid.str.split("-").str[0]
+    pf = pf[["uid", "party_uid", "party"]].drop_duplicates(subset=["uid"], keep="last")
+    map_uid_party_uid = dict(zip(pf.uid, pf.party_uid))
+    map_uid_party_acronym = dict(zip(pf.party_uid, pf.party))
+
     col_idx = [
         "party_uid",
         "party",
@@ -171,6 +177,8 @@ def make_parties_coalitions():
         "date",
     ]
     df = pd.read_parquet(f"{PATH}/elections_candidates.parquet")
+    df["party_uid"] = df.party_uid.str.split("-").str[0].map(map_uid_party_uid)
+    df["party"] = df.party_uid.map(map_uid_party_acronym)
     df = df[df.election_name != "By-Election"]  # Remove By-Elections, we are not interested in them
     df = df.drop(
         [
