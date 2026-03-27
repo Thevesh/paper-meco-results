@@ -8,9 +8,9 @@
 
 This repository contains the full processing and validation pipeline underlying the research paper, which has been accepted for publication in *Scientific Data*.
 
-**Latest data update**: 15th Sabah state election (2025) + all by-elections before 2008 
+**Latest data update** (2026-01-24): By-Elections for P.187 Kinabatangan and N.58 Lamag following death of [Bung Moktar](https://www.electiondata.my/candidates/XEA7V).
 
-**Summary**: Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the first component of the Malaysian Election Corpus (MECo), an open-access panel database covering all federal, state, and by-elections since 1955. MECo includes candidate- and constituency-level data for all 9,998 electoral contests from 1955 to 2025, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
+**Summary**: Empirical research and public knowledge on Malaysia's elections have long been constrained by a lack of high-quality open data, particularly in the absence of a Freedom of Information framework. This paper introduces the first component of the Malaysian Election Corpus (MECo), an open-access panel database covering all federal, state, and by-elections since 1955. MECo includes candidate- and constituency-level data for all 10,000 electoral contests from 1955 to 2026, standardised with unique identifiers for candidates, parties, and coalitions. The database also provides summary statistics (electorate size, voter turnout, majority size, rejected ballots, unreturned ballots) for each contest, and key demographic data (age, gender, ethnicity) for candidates. This is the most well-curated publicly available data on Malaysian elections, and will unlock new opportunities for research, data journalism, and civic engagement.
 
 ## Repository Structure
 
