@@ -107,108 +107,68 @@ def make_arxiv_tarball(filepath=None, dataviz_path="dataviz/", temp_path="temp_a
     return tar_path
 
 
-def upload_s3(bucket_name=None, source_file_name=None, cloud_file_name=None):
-    """Upload a file to S3 bucket.
-
-    Args:
-        bucket_name (str): Name of the S3 bucket
-        source_file_name (str): Path to the source file
-        cloud_file_name (str): Name to use in the cloud
-
-    Returns:
-        str: Status message indicating success or failure
-    """
-    if not cloud_file_name:
-        cloud_file_name = source_file_name
-    try:
-        time_start = time.time()
-        s3 = boto3.client(
-            "s3",
-            aws_access_key_id=TOKEN_API_S3[0],
-            aws_secret_access_key=TOKEN_API_S3[1],
-        )
-        s3.upload_file(source_file_name, bucket_name, cloud_file_name)
-        duration = f"{time.time() - time_start:.1f} seconds"
-        return f"SUCCESS ({duration}): {bucket_name}/{cloud_file_name}"
-    except boto3.exceptions.S3UploadFailedError as e:
-        return f"FAILURE: {source_file_name}\n\n{e}"
+@lru_cache(maxsize=1)
+def get_s3_client():
+    """Create and cache S3 client."""
+    return boto3.client(
+        "s3",
+        aws_access_key_id=os.getenv("S3_ACCESS_KEY_ID"),
+        aws_secret_access_key=os.getenv("S3_SECRET_ACCESS_KEY"),
+    )
 
 
 @lru_cache(maxsize=1)
-def get_s3_client():
-    """Create and cache a single S3 client instance."""
+def get_r2_client():
+    """Create and cache R2 client."""
     return boto3.client(
         "s3",
-        aws_access_key_id=TOKEN_API_S3[0],
-        aws_secret_access_key=TOKEN_API_S3[1],
+        endpoint_url=f"https://{os.getenv('R2_ACCOUNT_ID')}.r2.cloudflarestorage.com",
+        aws_access_key_id=os.getenv("R2_ACCESS_KEY_ID"),
+        aws_secret_access_key=os.getenv("R2_SECRET_ACCESS_KEY"),
     )
 
 
 def get_transfer_config():
     """Get optimized transfer configuration."""
     return TransferConfig(
-        multipart_threshold=1024 * 25,  # 25 MB
+        multipart_threshold=1024 * 25,
         max_concurrency=10,
-        multipart_chunksize=1024 * 25,  # 25 MB
+        multipart_chunksize=1024 * 25,
         use_threads=True,
     )
 
 
-def upload_s3_single(bucket_name, source_file_name, cloud_file_name):
-    """Upload a single file to S3.
-
-    Args:
-        bucket_name (str): Name of the S3 bucket
-        source_file_name (str): Path to the source file
-        cloud_file_name (str): Name to use in the cloud
-
-    Returns:
-        tuple: (source_file_name, success, message)
-    """
+def upload_single(client=None, bucket=None, source_file=None, cloud_file=None):
+    """Upload a single file to S3/R2."""
     try:
         time_start = time.time()
-        s3 = get_s3_client()
-        config = get_transfer_config()
-
-        s3.upload_file(source_file_name, bucket_name, cloud_file_name, Config=config)
-
+        client.upload_file(
+            source_file,
+            bucket,
+            cloud_file,
+            Config=get_transfer_config(),
+            ExtraArgs={"ContentType": "application/json"},
+        )
         duration = f"{time.time() - time_start:.1f} seconds"
-        message = f"SUCCESS ({duration}): {bucket_name}/{cloud_file_name}"
-        return source_file_name, True, message
-    except Exception as e:  # Catch all S3-related exceptions
-        message = f"FAILURE: {bucket_name}/{source_file_name}\n\n{e}"
-        return source_file_name, False, message
+        return source_file, True, f"SUCCESS ({duration}): {bucket}/{cloud_file}"
+    except Exception as e:
+        return source_file, False, f"FAILURE: {bucket}/{source_file}\n\n{e}"
 
 
-def upload_s3_bulk(bucket_name, files_to_upload, max_workers=50):
-    """Upload multiple files to S3 in parallel.
-
-    Args:
-        bucket_name (str): S3 bucket name
-        files_to_upload (list): List of tuples (source_file_name, cloud_file_name)
-        max_workers (int): Number of concurrent uploads
-
-    Returns:
-        list: List of tuples containing failed uploads (source_file, error_message)
-    """
+def upload_bulk(client=None, bucket=None, files_to_upload=None, max_workers=50):
+    """Upload multiple files to S3/R2 in parallel."""
     results = {}
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_file = {
-            executor.submit(upload_s3_single, bucket_name, source_file, cloud_file): source_file
-            for source_file, cloud_file in files_to_upload
+            executor.submit(upload_single, client, bucket, source, cloud): source
+            for source, cloud in files_to_upload
         }
-
         for future in as_completed(future_to_file):
-            source_file = future_to_file[future]
-            source_file_name, success, message = future.result()
-            results[source_file_name] = (success, message)
+            source_file, success, message = future.result()
+            results[source_file] = (success, message)
             print(message)
 
-    # More efficient failed uploads extraction
-    failed_uploads = [
-        (source_file, message) for source_file, (success, message) in results.items() if not success
-    ]
-    return failed_uploads
+    return [(source, msg) for source, (success, msg) in results.items() if not success]
 
 
 def write_csv_parquet(filepath, df=None):

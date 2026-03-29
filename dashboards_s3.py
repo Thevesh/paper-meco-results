@@ -6,7 +6,7 @@ from glob import glob as g
 from datetime import datetime
 import pandas as pd
 
-from helper import upload_s3, upload_s3_bulk, generate_slug
+from helper import get_s3_client, upload_single, upload_bulk, generate_slug
 
 
 def make_candidates():
@@ -414,6 +414,7 @@ def make_elections():
             "seats_contested_perc",
             "seats_won_perc",
             "votes",
+            "votes_total",
             "votes_perc",
         ],
         "summary": [
@@ -522,19 +523,15 @@ def make_elections():
                     j.dump(data, f)
 
 
-def upload_data(file_pattern="candidates/*"):
+def upload_data(client=None, bucket=None, file_pattern="candidates/*"):
     """Upload data files to S3."""
     files = g(f"api/{file_pattern}.json")
     files_to_upload = sorted([(f, f.replace("api/", "")) for f in files])
 
-    upload_s3_bulk(
-        bucket_name="static.electiondata.my",
-        files_to_upload=files_to_upload,
-        max_workers=120,
-    )
+    upload_bulk(client, bucket, files_to_upload, max_workers=120)
 
 
-def make_upload_dates():
+def make_upload_dates(client=None, bucket=None):
     """Generate and upload dates data file."""
     data = {"data": []}
 
@@ -556,18 +553,16 @@ def make_upload_dates():
     with open("api/dates.json", "w", encoding="utf-8") as f:
         j.dump(data, f)
 
-    print(
-        upload_s3(
-            bucket_name="static.electiondata.my",
-            source_file_name="api/dates.json",
-            cloud_file_name="dates.json",
-        )
-    )
+    print(upload_single(client, bucket, "api/dates.json", "dates.json"))
 
 
 if __name__ == "__main__":
     START = datetime.now()
     print(f'\nStart: {START.strftime("%Y-%m-%d %H:%M:%S")}')
+
+    CLIENT = get_s3_client()
+    BUCKET = os.getenv("S3_BUCKET")
+
     make_candidates()
     make_seats()
     make_seats_boundaries()
@@ -583,7 +578,7 @@ if __name__ == "__main__":
         "results/*/*",
         "elections/*/*",
     ]:
-        upload_data(file_pattern=path)
-    make_upload_dates()
+        upload_data(CLIENT, BUCKET, file_pattern=path)
+    make_upload_dates(CLIENT, BUCKET)
     print(f'\nEnd: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}')
     print(f"\nDuration: {datetime.now() - START}\n")
