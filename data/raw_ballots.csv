@@ -4351,8 +4351,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,GE-12,Pulau Pinang,P.050 Jelutong,3,8930,Ooi Chuan Aun,DAP,021-DAP,DAP,7,PR,30493
 2008-03-08,GE-12,Pulau Pinang,P.051 Bukit Gelugor,1,6917,Koay Kar Huah,BN,003-MCA,MCA,3,BN,14125
 2008-03-08,GE-12,Pulau Pinang,P.051 Bukit Gelugor,2,2551,Karpal Singh,DAP,021-DAP,DAP,7,PR,35140
-2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,1,8931,Ooi Siew Kim,BN,003-MCA,MCA,3,BN,16589
-2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,2,8932,Zahrain Mohamed Hashim,PKR,078-PKR,PKR,7,PR,27618
+2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,1,8931,Ooi Siew Kim,BN,003-MCA,MCA,3,BN,17561
+2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,2,8932,Zahrain Mohamed Hashim,PKR,078-PKR,PKR,7,PR,28043
 2008-03-08,GE-12,Pulau Pinang,P.053 Balik Pulau,1,8933,Norraesah Mohamad,BN,001-UMNO,UMNO,3,BN,15041
 2008-03-08,GE-12,Pulau Pinang,P.053 Balik Pulau,2,8934,Yusmadi Yusoff,PKR,078-PKR,PKR,7,PR,15749
 2008-03-08,GE-12,Perak,P.054 Gerik,1,8103,Tan Lian Hoe,BN,026-GERAKAN,GERAKAN,3,BN,12526
@@ -4372,9 +4372,9 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,GE-12,Perak,P.060 Taiping,2,8105,M. Kayveas,BN,006-MYPPP,MYPPP,3,BN,16800
 2008-03-08,GE-12,Perak,P.061 Padang Rengas,1,8942,Alias Zenon,PKR,078-PKR,PKR,7,PR,8081
 2008-03-08,GE-12,Perak,P.061 Padang Rengas,2,6597,Mohamed Nazri Bin Tan Abdul Aziz,BN,001-UMNO,UMNO,3,BN,9830
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,1,8943,Nor Rizan Bin Oon,BEBAS,000-BEBAS,BEBAS,0,ALONE,864
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,2,2597,S. Samy Vellu,BN,002-MIC,MIC,3,BN,14637
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,3,7430,Michael Jeyakumar Devaraj,PKR,074-PSM,PSM,7,PR,16458
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,1,8943,Nor Rizan Bin Oon,BEBAS,000-BEBAS,BEBAS,0,ALONE,870
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,2,2597,S. Samy Vellu,BN,002-MIC,MIC,3,BN,14408
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,3,7430,Michael Jeyakumar Devaraj,PKR,074-PSM,PSM,7,PR,16874
 2008-03-08,GE-12,Perak,P.063 Tambun,1,5427,Mohamad Asri,PKR,078-PKR,PKR,7,PR,22556
 2008-03-08,GE-12,Perak,P.063 Tambun,2,6599,Ahmad Husni Hanadzlah,BN,001-UMNO,UMNO,3,BN,27942
 2008-03-08,GE-12,Perak,P.064 Ipoh Timor,1,1854,Lim Kit Siang,DAP,021-DAP,DAP,7,PR,37364
@@ -4506,8 +4506,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,GE-12,W.P. Putrajaya,P.125 Putrajaya,2,8158,Tengku Adnan Bin Tengku Mansor,BN,001-UMNO,UMNO,3,BN,4038
 2008-03-08,GE-12,Negeri Sembilan,P.126 Jelebu,1,2658,Rais Yatim,BN,001-UMNO,UMNO,3,BN,19737
 2008-03-08,GE-12,Negeri Sembilan,P.126 Jelebu,2,7865,Norman Ipin,PAS,004-PAS,PAS,7,PR,8127
-2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,1,5563,Lilah Bin Yasin,BN,001-UMNO,UMNO,3,BN,25294
-2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,2,7594,Siti Meriam,PAS,004-PAS,PAS,7,PR,12974
+2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,1,5563,Lilah Bin Yasin,BN,001-UMNO,UMNO,3,BN,25561
+2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,2,7594,Siti Meriam,PAS,004-PAS,PAS,7,PR,12995
 2008-03-08,GE-12,Negeri Sembilan,P.128 Seremban,1,7893,Yu Chok Tow,BN,003-MCA,MCA,3,BN,29022
 2008-03-08,GE-12,Negeri Sembilan,P.128 Seremban,2,3140,John Fernandez,DAP,021-DAP,DAP,7,PR,32970
 2008-03-08,GE-12,Negeri Sembilan,P.129 Kuala Pilah,1,7098,Hasan Bin Malek,BN,001-UMNO,UMNO,3,BN,20417
@@ -9059,7 +9059,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1986-08-02,SE-07,Kelantan,N.34 Temangan,1,3410,Haji Salleh Bin Che Harun,BN,001-UMNO,UMNO,3,BN,4872
 1986-08-02,SE-07,Kelantan,N.34 Temangan,2,5318,Ismail Bin Sulaiman,PAS,004-PAS,PAS,18,HAK,2783
 1986-08-02,SE-07,Kelantan,N.35 Guchil,1,4412,Wan Hasan Bin Wan Yusof,PAS,004-PAS,PAS,18,HAK,4078
-1986-08-02,SE-07,Kelantan,N.35 Guchil,2,5319,Lai Kim Siong,BN,001-UMNO,UMNO,3,BN,3749
+1986-08-02,SE-07,Kelantan,N.35 Guchil,2,5319,Lai Kim Siong,BN,003-MCA,MCA,3,BN,3749
 1986-08-02,SE-07,Kelantan,N.36 Manek Urai,1,5320,Ismail Yaacob,PAS,004-PAS,PAS,18,HAK,3650
 1986-08-02,SE-07,Kelantan,N.36 Manek Urai,2,5321,Wan Zaid Bin Wan Abdullah,BN,001-UMNO,UMNO,3,BN,3056
 1986-08-02,SE-07,Kelantan,N.37 Dabong,1,5322,Mohamad Rozali Bin Isohak,BN,001-UMNO,UMNO,3,BN,3410
@@ -12727,21 +12727,21 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,1,3729,Mior Aris Bin Mior Abu Bakar,BN,001-UMNO,UMNO,3,BN,4751
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,2,2961,Mohamad Bin Haji Junid,PAS,004-PAS,PAS,0,ALONE,3655
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,3,3730,Abdul Karim Bin Lan,DAP,021-DAP,DAP,0,ALONE,331
-1978-07-08,SE-05,Perak,N.17 Bukit Chandan,1,3731,Wong Yee Kao,BN,001-UMNO,UMNO,3,BN,5380
+1978-07-08,SE-05,Perak,N.17 Bukit Chandan,1,3731,Wong Yee Kao,BN,003-MCA,MCA,3,BN,5380
 1978-07-08,SE-05,Perak,N.17 Bukit Chandan,2,2964,Kuan Boon Hooi,DAP,021-DAP,DAP,0,ALONE,3202
 1978-07-08,SE-05,Perak,N.17 Bukit Chandan,3,3732,Hashim Bin Haji Mad Nor @ Haji Nor,PAS,004-PAS,PAS,0,ALONE,2896
 1978-07-08,SE-05,Perak,N.18 Manong,1,2125,Shafie Bin Mat Saman,BN,001-UMNO,UMNO,3,BN,2965
 1978-07-08,SE-05,Perak,N.18 Manong,2,3469,Zabidin Bin Alang Othman,PAS,004-PAS,PAS,0,ALONE,2039
 1978-07-08,SE-05,Perak,N.18 Manong,3,3733,Ahmad Bin Mohd. Nasir,DAP,021-DAP,DAP,0,ALONE,693
-1978-07-08,SE-05,Perak,N.19 Chemor,1,1450,Yap Boon En,BN,001-UMNO,UMNO,3,BN,13641
+1978-07-08,SE-05,Perak,N.19 Chemor,1,1450,Yap Boon En,BN,003-MCA,MCA,3,BN,13641
 1978-07-08,SE-05,Perak,N.19 Chemor,2,2605,Mohd. Fadlan Bin Yahaya,DAP,021-DAP,DAP,0,ALONE,9727
 1978-07-08,SE-05,Perak,N.20 Gopeng,1,2598,P. Patto,DAP,021-DAP,DAP,0,ALONE,9544
 1978-07-08,SE-05,Perak,N.20 Gopeng,2,3734,Chung Koy Fah,BN,003-MCA,MCA,3,BN,8641
 1978-07-08,SE-05,Perak,N.20 Gopeng,3,3735,Raja Idris Bin Raja Hassan,PAS,004-PAS,PAS,0,ALONE,1052
 1978-07-08,SE-05,Perak,N.21 Guntong,1,2617,Mohd. Salleh Bin Nakhoda Itam,DAP,021-DAP,DAP,0,ALONE,12197
-1978-07-08,SE-05,Perak,N.21 Guntong,2,3736,M. Singaram,BN,003-MCA,MCA,3,BN,10231
+1978-07-08,SE-05,Perak,N.21 Guntong,2,3736,M. Singaram,BN,002-MIC,MIC,3,BN,10231
 1978-07-08,SE-05,Perak,N.22 Kepayang,1,1815,Lim Cho Hock,DAP,021-DAP,DAP,0,ALONE,17848
-1978-07-08,SE-05,Perak,N.22 Kepayang,2,3737,R. Jegaheesa,BN,003-MCA,MCA,3,BN,7414
+1978-07-08,SE-05,Perak,N.22 Kepayang,2,3737,R. Jegaheesa,BN,002-MIC,MIC,3,BN,7414
 1978-07-08,SE-05,Perak,N.22 Kepayang,3,3738,Ng Thor Fung,BEBAS,000-BEBAS,BEBAS,0,ALONE,228
 1978-07-08,SE-05,Perak,N.23 Pasir Puteh,1,2297,Chiang Heng Kai,DAP,021-DAP,DAP,0,ALONE,16086
 1978-07-08,SE-05,Perak,N.23 Pasir Puteh,2,3739,Wu Lian Hwa,BN,003-MCA,MCA,3,BN,9917
@@ -12769,7 +12769,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Perak,N.31 Tapah,1,2991,Lim Yoon Yook,BN,003-MCA,MCA,3,BN,5993
 1978-07-08,SE-05,Perak,N.31 Tapah,2,2151,Ibrahim Bin Singgeh,DAP,021-DAP,DAP,0,ALONE,4269
 1978-07-08,SE-05,Perak,N.31 Tapah,3,3752,Haji Mahfud Bin Haji Anwar,PAS,004-PAS,PAS,0,ALONE,400
-1978-07-08,SE-05,Perak,N.32 Chenderiang,1,3753,Abdul Wahab Bin Abu Bakar,BN,003-MCA,MCA,3,BN,5706
+1978-07-08,SE-05,Perak,N.32 Chenderiang,1,3753,Abdul Wahab Bin Abu Bakar,BN,001-UMNO,UMNO,3,BN,5706
 1978-07-08,SE-05,Perak,N.32 Chenderiang,2,3754,Kalimuthu A/L Ranggayah,DAP,021-DAP,DAP,0,ALONE,2872
 1978-07-08,SE-05,Perak,N.33 Sitiawan,1,3755,S. Raja Segran,BN,006-PPP,PPP,3,BN,6604
 1978-07-08,SE-05,Perak,N.33 Sitiawan,2,3474,Ting Chek Ming,DAP,021-DAP,DAP,0,ALONE,5513
@@ -12851,7 +12851,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1982-04-22,SE-06,Perak,N.18 Manong,2,2125,Shafie Bin Mat Saman,BN,001-UMNO,UMNO,3,BN,4064
 1982-04-22,SE-06,Perak,N.19 Chemor,1,4505,Ahmed Bin Aki,DAP,021-DAP,DAP,0,ALONE,7748
 1982-04-22,SE-06,Perak,N.19 Chemor,2,4506,Jamaluddin B. Mat Jali @ Haji Jamaluddin B. Mat Jali,BEBAS,000-BEBAS,BEBAS,0,ALONE,2049
-1982-04-22,SE-06,Perak,N.19 Chemor,3,1440,Chin Kee Seong,BN,001-UMNO,UMNO,3,BN,19413
+1982-04-22,SE-06,Perak,N.19 Chemor,3,1440,Chin Kee Seong,BN,003-MCA,MCA,3,BN,19413
 1982-04-22,SE-06,Perak,N.19 Chemor,4,1820,Abu Samah Bin Majid,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,293
 1982-04-22,SE-06,Perak,N.20 Gopeng,1,4507,Loke Yuen Yow,BN,003-MCA,MCA,3,BN,12018
 1982-04-22,SE-06,Perak,N.20 Gopeng,2,3754,Kalimuthu A/L Ranggayah,DAP,021-DAP,DAP,0,ALONE,8637
@@ -13097,7 +13097,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Perak,N.30 Bota,2,4218,Ahamed Hambal Bin Yeop Majlis,BN,001-UMNO,UMNO,3,BN,7736
 1990-10-20,SE-08,Perak,N.31 Teja,1,6204,Dr. Ho Wai Cheong,BN,003-MCA,MCA,3,BN,6543
 1990-10-20,SE-08,Perak,N.31 Teja,2,6205,R. K. Muthu,DAP,021-DAP,DAP,5,GR,6847
-1990-10-20,SE-08,Perak,N.32 Chenderong,1,4532,Dr. Song Yong Pheow,BN,001-UMNO,UMNO,3,BN,7322
+1990-10-20,SE-08,Perak,N.32 Chenderong,1,4532,Dr. Song Yong Pheow,BN,003-MCA,MCA,3,BN,7322
 1990-10-20,SE-08,Perak,N.32 Chenderong,2,6206,Khalili Bin Abdul Wahab,S46,062-S46,S46,4,APU,3166
 1990-10-20,SE-08,Perak,N.33 Malim Nawar,1,6207,Dr. Chong Fah,BN,003-MCA,MCA,3,BN,7516
 1990-10-20,SE-08,Perak,N.33 Malim Nawar,2,5448,Choo Kiang Seong,DAP,021-DAP,DAP,5,GR,7778
@@ -14708,7 +14708,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Pahang,N.25 Bilut,2,5111,Woo Chee Wan,DAP,021-DAP,DAP,5,GR,5455
 1990-10-20,SE-08,Pahang,N.26 Karak,1,6247,Lee Scene Kam,DAP,021-DAP,DAP,5,GR,4061
 1990-10-20,SE-08,Pahang,N.26 Karak,2,4231,Loke Koon Kam,BN,026-GERAKAN,GERAKAN,3,BN,7133
-1990-10-20,SE-08,Pahang,N.27 Pelangai,1,5501,Adnan Bin Yaakob,BN,002-MIC,MIC,3,BN,6231
+1990-10-20,SE-08,Pahang,N.27 Pelangai,1,5501,Adnan Bin Yaakob,BN,001-UMNO,UMNO,3,BN,6231
 1990-10-20,SE-08,Pahang,N.27 Pelangai,2,6248,Shamsuddin B Moner @ Munir,PAS,004-PAS,PAS,4,APU,2915
 1990-10-20,SE-08,Pahang,N.28 Semantan,1,1497,Ishak Bin Abdullah,PAS,004-PAS,PAS,4,APU,3768
 1990-10-20,SE-08,Pahang,N.28 Semantan,2,6249,Mohd Sarit Bin Hj. Yusoh,BN,001-UMNO,UMNO,3,BN,6026
@@ -14724,7 +14724,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Pahang,N.33 Tioman,2,6253,Alias Bin Sulaiman,S46,062-S46,S46,4,APU,1585
 1995-04-24,SE-09,Pahang,N.01 Cameron Highlands,1,6226,Law Kee Long,BN,003-MCA,MCA,3,BN,5408
 1995-04-24,SE-09,Pahang,N.01 Cameron Highlands,2,6225,Apalasamy A/L Jataliah,DAP,021-DAP,DAP,5,GR,2909
-1995-04-24,SE-09,Pahang,N.02 Jelai,1,5471,Omar Bin Othman,BN,003-MCA,MCA,3,BN,3681
+1995-04-24,SE-09,Pahang,N.02 Jelai,1,5471,Omar Bin Othman,BN,001-UMNO,UMNO,3,BN,3681
 1995-04-24,SE-09,Pahang,N.02 Jelai,2,2183,Kasim Bin Yahaya,PAS,004-PAS,PAS,4,APU,1548
 1995-04-24,SE-09,Pahang,N.03 Padang Tengku,1,6981,Abdul Fattah Bin Abdullah,BN,001-UMNO,UMNO,3,BN,3985
 1995-04-24,SE-09,Pahang,N.03 Padang Tengku,2,4232,Mohd Alwi Bin Ab Hamid,PAS,004-PAS,PAS,4,APU,2548
@@ -15737,7 +15737,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Selangor,N.03 Sungai Besar,2,1843,Hassan Bin Haji Shukri,PAS,004-PAS,PAS,0,ALONE,2143
 1978-07-08,SE-05,Selangor,N.04 Sungai Panjang,1,3831,Ariffin Bin Haji Mat Rawi @ Haji Rawi,BN,001-UMNO,UMNO,3,BN,4038
 1978-07-08,SE-05,Selangor,N.04 Sungai Panjang,2,3075,Haji Hamdan Bin Haji Bakri,PAS,004-PAS,PAS,0,ALONE,2069
-1978-07-08,SE-05,Selangor,N.05 Sekinchan,1,3832,Muhamad Kasim Bin Mohamed Yusof,BN,003-MCA,MCA,3,BN,3821
+1978-07-08,SE-05,Selangor,N.05 Sekinchan,1,3832,Muhamad Kasim Bin Mohamed Yusof,BN,001-UMNO,UMNO,3,BN,3821
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,2,3833,Ang Par Wong,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1836
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,3,3834,Ibrahim Non,PAS,004-PAS,PAS,0,ALONE,1239
 1978-07-08,SE-05,Selangor,N.06 Sungai Burong,1,2189,Dato' Haji Kamaruzaman Bin Haji Ahmad,BN,001-UMNO,UMNO,3,BN,4740
@@ -15768,7 +15768,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Selangor,N.14 Gombak,1,3090,Zakaria Haji Yahaya,BN,001-UMNO,UMNO,3,BN,15089
 1978-07-08,SE-05,Selangor,N.14 Gombak,2,2651,Ishak Surin,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,3737
 1978-07-08,SE-05,Selangor,N.14 Gombak,3,3846,Khalid Bin Siri,PAS,004-PAS,PAS,0,ALONE,3274
-1978-07-08,SE-05,Selangor,N.15 Ampang,1,3099,Tan Kui Sui,BN,001-UMNO,UMNO,3,BN,12749
+1978-07-08,SE-05,Selangor,N.15 Ampang,1,3099,Tan Kui Sui,BN,003-MCA,MCA,3,BN,12749
 1978-07-08,SE-05,Selangor,N.15 Ampang,2,2638,Zainal Rampak,DAP,021-DAP,DAP,0,ALONE,6733
 1978-07-08,SE-05,Selangor,N.15 Ampang,3,3847,Ibrahim Haji Ja'Afar,PAS,004-PAS,PAS,0,ALONE,4447
 1978-07-08,SE-05,Selangor,N.15 Ampang,4,3848,Leow Kim Hock,BEBAS,000-BEBAS,BEBAS,0,ALONE,206
@@ -15804,7 +15804,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-29,SE-05,Selangor,N.24 Kampong Jawa,5,3861,Abd. Manan Bin Kassmuri,BEBAS,000-BEBAS,BEBAS,0,ALONE,28
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,1,3862,Soong Siew Hoong,BN,026-GERAKAN,GERAKAN,3,BN,24504
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,2,3863,Husin Md. Atan,PAS,004-PAS,PAS,0,ALONE,9683
-1978-07-08,SE-05,Selangor,N.26 Sungai Way,1,3113,V.L. Kandan,BN,001-UMNO,UMNO,3,BN,7460
+1978-07-08,SE-05,Selangor,N.26 Sungai Way,1,3113,V.L. Kandan,BN,002-MIC,MIC,3,BN,7460
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,2,2653,K.C. Cheah,DAP,021-DAP,DAP,0,ALONE,5734
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,3,3864,Mohd. Amin Abu Bakar,PAS,004-PAS,PAS,0,ALONE,1914
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,4,3865,Dr Sabri Mustaffa Afifi,BEBAS,000-BEBAS,BEBAS,0,ALONE,1112
@@ -15816,7 +15816,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Selangor,N.29 Banting,2,3866,Haji Basir Bin Salleh,PAS,004-PAS,PAS,0,ALONE,2488
 1978-07-08,SE-05,Selangor,N.30 Morib,1,3867,Ishak Shufaat,BN,001-UMNO,UMNO,3,BN,3657
 1978-07-08,SE-05,Selangor,N.30 Morib,2,3868,Ismail Bin Sekak,BEBAS,000-BEBAS,BEBAS,0,ALONE,2988
-1978-07-08,SE-05,Selangor,N.31 Dengkil,1,2203,Dato' Haji Ahmad Razali,BN,002-MIC,MIC,3,BN,6151
+1978-07-08,SE-05,Selangor,N.31 Dengkil,1,2203,Dato' Haji Ahmad Razali,BN,001-UMNO,UMNO,3,BN,6151
 1978-07-08,SE-05,Selangor,N.31 Dengkil,2,3869,Zainal Abidin Bin Haji Karim,BEBAS,000-BEBAS,BEBAS,0,ALONE,801
 1978-07-08,SE-05,Selangor,N.32 Sungai Pelek,1,3870,Choo Yoong Fatt,BN,003-MCA,MCA,3,BN,5545
 1978-07-08,SE-05,Selangor,N.32 Sungai Pelek,2,3871,Cikgu Atan Bin Bulat,PAS,004-PAS,PAS,0,ALONE,1769
@@ -16084,7 +16084,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Selangor,N.35 Telok Gadong,2,5549,Tong Yoke Seng,BN,003-MCA,MCA,3,BN,7276
 1990-10-20,SE-08,Selangor,N.36 Pandamaran,1,6293,Al Delingannu,DAP,021-DAP,DAP,5,GR,8616
 1990-10-20,SE-08,Selangor,N.36 Pandamaran,2,6294,Ramli B. Moid,BEBAS,000-BEBAS,BEBAS,0,ALONE,709
-1990-10-20,SE-08,Selangor,N.36 Pandamaran,3,6295,Teh Chang Ying,BN,001-UMNO,UMNO,3,BN,10030
+1990-10-20,SE-08,Selangor,N.36 Pandamaran,3,6295,Teh Chang Ying,BN,003-MCA,MCA,3,BN,10030
 1990-10-20,SE-08,Selangor,N.37 Panglima Garang,1,4617,Tarikh B. Mohd Jonid,S46,062-S46,S46,4,APU,6246
 1990-10-20,SE-08,Selangor,N.37 Panglima Garang,2,5551,Eng Hoi Choo,BN,003-MCA,MCA,3,BN,5586
 1990-10-20,SE-08,Selangor,N.38 Morib,1,4622,Dato' Haji Abu Bakar B. Hji Abdul Hamid,BN,001-UMNO,UMNO,3,BN,7240
@@ -17537,7 +17537,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Negeri Sembilan,N.22 Mambau,2,6322,Chan Kok Wah,DAP,021-DAP,DAP,5,GR,11137
 1990-10-20,SE-08,Negeri Sembilan,N.23 Jimah,1,5587,Yeow Chai Thiam,BN,003-MCA,MCA,3,BN,6684
 1990-10-20,SE-08,Negeri Sembilan,N.23 Jimah,2,3161,Hu Sepang,DAP,021-DAP,DAP,5,GR,4373
-1990-10-20,SE-08,Negeri Sembilan,N.24 Rantau,1,4651,Dato' Muthuppalaniappan,BN,001-UMNO,UMNO,3,BN,4849
+1990-10-20,SE-08,Negeri Sembilan,N.24 Rantau,1,4651,Dato' Muthuppalaniappan,BN,002-MIC,MIC,3,BN,4849
 1990-10-20,SE-08,Negeri Sembilan,N.24 Rantau,2,6323,P. Marimuthu,DAP,021-DAP,DAP,5,GR,3404
 1990-10-20,SE-08,Negeri Sembilan,N.25 Chembong,1,6324,Ahmad B Yusof,S46,062-S46,S46,4,APU,1238
 1990-10-20,SE-08,Negeri Sembilan,N.25 Chembong,2,5590,Mahzan Bin Hamzah,BN,001-UMNO,UMNO,3,BN,5234
@@ -18491,7 +18491,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Melaka,N.09 Ayer Molek,1,6336,As'Ari Bin Hj Ibrahim,BN,001-UMNO,UMNO,3,BN,10612
 1990-10-20,SE-08,Melaka,N.09 Ayer Molek,2,3521,Jaliluddin Bin Hj Abd Wahid,PAS,004-PAS,PAS,4,APU,4728
 1990-10-20,SE-08,Melaka,N.10 Krubong,1,3185,Mohamad Bin Bakar,BEBAS,000-BEBAS,BEBAS,0,ALONE,369
-1990-10-20,SE-08,Melaka,N.10 Krubong,2,5612,Seah Kwi Tong,BN,001-UMNO,UMNO,3,BN,9235
+1990-10-20,SE-08,Melaka,N.10 Krubong,2,5612,Seah Kwi Tong,BN,003-MCA,MCA,3,BN,9235
 1990-10-20,SE-08,Melaka,N.10 Krubong,3,6337,Ahmad Dali B Abu Hassan,BEBAS,000-BEBAS,BEBAS,0,ALONE,515
 1990-10-20,SE-08,Melaka,N.10 Krubong,4,6338,Joseph Sta Maria,DAP,021-DAP,DAP,5,GR,4920
 1990-10-20,SE-08,Melaka,N.11 Tanjong Minyak,1,6339,Abas Bin Kasim,S46,062-S46,S46,4,APU,3691
@@ -19539,7 +19539,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Johor,N.21 Penggaram,2,5650,Dr Chua Soi Lek,BN,003-MCA,MCA,3,BN,15161
 1990-10-20,SE-08,Johor,N.22 Rengit,1,5171,Ungku Haji Mohd Nor,PAS,004-PAS,PAS,4,APU,4883
 1990-10-20,SE-08,Johor,N.22 Rengit,2,6381,Hj. Zainal Abidin Bin Mohd Zin,BN,001-UMNO,UMNO,3,BN,10535
-1990-10-20,SE-08,Johor,N.23 Simpang Renggam,1,3200,Dato' Low Boon Hong,BN,001-UMNO,UMNO,3,BN,13518
+1990-10-20,SE-08,Johor,N.23 Simpang Renggam,1,3200,Dato' Low Boon Hong,BN,003-MCA,MCA,3,BN,13518
 1990-10-20,SE-08,Johor,N.23 Simpang Renggam,2,6382,Ariakrishnan A/L Muthu,DAP,021-DAP,DAP,5,GR,6138
 1990-10-20,SE-08,Johor,N.24 Benut,1,5665,Hajah Khatijah Mohd Som,BN,001-UMNO,UMNO,3,BN,9439
 1990-10-20,SE-08,Johor,N.24 Benut,2,6383,Haji Ambok Masek Hj Abd Latif,PAS,004-PAS,PAS,4,APU,4588
@@ -19557,9 +19557,9 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,SE-08,Johor,N.30 Pasir Gudang,2,5659,K. S. Balakrishnan,BN,002-MIC,MIC,3,BN,18730
 1990-10-20,SE-08,Johor,N.31 Tanjong Puteri,1,6389,Mohamad Bin Kasbi,BN,001-UMNO,UMNO,3,BN,14708
 1990-10-20,SE-08,Johor,N.31 Tanjong Puteri,2,2682,Razak Ahmad,PRM,009-PRM,PRM,5,GR,10787
-1990-10-20,SE-08,Johor,N.32 Gertak Merah,1,5661,Freddie Long Hoo Hin,BN,001-UMNO,UMNO,3,BN,10035
+1990-10-20,SE-08,Johor,N.32 Gertak Merah,1,5661,Freddie Long Hoo Hin,BN,003-MCA,MCA,3,BN,10035
 1990-10-20,SE-08,Johor,N.32 Gertak Merah,2,6390,Zahrah Yusof,S46,062-S46,S46,4,APU,6869
-1990-10-20,SE-08,Johor,N.33 Tambatan,1,6391,Abdul Kadir Bin Annuar,BN,003-MCA,MCA,3,BN,12854
+1990-10-20,SE-08,Johor,N.33 Tambatan,1,6391,Abdul Kadir Bin Annuar,BN,001-UMNO,UMNO,3,BN,12854
 1990-10-20,SE-08,Johor,N.33 Tambatan,2,6392,Samat Bin Atan,S46,062-S46,S46,4,APU,6824
 1990-10-20,SE-08,Johor,N.34 Gelang Patah,1,6393,Teu Si @ Chang See Ten,BN,003-MCA,MCA,3,BN,15821
 1990-10-20,SE-08,Johor,N.34 Gelang Patah,2,6394,Mohd Mandak Bin Hj Mohd Kassim,S46,062-S46,S46,4,APU,11763
@@ -25972,7 +25972,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1957-10-26,BY-ELECTION,Perak,P.011 Sungei Perak Ulu,1,14459,Haji Meor Shamsudin bin Haji Meor Yahya,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,12795
 1957-10-26,BY-ELECTION,Perak,P.011 Sungei Perak Ulu,2,145,Md. Sharif bin Babul,PR,009-PR,PR,0,ALONE,5651
 1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,1,36,D. R. Seenivasagam,PPP,006-PPP,PPP,0,ALONE,5911
-1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,2,14460,Yap Yin Fah,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,4091
+1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,2,14460,Yap Yin Fah,PERIKATAN,003-MCA,MCA,1,PERIKATAN,4091
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,1,1001,Abdul Ghani bin Hashim,PR,009-PR,PR,0,ALONE,1377
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,2,81,Dato' Onn,NEG,008-NEG,NEG,0,ALONE,5614
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,3,335,Syed Esa bin Alwee,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,12179

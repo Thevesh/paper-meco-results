@@ -14,7 +14,7 @@ load_dotenv()
 def upload_data(client, bucket, file_pattern="candidates/*"):
     """Upload data files matching pattern to R2."""
     files = g(f"api/{file_pattern}.json")
-    files_to_upload = sorted([(f, f.replace("api/", "")) for f in files])
+    files_to_upload = sorted([(f, f.replace("api/", "v1/")) for f in files])
     upload_bulk(client, bucket, files_to_upload, max_workers=120)
 
 

@@ -304,7 +304,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Selangor,N.03 Sungai Besar,2,S0ZCP,Hassan Bin Haji Shukri,Hassan Shukri,M,Malay,40,PAS,004-PAS,PAS,0,ALONE,2143,31.79997032200623,2,lost
 1978-07-08,SE-05,Selangor,N.04 Sungai Panjang,1,QG53T,Ariffin Bin Haji Mat Rawi @ Haji Rawi,Ariffin bin Mat Rawi,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4038,66.1208449320452,1,won
 1978-07-08,SE-05,Selangor,N.04 Sungai Panjang,2,R2Q76,Haji Hamdan Bin Haji Bakri,Hamdan bin Bakri,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2069,33.879155067954805,2,lost
-1978-07-08,SE-05,Selangor,N.05 Sekinchan,1,TXV63,Muhamad Kasim Bin Mohamed Yusof,Muhamad Kasim bin Mohamed Yusof,M,Malay,-1,BN,003-MCA,MCA,3,BN,3821,55.408932714617166,1,won
+1978-07-08,SE-05,Selangor,N.05 Sekinchan,1,TXV63,Muhamad Kasim Bin Mohamed Yusof,Muhamad Kasim bin Mohamed Yusof,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,3821,55.408932714617166,1,won
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,2,YBH8C,Ang Par Wong,Ang Par Wong,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1836,26.62412993039443,2,lost
 1978-07-08,SE-05,Selangor,N.05 Sekinchan,3,1S7AN,Ibrahim Non,Ibrahim Non,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1239,17.9669373549884,3,lost
 1978-07-08,SE-05,Selangor,N.06 Sungai Burong,1,V1M20,Dato' Haji Kamaruzaman Bin Haji Ahmad,Kamaruzaman bin Ahmad,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4740,65.68736141906874,1,won
@@ -335,7 +335,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Selangor,N.14 Gombak,1,BG29D,Zakaria Haji Yahaya,Zakaria bin Yahaya,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,15089,68.27601809954751,1,won
 1978-07-08,SE-05,Selangor,N.14 Gombak,2,AP8ZY,Ishak Surin,Ishak bin Surin,M,Malay,44,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,3737,16.90950226244344,2,lost
 1978-07-08,SE-05,Selangor,N.14 Gombak,3,AXG61,Khalid Bin Siri,Khalid bin Siri,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3274,14.81447963800905,3,lost
-1978-07-08,SE-05,Selangor,N.15 Ampang,1,AB8XY,Tan Kui Sui,Tan Kui Sui (Tan Kai See),M,Chinese,-1,BN,001-UMNO,UMNO,3,BN,12749,52.8237000207168,1,won
+1978-07-08,SE-05,Selangor,N.15 Ampang,1,AB8XY,Tan Kui Sui,Tan Kui Sui (Tan Kai See),M,Chinese,-1,BN,003-MCA,MCA,3,BN,12749,52.8237000207168,1,won
 1978-07-08,SE-05,Selangor,N.15 Ampang,2,Y4A29,Zainal Rampak,Zainal bin Rampak,M,Malay,38,DAP,021-DAP,DAP,0,ALONE,6733,27.89724466542366,2,lost
 1978-07-08,SE-05,Selangor,N.15 Ampang,3,EB68A,Ibrahim Haji Ja'Afar,Ibrahim bin Jaafar,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,4447,18.42552309923348,3,lost
 1978-07-08,SE-05,Selangor,N.15 Ampang,4,HRWAK,Leow Kim Hock,Leow Kim Hock,M,Chinese,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,206,0.8535322146260618,4,lost_deposit
@@ -371,7 +371,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-29,SE-05,Selangor,N.24 Kampong Jawa,5,YAV88,Abd. Manan Bin Kassmuri,Abd. Manan bin Kassmuri,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,28,0.30224525043177897,5,lost_deposit
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,1,1RHAH,Soong Siew Hoong,Soong Siew Hoong,M,Chinese,53,BN,026-GERAKAN,GERAKAN,3,BN,24504,71.67636821013835,1,won
 1978-07-08,SE-05,Selangor,N.25 Petaling Jaya,2,567CT,Husin Md. Atan,Husin bin Md. Atan,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,9683,28.323631789861643,2,lost
-1978-07-08,SE-05,Selangor,N.26 Sungai Way,1,TAXXW,V.L. Kandan,V.L. Kandan,M,Indian,-1,BN,001-UMNO,UMNO,3,BN,7460,45.621330724070454,1,won
+1978-07-08,SE-05,Selangor,N.26 Sungai Way,1,TAXXW,V.L. Kandan,V.L. Kandan,M,Indian,-1,BN,002-MIC,MIC,3,BN,7460,45.621330724070454,1,won
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,2,HHN4G,K.C. Cheah,Cheah Kam Chiew,M,Chinese,42,DAP,021-DAP,DAP,0,ALONE,5734,35.0660469667319,2,lost
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,3,8KXF3,Mohd. Amin Abu Bakar,Mohd. Amin bin Abu Bakar,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1914,11.70499021526419,3,lost_deposit
 1978-07-08,SE-05,Selangor,N.26 Sungai Way,4,C1KHC,Dr Sabri Mustaffa Afifi,Sabri Mustaffa Afifi,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,1112,6.800391389432485,4,lost_deposit
@@ -383,7 +383,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Selangor,N.29 Banting,2,FF9KN,Haji Basir Bin Salleh,Basir bin Salleh,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2488,29.832134292565947,2,lost
 1978-07-08,SE-05,Selangor,N.30 Morib,1,JWZNY,Ishak Shufaat,Ishak bin Pangat @ Shufaat,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,3657,55.03386004514673,1,won
 1978-07-08,SE-05,Selangor,N.30 Morib,2,PANR7,Ismail Bin Sekak,Ismail bin Sekak,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,2988,44.966139954853276,2,lost
-1978-07-08,SE-05,Selangor,N.31 Dengkil,1,B191Y,Dato' Haji Ahmad Razali,Ahmad Razali bin Mohd. Ali,M,Malay,50,BN,002-MIC,MIC,3,BN,6151,88.47813578826236,1,won
+1978-07-08,SE-05,Selangor,N.31 Dengkil,1,B191Y,Dato' Haji Ahmad Razali,Ahmad Razali bin Mohd. Ali,M,Malay,50,BN,001-UMNO,UMNO,3,BN,6151,88.47813578826236,1,won
 1978-07-08,SE-05,Selangor,N.31 Dengkil,2,SRBTG,Zainal Abidin Bin Haji Karim,Zainal Abidin bin Abdul Karim,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,801,11.521864211737629,2,lost_deposit
 1978-07-08,SE-05,Selangor,N.32 Sungai Pelek,1,X61WS,Choo Yoong Fatt,Choo (Chow) Yoong Fatt,M,Chinese,-1,BN,003-MCA,MCA,3,BN,5545,75.81350834016953,1,won
 1978-07-08,SE-05,Selangor,N.32 Sungai Pelek,2,0KQZ2,Cikgu Atan Bin Bulat,Atan bin Bulat,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1769,24.186491659830462,2,lost
@@ -651,7 +651,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Selangor,N.35 Telok Gadong,2,RF3K0,Tong Yoke Seng,Tong Yoke Seng,M,Chinese,-1,BN,003-MCA,MCA,3,BN,7276,46.64999679425531,2,lost
 1990-10-20,SE-08,Selangor,N.36 Pandamaran,1,ER8M8,Al Delingannu,Deligannu a/l Allagan,M,Indian,44,DAP,021-DAP,DAP,5,GR,8616,44.5156290364247,2,lost
 1990-10-20,SE-08,Selangor,N.36 Pandamaran,2,J5YPH,Ramli B. Moid,Ramli bin Moid,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,709,3.6631361405321625,3,lost_deposit
-1990-10-20,SE-08,Selangor,N.36 Pandamaran,3,NKMRT,Teh Chang Ying,Teh Chang Ying,M,Chinese,45,BN,001-UMNO,UMNO,3,BN,10030,51.82123482304314,1,won
+1990-10-20,SE-08,Selangor,N.36 Pandamaran,3,NKMRT,Teh Chang Ying,Teh Chang Ying,M,Chinese,45,BN,003-MCA,MCA,3,BN,10030,51.82123482304314,1,won
 1990-10-20,SE-08,Selangor,N.37 Panglima Garang,1,XR94W,Tarikh B. Mohd Jonid,Tarikh bin Mohd. Jonid,M,Malay,-1,S46,062-S46,S46,4,APU,6246,52.78904665314401,1,won
 1990-10-20,SE-08,Selangor,N.37 Panglima Garang,2,ZAFQJ,Eng Hoi Choo,Eng Hoi Choo,M,Chinese,-1,BN,003-MCA,MCA,3,BN,5586,47.21095334685598,2,lost
 1990-10-20,SE-08,Selangor,N.38 Morib,1,EWQG9,Dato' Haji Abu Bakar B. Hji Abdul Hamid,Abu Bakar bin Abdul Hamid,M,Malay,50,BN,001-UMNO,UMNO,3,BN,7240,68.5281590156176,1,won
@@ -989,7 +989,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Selangor,N.02 Sabak,2,NJZ28,Datuk Haji Warno,Warno bin Dogol,M,Malay,48,BN,001-UMNO,UMNO,3,BN,7001,50.421317969031335,1,won
 2008-03-08,SE-12,Selangor,N.03 Sungai Panjang,1,90MZR,Dato' Seri Dr Mohamad Khir Toyo,Mohamad Khir bin Toyo,M,Malay,43,BN,001-UMNO,UMNO,3,BN,11181,67.62428934317165,1,won
 2008-03-08,SE-12,Selangor,N.03 Sungai Panjang,2,0SK4X,Mohd Fadzin Bin Taslimin,Mohd Fadzin bin Taslimin,M,Malay,59,PAS,004-PAS,PAS,7,PR,5353,32.37571065682835,2,lost
-2008-03-08,SE-12,Selangor,N.04 Sekinchan,1,S0N4H,Puah Boon Choon,Puah Boon Choon,M,Malay,45,BN,003-MCA,MCA,3,BN,5213,49.105124340617934,2,lost
+2008-03-08,SE-12,Selangor,N.04 Sekinchan,1,S0N4H,Puah Boon Choon,Puah Boon Choon,M,Chinese,45,BN,003-MCA,MCA,3,BN,5213,49.105124340617934,2,lost
 2008-03-08,SE-12,Selangor,N.04 Sekinchan,2,FW14A,Ng Suee Lim,Ng Suee Lim,M,Chinese,38,DAP,021-DAP,DAP,7,PR,5403,50.894875659382066,1,won
 2008-03-08,SE-12,Selangor,N.05 Hulu Bernam,1,K9Q6K,Dato' Haji Mohamed Idris Bin Haji Abu Bakar,Mohamed Idris bin Abu Bakar,M,Malay,57,BN,001-UMNO,UMNO,3,BN,7985,64.28628934868368,1,won
 2008-03-08,SE-12,Selangor,N.05 Hulu Bernam,2,Y6CNS,Cikgu Sukor Ali,Abdul Sukor bin Ali,M,Malay,61,PAS,004-PAS,PAS,7,PR,4436,35.71371065131632,2,lost
@@ -1105,7 +1105,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2013-05-05,SE-13,Selangor,N.02 Sabak,2,5JYXF,Ustaz Sallehen Mukhyi,Sallehen bin Mukhyi,M,Malay,46,PAS,004-PAS,PAS,7,PR,9421,51.081711218348424,1,won
 2013-05-05,SE-13,Selangor,N.03 Sungai Panjang,1,Q33MJ,Budiman Bin Mohd Zohdi,Budiman bin Mohd Zohdi,M,Malay,41,BN,001-UMNO,UMNO,3,BN,12606,54.739676060619225,1,won
 2013-05-05,SE-13,Selangor,N.03 Sungai Panjang,2,0SK4X,Ustaz Haji Fadzin,Mohd Fadzin bin Taslimin,M,Malay,64,PAS,004-PAS,PAS,7,PR,10423,45.26032393938078,2,lost
-2013-05-05,SE-13,Selangor,N.04 Sekinchan,1,TGSPV,Kek Seng Hooi,Kek Seng Hooi,M,Malay,50,BN,003-MCA,MCA,3,BN,5868,41.98926654740608,2,lost
+2013-05-05,SE-13,Selangor,N.04 Sekinchan,1,TGSPV,Kek Seng Hooi,Kek Seng Hooi,M,Chinese,50,BN,003-MCA,MCA,3,BN,5868,41.98926654740608,2,lost
 2013-05-05,SE-13,Selangor,N.04 Sekinchan,2,FW14A,Ng Suee Lim,Ng Suee Lim,M,Chinese,43,DAP,021-DAP,DAP,7,PR,8107,58.01073345259392,1,won
 2013-05-05,SE-13,Selangor,N.05 Hulu Bernam,1,XYFS4,Hj.Idris Ahmad,Idris bin Ahmad,M,Malay,68,PAS,004-PAS,PAS,7,PR,7365,41.46492512104493,2,lost
 2013-05-05,SE-13,Selangor,N.05 Hulu Bernam,2,1C5VD,Datuk Rosni Binti Sohar,Rosni binti Sohar,F,Malay,55,BN,001-UMNO,UMNO,3,BN,10397,58.53507487895507,1,won

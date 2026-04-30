@@ -4351,8 +4351,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,GE-12,Pulau Pinang,P.050 Jelutong,3,XW2KX,Ooi Chuan Aun,Ooi Chuan Aun,M,Chinese,53,DAP,021-DAP,DAP,7,PR,30493,66.83836745429836,1,won
 2008-03-08,GE-12,Pulau Pinang,P.051 Bukit Gelugor,1,9PN3R,Koay Kar Huah,Koay Kar Huah,M,Chinese,61,BN,003-MCA,MCA,3,BN,14125,28.671470618085866,2,lost
 2008-03-08,GE-12,Pulau Pinang,P.051 Bukit Gelugor,2,KX9VT,Karpal Singh,Karpal Singh a/l Ram Singh,M,Other,68,DAP,021-DAP,DAP,7,PR,35140,71.32852938191414,1,won
-2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,1,19RP6,Ooi Siew Kim,Ooi Siew Kim,M,Chinese,37,BN,003-MCA,MCA,3,BN,16589,37.52573121903771,2,lost
-2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,2,4QERF,Zahrain Mohamed Hashim,Zahrain bin Mohamed Hashim,M,Malay,55,PKR,078-PKR,PKR,7,PR,27618,62.47426878096229,1,won
+2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,1,19RP6,Ooi Siew Kim,Ooi Siew Kim,M,Chinese,37,BN,003-MCA,MCA,3,BN,17561,38.50758705376721,2,lost
+2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,2,4QERF,Zahrain Mohamed Hashim,Zahrain bin Mohamed Hashim,M,Malay,55,PKR,078-PKR,PKR,7,PR,28043,61.49241294623279,1,won
 2008-03-08,GE-12,Pulau Pinang,P.053 Balik Pulau,1,854TR,Norraesah Mohamad,Norraesah binti Mohamad,F,Malay,60,BN,001-UMNO,UMNO,3,BN,15041,48.850276063657034,2,lost
 2008-03-08,GE-12,Pulau Pinang,P.053 Balik Pulau,2,BJTX1,Yusmadi Yusoff,Yusmadi bin Yusoff,M,Malay,34,PKR,078-PKR,PKR,7,PR,15749,51.14972393634297,1,won
 2008-03-08,GE-12,Perak,P.054 Gerik,1,B2NNA,Tan Lian Hoe,Tan Lian Hoe,F,Chinese,50,BN,026-GERAKAN,GERAKAN,3,BN,12526,64.30514913496586,1,won
@@ -4372,9 +4372,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,GE-12,Perak,P.060 Taiping,2,HY1SW,M. Kayveas,M. Kayveas,M,Indian,54,BN,006-MYPPP,MYPPP,3,BN,16800,37.418147801683816,2,lost
 2008-03-08,GE-12,Perak,P.061 Padang Rengas,1,70BF9,Alias Zenon,Alias bin Zenon,M,Malay,70,PKR,078-PKR,PKR,7,PR,8081,45.117525542962426,2,lost
 2008-03-08,GE-12,Perak,P.061 Padang Rengas,2,0SY9R,Mohamed Nazri Bin Tan Abdul Aziz,Mohamed Nazri bin Abdul Aziz,M,Malay,54,BN,001-UMNO,UMNO,3,BN,9830,54.882474457037574,1,won
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,1,AE1HJ,Nor Rizan Bin Oon,Nor Rizan bin Oon,M,Malay,49,BEBAS,000-BEBAS,BEBAS,0,ALONE,864,2.7034638130104196,3,lost_deposit
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,2,HK14R,S. Samy Vellu,Samy Vellu a/l Sangalimuthu,M,Indian,72,BN,002-MIC,MIC,3,BN,14637,45.799305359992495,2,lost
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,3,85FP1,Michael Jeyakumar Devaraj,Michael Jeyakumar Devaraj,M,Indian,53,PKR,074-PSM,PSM,7,PR,16458,51.49723082699709,1,won
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,1,AE1HJ,Nor Rizan Bin Oon,Nor Rizan bin Oon,M,Malay,49,BEBAS,000-BEBAS,BEBAS,0,ALONE,870,2.705896989300821,3,lost_deposit
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,2,HK14R,S. Samy Vellu,Samy Vellu a/l Sangalimuthu,M,Indian,72,BN,002-MIC,MIC,3,BN,14408,44.81214232396118,2,lost
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,3,85FP1,Michael Jeyakumar Devaraj,Michael Jeyakumar Devaraj,M,Indian,53,PKR,074-PSM,PSM,7,PR,16874,52.48196068673799,1,won
 2008-03-08,GE-12,Perak,P.063 Tambun,1,P8YWP,Mohamad Asri,Mohamad Asri bin Othman,M,Malay,60,PKR,078-PKR,PKR,7,PR,22556,44.667115529327894,2,lost
 2008-03-08,GE-12,Perak,P.063 Tambun,2,7NAEA,Ahmad Husni Hanadzlah,Ahmad Husni bin Mohamad Hanadzlah,M,Malay,56,BN,001-UMNO,UMNO,3,BN,27942,55.332884470672106,1,won
 2008-03-08,GE-12,Perak,P.064 Ipoh Timor,1,YQJ5S,Lim Kit Siang,Lim Kit Siang,M,Chinese,67,DAP,021-DAP,DAP,7,PR,37364,70.78391997878225,1,won
@@ -4506,8 +4506,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,GE-12,W.P. Putrajaya,P.125 Putrajaya,2,7KKJS,Tengku Adnan Bin Tengku Mansor,Tengku Adnan bin Tengku Mansor,M,Malay,58,BN,001-UMNO,UMNO,3,BN,4038,75.58966679146387,1,won
 2008-03-08,GE-12,Negeri Sembilan,P.126 Jelebu,1,2P3FX,Rais Yatim,Rais bin Yatim,M,Malay,66,BN,001-UMNO,UMNO,3,BN,19737,70.83333333333334,1,won
 2008-03-08,GE-12,Negeri Sembilan,P.126 Jelebu,2,V8GPC,Norman Ipin,Norman bin Ipin,M,Malay,37,PAS,004-PAS,PAS,7,PR,8127,29.166666666666668,2,lost
-2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,1,8ERJY,Lilah Bin Yasin,Lilah bin Yasin,M,Malay,50,BN,001-UMNO,UMNO,3,BN,25294,66.09700010452597,1,won
-2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,2,TAKC5,Siti Meriam,Siti Meriam binti Salleh,F,Malay,64,PAS,004-PAS,PAS,7,PR,12974,33.902999895474025,2,lost
+2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,1,8ERJY,Lilah Bin Yasin,Lilah bin Yasin,M,Malay,50,BN,001-UMNO,UMNO,3,BN,25561,66.29577757028737,1,won
+2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,2,TAKC5,Siti Meriam,Siti Meriam binti Salleh,F,Malay,64,PAS,004-PAS,PAS,7,PR,12995,33.70422242971263,2,lost
 2008-03-08,GE-12,Negeri Sembilan,P.128 Seremban,1,V7TP8,Yu Chok Tow,Yu Chok Tow,M,Chinese,53,BN,003-MCA,MCA,3,BN,29022,46.81571815718157,2,lost
 2008-03-08,GE-12,Negeri Sembilan,P.128 Seremban,2,PWHVF,John Fernandez,John a/l Fernandez,M,Indian,67,DAP,021-DAP,DAP,7,PR,32970,53.18428184281843,1,won
 2008-03-08,GE-12,Negeri Sembilan,P.129 Kuala Pilah,1,P4G0N,Hasan Bin Malek,Hasan bin Malek,M,Malay,62,BN,001-UMNO,UMNO,3,BN,20417,66.23305002270811,1,won
@@ -5628,7 +5628,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2018-05-09,GE-14,Selangor,P.103 Puchong,3,NV73R,Gobind Singh Deo,Gobind Singh Deo,M,Other,45,PKR,021-DAP,DAP,8,PH,60429,72.38913246603896,1,won
 2018-05-09,GE-14,Selangor,P.104 Subang,1,JX092,Toh Sin Wah,Toh Sin Wah,M,Chinese,59,BEBAS,000-BEBAS,BEBAS,0,ALONE,173,0.1376238017580844,4,lost_deposit
 2018-05-09,GE-14,Selangor,P.104 Subang,2,PAPBB,Wong Chen,Wong Chen,M,Chinese,50,PKR,078-PKR,PKR,8,PH,104430,83.07545443697546,1,won
-2018-05-09,GE-14,Selangor,P.104 Subang,3,34JF7,Tan Seong Lim,Tan Seong Lim,M,Malay,52,BN,003-MCA,MCA,3,BN,12077,9.607414184002227,2,lost_deposit
+2018-05-09,GE-14,Selangor,P.104 Subang,3,34JF7,Tan Seong Lim,Tan Seong Lim,M,Chinese,52,BN,003-MCA,MCA,3,BN,12077,9.607414184002227,2,lost_deposit
 2018-05-09,GE-14,Selangor,P.104 Subang,4,6J8HG,Shahir Adnan,Mohd Shahir bin Mohd Adnan,M,Malay,34,PAS,100-IKATAN,IKATAN,9,GS,9025,7.179507577264229,3,lost_deposit
 2018-05-09,GE-14,Selangor,P.105 Petaling Jaya,1,9ZYKS,Maria Chin Abdullah,Maria Chin binti Abdullah,F,Chinese,62,PKR,078-PKR,PKR,8,PH,78984,68.51551453430373,1,won
 2018-05-09,GE-14,Selangor,P.105 Petaling Jaya,2,DDMP2,Chew Hian Tat,Chew Hian Tat,M,Chinese,44,BN,003-MCA,MCA,3,BN,21847,18.95141352718188,2,lost

@@ -2,7 +2,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1957-10-26,BY-ELECTION,Perak,P.011 Sungei Perak Ulu,1,66JRY,Haji Meor Shamsudin bin Haji Meor Yahya,Meor Shamsudin bin Meor Yahya,M,Malay,40,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,12795,69.36463189851459,1,won
 1957-10-26,BY-ELECTION,Perak,P.011 Sungei Perak Ulu,2,WKTB4,Md. Sharif bin Babul,Shariff Babul,M,Malay,-1,PR,009-PR,PR,0,ALONE,5651,30.635368101485415,2,lost
 1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,1,6ZMJF,D. R. Seenivasagam,Dharma Raja Seenivasagam,M,Indian,32,PPP,006-PPP,PPP,0,ALONE,5911,59.09818036392721,1,won
-1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,2,9M8V7,Yap Yin Fah,Yap Yin Fah,M,Chinese,-1,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,4091,40.90181963607279,2,lost
+1957-11-23,BY-ELECTION,Perak,P.014 Ipoh and Menglembu,2,9M8V7,Yap Yin Fah,Yap Yin Fah,M,Chinese,-1,PERIKATAN,003-MCA,MCA,1,PERIKATAN,4091,40.90181963607279,2,lost
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,1,JT7BW,Abdul Ghani bin Hashim,Abdul Ghani bin Hashim,M,Malay,-1,PR,009-PR,PR,0,ALONE,1377,7.183098591549296,3,lost_deposit
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,2,17NS4,Dato' Onn,Onn bin Jaafar,M,Malay,62,NEG,008-NEG,NEG,0,ALONE,5614,29.285341679707876,2,lost
 1957-12-14,BY-ELECTION,Johor,P.034 Batu Pahat,3,7WVWJ,Syed Esa bin Alwee,Syed Esa bin Alwee,M,Malay,56,PERIKATAN,001-UMNO,UMNO,1,PERIKATAN,12179,63.53155972874283,1,won

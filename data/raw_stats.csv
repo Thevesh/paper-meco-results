@@ -1877,17 +1877,17 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,GE-12,Pulau Pinang,P.049 Tanjong,53188,38734,96,631
 2008-03-08,GE-12,Pulau Pinang,P.050 Jelutong,61181,46406,41,743
 2008-03-08,GE-12,Pulau Pinang,P.051 Bukit Gelugor,65614,50553,581,707
-2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,60713,46418,1556,655
+2008-03-08,GE-12,Pulau Pinang,P.052 Bayan Baru,60713,46418,159,655
 2008-03-08,GE-12,Pulau Pinang,P.053 Balik Pulau,39765,31391,0,601
 2008-03-08,GE-12,Perak,P.054 Gerik,26229,20493,365,649
 2008-03-08,GE-12,Perak,P.055 Lenggong,23223,17436,60,311
 2008-03-08,GE-12,Perak,P.056 Larut,39697,30589,57,687
 2008-03-08,GE-12,Perak,P.057 Parit Buntar,45219,35592,83,618
-2008-03-08,GE-12,Perak,P.058 Bagan Serai,47111,36237,578,1186
+2008-03-08,GE-12,Perak,P.058 Bagan Serai,47111,35711,52,1186
 2008-03-08,GE-12,Perak,P.059 Bukit Gantang,55471,40301,114,851
 2008-03-08,GE-12,Perak,P.060 Taiping,65889,47123,613,1612
 2008-03-08,GE-12,Perak,P.061 Padang Rengas,24397,18350,77,362
-2008-03-08,GE-12,Perak,P.062 Sungai Siput,47424,33154,194,1001
+2008-03-08,GE-12,Perak,P.062 Sungai Siput,47424,33247,93,1002
 2008-03-08,GE-12,Perak,P.063 Tambun,68966,51844,419,927
 2008-03-08,GE-12,Perak,P.064 Ipoh Timor,76647,53994,501,707
 2008-03-08,GE-12,Perak,P.065 Ipoh Barat,69773,50641,194,829
@@ -1897,7 +1897,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,GE-12,Perak,P.069 Parit,28859,22598,45,628
 2008-03-08,GE-12,Perak,P.070 Kampar,59784,38953,350,1048
 2008-03-08,GE-12,Perak,P.071 Gopeng,74344,53303,0,1279
-2008-03-08,GE-12,Perak,P.072 Tapah,38236,26811,1,1662
+2008-03-08,GE-12,Perak,P.072 Tapah,38236,26782,244,1390
 2008-03-08,GE-12,Perak,P.073 Pasir Salak,42712,32119,1,950
 2008-03-08,GE-12,Perak,P.074 Lumut,72763,55930,2948,1884
 2008-03-08,GE-12,Perak,P.075 Bagan Datok,34670,24414,62,814
@@ -1952,7 +1952,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,GE-12,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,72628,54995,707,557
 2008-03-08,GE-12,W.P. Putrajaya,P.125 Putrajaya,6608,5416,36,38
 2008-03-08,GE-12,Negeri Sembilan,P.126 Jelebu,38682,29029,396,769
-2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,53478,39322,0,1054
+2008-03-08,GE-12,Negeri Sembilan,P.127 Jempol,53478,39629,0,1073
 2008-03-08,GE-12,Negeri Sembilan,P.128 Seremban,84675,64437,197,2248
 2008-03-08,GE-12,Negeri Sembilan,P.129 Kuala Pilah,42328,31734,0,908
 2008-03-08,GE-12,Negeri Sembilan,P.130 Rasah,72115,56654,2,1261
@@ -2029,11 +2029,11 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,GE-12,Sarawak,P.201 Batang Lupar,22417,14393,12,193
 2008-03-08,GE-12,Sarawak,P.202 Sri Aman,25724,15513,154,211
 2008-03-08,GE-12,Sarawak,P.203 Lubok Antu,17190,12038,11,99
-2008-03-08,GE-12,Sarawak,P.204 Betong,22088,15953,0,246
+2008-03-08,GE-12,Sarawak,P.204 Betong,22088,15954,0,247
 2008-03-08,GE-12,Sarawak,P.205 Saratok,23982,16467,15,218
 2008-03-08,GE-12,Sarawak,P.206 Tanjong Manis,17052,0,0,0
 2008-03-08,GE-12,Sarawak,P.207 Igan,15735,0,0,0
-2008-03-08,GE-12,Sarawak,P.208 Sarikei,31675,22246,179,176
+2008-03-08,GE-12,Sarawak,P.208 Sarikei,31675,22127,60,176
 2008-03-08,GE-12,Sarawak,P.209 Julau,20306,13313,13,182
 2008-03-08,GE-12,Sarawak,P.210 Kanowit,17613,0,0,0
 2008-03-08,GE-12,Sarawak,P.211 Lanang,49530,34443,102,253
@@ -2047,7 +2047,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,GE-12,Sarawak,P.219 Miri,55963,33969,204,273
 2008-03-08,GE-12,Sarawak,P.220 Baram,24425,12126,11,167
 2008-03-08,GE-12,Sarawak,P.221 Limbang,20315,12380,89,113
-2008-03-08,GE-12,Sarawak,P.222 Lawas,15717,9342,0,82
+2008-03-08,GE-12,Sarawak,P.222 Lawas,15717,9356,14,82
 2013-05-05,GE-13,Perlis,P.001 Padang Besar,41974,36142,91,531
 2013-05-05,GE-13,Perlis,P.002 Kangar,51207,43431,115,667
 2013-05-05,GE-13,Perlis,P.003 Arau,43876,38439,127,525

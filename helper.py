@@ -15,16 +15,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# S3 configuration
-s3_bucket = os.getenv("S3_BUCKET")
-s3_client = boto3.client(
-    "s3",
-    aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID"),
-    aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY"),
-)
-
-TOKEN_API_S3 = (os.getenv("S3_KEY"), os.getenv("S3_SECRET"))
-
 
 def make_arxiv_tarball(filepath=None, dataviz_path="dataviz/", temp_path="temp_archive"):
     """Generate a tarball for arXiv submission.

@@ -574,7 +574,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Pahang,N.25 Bilut,2,V30BT,Woo Chee Wan,Woo Chee Wan,M,Chinese,31,DAP,021-DAP,DAP,5,GR,5455,43.23874445149017,2,lost
 1990-10-20,SE-08,Pahang,N.26 Karak,1,H2HBA,Lee Scene Kam,Lee Kam (Lee Scene Kam),M,Chinese,38,DAP,021-DAP,DAP,5,GR,4061,36.27836340896909,2,lost
 1990-10-20,SE-08,Pahang,N.26 Karak,2,JM1MA,Loke Koon Kam,Loke Ah Kow (Loke Koon Kam),M,Chinese,48,BN,026-GERAKAN,GERAKAN,3,BN,7133,63.72163659103091,1,won
-1990-10-20,SE-08,Pahang,N.27 Pelangai,1,KY05G,Adnan Bin Yaakob,Adnan bin Yaakob,M,Malay,40,BN,002-MIC,MIC,3,BN,6231,68.12814345068882,1,won
+1990-10-20,SE-08,Pahang,N.27 Pelangai,1,KY05G,Adnan Bin Yaakob,Adnan bin Yaakob,M,Malay,40,BN,001-UMNO,UMNO,3,BN,6231,68.12814345068882,1,won
 1990-10-20,SE-08,Pahang,N.27 Pelangai,2,MG7DK,Shamsuddin B Moner @ Munir,Shamsuddin bin Moner (Munir),M,Malay,25,PAS,004-PAS,PAS,4,APU,2915,31.871856549311172,2,lost
 1990-10-20,SE-08,Pahang,N.28 Semantan,1,Q0AQC,Ishak Bin Abdullah,Ishak bin Abdullah,M,Malay,54,PAS,004-PAS,PAS,4,APU,3768,38.47253420461507,2,lost
 1990-10-20,SE-08,Pahang,N.28 Semantan,2,QXXFW,Mohd Sarit Bin Hj. Yusoh,Mohd Sarit bin Yusoh,M,Malay,39,BN,001-UMNO,UMNO,3,BN,6026,61.52746579538493,1,won
@@ -590,7 +590,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Pahang,N.33 Tioman,2,5MNS0,Alias Bin Sulaiman,Alias bin Sulaiman,M,Malay,34,S46,062-S46,S46,4,APU,1585,22.469520839240147,2,lost
 1995-04-24,SE-09,Pahang,N.01 Cameron Highlands,1,931VD,Law Kee Long,Law Kee Long,M,Chinese,49,BN,003-MCA,MCA,3,BN,5408,65.02344595406998,1,won
 1995-04-24,SE-09,Pahang,N.01 Cameron Highlands,2,5NBS4,Apalasamy A/L Jataliah,Apalasamy a/l Jataliah,M,Indian,45,DAP,021-DAP,DAP,5,GR,2909,34.97655404593002,2,lost
-1995-04-24,SE-09,Pahang,N.02 Jelai,1,D3A12,Omar Bin Othman,Omar bin Othman,M,Malay,45,BN,003-MCA,MCA,3,BN,3681,70.39586919104991,1,won
+1995-04-24,SE-09,Pahang,N.02 Jelai,1,D3A12,Omar Bin Othman,Omar bin Othman,M,Malay,45,BN,001-UMNO,UMNO,3,BN,3681,70.39586919104991,1,won
 1995-04-24,SE-09,Pahang,N.02 Jelai,2,6FFMA,Kasim Bin Yahaya,Kassim bin Yahya,M,Malay,-1,PAS,004-PAS,PAS,4,APU,1548,29.604130808950085,2,lost
 1995-04-24,SE-09,Pahang,N.03 Padang Tengku,1,52SNR,Abdul Fattah Bin Abdullah,Abdul Fattah bin Abdullah,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,3985,60.99801010255626,1,won
 1995-04-24,SE-09,Pahang,N.03 Padang Tengku,2,P1QPK,Mohd Alwi Bin Ab Hamid,Mohd Alwi bin Abdul Hamid,M,Malay,56,PAS,004-PAS,PAS,4,APU,2548,39.00198989744374,2,lost

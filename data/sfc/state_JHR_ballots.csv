@@ -544,7 +544,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Johor,N.21 Penggaram,2,JNRSD,Dr Chua Soi Lek,Chua Soi Lek,M,Chinese,43,BN,003-MCA,MCA,3,BN,15161,57.83550774395362,1,won
 1990-10-20,SE-08,Johor,N.22 Rengit,1,8RCMP,Ungku Haji Mohd Nor,Ungku Mohd. Noor bin Ungku Mahmood,M,Malay,36,PAS,004-PAS,PAS,4,APU,4883,31.670774419509662,2,lost
 1990-10-20,SE-08,Johor,N.22 Rengit,2,WCYX0,Hj. Zainal Abidin Bin Mohd Zin,Zainal Abidin bin Mohamed Zin,M,Malay,51,BN,001-UMNO,UMNO,3,BN,10535,68.32922558049034,1,won
-1990-10-20,SE-08,Johor,N.23 Simpang Renggam,1,4HY4B,Dato' Low Boon Hong,Jimmy Low Boon Hong,M,Chinese,49,BN,001-UMNO,UMNO,3,BN,13518,68.77289377289377,1,won
+1990-10-20,SE-08,Johor,N.23 Simpang Renggam,1,4HY4B,Dato' Low Boon Hong,Jimmy Low Boon Hong,M,Chinese,49,BN,003-MCA,MCA,3,BN,13518,68.77289377289377,1,won
 1990-10-20,SE-08,Johor,N.23 Simpang Renggam,2,ZTMZ9,Ariakrishnan A/L Muthu,Ariakrishnan a/l Muthu,M,Indian,50,DAP,021-DAP,DAP,5,GR,6138,31.227106227106226,2,lost
 1990-10-20,SE-08,Johor,N.24 Benut,1,633VM,Hajah Khatijah Mohd Som,Khatijah binti Mohd. Som,F,Malay,44,BN,001-UMNO,UMNO,3,BN,9439,67.29165181435802,1,won
 1990-10-20,SE-08,Johor,N.24 Benut,2,38B1J,Haji Ambok Masek Hj Abd Latif,Ambok Masek bin Abdul Latif,M,Malay,-1,PAS,004-PAS,PAS,4,APU,4588,32.70834818564198,2,lost
@@ -562,9 +562,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Johor,N.30 Pasir Gudang,2,HGZDY,K. S. Balakrishnan,Paliksina Siwalinggam a/l Kandasamy (K.S. Balakrishnan),M,Indian,46,BN,002-MIC,MIC,3,BN,18730,61.057504237840654,1,won
 1990-10-20,SE-08,Johor,N.31 Tanjong Puteri,1,QTFF8,Mohamad Bin Kasbi,Mohamad bin Kasbi,M,Malay,44,BN,001-UMNO,UMNO,3,BN,14708,57.68974308687979,1,won
 1990-10-20,SE-08,Johor,N.31 Tanjong Puteri,2,MYN6N,Razak Ahmad,Abdul Razak bin Ahmad,M,Malay,51,PRM,009-PRM,PRM,5,GR,10787,42.31025691312022,2,lost
-1990-10-20,SE-08,Johor,N.32 Gertak Merah,1,RCBJG,Freddie Long Hoo Hin,Freddie Long Hoo Hin,M,Chinese,47,BN,001-UMNO,UMNO,3,BN,10035,59.36464742072882,1,won
+1990-10-20,SE-08,Johor,N.32 Gertak Merah,1,RCBJG,Freddie Long Hoo Hin,Freddie Long Hoo Hin,M,Chinese,47,BN,003-MCA,MCA,3,BN,10035,59.36464742072882,1,won
 1990-10-20,SE-08,Johor,N.32 Gertak Merah,2,V85HH,Zahrah Yusof,Zahrah binti Mohd Yusof,F,Malay,49,S46,062-S46,S46,4,APU,6869,40.63535257927118,2,lost
-1990-10-20,SE-08,Johor,N.33 Tambatan,1,YNVKT,Abdul Kadir Bin Annuar,Abdul Kadir bin Annuar,M,Malay,57,BN,003-MCA,MCA,3,BN,12854,65.321679032422,1,won
+1990-10-20,SE-08,Johor,N.33 Tambatan,1,YNVKT,Abdul Kadir Bin Annuar,Abdul Kadir bin Annuar,M,Malay,57,BN,001-UMNO,UMNO,3,BN,12854,65.321679032422,1,won
 1990-10-20,SE-08,Johor,N.33 Tambatan,2,23HP3,Samat Bin Atan,Samat bin Atan,M,Malay,36,S46,062-S46,S46,4,APU,6824,34.67832096757801,2,lost
 1990-10-20,SE-08,Johor,N.34 Gelang Patah,1,5H7RC,Teu Si @ Chang See Ten,Chang See Ten (Teu Si),M,Chinese,42,BN,003-MCA,MCA,3,BN,15821,57.35571345707656,1,won
 1990-10-20,SE-08,Johor,N.34 Gelang Patah,2,8YXTN,Mohd Mandak Bin Hj Mohd Kassim,Mohd Mandak bin Mohd Kassim,M,Malay,48,S46,062-S46,S46,4,APU,11763,42.64428654292343,2,lost

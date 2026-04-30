@@ -502,21 +502,21 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,1,SVSV4,Mior Aris Bin Mior Abu Bakar,Mior Aris bin Mior Abu Bakar,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4751,54.37793292892297,1,won
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,2,HA334,Mohamad Bin Haji Junid,Mohamad bin Junid,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3655,41.833581320819505,2,lost
 1978-07-08,SE-05,Perak,N.16 Lubok Merbau,3,X9FXD,Abdul Karim Bin Lan,Abdul Karim bin Lan,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,331,3.788485750257525,3,lost_deposit
-1978-07-08,SE-05,Perak,N.17 Bukit Chandan,1,0Q5ZP,Wong Yee Kao,Wong Yee Kao,M,Chinese,-1,BN,001-UMNO,UMNO,3,BN,5380,46.872277400243945,1,won
+1978-07-08,SE-05,Perak,N.17 Bukit Chandan,1,0Q5ZP,Wong Yee Kao,Wong Yee Kao,M,Chinese,-1,BN,003-MCA,MCA,3,BN,5380,46.872277400243945,1,won
 1978-07-08,SE-05,Perak,N.17 Bukit Chandan,2,VK59Z,Kuan Boon Hooi,Kuan Boon Hooi,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,3202,27.896846140442587,2,lost
 1978-07-08,SE-05,Perak,N.17 Bukit Chandan,3,44W1Z,Hashim Bin Haji Mad Nor @ Haji Nor,Hashim bin Mad Nor (Nor),M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2896,25.230876459313468,3,lost
 1978-07-08,SE-05,Perak,N.18 Manong,1,ZNFG0,Shafie Bin Mat Saman,Shafie bin Mat Saman,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,2965,52.04493593119186,1,won
 1978-07-08,SE-05,Perak,N.18 Manong,2,YMFA0,Zabidin Bin Alang Othman,Zabidin bin Alang Othman,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2039,35.79076707038792,2,lost
 1978-07-08,SE-05,Perak,N.18 Manong,3,7JJ48,Ahmad Bin Mohd. Nasir,Ahmad bin Mohd. Nasir,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,693,12.164296998420221,3,lost_deposit
-1978-07-08,SE-05,Perak,N.19 Chemor,1,NWXC5,Yap Boon En,Yap Boon En,M,Chinese,-1,BN,001-UMNO,UMNO,3,BN,13641,58.374700445053065,1,won
+1978-07-08,SE-05,Perak,N.19 Chemor,1,NWXC5,Yap Boon En,Yap Boon En,M,Chinese,-1,BN,003-MCA,MCA,3,BN,13641,58.374700445053065,1,won
 1978-07-08,SE-05,Perak,N.19 Chemor,2,D0HQ0,Mohd. Fadlan Bin Yahaya,Mohd Fadzlan bin Yahya,M,Malay,28,DAP,021-DAP,DAP,0,ALONE,9727,41.625299554946935,2,lost
 1978-07-08,SE-05,Perak,N.20 Gopeng,1,N0Q71,P. Patto,Patto a/l Perumal,M,Indian,32,DAP,021-DAP,DAP,0,ALONE,9544,49.61272547694547,1,won
 1978-07-08,SE-05,Perak,N.20 Gopeng,2,B086H,Chung Koy Fah,Chung Koy Fah,M,Chinese,-1,BN,003-MCA,MCA,3,BN,8641,44.91864635857982,2,lost
 1978-07-08,SE-05,Perak,N.20 Gopeng,3,EDY8T,Raja Idris Bin Raja Hassan,Raja Idris bin Raja Hassan,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1052,5.46862816447471,3,lost_deposit
 1978-07-08,SE-05,Perak,N.21 Guntong,1,P4TJC,Mohd. Salleh Bin Nakhoda Itam,Mohd. Salleh bin Nakhoda Itam,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,12197,54.38291421437489,1,won
-1978-07-08,SE-05,Perak,N.21 Guntong,2,HVMB3,M. Singaram,M. Singaram,M,Indian,-1,BN,003-MCA,MCA,3,BN,10231,45.61708578562511,2,lost
+1978-07-08,SE-05,Perak,N.21 Guntong,2,HVMB3,M. Singaram,M. Singaram,M,Indian,-1,BN,002-MIC,MIC,3,BN,10231,45.61708578562511,2,lost
 1978-07-08,SE-05,Perak,N.22 Kepayang,1,S1NCT,Lim Cho Hock,Lim Cho Hock,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,17848,70.01961553550412,1,won
-1978-07-08,SE-05,Perak,N.22 Kepayang,2,N9ADC,R. Jegaheesa,R. Jegaheesa,M,Indian,-1,BN,003-MCA,MCA,3,BN,7414,29.085916045508043,2,lost
+1978-07-08,SE-05,Perak,N.22 Kepayang,2,N9ADC,R. Jegaheesa,R. Jegaheesa,M,Indian,-1,BN,002-MIC,MIC,3,BN,7414,29.085916045508043,2,lost
 1978-07-08,SE-05,Perak,N.22 Kepayang,3,RQ0FN,Ng Thor Fung,Ng Thor Fung,M,Chinese,22,BEBAS,000-BEBAS,BEBAS,0,ALONE,228,0.8944684189878384,3,lost_deposit
 1978-07-08,SE-05,Perak,N.23 Pasir Puteh,1,D83RC,Chiang Heng Kai,Chian Heng Kai,M,Chinese,38,DAP,021-DAP,DAP,0,ALONE,16086,61.86209283544206,1,won
 1978-07-08,SE-05,Perak,N.23 Pasir Puteh,2,W4PHY,Wu Lian Hwa,Wu Lian Hwa (Sew Hua Kew),F,Chinese,37,BN,003-MCA,MCA,3,BN,9917,38.13790716455794,2,lost
@@ -544,7 +544,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Perak,N.31 Tapah,1,R4S7J,Lim Yoon Yook,Lim Yoon Yook,M,Chinese,-1,BN,003-MCA,MCA,3,BN,5993,56.20896642280998,1,won
 1978-07-08,SE-05,Perak,N.31 Tapah,2,RSDBA,Ibrahim Bin Singgeh,Ibrahim bin Singgeh,M,Malay,60,DAP,021-DAP,DAP,0,ALONE,4269,40.03939223410242,2,lost
 1978-07-08,SE-05,Perak,N.31 Tapah,3,8PNFK,Haji Mahfud Bin Haji Anwar,Mahfud bin Anwar,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,400,3.7516413430876008,3,lost_deposit
-1978-07-08,SE-05,Perak,N.32 Chenderiang,1,C4BHW,Abdul Wahab Bin Abu Bakar,Abdul Wahab bin Abu Bakar,M,Malay,37,BN,003-MCA,MCA,3,BN,5706,66.51900209839124,1,won
+1978-07-08,SE-05,Perak,N.32 Chenderiang,1,C4BHW,Abdul Wahab Bin Abu Bakar,Abdul Wahab bin Abu Bakar,M,Malay,37,BN,001-UMNO,UMNO,3,BN,5706,66.51900209839124,1,won
 1978-07-08,SE-05,Perak,N.32 Chenderiang,2,FJ1M5,Kalimuthu A/L Ranggayah,Kalimuthu a/l Ranggayah,M,Indian,32,DAP,021-DAP,DAP,0,ALONE,2872,33.48099790160877,2,lost
 1978-07-08,SE-05,Perak,N.33 Sitiawan,1,JZQPE,S. Raja Segran,Raja Segaran a/l Samy Nathan,M,Indian,41,BN,006-PPP,PPP,3,BN,6604,47.758171825282034,1,won
 1978-07-08,SE-05,Perak,N.33 Sitiawan,2,FRXND,Ting Chek Ming,Ting Chek Ming,M,Chinese,32,DAP,021-DAP,DAP,0,ALONE,5513,39.86838299103269,2,lost
@@ -626,7 +626,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1982-04-22,SE-06,Perak,N.18 Manong,2,ZNFG0,Shafie Bin Mat Saman,Shafie bin Mat Saman,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4064,64.43634057396544,1,won
 1982-04-22,SE-06,Perak,N.19 Chemor,1,XV15C,Ahmed Bin Aki,Ahmed bin Aki,M,Malay,35,DAP,021-DAP,DAP,0,ALONE,7748,26.26173609463444,2,lost
 1982-04-22,SE-06,Perak,N.19 Chemor,2,18Q7N,Jamaluddin B. Mat Jali @ Haji Jamaluddin B. Mat Jali,Jamaluddin bin Mat Jali,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,2049,6.945056434938819,3,lost_deposit
-1982-04-22,SE-06,Perak,N.19 Chemor,3,KM0NB,Chin Kee Seong,Chin Kee Seong,M,Chinese,48,BN,001-UMNO,UMNO,3,BN,19413,65.8000881266312,1,won
+1982-04-22,SE-06,Perak,N.19 Chemor,3,KM0NB,Chin Kee Seong,Chin Kee Seong,M,Chinese,48,BN,003-MCA,MCA,3,BN,19413,65.8000881266312,1,won
 1982-04-22,SE-06,Perak,N.19 Chemor,4,A63R7,Abu Samah Bin Majid,Abu Samah bin Majid,M,Malay,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,293,0.9931193437955461,4,lost_deposit
 1982-04-22,SE-06,Perak,N.20 Gopeng,1,4PD9Y,Loke Yuen Yow,Loke Yuen Yow,M,Chinese,30,BN,003-MCA,MCA,3,BN,12018,56.31941515534936,1,won
 1982-04-22,SE-06,Perak,N.20 Gopeng,2,FJ1M5,Kalimuthu A/L Ranggayah,Kalimuthu a/l Ranggayah,M,Indian,36,DAP,021-DAP,DAP,0,ALONE,8637,40.475186278644735,2,lost
@@ -872,7 +872,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Perak,N.30 Bota,2,622PN,Ahamed Hambal Bin Yeop Majlis,Ahmed Hambal bin Yeop Majlis,M,Malay,50,BN,001-UMNO,UMNO,3,BN,7736,62.950606233216696,1,won
 1990-10-20,SE-08,Perak,N.31 Teja,1,XNW97,Dr. Ho Wai Cheong,Ho Wai Cheong,M,Chinese,42,BN,003-MCA,MCA,3,BN,6543,48.86482449589246,2,lost
 1990-10-20,SE-08,Perak,N.31 Teja,2,13JBG,R. K. Muthu,R. K. Muthu,M,Indian,-1,DAP,021-DAP,DAP,5,GR,6847,51.13517550410754,1,won
-1990-10-20,SE-08,Perak,N.32 Chenderong,1,TCN2Z,Dr. Song Yong Pheow,Song Yong Pheow,M,Chinese,41,BN,001-UMNO,UMNO,3,BN,7322,69.81311975591152,1,won
+1990-10-20,SE-08,Perak,N.32 Chenderong,1,TCN2Z,Dr. Song Yong Pheow,Song Yong Pheow,M,Chinese,41,BN,003-MCA,MCA,3,BN,7322,69.81311975591152,1,won
 1990-10-20,SE-08,Perak,N.32 Chenderong,2,4H8DS,Khalili Bin Abdul Wahab,Khalili bin Abdul Wahab,M,Malay,-1,S46,062-S46,S46,4,APU,3166,30.18688024408848,2,lost
 1990-10-20,SE-08,Perak,N.33 Malim Nawar,1,7YYG2,Dr. Chong Fah,Chong Fah (Chong Kam),M,Chinese,51,BN,003-MCA,MCA,3,BN,7516,49.14345494965346,2,lost
 1990-10-20,SE-08,Perak,N.33 Malim Nawar,2,Y8ECK,Choo Kiang Seong,Choo Kiang Seong,M,Chinese,45,DAP,021-DAP,DAP,5,GR,7778,50.85654505034655,1,won
