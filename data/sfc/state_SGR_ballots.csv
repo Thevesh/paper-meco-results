@@ -605,7 +605,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Selangor,N.12 Seri Cahaya,3,WFPXG,K. Sivalingam,Sivalingam a/l Arumugam Karuppiah,M,Indian,42,BN,002-MIC,MIC,3,BN,5405,55.75038679731821,1,won
 1990-10-20,SE-08,Selangor,N.13 Jeram,1,ZXCZS,Suradi B. Timin,Suradi bin Timin,M,Malay,-1,S46,062-S46,S46,4,APU,2779,26.80879799344009,2,lost
 1990-10-20,SE-08,Selangor,N.13 Jeram,2,4MB9J,Dato' Haji Miskon Sutero,Miskon (Miskam) bin Setera (Sutero),M,Malay,50,BN,001-UMNO,UMNO,3,BN,7587,73.1912020065599,1,won
-1990-10-20,SE-08,Selangor,N.14 Sementa,1,3B322,S. G. Segaran,S. G. Segaran,M,Indian,-1,S46,062-S46,S46,4,APU,4151,35.19287833827893,2,lost
+1990-10-20,SE-08,Selangor,N.14 Sementa,1,3B322,S. G. Segaran,S. G. Segaran,M,Indian,-1,S46,064-IPF,IPF,4,APU,4151,35.19287833827893,2,lost
 1990-10-20,SE-08,Selangor,N.14 Sementa,2,6RS4B,Hj. Abdul Samat B. Hj. Harun,Abdul Samat bin Harun,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,7644,64.80712166172107,1,won
 1990-10-20,SE-08,Selangor,N.15 Selat Klang,1,VFQ9B,Dato' Hj. Onn B. Hj. Ismail,Che Onn bin Ismail,M,Malay,52,BN,001-UMNO,UMNO,3,BN,10194,65.25412879272821,1,won
 1990-10-20,SE-08,Selangor,N.15 Selat Klang,2,7MZ9F,Hj. Aziz B. Hamzah,Aziz bin Hamzah,M,Malay,-1,PAS,004-PAS,PAS,4,APU,5428,34.7458712072718,2,lost
@@ -644,7 +644,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,SE-08,Selangor,N.32 Batu Tiga,1,DEMYB,Drs Yaakop Abu Hassan,Yaakop bin Abu Hassan,M,Malay,-1,PAS,004-PAS,PAS,4,APU,8214,29.494775395884954,2,lost
 1990-10-20,SE-08,Selangor,N.32 Batu Tiga,2,964Q6,Mohd Zain B. Sulaiman,M. Zin bin Suliman,M,Malay,53,BN,001-UMNO,UMNO,3,BN,19635,70.50522460411504,1,won
 1990-10-20,SE-08,Selangor,N.33 Shahbandar Raya,1,NR3MV,T. M. Thurai,Maruthathurai a/l Thangiah (Munusamy),M,Indian,-1,BN,002-MIC,MIC,3,BN,13357,58.69402821109988,1,won
-1990-10-20,SE-08,Selangor,N.33 Shahbandar Raya,2,7WWFP,A. N. Mathurai,A. N. Mathurai,M,Indian,-1,S46,062-S46,S46,4,APU,9400,41.30597178890012,2,lost
+1990-10-20,SE-08,Selangor,N.33 Shahbandar Raya,2,7WWFP,A. N. Mathurai,A. N. Mathurai,M,Indian,-1,S46,064-IPF,IPF,4,APU,9400,41.30597178890012,2,lost
 1990-10-20,SE-08,Selangor,N.34 Klang Bandar,1,BAJHZ,Ang Thye Chin,Ang Thye Chin,M,Chinese,41,BN,026-GERAKAN,GERAKAN,3,BN,6434,32.0226956002389,2,lost
 1990-10-20,SE-08,Selangor,N.34 Klang Bandar,2,8RCB4,Chua Kow Eng,Chua Kow Eng,M,Chinese,43,DAP,021-DAP,DAP,5,GR,13658,67.9773043997611,1,won
 1990-10-20,SE-08,Selangor,N.35 Telok Gadong,1,M1S1D,Chew Kim Swee,Chew Kim Swee,F,Chinese,35,DAP,021-DAP,DAP,5,GR,8321,53.35000320574469,1,won

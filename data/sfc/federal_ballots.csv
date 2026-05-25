@@ -2249,7 +2249,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1986-08-02,GE-07,Perak,P.065 Kampar,3,VJ4EJ,Ngoi Thiam Woh,Ngoi Thiam Woh,M,Chinese,33,DAP,021-DAP,DAP,0,ALONE,14606,52.602009579716935,1,won
 1986-08-02,GE-07,Perak,P.066 Tapah,1,W7SQ9,M. Busra B. Haji Anuwar,M. Busra bin Anuwar,M,Malay,-1,PAS,004-PAS,PAS,18,HAK,1688,7.381816591594875,3,lost_deposit
 1986-08-02,GE-07,Perak,P.066 Tapah,2,644DF,Loh Jee Mee @ Jimmy,Jimmy Loh Jee Mee,M,Chinese,56,DAP,021-DAP,DAP,0,ALONE,7597,33.22254777627148,2,lost
-1986-08-02,GE-07,Perak,P.066 Tapah,3,ZNFSJ,Nyanapandithan @ Gnanapandythan A/L Muthandi,Nyanapandithan (Gnanapandythan) a/l Muthandi,M,Indian,46,BN,002-MIC,MIC,3,BN,13582,59.39563563213365,1,won
+1986-08-02,GE-07,Perak,P.066 Tapah,3,ZNFSJ,Nyanapandithan @ Gnanapandythan A/L Muthandi,Nyanapandithan a/l Muthandi (M. G. Pandithan),M,Indian,46,BN,002-MIC,MIC,3,BN,13582,59.39563563213365,1,won
 1986-08-02,GE-07,Perak,P.067 Pasir Salak,1,335VV,Ali Bin Haji Daud,Ali bin Daud,M,Malay,-1,PAS,004-PAS,PAS,18,HAK,6001,25.05427521710087,2,lost
 1986-08-02,GE-07,Perak,P.067 Pasir Salak,2,Q6H22,Megat Junid Bin Megat Ayob,Megat Junid bin Megat Ayob,M,Malay,44,BN,001-UMNO,UMNO,3,BN,17951,74.94572478289913,1,won
 1986-08-02,GE-07,Perak,P.068 Lumut,1,BHSEG,Jaganathan A/L Narianasamy,Jaganathan a/l Narianasamy,M,Indian,-1,DAP,021-DAP,DAP,0,ALONE,14284,43.98324916861682,2,lost
@@ -2684,7 +2684,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1990-10-20,GE-08,Perak,P.069 Bagan Datok,1,9YJ0D,Ariffin Ngah Nasution,Ariffin bin Ngah,M,Malay,49,PAS,004-PAS,PAS,4,APU,7486,32.7600542645836,2,lost
 1990-10-20,GE-08,Perak,P.069 Bagan Datok,2,DC82P,Mohamed Bin Jamrah,Mohamed bin Jamrah,M,Malay,44,BN,001-UMNO,UMNO,3,BN,15365,67.2399457354164,1,won
 1990-10-20,GE-08,Perak,P.070 Telok Intan,1,M7M78,Ong Tin Kim,Ong Tin Kim (Wong Thean Ching),M,Chinese,52,BN,026-GERAKAN,GERAKAN,3,BN,17610,53.18795493672416,1,won
-1990-10-20,GE-08,Perak,P.070 Telok Intan,2,ZNFSJ,M. G. Pandithan,Nyanapandithan (Gnanapandythan) a/l Muthandi,M,Indian,50,DAP,064-IPF,IPF,5,GR,15499,46.812045063275846,2,lost
+1990-10-20,GE-08,Perak,P.070 Telok Intan,2,ZNFSJ,M. G. Pandithan,Nyanapandithan a/l Muthandi (M. G. Pandithan),M,Indian,50,DAP,064-IPF,IPF,5,GR,15499,46.812045063275846,2,lost
 1990-10-20,GE-08,Perak,P.071 Tanjong Malim,1,Z1HNY,A. Rahim Hj Mat Taib,A. Rahim Mat Taib,M,Malay,-1,DAP,021-DAP,DAP,5,GR,8707,26.659522351500307,2,lost
 1990-10-20,GE-08,Perak,P.071 Tanjong Malim,2,4PD9Y,Loke Yuen Yow,Loke Yuen Yow,M,Chinese,38,BN,003-MCA,MCA,3,BN,23953,73.34047764849969,1,won
 1990-10-20,GE-08,Pahang,P.072 Lipis,1,2F7R7,Dr. Amin Hussaini Bin Abdul Manan,Amin Hussaini bin Abdul Manan,M,Malay,36,S46,062-S46,S46,4,APU,11148,42.35884185728399,2,lost
