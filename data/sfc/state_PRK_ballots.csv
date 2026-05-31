@@ -333,7 +333,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Perak,N.03 Selama,1,9AKK7,Abd. Aziz Bin Haji Amad,Abdul Aziz bin Amad,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4413,65.03094606542882,1,won
 1974-08-24,SE-04,Perak,N.03 Selama,2,CR9NG,Haji Mohamad Adnan Bin Haji Mohamad Ariffin,Mohamad Adnan bin Mohamad Ariffin,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,2373,34.96905393457118,2,lost
 1974-08-24,SE-04,Perak,N.04 Batu Kurau,1,CJ3AT,Tajudin Bin Ali,Tajudin bin Ali,M,Malay,52,BN,001-UMNO,UMNO,3,BN,6735,82.96378418329637,1,won
-1974-08-24,SE-04,Perak,N.04 Batu Kurau,2,G5ZQS,Abd. Rahman Bin Lembut,Abdul Rahman bin Lembut,M,Malay,-1,BEBAS,070-KITA,KITA,0,ALONE,1383,17.03621581670362,2,lost
+1974-08-24,SE-04,Perak,N.04 Batu Kurau,2,G5ZQS,Abd. Rahman Bin Lembut,Abdul Rahman bin Lembut,M,Malay,-1,BEBAS,031-KITA,KITA,0,ALONE,1383,17.03621581670362,2,lost
 1974-08-24,SE-04,Perak,N.05 Simpang Lima,1,B3B2A,Ismail Abd. Rauf,Ismail bin Abdul Rauf,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,5975,58.02097494659157,1,won
 1974-08-24,SE-04,Perak,N.05 Simpang Lima,2,KKNT2,Kadir Bin Haji Idris,Kadir bin Idris,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,4323,41.97902505340843,2,lost
 1974-08-24,SE-04,Perak,N.06 Kuala Kurau,1,Q1BWB,Zakaria Johor Ali,Zakaria Johor Ali,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,6932,58.00351435026357,1,won
@@ -362,7 +362,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,1,05MQQ,Ahmad Bin Mansor,Ahmad bin Mansor,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4755,60.0,1,won
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,2,SBZEP,Ahmad Bin Bakar,Ahmad bin Bakar,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,1407,17.753943217665615,2,lost
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,3,3KAT0,Ahmad Badawi Bin Haji Ibrahim,Ahmad Badawi bin Ibrahim,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,1064,13.425867507886435,3,lost
-1974-08-24,SE-04,Perak,N.14 Bukit Gantang,4,KVXVJ,Ng Hoe Soon,Ng Hoa Soon,M,Chinese,-1,KITA,070-KITA,KITA,0,ALONE,441,5.564668769716088,4,lost_deposit
+1974-08-24,SE-04,Perak,N.14 Bukit Gantang,4,KVXVJ,Ng Hoe Soon,Ng Hoa Soon,M,Chinese,-1,KITA,031-KITA,KITA,0,ALONE,441,5.564668769716088,4,lost_deposit
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,5,710W9,Khairuddin Bin Mat Yit,Khairuddin bin Mat Yit,M,Malay,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,258,3.255520504731861,5,lost_deposit
 1974-08-24,SE-04,Perak,N.15 Lenggong,1,AEPYJ,Saidin Bin Haji Mat Piah,Saidin bin Mat Piah,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,7436,81.84920198128783,1,won
 1974-08-24,SE-04,Perak,N.15 Lenggong,2,DWD0V,Fong Cheng Wee,Fong Cheng Wee,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,1649,18.150798018712162,2,lost

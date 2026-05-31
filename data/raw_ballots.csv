@@ -1027,7 +1027,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,GE-04,Kedah,P.011 Jerai,1,2554,Sanusi Bin Junid,BN,001-UMNO,UMNO,3,BN,0
 1974-08-24,GE-04,Kedah,P.012 Kuala Muda,1,101,Haji Mohamed Khir Bin Johari,BN,001-UMNO,UMNO,3,BN,0
 1974-08-24,GE-04,Kedah,P.013 Sungai Petani,1,2555,Wan Zainab Bin M.A. Bakar,BN,001-UMNO,UMNO,3,BN,22266
-1974-08-24,GE-04,Kedah,P.013 Sungai Petani,2,2556,Osman Bin Abu Bakar,KITA,070-KITA,KITA,0,ALONE,4016
+1974-08-24,GE-04,Kedah,P.013 Sungai Petani,2,2556,Osman Bin Abu Bakar,KITA,031-KITA,KITA,0,ALONE,4016
 1974-08-24,GE-04,Kedah,P.014 Padang Serai,1,2557,Lim Ah Yang @ Kiam Hoon,BN,003-MCA,MCA,3,BN,0
 1974-08-24,GE-04,Kedah,P.015 Kulim-Bandar Bahru,1,420,Azahari Bin Md. Taib,BN,001-UMNO,UMNO,3,BN,13888
 1974-08-24,GE-04,Kedah,P.015 Kulim-Bandar Bahru,2,2558,Abdul Aziz Bin H. Kassim,BEBAS,000-BEBAS,BEBAS,0,ALONE,5200
@@ -1077,7 +1077,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,1,190,Tan Cheng Bee,BN,003-MCA,MCA,3,BN,14285
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,2,2579,Oh Teck Aun,DAP,021-DAP,DAP,0,ALONE,5098
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,3,2580,Michael Tan Kok Haw,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1479
-1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,4,1791,Mustapha Bin Hussin,KITA,070-KITA,KITA,0,ALONE,1235
+1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,4,1791,Mustapha Bin Hussin,KITA,031-KITA,KITA,0,ALONE,1235
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,5,2581,Ong Cheng Piaw,PSRM,009-PSRM,PSRM,0,ALONE,1035
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,1,2582,Goh Cheng Teik,BN,026-GERAKAN,GERAKAN,3,BN,11271
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,2,2583,K. Ponnudurai,DAP,021-DAP,DAP,0,ALONE,5132
@@ -1111,11 +1111,11 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,GE-04,Perak,P.049 Taiping,1,2601,Leong Khee Seong,BN,026-GERAKAN,GERAKAN,3,BN,14253
 1974-08-24,GE-04,Perak,P.049 Taiping,2,2602,Loh Poh Seng,DAP,021-DAP,DAP,0,ALONE,11060
 1974-08-24,GE-04,Perak,P.049 Taiping,3,2603,Chou Chong Leng,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,999
-1974-08-24,GE-04,Perak,P.049 Taiping,4,1804,Ng Hoe Hun,KITA,070-KITA,KITA,0,ALONE,479
+1974-08-24,GE-04,Perak,P.049 Taiping,4,1804,Ng Hoe Hun,KITA,031-KITA,KITA,0,ALONE,479
 1974-08-24,GE-04,Perak,P.050 Matang,1,2604,Hashim Bin Ghazali,BN,001-UMNO,UMNO,3,BN,12543
 1974-08-24,GE-04,Perak,P.050 Matang,2,2605,Mohd. Fadlan Bin Yahaya,DAP,021-DAP,DAP,0,ALONE,4766
 1974-08-24,GE-04,Perak,P.050 Matang,3,2606,Tan Kok Kong,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,639
-1974-08-24,GE-04,Perak,P.050 Matang,4,2607,Ng Hoa Soon,KITA,070-KITA,KITA,0,ALONE,498
+1974-08-24,GE-04,Perak,P.050 Matang,4,2607,Ng Hoa Soon,KITA,031-KITA,KITA,0,ALONE,498
 1974-08-24,GE-04,Perak,P.051 Padang Rengas,1,2608,Tan Sri Abddul Aziz Yeap,BN,001-UMNO,UMNO,3,BN,0
 1974-08-24,GE-04,Perak,P.052 Kuala Kangsar,1,2609,Onn Zariah Binti Abu Bakar,BN,001-UMNO,UMNO,3,BN,9063
 1974-08-24,GE-04,Perak,P.052 Kuala Kangsar,2,2610,Kok Kean Fatt,DAP,021-DAP,DAP,0,ALONE,3826
@@ -1421,7 +1421,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,2,3451,Lee Jong Ki @ Li Jong Ki,BN,003-MCA,MCA,3,BN,9910
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,3,2896,S.D. Shaik Adam,PAS,004-PAS,PAS,0,ALONE,4757
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,4,190,Tan Cheng Bee,BEBAS,000-BEBAS,BEBAS,0,ALONE,4082
-1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,5,1791,Mustapha Bin Hussein,KITA,070-KITA,KITA,0,ALONE,350
+1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,5,1791,Mustapha Bin Hussein,KITA,031-KITA,KITA,0,ALONE,350
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,1,2582,Goh Cheng Teik,BN,026-GERAKAN,GERAKAN,3,BN,11077
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,2,3452,Khoo Soo Kheng,BEBAS,000-BEBAS,BEBAS,0,ALONE,7274
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,3,3453,Desa Bin Saat,PAS,004-PAS,PAS,0,ALONE,2230
@@ -7635,7 +7635,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Kedah,N.21 Tikam Batu,2,2752,Harun Bin Haji Chik,BEBAS,000-BEBAS,BEBAS,0,ALONE,4205
 1974-08-24,SE-04,Kedah,N.21 Tikam Batu,3,2753,Mat Hassan Bin Abdul,BEBAS,000-BEBAS,BEBAS,0,ALONE,2062
 1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,1,2754,Mohamad Muslim Bin Othman,BN,001-UMNO,UMNO,3,BN,5931
-1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,2,2755,Muniyandy S/O Ramalingam,KITA,070-KITA,KITA,0,ALONE,1236
+1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,2,2755,Muniyandy S/O Ramalingam,KITA,031-KITA,KITA,0,ALONE,1236
 1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,3,2756,Hasan Bin Mat Amin,PSRM,009-PSRM,PSRM,0,ALONE,774
 1974-08-24,SE-04,Kedah,N.23 Lunas,1,425,Soon Cheong Leong,BN,003-MCA,MCA,3,BN,0
 1974-08-24,SE-04,Kedah,N.24 Merbau Pulas,1,2757,Mustaffa Bin Kassim,BN,001-UMNO,UMNO,3,BN,4236
@@ -7699,10 +7699,10 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Kedah,N.22 Kuala Ketil,2,3627,Mat Hassan Abdul,PAS,004-PAS,PAS,0,ALONE,3179
 1978-07-08,SE-05,Kedah,N.23 Lunas,1,3628,Fang Chok Seong,BN,003-MCA,MCA,3,BN,8910
 1978-07-08,SE-05,Kedah,N.23 Lunas,2,3629,Haji Ariffin Bin Haji Kechik,PAS,004-PAS,PAS,0,ALONE,4717
-1978-07-08,SE-05,Kedah,N.23 Lunas,3,3630,Kanan S/O Kujambu,KITA,070-KITA,KITA,0,ALONE,503
+1978-07-08,SE-05,Kedah,N.23 Lunas,3,3630,Kanan S/O Kujambu,KITA,031-KITA,KITA,0,ALONE,503
 1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,1,2757,Mustaffa Bin Kassim,BN,001-UMNO,UMNO,3,BN,5084
 1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,2,153,Ustaz Khatib,PAS,004-PAS,PAS,0,ALONE,2543
-1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,3,3631,Annamalay S/O Vadappah,KITA,070-KITA,KITA,0,ALONE,232
+1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,3,3631,Annamalay S/O Vadappah,KITA,031-KITA,KITA,0,ALONE,232
 1978-07-08,SE-05,Kedah,N.25 Kulim,1,1260,Leong Man Kai,BN,003-MCA,MCA,3,BN,9180
 1978-07-08,SE-05,Kedah,N.25 Kulim,2,2558,Abdul Aziz Bin Haji Kassim,PAS,004-PAS,PAS,0,ALONE,2364
 1978-07-08,SE-05,Kedah,N.26 Serdang,1,2754,Haji Mohamed Muslim Bin Haji Othman,BN,001-UMNO,UMNO,3,BN,6758
@@ -11139,7 +11139,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Pulau Pinang,N.02 Bertam,1,679,Haji Ahmad Bin Haji Abdullah,BN,001-UMNO,UMNO,3,BN,0
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,1,2867,Md. Noor Bin Ahmad,BN,001-UMNO,UMNO,3,BN,3162
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,2,2868,Tan Ban Siang,DAP,021-DAP,DAP,0,ALONE,1569
-1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,3,2869,Haji Othman Bin Haji Yahaya,KITA,070-KITA,KITA,0,ALONE,629
+1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,3,2869,Haji Othman Bin Haji Yahaya,KITA,031-KITA,KITA,0,ALONE,629
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,4,2585,Mohideen Abd. Kader,PSRM,009-PSRM,PSRM,0,ALONE,296
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,5,2870,Fong Aik Oon,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,198
 1974-08-24,SE-04,Pulau Pinang,N.04 Bagan Ajam,1,2871,Cek Gu Ibrahim Bin Ab. Razak,BN,001-UMNO,UMNO,3,BN,4097
@@ -11154,23 +11154,23 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,2,2878,Peh Min Sin,DAP,021-DAP,DAP,0,ALONE,2885
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,3,2879,S. K. Kalan Giyam,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1474
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,4,2880,Choo Guan Teik,PSRM,009-PSRM,PSRM,0,ALONE,219
-1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,5,2881,V. Aparco A/L Veeriayah,KITA,070-KITA,KITA,0,ALONE,64
+1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,5,2881,V. Aparco A/L Veeriayah,KITA,031-KITA,KITA,0,ALONE,64
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,1,3,Haji Zabidi Bin Hjai Ali,BN,004-PAS,PAS,3,BN,3893
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,2,2882,Samsiah Bin Abbas,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,756
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,3,2883,Mat Saad Bin Ahmad,PSRM,009-PSRM,PSRM,0,ALONE,649
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,1,2085,Haji Mohamad Noor Bin Hjai Bakar,BN,001-UMNO,UMNO,3,BN,4635
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,2,2884,Abu Bakar Bin Din,DAP,021-DAP,DAP,0,ALONE,868
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,3,2578,Abu Bakar Bin Munir,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,370
-1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,4,2885,Jaffar Bin Ahmad,KITA,070-KITA,KITA,0,ALONE,247
+1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,4,2885,Jaffar Bin Ahmad,KITA,031-KITA,KITA,0,ALONE,247
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,1,2886,Abdullah Bin Mohamad @ Mahmud,BN,001-UMNO,UMNO,3,BN,3997
-1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,2,2887,Tan Tai Khim,KITA,070-KITA,KITA,0,ALONE,828
+1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,2,2887,Tan Tai Khim,KITA,031-KITA,KITA,0,ALONE,828
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,3,1345,Faharuddin Bin Ibrahim,PSRM,009-PSRM,PSRM,0,ALONE,605
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,4,2888,Ismail Helmy,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,304
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,1,1349,Harun Bin Sirat,BN,026-GERAKAN,GERAKAN,3,BN,2961
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,2,2889,Ng Chay Tet,DAP,021-DAP,DAP,0,ALONE,1299
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,3,2890,Ong Chin Siong,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1058
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,4,2891,Sim Man Le,PSRM,009-PSRM,PSRM,0,ALONE,400
-1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,5,2892,Kannan A/L Kujambu,KITA,070-KITA,KITA,0,ALONE,340
+1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,5,2892,Kannan A/L Kujambu,KITA,031-KITA,KITA,0,ALONE,340
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,1,2579,Oh Teck Aun,DAP,021-DAP,DAP,0,ALONE,4654
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,2,1347,Ooh Chooi Cheng,BN,026-GERAKAN,GERAKAN,3,BN,4327
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,2580,Ichael Tang Kok Haw,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,577
@@ -11179,7 +11179,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,6,2894,Lim Eng Leng,BEBAS,000-BEBAS,BEBAS,0,ALONE,128
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,1,2895,Lim Heng Tee,BN,026-GERAKAN,GERAKAN,3,BN,3198
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,2,2896,Shaik Adam,DAP,021-DAP,DAP,0,ALONE,2005
-1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,3,1346,Syed Haji Abdullah Bin Syed Muhamad,KITA,070-KITA,KITA,0,ALONE,440
+1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,3,1346,Syed Haji Abdullah Bin Syed Muhamad,KITA,031-KITA,KITA,0,ALONE,440
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,4,2897,Othman Bin Taib,PSRM,009-PSRM,PSRM,0,ALONE,435
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,5,2898,Mohd. Noor Bin Othman,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,322
 1974-08-24,SE-04,Pulau Pinang,N.13 Bukit Tambun,1,2899,Ng Swee Ching,DAP,021-DAP,DAP,0,ALONE,2367
@@ -11213,7 +11213,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,2,1794,Peter Dason,DAP,021-DAP,DAP,0,ALONE,4068
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,3,2919,Toolseram A/L Rajaram,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,901
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,4,2590,Lee Yong Chew @  Lee Leong Soo,PSRM,009-PSRM,PSRM,0,ALONE,858
-1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,5,2920,Ong Huck Pin,KITA,070-KITA,KITA,0,ALONE,106
+1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,5,2920,Ong Huck Pin,KITA,031-KITA,KITA,0,ALONE,106
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,6,2921,Pritam Singh Pannu,BEBAS,000-BEBAS,BEBAS,0,ALONE,70
 1974-08-24,SE-04,Pulau Pinang,N.21 Paya Terubong,1,2089,Khoo Teng Chye,BN,026-GERAKAN,GERAKAN,3,BN,4143
 1974-08-24,SE-04,Pulau Pinang,N.21 Paya Terubong,2,2922,Lim Cheng Teik,DAP,021-DAP,DAP,0,ALONE,3049
@@ -11253,7 +11253,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,1,2867,Md. Noor Bin Ahmad,BN,001-UMNO,UMNO,3,BN,2811
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,2,2868,Tan Bin Siang,DAP,021-DAP,DAP,0,ALONE,1966
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,3,3662,Haji Ishak Bin Yaakob,PAS,004-PAS,PAS,0,ALONE,1384
-1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,4,1791,Mustapha Bin Hussein,KITA,070-KITA,KITA,0,ALONE,437
+1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,4,1791,Mustapha Bin Hussein,KITA,031-KITA,KITA,0,ALONE,437
 1978-07-08,SE-05,Pulau Pinang,N.04 Bagan Ajam,1,2871,Cek Gu Ibrahim Bin Ab. Razak,BN,001-UMNO,UMNO,3,BN,5941
 1978-07-08,SE-05,Pulau Pinang,N.04 Bagan Ajam,2,3663,Ahmad Abdul Rahman,PAS,004-PAS,PAS,0,ALONE,3167
 1978-07-08,SE-05,Pulau Pinang,N.05 Bagan Jermal,1,3664,Dr Sak Cheng Lum,BN,003-MCA,MCA,3,BN,5640
@@ -11269,17 +11269,17 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Pulau Pinang,N.08 Kubang Semang,2,3667,Ismail Bin Yusoff,PAS,004-PAS,PAS,0,ALONE,3500
 1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,1,2886,Abdullah Bin Mohamad @ Mahmud,BN,001-UMNO,UMNO,3,BN,3488
 1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,2,3668,Md. Jamil Bin Hassan,PAS,004-PAS,PAS,0,ALONE,3069
-1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,3,3669,Jaafar Bin Ahmad,KITA,070-KITA,KITA,0,ALONE,390
+1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,3,3669,Jaafar Bin Ahmad,KITA,031-KITA,KITA,0,ALONE,390
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,1,3670,Liang Thau Sang,BN,026-GERAKAN,GERAKAN,3,BN,3728
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,2,2890,Ong Chin Siong,DAP,021-DAP,DAP,0,ALONE,3164
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,3,1798,Haji Musa Bin Haji Mohd. Yatim,PAS,004-PAS,PAS,0,ALONE,2319
 1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,1,3671,Seow Hun Khim,DAP,021-DAP,DAP,0,ALONE,8512
 1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,2,2579,Oh Teck Aun,BN,003-MCA,MCA,3,BN,5451
-1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,2881,V. Aparoo,KITA,070-KITA,KITA,0,ALONE,181
+1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,2881,V. Aparoo,KITA,031-KITA,KITA,0,ALONE,181
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,1,2895,Lim Heng Tee,BN,026-GERAKAN,GERAKAN,3,BN,3301
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,2,3672,Ooi Chew Fong,DAP,021-DAP,DAP,0,ALONE,2782
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,3,3673,Hussein Bin Ismail,PAS,004-PAS,PAS,0,ALONE,2318
-1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,4,3674,Gurdial Singh,KITA,070-KITA,KITA,0,ALONE,130
+1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,4,3674,Gurdial Singh,KITA,031-KITA,KITA,0,ALONE,130
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,5,2888,Ustaz Ismail Helmy,BEBAS,000-BEBAS,BEBAS,0,ALONE,100
 1978-07-08,SE-05,Pulau Pinang,N.13 Bukit Tambun,1,2899,Ng Swee Ching,BN,003-MCA,MCA,3,BN,3815
 1978-07-08,SE-05,Pulau Pinang,N.13 Bukit Tambun,2,2093,Koay Boon Seng,DAP,021-DAP,DAP,0,ALONE,2749
@@ -11355,7 +11355,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,3,4453,Raja Gopal A/L Ramaya,DAP,021-DAP,DAP,0,ALONE,4620
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,4,4454,Loong Kok Khoon,BEBAS,000-BEBAS,BEBAS,0,ALONE,2832
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,5,4455,Sathasivam S/O Swaminathen,BEBAS,000-BEBAS,BEBAS,0,ALONE,62
-1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,6,2881,V. Aparoo A/L Veeriayah,KITA,070-KITA,KITA,0,ALONE,93
+1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,6,2881,V. Aparoo A/L Veeriayah,KITA,031-KITA,KITA,0,ALONE,93
 1982-04-22,SE-06,Pulau Pinang,N.07 Sungai Dua,1,4456,Mohd. Shariff Bin Omar,BN,001-UMNO,UMNO,3,BN,5379
 1982-04-22,SE-06,Pulau Pinang,N.07 Sungai Dua,2,3,Haji Zabidi Bin Haji,PAS,004-PAS,PAS,0,ALONE,2238
 1982-04-22,SE-06,Pulau Pinang,N.08 Kubang Semang,1,4457,Md. Isa Bin Haji Ramli,BN,001-UMNO,UMNO,3,BN,6397
@@ -12558,7 +12558,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Perak,N.03 Selama,1,2940,Abd. Aziz Bin Haji Amad,BN,001-UMNO,UMNO,3,BN,4413
 1974-08-24,SE-04,Perak,N.03 Selama,2,2941,Haji Mohamad Adnan Bin Haji Mohamad Ariffin,BEBAS,000-BEBAS,BEBAS,0,ALONE,2373
 1974-08-24,SE-04,Perak,N.04 Batu Kurau,1,215,Tajudin Bin Ali,BN,001-UMNO,UMNO,3,BN,6735
-1974-08-24,SE-04,Perak,N.04 Batu Kurau,2,2942,Abd. Rahman Bin Lembut,BEBAS,070-KITA,KITA,0,ALONE,1383
+1974-08-24,SE-04,Perak,N.04 Batu Kurau,2,2942,Abd. Rahman Bin Lembut,BEBAS,031-KITA,KITA,0,ALONE,1383
 1974-08-24,SE-04,Perak,N.05 Simpang Lima,1,2119,Ismail Abd. Rauf,BN,001-UMNO,UMNO,3,BN,5975
 1974-08-24,SE-04,Perak,N.05 Simpang Lima,2,2943,Kadir Bin Haji Idris,BEBAS,000-BEBAS,BEBAS,0,ALONE,4323
 1974-08-24,SE-04,Perak,N.06 Kuala Kurau,1,2944,Zakaria Johor Ali,BN,001-UMNO,UMNO,3,BN,6932
@@ -12587,7 +12587,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,1,2956,Ahmad Bin Mansor,BN,001-UMNO,UMNO,3,BN,4755
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,2,1395,Ahmad Bin Bakar,DAP,021-DAP,DAP,0,ALONE,1407
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,3,2957,Ahmad Badawi Bin Haji Ibrahim,BEBAS,000-BEBAS,BEBAS,0,ALONE,1064
-1974-08-24,SE-04,Perak,N.14 Bukit Gantang,4,2607,Ng Hoe Soon,KITA,070-KITA,KITA,0,ALONE,441
+1974-08-24,SE-04,Perak,N.14 Bukit Gantang,4,2607,Ng Hoe Soon,KITA,031-KITA,KITA,0,ALONE,441
 1974-08-24,SE-04,Perak,N.14 Bukit Gantang,5,2958,Khairuddin Bin Mat Yit,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,258
 1974-08-24,SE-04,Perak,N.15 Lenggong,1,2959,Saidin Bin Haji Mat Piah,BN,001-UMNO,UMNO,3,BN,7436
 1974-08-24,SE-04,Perak,N.15 Lenggong,2,2960,Fong Cheng Wee,DAP,021-DAP,DAP,0,ALONE,1649

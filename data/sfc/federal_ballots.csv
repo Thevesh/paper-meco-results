@@ -1027,7 +1027,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,GE-04,Kedah,P.011 Jerai,1,Y6C2N,Sanusi Bin Junid,Sanusi bin Junid,M,Malay,31,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Kedah,P.012 Kuala Muda,1,5SF6R,Haji Mohamed Khir Bin Johari,Mohamed Khir bin Johari,M,Malay,51,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Kedah,P.013 Sungai Petani,1,1M24Y,Wan Zainab Bin M.A. Bakar,Wan Zainab binti M.A. Bakar,F,Malay,-1,BN,001-UMNO,UMNO,3,BN,22266,84.71957994064378,1,won
-1974-08-24,GE-04,Kedah,P.013 Sungai Petani,2,51R77,Osman Bin Abu Bakar,Osman bin Abu Bakar,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,4016,15.280420059356214,2,lost
+1974-08-24,GE-04,Kedah,P.013 Sungai Petani,2,51R77,Osman Bin Abu Bakar,Osman bin Abu Bakar,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,4016,15.280420059356214,2,lost
 1974-08-24,GE-04,Kedah,P.014 Padang Serai,1,8FE9G,Lim Ah Yang @ Kiam Hoon,Lim Kiam Hoon,M,Chinese,-1,BN,003-MCA,MCA,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Kedah,P.015 Kulim-Bandar Bahru,1,B8FYF,Azahari Bin Md. Taib,Azahari bin Md. Taib,M,Malay,50,BN,001-UMNO,UMNO,3,BN,13888,72.75775356244762,1,won
 1974-08-24,GE-04,Kedah,P.015 Kulim-Bandar Bahru,2,BX4BS,Abdul Aziz Bin H. Kassim,Abdul Aziz bin Kassim,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,5200,27.242246437552385,2,lost
@@ -1077,7 +1077,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,1,PVVHS,Tan Cheng Bee,Tan Cheng Bee,M,Chinese,65,BN,003-MCA,MCA,3,BN,14285,61.75427978557841,1,won
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,2,KWKVP,Oh Teck Aun,Oh Teck Aun,M,Chinese,33,DAP,021-DAP,DAP,0,ALONE,5098,22.038734220992566,2,lost
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,3,QA9XZ,Michael Tan Kok Haw,Michael Tan Kok Haw,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1479,6.393740273214594,3,lost_deposit
-1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,4,6S3P2,Mustapha Bin Hussin,Mustapha bin Hussain,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,1235,5.338924433684938,4,lost_deposit
+1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,4,6S3P2,Mustapha Bin Hussin,Mustapha bin Hussain,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,1235,5.338924433684938,4,lost_deposit
 1974-08-24,GE-04,Pulau Pinang,P.038 Bukit Mertajam,5,TR008,Ong Cheng Piaw,Ong Cheng Piaw,M,Chinese,-1,PSRM,009-PSRM,PSRM,0,ALONE,1035,4.474321286529483,5,lost_deposit
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,1,Y5P2H,Goh Cheng Teik,Goh Cheng Teik,M,Chinese,31,BN,026-GERAKAN,GERAKAN,3,BN,11271,57.628591880560386,1,won
 1974-08-24,GE-04,Pulau Pinang,P.039 Nibong Tebal,2,1KC4T,K. Ponnudurai,K. Ponnudurai,M,Indian,-1,DAP,021-DAP,DAP,0,ALONE,5132,26.23990183045301,2,lost
@@ -1111,11 +1111,11 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,GE-04,Perak,P.049 Taiping,1,Z9SDW,Leong Khee Seong,Leong Khee Seong,M,Chinese,35,BN,026-GERAKAN,GERAKAN,3,BN,14253,53.2007017281923,1,won
 1974-08-24,GE-04,Perak,P.049 Taiping,2,2QFG5,Loh Poh Seng,Loh Poh Seng,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,11060,41.28252024933746,2,lost
 1974-08-24,GE-04,Perak,P.049 Taiping,3,655JE,Chou Chong Leng,Chou Chong Leng,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,999,3.728864170803628,3,lost_deposit
-1974-08-24,GE-04,Perak,P.049 Taiping,4,KB2KQ,Ng Hoe Hun,Ng Hoe Hun,M,Chinese,40,KITA,070-KITA,KITA,0,ALONE,479,1.7879138516666047,4,lost_deposit
+1974-08-24,GE-04,Perak,P.049 Taiping,4,KB2KQ,Ng Hoe Hun,Ng Hoe Hun,M,Chinese,40,KITA,031-KITA,KITA,0,ALONE,479,1.7879138516666047,4,lost_deposit
 1974-08-24,GE-04,Perak,P.050 Matang,1,9JVMQ,Hashim Bin Ghazali,Hashim bin Ghazali,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,12543,67.99848205573024,1,won
 1974-08-24,GE-04,Perak,P.050 Matang,2,D0HQ0,Mohd. Fadlan Bin Yahaya,Mohd Fadzlan bin Yahya,M,Malay,24,DAP,021-DAP,DAP,0,ALONE,4766,25.83757996313564,2,lost
 1974-08-24,GE-04,Perak,P.050 Matang,3,GE7S9,Tan Kok Kong,Tan Kok Kong,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,639,3.464165672774585,3,lost_deposit
-1974-08-24,GE-04,Perak,P.050 Matang,4,KVXVJ,Ng Hoa Soon,Ng Hoa Soon,M,Chinese,-1,KITA,070-KITA,KITA,0,ALONE,498,2.699772308359536,4,lost_deposit
+1974-08-24,GE-04,Perak,P.050 Matang,4,KVXVJ,Ng Hoa Soon,Ng Hoa Soon,M,Chinese,-1,KITA,031-KITA,KITA,0,ALONE,498,2.699772308359536,4,lost_deposit
 1974-08-24,GE-04,Perak,P.051 Padang Rengas,1,Q9KXV,Tan Sri Abddul Aziz Yeap,Abdul Aziz bin Yeop,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,GE-04,Perak,P.052 Kuala Kangsar,1,TQA04,Onn Zariah Binti Abu Bakar,Onn Zariah binti Abu Bakar,F,Malay,46,BN,001-UMNO,UMNO,3,BN,9063,62.9112869637651,1,won
 1974-08-24,GE-04,Perak,P.052 Kuala Kangsar,2,Y502D,Kok Kean Fatt,Kok Kean Fatt,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,3826,26.558378453422186,2,lost
@@ -1421,7 +1421,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,2,0Y20Y,Lee Jong Ki @ Li Jong Ki,Lee Jong Ki,M,Chinese,41,BN,003-MCA,MCA,3,BN,9910,30.824261275272164,2,lost
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,3,JG8EV,S.D. Shaik Adam,S.D. Shaik Adam,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,4757,14.796267496111975,3,lost
 1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,4,PVVHS,Tan Cheng Bee,Tan Cheng Bee,M,Chinese,69,BEBAS,000-BEBAS,BEBAS,0,ALONE,4082,12.696734059097977,4,lost
-1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,5,6S3P2,Mustapha Bin Hussein,Mustapha bin Hussain,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,350,1.088646967340591,5,lost_deposit
+1978-07-08,GE-05,Pulau Pinang,P.038 Bukit Mertajam,5,6S3P2,Mustapha Bin Hussein,Mustapha bin Hussain,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,350,1.088646967340591,5,lost_deposit
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,1,Y5P2H,Goh Cheng Teik,Goh Cheng Teik,M,Chinese,35,BN,026-GERAKAN,GERAKAN,3,BN,11077,47.857081137129526,1,won
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,2,4BR37,Khoo Soo Kheng,Khoo Soo Kheng,M,Chinese,44,BEBAS,000-BEBAS,BEBAS,0,ALONE,7274,31.426596388144816,2,lost
 1978-07-08,GE-05,Pulau Pinang,P.039 Nibong Tebal,3,7SE5G,Desa Bin Saat,Desa bin Saat,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2230,9.634494081050722,3,lost_deposit

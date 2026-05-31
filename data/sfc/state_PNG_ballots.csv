@@ -212,7 +212,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Pulau Pinang,N.02 Bertam,1,324DA,Haji Ahmad Bin Haji Abdullah,Ahmad bin Abdullah (Kepala Batas),M,Malay,67,BN,001-UMNO,UMNO,3,BN,0,,1,won_uncontested
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,1,F38CP,Md. Noor Bin Ahmad,Mohammed Noor bin Ahmad,M,Malay,37,BN,001-UMNO,UMNO,3,BN,3162,54.014349162965495,1,won
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,2,JGYEZ,Tan Ban Siang,Tan Ban Siang,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,1569,26.80218653911855,2,lost
-1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,3,NYMH8,Haji Othman Bin Haji Yahaya,Othman bin Yahaya,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,629,10.744789887256577,3,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,3,NYMH8,Haji Othman Bin Haji Yahaya,Othman bin Yahaya,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,629,10.744789887256577,3,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,4,8ER9C,Mohideen Abd. Kader,Mohideen Abdul Kader a/l Yusoff Rawther,M,Indian,37,PSRM,009-PSRM,PSRM,0,ALONE,296,5.056371711650154,4,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.03 Tasek Gelugor,5,SCAKH,Fong Aik Oon,Fong Aik Oon,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,198,3.3823026990092244,5,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.04 Bagan Ajam,1,WT0NT,Cek Gu Ibrahim Bin Ab. Razak,Ibrahim bin Abdul Razak,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4097,59.90641906711508,1,won
@@ -227,23 +227,23 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,2,MSV5S,Peh Min Sin,Peh Min Sin,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,2885,31.578371278458846,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,3,R7H82,S. K. Kalan Giyam,S. K. Kalan Giyam,M,Indian,39,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1474,16.13397548161121,3,lost
 1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,4,VN7AB,Choo Guan Teik,Choo Guan Teik,M,Chinese,39,PSRM,009-PSRM,PSRM,0,ALONE,219,2.397110332749562,4,lost_deposit
-1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,5,Z2XCM,V. Aparco A/L Veeriayah,Aparoo a/l Veeriayah,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,64,0.7005253940455342,5,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.06 Bagan Dalam,5,Z2XCM,V. Aparco A/L Veeriayah,Aparoo a/l Veeriayah,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,64,0.7005253940455342,5,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,1,NVW76,Haji Zabidi Bin Hjai Ali,Zabidi bin Ali,M,Malay,60,BN,004-PAS,PAS,3,BN,3893,73.48055870139676,1,won
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,2,2GKEX,Samsiah Bin Abbas,Samsiah binti Abbas,F,Malay,26,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,756,14.269535673839185,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.07 Sungai Dua,3,5Y9H6,Mat Saad Bin Ahmad,Mat Saad bin Ahmad,M,Malay,-1,PSRM,009-PSRM,PSRM,0,ALONE,649,12.249905624764063,3,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,1,PHWMR,Haji Mohamad Noor Bin Hjai Bakar,Mohamad Nor bin Bakar,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4635,75.73529411764706,1,won
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,2,9BZKF,Abu Bakar Bin Din,Abu Bakar bin Din,M,Malay,25,DAP,021-DAP,DAP,0,ALONE,868,14.183006535947712,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,3,GEXSD,Abu Bakar Bin Munir,Abu Bakar bin Munir,M,Malay,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,370,6.045751633986928,3,lost_deposit
-1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,4,CSNNR,Jaffar Bin Ahmad,Jaafar bin Ahmad,M,Malay,46,KITA,070-KITA,KITA,0,ALONE,247,4.0359477124183005,4,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.08 Kubang Semang,4,CSNNR,Jaffar Bin Ahmad,Jaafar bin Ahmad,M,Malay,46,KITA,031-KITA,KITA,0,ALONE,247,4.0359477124183005,4,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,1,G7BR1,Abdullah Bin Mohamad @ Mahmud,Abdullah bin Mohamad @ Mahmud,M,Malay,47,BN,001-UMNO,UMNO,3,BN,3997,69.7070108126962,1,won
-1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,2,KN1TA,Tan Tai Khim,Tan Tai Khim,M,Chinese,-1,KITA,070-KITA,KITA,0,ALONE,828,14.440181374258806,2,lost
+1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,2,KN1TA,Tan Tai Khim,Tan Tai Khim,M,Chinese,-1,KITA,031-KITA,KITA,0,ALONE,828,14.440181374258806,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,3,DZFWM,Faharuddin Bin Ibrahim,Paharuddin bin Ibrahim,M,Malay,-1,PSRM,009-PSRM,PSRM,0,ALONE,605,10.55109870945239,3,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.09 Penanti,4,Q2QWK,Ismail Helmy,Ismail bin Helmy,M,Malay,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,304,5.301709103592605,4,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,1,VP85R,Harun Bin Sirat,Harun bin Sirat,M,Malay,-1,BN,026-GERAKAN,GERAKAN,3,BN,2961,48.87751733245295,1,won
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,2,TGDYW,Ng Chay Tet,Ng Chay Tet,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,1299,21.442720369758998,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,3,XY415,Ong Chin Siong,Ong Chin Siong,M,Chinese,38,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,1058,17.46450973918785,3,lost
 1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,4,1BT3E,Sim Man Le,Sim Man Lee,M,Chinese,37,PSRM,009-PSRM,PSRM,0,ALONE,400,6.602839220864971,4,lost_deposit
-1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,5,4SG5Q,Kannan A/L Kujambu,Kannan a/l Kujambu,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,340,5.612413337735226,5,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.10 Bukit Tengah,5,4SG5Q,Kannan A/L Kujambu,Kannan a/l Kujambu,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,340,5.612413337735226,5,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,1,KWKVP,Oh Teck Aun,Oh Teck Aun,M,Chinese,33,DAP,021-DAP,DAP,0,ALONE,4654,45.24156702634393,1,won
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,2,MTW16,Ooh Chooi Cheng,Ooh Chooi Cheng,M,Chinese,55,BN,026-GERAKAN,GERAKAN,3,BN,4327,42.06279770584233,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,QA9XZ,Ichael Tang Kok Haw,Michael Tan Kok Haw,M,Chinese,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,577,5.609021094585399,3,lost_deposit
@@ -252,7 +252,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Pulau Pinang,N.11 Pekan Bukit Mertajam,6,BMWA9,Lim Eng Leng,Lim Eng Leng,M,Chinese,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,128,1.244288908330903,6,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,1,F2JCJ,Lim Heng Tee,Lim Heng Tee,M,Chinese,34,BN,026-GERAKAN,GERAKAN,3,BN,3198,49.96875,1,won
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,2,JG8EV,Shaik Adam,S.D. Shaik Adam,M,Malay,-1,DAP,021-DAP,DAP,0,ALONE,2005,31.328125,2,lost
-1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,3,HD5YX,Syed Haji Abdullah Bin Syed Muhamad,Syed Abdullah bin Syed Muhamed,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,440,6.875000000000001,3,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,3,HD5YX,Syed Haji Abdullah Bin Syed Muhamad,Syed Abdullah bin Syed Muhamed,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,440,6.875000000000001,3,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,4,NXYH4,Othman Bin Taib,Othman bin Taib,M,Malay,-1,PSRM,009-PSRM,PSRM,0,ALONE,435,6.796874999999999,4,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.12 Machang Bubok,5,SBMKD,Mohd. Noor Bin Othman,Mohd. Noor bin Othman,M,Malay,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,322,5.03125,5,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.13 Bukit Tambun,1,WSANP,Ng Swee Ching,Ng Swee Ching,F,Chinese,49,DAP,021-DAP,DAP,0,ALONE,2367,42.72563176895307,1,won
@@ -286,7 +286,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,2,H25WX,Peter Dason,Peter Dason a/l Muthu Jaha Dason (Peter Paul Dason),M,Indian,40,DAP,021-DAP,DAP,0,ALONE,4068,36.728060671722645,2,lost
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,3,1B43A,Toolseram A/L Rajaram,Toolseram a/l Rajaram,M,Indian,-1,PEKEMAS,028-PEKEMAS,PEKEMAS,0,ALONE,901,8.134705669916938,3,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,4,SK6MS,Lee Yong Chew @  Lee Leong Soo,Lee Yong Chew,M,Chinese,35,PSRM,009-PSRM,PSRM,0,ALONE,858,7.746478873239436,4,lost_deposit
-1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,5,4RT5K,Ong Huck Pin,Ong Huck Pin,M,Chinese,-1,KITA,070-KITA,KITA,0,ALONE,106,0.9570241964608163,5,lost_deposit
+1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,5,4RT5K,Ong Huck Pin,Ong Huck Pin,M,Chinese,-1,KITA,031-KITA,KITA,0,ALONE,106,0.9570241964608163,5,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.20 Ayer Itam,6,86G7W,Pritam Singh Pannu,Pritam Singh Pannu,M,Other,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,70,0.6319971108703504,6,lost_deposit
 1974-08-24,SE-04,Pulau Pinang,N.21 Paya Terubong,1,48MXW,Khoo Teng Chye,Khoo Teng Chye,M,Chinese,45,BN,026-GERAKAN,GERAKAN,3,BN,4143,41.24440019910403,1,won
 1974-08-24,SE-04,Pulau Pinang,N.21 Paya Terubong,2,BM6A5,Lim Cheng Teik,Lim Cheng Teik,M,Chinese,37,DAP,021-DAP,DAP,0,ALONE,3049,30.353409656545544,2,lost
@@ -326,7 +326,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,1,F38CP,Md. Noor Bin Ahmad,Mohammed Noor bin Ahmad,M,Malay,41,BN,001-UMNO,UMNO,3,BN,2811,42.60381933919369,1,won
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,2,JGYEZ,Tan Bin Siang,Tan Ban Siang,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,1966,29.796908153986056,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,3,M6K29,Haji Ishak Bin Yaakob,Ishak bin Yaakob,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,1384,20.97605334949985,3,lost
-1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,4,6S3P2,Mustapha Bin Hussein,Mustapha bin Hussain,M,Malay,-1,KITA,070-KITA,KITA,0,ALONE,437,6.623219157320401,4,lost_deposit
+1978-07-08,SE-05,Pulau Pinang,N.03 Tasek Gelugor,4,6S3P2,Mustapha Bin Hussein,Mustapha bin Hussain,M,Malay,-1,KITA,031-KITA,KITA,0,ALONE,437,6.623219157320401,4,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.04 Bagan Ajam,1,WT0NT,Cek Gu Ibrahim Bin Ab. Razak,Ibrahim bin Abdul Razak,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,5941,65.22837066315327,1,won
 1978-07-08,SE-05,Pulau Pinang,N.04 Bagan Ajam,2,QM94J,Ahmad Abdul Rahman,Ahmad bin Abdul Rahman,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3167,34.77162933684673,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.05 Bagan Jermal,1,V1Z6V,Dr Sak Cheng Lum,Sak Cheng Lum,M,Chinese,34,BN,003-MCA,MCA,3,BN,5640,40.813372892394526,1,won
@@ -342,17 +342,17 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Pulau Pinang,N.08 Kubang Semang,2,5B1DP,Ismail Bin Yusoff,Ismail bin Yusoff,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3500,45.38381742738589,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,1,G7BR1,Abdullah Bin Mohamad @ Mahmud,Abdullah bin Mohamad @ Mahmud,M,Malay,51,BN,001-UMNO,UMNO,3,BN,3488,50.208723189866134,1,won
 1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,2,8RQFZ,Md. Jamil Bin Hassan,Md. Jamil bin Hassan,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3069,44.17734273787246,2,lost
-1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,3,C6DJ8,Jaafar Bin Ahmad,Jaafar bin Ahmad,M,Malay,50,KITA,070-KITA,KITA,0,ALONE,390,5.613934072261408,3,lost_deposit
+1978-07-08,SE-05,Pulau Pinang,N.09 Penanti,3,C6DJ8,Jaafar Bin Ahmad,Jaafar bin Ahmad,M,Malay,50,KITA,031-KITA,KITA,0,ALONE,390,5.613934072261408,3,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,1,FM3MH,Liang Thau Sang,Liang Thau Sang,M,Chinese,38,BN,026-GERAKAN,GERAKAN,3,BN,3728,40.473347085007056,1,won
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,2,XY415,Ong Chin Siong,Ong Chin Siong,M,Chinese,42,DAP,021-DAP,DAP,0,ALONE,3164,34.35023341656715,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.10 Bukit Tengah,3,YRY61,Haji Musa Bin Haji Mohd. Yatim,Musa bin Mohd Yatim,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2319,25.176419498425794,3,lost
 1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,1,K1SPT,Seow Hun Khim,Seow Hun Khim,M,Chinese,41,DAP,021-DAP,DAP,0,ALONE,8512,60.18099547511312,1,won
 1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,2,KWKVP,Oh Teck Aun,Oh Teck Aun,M,Chinese,37,BN,003-MCA,MCA,3,BN,5451,38.53930995475113,2,lost
-1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,Z2XCM,V. Aparoo,Aparoo a/l Veeriayah,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,181,1.2796945701357465,3,lost_deposit
+1978-07-08,SE-05,Pulau Pinang,N.11 Pekan Bukit Mertajam,3,Z2XCM,V. Aparoo,Aparoo a/l Veeriayah,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,181,1.2796945701357465,3,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,1,F2JCJ,Lim Heng Tee,Lim Heng Tee,M,Chinese,38,BN,026-GERAKAN,GERAKAN,3,BN,3301,38.24585795388715,1,won
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,2,PFFS3,Ooi Chew Fong,Ooi Chew Fong,M,Chinese,-1,DAP,021-DAP,DAP,0,ALONE,2782,32.23264975089792,2,lost
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,3,SX5VC,Hussein Bin Ismail,Hussein bin Ismail,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2318,26.85667941142394,3,lost
-1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,4,XAVXN,Gurdial Singh,Gurdial Singh,M,Other,54,KITA,070-KITA,KITA,0,ALONE,130,1.5061985864905572,4,lost_deposit
+1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,4,XAVXN,Gurdial Singh,Gurdial Singh,M,Other,54,KITA,031-KITA,KITA,0,ALONE,130,1.5061985864905572,4,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.12 Machang Bubok,5,Q2QWK,Ustaz Ismail Helmy,Ismail bin Helmy,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,100,1.1586142973004288,5,lost_deposit
 1978-07-08,SE-05,Pulau Pinang,N.13 Bukit Tambun,1,WSANP,Ng Swee Ching,Ng Swee Ching,F,Chinese,53,BN,003-MCA,MCA,3,BN,3815,58.12004875076173,1,won
 1978-07-08,SE-05,Pulau Pinang,N.13 Bukit Tambun,2,HZD70,Koay Boon Seng,Koay Boon Seng,M,Chinese,39,DAP,021-DAP,DAP,0,ALONE,2749,41.87995124923827,2,lost
@@ -428,7 +428,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,3,BK5ER,Raja Gopal A/L Ramaya,Raja Gopal a/l Ramaya,M,Indian,-1,DAP,021-DAP,DAP,0,ALONE,4620,30.380745709212864,2,lost
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,4,F0VH1,Loong Kok Khoon,Loong Kok Khoon,M,Chinese,33,BEBAS,000-BEBAS,BEBAS,0,ALONE,2832,18.623002564608406,3,lost
 1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,5,JEHKA,Sathasivam S/O Swaminathen,Sathasivam S/O Swaminathen,M,Indian,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,62,0.4077069770500427,6,lost_deposit
-1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,6,Z2XCM,V. Aparoo A/L Veeriayah,Aparoo a/l Veeriayah,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,93,0.6115604655750642,5,lost_deposit
+1982-04-22,SE-06,Pulau Pinang,N.06 Bagan Dalam,6,Z2XCM,V. Aparoo A/L Veeriayah,Aparoo a/l Veeriayah,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,93,0.6115604655750642,5,lost_deposit
 1982-04-22,SE-06,Pulau Pinang,N.07 Sungai Dua,1,NW7NK,Mohd. Shariff Bin Omar,Mohd Shariff bin Omar,M,Malay,35,BN,001-UMNO,UMNO,3,BN,5379,70.61835368255218,1,won
 1982-04-22,SE-06,Pulau Pinang,N.07 Sungai Dua,2,NVW76,Haji Zabidi Bin Haji,Zabidi bin Ali,M,Malay,68,PAS,004-PAS,PAS,0,ALONE,2238,29.381646317447814,2,lost
 1982-04-22,SE-06,Pulau Pinang,N.08 Kubang Semang,1,S9XQW,Md. Isa Bin Haji Ramli,Md. Isa bin Ramli (Adnan bin Ramli),M,Malay,33,BN,001-UMNO,UMNO,3,BN,6397,69.14180717682663,1,won

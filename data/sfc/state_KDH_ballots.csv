@@ -210,7 +210,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1974-08-24,SE-04,Kedah,N.21 Tikam Batu,2,4WY6B,Harun Bin Haji Chik,Harun bin Chik,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,4205,23.336478161940175,2,lost
 1974-08-24,SE-04,Kedah,N.21 Tikam Batu,3,8AM8M,Mat Hassan Bin Abdul,Mat Hassan bin Abdul,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,0,ALONE,2062,11.443476330539985,3,lost_deposit
 1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,1,BRAAX,Mohamad Muslim Bin Othman,Mohamad Muslim bin Othman,M,Malay,37,BN,001-UMNO,UMNO,3,BN,5931,74.6883264072535,1,won
-1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,2,F60D6,Muniyandy S/O Ramalingam,Muniyandy a/l Ramalingam,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,1236,15.564790328673968,2,lost
+1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,2,F60D6,Muniyandy S/O Ramalingam,Muniyandy a/l Ramalingam,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,1236,15.564790328673968,2,lost
 1974-08-24,SE-04,Kedah,N.22 Kuala Ketil,3,JKPFF,Hasan Bin Mat Amin,Hasan bin Mat Amin,M,Malay,-1,PSRM,009-PSRM,PSRM,0,ALONE,774,9.746883264072535,3,lost_deposit
 1974-08-24,SE-04,Kedah,N.23 Lunas,1,WCY9W,Soon Cheong Leong,Soon Cheng Leong,M,Chinese,-1,BN,003-MCA,MCA,3,BN,0,,1,won_uncontested
 1974-08-24,SE-04,Kedah,N.24 Merbau Pulas,1,P1CHR,Mustaffa Bin Kassim,Mustaffa bin Kassim,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,4236,65.84797139748173,1,won
@@ -274,10 +274,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 1978-07-08,SE-05,Kedah,N.22 Kuala Ketil,2,W7EJE,Mat Hassan Abdul,Mat Hassan bin Abdul,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,3179,32.06576558402259,2,lost
 1978-07-08,SE-05,Kedah,N.23 Lunas,1,ZN4MQ,Fang Chok Seong,Fang Chok Seong,M,Chinese,-1,BN,003-MCA,MCA,3,BN,8910,63.05732484076433,1,won
 1978-07-08,SE-05,Kedah,N.23 Lunas,2,32TQ0,Haji Ariffin Bin Haji Kechik,Ariffin bin Kechik,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,4717,33.382873319179055,2,lost
-1978-07-08,SE-05,Kedah,N.23 Lunas,3,6GGS9,Kanan S/O Kujambu,Kanan a/l Kujambu,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,503,3.5598018400566174,3,lost_deposit
+1978-07-08,SE-05,Kedah,N.23 Lunas,3,6GGS9,Kanan S/O Kujambu,Kanan a/l Kujambu,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,503,3.5598018400566174,3,lost_deposit
 1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,1,P1CHR,Mustaffa Bin Kassim,Mustaffa bin Kassim,M,Malay,-1,BN,001-UMNO,UMNO,3,BN,5084,64.69016414302075,1,won
 1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,2,R1AXC,Ustaz Khatib,Khatib Shorbaini bin Hassan,M,Malay,52,PAS,004-PAS,PAS,0,ALONE,2543,32.35780633668406,2,lost
-1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,3,9Y6VJ,Annamalay S/O Vadappah,Annamalay a/l Vadappah,M,Indian,-1,KITA,070-KITA,KITA,0,ALONE,232,2.952029520295203,3,lost_deposit
+1978-07-08,SE-05,Kedah,N.24 Merbau Pulas,3,9Y6VJ,Annamalay S/O Vadappah,Annamalay a/l Vadappah,M,Indian,-1,KITA,031-KITA,KITA,0,ALONE,232,2.952029520295203,3,lost_deposit
 1978-07-08,SE-05,Kedah,N.25 Kulim,1,AKVTQ,Leong Man Kai,Leong Man Kai,M,Chinese,-1,BN,003-MCA,MCA,3,BN,9180,79.52182952182952,1,won
 1978-07-08,SE-05,Kedah,N.25 Kulim,2,BX4BS,Abdul Aziz Bin Haji Kassim,Abdul Aziz bin Kassim,M,Malay,-1,PAS,004-PAS,PAS,0,ALONE,2364,20.47817047817048,2,lost
 1978-07-08,SE-05,Kedah,N.26 Serdang,1,BRAAX,Haji Mohamed Muslim Bin Haji Othman,Mohamad Muslim bin Othman,M,Malay,41,BN,001-UMNO,UMNO,3,BN,6758,62.754201875754475,1,won
