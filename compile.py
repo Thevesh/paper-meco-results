@@ -135,21 +135,6 @@ def main():
 
     print("Validation passed!")
 
-    print("\n\n--------- Generating SFC files ----------\n")
-
-    for v in ["ballots", "stats"]:
-        df = pd.read_parquet(f"data/consol_{v}.parquet")
-        write_csv_parquet(f"data/sfc/federal_{v}", df[df.election.str.startswith("GE-")])
-        write_csv_parquet(f"data/sfc/byelection_{v}", df[df.election.str.startswith("BY-")])
-
-        for state, state_code in zip(get_states(my=0, codes=0), get_states(my=0, codes=1)):
-            if "W.P." in state:
-                continue
-            write_csv_parquet(
-                f"data/sfc/state_{state_code}_{v}",
-                df[(df.state == state) & (df.election.str.startswith("SE-"))],
-            )
-
     print("\n\n--------- ✨✨✨ DONE ✨✨✨ ----------\n")  # Not AI; I like sparkles after success
 
 
