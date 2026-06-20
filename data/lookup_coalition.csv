@@ -3,18 +3,18 @@ coalition_uid,coalition,coalition_name_en,coalition_name_bm,year_start,year_end,
 001-PERIKATAN,PERIKATAN,Alliance,Parti Perikatan,1955,1974,Founding ruling coalition; evolved into BN
 001-BN,BN,Barisan Nasional,Barisan Nasional,1974,-1,Successor to PERIKATAN; expanded coalition
 002-SF,SF,Socialist Front,Barisan Sosialis,1959,1969,Opposition coalition of LPM and Parti Rakyat; dissolved
-003-APU,APU,Angkatan Perpaduan Ummah,Angkatan Perpaduan Ummah,1990,1995,Islamist/Malay nationalist GE-8 opposition bloc
-004-GR,GR,Gagasan Rakyat,Gagasan Rakyat,1990,1995,Secular multiracial GE-8 opposition bloc
-005-BA,BA,Barisan Alternatif,Barisan Alternatif,1999,2004,First broad multiracial opposition coalition; DAP+PKR+PAS+PRM
-005-PR,PR,Pakatan Rakyat,Pakatan Rakyat,2008,2015,Successor of BA; DAP+PKR+PAS
-005-PH,PH,Pakatan Harapan,Pakatan Harapan,2015,-1,Successor of PR after PAS departed; DAP+PKR+AMANAH(+BERSATU)
-006-GS,GS,Gagasan Sejahtera,Gagasan Sejahtera,2015,2018,PAS-led GE-14 opposition bloc after PAS left PR
-007-PN,PN,Perikatan Nasional,Perikatan Nasional,2020,-1,BERSATU+PAS-led ruling/opposition coalition
-008-GTA,GTA,Gerakan Tanah Air,Gerakan Tanah Air,2022,2022,UMNO splinter bloc for GE-15 only
+003-BS,BS,Barisan Sabah,Barisan Sabah,1981,1981,Short-lived Sabah coalition for 1981 state elections only
+004-HAK,HAK,Harakah Keadilan Rakyat,Harakah Keadilan Rakyat,1986,1990,Sabah opposition coalition; 1986 and 1990 Sabah state elections
+005-APU,APU,Angkatan Perpaduan Ummah,Angkatan Perpaduan Ummah,1990,1995,Islamist/Malay nationalist GE-8 opposition bloc
+006-GR,GR,Gagasan Rakyat,Gagasan Rakyat,1990,1995,Secular multiracial GE-8 opposition bloc
+007-BA,BA,Barisan Alternatif,Barisan Alternatif,1999,2004,First broad multiracial opposition coalition; DAP+PKR+PAS+PRM
+007-PR,PR,Pakatan Rakyat,Pakatan Rakyat,2008,2015,Successor of BA; DAP+PKR+PAS
+007-PH,PH,Pakatan Harapan,Pakatan Harapan,2015,-1,Successor of PR after PAS departed; DAP+PKR+AMANAH(+BERSATU)
+008-GS,GS,Gagasan Sejahtera,Gagasan Sejahtera,2015,2018,PAS-led GE-14 opposition bloc after PAS left PR
 009-GPS,GPS,Gabungan Parti Sarawak,Gabungan Parti Sarawak,2018,-1,Sarawak ruling coalition formed after leaving BN
-010-GASAK,GASAK,Gabungan Anak Sarawak,Gabungan Anak Sarawak,2021,2021,Sarawak opposition bloc for 2021 Sarawak state election
-011-BS,BS,Barisan Sabah,Barisan Sabah,1981,1981,Short-lived Sabah coalition for 1981 state elections only
-012-HAK,HAK,Harakah Keadilan Rakyat,Harakah Keadilan Rakyat,1986,1990,Sabah opposition coalition; 1986 and 1990 Sabah state elections
-013-USA,USA,United Sabah Alliance,Gabungan Sabah Bersatu,2018,2019,Sabah ruling bloc for 2018 Sabah state election
-014-GRS,GRS,Gabungan Rakyat Sabah,Gabungan Rakyat Sabah,2020,-1,Sabah ruling bloc; BERSATU+PBS+UMNO coalition
-015-WARISAN-PLUS,WARISAN-PLUS,Warisan Plus,Warisan Plus,2020,2020,Warisan-led Sabah opposition bloc for 2020 Sabah state election
+010-USA,USA,United Sabah Alliance,Gabungan Sabah Bersatu,2018,2019,Sabah ruling bloc for 2018 Sabah state election
+011-PN,PN,Perikatan Nasional,Perikatan Nasional,2020,-1,BERSATU+PAS-led ruling/opposition coalition
+012-GRS,GRS,Gabungan Rakyat Sabah,Gabungan Rakyat Sabah,2020,-1,Sabah ruling bloc; BERSATU+PBS+UMNO coalition
+013-WARISAN-PLUS,WARISAN-PLUS,Warisan Plus,Warisan Plus,2020,2020,Warisan-led Sabah opposition bloc for 2020 Sabah state election
+014-GASAK,GASAK,Gabungan Anak Sarawak,Gabungan Anak Sarawak,2021,2021,Sarawak opposition bloc for 2021 Sarawak state election
+015-GTA,GTA,Gerakan Tanah Air,Gerakan Tanah Air,2022,2022,UMNO splinter bloc for GE-15 only
