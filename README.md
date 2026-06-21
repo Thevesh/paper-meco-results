@@ -22,7 +22,6 @@ This repository contains the full processing and validation pipeline underlying 
 | `tex/`                          | LaTeX files for manuscript generation                                    |
 | `compile.py`                    | Compile and validate the clean + standardised data                       |
 | `dataviz.py`                    | Generate summary visualisations                                          |
-| `dashboards.py`                 | Generate harmonised panels for visualisation/dashboarding                |
 | `gen_candidate_uid.py`          | Generate unique base-32 Crockford strings from running numbers           |
 | `helper.py`                     | Helper functions used across scripts                                     |
 
@@ -49,11 +48,10 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 uv sync
 ```
 
-3. Compile data and dashboards:
+3. Compile data for publication:
 ```bash
 python3 gen_candidate_uid.py
 python3 compile.py
-python3 dashboards.py
 ```
 
 ## Citation
