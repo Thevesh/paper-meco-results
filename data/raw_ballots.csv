@@ -3437,7 +3437,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1999-11-29,GE-10,Kelantan,P.032 Gua Musang,1,2057,Tengku Razaleigh B. Tengku Mohd Hamzah,BN,001-UMNO,UMNO,001-BN,BN,12825
 1999-11-29,GE-10,Kelantan,P.032 Gua Musang,2,7409,Razak Bin Abas @ Abe Jak,PAS,004-PAS,PAS,007-BA,BA,9900
 1999-11-29,GE-10,Terengganu,P.033 Besut,1,5892,Dato' Dr. Mohd Yusof Noor,BN,001-UMNO,UMNO,001-BN,BN,16109
-1999-11-29,GE-10,Terengganu,P.033 Besut,2,1087,Hassan Bin Mohamed,PAS,004-PAS,PAS,007-BA,BA,19166
+1999-11-29,GE-10,Terengganu,P.033 Besut,2,14606,Hassan Bin Mohamed,PAS,004-PAS,PAS,007-BA,BA,19166
 1999-11-29,GE-10,Terengganu,P.033 Besut,3,7410,Wan Ahmad Bin Wan Omar,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,175
 1999-11-29,GE-10,Terengganu,P.034 Setiu,1,7411,Che Ghani Bin Che Ambak,PAS,004-PAS,PAS,007-BA,BA,18477
 1999-11-29,GE-10,Terengganu,P.034 Setiu,2,2824,Tengku Mahmud Bin Mansor,BN,001-UMNO,UMNO,001-BN,BN,15457
@@ -9018,7 +9018,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1986-08-02,SE-07,Kelantan,N.13 Gual Periok,2,5302,Abdul Rahman Bin Awang,BN,001-UMNO,UMNO,001-BN,BN,4578
 1986-08-02,SE-07,Kelantan,N.14 Bukit Tuku,1,4396,Zakaria Bin Botok,BN,001-UMNO,UMNO,001-BN,BN,4218
 1986-08-02,SE-07,Kelantan,N.14 Bukit Tuku,2,4398,Abdul Fatah Bin Haji Haron,PAS,004-PAS,PAS,004-HAK,HAK,3846
-1986-08-02,SE-07,Kelantan,N.15 Chetok,1,1087,Hassan Bin Haji Mohamed,BN,001-UMNO,UMNO,001-BN,BN,4329
+1986-08-02,SE-07,Kelantan,N.15 Chetok,1,1087,Hassan Bin Haji Mohamed,BN,048-HAMIM,HAMIM,001-BN,BN,4329
 1986-08-02,SE-07,Kelantan,N.15 Chetok,2,5303,Mustapha Bin Taib,PAS,004-PAS,PAS,004-HAK,HAK,3818
 1986-08-02,SE-07,Kelantan,N.16 Salor,1,5304,Ibrahim Bin Isa,PAS,004-PAS,PAS,004-HAK,HAK,3939
 1986-08-02,SE-07,Kelantan,N.16 Salor,2,5305,Siti Jeliha @ Zaleha Binti Hussin,BN,001-UMNO,UMNO,001-BN,BN,4872
@@ -11598,7 +11598,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1995-04-24,SE-09,Pulau Pinang,N.18 Sungai Acheh,1,6906,Abd Rashid Bin Abdullah,BN,001-UMNO,UMNO,001-BN,BN,6787
 1995-04-24,SE-09,Pulau Pinang,N.18 Sungai Acheh,2,6907,Khairul Annuar Bin Ahmad,DAP,021-DAP,DAP,006-GR,GR,2438
 1995-04-24,SE-09,Pulau Pinang,N.19 Tanjong Bunga,1,1854,Lim Kit Siang,DAP,021-DAP,DAP,006-GR,GR,5384
-1995-04-24,SE-09,Pulau Pinang,N.19 Tanjong Bunga,2,4202,Koh Tsu Koon,DAP,021-DAP,DAP,006-GR,GR,13087
+1995-04-24,SE-09,Pulau Pinang,N.19 Tanjong Bunga,2,4202,Koh Tsu Koon,BN,026-GERAKAN,GERAKAN,001-BN,BN,13087
 1995-04-24,SE-09,Pulau Pinang,N.20 Air Itam,1,6908,Lye Siew Weng,BN,003-MCA,MCA,001-BN,BN,10057
 1995-04-24,SE-09,Pulau Pinang,N.20 Air Itam,2,5390,Ong Hock Aun,DAP,021-DAP,DAP,006-GR,GR,7322
 1995-04-24,SE-09,Pulau Pinang,N.21 Kebun Bunga,1,5386,Tan Hock Nan,BN,026-GERAKAN,GERAKAN,001-BN,BN,10089
