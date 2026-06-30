@@ -24,7 +24,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.08 Bukit Pasir,3,12790,Fazli Salleh,Mohamad Fazli Bin Mohamad Salleh,BN,001-UMNO,UMNO,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.09 Gambir,1,12794,Sahrihan Bin Jani,Sahrihan Bin Jani,BN,001-UMNO,UMNO,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.09 Gambir,2,14624,Hj Mohd Nor Mohd Yusof,Mohd Nor Bin Mohd Yusof,PH,078-PKR,PKR,007-PH,PH,0
-2026-07-11,SE-16,Johor,N.09 Gambir,3,12793,Suraya Sulaiman,Suraya Binti Sulaiman,PN,PEJUANG,,011-PN,PN,0
+2026-07-11,SE-16,Johor,N.09 Gambir,3,12793,Suraya Sulaiman,Suraya Binti Sulaiman,PN,PEJUANG,119-PEJUANG,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.10 Tangkak,1,14625,Haw Chin Teck,Haw Chin Teck,BN,003-MCA,MCA,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.10 Tangkak,2,10500,Ee Chin Li,Ee Chin Li,PH,021-DAP,DAP,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.11 Serom,1,14626,Iqa Rahim,Nadhirah Afiqah Binti Abdull Rahim,BN,001-UMNO,UMNO,001-BN,BN,0
@@ -34,16 +34,16 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.12 Bentayan,2,14629,Chua Lee Huat,Chua Lee Huat,BN,003-MCA,MCA,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.13 Simpang Jeram,1,13985,Ir. Ts. Haji Nazri,Nazri Bin Abdul Rahman,PH,046-AMANAH,AMANAH,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.13 Simpang Jeram,2,14630,Azman Bin Ismail,Azman Bin Ismail,BN,001-UMNO,UMNO,001-BN,BN,0
-2026-07-11,SE-16,Johor,N.13 Simpang Jeram,3,14631,Anie Haziqah Shafii,Nurainie Haziqah Binti Shafii,MUDA,MUDA,,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.13 Simpang Jeram,3,14631,Anie Haziqah Shafii,Nurainie Haziqah Binti Shafii,MUDA,MUDA,120-MUDA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.13 Simpang Jeram,4,14632,Awang,Arshed Bin Yahya,PN,004-PAS,PAS,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.14 Bukit Naning,1,11923,Jeghanaathan,Jeganathan A/L Subramaniam,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.14 Bukit Naning,2,10509,Md Ysahrudin,Md Ysahrudin Bin Kusni,PH,078-PKR,PKR,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.14 Bukit Naning,3,14633,Mohd Ghazali Bin Sabari,Mohd Ghazali Bin Sabari @ Atan,BN,001-UMNO,UMNO,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.14 Bukit Naning,4,14634,Iskandar Md Alias,Iskandar Bin Md Alias,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
-2026-07-11,SE-16,Johor,N.14 Bukit Naning,5,14635,Mohd Radzi Bin Amin,Mohd Radzi Bin Amin,PN,107-BERSATU,BERSATU,011-PN,PN,0
+2026-07-11,SE-16,Johor,N.14 Bukit Naning,5,11920,Mohd Radzi Bin Amin,Mohd Radzi Bin Amin,PN,107-BERSATU,BERSATU,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.15 Maharani,1,14636,Anuar Hayan,Mohamad Anuar Bin Hayan,PN,004-PAS,PAS,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.15 Maharani,2,11924,Dato' Ashari,Ashari Bin Md.Sarip,BN,001-UMNO,UMNO,001-BN,BN,0
-2026-07-11,SE-16,Johor,N.15 Maharani,3,14637,Amir Jack,Muhammad Amir Fiqri Bin Mustapha,MUDA,MUDA,,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.15 Maharani,3,14637,Amir Jack,Muhammad Amir Fiqri Bin Mustapha,MUDA,MUDA,120-MUDA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.15 Maharani,4,11989,Taqiuddin Cheman,Muhammad Taqiuddin Bin Cheman,PH,046-AMANAH,AMANAH,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.16 Sungai Balang,1,12814,Cikgu Selamat Takim,Selamat Bin Takim,BN,001-UMNO,UMNO,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.16 Sungai Balang,2,14638,Amin Sailan,Muhammad Amin Bin Sailan @ Sazali,PN,004-PAS,PAS,011-PN,PN,0
@@ -88,7 +88,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.30 Paloh,4,14657,D.S. Jeevan,Jeevakumar A/L Dayalan,PN,113-MIPP,MIPP,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.31 Kahang,1,14658,V.Rugendran,Rugendran A/L Vellayan,BN,002-MIC,MIC,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.31 Kahang,2,14659,Imam Sabri,Mohd Sabri Bin Abd Kadir,PH,046-AMANAH,AMANAH,007-PH,PH,0
-2026-07-11,SE-16,Johor,N.31 Kahang,3,14660,Hj Mazlan B. Bujang,Mazlan Bin Bujang,PN,004-PAS,PAS,011-PN,PN,0
+2026-07-11,SE-16,Johor,N.31 Kahang,3,11967,Hj Mazlan B. Bujang,Mazlan Bin Bujang,PN,004-PAS,PAS,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.32 Endau,1,14661,Ustaz Hakimi,Hasnul Hakimi Bin Hussien,PN,004-PAS,PAS,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.32 Endau,2,14662,Jati Bin Awang,Jati Bin Awang,ASLI,125-ASLI,ASLI,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.32 Endau,3,14663,Saiful Nizam Bin Samat,Saiful Nizam Bin Samat,PH,078-PKR,PKR,007-PH,PH,0
@@ -120,7 +120,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,1,14675,Nicholas Paul Vincent,Nicholas A/L Paul Vincent,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,2,14676,Wang Wee Siong,Wang Wee Siong,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,3,11076,Dr. Maszlee Malik,Maszlee Bin Malik,PH,078-PKR,PKR,007-PH,PH,0
-2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,4,14677,Rashifa Aljunied,Sharifah Rashifa Binti Syed Abdul Rashid Aljunied,MUDA,MUDA,,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,4,14677,Rashifa Aljunied,Sharifah Rashifa Binti Syed Abdul Rashid Aljunied,MUDA,MUDA,120-MUDA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.41 Puteri Wangsa,5,14678,Teow Chia Ling (Ms. Teow),Teow Chia Ling,BN,003-MCA,MCA,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.42 Johor Jaya,1,14679,Hp Lim,Lim Hun Peaw,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.42 Johor Jaya,2,14680,Lau Yi Leong,Lau Yi Leong,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
@@ -146,7 +146,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.48 Skudai,1,12902,Nicol @ Ah Kee,Tan Hiang Kee,BN,003-MCA,MCA,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.48 Skudai,2,14692,Kartiyaini Jeyapalan,Kartiyaini A/P Jeyapalan,PH,021-DAP,DAP,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.48 Skudai,3,14693,Eugene Chua,Eugene Chua Meng Chong,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
-2026-07-11,SE-16,Johor,N.48 Skudai,4,14694,Amir,Amir Syafiq Bin Ameer Soekre,PSM,PSM,,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.48 Skudai,4,14694,Amir,Amir Syafiq Bin Ameer Soekre,PSM,PSM,074-PSM,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.49 Kota Iskandar,1,14695,Anna Pravina,Anna Pravina A/P Segaran,PN,113-MIPP,MIPP,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.49 Kota Iskandar,2,11980,Sr. Dzulkefly Ahmad,Dzulkefly Bin Ahmad,PH,046-AMANAH,AMANAH,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.49 Kota Iskandar,3,12911,Datuk Pandak Ahmad,Pandak Bin Ahmad,BN,001-UMNO,UMNO,001-BN,BN,0
@@ -156,10 +156,10 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,name_spr,party
 2026-07-11,SE-16,Johor,N.50 Bukit Permai,3,14698,Mohamad Shafwan,Mohamad Shafwan Bin Ani,PH,021-DAP,DAP,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.50 Bukit Permai,4,14699,Lina,Lina Manoh A/P Manogaran,PN,113-MIPP,MIPP,011-PN,PN,0
 2026-07-11,SE-16,Johor,N.51 Bukit Batu,1,14700,Kumaran A/L Rama Krishnan,Kumaran A/L Rama Krishnan,BN,002-MIC,MIC,001-BN,BN,0
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,2,14701,Kamaruzaman Bin Ali,Kamaruzaman Bin Ali,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,2,9461,Kamaruzaman Bin Ali,Kamaruzaman Bin Ali,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.51 Bukit Batu,3,14702,Tamili.G,Tamili A/P Gopalakrishnan,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.51 Bukit Batu,4,12918,Arthur Chiong Sen Sern,Chiong Sen Sern,PH,078-PKR,PKR,007-PH,PH,0
-2026-07-11,SE-16,Johor,N.51 Bukit Batu,5,14703,Premanand,Premanand A/L Maniam @ Supramaniam,MUDA,MUDA,,000-ALONE,ALONE,0
+2026-07-11,SE-16,Johor,N.51 Bukit Batu,5,14703,Premanand,Premanand A/L Maniam @ Supramaniam,MUDA,MUDA,120-MUDA,000-ALONE,ALONE,0
 2026-07-11,SE-16,Johor,N.52 Senai,1,14704,Kiki Tai,Tai Chee Chee,BN,003-MCA,MCA,001-BN,BN,0
 2026-07-11,SE-16,Johor,N.52 Senai,2,12922,Wong Bor Yang,Wong Bor Yang,PH,021-DAP,DAP,007-PH,PH,0
 2026-07-11,SE-16,Johor,N.52 Senai,3,14705,Dr. Tew Chian How,Tew Chian How,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0
