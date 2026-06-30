@@ -47,7 +47,15 @@ def main():
 
     print("\n\n--------- Generating lookup parquets ----------\n")
 
-    for v in ["candidate", "party", "coalition", "coalition_succession", "party_succession", "dates", "prk"]:
+    for v in [
+        "candidate",
+        "party",
+        "coalition",
+        "coalition_succession",
+        "party_succession",
+        "dates",
+        "prk",
+    ]:
         cf = pd.read_csv(f"data/lookup_{v}.csv")
         for c in cf.columns:
             if c in ["date"]:
@@ -83,6 +91,7 @@ def main():
     df.loc[df["votes_perc"] < 12.5, "result"] = "lost_deposit"
     df.loc[df["rank"] == 1, "result"] = "won"
     df.loc[df["n_candidates"] == 1, "result"] = "won_uncontested"
+    df.loc[(df.state == "Johor") & (df.election == "SE-16"), "result"] = "pending"
 
     cand = pd.read_parquet("data/lookup_candidate.parquet").drop("candidate_rn", axis=1)
     df = pd.merge(df, cand, on="candidate_uid", how="left").rename(columns={"dob": "age"})
