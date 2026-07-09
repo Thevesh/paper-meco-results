@@ -2643,7 +2643,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1990-10-20,GE-08,Perak,P.049 Gerik,2,5902,Roslan Mohd Latif,S46,062-S46,S46,005-APU,APU,8565
 1990-10-20,GE-08,Perak,P.050 Larut,1,5080,Haji Mohd Zihin Bin Haji Mohd Hassan,BN,001-UMNO,UMNO,001-BN,BN,17162
 1990-10-20,GE-08,Perak,P.050 Larut,2,3718,Cikgu Ahmad Nawi,S46,062-S46,S46,005-APU,APU,6171
-1990-10-20,GE-08,Perak,P.051 Parit Buntar,1,4204,Dato' Haji Abdul Rahman Sulaiman,BN,001-UMNO,UMNO,001-BN,BN,14113
+1990-10-20,GE-08,Perak,P.051 Parit Buntar,1,14030,Dato' Haji Abdul Rahman Sulaiman,BN,001-UMNO,UMNO,001-BN,BN,14113
 1990-10-20,GE-08,Perak,P.051 Parit Buntar,2,1396,Haji Jaafar Ali,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,689
 1990-10-20,GE-08,Perak,P.051 Parit Buntar,3,2145,Idris Abdul Rauf,S46,062-S46,S46,005-APU,APU,13374
 1990-10-20,GE-08,Perak,P.052 Bagan Serai,1,5903,Dato' Haji Qamaruzzaman Bin Hj. Ismail,BN,001-UMNO,UMNO,001-BN,BN,14824
@@ -3054,7 +3054,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1995-04-24,GE-09,Perak,P.052 Gerik,1,3460,Mohamad Tajol Rosli Bin Mohd Ghazali,BN,001-UMNO,UMNO,001-BN,BN,17170
 1995-04-24,GE-09,Perak,P.052 Gerik,2,5902,Roslan Bin Mohd Latif,S46,062-S46,S46,005-APU,APU,6712
 1995-04-24,GE-09,Perak,P.053 Larut,1,5080,Mohd Zihim Bin Mohd Hassan,BN,001-UMNO,UMNO,001-BN,BN,0
-1995-04-24,GE-09,Perak,P.054 Parit Buntar,1,4204,Abdul Rahman Bin Haji Sulaiman,BN,001-UMNO,UMNO,001-BN,BN,17180
+1995-04-24,GE-09,Perak,P.054 Parit Buntar,1,14030,Abdul Rahman Bin Haji Sulaiman,BN,001-UMNO,UMNO,001-BN,BN,17180
 1995-04-24,GE-09,Perak,P.054 Parit Buntar,2,2145,Idris Bin Abdul Rauf,S46,062-S46,S46,005-APU,APU,11731
 1995-04-24,GE-09,Perak,P.055 Bagan Serai,1,3715,Zainal Abidin Bin Zin,S46,062-S46,S46,005-APU,APU,10184
 1995-04-24,GE-09,Perak,P.055 Bagan Serai,2,5903,Qamaruz Zaman Bin Haji Ismail,BN,001-UMNO,UMNO,001-BN,BN,16434
@@ -11331,7 +11331,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 1978-07-08,SE-05,Pulau Pinang,N.26 Sungei Pinang,3,3699,N. Patkunam,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,2349
 1978-07-08,SE-05,Pulau Pinang,N.26 Sungei Pinang,4,3700,Tan Chong Hooi,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,777
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,1,2551,Karpal Singh,DAP,021-DAP,DAP,000-ALONE,ALONE,7776
-1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,2,2100,Tan Gim Hwa,BN,003-MCA,MCA,001-BN,BN,7202
+1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,2,2100,Tan Gim Hwa,BN,026-GERAKAN,GERAKAN,001-BN,BN,7202
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,3,2088,Yeap Gim Guan,SDP,044-SDP,SDP,000-ALONE,ALONE,946
 1978-07-08,SE-05,Pulau Pinang,N.27 Bukit Gelugor,4,3701,A.R. Karim,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,848
 1982-04-22,SE-06,Pulau Pinang,N.01 Penaga,1,3660,Ismail Bin Hamid,PAS,004-PAS,PAS,000-ALONE,ALONE,2544
@@ -19948,7 +19948,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Johor,N.50 Bukit Permai,1,9461,Kamaruzaman Bin Ali,BN,001-UMNO,UMNO,001-BN,BN,8385
 2008-03-08,SE-12,Johor,N.50 Bukit Permai,2,9462,Mohd Badzihar Bin Mohd Basri,PAS,004-PAS,PAS,007-PR,PR,3193
 2008-03-08,SE-12,Johor,N.51 Bukit Batu,1,8702,Liew Shin Kheong,PKR,078-PKR,PKR,007-PR,PR,6464
-2008-03-08,SE-12,Johor,N.51 Bukit Batu,2,8703,Cheong Chin Liang,BN,003-MCA,MCA,001-BN,BN,8805
+2008-03-08,SE-12,Johor,N.51 Bukit Batu,2,8703,Cheong Chin Liang,BN,026-GERAKAN,GERAKAN,001-BN,BN,8805
 2008-03-08,SE-12,Johor,N.52 Senai,1,8194,Ong Kow Meng,DAP,021-DAP,DAP,007-PR,PR,14612
 2008-03-08,SE-12,Johor,N.52 Senai,2,8704,Chun Yoon Fook,BN,003-MCA,MCA,001-BN,BN,10582
 2008-03-08,SE-12,Johor,N.53 Benut,1,8195,Datuk Hasni Bin Mohammad,BN,001-UMNO,UMNO,001-BN,BN,10098
@@ -26749,7 +26749,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,2,10720,Mohamed Nabi,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,799
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,3,10721,Ramkarpal Singh,DAP,021-DAP,DAP,007-PR,PR,41242
 2014-05-25,BY-ELECTION,Pulau Pinang,P.051 Bukit Gelugor,4,10722,Abu Backer Sidek,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,225
-2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,1,6979,Mah Siew Keong,BN,003-MCA,MCA,001-BN,BN,20157
+2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,1,6979,Mah Siew Keong,BN,026-GERAKAN,GERAKAN,001-BN,BN,20157
 2014-05-31,BY-ELECTION,Perak,P.076 Telok Intan,2,10723,Dyana Sofya Binti Mohd Daud,DAP,021-DAP,DAP,007-PR,PR,19919
 2014-09-25,BY-ELECTION,Kelantan,N.01 Pengkalan Kubor,1,10052,Izat Bukhary,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,38
 2014-09-25,BY-ELECTION,Kelantan,N.01 Pengkalan Kubor,2,10724,Wan Rosdi,PAS,004-PAS,PAS,007-PR,PR,7326
