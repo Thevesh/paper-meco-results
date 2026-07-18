@@ -12,6 +12,7 @@ src-geo/*
 aws/*
 *local*
 output/*
+cards/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

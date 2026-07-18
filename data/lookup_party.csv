@@ -91,7 +91,8 @@ party_uid,party,party_name_en,party_name_bm,year_formed,year_end,notes
 078-PKR,PKR,People's Justice Party,Parti Keadilan Rakyat,2003,-1,
 080-PRS-SWK,PRS,Sarawak People's Party,Parti Rakyat Sarawak,2004,-1,Founded by James Jemut Masing and Sng Chee Chua after PBDS leadership crisis
 081-MMSP,MMSP,Malaysia Makkal Sakti Party,Parti Makkal Sakti Malaysia,2009,-1,
-082-PCM,PCM,Love Malaysia Party,Parti Cinta Malaysia,2009,-1,
+082-PCM,PCM,Love Malaysia Party,Parti Cinta Malaysia,2009,2026,No change in official registration with ROS; totally rebranded following takeover by Hamzah Zainuddin (ex-BERSATU)
+082-WAWASAN,WAWASAN,Parti Wawasan Negara,Parti Wawasan Negara,2026,-1,Rebranded from PCM following takeover by Hamzah Zainuddin (ex-BERSATU)
 087-PGRS,PGRS,Sabah People's Ideas Party,Parti Gagasan Rakyat Sabah,2013,-1,Founded by Ationg Tituh together with anti-UMNO faction of former AKAR-BERSATU albeit 12 years after the split
 088-PERPADUAN,PERPADUAN,Sabah National People's Unity Organisation,Pertubuhan Perpaduan Rakyat Kebangsaan Sabah,2013,-1,
 089-PKS,PKS,Sabah National Party,Parti Kebangsaan Sabah,2013,-1,
@@ -109,8 +110,8 @@ party_uid,party,party_name_en,party_name_bm,year_formed,year_end,notes
 103-PAP,PAP,People's Alternative Party,Parti Alternatif Rakyat,2016,-1,Founded by ex-DAP members
 104-WARISAN,WARISAN,Heritage Party,Parti Warisan Sabah,2016,-1,Founded by Shafie Apdal after being dropped from UMNO-led Cabinet
 105-PFP,PFP,Penang Front Party,Parti Barisan Pulau Pinang,2016,-1,
-106-MUP,MUP,Malaysian United Party,Parti Bersama Malaysia,2016,2026,No change in official registration with ROS; totally rebranded following takeover by Rafizi Ramli
-106-BERSAMA,BERSAMA,Malaysian United Party,Parti Bersama Malaysia,2026,-1,Rebranded from MUP following takeover by Rafizi Ramli
+106-MUP,MUP,Malaysian United Party,Parti Bersama Malaysia,2016,2026,No change in official registration with ROS; totally rebranded following takeover by Rafizi Ramli (ex-PKR)
+106-BERSAMA,BERSAMA,Malaysian United Party,Parti Bersama Malaysia,2026,-1,Rebranded from MUP following takeover by Rafizi Ramli (ex-PKR)
 107-BERSATU,BERSATU,Malaysian United Indigenous Party,Parti Pribumi Bersatu Malaysia,2016,-1,Founded by Muhyiddin Yassin and Mahathir Mohamad after former's expulsion from UMNO
 108-STAR-SBH,STAR,Homeland Solidarity Party,Parti Solidariti Tanah Airku,2016,-1,Founded by Jeffrey Kitingan after initial existence as Sabah branch of STAR-SWK
 110-PPRS,PPRS,Sabah People's Unity Party,Parti Perpaduan Rakyat Sabah,2017,-1,
