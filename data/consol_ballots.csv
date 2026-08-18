@@ -6114,10 +6114,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2022-11-19,GE-15,Kelantan,P.027 Tanah Merah,3,TRC1S,Lawyer Nasir Abdullah,Nasir bin Abdullah,M,Malay,-1,PUTRA,112-PUTRA,PUTRA,015-GTA,GTA,168,0.24108142238039204,4,lost_deposit
 2022-11-19,GE-15,Kelantan,P.027 Tanah Merah,4,7VG5W,Datuk Nik Sapeia,Nik Sapeia bin Nik Yusof,M,Malay,69,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,101,0.14493585512154522,5,lost_deposit
 2022-11-19,GE-15,Kelantan,P.027 Tanah Merah,5,0NTJJ,Dato' Sri Ikmal Hisham,Ikmal Hisham bin Abdul Aziz,M,Malay,57,PAS,107-BERSATU,BERSATU,011-PN,PN,54279,77.89082455586488,1,won
-2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,1,ZFABJ,Kapten Wan Marzudi,Wan Marzudi bin Wan Omar,M,Malay,62,PEJUANG,119-PEJUANG,PEJUANG,015-GTA,GTA,350,0.43040371868812943,4,lost_deposit
-2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,2,78YNM,Datuk Cikgu Awi,Zawawi bin Othman,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,23988,29.498641153973853,2,lost
-2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,3,3F72T,Ustaz Muhammad Husain,Muhammad bin Husain,M,Malay,71,PH,046-AMANAH,AMANAH,007-PH,PH,3873,4.762724578511787,3,lost_deposit
-2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,4,BDNQA,Ustaz Nik Zawawi,Nik Muhammad Zawawi bin Salleh,M,Malay,55,PAS,004-PAS,PAS,011-PN,PN,53108,65.30823054882623,1,won
+2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,1,ZFABJ,Kapten Wan Marzudi,Wan Marzudi bin Wan Omar,M,Malay,62,PEJUANG,119-PEJUANG,PEJUANG,015-GTA,GTA,350,0.4311672312904219,4,lost_deposit
+2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,2,78YNM,Datuk Cikgu Awi,Zawawi bin Othman,M,Malay,57,BN,001-UMNO,UMNO,001-BN,BN,23844,29.37357560825377,2,lost
+2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,3,3F72T,Ustaz Muhammad Husain,Muhammad bin Husain,M,Malay,71,PH,046-AMANAH,AMANAH,007-PH,PH,3873,4.771173390822297,3,lost_deposit
+2022-11-19,GE-15,Kelantan,P.028 Pasir Puteh,4,BDNQA,Ustaz Nik Zawawi,Nik Muhammad Zawawi bin Salleh,M,Malay,55,PAS,004-PAS,PAS,011-PN,PN,53108,65.42408376963351,1,won
 2022-11-19,GE-15,Kelantan,P.029 Machang,1,A97GP,Datuk Jazlan,Ahmad Jazlan bin Yaakub,M,Malay,58,BN,001-UMNO,UMNO,001-BN,BN,25449,39.08376078877047,2,lost
 2022-11-19,GE-15,Kelantan,P.029 Machang,2,Y6242,Mejar (B) Mat,Muhamad bin Seman,M,Malay,-1,PUTRA,112-PUTRA,PUTRA,015-GTA,GTA,128,0.196578308812237,4,lost_deposit
 2022-11-19,GE-15,Kelantan,P.029 Machang,3,1KR6B,Wan Ahmad Fayhsal,Wan Ahmad Fayhsal bin Wan Ahmad Kamal,M,Malay,35,PAS,107-BERSATU,BERSATU,011-PN,PN,35603,54.67794944251621,1,won
