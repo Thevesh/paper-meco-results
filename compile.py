@@ -29,12 +29,57 @@ Checks:
     - Compliance with V = I - U - R
     - All UIDs for candidates, parties, and coalitions are present in respective lookup files
     - All unique contests are present in seat lookup file
+    - Where a state election was held with a general election, the DUN electorates in each
+      parliamentary seat sum to its electorate (hard failure from 2008 onward)
 """
 
 import pandas as pd
 import numpy as np
 
 from helper import get_states, get_final_cols, write_csv_parquet
+
+# Electorate coherence is enforced from GE-12 (2008) onward; earlier discrepancies are logged
+ELECTORATE_HARD_FROM = pd.Timestamp("2008-01-01").date()
+
+
+def check_electorates(sf: pd.DataFrame) -> pd.DataFrame:
+    """
+    For every state election held with a general election (same polling date in the state),
+    sum the DUN electorates within each parliamentary seat, per lookup_dun_parlimen.csv, and
+    compare with that seat's general-election electorate. A seat is only checked when it and
+    all its DUNs carry an electorate; otherwise its status says why it could not be.
+    Returns one row per parliamentary seat checked or skipped.
+    """
+    lk = pd.read_csv("data/lookup_dun_parlimen.csv")
+    ge = sf[sf.election.str.startswith("GE")]
+    se = sf[sf.election.str.startswith("SE")]
+    pairs = se.merge(ge[["date", "state", "election"]].drop_duplicates(), on=["date", "state"],
+                     suffixes=("", "_ge"))[["state", "election", "election_ge"]].drop_duplicates()
+
+    paired = se.merge(pairs, on=["state", "election"]).assign(code_dun=lambda x: x.seat.str[:4])
+    unmapped = paired.merge(lk, on=["state", "election", "code_dun"], how="left").code_parlimen
+    assert unmapped.notna().all(), "DUN missing from lookup_dun_parlimen.csv!"
+
+    duns = lk.merge(pairs, on=["state", "election"]).merge(
+        se.assign(code_dun=se.seat.str[:4])[["state", "election", "code_dun", "voters_total"]],
+        on=["state", "election", "code_dun"], how="left",
+    )
+    duns["missing"] = duns.voters_total.isna() | (duns.voters_total == 0)
+    parl = duns.groupby(["state", "election", "election_ge", "code_parlimen"], as_index=False).agg(
+        n_dun=("code_dun", "size"), dun_sum=("voters_total", "sum"), dun_missing=("missing", "sum")
+    )
+    parl = parl.merge(
+        ge.assign(code_parlimen=ge.seat.str[:5])[
+            ["date", "state", "election", "code_parlimen", "voters_total"]
+        ].rename(columns={"election": "election_ge", "voters_total": "ge_voters"}),
+        on=["state", "election_ge", "code_parlimen"], how="left",
+    )
+    parl["status"] = np.select(
+        [parl.ge_voters.isna(), parl.ge_voters == 0, parl.dun_missing > 0],
+        ["no GE seat", "GE electorate missing", "DUN electorate missing"], "checked",
+    )
+    parl["diff"] = np.where(parl.status == "checked", parl.dun_sum - parl.ge_voters, np.nan)
+    return parl
 
 
 def main():
@@ -134,6 +179,18 @@ def main():
         df = df[["check"] + list(df.columns[:-1])]
         df[df.check != 0].to_csv("logs/check.csv", index=False)
         raise ValueError(f"Validation failed for {len(df[df.check != 0])} seats!")
+
+    ef = check_electorates(sf)
+    flagged = ef[(ef.status != "checked") | (ef["diff"] != 0)]
+    flagged.to_csv("logs/check_electorate.csv", index=False)
+    hard = flagged[flagged.status == "checked"]
+    hard = hard[hard.date >= ELECTORATE_HARD_FROM]
+    print(
+        f"Electorate coherence: {(ef.status == 'checked').sum():,} parliamentary seats checked; "
+        f"{len(flagged):,} flagged in logs/check_electorate.csv, {len(hard)} of them from 2008"
+    )
+    if len(hard) > 0:
+        raise ValueError(f"DUN electorates do not sum to the parliament's for {len(hard)} seats!")
 
     df = pd.read_parquet("data/consol_ballots.parquet")
     for v in ["party", "coalition", "candidate"]:

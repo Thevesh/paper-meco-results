@@ -56,11 +56,11 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1959-05-20,GE-01,Kedah,P.003 Jitra-Padang Terap,22576,17049,0,212
 1959-05-20,GE-01,Kedah,P.004 Kubang Pasu Barat,19303,14218,0,200
 1959-05-20,GE-01,Kedah,P.005 Kota Star Utara,20053,15412,0,191
-1959-05-20,GE-01,Kedah,P.006 Alor Star,22540,17375,0,144
+1959-05-20,GE-01,Kedah,P.006 Alor Star,25540,17375,0,144
 1959-05-20,GE-01,Kedah,P.007 Kuala Kedah,25946,18818,0,244
 1959-05-20,GE-01,Kedah,P.008 Kota Star Selatan,21069,16378,0,185
 1959-05-20,GE-01,Kedah,P.009 Kedah Tengah,22762,17163,0,223
-1959-05-20,GE-01,Kedah,P.010 Jerai,24280,17879,0,126
+1959-05-20,GE-01,Kedah,P.010 Jerai,24820,17879,0,126
 1959-05-20,GE-01,Kedah,P.011 Baling,23043,17376,0,132
 1959-05-20,GE-01,Kedah,P.012 Sungei Patani,20031,15029,0,170
 1959-05-20,GE-01,Kedah,P.013 Kulim Utara,19708,15124,0,310
@@ -426,7 +426,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1974-08-24,GE-04,Kelantan,P.021 Rantau Panjang,22014,15888,0,721
 1974-08-24,GE-04,Kelantan,P.022 Nilam Puri,28525,21261,0,1116
 1974-08-24,GE-04,Kelantan,P.023 Tanah Merah,20002,0,0,0
-1974-08-24,GE-04,Kelantan,P.024 Machang,26413,19156,0,796
+1974-08-24,GE-04,Kelantan,P.024 Machang,23413,19156,0,796
 1974-08-24,GE-04,Kelantan,P.025 Pasir Puteh,28084,21189,0,688
 1974-08-24,GE-04,Kelantan,P.026 Kuala Kerai,17332,13689,0,807
 1974-08-24,GE-04,Kelantan,P.027 Ulu Kelantan,17478,0,0,0
@@ -475,7 +475,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1974-08-24,GE-04,Pahang,P.070 Bentong,26220,20437,0,1108
 1974-08-24,GE-04,Pahang,P.071 Pekan,21970,0,0,0
 1974-08-24,GE-04,Pahang,P.072 Temerloh,27484,20300,0,1440
-1974-08-24,GE-04,Selangor,P.073 Sabak Bernam,23343,15888,0,1145
+1974-08-24,GE-04,Selangor,P.073 Sabak Bernam,22343,15888,0,1145
 1974-08-24,GE-04,Selangor,P.074 Tanjong Karang,24657,0,0,0
 1974-08-24,GE-04,Selangor,P.075 Ulu Selangor,26882,21680,0,1287
 1974-08-24,GE-04,Selangor,P.076 Kuala Selangor,27297,20474,0,1615
@@ -627,7 +627,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1978-07-08,GE-05,Pahang,P.068 Raub,26973,20942,0,622
 1978-07-08,GE-05,Pahang,P.069 Maran,33195,25703,0,1000
 1978-07-08,GE-05,Pahang,P.070 Bentong,33656,26349,0,1495
-1978-07-08,GE-05,Pahang,P.071 Pekan,28819,19034,0,815
+1978-07-08,GE-05,Pahang,P.071 Pekan,26819,19034,0,815
 1978-07-08,GE-05,Pahang,P.072 Temerloh,37758,28644,0,1969
 1978-07-08,GE-05,Selangor,P.073 Sabak Bernam,28163,19352,0,906
 1978-07-08,GE-05,Selangor,P.074 Tanjong Karang,31403,21667,0,971
@@ -1229,7 +1229,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1995-04-24,GE-09,Kedah,P.005 Jerlun,43877,33451,28,975
 1995-04-24,GE-09,Kedah,P.006 Kubang Pasu,44843,33196,186,1246
 1995-04-24,GE-09,Kedah,P.007 Padang Terap,27294,21297,17,811
-1995-04-24,GE-09,Kedah,P.008 Pokok Sena,83901,49494,1795,1747
+1995-04-24,GE-09,Kedah,P.008 Pokok Sena,63901,49494,1795,1747
 1995-04-24,GE-09,Kedah,P.009 Alor Setar,61685,41904,290,1393
 1995-04-24,GE-09,Kedah,P.010 Kuala Kedah,57405,42612,151,1029
 1995-04-24,GE-09,Kedah,P.011 Pendang,51451,39881,41,1129
@@ -1321,7 +1321,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 1995-04-24,GE-09,Selangor,P.097 Subang,73868,51901,1028,2142
 1995-04-24,GE-09,Selangor,P.098 Shah Alam,85202,63074,305,1552
 1995-04-24,GE-09,Selangor,P.099 Kapar,67555,49595,110,1678
-1995-04-24,GE-09,Selangor,P.100 Klang,71188,54724,92,841
+1995-04-24,GE-09,Selangor,P.100 Klang,77188,54724,92,841
 1995-04-24,GE-09,Selangor,P.101 Kuala Langat,53718,39584,167,1826
 1995-04-24,GE-09,Selangor,P.102 Sepang,52071,38182,106,1701
 1995-04-24,GE-09,W.P. Kuala Lumpur,P.103 Kepong,60111,45454,56,270
@@ -6709,7 +6709,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2018-05-09,SE-14,Selangor,N.26 Sungai Ramal,54961,48375,95,356
 2018-05-09,SE-14,Selangor,N.27 Balakong,61659,54384,226,286
 2018-05-09,SE-14,Selangor,N.28 Seri Kembangan,43611,39019,581,265
-2018-05-09,SE-14,Selangor,N.29 Seri Serdang,52826,46054,674,15
+2018-05-09,SE-14,Selangor,N.29 Seri Serdang,52826,46054,334,355
 2018-05-09,SE-14,Selangor,N.30 Kinrara,72399,63536,231,371
 2018-05-09,SE-14,Selangor,N.31 Subang Jaya,74023,63332,336,332
 2018-05-09,SE-14,Selangor,N.32 Seri Setia,52650,44457,138,411
@@ -6726,7 +6726,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2018-05-09,SE-14,Selangor,N.43 Sementa,44516,38815,99,536
 2018-05-09,SE-14,Selangor,N.44 Selat Klang,41376,34571,77,412
 2018-05-09,SE-14,Selangor,N.45 Bandar Baru Klang,58017,50687,123,540
-2018-05-09,SE-14,Selangor,N.46 Pelabuhan Klang,33089,28752,54,393
+2018-05-09,SE-14,Selangor,N.46 Pelabuhan Klang,33809,28752,54,393
 2018-05-09,SE-14,Selangor,N.47 Pandamaran,57522,49102,99,303
 2018-05-09,SE-14,Selangor,N.48 Sentosa,51444,44944,92,344
 2018-05-09,SE-14,Selangor,N.49 Sungai Kandis,50800,43585,115,305
@@ -8137,7 +8137,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Johor,N.56 Kukup,19389,16877,33,426
 2018-05-09,SE-14,Johor,N.01 Buloh Kasap,21484,17881,45,341
 2018-05-09,SE-14,Johor,N.02 Jementah,33866,28296,82,557
-2018-05-09,SE-14,Johor,N.03 Pemanis,22314,18843,8,439
+2018-05-09,SE-14,Johor,N.03 Pemanis,22314,18843,54,393
 2018-05-09,SE-14,Johor,N.04 Kemelah,23282,19687,74,296
 2018-05-09,SE-14,Johor,N.05 Tenang,18398,15270,29,227
 2018-05-09,SE-14,Johor,N.06 Bekok,21958,17878,48,333
@@ -8913,7 +8913,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2018-05-09,SE-13,Sabah,N.28 Sindumin,16873,13065,52,204
 2018-05-09,SE-13,Sabah,N.29 Kundasang,14864,11070,54,325
 2018-05-09,SE-13,Sabah,N.30 Karanaan,13517,10928,68,155
-2018-05-09,SE-13,Sabah,N.31 Paginatan,15325,11905,38,265
+2018-05-09,SE-13,Sabah,N.31 Paginatan,15325,11905,69,234
 2018-05-09,SE-13,Sabah,N.32 Tambunan,16255,13322,86,118
 2018-05-09,SE-13,Sabah,N.33 Bingkor,17761,13984,81,190
 2018-05-09,SE-13,Sabah,N.34 Liawan,17161,13610,79,154
