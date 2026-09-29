@@ -78,7 +78,9 @@ def check_electorates(sf: pd.DataFrame) -> pd.DataFrame:
         [parl.ge_voters.isna(), parl.ge_voters == 0, parl.dun_missing > 0],
         ["no GE seat", "GE electorate missing", "DUN electorate missing"], "checked",
     )
-    parl["diff"] = np.where(parl.status == "checked", parl.dun_sum - parl.ge_voters, np.nan)
+    parl["diff"] = pd.Series(
+        np.where(parl.status == "checked", parl.dun_sum - parl.ge_voters, np.nan)
+    ).astype("Int64")  # whole voters; empty where the seat could not be checked
     return parl
 
 

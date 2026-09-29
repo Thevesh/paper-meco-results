@@ -2881,7 +2881,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Perlis,N.05 Santan,8405,7449,22,93
 2013-05-05,SE-13,Perlis,N.06 Bintong,10911,9503,42,188
 2013-05-05,SE-13,Perlis,N.07 Sena,11194,9430,20,177
-2013-05-05,SE-13,Perlis,N.08 Indera Kayangan,9776,8034,52,144
+2013-05-05,SE-13,Perlis,N.08 Indera Kayangan,9776,8007,25,144
 2013-05-05,SE-13,Perlis,N.09 Kuala Perlis,10150,8480,8,149
 2013-05-05,SE-13,Perlis,N.10 Kayang,9176,8001,17,130
 2013-05-05,SE-13,Perlis,N.11 Pauh,9594,8333,19,158
@@ -3281,7 +3281,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Kedah,N.10 Bukit Pinang,26426,22961,71,258
 2013-05-05,SE-13,Kedah,N.11 Derga,26695,22042,89,332
 2013-05-05,SE-13,Kedah,N.12 Bakar Bata,28186,23763,105,363
-2013-05-05,SE-13,Kedah,N.13 Kota Darul Aman,15466,12476,60,202
+2013-05-05,SE-13,Kedah,N.13 Kota Darul Aman,15466,12446,30,202
 2013-05-05,SE-13,Kedah,N.14 Alor Mengkudu,25357,21707,68,273
 2013-05-05,SE-13,Kedah,N.15 Anak Bukit,28981,25286,72,291
 2013-05-05,SE-13,Kedah,N.16 Kubang Rotan,34559,29399,82,335
@@ -3293,7 +3293,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Kedah,N.22 Gurun,26037,22077,59,492
 2013-05-05,SE-13,Kedah,N.23 Belantek,21200,19109,46,261
 2013-05-05,SE-13,Kedah,N.24 Jeneri,25586,22968,41,351
-2013-05-05,SE-13,Kedah,N.25 Bukit Selambau,49087,42038,140,839
+2013-05-05,SE-13,Kedah,N.25 Bukit Selambau,49087,42023,125,839
 2013-05-05,SE-13,Kedah,N.26 Tanjong Dawai,36821,32497,95,546
 2013-05-05,SE-13,Kedah,N.27 Pantai Merdeka,33282,29763,54,314
 2013-05-05,SE-13,Kedah,N.28 Bakar Arang,34743,29619,69,366
@@ -3858,7 +3858,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Kelantan,N.27 Gual Ipoh,16423,14186,30,182
 2013-05-05,SE-13,Kelantan,N.28 Kemahang,14409,12638,30,138
 2013-05-05,SE-13,Kelantan,N.29 Selising,18058,15626,53,236
-2013-05-05,SE-13,Kelantan,N.30 Limbongan,23827,20266,88,260
+2013-05-05,SE-13,Kelantan,N.30 Limbongan,23827,20243,65,260
 2013-05-05,SE-13,Kelantan,N.31 Semerak,18269,16129,37,189
 2013-05-05,SE-13,Kelantan,N.32 Gaal,16105,14234,31,149
 2013-05-05,SE-13,Kelantan,N.33 Pulai Chondong,18875,16403,51,179
@@ -4313,36 +4313,36 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Terengganu,N.31 Cukai,22877,18530,24,193
 2008-03-08,SE-12,Terengganu,N.32 Air Putih,21091,17985,16,248
 2013-05-05,SE-13,Terengganu,N.01 Kuala Besut,17679,15381,53,144
-2013-05-05,SE-13,Terengganu,N.02 Kota Putera,19727,17089,67,206
+2013-05-05,SE-13,Terengganu,N.02 Kota Putera,19727,17114,92,206
 2013-05-05,SE-13,Terengganu,N.03 Jertih,18770,16097,63,172
 2013-05-05,SE-13,Terengganu,N.04 Hulu Besut,16390,14425,57,170
 2013-05-05,SE-13,Terengganu,N.05 Jabi,16787,14865,35,142
 2013-05-05,SE-13,Terengganu,N.06 Permaisuri,20322,17807,41,398
 2013-05-05,SE-13,Terengganu,N.07 Langkap,16124,14049,31,190
 2013-05-05,SE-13,Terengganu,N.08 Batu Rakit,14047,12541,26,134
-2013-05-05,SE-13,Terengganu,N.09 Tepuh,25162,22271,24,220
+2013-05-05,SE-13,Terengganu,N.09 Tepuh,25162,22301,54,220
 2013-05-05,SE-13,Terengganu,N.10 Teluk Pasu,20121,18321,38,196
 2013-05-05,SE-13,Terengganu,N.11 Seberang Takir,16212,14259,30,204
-2013-05-05,SE-13,Terengganu,N.12 Bukit Tunggal,14743,13125,20,155
-2013-05-05,SE-13,Terengganu,N.13 Wakaf Mempelam,25240,22301,37,220
+2013-05-05,SE-13,Terengganu,N.12 Bukit Tunggal,14743,13155,50,155
+2013-05-05,SE-13,Terengganu,N.13 Wakaf Mempelam,25240,22331,67,220
 2013-05-05,SE-13,Terengganu,N.14 Bandar,20390,16983,40,276
-2013-05-05,SE-13,Terengganu,N.15 Ladang,20089,17395,22,165
-2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,28687,25353,37,231
+2013-05-05,SE-13,Terengganu,N.15 Ladang,20089,17425,52,165
+2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,28687,25383,67,231
 2013-05-05,SE-13,Terengganu,N.17 Alur Limbat,23983,21391,30,244
-2013-05-05,SE-13,Terengganu,N.18 Bukit Payung,20063,18235,19,145
-2013-05-05,SE-13,Terengganu,N.19 Ru Rendang,22662,20317,19,181
-2013-05-05,SE-13,Terengganu,N.20 Pengkalan Berangan,24087,21796,20,270
+2013-05-05,SE-13,Terengganu,N.18 Bukit Payung,20063,18265,49,145
+2013-05-05,SE-13,Terengganu,N.19 Ru Rendang,22662,20347,49,181
+2013-05-05,SE-13,Terengganu,N.20 Pengkalan Berangan,24087,21826,50,270
 2013-05-05,SE-13,Terengganu,N.21 Telemung,15742,13995,31,304
 2013-05-05,SE-13,Terengganu,N.22 Manir,14637,13343,26,159
 2013-05-05,SE-13,Terengganu,N.23 Kuala Berang,15330,13697,32,280
-2013-05-05,SE-13,Terengganu,N.24 Ajil,17834,15569,16,305
+2013-05-05,SE-13,Terengganu,N.24 Ajil,17834,15599,46,305
 2013-05-05,SE-13,Terengganu,N.25 Bukit Besi,13387,11681,33,222
 2013-05-05,SE-13,Terengganu,N.26 Rantau Abang,20618,18166,41,248
 2013-05-05,SE-13,Terengganu,N.27 Sura,17705,15126,38,141
 2013-05-05,SE-13,Terengganu,N.28 Paka,26464,23231,40,202
 2013-05-05,SE-13,Terengganu,N.29 Kemasik,18847,16445,47,198
 2013-05-05,SE-13,Terengganu,N.30 Kijal,19269,17168,31,193
-2013-05-05,SE-13,Terengganu,N.31 Cukai,26715,22723,16,239
+2013-05-05,SE-13,Terengganu,N.31 Cukai,26715,22753,46,239
 2013-05-05,SE-13,Terengganu,N.32 Air Putih,27111,23802,72,317
 2018-05-09,SE-14,Terengganu,N.01 Kuala Besut,20762,17495,94,197
 2018-05-09,SE-14,Terengganu,N.02 Kota Putera,24182,20180,166,283
@@ -4791,27 +4791,27 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Pulau Pinang,N.16 Perai,16058,13474,9,142
 2013-05-05,SE-13,Pulau Pinang,N.17 Bukit Tengah,18928,16754,32,270
 2013-05-05,SE-13,Pulau Pinang,N.18 Bukit Tambun,22514,19980,30,303
-2013-05-05,SE-13,Pulau Pinang,N.19 Jawi,24735,21770,69,339
+2013-05-05,SE-13,Pulau Pinang,N.19 Jawi,24735,21720,19,339
 2013-05-05,SE-13,Pulau Pinang,N.20 Sungai Bakap,19051,16998,31,256
-2013-05-05,SE-13,Pulau Pinang,N.21 Sungai Acheh,15559,13947,66,217
-2013-05-05,SE-13,Pulau Pinang,N.22 Tanjong Bunga,20068,16849,72,193
+2013-05-05,SE-13,Pulau Pinang,N.21 Sungai Acheh,15559,13881,0,217
+2013-05-05,SE-13,Pulau Pinang,N.22 Tanjong Bunga,20068,16799,22,193
 2013-05-05,SE-13,Pulau Pinang,N.23 Air Putih,13803,11697,28,161
 2013-05-05,SE-13,Pulau Pinang,N.24 Kebun Bunga,19278,16180,45,274
 2013-05-05,SE-13,Pulau Pinang,N.25 Pulau Tikus,17936,14442,25,125
-2013-05-05,SE-13,Pulau Pinang,N.26 Padang Kota,15375,12127,69,128
-2013-05-05,SE-13,Pulau Pinang,N.27 Pengkalan Kota,19980,17512,63,243
-2013-05-05,SE-13,Pulau Pinang,N.28 Komtar,16132,13414,58,107
+2013-05-05,SE-13,Pulau Pinang,N.26 Padang Kota,15375,12077,19,128
+2013-05-05,SE-13,Pulau Pinang,N.27 Pengkalan Kota,19980,17462,13,243
+2013-05-05,SE-13,Pulau Pinang,N.28 Komtar,16132,13364,8,107
 2013-05-05,SE-13,Pulau Pinang,N.29 Datok Keramat,21900,18786,92,274
 2013-05-05,SE-13,Pulau Pinang,N.30 Sungai Pinang,23501,20531,102,287
 2013-05-05,SE-13,Pulau Pinang,N.31 Batu Lancang,25846,22398,85,157
 2013-05-05,SE-13,Pulau Pinang,N.32 Seri Delima,23841,19944,56,209
 2013-05-05,SE-13,Pulau Pinang,N.33 Air Itam,18407,15524,31,193
-2013-05-05,SE-13,Pulau Pinang,N.34 Paya Terubong,39649,35265,89,305
+2013-05-05,SE-13,Pulau Pinang,N.34 Paya Terubong,39649,35215,39,305
 2013-05-05,SE-13,Pulau Pinang,N.35 Batu Uban,28649,24750,75,246
-2013-05-05,SE-13,Pulau Pinang,N.36 Pantai Jerejak,21560,18514,97,161
-2013-05-05,SE-13,Pulau Pinang,N.37 Batu Maung,28946,25682,106,358
-2013-05-05,SE-13,Pulau Pinang,N.38 Bayan Lepas,21277,18838,73,281
-2013-05-05,SE-13,Pulau Pinang,N.39 Pulau Betong,15316,13532,200,23
+2013-05-05,SE-13,Pulau Pinang,N.36 Pantai Jerejak,21560,18464,47,161
+2013-05-05,SE-13,Pulau Pinang,N.37 Batu Maung,28946,25632,56,358
+2013-05-05,SE-13,Pulau Pinang,N.38 Bayan Lepas,21277,18788,23,281
+2013-05-05,SE-13,Pulau Pinang,N.39 Pulau Betong,15316,13532,23,200
 2013-05-05,SE-13,Pulau Pinang,N.40 Telok Bahang,13048,11453,19,167
 2018-05-09,SE-14,Pulau Pinang,N.01 Penaga,19089,16801,30,843
 2018-05-09,SE-14,Pulau Pinang,N.02 Bertam,18378,15984,34,211
@@ -5475,17 +5475,17 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Perak,N.20 Lubok Merbau,14901,12671,24,178
 2013-05-05,SE-13,Perak,N.21 Lintang,23433,19287,2,374
 2013-05-05,SE-13,Perak,N.22 Jalong,28163,22330,41,427
-2013-05-05,SE-13,Perak,N.23 Manjoi,51036,43639,51,698
+2013-05-05,SE-13,Perak,N.23 Manjoi,51036,43739,151,698
 2013-05-05,SE-13,Perak,N.24 Hulu Kinta,38399,32536,2,616
-2013-05-05,SE-13,Perak,N.25 Canning,35181,28032,38,302
+2013-05-05,SE-13,Perak,N.25 Canning,35181,28082,88,302
 2013-05-05,SE-13,Perak,N.26 Tebing Tinggi,19006,14662,44,243
-2013-05-05,SE-13,Perak,N.27 Pasir Pinji,27631,22423,36,227
+2013-05-05,SE-13,Perak,N.27 Pasir Pinji,27631,22473,86,227
 2013-05-05,SE-13,Perak,N.28 Bercham,32816,27269,80,288
 2013-05-05,SE-13,Perak,N.29 Kepayang,22098,17566,34,240
-2013-05-05,SE-13,Perak,N.30 Buntong,22847,18219,24,312
-2013-05-05,SE-13,Perak,N.31 Jelapang,30032,24590,15,431
+2013-05-05,SE-13,Perak,N.30 Buntong,22847,18239,44,312
+2013-05-05,SE-13,Perak,N.31 Jelapang,30032,24670,95,431
 2013-05-05,SE-13,Perak,N.32 Menglembu,30670,24886,32,265
-2013-05-05,SE-13,Perak,N.33 Tronoh,26885,20664,18,351
+2013-05-05,SE-13,Perak,N.33 Tronoh,26885,20714,68,351
 2013-05-05,SE-13,Perak,N.34 Bukit Chandan,15979,13471,37,238
 2013-05-05,SE-13,Perak,N.35 Manong,17561,14812,46,187
 2013-05-05,SE-13,Perak,N.36 Pengkalan Baharu,17459,14414,26,233
@@ -5495,20 +5495,20 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Perak,N.40 Malim Nawar,24615,18593,40,304
 2013-05-05,SE-13,Perak,N.41 Keranji,21111,16014,28,205
 2013-05-05,SE-13,Perak,N.42 Tualang Sekah,17893,14665,54,347
-2013-05-05,SE-13,Perak,N.43 Sungai Rapat,42873,36647,12,460
+2013-05-05,SE-13,Perak,N.43 Sungai Rapat,42873,36741,106,460
 2013-05-05,SE-13,Perak,N.44 Simpang Pulai,32101,26824,44,303
 2013-05-05,SE-13,Perak,N.45 Teja,22118,17877,31,464
 2013-05-05,SE-13,Perak,N.46 Chenderiang,21750,17542,52,525
 2013-05-05,SE-13,Perak,N.47 Ayer Kuning,23735,19415,62,353
 2013-05-05,SE-13,Perak,N.48 Sungai Manik,25028,20818,62,516
-2013-05-05,SE-13,Perak,N.49 Kampong Gajah,26470,22665,45,440
+2013-05-05,SE-13,Perak,N.49 Kampong Gajah,26470,22715,95,440
 2013-05-05,SE-13,Perak,N.50 Sitiawan,28546,23133,35,334
-2013-05-05,SE-13,Perak,N.51 Pasir Panjang,35940,30733,21,465
-2013-05-05,SE-13,Perak,N.52 Pangkor,23814,19790,27,254
-2013-05-05,SE-13,Perak,N.53 Rungkup,15287,12506,22,267
+2013-05-05,SE-13,Perak,N.51 Pasir Panjang,35940,30783,71,465
+2013-05-05,SE-13,Perak,N.52 Pangkor,23814,19840,77,254
+2013-05-05,SE-13,Perak,N.53 Rungkup,15287,12556,72,267
 2013-05-05,SE-13,Perak,N.54 Hutan Melintang,24637,20513,41,636
 2013-05-05,SE-13,Perak,N.55 Pasir Bedamar,31411,25031,67,281
-2013-05-05,SE-13,Perak,N.56 Changkat Jong,29072,23758,42,435
+2013-05-05,SE-13,Perak,N.56 Changkat Jong,29072,23808,92,435
 2013-05-05,SE-13,Perak,N.57 Sungkai,19285,15460,67,276
 2013-05-05,SE-13,Perak,N.58 Slim,22320,19016,62,303
 2013-05-05,SE-13,Perak,N.59 Behrang,22894,18923,50,496
@@ -6052,7 +6052,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Pahang,N.26 Chenor,14413,12603,78,250
 2013-05-05,SE-13,Pahang,N.27 Jenderak,9728,8257,29,222
 2013-05-05,SE-13,Pahang,N.28 Kerdau,10801,9516,37,168
-2013-05-05,SE-13,Pahang,N.29 Jengka,22474,19890,237,50
+2013-05-05,SE-13,Pahang,N.29 Jengka,22474,19890,50,237
 2013-05-05,SE-13,Pahang,N.30 Mentakab,16991,14467,37,220
 2013-05-05,SE-13,Pahang,N.31 Lanchang,23624,20251,42,550
 2013-05-05,SE-13,Pahang,N.32 Kuala Semantan,25490,21877,75,285
@@ -6671,8 +6671,8 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Selangor,N.44 Sungai Pinang,27404,23747,37,291
 2013-05-05,SE-13,Selangor,N.45 Selat Klang,36892,31874,98,360
 2013-05-05,SE-13,Selangor,N.46 Pelabuhan Klang,39972,34835,51,596
-2013-05-05,SE-13,Selangor,N.47 Pandamaran,27594,24218,129,365
-2013-05-05,SE-13,Selangor,N.48 Kota Alam Shah,29507,25306,79,386
+2013-05-05,SE-13,Selangor,N.47 Pandamaran,27594,24118,29,365
+2013-05-05,SE-13,Selangor,N.48 Kota Alam Shah,29507,25266,39,386
 2013-05-05,SE-13,Selangor,N.49 Seri Andalas,56763,49552,95,582
 2013-05-05,SE-13,Selangor,N.50 Sri Muda,49146,43177,63,406
 2013-05-05,SE-13,Selangor,N.51 Sijangkang,30581,27216,65,417
@@ -7560,7 +7560,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Melaka,N.19 Kesidang,17597,15287,43,176
 2013-05-05,SE-13,Melaka,N.20 Kota Laksamana,19732,16935,42,220
 2013-05-05,SE-13,Melaka,N.21 Duyong,18332,16055,54,212
-2013-05-05,SE-13,Melaka,N.22 Bandar Hilir,18976,15756,0,200
+2013-05-05,SE-13,Melaka,N.22 Bandar Hilir,18976,15779,23,200
 2013-05-05,SE-13,Melaka,N.23 Telok Mas,17685,15595,43,187
 2013-05-05,SE-13,Melaka,N.24 Bemban,15811,13846,53,359
 2013-05-05,SE-13,Melaka,N.25 Rim,10059,8696,18,157
@@ -8121,16 +8121,16 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2013-05-05,SE-13,Johor,N.40 Tiram,46658,40861,37,835
 2013-05-05,SE-13,Johor,N.41 Puteri Wangsa,43824,38974,47,709
 2013-05-05,SE-13,Johor,N.42 Johor Jaya,51648,45618,56,1087
-2013-05-05,SE-13,Johor,N.43 Permas,49393,43032,51,829
-2013-05-05,SE-13,Johor,N.44 Tanjong Puteri,51442,43067,98,692
+2013-05-05,SE-13,Johor,N.43 Permas,49393,42932,51,729
+2013-05-05,SE-13,Johor,N.44 Tanjong Puteri,51442,42967,98,592
 2013-05-05,SE-13,Johor,N.45 Stulang,44879,36998,71,625
-2013-05-05,SE-13,Johor,N.46 Pengkalan Rinting,61217,52213,92,1163
-2013-05-05,SE-13,Johor,N.47 Kempas,39273,33911,74,594
-2013-05-05,SE-13,Johor,N.48 Skudai,56543,50048,90,624
-2013-05-05,SE-13,Johor,N.49 Nusa Jaya,50183,45220,117,972
+2013-05-05,SE-13,Johor,N.46 Pengkalan Rinting,61217,52113,92,1063
+2013-05-05,SE-13,Johor,N.47 Kempas,39273,33811,74,494
+2013-05-05,SE-13,Johor,N.48 Skudai,56543,49948,90,524
+2013-05-05,SE-13,Johor,N.49 Nusa Jaya,50183,45120,117,872
 2013-05-05,SE-13,Johor,N.50 Bukit Permai,21619,19474,44,327
 2013-05-05,SE-13,Johor,N.51 Bukit Batu,22262,20040,33,493
-2013-05-05,SE-13,Johor,N.52 Senai,40110,35601,50,558
+2013-05-05,SE-13,Johor,N.52 Senai,40110,35501,50,458
 2013-05-05,SE-13,Johor,N.53 Benut,21463,18624,34,446
 2013-05-05,SE-13,Johor,N.54 Pulai Sebatang,28170,24207,46,465
 2013-05-05,SE-13,Johor,N.55 Pekan Nenas,32486,28745,37,505

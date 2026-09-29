@@ -10725,8 +10725,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2013-05-05,SE-13,Terengganu,N.14 Bandar,2,G4MAN,Azan Ismail,Azan bin Ismail,M,Malay,48,PKR,078-PKR,PKR,007-PR,PR,9413,56.476870462590746,1,won
 2013-05-05,SE-13,Terengganu,N.15 Ladang,1,WHS7E,Dato' Tengku Hassan,Tengku Hassan bin Tengku Omar,M,Malay,62,PAS,004-PAS,PAS,007-PR,PR,9066,52.684797768479775,1,won
 2013-05-05,SE-13,Terengganu,N.15 Ladang,2,8T43B,Dato' Wan Ahmad Farid Wan Salleh,Wan Ahmad Farid bin Wan Salleh,M,Malay,51,BN,001-UMNO,UMNO,001-BN,BN,8142,47.315202231520225,2,lost
-2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,1,DWRF8,Dr Syed Azman,Syed Azman bin Syed Ahmad Nawawi,M,Malay,52,PAS,004-PAS,PAS,007-PR,PR,13679,54.53059597368946,1,won
-2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,2,8KJXC,Dato' Che Mat Jusoh,Che Mat Bin Jusoh,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,11406,45.46940402631054,2,lost
+2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,1,DWRF8,Dr Syed Azman,Syed Azman bin Syed Ahmad Nawawi,M,Malay,52,PAS,004-PAS,PAS,007-PR,PR,13831,55.136535778353604,1,won
+2013-05-05,SE-13,Terengganu,N.16 Batu Buruk,2,8KJXC,Dato' Che Mat Jusoh,Che Mat Bin Jusoh,M,Malay,64,BN,001-UMNO,UMNO,001-BN,BN,11254,44.8634642216464,2,lost
 2013-05-05,SE-13,Terengganu,N.17 Alur Limbat,1,5PCY3,Hj. Alias Bin Abdullah,Alias bin Abdullah,M,Malay,49,BN,001-UMNO,UMNO,001-BN,BN,10199,48.29758014869536,2,lost
 2013-05-05,SE-13,Terengganu,N.17 Alur Limbat,2,RCQ0X,Ja'Afar Bin Jambol,Ja'afar Bin Jambol,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,74,0.3504285646635412,3,lost_deposit
 2013-05-05,SE-13,Terengganu,N.17 Alur Limbat,3,VTD36,Ustaz Ariffin Deraman,Ariffin bin Deraman,M,Malay,53,PAS,004-PAS,PAS,007-PR,PR,10844,51.351991286641095,1,won
@@ -22537,9 +22537,9 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-11,Sabah,N.60 Sebatik,3,86VP9,Raden Hj. Kakung,Raden bin Kakung,M,Bumi Sabah,48,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,392,6.551897041617917,3,lost_deposit
 2013-05-05,SE-12,Sabah,N.01 Banggi,1,XF07Z,Abd Mijul Bin Unaini,Abd Mijul bin Unaini,M,Bumi Sabah,53,BN,001-UMNO,UMNO,001-BN,BN,4293,61.319811455506354,1,won
 2013-05-05,SE-12,Sabah,N.01 Banggi,2,8AMVR,Mursalim Bin Tanjul,Mursalim bin Tanjul,M,Bumi Sabah,51,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,642,9.170118554492216,3,lost_deposit
-2013-05-05,SE-12,Sabah,N.01 Banggi,3,01WEY,Jae-Ly Bin Medong,Jae-Ly bin Medong,M,Bumi Sabah,41,SAPP,068-SAPP,SAPP,000-ALONE,ALONE,536,7.656049135837738,4,lost_deposit
+2013-05-05,SE-12,Sabah,N.01 Banggi,3,01WEY,Jae-Ly Bin Medong,Jae-Ly bin Medong,M,Bumi Sabah,41,SAPP,068-SAPP,SAPP,000-ALONE,ALONE,533,7.613198114555065,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.01 Banggi,4,QJJJK,Datu Abdul Razak Bin Datu Abdul Salam,Abdul Razak bin Abdul Salam,M,Bumi Sabah,49,PKR,078-PKR,PKR,007-PR,PR,1054,15.054992143979431,2,lost
-2013-05-05,SE-12,Sabah,N.01 Banggi,5,3FJH7,Datu Mohd Arifin Bin Datu Abdul Salam,Mohd Arifin bin Abdul Salam,M,Bumi Sabah,49,STAR,072-STAR-SWK,STAR,000-ALONE,ALONE,476,6.79902871018426,5,lost_deposit
+2013-05-05,SE-12,Sabah,N.01 Banggi,5,3FJH7,Datu Mohd Arifin Bin Datu Abdul Salam,Mohd Arifin bin Abdul Salam,M,Bumi Sabah,49,STAR,072-STAR-SWK,STAR,000-ALONE,ALONE,479,6.841879731466934,5,lost_deposit
 2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,1,6X8KG,Zainal Bin Hj. Nasiruddin,Zainal bin Nasiruddin,M,Bumi Sabah,52,BERSAMA,069-BERSAMA,BERSAMA,000-ALONE,ALONE,363,2.1395732641754095,4,lost_deposit
 2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,2,P1D4W,Alex Wong,Alexander Anthony (Alexandra),M,Bumi Sabah,57,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,35,0.2062949428268301,6,lost_deposit
 2013-05-05,SE-12,Sabah,N.02 Tanjong Kapor,3,AAYNS,Hendiri @ Hendry Bin Minar,Hendry bin Minar (Hendiri),M,Bumi Sabah,43,STAR,072-STAR-SWK,STAR,000-ALONE,ALONE,273,1.6091005540492749,5,lost_deposit
