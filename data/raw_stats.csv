@@ -3242,12 +3242,12 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Kedah,N.07 Kuala Nerang,18037,15245,29,309
 2008-03-08,SE-12,Kedah,N.08 Pedu,17366,15200,9,364
 2008-03-08,SE-12,Kedah,N.09 Bukit Lada,23365,19434,47,395
-2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,24202,20101,514,372
+2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,24202,20036,514,367
 2008-03-08,SE-12,Kedah,N.11 Derga,22064,15783,79,740
-2008-03-08,SE-12,Kedah,N.12 Bakar Bata,22695,16395,49,240
+2008-03-08,SE-12,Kedah,N.12 Bakar Bata,22695,16394,48,240
 2008-03-08,SE-12,Kedah,N.13 Kota Darul Aman,15087,10355,49,280
 2008-03-08,SE-12,Kedah,N.14 Alor Mengkudu,21175,16460,40,251
-2008-03-08,SE-12,Kedah,N.15 Anak Bukit,26213,21877,0,697
+2008-03-08,SE-12,Kedah,N.15 Anak Bukit,26213,21413,0,233
 2008-03-08,SE-12,Kedah,N.16 Kubang Rotan,28817,22050,2,335
 2008-03-08,SE-12,Kedah,N.17 Pengkalan Kundor,28102,22285,0,257
 2008-03-08,SE-12,Kedah,N.18 Tokai,31117,26246,0,282
@@ -3259,12 +3259,12 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Kedah,N.24 Jeneri,21323,17328,28,251
 2008-03-08,SE-12,Kedah,N.25 Bukit Selambau,34977,25798,16,1694
 2008-03-08,SE-12,Kedah,N.26 Tanjong Dawai,29466,23884,351,618
-2008-03-08,SE-12,Kedah,N.27 Pantai Merdeka,27784,23139,38,296
+2008-03-08,SE-12,Kedah,N.27 Pantai Merdeka,27784,23137,36,296
 2008-03-08,SE-12,Kedah,N.28 Bakar Arang,27574,20496,71,490
 2008-03-08,SE-12,Kedah,N.29 Sidam,20926,15747,33,392
-2008-03-08,SE-12,Kedah,N.30 Bayu,29197,24519,1,322
+2008-03-08,SE-12,Kedah,N.30 Bayu,29197,24518,0,322
 2008-03-08,SE-12,Kedah,N.31 Kupang,25726,21494,0,334
-2008-03-08,SE-12,Kedah,N.32 Kuala Ketil,23861,19697,29,338
+2008-03-08,SE-12,Kedah,N.32 Kuala Ketil,23861,19695,27,338
 2008-03-08,SE-12,Kedah,N.33 Merbau Pulas,26832,21355,0,483
 2008-03-08,SE-12,Kedah,N.34 Lunas,32386,25711,2,360
 2008-03-08,SE-12,Kedah,N.35 Kulim,28598,21751,222,554
@@ -3785,7 +3785,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-11,Kelantan,N.44 Paloh,9092,7752,144,0
 2004-03-21,SE-11,Kelantan,N.45 Galas,8972,6805,10,156
 2008-03-08,SE-12,Kelantan,N.01 Pengkalan Kubor,20311,15488,39,263
-2008-03-08,SE-12,Kelantan,N.02 Kelaboran,18990,15366,53,213
+2008-03-08,SE-12,Kelantan,N.02 Kelaboran,18990,15365,52,213
 2008-03-08,SE-12,Kelantan,N.03 Pasir Pekan,21462,17991,42,253
 2008-03-08,SE-12,Kelantan,N.04 Wakaf Bharu,19309,16417,32,235
 2008-03-08,SE-12,Kelantan,N.05 Kijang,16265,0,0,0
@@ -4280,15 +4280,15 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-11,Terengganu,N.30 Kijal,14163,12762,142,142
 2004-03-21,SE-11,Terengganu,N.31 Cukai,20691,17675,0,200
 2004-03-21,SE-11,Terengganu,N.32 Air Putih,18038,16052,12,218
-2008-03-08,SE-12,Terengganu,N.01 Kuala Besut,14180,12140,385,140
+2008-03-08,SE-12,Terengganu,N.01 Kuala Besut,14180,12107,352,140
 2008-03-08,SE-12,Terengganu,N.02 Kota Putera,15559,13071,57,166
-2008-03-08,SE-12,Terengganu,N.03 Jertih,15449,12953,31,144
+2008-03-08,SE-12,Terengganu,N.03 Jertih,15449,12952,30,144
 2008-03-08,SE-12,Terengganu,N.04 Hulu Besut,13165,11174,0,147
 2008-03-08,SE-12,Terengganu,N.05 Jabi,14070,12075,0,151
 2008-03-08,SE-12,Terengganu,N.06 Permaisuri,16073,13910,0,245
 2008-03-08,SE-12,Terengganu,N.07 Langkap,13066,11048,16,219
 2008-03-08,SE-12,Terengganu,N.08 Batu Rakit,11311,9811,0,117
-2008-03-08,SE-12,Terengganu,N.09 Tepuh,19850,16715,43,192
+2008-03-08,SE-12,Terengganu,N.09 Tepuh,19850,16690,18,192
 2008-03-08,SE-12,Terengganu,N.10 Teluk Pasu,16126,14250,13,141
 2008-03-08,SE-12,Terengganu,N.11 Seberang Takir,12750,10718,66,202
 2008-03-08,SE-12,Terengganu,N.12 Bukit Tunggal,12488,10742,9,103
@@ -4300,12 +4300,12 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Terengganu,N.18 Bukit Payung,16733,14664,1,130
 2008-03-08,SE-12,Terengganu,N.19 Ru Rendang,18798,16209,0,137
 2008-03-08,SE-12,Terengganu,N.20 Pengkalan Berangan,19588,17167,2,295
-2008-03-08,SE-12,Terengganu,N.21 Telemung,13275,11664,107,212
+2008-03-08,SE-12,Terengganu,N.21 Telemung,13275,11575,18,212
 2008-03-08,SE-12,Terengganu,N.22 Manir,11657,10356,17,99
 2008-03-08,SE-12,Terengganu,N.23 Kuala Berang,13040,11476,24,156
 2008-03-08,SE-12,Terengganu,N.24 Ajil,14543,12531,12,186
 2008-03-08,SE-12,Terengganu,N.25 Bukit Besi,11520,9736,10,144
-2008-03-08,SE-12,Terengganu,N.26 Rantau Abang,16499,14192,21,217
+2008-03-08,SE-12,Terengganu,N.26 Rantau Abang,16499,14191,20,217
 2008-03-08,SE-12,Terengganu,N.27 Sura,16123,13163,35,128
 2008-03-08,SE-12,Terengganu,N.28 Paka,20709,17471,16,187
 2008-03-08,SE-12,Terengganu,N.29 Kemasik,15470,12969,8,129
@@ -4750,7 +4750,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Pulau Pinang,N.15 Padang Lalang,21761,17009,4,206
 2008-03-08,SE-12,Pulau Pinang,N.16 Perai,14175,10651,0,180
 2008-03-08,SE-12,Pulau Pinang,N.17 Bukit Tengah,14995,11835,10,257
-2008-03-08,SE-12,Pulau Pinang,N.18 Bukit Tambun,18208,14826,10,235
+2008-03-08,SE-12,Pulau Pinang,N.18 Bukit Tambun,18208,14824,8,235
 2008-03-08,SE-12,Pulau Pinang,N.19 Jawi,20167,16101,0,413
 2008-03-08,SE-12,Pulau Pinang,N.20 Sungai Bakap,15026,12087,2,200
 2008-03-08,SE-12,Pulau Pinang,N.21 Sungai Acheh,12347,9939,5,162
@@ -4762,14 +4762,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Pulau Pinang,N.27 Pengkalan Kota,19508,15090,2,195
 2008-03-08,SE-12,Pulau Pinang,N.28 Komtar,16976,12135,40,203
 2008-03-08,SE-12,Pulau Pinang,N.29 Datok Keramat,19588,14444,1,308
-2008-03-08,SE-12,Pulau Pinang,N.30 Sungai Pinang,19368,14604,4,235
-2008-03-08,SE-12,Pulau Pinang,N.31 Batu Lancang,22225,17319,3,171
+2008-03-08,SE-12,Pulau Pinang,N.30 Sungai Pinang,19368,14603,3,235
+2008-03-08,SE-12,Pulau Pinang,N.31 Batu Lancang,22225,17317,1,171
 2008-03-08,SE-12,Pulau Pinang,N.32 Seri Delima,20510,14915,22,217
 2008-03-08,SE-12,Pulau Pinang,N.33 Air Itam,16721,12260,3,182
 2008-03-08,SE-12,Pulau Pinang,N.34 Paya Terubong,28383,22832,7,250
-2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,21483,16214,448,285
-2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,17445,12898,0,192
-2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,21785,17253,1013,267
+2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,21483,16214,0,285
+2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,17445,12911,0,192
+2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,21785,17253,115,267
 2008-03-08,SE-12,Pulau Pinang,N.38 Bayan Lepas,16377,12971,11,233
 2008-03-08,SE-12,Pulau Pinang,N.39 Pulau Betong,12500,9847,1,160
 2008-03-08,SE-12,Pulau Pinang,N.40 Telok Bahang,10888,8565,10,152
@@ -5399,13 +5399,13 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Perak,N.03 Kenering,12609,9675,29,176
 2008-03-08,SE-12,Perak,N.04 Kota Tampan,10614,7761,29,141
 2008-03-08,SE-12,Perak,N.05 Selama,13279,10346,20,201
-2008-03-08,SE-12,Perak,N.06 Kubu Gajah,10985,8349,13,174
+2008-03-08,SE-12,Perak,N.06 Kubu Gajah,10985,8314,13,174
 2008-03-08,SE-12,Perak,N.07 Batu Kurau,15433,11902,0,295
 2008-03-08,SE-12,Perak,N.08 Titi Serong,24210,19202,51,276
 2008-03-08,SE-12,Perak,N.09 Kuala Kurau,21009,16360,1,378
-2008-03-08,SE-12,Perak,N.10 Alor Pongsu,15144,11481,15,391
-2008-03-08,SE-12,Perak,N.11 Gunong Semanggol,15763,12440,307,285
-2008-03-08,SE-12,Perak,N.12 Selinsing,16204,12314,262,301
+2008-03-08,SE-12,Perak,N.10 Alor Pongsu,15144,11480,14,391
+2008-03-08,SE-12,Perak,N.11 Gunong Semanggol,15763,12158,25,285
+2008-03-08,SE-12,Perak,N.12 Selinsing,16204,12070,18,301
 2008-03-08,SE-12,Perak,N.13 Kuala Sapetang,19699,14496,30,460
 2008-03-08,SE-12,Perak,N.14 Changkat Jering,24864,18114,60,334
 2008-03-08,SE-12,Perak,N.15 Trong,10908,7690,9,173
@@ -5413,31 +5413,31 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Perak,N.17 Pokok Assam,20711,14538,27,228
 2008-03-08,SE-12,Perak,N.18 Aulong,23503,16406,123,371
 2008-03-08,SE-12,Perak,N.19 Chenderoh,11848,8905,40,188
-2008-03-08,SE-12,Perak,N.20 Lubok Merbau,12549,9444,38,150
+2008-03-08,SE-12,Perak,N.20 Lubok Merbau,12549,9442,36,150
 2008-03-08,SE-12,Perak,N.21 Lintang,21767,15143,0,387
 2008-03-08,SE-12,Perak,N.22 Jalong,25657,18008,0,383
 2008-03-08,SE-12,Perak,N.23 Manjoi,39640,29814,81,473
 2008-03-08,SE-12,Perak,N.24 Hulu Kinta,29326,22122,251,629
 2008-03-08,SE-12,Perak,N.25 Canning,31990,22854,371,303
 2008-03-08,SE-12,Perak,N.26 Tebing Tinggi,18074,12112,58,175
-2008-03-08,SE-12,Perak,N.27 Pasir Pinji,26583,19047,84,250
-2008-03-08,SE-12,Perak,N.28 Bercham,26587,19966,31,249
+2008-03-08,SE-12,Perak,N.27 Pasir Pinji,26583,19045,82,250
+2008-03-08,SE-12,Perak,N.28 Bercham,26587,19963,28,249
 2008-03-08,SE-12,Perak,N.29 Kepayang,21256,15072,154,304
-2008-03-08,SE-12,Perak,N.30 Buntong,21930,15566,1,258
+2008-03-08,SE-12,Perak,N.30 Buntong,21930,15565,0,258
 2008-03-08,SE-12,Perak,N.31 Jelapang,26157,19409,1,402
 2008-03-08,SE-12,Perak,N.32 Menglembu,27053,20330,0,243
 2008-03-08,SE-12,Perak,N.33 Tronoh,24103,16446,73,340
-2008-03-08,SE-12,Perak,N.34 Bukit Chandan,14211,10518,334,178
-2008-03-08,SE-12,Perak,N.35 Manong,14114,10256,63,160
+2008-03-08,SE-12,Perak,N.34 Bukit Chandan,14211,10457,273,178
+2008-03-08,SE-12,Perak,N.35 Manong,14114,10255,62,160
 2008-03-08,SE-12,Perak,N.36 Pengkalan Baharu,15262,11108,38,334
 2008-03-08,SE-12,Perak,N.37 Pantai Remis,28011,19712,58,354
 2008-03-08,SE-12,Perak,N.38 Belanja,14470,11154,66,206
-2008-03-08,SE-12,Perak,N.39 Bota,14389,11338,37,257
+2008-03-08,SE-12,Perak,N.39 Bota,14389,11351,50,257
 2008-03-08,SE-12,Perak,N.40 Malim Nawar,23276,14647,43,364
 2008-03-08,SE-12,Perak,N.41 Keranji,19857,12738,43,212
-2008-03-08,SE-12,Perak,N.42 Tualang Sekah,16651,11578,54,361
+2008-03-08,SE-12,Perak,N.42 Tualang Sekah,16651,11576,52,361
 2008-03-08,SE-12,Perak,N.43 Sungai Rapat,28830,21040,0,406
-2008-03-08,SE-12,Perak,N.44 Simpang Pulai,26159,18887,0,289
+2008-03-08,SE-12,Perak,N.44 Simpang Pulai,26159,18979,88,293
 2008-03-08,SE-12,Perak,N.45 Teja,19355,13258,0,367
 2008-03-08,SE-12,Perak,N.46 Chenderiang,18004,12055,1,544
 2008-03-08,SE-12,Perak,N.47 Ayer Kuning,20232,14481,0,477
@@ -5450,7 +5450,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Perak,N.54 Hutan Melintang,20758,14556,33,636
 2008-03-08,SE-12,Perak,N.55 Pasir Bedamar,28745,19777,43,338
 2008-03-08,SE-12,Perak,N.56 Changkat Jong,23609,16962,41,410
-2008-03-08,SE-12,Perak,N.57 Sungkai,17290,11719,42,485
+2008-03-08,SE-12,Perak,N.57 Sungkai,17290,11718,41,485
 2008-03-08,SE-12,Perak,N.58 Slim,17639,13321,46,335
 2008-03-08,SE-12,Perak,N.59 Behrang,18552,13067,40,512
 2013-05-05,SE-13,Perak,N.01 Pengkalan Hulu,13924,11611,281,279
@@ -6572,8 +6572,8 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Selangor,N.01 Sungai Air Tawar,12726,9751,29,263
 2008-03-08,SE-12,Selangor,N.02 Sabak,18655,14325,50,390
 2008-03-08,SE-12,Selangor,N.03 Sungai Panjang,20500,16906,53,319
-2008-03-08,SE-12,Selangor,N.04 Sekinchan,13573,11021,88,317
-2008-03-08,SE-12,Selangor,N.05 Hulu Bernam,17549,12932,193,318
+2008-03-08,SE-12,Selangor,N.04 Sekinchan,13573,10945,12,317
+2008-03-08,SE-12,Selangor,N.05 Hulu Bernam,17549,12779,40,318
 2008-03-08,SE-12,Selangor,N.06 Kuala Kubu Baharu,18212,13333,122,549
 2008-03-08,SE-12,Selangor,N.07 Batang Kali,27832,21673,0,404
 2008-03-08,SE-12,Selangor,N.08 Sungai Burong,18988,15403,33,336
@@ -6581,20 +6581,20 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Selangor,N.10 Bukit Melawati,12897,9707,38,484
 2008-03-08,SE-12,Selangor,N.11 Ijok,15467,12684,8,204
 2008-03-08,SE-12,Selangor,N.12 Jeram,18839,15281,6,333
-2008-03-08,SE-12,Selangor,N.13 Kuang,17557,14198,413,204
+2008-03-08,SE-12,Selangor,N.13 Kuang,17557,13833,48,204
 2008-03-08,SE-12,Selangor,N.14 Rawang,23345,17768,34,288
 2008-03-08,SE-12,Selangor,N.15 Taman Templer,38655,29285,115,583
-2008-03-08,SE-12,Selangor,N.16 Batu Caves,25720,19165,75,320
-2008-03-08,SE-12,Selangor,N.17 Gombak Setia,34979,26726,454,287
-2008-03-08,SE-12,Selangor,N.18 Hulu Kelang,38454,29178,202,302
+2008-03-08,SE-12,Selangor,N.16 Batu Caves,25720,19171,81,320
+2008-03-08,SE-12,Selangor,N.17 Gombak Setia,34979,26419,147,287
+2008-03-08,SE-12,Selangor,N.18 Hulu Kelang,38454,29107,131,302
 2008-03-08,SE-12,Selangor,N.19 Bukit Antarabangsa,30687,22397,92,224
-2008-03-08,SE-12,Selangor,N.20 Lembah Jaya,38445,28697,58,503
-2008-03-08,SE-12,Selangor,N.21 Chempaka,33525,24519,115,396
+2008-03-08,SE-12,Selangor,N.20 Lembah Jaya,38445,28695,56,503
+2008-03-08,SE-12,Selangor,N.21 Chempaka,33525,24404,0,396
 2008-03-08,SE-12,Selangor,N.22 Teratai,30972,23733,0,692
 2008-03-08,SE-12,Selangor,N.23 Dusun Tua,32248,25580,0,459
-2008-03-08,SE-12,Selangor,N.24 Semenyih,28203,22928,348,544
+2008-03-08,SE-12,Selangor,N.24 Semenyih,28203,22626,46,544
 2008-03-08,SE-12,Selangor,N.25 Kajang,29868,23823,91,560
-2008-03-08,SE-12,Selangor,N.26 Bangi,35898,28815,219,386
+2008-03-08,SE-12,Selangor,N.26 Bangi,35898,28703,107,386
 2008-03-08,SE-12,Selangor,N.27 Balakong,28682,22288,56,357
 2008-03-08,SE-12,Selangor,N.28 Seri Kembangan,30297,25127,34,361
 2008-03-08,SE-12,Selangor,N.29 Seri Serdang,49757,38799,153,827
@@ -6602,9 +6602,9 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Selangor,N.31 Subang Jaya,44569,33465,53,345
 2008-03-08,SE-12,Selangor,N.32 Seri Setia,35079,25163,48,302
 2008-03-08,SE-12,Selangor,N.33 Taman Medan,40009,29652,39,440
-2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,33183,22875,3,214
+2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,33183,22874,2,214
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,30183,21537,14,234
-2008-03-08,SE-12,Selangor,N.36 Damansara Utama,46435,33757,26,324
+2008-03-08,SE-12,Selangor,N.36 Damansara Utama,46435,34757,26,324
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,25550,19420,26,299
 2008-03-08,SE-12,Selangor,N.38 Paya Jaras,29163,22883,54,429
 2008-03-08,SE-12,Selangor,N.39 Kota Damansara,29701,23566,346,603
@@ -6617,9 +6617,9 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Selangor,N.46 Pelabuhan Klang,28456,21475,23,485
 2008-03-08,SE-12,Selangor,N.47 Pandamaran,25192,20034,19,319
 2008-03-08,SE-12,Selangor,N.48 Kota Alam Shah,24168,18471,46,211
-2008-03-08,SE-12,Selangor,N.49 Seri Andalas,38833,31039,1,725
+2008-03-08,SE-12,Selangor,N.49 Seri Andalas,38833,31038,0,725
 2008-03-08,SE-12,Selangor,N.50 Sri Muda,33054,26297,0,347
-2008-03-08,SE-12,Selangor,N.51 Sijangkang,22759,18732,341,374
+2008-03-08,SE-12,Selangor,N.51 Sijangkang,22759,18409,18,374
 2008-03-08,SE-12,Selangor,N.52 Teluk Datuk,18207,14912,9,493
 2008-03-08,SE-12,Selangor,N.53 Morib,25549,20535,185,404
 2008-03-08,SE-12,Selangor,N.54 Tanjong Sepat,17827,14517,10,287
@@ -7093,11 +7093,11 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-11,Negeri Sembilan,N.34 Gemas,14169,10688,110,200
 2004-03-21,SE-11,Negeri Sembilan,N.35 Gemencheh,13057,9552,10,284
 2004-03-21,SE-11,Negeri Sembilan,N.36 Repah,14345,10614,0,388
-2008-03-08,SE-12,Negeri Sembilan,N.01 Chennah,9898,7203,88,231
-2008-03-08,SE-12,Negeri Sembilan,N.02 Pertang,8173,6030,53,198
-2008-03-08,SE-12,Negeri Sembilan,N.03 Sungai Lui,12163,9611,180,224
-2008-03-08,SE-12,Negeri Sembilan,N.04 Klawang,8448,6279,173,189
-2008-03-08,SE-12,Negeri Sembilan,N.05 Serting,14687,11100,13,229
+2008-03-08,SE-12,Negeri Sembilan,N.01 Chennah,9898,7122,7,231
+2008-03-08,SE-12,Negeri Sembilan,N.02 Pertang,8173,5981,4,198
+2008-03-08,SE-12,Negeri Sembilan,N.03 Sungai Lui,12163,9517,86,224
+2008-03-08,SE-12,Negeri Sembilan,N.04 Klawang,8448,6122,16,189
+2008-03-08,SE-12,Negeri Sembilan,N.05 Serting,14687,11099,12,229
 2008-03-08,SE-12,Negeri Sembilan,N.06 Palong,12567,9992,0,325
 2008-03-08,SE-12,Negeri Sembilan,N.07 Jeram Padang,9960,6845,0,283
 2008-03-08,SE-12,Negeri Sembilan,N.08 Bahau,16264,11846,0,307
@@ -7112,14 +7112,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Negeri Sembilan,N.17 Senaling,7014,5418,7,133
 2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,10513,7680,38,182
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,8653,6437,0,226
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,12477,9702,1,204
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,12477,9215,1,200
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,16510,13154,1,187
 2008-03-08,SE-12,Negeri Sembilan,N.22 Rahang,14262,10997,62,290
 2008-03-08,SE-12,Negeri Sembilan,N.23 Mambau,16298,13252,12,169
 2008-03-08,SE-12,Negeri Sembilan,N.24 Senawang,12568,9843,4,150
 2008-03-08,SE-12,Negeri Sembilan,N.25 Paroi,23060,18076,38,299
 2008-03-08,SE-12,Negeri Sembilan,N.26 Chembong,12997,10155,19,175
-2008-03-08,SE-12,Negeri Sembilan,N.27 Rantau,15124,12216,250,271
+2008-03-08,SE-12,Negeri Sembilan,N.27 Rantau,15124,11996,30,271
 2008-03-08,SE-12,Negeri Sembilan,N.28 Kota,11715,9199,12,244
 2008-03-08,SE-12,Negeri Sembilan,N.29 Chuah,10159,7681,11,164
 2008-03-08,SE-12,Negeri Sembilan,N.30 Lukut,11276,8923,3,180
@@ -7519,14 +7519,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Melaka,N.06 Rembia,10946,8613,31,214
 2008-03-08,SE-12,Melaka,N.07 Gadek,10749,7878,14,228
 2008-03-08,SE-12,Melaka,N.08 Machap,10358,7986,10,201
-2008-03-08,SE-12,Melaka,N.09 Durian Tunggal,8919,7343,12,173
+2008-03-08,SE-12,Melaka,N.09 Durian Tunggal,8919,7341,10,173
 2008-03-08,SE-12,Melaka,N.10 Asahan,13125,10039,16,301
 2008-03-08,SE-12,Melaka,N.11 Sungai Udang,15488,14157,935,663
 2008-03-08,SE-12,Melaka,N.12 Pantai Kundor,11889,9251,0,152
 2008-03-08,SE-12,Melaka,N.13 Paya Rumput,16589,13578,67,243
 2008-03-08,SE-12,Melaka,N.14 Kelebang,16222,12641,62,700
-2008-03-08,SE-12,Melaka,N.15 Bachang,23153,18834,379,498
-2008-03-08,SE-12,Melaka,N.16 Ayer Keroh,24504,19953,63,477
+2008-03-08,SE-12,Melaka,N.15 Bachang,23153,18524,69,498
+2008-03-08,SE-12,Melaka,N.16 Ayer Keroh,24504,19949,59,477
 2008-03-08,SE-12,Melaka,N.17 Bukit Baru,15904,12845,52,213
 2008-03-08,SE-12,Melaka,N.18 Ayer Molek,12216,10291,34,170
 2008-03-08,SE-12,Melaka,N.19 Kesidang,16472,13325,21,221
@@ -8035,7 +8035,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Johor,N.10 Tangkak,19198,14514,27,522
 2008-03-08,SE-12,Johor,N.11 Serom,20579,15609,56,348
 2008-03-08,SE-12,Johor,N.12 Bentayan,21233,15737,20,277
-2008-03-08,SE-12,Johor,N.13 Sungai Abong,21592,16352,34,316
+2008-03-08,SE-12,Johor,N.13 Sungai Abong,21592,16350,32,316
 2008-03-08,SE-12,Johor,N.14 Bukit Naning,13547,11061,157,367
 2008-03-08,SE-12,Johor,N.15 Maharani,22902,16551,47,354
 2008-03-08,SE-12,Johor,N.16 Sungai Balang,18117,13722,15,391
@@ -8059,23 +8059,23 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-12,Johor,N.34 Panti,14448,11638,20,189
 2008-03-08,SE-12,Johor,N.35 Pasir Raja,17849,14141,413,1118
 2008-03-08,SE-12,Johor,N.36 Sedili,19190,15606,0,330
-2008-03-08,SE-12,Johor,N.37 Johor Lama,15000,11259,0,228
+2008-03-08,SE-12,Johor,N.37 Johor Lama,15000,11419,0,233
 2008-03-08,SE-12,Johor,N.38 Penawar,16498,13056,54,172
 2008-03-08,SE-12,Johor,N.39 Tanjong Surat,16504,12456,475,215
 2008-03-08,SE-12,Johor,N.40 Tiram,34018,26544,32,680
 2008-03-08,SE-12,Johor,N.41 Puteri Wangsa,28487,22156,29,496
 2008-03-08,SE-12,Johor,N.42 Johor Jaya,38167,29517,216,713
 2008-03-08,SE-12,Johor,N.43 Permas,34695,26374,46,590
-2008-03-08,SE-12,Johor,N.44 Tanjong Puteri,47062,33020,3,711
-2008-03-08,SE-12,Johor,N.45 Stulang,42663,29898,565,770
-2008-03-08,SE-12,Johor,N.46 Pengkalan Rinting,46664,32763,121,610
+2008-03-08,SE-12,Johor,N.44 Tanjong Puteri,47062,33019,2,711
+2008-03-08,SE-12,Johor,N.45 Stulang,42663,29662,329,770
+2008-03-08,SE-12,Johor,N.46 Pengkalan Rinting,46664,32762,120,610
 2008-03-08,SE-12,Johor,N.47 Kempas,32958,24102,55,439
 2008-03-08,SE-12,Johor,N.48 Skudai,44459,34029,45,590
 2008-03-08,SE-12,Johor,N.49 Nusa Jaya,34217,26699,47,750
 2008-03-08,SE-12,Johor,N.50 Bukit Permai,14863,12116,59,479
 2008-03-08,SE-12,Johor,N.51 Bukit Batu,19556,15810,17,524
 2008-03-08,SE-12,Johor,N.52 Senai,32939,25800,29,577
-2008-03-08,SE-12,Johor,N.53 Benut,18646,14376,27,457
+2008-03-08,SE-12,Johor,N.53 Benut,18646,14374,25,457
 2008-03-08,SE-12,Johor,N.54 Pulai Sebatang,24618,18460,0,469
 2008-03-08,SE-12,Johor,N.55 Pekan Nenas,28012,21746,0,476
 2008-03-08,SE-12,Johor,N.56 Kukup,17689,13605,0,450
@@ -8763,11 +8763,11 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2004-03-21,SE-10,Sabah,N.58 Merotai,13348,7892,0,79
 2004-03-21,SE-10,Sabah,N.59 Tanjong Batu,11564,6676,0,108
 2004-03-21,SE-10,Sabah,N.60 Sebatik,9705,5781,0,111
-2008-03-08,SE-11,Sabah,N.01 Banggi,8187,5109,8,232
+2008-03-08,SE-11,Sabah,N.01 Banggi,8187,5108,7,232
 2008-03-08,SE-11,Sabah,N.02 Tanjong Kapor,19500,13234,77,567
 2008-03-08,SE-11,Sabah,N.03 Pitas,11956,8213,15,277
 2008-03-08,SE-11,Sabah,N.04 Matunggong,15400,10879,14,254
-2008-03-08,SE-11,Sabah,N.05 Tandek,16538,11675,360,364
+2008-03-08,SE-11,Sabah,N.05 Tandek,16538,11346,31,364
 2008-03-08,SE-11,Sabah,N.06 Tempasuk,14291,11167,2,324
 2008-03-08,SE-11,Sabah,N.07 Kadamaian,12964,10288,0,268
 2008-03-08,SE-11,Sabah,N.08 Usukan,15816,12263,22,336
@@ -8777,14 +8777,14 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-11,Sabah,N.12 Karambunai,19951,13416,207,399
 2008-03-08,SE-11,Sabah,N.13 Inanam,19300,13626,20,274
 2008-03-08,SE-11,Sabah,N.14 Likas,15178,9519,6,111
-2008-03-08,SE-11,Sabah,N.15 Api-Api,10775,6832,58,110
+2008-03-08,SE-11,Sabah,N.15 Api-Api,10775,6831,57,110
 2008-03-08,SE-11,Sabah,N.16 Luyang,17761,11668,43,95
 2008-03-08,SE-11,Sabah,N.17 Tanjong Aru,19993,12437,14,225
 2008-03-08,SE-11,Sabah,N.18 Petagas,14942,10859,695,332
 2008-03-08,SE-11,Sabah,N.19 Kapayan,20723,14356,236,200
 2008-03-08,SE-11,Sabah,N.20 Moyog,15098,11195,31,119
-2008-03-08,SE-11,Sabah,N.21 Kawang,15591,12008,163,262
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,16688,12850,279,278
+2008-03-08,SE-11,Sabah,N.21 Kawang,15591,11890,45,262
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,16688,12817,271,278
 2008-03-08,SE-11,Sabah,N.23 Bongawan,12389,9711,5,218
 2008-03-08,SE-11,Sabah,N.24 Membakut,9850,7656,7,168
 2008-03-08,SE-11,Sabah,N.25 Klias,13885,9983,7,361
@@ -8796,7 +8796,7 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-11,Sabah,N.31 Paginatan,10084,7374,8,164
 2008-03-08,SE-11,Sabah,N.32 Tambunan,11245,8694,0,116
 2008-03-08,SE-11,Sabah,N.33 Bingkor,13339,9455,0,155
-2008-03-08,SE-11,Sabah,N.34 Liawan,10994,7811,0,143
+2008-03-08,SE-11,Sabah,N.34 Liawan,10994,7812,1,143
 2008-03-08,SE-11,Sabah,N.35 Melalap,10276,7259,0,176
 2008-03-08,SE-11,Sabah,N.36 Kemabong,10598,8442,0,226
 2008-03-08,SE-11,Sabah,N.37 Sook,12564,9250,0,63
@@ -8811,10 +8811,10 @@ date,election,state,seat,voters_total,ballots_issued,ballots_not_returned,votes_
 2008-03-08,SE-11,Sabah,N.46 Tanjong Papat,14484,9183,0,273
 2008-03-08,SE-11,Sabah,N.47 Kuamut,11389,7668,18,300
 2008-03-08,SE-11,Sabah,N.48 Sukau,8165,5139,2,324
-2008-03-08,SE-11,Sabah,N.49 Tungku,12246,7713,4,271
+2008-03-08,SE-11,Sabah,N.49 Tungku,12246,7712,0,274
 2008-03-08,SE-11,Sabah,N.50 Lahad Datu,21548,13557,119,428
 2008-03-08,SE-11,Sabah,N.51 Kunak,9694,6283,7,225
-2008-03-08,SE-11,Sabah,N.52 Sulabayan,11291,7540,186,389
+2008-03-08,SE-11,Sabah,N.52 Sulabayan,11291,7385,31,389
 2008-03-08,SE-11,Sabah,N.53 Senallang,12198,7753,25,366
 2008-03-08,SE-11,Sabah,N.54 Bugaya,11727,0,0,0
 2008-03-08,SE-11,Sabah,N.55 Balung,10248,6779,8,188

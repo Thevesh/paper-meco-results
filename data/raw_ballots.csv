@@ -7277,8 +7277,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Perlis,N.13 Guar Sanji,2,8254,Cikgu Jalperi Bin Haji Othman,BN,001-UMNO,UMNO,001-BN,BN,3736
 2008-03-08,SE-12,Perlis,N.14 Simpang Empat,1,7574,Zahari Bin Bakar,BN,001-UMNO,UMNO,001-BN,BN,2825
 2008-03-08,SE-12,Perlis,N.14 Simpang Empat,2,9079,Rus'Sele Bin Eizan,PAS,004-PAS,PAS,007-PR,PR,2878
-2008-03-08,SE-12,Perlis,N.15 Sanglang,1,9080,Abdullah Bin Hassan,BN,001-UMNO,UMNO,001-BN,BN,3384
-2008-03-08,SE-12,Perlis,N.15 Sanglang,2,6045,Ustaz Hashim Bin Hj. Jasin,PAS,004-PAS,PAS,007-PR,PR,3235
+2008-03-08,SE-12,Perlis,N.15 Sanglang,1,9080,Abdullah Bin Hassan,BN,001-UMNO,UMNO,001-BN,BN,3286
+2008-03-08,SE-12,Perlis,N.15 Sanglang,2,6045,Ustaz Hashim Bin Hj. Jasin,PAS,004-PAS,PAS,007-PR,PR,3333
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,1,9972,Yaacob Bin Man,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,968
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,2,9973,Khaw Hock Kong,BN,003-MCA,MCA,001-BN,BN,3925
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,3,9974,Teh Seng Chuan,DAP,021-DAP,DAP,007-PR,PR,2439
@@ -8135,8 +8135,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Kedah,N.08 Pedu,2,8073,Ir. Zamri Bin Yusuf,PKR,078-PKR,PKR,007-PR,PR,6047
 2008-03-08,SE-12,Kedah,N.09 Bukit Lada,1,9088,Ust 'Izzat Shauki,PAS,004-PAS,PAS,007-PR,PR,9600
 2008-03-08,SE-12,Kedah,N.09 Bukit Lada,2,8262,Dato' Ariffin Bin Man,BN,001-UMNO,UMNO,001-BN,BN,9392
-2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,1,8263,Haji Md Rohsidi,PAS,004-PAS,PAS,007-PR,PR,11307
-2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,2,9089,Cikgu Omar,BN,001-UMNO,UMNO,001-BN,BN,7908
+2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,1,8263,Haji Md Rohsidi,PAS,004-PAS,PAS,007-PR,PR,11233
+2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,2,9089,Cikgu Omar,BN,001-UMNO,UMNO,001-BN,BN,7922
 2008-03-08,SE-12,Kedah,N.11 Derga,1,9090,Dr. Cheah Soon Hai,BN,026-GERAKAN,GERAKAN,001-BN,BN,6516
 2008-03-08,SE-12,Kedah,N.11 Derga,2,6766,Cheung Khai Yan,PKR,078-PKR,PKR,007-PR,PR,6353
 2008-03-08,SE-12,Kedah,N.11 Derga,3,9091,Teoh Teik Guan,DAP,021-DAP,DAP,007-PR,PR,2095
@@ -11859,12 +11859,12 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Pulau Pinang,N.33 Air Itam,2,7420,Cheang Chee Gooi,BN,026-GERAKAN,GERAKAN,001-BN,BN,4674
 2008-03-08,SE-12,Pulau Pinang,N.34 Paya Terubong,1,8388,Yeoh Soon Hin,DAP,021-DAP,DAP,007-PR,PR,16848
 2008-03-08,SE-12,Pulau Pinang,N.34 Paya Terubong,2,9202,Koh Wan Leong,BN,003-MCA,MCA,001-BN,BN,5727
-2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,1,9203,Raveetharan,PKR,078-PKR,PKR,007-PR,PR,8046
-2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,2,8390,Goh Kheng Sneah,BN,026-GERAKAN,GERAKAN,001-BN,BN,7435
-2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,1,8392,Wong Mun Hoe,BN,026-GERAKAN,GERAKAN,001-BN,BN,5724
-2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,2,9204,Sim Tze Tzin,PKR,078-PKR,PKR,007-PR,PR,6982
-2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,1,9205,Abdul Malik Kassim,PKR,078-PKR,PKR,007-PR,PR,9571
-2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,2,9206,Norman Bin Zahalan,BN,001-UMNO,UMNO,001-BN,BN,6402
+2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,1,9203,Raveetharan,PKR,078-PKR,PKR,007-PR,PR,8099
+2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,2,8390,Goh Kheng Sneah,BN,026-GERAKAN,GERAKAN,001-BN,BN,7830
+2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,1,8392,Wong Mun Hoe,BN,026-GERAKAN,GERAKAN,001-BN,BN,5732
+2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,2,9204,Sim Tze Tzin,PKR,078-PKR,PKR,007-PR,PR,6987
+2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,1,9205,Abdul Malik Kassim,PKR,078-PKR,PKR,007-PR,PR,9768
+2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,2,9206,Norman Bin Zahalan,BN,001-UMNO,UMNO,001-BN,BN,7103
 2008-03-08,SE-12,Pulau Pinang,N.38 Bayan Lepas,1,9207,Cikgu Asnah Hashim,PAS,004-PAS,PAS,007-PR,PR,6164
 2008-03-08,SE-12,Pulau Pinang,N.38 Bayan Lepas,2,6923,Syed Amerruddin Bin Syed Ahmad,BN,001-UMNO,UMNO,001-BN,BN,6563
 2008-03-08,SE-12,Pulau Pinang,N.39 Pulau Betong,1,8396,Sr. Hj. Muhamad Farid Saad,BN,001-UMNO,UMNO,001-BN,BN,4990
@@ -13489,8 +13489,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Perak,N.04 Kota Tampan,2,5418,Hj. Hamzah Bin Mohd Zain,PKR,078-PKR,PKR,007-PR,PR,2628
 2008-03-08,SE-12,Perak,N.05 Selama,1,8405,Dato' Hj. Mohamad Daud Bin Hj. Mohd Yusoff,BN,001-UMNO,UMNO,001-BN,BN,5240
 2008-03-08,SE-12,Perak,N.05 Selama,2,9211,Haji Abu Husin Bin Mohmmad,PAS,004-PAS,PAS,007-PR,PR,4885
-2008-03-08,SE-12,Perak,N.06 Kubu Gajah,1,6178,Dato' Seri Raja Ahmad Zainuddin Bin Raja Haji Omar,BN,001-UMNO,UMNO,001-BN,BN,4114
-2008-03-08,SE-12,Perak,N.06 Kubu Gajah,2,8406,Mohd Nazri Bin Hj Din,PAS,004-PAS,PAS,007-PR,PR,4048
+2008-03-08,SE-12,Perak,N.06 Kubu Gajah,1,6178,Dato' Seri Raja Ahmad Zainuddin Bin Raja Haji Omar,BN,001-UMNO,UMNO,001-BN,BN,4093
+2008-03-08,SE-12,Perak,N.06 Kubu Gajah,2,8406,Mohd Nazri Bin Hj Din,PAS,004-PAS,PAS,007-PR,PR,4034
 2008-03-08,SE-12,Perak,N.07 Batu Kurau,1,8407,Dato' Najmuddin,BN,001-UMNO,UMNO,001-BN,BN,7023
 2008-03-08,SE-12,Perak,N.07 Batu Kurau,2,9212,Cik Gu Hamid,PKR,078-PKR,PKR,007-PR,PR,4584
 2008-03-08,SE-12,Perak,N.08 Titi Serong,1,8410,Drs. Khalil Idham Lim,PAS,004-PAS,PAS,007-PR,PR,10012
@@ -16489,7 +16489,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,2,9336,Edward Lee Poh Lin,DAP,021-DAP,DAP,007-PR,PR,15735
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,1,9337,Sheah Kok Fah,BN,003-MCA,MCA,001-BN,BN,6656
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,2,9338,Lau Weng San,DAP,021-DAP,DAP,007-PR,PR,14633
-2008-03-08,SE-12,Selangor,N.36 Damansara Utama,1,9339,Victor Gu Chian Peow,BN,003-MCA,MCA,001-BN,BN,8526
+2008-03-08,SE-12,Selangor,N.36 Damansara Utama,1,9339,Victor Gu Chian Peow,BN,003-MCA,MCA,001-BN,BN,9526
 2008-03-08,SE-12,Selangor,N.36 Damansara Utama,2,9340,Dr Cheah Wing Yin,DAP,021-DAP,DAP,007-PR,PR,24881
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,1,8548,Datin Paduka Yong Dai Ying,BN,026-GERAKAN,GERAKAN,001-BN,BN,6970
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,2,9341,Elizabeth Wong,PKR,078-PKR,PKR,007-PR,PR,12125
@@ -17799,8 +17799,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,2,9374,Hj. Adnan Bin Hj. Abu Hassan,BN,001-UMNO,UMNO,001-BN,BN,4359
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,1,8592,Roslan Bin Md Yusof,BN,001-UMNO,UMNO,001-BN,BN,3737
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,2,8593,Kamarudin Bin Md Tahir,PAS,004-PAS,PAS,007-PR,PR,2474
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,1,9375,Hasim Bin Rusdi,BN,001-UMNO,UMNO,001-BN,BN,5451
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,9376,Mokhtar Bin Ahmad,PKR,078-PKR,PKR,007-PR,PR,4046
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,1,9375,Hasim Bin Rusdi,BN,001-UMNO,UMNO,001-BN,BN,5206
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,9376,Mokhtar Bin Ahmad,PKR,078-PKR,PKR,007-PR,PR,3808
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,1,8596,Cha Kee Chin,DAP,021-DAP,DAP,007-PR,PR,9333
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,2,8595,Dato' Chan Khee Voon,BN,026-GERAKAN,GERAKAN,001-BN,BN,3633
 2008-03-08,SE-12,Negeri Sembilan,N.22 Rahang,1,7891,Yip Chee Keong,BN,003-MCA,MCA,001-BN,BN,4777
@@ -20021,8 +20021,8 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-12,Johor,N.35 Pasir Raja,2,8187,Datuk Dr Adham Bin Baba,BN,001-UMNO,UMNO,001-BN,BN,9701
 2008-03-08,SE-12,Johor,N.36 Sedili,1,9449,Rasman Bin Ithnain,BN,001-UMNO,UMNO,001-BN,BN,14017
 2008-03-08,SE-12,Johor,N.36 Sedili,2,8683,Hj Monaim,PAS,004-PAS,PAS,007-PR,PR,1259
-2008-03-08,SE-12,Johor,N.37 Johor Lama,1,9450,Kamaldin,PAS,004-PAS,PAS,007-PR,PR,2363
-2008-03-08,SE-12,Johor,N.37 Johor Lama,2,7960,Asiah Binti Md Ariff,BN,001-UMNO,UMNO,001-BN,BN,8668
+2008-03-08,SE-12,Johor,N.37 Johor Lama,1,9450,Kamaldin,PAS,004-PAS,PAS,007-PR,PR,2397
+2008-03-08,SE-12,Johor,N.37 Johor Lama,2,7960,Asiah Binti Md Ariff,BN,001-UMNO,UMNO,001-BN,BN,8789
 2008-03-08,SE-12,Johor,N.38 Penawar,1,9451,Md Paimon Bin Jasmin,PAS,004-PAS,PAS,007-PR,PR,1364
 2008-03-08,SE-12,Johor,N.38 Penawar,2,9452,Hamimah Mansor,BN,001-UMNO,UMNO,001-BN,BN,11466
 2008-03-08,SE-12,Johor,N.39 Tanjong Surat,1,7962,Abd Razak Bin Esa,PKR,078-PKR,PKR,007-PR,PR,1279
@@ -22409,7 +22409,7 @@ date,election,state,seat,ballot_order,candidate_rn,name_on_ballot,party_on_ballo
 2008-03-08,SE-11,Sabah,N.21 Kawang,2,8758,Maiji Jaigul,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,144
 2008-03-08,SE-11,Sabah,N.21 Kawang,3,4298,Datuk Pengiran Othman Rauf,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,295
 2008-03-08,SE-11,Sabah,N.21 Kawang,4,9499,Evelyn Gobile,PKR,078-PKR,PKR,007-PR,PR,2539
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,1,9500,Welfred Kilos,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,579
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,1,9500,Welfred Kilos,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,554
 2008-03-08,SE-11,Sabah,N.22 Pantai Manis,2,5815,Datuk Haji Abdul Rahim Bin Ismail,BN,001-UMNO,UMNO,001-BN,BN,7223
 2008-03-08,SE-11,Sabah,N.22 Pantai Manis,3,9501,Ag. Bakar Bin Ag. Hussain,PKR,078-PKR,PKR,007-PR,PR,4361
 2008-03-08,SE-11,Sabah,N.22 Pantai Manis,4,9019,Mohd Hashim Yusof,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,130

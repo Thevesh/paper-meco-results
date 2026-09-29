@@ -7277,8 +7277,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Perlis,N.13 Guar Sanji,2,GNTDS,Cikgu Jalperi Bin Haji Othman,Jafperi bin Othman,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,3736,55.18463810930576,1,won
 2008-03-08,SE-12,Perlis,N.14 Simpang Empat,1,NRSYH,Zahari Bin Bakar,Zahari bin Bakar,M,Malay,-1,BN,001-UMNO,UMNO,001-BN,BN,2825,49.53533228125548,2,lost
 2008-03-08,SE-12,Perlis,N.14 Simpang Empat,2,WKV7T,Rus'Sele Bin Eizan,Rus'sele bin Eizan,M,Malay,51,PAS,004-PAS,PAS,007-PR,PR,2878,50.464667718744515,1,won
-2008-03-08,SE-12,Perlis,N.15 Sanglang,1,01HA3,Abdullah Bin Hassan,Abdullah bin Hassan,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,3384,51.125547665810544,1,won
-2008-03-08,SE-12,Perlis,N.15 Sanglang,2,WN6YG,Ustaz Hashim Bin Hj. Jasin,Hashim bin Jasin,M,Malay,69,PAS,004-PAS,PAS,007-PR,PR,3235,48.874452334189456,2,lost
+2008-03-08,SE-12,Perlis,N.15 Sanglang,1,01HA3,Abdullah Bin Hassan,Abdullah bin Hassan,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,3286,49.64496147454298,2,lost
+2008-03-08,SE-12,Perlis,N.15 Sanglang,2,WN6YG,Ustaz Hashim Bin Hj. Jasin,Hashim bin Jasin,M,Malay,69,PAS,004-PAS,PAS,007-PR,PR,3333,50.35503852545702,1,won
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,1,HMRWZ,Yaacob Bin Man,Yaacob bin Man,M,Malay,54,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,968,13.202400436442991,3,lost
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,2,N2EZ8,Khaw Hock Kong,Khaw Hock Kong,M,Chinese,49,BN,003-MCA,MCA,001-BN,BN,3925,53.53246044735407,1,won
 2013-05-05,SE-13,Perlis,N.01 Titi Tinggi,3,RG51H,Teh Seng Chuan,Teh Seng Chuan,M,Chinese,41,DAP,021-DAP,DAP,007-PR,PR,2439,33.265139116202946,2,lost
@@ -8135,8 +8135,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Kedah,N.08 Pedu,2,47ZGW,Ir. Zamri Bin Yusuf,Zamri bin Yusuf,M,Malay,42,PKR,078-PKR,PKR,007-PR,PR,6047,40.7837054023066,2,lost
 2008-03-08,SE-12,Kedah,N.09 Bukit Lada,1,VF1WB,Ust 'Izzat Shauki,Ahmad 'Izzat bin Mohamad Shauki,M,Malay,29,PAS,004-PAS,PAS,007-PR,PR,9600,50.54759898904801,1,won
 2008-03-08,SE-12,Kedah,N.09 Bukit Lada,2,C3B01,Dato' Ariffin Bin Man,Ariffin bin Man,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,9392,49.45240101095198,2,lost
-2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,1,FH12A,Haji Md Rohsidi,Md Rohsidi bin Osman,M,Malay,62,PAS,004-PAS,PAS,007-PR,PR,11307,58.84465261514442,1,won
-2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,2,YWQYM,Cikgu Omar,Che Omar bin Saad,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,7908,41.15534738485558,2,lost
+2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,1,FH12A,Haji Md Rohsidi,Md Rohsidi bin Osman,M,Malay,62,PAS,004-PAS,PAS,007-PR,PR,11233,58.64265204907335,1,won
+2008-03-08,SE-12,Kedah,N.10 Bukit Pinang,2,YWQYM,Cikgu Omar,Che Omar bin Saad,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,7922,41.35734795092665,2,lost
 2008-03-08,SE-12,Kedah,N.11 Derga,1,2AE0X,Dr. Cheah Soon Hai,Cheah Soon Hai,M,Chinese,47,BN,026-GERAKAN,GERAKAN,001-BN,BN,6516,43.54450681635926,1,won
 2008-03-08,SE-12,Kedah,N.11 Derga,2,43GB9,Cheung Khai Yan,Cheung Khai Yan,M,Chinese,52,PKR,078-PKR,PKR,007-PR,PR,6353,42.45522587543438,2,lost
 2008-03-08,SE-12,Kedah,N.11 Derga,3,5R436,Teoh Teik Guan,Teoh Teik Guan,M,Chinese,39,DAP,021-DAP,DAP,007-PR,PR,2095,14.000267308206363,3,lost
@@ -11859,12 +11859,12 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Pulau Pinang,N.33 Air Itam,2,5WJZ7,Cheang Chee Gooi,Cheang Chee Gooi,M,Chinese,59,BN,026-GERAKAN,GERAKAN,001-BN,BN,4674,38.70807453416149,2,lost
 2008-03-08,SE-12,Pulau Pinang,N.34 Paya Terubong,1,W07ZF,Yeoh Soon Hin,Yeoh Soon Hin,M,Chinese,32,DAP,021-DAP,DAP,007-PR,PR,16848,74.6312292358804,1,won
 2008-03-08,SE-12,Pulau Pinang,N.34 Paya Terubong,2,27P0D,Koh Wan Leong,Koh Wan Leong,M,Chinese,44,BN,003-MCA,MCA,001-BN,BN,5727,25.368770764119603,2,lost
-2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,1,5NC2P,Raveetharan,Raveetharan a/l V. Subramaniam,M,Indian,48,PKR,078-PKR,PKR,007-PR,PR,8046,51.97338673212325,1,won
-2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,2,2VM41,Goh Kheng Sneah,Goh Kheng Sneah,M,Chinese,45,BN,026-GERAKAN,GERAKAN,001-BN,BN,7435,48.02661326787675,2,lost
-2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,1,9Q08K,Wong Mun Hoe,Wong Mun Hoe,M,Chinese,48,BN,026-GERAKAN,GERAKAN,001-BN,BN,5724,45.04958287423265,2,lost
-2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,2,9324Z,Sim Tze Tzin,Sim Tze Tzin,M,Chinese,32,PKR,078-PKR,PKR,007-PR,PR,6982,54.95041712576736,1,won
-2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,1,CGR78,Abdul Malik Kassim,Abdul Malik bin Abul Kassim,M,Malay,54,PKR,078-PKR,PKR,007-PR,PR,9571,59.91986477180241,1,won
-2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,2,FYE9H,Norman Bin Zahalan,Norman bin Zahalan,M,Malay,38,BN,001-UMNO,UMNO,001-BN,BN,6402,40.080135228197584,2,lost
+2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,1,5NC2P,Raveetharan,Raveetharan a/l V. Subramaniam,M,Indian,48,PKR,078-PKR,PKR,007-PR,PR,8099,50.844371900307614,1,won
+2008-03-08,SE-12,Pulau Pinang,N.35 Batu Uban,2,2VM41,Goh Kheng Sneah,Goh Kheng Sneah,M,Chinese,45,BN,026-GERAKAN,GERAKAN,001-BN,BN,7830,49.155628099692386,2,lost
+2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,1,9Q08K,Wong Mun Hoe,Wong Mun Hoe,M,Chinese,48,BN,026-GERAKAN,GERAKAN,001-BN,BN,5732,45.06643604056923,2,lost
+2008-03-08,SE-12,Pulau Pinang,N.36 Pantai Jerejak,2,9324Z,Sim Tze Tzin,Sim Tze Tzin,M,Chinese,32,PKR,078-PKR,PKR,007-PR,PR,6987,54.93356395943078,1,won
+2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,1,CGR78,Abdul Malik Kassim,Abdul Malik bin Abul Kassim,M,Malay,54,PKR,078-PKR,PKR,007-PR,PR,9768,57.89816845474483,1,won
+2008-03-08,SE-12,Pulau Pinang,N.37 Batu Maung,2,FYE9H,Norman Bin Zahalan,Norman bin Zahalan,M,Malay,38,BN,001-UMNO,UMNO,001-BN,BN,7103,42.101831545255166,2,lost
 2008-03-08,SE-12,Pulau Pinang,N.38 Bayan Lepas,1,KC4BT,Cikgu Asnah Hashim,Asnah binti Hashim,F,Malay,44,PAS,004-PAS,PAS,007-PR,PR,6164,48.432466409994504,2,lost
 2008-03-08,SE-12,Pulau Pinang,N.38 Bayan Lepas,2,Y8SHE,Syed Amerruddin Bin Syed Ahmad,Syed Amerruddin bin Syed Ahmad,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,6563,51.567533590005496,1,won
 2008-03-08,SE-12,Pulau Pinang,N.39 Pulau Betong,1,QDRHQ,Sr. Hj. Muhamad Farid Saad,Muhamad Farid bin Saad,M,Malay,45,BN,001-UMNO,UMNO,001-BN,BN,4990,51.51765434647946,1,won
@@ -13489,8 +13489,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Perak,N.04 Kota Tampan,2,QDR85,Hj. Hamzah Bin Mohd Zain,Hamzah bin Mohd Zain,M,Malay,59,PKR,078-PKR,PKR,007-PR,PR,2628,34.6199446713213,2,lost
 2008-03-08,SE-12,Perak,N.05 Selama,1,P8Z68,Dato' Hj. Mohamad Daud Bin Hj. Mohd Yusoff,Mohamad Daud bin Mohd Yusoff,M,Malay,48,BN,001-UMNO,UMNO,001-BN,BN,5240,51.75308641975309,1,won
 2008-03-08,SE-12,Perak,N.05 Selama,2,12WMY,Haji Abu Husin Bin Mohmmad,Abu Husin bin Mohmmad,M,Malay,50,PAS,004-PAS,PAS,007-PR,PR,4885,48.24691358024691,2,lost
-2008-03-08,SE-12,Perak,N.06 Kubu Gajah,1,4HYDX,Dato' Seri Raja Ahmad Zainuddin Bin Raja Haji Omar,Raja Ahmad Zainuddin bin Raja Omar,M,Malay,52,BN,001-UMNO,UMNO,001-BN,BN,4114,50.40431266846361,1,won
-2008-03-08,SE-12,Perak,N.06 Kubu Gajah,2,SPN8H,Mohd Nazri Bin Hj Din,Mohd Nazri bin Din,M,Malay,31,PAS,004-PAS,PAS,007-PR,PR,4048,49.59568733153639,2,lost
+2008-03-08,SE-12,Perak,N.06 Kubu Gajah,1,4HYDX,Dato' Seri Raja Ahmad Zainuddin Bin Raja Haji Omar,Raja Ahmad Zainuddin bin Raja Omar,M,Malay,52,BN,001-UMNO,UMNO,001-BN,BN,4093,50.362987572289896,1,won
+2008-03-08,SE-12,Perak,N.06 Kubu Gajah,2,SPN8H,Mohd Nazri Bin Hj Din,Mohd Nazri bin Din,M,Malay,31,PAS,004-PAS,PAS,007-PR,PR,4034,49.637012427710104,2,lost
 2008-03-08,SE-12,Perak,N.07 Batu Kurau,1,X4BAT,Dato' Najmuddin,Mohd Najmuddin bin Elias,M,Malay,44,BN,001-UMNO,UMNO,001-BN,BN,7023,60.50659085034893,1,won
 2008-03-08,SE-12,Perak,N.07 Batu Kurau,2,4GJQ7,Cik Gu Hamid,Abdul Hamid bin Ali,M,Malay,-1,PKR,078-PKR,PKR,007-PR,PR,4584,39.49340914965107,2,lost
 2008-03-08,SE-12,Perak,N.08 Titi Serong,1,7DDHN,Drs. Khalil Idham Lim,Khalil Idham Lim bin Abdullah,M,Chinese,44,PAS,004-PAS,PAS,007-PR,PR,10012,53.04370860927152,1,won
@@ -16489,8 +16489,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Selangor,N.34 Bukit Gasing,2,DJ3J3,Edward Lee Poh Lin,Edward Lee Poh Lin,M,Chinese,58,DAP,021-DAP,DAP,007-PR,PR,15735,69.44567040338954,1,won
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,1,GZSMC,Sheah Kok Fah,Sheah Kok Fah,M,Chinese,44,BN,003-MCA,MCA,001-BN,BN,6656,31.264972521020244,2,lost
 2008-03-08,SE-12,Selangor,N.35 Kampung Tunku,2,MDFPN,Lau Weng San,Lau Weng San,M,Chinese,30,DAP,021-DAP,DAP,007-PR,PR,14633,68.73502747897976,1,won
-2008-03-08,SE-12,Selangor,N.36 Damansara Utama,1,QV5RY,Victor Gu Chian Peow,Victor Gu Chian Peow,M,Chinese,31,BN,003-MCA,MCA,001-BN,BN,8526,25.521597270033226,2,lost
-2008-03-08,SE-12,Selangor,N.36 Damansara Utama,2,V8VV7,Dr Cheah Wing Yin,Cheah Wing Yin,M,Chinese,54,DAP,021-DAP,DAP,007-PR,PR,24881,74.47840272996677,1,won
+2008-03-08,SE-12,Selangor,N.36 Damansara Utama,1,QV5RY,Victor Gu Chian Peow,Victor Gu Chian Peow,M,Chinese,31,BN,003-MCA,MCA,001-BN,BN,9526,27.68622663992792,2,lost
+2008-03-08,SE-12,Selangor,N.36 Damansara Utama,2,V8VV7,Dr Cheah Wing Yin,Cheah Wing Yin,M,Chinese,54,DAP,021-DAP,DAP,007-PR,PR,24881,72.31377336007208,1,won
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,1,0EKCF,Datin Paduka Yong Dai Ying,Yong Dai Ying,F,Chinese,55,BN,026-GERAKAN,GERAKAN,001-BN,BN,6970,36.50170201623462,2,lost
 2008-03-08,SE-12,Selangor,N.37 Bukit Lanjan,2,YPHXG,Elizabeth Wong,Elizabeth Wong Keat Ping,F,Chinese,38,PKR,078-PKR,PKR,007-PR,PR,12125,63.49829798376538,1,won
 2008-03-08,SE-12,Selangor,N.38 Paya Jaras,1,D18A8,Mohd Khairuddin,Mohd Khairuddin bin Othman,M,Malay,37,PAS,004-PAS,PAS,007-PR,PR,10879,48.566964285714285,2,lost
@@ -17799,8 +17799,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Negeri Sembilan,N.18 Pilah,2,FTA8S,Hj. Adnan Bin Hj. Abu Hassan,Adnan bin Abu Hassan,M,Malay,38,BN,001-UMNO,UMNO,001-BN,BN,4359,58.43163538873994,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,1,Q8YGV,Roslan Bin Md Yusof,Roslan bin Md Yusof,M,Malay,55,BN,001-UMNO,UMNO,001-BN,BN,3737,60.16744485590082,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.19 Johol,2,TPMK4,Kamarudin Bin Md Tahir,Kamarudin bin Md Tahir,M,Malay,60,PAS,004-PAS,PAS,007-PR,PR,2474,39.83255514409918,2,lost
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,1,K80B2,Hasim Bin Rusdi,Hasim bin Rusdi,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,5451,57.39707275981889,1,won
-2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,PNPDB,Mokhtar Bin Ahmad,Mokhtar bin Ahmad,M,Malay,41,PKR,078-PKR,PKR,007-PR,PR,4046,42.60292724018111,2,lost
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,1,K80B2,Hasim Bin Rusdi,Hasim bin Rusdi,M,Malay,50,BN,001-UMNO,UMNO,001-BN,BN,5206,57.75460394941203,1,won
+2008-03-08,SE-12,Negeri Sembilan,N.20 Labu,2,PNPDB,Mokhtar Bin Ahmad,Mokhtar bin Ahmad,M,Malay,41,PKR,078-PKR,PKR,007-PR,PR,3808,42.24539605058798,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,1,4ZPSZ,Cha Kee Chin,Cha Kee Chin,M,Chinese,34,DAP,021-DAP,DAP,007-PR,PR,9333,71.98056455344748,1,won
 2008-03-08,SE-12,Negeri Sembilan,N.21 Bukit Kepayang,2,1J0QP,Dato' Chan Khee Voon,Chan Khee Voon,M,Chinese,52,BN,026-GERAKAN,GERAKAN,001-BN,BN,3633,28.01943544655252,2,lost
 2008-03-08,SE-12,Negeri Sembilan,N.22 Rahang,1,MCEHP,Yip Chee Keong,Yip Chee Kiong,M,Chinese,53,BN,003-MCA,MCA,001-BN,BN,4777,44.87552841709723,2,lost
@@ -20021,8 +20021,8 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-12,Johor,N.35 Pasir Raja,2,B0KMY,Datuk Dr Adham Bin Baba,Adham bin Baba,M,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,9701,76.93100713719271,1,won
 2008-03-08,SE-12,Johor,N.36 Sedili,1,GX1KW,Rasman Bin Ithnain,Rasman bin Ithnain,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,14017,91.75831369468447,1,won
 2008-03-08,SE-12,Johor,N.36 Sedili,2,F6Q0E,Hj Monaim,Mona'Im bin Hassan,M,Malay,-1,PAS,004-PAS,PAS,007-PR,PR,1259,8.241686305315527,2,lost_deposit
-2008-03-08,SE-12,Johor,N.37 Johor Lama,1,MAQP5,Kamaldin,Kamaldin bin Tahir,M,Malay,56,PAS,004-PAS,PAS,007-PR,PR,2363,21.421448644728493,2,lost
-2008-03-08,SE-12,Johor,N.37 Johor Lama,2,0X1F3,Asiah Binti Md Ariff,Asiah binti Md. Ariff,F,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,8668,78.57855135527151,1,won
+2008-03-08,SE-12,Johor,N.37 Johor Lama,1,MAQP5,Kamaldin,Kamaldin bin Tahir,M,Malay,56,PAS,004-PAS,PAS,007-PR,PR,2397,21.428571428571427,2,lost
+2008-03-08,SE-12,Johor,N.37 Johor Lama,2,0X1F3,Asiah Binti Md Ariff,Asiah binti Md. Ariff,F,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,8789,78.57142857142857,1,won
 2008-03-08,SE-12,Johor,N.38 Penawar,1,QRDRE,Md Paimon Bin Jasmin,Md Paimon bin Jasmin,M,Malay,56,PAS,004-PAS,PAS,007-PR,PR,1364,10.631332813717849,2,lost_deposit
 2008-03-08,SE-12,Johor,N.38 Penawar,2,V63TQ,Hamimah Mansor,Hamimah binti Mansor,F,Malay,45,BN,001-UMNO,UMNO,001-BN,BN,11466,89.36866718628215,1,won
 2008-03-08,SE-12,Johor,N.39 Tanjong Surat,1,7RDKN,Abd Razak Bin Esa,Abd. Razak bin Esa,M,Malay,60,PKR,078-PKR,PKR,007-PR,PR,1279,10.870304266530681,2,lost_deposit
@@ -22409,10 +22409,10 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2008-03-08,SE-11,Sabah,N.21 Kawang,2,G9EBH,Maiji Jaigul,Maiji Jaigul,M,Bumi Sabah,56,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,144,1.2432012432012431,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.21 Kawang,3,R98D5,Datuk Pengiran Othman Rauf,Pengiran Othman bin Rauf,M,Bumi Sabah,68,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,295,2.5468358801692137,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.21 Kawang,4,W9H5Y,Evelyn Gobile,Zavilin binti Gabili (Evelyn Gobile),F,Bumi Sabah,53,PKR,078-PKR,PKR,007-PR,PR,2539,21.920055253388586,2,lost
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,1,ZQ787,Welfred Kilos,Welfred bin Kilos,M,Bumi Sabah,62,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,579,4.709997559586757,3,lost_deposit
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,2,88JHT,Datuk Haji Abdul Rahim Bin Ismail,Abdul Rahim bin Ismail,M,Bumi Sabah,59,BN,001-UMNO,UMNO,001-BN,BN,7223,58.757016188074516,1,won
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,3,34XAG,Ag. Bakar Bin Ag. Hussain,Ag Bakar bin Ag Hussain,M,Bumi Sabah,59,PKR,078-PKR,PKR,007-PR,PR,4361,35.47547384690474,2,lost
-2008-03-08,SE-11,Sabah,N.22 Pantai Manis,4,EYEYY,Mohd Hashim Yusof,Mohd Hashim Yusof,M,Bumi Sabah,55,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,130,1.0575124054339868,4,lost_deposit
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,1,ZQ787,Welfred Kilos,Welfred bin Kilos,M,Bumi Sabah,62,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,554,4.5158134985327685,3,lost_deposit
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,2,88JHT,Datuk Haji Abdul Rahim Bin Ismail,Abdul Rahim bin Ismail,M,Bumi Sabah,59,BN,001-UMNO,UMNO,001-BN,BN,7223,58.876752526899246,1,won
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,3,34XAG,Ag. Bakar Bin Ag. Hussain,Ag Bakar bin Ag Hussain,M,Bumi Sabah,59,PKR,078-PKR,PKR,007-PR,PR,4361,35.54776654711445,2,lost
+2008-03-08,SE-11,Sabah,N.22 Pantai Manis,4,EYEYY,Mohd Hashim Yusof,Mohd Hashim Yusof,M,Bumi Sabah,55,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,130,1.0596674274535378,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.23 Bongawan,1,6JKCS,Ag. Wasli Bin Ag. Yahya,Ag Wasli bin Ag Yahya,M,Bumi Sabah,46,PKR,078-PKR,PKR,007-PR,PR,875,9.222175379426645,3,lost_deposit
 2008-03-08,SE-11,Sabah,N.23 Bongawan,2,A09F2,Lusin Bin Balangon,Lusin bin Balangon,M,Bumi Sabah,56,BERSEKUTU,065-BERSEKUTU,BERSEKUTU,000-ALONE,ALONE,97,1.0223440134907251,4,lost_deposit
 2008-03-08,SE-11,Sabah,N.23 Bongawan,3,KQ4DT,Md. Haris,Md Haris Md Tahir,M,Bumi Sabah,46,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,1393,14.681703204047217,2,lost
