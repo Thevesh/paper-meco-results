@@ -19097,6 +19097,85 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,2,47MZ5,Farzana Hayani Nasir,Farzana Hayani binti Nasir,F,Malay,21,PH,078-PKR,PKR,007-PH,PH,1356,17.15370018975332,3,lost
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,3,7NB1E,Nazatul Asyraf Bin Md.Dom,Nazatul Asyraf bin Md Dom,M,Malay,38,PUTRA,112-PUTRA,PUTRA,000-ALONE,ALONE,84,1.0626185958254268,4,lost_deposit
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,4,B313Q,Siti Faizah Binti Abdul Azis,Siti Faizah binti Abdul Azis,F,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,3801,48.08349146110057,1,won
+2026-11-14,SE-16,Melaka,N.01 Kuala Linggi,1,R88EE,Mukhlis Mubin,Muhammad Mukhlisul Mubin bin Julasapiyah,M,Malay,25,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.01 Kuala Linggi,2,VNYGQ,Dr Farhana Hamzah,Nur Farhana binti Hamzah,F,Malay,41,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.01 Kuala Linggi,3,6JKPB,Datuk Rosli @ Tok Li,Rosli bin Abdullah,M,Malay,58,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.02 Tanjung Bidara,1,Z3MK0,Yunazri Mustamiri,Mohd Yunazri bin Mustamiri,M,Other,36,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.02 Tanjung Bidara,2,M9BZF,Ab Rauf Bin Yusoh (Tok Rauf),Ab Rauf bin Yusoh,M,Malay,65,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.03 Ayer Limau,1,C8GFA,Mejar (B) Haji Mohd Jaini,Mohd Jaini bin Dimon,M,Malay,59,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.03 Ayer Limau,2,QQ21R,Datuk Hj Hameed,Hameed bin Mytheen Kunju Basheer,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.04 Lendu,1,VPZC4,Abdul Hakim Abdul Wahid,Abdul Hakim bin Abdul Wahid,M,Malay,41,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.04 Lendu,2,2HAN9,Nazri Bin Ramli,Nazri bin Ramli,M,Malay,52,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.05 Taboh Naning,1,5Z0QJ,Ajue Sahat,Junainah binti Sahat (Ajue),F,Malay,41,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.05 Taboh Naning,2,8VGD5,Acik Zul,Zulkiflee bin Mohd Zin,M,Malay,58,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.06 Rembia,1,9CPSV,Ustaz Aman Akil,Muhamed Aman Akil bin Abdul Talib,M,Malay,37,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.06 Rembia,2,CTCW4,Azril Aziz,Ahmad Norazril bin Abd Aziz,M,Malay,45,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.06 Rembia,3,G82YD,Khuzaire Kamal,Mohd Khuzaire bin Mohd Kamal Kannan,M,Malay,42,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.07 Gadek,1,KNS0P,Jegan K,Jegasilan a/l Kungamboo (Jegan),M,Indian,45,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.07 Gadek,2,Q3F2Z,Laveen Bala,Laveen a/l Balaprabhakaran,M,Indian,49,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.07 Gadek,3,XDMTV,Laila Norinda Maon,Laila Norinda binti Maon,F,Malay,49,PUTRA,112-PUTRA,PUTRA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.07 Gadek,4,TH558,Nadarajah Sellappa,Nadarajah a/l Sellappa,M,Indian,51,BN,002-MIC,MIC,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.08 Machap Jaya,1,7PQ1P,Ngwe Hee Sem (Ah Sem),Ngwe Hee Sem,M,Chinese,58,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.08 Machap Jaya,2,PN0D7,Ginie Lim,Ginie Lim Siew Lin,F,Chinese,45,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.08 Machap Jaya,3,C7TF6,Prasanth Kumar Brakasam,Prasanth Kumar a/l Brakasam,M,Indian,32,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.09 Durian Tunggal,1,XYV7H,Cikgu Mustafa Musa,Mustafa bin Musa,M,Malay,62,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.09 Durian Tunggal,2,5CEAM,Ashraf Minghat,Ashraf Mukhlis bin Minghat,M,Malay,55,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.10 Asahan,1,347KY,Fairul Nizam (Along),Fairul Nizam bin Roslan,M,Malay,48,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.10 Asahan,2,1CH9T,Denesh,Denesh a/l V Palasubramaniam,M,Indian,37,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.11 Sungai Udang,1,2048K,Mejar (B) Abdullah Bin Mahadi,Abdullah bin Mahadi,M,Malay,56,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.11 Sungai Udang,2,4T7C3,Ridzuan Rahman,Mohd Ridzuan bin Abdul Rahman,M,Malay,47,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.11 Sungai Udang,3,1ZE8F,Datuk Rais Bin Yasin,Rais bin Yasin,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.12 Pantai Kundor,1,87XEC,Dr. Asmah Samat,Asmah binti Samat,F,Malay,61,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.12 Pantai Kundor,2,BNKGN,Tuminah Kadi,Tuminah binti Kadi @ Mohd Hashim,F,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.13 Paya Rumput,1,2F8BB,Haji Rafie Ahmad,Rafie bin Ahmad,M,Malay,58,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.13 Paya Rumput,2,F39JY,Abdul Rashid @ Rashid Karimi,Abdul Rashid bin Abu Bakar (Rashid Karimi),M,Malay,37,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.13 Paya Rumput,3,JGZN7,Datuk Azman Abidin,Azman bin Abidin,M,Malay,54,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.14 Kelebang,1,NYNQG,Farzana Hayani / Nana,Farzana Hayani binti Mohd Nasir (Nana),F,Malay,26,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.14 Kelebang,2,GTZX2,Dato' Sri Mohamad Ali,Mohamad Ali bin Mohamad,M,Malay,62,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.14 Kelebang,3,SCBSS,Young Jie Yu,Young Jie Yu,M,Chinese,40,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.14 Kelebang,4,H8CTQ,Datuk Wira Lim Ban Hong,Lim Ban Hong,M,Chinese,49,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.15 Pengkalan Batu,1,WT1W2,Siti Aisyah Mahmood,Siti Aisyah binti Mahmood,F,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.15 Pengkalan Batu,2,07QYB,Goh Han @ Goh Han Koon,Goh Han Koon,M,Chinese,40,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.15 Pengkalan Batu,3,3NE0M,Jason Tze-Xi Nathan,Jason Tze-Xi Nathan,M,Indian,31,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.15 Pengkalan Batu,4,G60MF,Datuk Norhizam Bin Hassan Baktee,Norhizam bin Hassan Baktee,M,Malay,60,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,1,7342X,Muhaimin Lau / Alan Lau,Muhammad Muhaimin Lau bin Abdullah (Alan Lau),M,Chinese,49,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,2,TF2VA,Kerk Chee Yee,Kerk Chee Yee,M,Chinese,34,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,3,AGT56,Michael Gan,Michael Gan Peng Lam,M,Chinese,66,PN,026-GERAKAN,GERAKAN,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,4,DYG7F,Mohd Hamnaim Bin Mohamad,Mohd Hamnaim bin Mohamad,M,Malay,41,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.17 Bukit Katil,1,03YFA,Adly Zahari,Adly bin Zahari,M,Malay,55,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.17 Bukit Katil,2,HC69R,Ridzuan Sarif,Muhammad Ridzuan bin Mohd Sarif,M,Malay,42,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.17 Bukit Katil,3,MSWC1,Abu Bakar Bin Hj Sabudin,Abu Bakar bin Sabudin,M,Malay,65,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.17 Bukit Katil,4,R7JEA,Dr Aliza Binti Che Amran,Aliza binti Che Amran,F,Malay,46,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.18 Ayer Molek,1,Q4FYC,Mohd Ridhwan Mohd Ali,Mohd Ridhwan bin Mohd Ali,M,Malay,40,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.18 Ayer Molek,2,VN8GK,Hakimin Mokhtar,Muhamad Hakimin bin Mokhtar,M,Malay,35,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.19 Kesidang,1,Z2YJW,Dr Bryan Kek,Bryan Kek Kit Hun,M,Chinese,35,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.19 Kesidang,2,JEXB9,Allex Seah Shoo Chin,Seah Shoo Chin (Allex Seah),M,Chinese,43,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.19 Kesidang,3,2GMN5,Albert Kok,Albert Kok Boon Chang,M,Chinese,58,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.20 Kota Laksamana,1,NWKDJ,Low Chee Leong,Low Chee Leong,M,Chinese,56,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.20 Kota Laksamana,2,SA9FV,Melvin Chua,Melvin Chua Kew Wei,M,Chinese,48,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.20 Kota Laksamana,3,5YAQE,Ethan Lim Zhi Hao,Ethan Lim Zhi Hao,M,Chinese,35,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.21 Duyong,1,9C0SQ,Poo Long Suan,Poo Long Suan,M,Chinese,43,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.21 Duyong,2,DCKTN,Mohd Noor Helmy,Mohd Noor Helmy bin Abdul Halem,M,Malay,45,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.22 Bandar Hilir,1,CSPW0,Jasmine Lok,Jasmine Lok Huey Yee,F,Chinese,38,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.22 Bandar Hilir,2,QNP1G,Leng Chau Yen,Leng Chau Yen,F,Chinese,42,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.22 Bandar Hilir,3,G7CY9,Ir. Dr. Rashidi Jalil,Mohd Nor Rashidi bin Ab Jalil,M,Malay,50,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.23 Telok Mas,1,KN30J,Kapten (B) Mohamad Bin Jaafar,Mohamad bin Jaafar,M,Malay,66,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.23 Telok Mas,2,05NMD,Abdul Razak Abdul Rahman (Tok Ajak),Abdul Razak bin Abdul Rahman,M,Malay,53,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.23 Telok Mas,3,Q2S2V,Hazwan Mustafa,Muhammad Hazwan bin Mustafa,M,Malay,38,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.24 Bemban,1,TGF54,Muhammad Rabaie,Muhammad Rabaie bin Ab Hamid,M,Malay,45,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.24 Bemban,2,XY57D,Dr.Solehin Saleh,Muhammad Solehin bin Saleh,M,Malay,40,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.24 Bemban,3,8T4CX,Dr Yadzil,Mohd Yadzil bin Yaakub,M,Malay,48,PN,082-WAWASAN,WAWASAN,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.24 Bemban,4,1BV9P,Abd Halim Said,Abd Halim bin Said,M,Malay,58,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.25 Rim,1,4SHBZ,Esma Eazreen,Esma Eazreen binti Husin,F,Malay,45,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.25 Rim,2,FNGHF,Dira Abu Zahar,Khaidhirah binti Abu Zahar,F,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.26 Serkam,1,877E8,Datuk Azman Abdullah,Azman bin Abdullah,M,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.26 Serkam,2,BMXGH,Along Faiq,Muhammad Faiq bin Azman (Along),M,Malay,36,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.26 Serkam,3,F2KJT,Muhamad Saffie,Muhamad Saffie bin Md Yasan,M,Malay,53,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
+2026-11-14,SE-16,Melaka,N.27 Merlimau,1,XC8TK,Dr Akmal Saleh,Muhamad Akmal bin Saleh,M,Malay,38,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.27 Merlimau,2,JG9N3,Ayu Hamzah,Rahayu binti Hamzah,F,Malay,43,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.28 Sungai Rambai,1,NXZQC,Jezlee Pit,Jezlee bin Pit,M,Malay,52,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.28 Sungai Rambai,2,MBDP9,Aminuddin,Aminuddin bin Abdul Jalil,M,Malay,55,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.28 Sungai Rambai,3,SBNSN,Norrizan Bin Jantan,Norrizan bin Jantan,M,Malay,59,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,0,,1,pending
 1959-05-20,SE-01,Johor,N.01 Bukit Serampang,1,02WDN,Haji Hassan Bin Haji Yunos,Hassan bin Yunus,M,Malay,52,PERIKATAN,001-UMNO,UMNO,001-PERIKATAN,PERIKATAN,5429,76.80011317017966,1,won
 1959-05-20,SE-01,Johor,N.01 Bukit Serampang,2,KZ0QB,Haji Abdul Rahman Bin Mahmood,Abdul Rahman bin Mahmood,M,Malay,-1,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,743,10.510680435705192,3,lost_deposit
 1959-05-20,SE-01,Johor,N.01 Bukit Serampang,3,QCPSM,Omar Bin Ahmad,Omar bin Ahmad,M,Malay,-1,NEG,008-NEG,NEG,000-ALONE,ALONE,897,12.689206394115152,2,lost
