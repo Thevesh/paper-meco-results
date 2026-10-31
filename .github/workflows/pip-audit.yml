@@ -1,0 +1,19 @@
+name: pip-audit
+
+on:
+  push:
+    paths: ["pyproject.toml", "uv.lock"]
+  schedule:
+    - cron: "0 1 * * 1"  # Mondays 09:00 MYT
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Audit locked dependencies
+        run: |
+          uv export --frozen --no-emit-project --format requirements-txt > requirements.txt
+          uvx pip-audit -r requirements.txt --strict --disable-pip
