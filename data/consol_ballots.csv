@@ -19033,7 +19033,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2021-11-20,SE-15,Melaka,N.11 Sungai Udang,4,QPC1M,Mohd Zahar Bin Hashim,Mohd Zahar bin Hashim,M,Malay,63,BEBAS,000-BEBAS,BEBAS,000-ALONE,ALONE,471,3.028159958853028,4,lost_deposit
 2021-11-20,SE-15,Melaka,N.12 Pantai Kundor,1,V423X,Ts. Mohamad Ridzwan Bin Mustafa,Mohamad Ridzwan bin Mustafa,M,Malay,41,PN,107-BERSATU,BERSATU,011-PN,PN,3133,31.672058228871812,2,lost
 2021-11-20,SE-15,Melaka,N.12 Pantai Kundor,2,R664G,Datuk Nor Azman Bin Hassan,Nor Azman bin Hassan,M,Malay,57,PH,046-AMANAH,AMANAH,007-PH,PH,2799,28.29559239789729,3,lost
-2021-11-20,SE-15,Melaka,N.12 Pantai Kundor,3,YHR66,Tuminah Kadi,Tuminah binti Kadi,F,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,3960,40.03234937323089,1,won
+2021-11-20,SE-15,Melaka,N.12 Pantai Kundor,3,YHR66,Tuminah Kadi,Tuminah binti Kadi @ Mohd Hashim,F,Malay,54,BN,001-UMNO,UMNO,001-BN,BN,3960,40.03234937323089,1,won
 2021-11-20,SE-15,Melaka,N.13 Paya Rumput,1,1ZE8F,Datuk Rais Bin Yasin,Rais bin Yasin,M,Malay,37,BN,001-UMNO,UMNO,001-BN,BN,6830,39.683923072453666,1,won
 2021-11-20,SE-15,Melaka,N.13 Paya Rumput,2,6ET7A,Shamsul Iskandar Mohd Akin,Shamsul Iskandar bin Mohd Akin,M,Malay,47,PH,078-PKR,PKR,007-PH,PH,6201,36.02928359769915,2,lost
 2021-11-20,SE-15,Melaka,N.13 Paya Rumput,3,5D4AR,Muhammad Faris Izwan Bin Mazlan,Muhammad Faris Izwan bin Mazlan,M,Malay,28,PN,107-BERSATU,BERSATU,011-PN,PN,3972,23.07826390099355,3,lost
@@ -19094,7 +19094,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2021-11-20,SE-15,Melaka,N.27 Merlimau,2,XC8TK,Dr Akmal Saleh,Muhamad Akmal bin Saleh,M,Malay,33,BN,001-UMNO,UMNO,001-BN,BN,5633,58.433609958506224,1,won
 2021-11-20,SE-15,Melaka,N.27 Merlimau,3,GSYR3,Abd Alim Bin Shapie,Abd Alim bin Shapie,M,Malay,63,PN,004-PAS,PAS,011-PN,PN,1622,16.82572614107884,3,lost
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,1,0SYWW,Muhammad Jefri Bin Safry,Muhammad Jefri bin Safry,M,Malay,30,PN,107-BERSATU,BERSATU,011-PN,PN,2664,33.70018975332068,2,lost
-2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,2,47MZ5,Farzana Hayani Nasir,Farzana Hayani binti Nasir,F,Malay,21,PH,078-PKR,PKR,007-PH,PH,1356,17.15370018975332,3,lost
+2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,2,47MZ5,Farzana Hayani Nasir,Farzana Hayani binti Mohd Nasir (Nana),F,Malay,21,PH,078-PKR,PKR,007-PH,PH,1356,17.15370018975332,3,lost
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,3,7NB1E,Nazatul Asyraf Bin Md.Dom,Nazatul Asyraf bin Md Dom,M,Malay,38,PUTRA,112-PUTRA,PUTRA,000-ALONE,ALONE,84,1.0626185958254268,4,lost_deposit
 2021-11-20,SE-15,Melaka,N.28 Sungai Rambai,4,B313Q,Siti Faizah Binti Abdul Azis,Siti Faizah binti Abdul Azis,F,Malay,46,BN,001-UMNO,UMNO,001-BN,BN,3801,48.08349146110057,1,won
 2026-11-14,SE-16,Melaka,N.01 Kuala Linggi,1,R88EE,Mukhlis Mubin,Muhammad Mukhlisul Mubin bin Julasapiyah,M,Malay,25,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
@@ -19126,11 +19126,11 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2026-11-14,SE-16,Melaka,N.11 Sungai Udang,2,4T7C3,Ridzuan Rahman,Mohd Ridzuan bin Abdul Rahman,M,Malay,47,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.11 Sungai Udang,3,1ZE8F,Datuk Rais Bin Yasin,Rais bin Yasin,M,Malay,42,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
 2026-11-14,SE-16,Melaka,N.12 Pantai Kundor,1,87XEC,Dr. Asmah Samat,Asmah binti Samat,F,Malay,61,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
-2026-11-14,SE-16,Melaka,N.12 Pantai Kundor,2,BNKGN,Tuminah Kadi,Tuminah binti Kadi @ Mohd Hashim,F,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.12 Pantai Kundor,2,YHR66,Tuminah Kadi,Tuminah binti Kadi @ Mohd Hashim,F,Malay,59,BN,001-UMNO,UMNO,001-BN,BN,0,,1,pending
 2026-11-14,SE-16,Melaka,N.13 Paya Rumput,1,2F8BB,Haji Rafie Ahmad,Rafie bin Ahmad,M,Malay,58,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
 2026-11-14,SE-16,Melaka,N.13 Paya Rumput,2,F39JY,Abdul Rashid @ Rashid Karimi,Abdul Rashid bin Abu Bakar (Rashid Karimi),M,Malay,37,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.13 Paya Rumput,3,JGZN7,Datuk Azman Abidin,Azman bin Abidin,M,Malay,54,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
-2026-11-14,SE-16,Melaka,N.14 Kelebang,1,NYNQG,Farzana Hayani / Nana,Farzana Hayani binti Mohd Nasir (Nana),F,Malay,26,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
+2026-11-14,SE-16,Melaka,N.14 Kelebang,1,47MZ5,Farzana Hayani / Nana,Farzana Hayani binti Mohd Nasir (Nana),F,Malay,26,PH,078-PKR,PKR,007-PH,PH,0,,1,pending
 2026-11-14,SE-16,Melaka,N.14 Kelebang,2,GTZX2,Dato' Sri Mohamad Ali,Mohamad Ali bin Mohamad,M,Malay,62,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.14 Kelebang,3,SCBSS,Young Jie Yu,Young Jie Yu,M,Chinese,40,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.14 Kelebang,4,H8CTQ,Datuk Wira Lim Ban Hong,Lim Ban Hong,M,Chinese,49,BN,003-MCA,MCA,001-BN,BN,0,,1,pending
@@ -19140,7 +19140,7 @@ date,election,state,seat,ballot_order,candidate_uid,name_on_ballot,name,sex,ethn
 2026-11-14,SE-16,Melaka,N.15 Pengkalan Batu,4,G60MF,Datuk Norhizam Bin Hassan Baktee,Norhizam bin Hassan Baktee,M,Malay,60,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,1,7342X,Muhaimin Lau / Alan Lau,Muhammad Muhaimin Lau bin Abdullah (Alan Lau),M,Chinese,49,BERSAMA,106-BERSAMA,BERSAMA,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,2,TF2VA,Kerk Chee Yee,Kerk Chee Yee,M,Chinese,34,PH,021-DAP,DAP,007-PH,PH,0,,1,pending
-2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,3,AGT56,Michael Gan,Michael Gan Peng Lam,M,Chinese,66,PN,026-GERAKAN,GERAKAN,011-PN,PN,0,,1,pending
+2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,3,0TMX0,Michael Gan,Michael Gan Peng Lam,M,Chinese,66,PN,026-GERAKAN,GERAKAN,011-PN,PN,0,,1,pending
 2026-11-14,SE-16,Melaka,N.16 Ayer Keroh,4,DYG7F,Mohd Hamnaim Bin Mohamad,Mohd Hamnaim bin Mohamad,M,Malay,41,BERSATU,107-BERSATU,BERSATU,000-ALONE,ALONE,0,,1,pending
 2026-11-14,SE-16,Melaka,N.17 Bukit Katil,1,03YFA,Adly Zahari,Adly bin Zahari,M,Malay,55,PH,046-AMANAH,AMANAH,007-PH,PH,0,,1,pending
 2026-11-14,SE-16,Melaka,N.17 Bukit Katil,2,HC69R,Ridzuan Sarif,Muhammad Ridzuan bin Mohd Sarif,M,Malay,42,PN,004-PAS,PAS,011-PN,PN,0,,1,pending
